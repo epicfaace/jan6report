@@ -13,19 +13,21 @@
       flex: 1;
       border: 1px dotted black;
       overflow-x: auto;
-      box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
     }
 </style>
 
 <body class="loading">
     <main>
         <h1>Jan 6 documents search</h1>
-        <input type="text" id="search" />
-        <!-- <input type="submit" /> -->
+        <form id="searchform">
+          <input type="text" id="search" />
+          <input type="submit" id="submit" />
+        </form>
         <div id="results"></div>
     </main>
     <div class="loading">
-        Loading...
+        <h1>Jan 6 documents search</h1>
+        <img src="https://cdnjs.cloudflare.com/ajax/libs/galleriffic/2.0.1/css/loader.gif" alt="Loading...">
     </div>
 
     <script src="https://unpkg.com/lunr/lunr.js"></script>
@@ -47,8 +49,10 @@ function randChoice(arr) {
             window.idx = idx;
             window.content = content;
             document.body.classList.replace("loading", "loaded");
-            document.getElementById("search").onchange = e => {
-                const query = e.target.value;
+            // document.getElementById("search").onchange = e => {
+            document.getElementById("searchform").onsubmit = e => {
+                e.preventDefault();
+                const query = document.getElementById("search").value;
                 const initialResults = idx.search(query);
                 const results = [];
                 for (const result of initialResults) {
@@ -88,12 +92,14 @@ function randChoice(arr) {
                 }
                 document.getElementById("results").innerHTML = `${results.map(r => `
                     <div><strong>${r.title} (<a target=_blank href="${r.url}">Link</a>)</strong><br>
-                      <div class=content>${r.excerpts.map(e => `<div class=card>${e}</div>`)}</div></div>
+                      <div class=content>${r.excerpts.map(e => `<div class=card>${e}</div>`).join('')}</div></div>
                   <br>`).join('')}`;
                 new Mark(document.querySelectorAll('.content')).mark(query);
+                return false;
             }
         
-            document.getElementById("search").value = randChoice("Wisconsin", "Facebook", "Twitter", "Trump", "militia", "hurricane");
+            document.getElementById("search").value = randChoice(["Wisconsin", "Facebook", "Twitter", "Trump", "militia", "hurricane"]);
+            document.getElementById("submit").click();
           });
     </script>
 </body>
