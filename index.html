@@ -2,6 +2,16 @@
     body.loading main { display: none; }
     body.loaded .loading { display: none; }
     .highlight { background: yellow; }
+    .content {
+      max-height: 200px;
+      overflow: auto;
+      display: flex;
+      /* flex-wrap: wrap; */
+    }
+    .content .card {
+      width: 200px;
+      flex: 1;
+    }
 </style>
 
 <body class="loading">
@@ -18,56 +28,8 @@
     <script src="https://unpkg.com/lunr/lunr.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/pako/2.1.0/pako.min.js" integrity="sha512-g2TeAWw5GPnX7z0Kn8nFbYfeHcvAu/tx6d6mrLe/90mkCxO+RcptyYpksUz35EO337F83bZwcmUyHiHamspkfg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/mark.min.js" integrity="sha512-5CYOlHXGh6QpOFA/TeTylKLWfB3ftPsde7AnmhuitiTX4K5SqCLBeKro6sPS8ilsz1Q4NRx3v8Ko2IBiszzdww==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <script>
-
-// From https://gist.github.com/evenfrost/1ba123656ded32fb7a0cd4651efd4db0
-const highlight = (fuseSearchResult, highlightClassName = 'highlight') => {
-  const set = (obj, path, value) => {
-      const pathValue = path.split('.');
-      let i;
-
-      for (i = 0; i < pathValue.length - 1; i++) {
-        obj = obj[pathValue[i]];
-      }
-
-      obj[pathValue[i]] = value;
-  };
-
-  const generateHighlightedText = (inputText, regions = []) => {
-    let content = '';
-    let nextUnhighlightedRegionStartingIndex = 0;
-
-    regions.forEach(region => {
-      const lastRegionNextIndex = region[1] + 1;
-
-      content += [
-        inputText.substring(nextUnhighlightedRegionStartingIndex, region[0]),
-        `<span class="${highlightClassName}">`,
-        inputText.substring(region[0], lastRegionNextIndex),
-        '</span>',
-      ].join('');
-
-      nextUnhighlightedRegionStartingIndex = lastRegionNextIndex;
-    });
-
-    content += inputText.substring(nextUnhighlightedRegionStartingIndex);
-
-    return content;
-  };
-
-  return fuseSearchResult
-    .filter(({ matches }) => matches && matches.length)
-    .map(({ item, matches }) => {
-      const highlightedItem = { ...item };
-
-      matches.forEach((match) => {
-        set(highlightedItem, match.key, generateHighlightedText(match.value, match.indices));
-      });
-
-      return highlightedItem;
-    });
-};
-
 
         Promise.all([fetch("content.json.gz"), fetch("idx.json.gz")]).then(e => e).then(async ([contentData, idxData]) => {
             const uncompressToJSON = async file => {
@@ -80,7 +42,7 @@ const highlight = (fuseSearchResult, highlightClassName = 'highlight') => {
             window.idx = idx;
             window.content = content;
             document.body.classList.replace("loading", "loaded");
-            document.getElementById("search").oninput = e => {
+            document.getElementById("search").onchange = e => {
                 const query = e.target.value;
                 const initialResults = idx.search(query);
                 const results = [];
@@ -89,26 +51,41 @@ const highlight = (fuseSearchResult, highlightClassName = 'highlight') => {
                     const matchFields = Object.keys(matchData.metadata[Object.keys(matchData.metadata)[0]]);
                     const documentInfo = content[ref];
                     const { content: documentContent, ...restofDocumentInfo } = documentInfo;
-                    // const fuse = new Fuse([{content: documentInfo.content}], {
-                    //     keys: ['content'],
-                    //     includeMatches: true
-                    // });
-                    const highlightedContent = "";
-                    // const highlighted = highlight(fuse.search(query));
-                    // const highlightedContent = highlighted[0] ? highlighted[0].content: '';
-                    // const highlighted = "test";
+                    const BUFFER = 50;
+                    const matchIndices = [...documentContent.toLowerCase().matchAll(query.toLowerCase())].map(e => e.index);
+                    const excerpts = [];
+                    for (let index of matchIndices) {
+                      excerpts.push(
+                        documentContent.substring(
+                          Math.max(0, index - BUFFER),
+                          Math.min(documentContent.length, index + query.length + BUFFER)
+                        )
+                      );
+                    }
+                    // const firstIndex = documentContent.toLowerCase().indexOf(query.toLowerCase());
+                    // const lastIndex = documentContent.toLowerCase().lastIndexOf(query.toLowerCase());
+                    // let contentExcerpt = '';
+                    // 
+                    // if (firstIndex === -1) {} else if (lastIndex === -1) {
+                    //   contentExcerpt = documentContent.substring(Math.max(0, firstIndex - BUFFER), Math.min(documentContent.length, firstIndex + query.length + BUFFER));
+                    // } else {
+                    //   contentExcerpt = documentContent.substring(Math.max(0, firstIndex - BUFFER), Math.min(documentContent.length, lastIndex + BUFFER));
+                    // }
                     results.push({
                         matchFields,
                         url: documentInfo.url,
                         title: documentInfo.title,
                         documentInfo: restofDocumentInfo,
-                        highlightedContent,
+                        excerpts,
+                        // highlightedContent,
                         score
                     });
                 }
                 document.getElementById("results").innerHTML = `${results.map(r => `
-                    <div><strong>${r.title} (<a href="${r.url}">Link</a>)</strong><br>${r.highlightedContent}</div>
+                    <div><strong>${r.title} (<a href="${r.url}">Link</a>)</strong><br>
+                      <div class=content>${r.excerpts.map(e => `<div class=card>${e}</div>`)}</div></div>
                   <br>`).join('')}`;
+                new Mark(document.querySelectorAll('.content')).mark(query);
             }
         });
     </script>
