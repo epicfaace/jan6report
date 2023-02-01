@@ -1,0 +1,1476 @@
+1 
+2 
+3 
+4 SELECT COMMITTEE TO INVESTIGATE THE 
+5 JANUARY 6TH ATTACK ON THE U.S. CAPITOL, 
+6 U.S. HOUSE OF REPRESENTATIVES, 
+7 WASHINGTON, D.C. 
+8 
+9 
+10 
+11 INTERVIEW OF: ELAINE L. CHAO 
+12 
+13 
+14 
+15 Thursday, August 4, 2022 
+16 
+17 
+18 
+19 
+20 Washington, D.C. 
+The interview in the above matter was held via Webex, commencing at 2:03 p.m. 1  1 
+2 Appearances: 
+3 
+4 
+5 For the SELECT COMMITTEE TO INVESTIGATE 
+6 THE JANUARY 6TH ATTACK ON THE U.S. CAPITOL: 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 INVESTIGATIVE COUNSEL 
+CHIEF INVESTIGATIVE COUNSEL 
+INVESTIGATIVE COUNSEL 
+PROFESSIONAL STAFF MEMBER 
+15 For ELAINE L. CHAO: 
+16 
+17 STEWART CROSLAND 
+18 JAMES BURNHAM 2  1 
+2 Good afternoon, everyone. This is a transcribed interview of 
+3 Secretary Elaine Chao conducted by the House Select Committee to Investigate the 
+4 January 6th Attack on the United States Capitol pursuant to House Resolution 503. 
+5 Secretary Chao, thank you very much for being here. Could you please state 
+6 your full name and spell your last name for the record? 
+7 Ms. Chao. The full name is Elaine L. Chao, C-h-a-o. 
+8 
+9 
+10 ~ And you are represented, I see, by counsel. 
+Counsel, if you could introduce yourselves as well. 
+Mr. Crosland. Yeah. My name is Stewart Crosland. Stewart is S-t-e-w-a-r-t, 
+11 and the last name is Crosland, C-r-o-s-1-a-n-d. 
+12 Mr. Burnham. And my name is James Burnham, J-a-m-e-s, B-u-r-n-h-a-m, from 
+13 Jones Day. 
+14 
+15 Great. Thank you, Stewart and James. 
+And, again, welcome, Secretary Chao. My name is-. I'm the chief 
+16 investigative counsel to the select committee. With me from the committee today are 3 
+17 and . - is an investigative counsel-is 
+18 a professional staff member. 
+19 This will be a staff-led interview. If any members of the committee join via the 
+20 Webex platform, I will stop and note their presence, Secretary Chao, so you will be aware 
+21 of that. Sometimes they may choose to ask a question and we'll facilitate that as well. 
+22 There's an official reporter who is transcribing the record of the interview. 
+23 Please wait until each question's complete before you begin your response, and we will 
+24 try to wait until your response before asking our next question. Just keep in mind that 
+25 the court reporter can't record nonverbal answers, like shaking your head. So it's  4 
+1 important that you answer each question with an audible, verbal response. 
+2 We just ask that you provide complete answers based on your best recollection. 
+3 If a question isn't clear, then just ask for clarification. And if you don't know the answer, 
+4 then just say so. 
+5 Although this interview is not under oath, it's voluntary, I just have to remind 
+6 you --and this is not specific to you, this is a standard admonition --that it is unlawful to 
+7 deliberately provide false information to Congress. 
+8 Do you understand all of those guide rules before we get started? 
+9 Ms. Chao. Yes. 
+10 - Great. And, obviously, if you need a break at anytime, if you want 
+11 to consult with counsel, or if you just need a break for any purpose, just say the word and 
+12 we will accommodate that. 
+13 EXAMINATION 
+14 BY 
+15 Q All right. Secretary Chao, let's --again, thank you. You are here --1 just 
+16 want to make clear from the outset that you're here voluntarily, not pursuant to a 
+17 subpoena or any process, and just on behalf of the committee, wanted to thank you again 
+18 for that. 
+19 I do want to show you one document, which I believe your counsel have already 
+20 received, it's exhibit 1, and it's a letter from the current White House Counsel's Office. 
+21 _, if you can put that on the screen. 
+22 This is a letter, Secretary Chao, that was sent, I believe, to your counsel and copied 
+23 to us, that indicates that the current White House Counsel does not believe that any 
+24 assertion of executive privilege would be appropriate based on questions that we intend 
+25 to ask you.  1 Do you have any questions about this or understand the views of the current 
+2 administration about executive privilege? 
+3 
+4 
+5 
+6 A I have no questions. 
+Q Okay, great. 
+All right. _, you can take that back down. 
+So let's just start with a little bit about your background. You have had a really 
+7 extensive and impressive record in public service, and I would love for you to start from 
+8 your time at Mount Holyoke and Harvard Business School and just give us a quick 
+9 summary of all of the interesting and impressive things you've done since then. 
+10 A I went to college and then to business school. And upon graduation, I 
+11 entered Citibank. Then was a White House fellow. I went back to banking, to Bank of 
+12 America, and was subsequently asked to come back as a deputy maritime administrator. 
+13 Came back for that position. And then I was chairman of the Federal Maritime 
+14 Commission. And subsequent to that, deputy secretary of Transportation. And 
+15 subsequent to that, director of the Peace Corps. And then president and CEO of United 
+16 Way of America. And I left that to go with a think tank, and then was nominated for 5 
+17 Secretary of Labor in 2001. And then left in 2009 and went into the private sector again, 
+18 and was nominated and confirmed for the Secretary of Transportation in 2017. 
+19 
+20 
+21 
+22 
+23 Q 
+A 
+Q And served until your resignation on January 7th of 2021? 
+Correct. 
+Right. And we'll come back to that. 
+What have you been doing since leaving the job as Secretary of Transportation? 
+A I've been spending some time with my family, much neglected I have to say. 
+24 And I'm also now professionally with a think tank, I'm on a number of boards, nonprofit 
+25 and corporate boards, and I'm enjoying life.  1 Q Good. I'm looking forward to being able to say that at some point in the 
+2 near future as well. Spending time with family in particular. 
+3 So let's go right to January 6th. I would love to just begin with where you were 
+4 that day. Were you in Washington or elsewhere? 
+5 A I was in Washington. 
+6 Q Okay. Were you aware of plans, Secretary Chao, before the 6th, for the 
+7 Ellipse rally at which President Trump spoke? 
+8 
+9 A Slightly. But I didn't pay attention --very much attention to it. 
+Q I see. So I take it you had no involvement in discussions of speakers or 
+10 planning for the Ellipse or other events planned for that day in Washington? 
+11 
+12 A No. 
+Q Okay. Had you heard anything prior to the 6th about the possibility of civil 
+13 unrest or violence anywhere associated with that event or at the Capitol? 
+14 
+15 A 
+Q 
+16 events? 
+A No. 
+Privy to any intelligence about crowds gathering or expectations for those 
+No. 17 
+18 Q Okay. I take it, then, that you didn't attend the rally at the Ellipse, the 
+19 President's speech? 
+20 
+21 
+22 A 
+Q 
+A No. 
+How did you first, then, become aware of violence at the Capitol? 
+I was at the Department, and I was taking farewell photographs with 
+23 employees. So there was a long line, and that took about the afternoon. And an 
+24 assistant came in at about, I think, 3:30, and said that the Capitol had been breached, I 
+25 think that was the word. 6  1 Q I see. So before that moment when your assistant gave you that notice, 
+2 you were not aware of anything from television or other sources? 
+3 
+4 A 
+Q I was taking photographs with departing --
+Yeah, understood. Did you watch or listen to the President's speech or 
+5 have any information about what he said at the Ellipse? 
+No. It was a busy -­
+Okay. 
+It was a busy day. 7 
+6 
+7 
+8 
+9 A 
+Q 
+A 
+Q Yeah. When you got that word at, you said around 3:30, what if any official 
+10 action did you take in your position as the Secretary in the wake of or upon notice of the 
+11 unrest at the Capitol? 
+12 A I was in the middle of taking pictures. There was a long queue of 
+13 colleagues who were waiting a long time to take their photograph. And I didn't really 
+14 quite understand what the assistant told me, squeezed in between all of these, you know, 
+15 the click of the camera. I didn't quite understand. 
+16 Q At some point, did you get additional information and more clarity about 
+17 what was going on at the Capitol? 
+18 
+19 A 
+Q It was probably at the end of the day. 
+Okay. After the violence had been essentially stopped or law enforcement 
+20 had moved in? I'm just trying to get a sense of when you were sort of fully aware of 
+21 what was --
+22 A I don't --yeah. I don't know, because I wasn't aware of what was --too 
+23 much as to what was happening. There were so many things happening at the 
+24 Department. So I can't tell you when the violence stopped because I wasn't sure at that 
+25 time.  1 Q Yeah. And the Department of Transportation is some distance from the 
+2 Capitol. It didn't require any physical security or anything like that within the 
+3 Department? 
+4 
+5 A 
+Q No. We're a ways away. 
+Yeah, I understand. All right. At any point on January 6th, did you talk to 
+6 or attempt to talk to anyone at the White House? 
+No. 8 
+7 
+8 A 
+Q Did you reach out to the President, the chief of staff, anyone there, once you 
+9 became aware of the violence? 
+10 
+11 
+12 
+13 A 
+Q 
+A 
+Q No. 
+Okay. How about the Vice President or any members of his staff? 
+No. 
+Did you --have you ever learned of others who had conversations with 
+14 President Trump himself on January 6th? If you didn't have them, anyone recount for 
+15 you that they had conversations with him that day? 
+16 
+17 A 
+Q You mean at that time or afterwards? 
+At any point afterwards. I'm just wondering if you're aware of who the 
+18 President may have spoken to during the day of January 6th. 
+19 A No. Aside from what I've read in the newspapers, I don't have any idea. 
+20 And I'd left by then. 
+21 Q Yeah. And I appreciate that answer, Secretary Chao. I'm looking here for 
+22 your personal knowledge, not the stuff that you have read about in the newspaper, and I 
+23 appreciate that distinction. 
+24 
+25 A 
+Q No, I don't --I don't know of anybody personally that had spoken with him. 
+Okay. How about other members of the Cabinet? Like, once you became  9 
+1 aware that afternoon or evening of violence, did you have conversations with any of your 
+2 colleagues within the Cabinet? 
+3 A No. There --there was one person who publicly, I think, said that they 
+4 spoke with me, but I have very little recollection. 
+5 Q Yeah. Secretary Scalia actually has been before the select committee, and 
+6 he has, yes, exactly, said that he believes he had a conversation with you, that you called 
+7 him that evening, the evening of January 6th. 
+8 Do you remember speaking to Secretary Scalia that evening? 
+9 
+10 A 
+Q I don't. 
+Do you remember speaking to him at any time about the events at the 
+11 Capitol, or tell us then about, even if you can't place it in time, the first conversation you 
+12 had with Secretary Scalia? 
+13 A 
+14 Secretary. 
+15 
+16 
+17 Q 
+A 
+Q 
+18 to resign? 
+19 
+20 
+21 
+22 
+23 A 
+Q 
+A 
+Q 
+A I don't remember. He and I speak about labor issues because I was a Labor 
+Okay. 
+So we would speak labor issues when he was Secretary. 
+Okay. Did you ever talk to him about January 6th and about your decision 
+No. 
+At any time? 
+[Inaudible] decision. 
+I'm sorry. I interrupted you. Say that again. 
+I did not talk to him about resignation. 
+24 Q Okay. Scalia indicated in his testimony that you discussed the attack on the 
+25 Capitol and how horrible it was; that you asked him what you thought they, meaning the  10 
+1 two of you, should do. He replied that he was disturbed but wanted to think about it 
+2 some more, and that you and he agreed to talk again on the 7th. 
+3 Again, does his description of that conversation refresh your recollection or help 
+4 you recall a conversation like that with James Scalia? 
+A little bit, vaguely, but I don't remember too much about the details. 5 
+6 A 
+Q Okay. Beyond what I just read, Secretary Scalia's recollection, do you have 
+7 anything else that was discussed with him? 
+8 A I don't remember. It was a pretty shocking day. 
+9 Q Yeah. Yeah. Obviously, for everyone, but I get --I got the sense from 
+10 Secretary Scalia that you were --his view was that you were reaching out for him, looking 
+11 for some advice or some guidance about what the appropriate response was. Is that 
+12 accurate? 
+13 
+14 A 
+Q It's possible. 
+Did you reach out to others for advice and guidance as you contemplated 
+15 what to do in the wake of the violence at the Capitol? 
+16 A I doubt it. I don't think so. 
+17 Q The decision you made was strictly yours and not informed by discussions 
+18 with Secretary Scalia or others? 
+19 
+20 A 
+Q Not at all. 
+Do you remember whether you spoke to any other colleagues in the Cabinet 
+21 besides Secretary Scalia? 
+22 
+23 A 
+Q No. I don't speak that often with other colleagues. 
+Okay. All right. Do you recall talking with Secretary Scalia about the 25th 
+24 Amendment, the possible Cabinet invocation of the 25th Amendment? 
+25 A I do not.  1 Q How about others, did you ever participate in a conversation on that topic 
+2 with anyone? 
+3 
+4 A 
+Q No. 
+Secretary Scalia has testified also that he suggested, and I believe this was 
+5 the next day, that the Cabinet should convene, should actually have a meeting with the 
+6 President to discuss decisionmaking for the last couple of weeks of the administration. 
+7 Do you remember discussing that prospect of a Cabinet meeting with Secretary 
+8 Scalia? 11 
+9 A I don't. You know, this is the waning days of the administration. We were 
+10 getting ready to leave. I was very concerned about my appointees, and that's what I 
+11 was focused on, helping them get placed, helping to out-place them, helping them get 
+12 jobs, and, you know, basically tidying up, getting organized and leaving. 
+13 Q Yeah. Of course, completely understand, Secretary Chao. But it was also 
+14 a very shocking day and one that led to your resignation, which I'll get to. So it's a big 
+15 decision to leave even a couple of weeks early. I'm just wondering if you consulted with 
+16 others and particularly --
+17 
+18 
+19 A 
+Q 
+A No. 
+--given Secretary Scalia's testimony that you had a conversation with him. 
+I would not even --Secretary Scalia is an honorable man. He would not 
+20 have said it if it didn't happen, but I have no recollection of it. And I would not have 
+21 consulted him or anybody else on that kind of a decision. 
+22 
+23 Q 
+A Let's talk about the decision. Tell us when you made the decision to resign. 
+You know --when did I make the decision? That's kind of a hard question 
+24 to answer. It kind of developed as more information came in as to what happened and 
+25 the full ramifications of the actions that were taken by some people and the results that  12 
+1 occurred. I think it was --it was developing. 
+2 But as I mentioned, when I was first told, I didn't understand what that --I mean, 
+3 it was so inconceivable, I didn't understand it. 
+4 
+5 Q 
+A Yeah. 
+I couldn't understand it. Then I had a full day of events that I had to go 
+6 through, and it was probably at the end of the day that, you know, I --I probably learned, 
+7 turned on the television, for example. I don't know, but it was probably toward the end 
+8 of the day that I began to kind of pay more attention, obviously, and the full weight of 
+9 what had happened, and then seeing the visuals weighed on me. 
+10 Q Yeah. You said that the full ramifications of actions taken by some people. 
+11 Tell us more about what you mean by that. How did that --what were those actions, 
+12 who were those people, and how did that influence your decision? 
+13 A Both positive and negative. I mean, the bravery of the U.S. Capitol Police 
+14 and, you know, those who were hurt, those who were trying to defend the Capitol, and 
+15 then the actions of the intruders and how they broke through the glass. 
+16 I did not actually see too much footage on the rally outside. It was much more 
+17 the break-in, the attack on the Capitol itself. 
+18 Q Okay. I'm curious as to how the bravery of the police or the violence of the 
+19 rioters made you think that resignation was appropriate. Tell us more about why that 
+20 became, in your mind, and you took that action that you needed to step away from your 
+21 position in the Trump administration. 
+22 A Well, I think my statement, which came out the following morning, speaks 
+23 for itself. 
+Q I'll just read a couple of parts of that and ask you to comment on it. 24 
+25 Your resignation letter, first to President Trump, discussed the accomplishments  13 
+1 of the Department during his administration. And you said, Lastly --this is a quote: 
+2 Lastly, I had planned on serving through to the end of your term in office, but after 
+3 yesterday's events at the U.S. Capitol, I will resign as U.S. Secretary of Transportation 
+4 effective Monday, January 11th, to provide a short period of transition. 
+5 So tell me more, why it is, again, that instead of serving until the end of the 
+6 administration, the events at the Capitol made you leave early? 
+7 A I think the events at the Capitol, however they occurred, were shocking, and 
+8 it was something that, as I mentioned in my statement, that I could not put aside. 
+9 Q Did you have trouble continuing to serve in President Trump's Cabinet 
+10 because of his actions that led to or moved people toward the Capitol that day? 
+11 A You know, it's always --it used to be that it is an honor to serve. And if the 
+12 President asked you to serve, there's only one answer. I am grateful for the opportunity 
+13 to have served my country. And at a particular point, the events were such that it was 
+14 impossible for me to continue, given my personal values and my philosophy. 
+15 I came as an immigrant to this country. I believe in this country. I believe in 
+16 the peaceful transfer of power. I believe in democracy. And so I was --it was a 
+17 decision that I made on my own. 
+18 Q I understand, Secretary Chao, and I, again, very much appreciate that 
+19 commitment to public service. 
+20 I guess my question is, did you feel like President Trump somehow failed to meet 
+21 the moment on January 6th, and that resulted in you being unable to continue to serve, 
+22 even for 10 more days, in his Cabinet? 
+23 
+24 
+25 A 
+Q 
+A I wish that he had acted differently, yes. 
+How so? 
+Well, you have heard of many, many people offer suggestions. I had --I  14 
+1 wish that he had called a halt to the violence. 
+2 Q Did you, at any point over the course of the day, encourage him to do so, 
+3 directly or indirectly? 
+4 A I did not call him, nor --I did not --yeah, I did not call him. 
+5 Q I understand. Are you aware of others who did and yet he refused to call a 
+6 halt, in your words, to the violence? 
+7 
+8 A 
+Q I'm not --I was not in conversation with other people who had called him. 
+Okay. Why was it, Secretary Chao, that his failure to act sooner was of 
+9 such magnitude that you felt like you needed to leave immediately as opposed to stay 
+10 through the end of the term? Explain that decision more if you can. 
+11 A Well, I think in politics, once you say you're leaving, you're leaving, and 
+12 there's no sense staying around. So I stayed around for 4 days to facilitate a good 
+13 transition for my successor, to take care of loose ends with those who have worked with 
+14 me and needed my help. 
+15 I was writing recommendation letters. I wanted to --giving referrals. I wanted 
+16 to finish that to make sure that they were taken care of. 
+17 Q I understand. But Secretary Scalia, for instance, decided to stay until the 
+18 very end, and you did not. And I'm curious, again, as to why you felt like you needed to 
+19 hasten your plans to leave as opposed to continue to do --to facilitate the transition 
+20 through January the 20th. 
+21 A Well, Secretary Scalia had his reasons, as did others, for staying. I had my 
+22 reasons for leaving. And as I stated in my resignation statement, I think the events of 
+23 that day were such that I just could not stay. 
+24 Q In your letter to your colleagues at the Department of Transportation, which 
+25 you, I think, actually posted on Twitter, you were a bit more explicit in your  15 
+1 condemnation of the President's role in the attack and said this about your decision: 
+2 Yesterday our country experienced a traumatic and entirely avoidable event as 
+3 supporters of the President stormed the Capitol building following a rally he addressed. 
+4 As I am sure is the case with many of you, it has deeply troubled me in a way that I simply 
+5 cannot set aside. 
+6 So let me just ask you about a couple of the words that you chose. A entirely 
+7 avoidable event. What did you mean when you said that the events of the 6th at the 
+8 Capitol were entirely avoidable? 
+9 A Well, as I said in the beginning as you started to ask me, my statement 
+10 speaks for itself. But I think avoidable means, you know, hopefully he and others 
+11 could've put a stop to the rampage and to the violence. 
+12 Q I see. So your view was, if he had more forcefully called a halt to it or 
+13 condemned the violence, it would not have escalated to the point that it did? 
+14 
+15 A 
+Q I think that's an accurate assessment. 
+Okay. You also, in your letter to your colleagues at the Department, say 
+16 that supporters of the President stormed the Capitol building following a rally he 
+17 addressed, essentially connecting the storming to the address. 
+18 Tell me more about your view of how his words impacted the actions of the 
+19 rioters at the Capitol. 
+20 A Well, at that time, I didn't know fully what his words were, but they were 
+21 enough to --and, also, it was reported as such that he had, instead of asking his 
+22 supporters to go home --and he did do that later on but not at the outset. 
+23 And, you know, if the rally hadn't happened, maybe the breach of the Capitol 
+24 would not have occurred. Maybe if some people had spoken more evenly and talked 
+25 more about, you know, our democratic institutions, without stirring people's passions and  16 
+1 inflaming some of the very earnest but excited supporters, perhaps all of this would not 
+2 have happened. 
+3 Q Understood completely, Secretary Chao. So it sounds like you believed that 
+4 his words at the Ellipse bore some responsibility for the violence that occurred at the 
+5 Capitol. Is that right? 
+6 A Well, they did not calm things down, and that was a possibility and an option 
+7 that could've been pursued. 
+8 Q You say in your letter that it has deeply troubled you in a way that you 
+9 simply cannot set aside. Tell us more about the sort of emotional reaction that you had 
+10 to it and why it was such that you just could no longer serve in the very important role in 
+11 which you were then serving. 
+12 A Well, I think it --when something as basic as a discussion of what our 
+13 democracy is supposed to be like, when that doesn't jibe with your own personal 
+14 philosophy, I think it's time to go. 
+15 Q Yeah. When you made your decision to resign, did you notify anyone 
+16 officially? Did you call the President or anyone at the White House? 
+17 A I called the chief of staff. 
+18 
+19 
+20 
+21 Q 
+A 
+Q 
+A Okay. Tell me about that. Did you reach Mr. Meadows? 
+I did. 
+Tell us about the conversation with him. 
+It was the morning of January 7th, and I said to him basically what I said in 
+22 my resignation statement, and said that I had planned to announce my departure shortly. 
+23 Q Did he react? Did he provide any pushback or any feedback to you about 
+24 your decision? 
+25 A No. He basic---I can't remember what he said, but it was a short  17 
+1 conversation. He was --I mean, he took the message and said that he would relay it to 
+2 the President. 
+3 
+4 Q 
+A I see. Did he try to talk you out of it? 
+I think we both knew at that time that that was not going to be a successful 
+5 conversation. 
+6 Q I see. Did he express any of his personal views about what had occurred at 
+7 the Capitol the day before? 
+8 
+9 
+10 
+11 A 
+Q 
+A 
+Q No. 
+Did he characterize it in any way similar to how you felt about those events? 
+No. He did not say --he did not express his own opinions. 
+I see. Did he give you any information about his role in encouraging the 
+12 President to do something the previous day or give you any information about what he 
+13 did during the riot? 
+14 
+15 A 
+Q No. 
+You weren't the only Cabinet member who resigned that day. Secretary 
+16 DeVos did. Did you ever speak with her about her decision to resign at the same time? 
+17 A I think I resigned ahead of her. 
+18 Q I think you're right. And it was around the same time. Did you ever speak 
+19 to her about her decision or yours? 
+20 
+21 A 
+Q No. 
+Okay. How about, again, other members of the Cabinet, after you 
+22 resigned, did you explain to them your decision, discuss why you took the steps you did? 
+23 
+24 A 
+Q No. 
+Now, going back to Secretary Scalia, he indicated that part of the reason that 
+25 he did not resign is that he was concerned that the President might put someone worse  18 
+1 in, in the wake of that. And we've heard that from others. Pat Cipollone, for example, 
+2 similarly said his decision about resignation was informed by fear that there could be sort 
+3 of a worse --was their term --installed leader. 
+4 Did you have any of those concerns, Secretary Chao, that the President could 
+5 install someone worse than you or you --was that at all a factor in your decision? 
+6 A Not really. I ran a pretty organized Department, and we knew who would 
+7 be the next person when I stepped down. 
+8 
+9 the --
+10 
+11 Q 
+A 
+Q I assume that would be --the deputy secretary would ascend to become 
+The acting. The Acting Deputy Secretary. 
+Acting deputy, I see. And did that occur, the acting deputy became the 
+12 Acting Secretary? 
+13 A Yes. 
+14 Q I see. Okay. Did you seek to convey your decision directly to the 
+15 President? I mean, he's the person that had hired you. Did you want to talk to him 
+16 directly to inform him about your reasons for resignation? 
+17 
+18 
+19 A 
+Q 
+A No. 
+Why not? 
+I don't think that would've been a useful --I don't think that would've been a 
+20 productive conversation. 
+21 
+22 Q 
+A Why not? 
+He probab---he has his own point of view. I have my point of view. And 
+23 I did the courtesy of notifying him, through his chief of staff, in advance of my 
+24 announcement. I think that was sufficient. 
+25 Q Yeah. Were you mad at him? Were you frustrated with him? Were you  19 
+1 worried that it would be a bad, acrimonious conversation? 
+2 A No. 
+3 Q When you say you didn't think it would be productive, I think was the word 
+4 you used, or constructive, tell me more about that. Why did you fear it wouldn't be a 
+5 productive or a constructive conversation? 
+6 A I'm not so sure what would've been the point. Most people like to talk 
+7 because they like to talk. Most people like to talk because they want to make --you 
+8 know, they want --they wanted something. I mean, it was pretty clear what had 
+9 happened. 
+10 I had made my decision. It was a personal and private decision. I didn't have to 
+11 convince anyone. I didn't owe anything to anyone. And as a matter of courtesy, I 
+12 notified the White House of my decision prior to the announcement. 
+13 Q I appreciate that. So, again, I won't belabor this, but you don't recall 
+14 consulting with anyone else about this before you made the decision, it was strictly 
+15 yours? 
+16 
+17 A 
+Q Yes. 
+Okay. Before we leave January 6th, let me just make sure if there's --I 
+18 understand you didn't try to call anyone at the White House. Did you talk to any people 
+19 in the Capitol over the course of the afternoon? And I'm not trying to pry into --
+20 
+21 A 
+Q No, not at all. 
+--spousal communications. I'm just curious if you reached out, in concern 
+22 or otherwise, to people who were literally victims who were there in secure locations in 
+23 the Capitol during the riot. 
+24 
+25 A 
+Q I checked in on my husband. 
+Okay. Anyone else in Congress?  20 
+1 A No. I mean, I hope it's understood, you know, in the --it was a transition. 
+2 I've been through transitions before, and there are lots of things to do. I'm a veteran, 
+3 and there's a lot of things to wrap up. 
+4 I cared about my Department, I cared about my people, and I was trying to, you 
+5 know, make sure that the Department was ready to receive the next Secretary. So it 
+6 was --it was pretty busy, so --
+7 Q Yeah. I know you have a lot of close relationships with people across 
+8 government, and I'm just wondering if you reached out --again, I appreciate that you 
+9 called your husband to check on him, but were there others, friends, professional 
+10 colleagues, about whom you were concerned and potentially reach out to express that 
+11 concern? 
+12 A No. Actually, I'm not a very --no, I did not. Not that I didn't care about 
+13 them, but I'm not the kind of person that gets on the phone and just, like, gossips a lot. 
+14 I don't do that. 
+15 Q The President issued a series of tweets or statements over the course of the 
+16 afternoon. Were you aware of them in real time, following them, or had anyone 
+17 recount to you the things that he said over the course of the afternoon via Twitter? 
+18 
+19 A 
+Q No. 
+I think you said before that you weren't even aware that there was any issue 
+20 at the Capitol until 3-something in the afternoon and presumably wasn't aware of 
+21 anything he said before that? 
+22 A No, because, again, that afternoon --if you have a group of people, they're 
+23 all waiting for you and they're --they're in a line, and you're offering them --this is the 
+24 first time they've had --this is the last time they think they're going to see the Secretary. 
+25 And, you know, these are people we've worked together and it's an opportunity  21 
+1 for me and each person just to chat a little bit, you know, about how are you and what's 
+2 going on, because these opportunities don't come that often. 
+3 So I had a line of people, and I was greeting and chatting with these, you know, 
+4 colleagues, and they were looking forward to it. They got all dressed up, and they were 
+5 looking forward to the photograph with the Secretary and the 2 minutes or whatever 
+6 they can get with the Secretary to speak with her, and I wanted to make those moments, 
+7 you know, memorable, and good ones for my colleagues. 
+8 
+9 Q Yeah. I fully appreciate that. 
+The President at 2:24 tweeted --the first thing he said during the riot was: Mike 
+10 Pence didn't have the courage to do what should've been done to protect our country 
+11 and our Constitution. 
+12 It was openly critical of the Vice President. I'm wondering if you ever, at any 
+13 point, talked to the Vice President about his decision, what he did on January 6th, 
+14 anything having to do with that day. 
+15 
+16 A 
+Q No. And I did not learn of that sentence until much further on. 
+I see. And I appreciate that you didn't know about it in real time. When 
+17 you did hear about that statement, what was your reaction, much later on? 
+18 A It's a very unkind, unfair statement on a Vice President who was extremely 
+19 loyal throughout his whole tenure. 
+20 Q Yeah. How do you feel, Secretary Chao, about what Vice President Pence 
+21 himself did during the joint session, his decision to certify the duly submitted electors 
+22 from the States around the country? 
+23 A The Vice President did what was right. He did --he carried out his 
+24 constitutional duties. 
+25 Q Have you ever, to this day, conveyed that to him, that respect and  22 
+1 appreciation for what he did that day? 
+2 
+3 
+4 
+5 
+6 
+7 
+8 A 
+Q 
+A 
+Q 
+A 
+Q 
+A I did not. Pretty much after an administration people scatter. 
+Okay. So no subsequent contact with Vice President Pence? 
+I don't think --there was maybe --at a funeral. 
+And was that just pleasantry or discussion of --
+No, no. 
+--that you respect and appreciate what --
+Yeah. We were there at --I think it was --I can't remember whose funeral 
+9 it was, we were there at the same time. 
+10 Q Okay. So it sounds like you've never talked to Vice President Pence about 
+11 January 6th, about what he did --
+12 A Not at all. 
+13 
+14 
+15 Q 
+A 
+Q --his safety, anything like that? 
+No. 
+Okay. All right. The President did, as you said earlier, Secretary Chao, 
+16 eventually on the 6th, it was at 4:17, issue a video statement from the Rose Garden in 
+17 which he says: I know your pain, I know your hurt. We had an election that was stolen 
+18 from us. It was a landslide election, and everyone knows it. But you have to go home 
+19 now. This is a fraudulent election. We can't play into the hands of these people. We 
+20 have to have peace, so go home. We love you, you're very special. 
+21 
+22 When you eventually learned of this, what was your reaction? 
+A Well, I think the reaction from even Republicans was that it was 
+23 inappropriate. These supporters may have started out being very well-intentioned, but 
+24 some of them got very violent, and such warm words were not really appropriate. 
+25 Q Yeah. We have heard that from a lot of witnesses, yes, a lot of  23 
+1 Republicans. I'm just wondering you, sort of you personally, when you heard that, when 
+2 telling people to go home, he said that he loved them and that they were very special, to 
+3 give us more of your reaction to that. 
+4 
+5 
+6 A 
+Q 
+A Again, I didn't hear of these words until like later on in the evening. 
+I see. 
+Having seen on television what happened, it was clearly --more was needed. 
+7 Those were not the right words. 
+8 Q All right. Anything else, Secretary Chao, from the day of January 6th that 
+9 you recall that might be relevant, any conversation, any memory of yours about your 
+10 personal experience, your thoughts, feelings, conversations, from that day? 
+11 A No, not really. It was a busy time, and I don't recall very much about 
+12 January --you know, about the specifics of what you're asking about January 6th at all. 
+13 Q Yeah. I mean, it must've been a very difficult day to abruptly leave a job 
+14 that you presumably loved, did very well, were planning on continuing, just like that. 
+15 Tell us more, if you can, about sort of how it felt to quit like that, abruptly, in the wake of 
+16 those events. 
+17 A Well, we were going to leave. So we were in the process of getting ready 
+18 to leave. I would've liked a little bit more time, again, so that I could've helped my 
+19 colleagues, political appointees, who were going to be out of a job. Many of them never 
+20 realizing, never understanding that political appointees don't serve forever. 
+21 Many of them were very young. This is the first time they've ever faced a loss. 
+22 And it was scary, it was frightening. And I wanted to be able to be a backstop to them in 
+23 terms of recommendations, in terms of helping them, you know, get new jobs. 
+24 And I've always done that, where --you know, everybody who's ever worked with 
+25 me, I take care of them.  24 
+1 Q Yeah. Did any of the people that worked with you at Transportation resign 
+2 similar to you, make the same decision that they were going to abruptly leave because of 
+3 January 6th? 
+4 
+5 A 
+Q Yes. 
+Tell me more about conversations with them. Who were they and why did 
+6 they decide to leave? 
+7 A I didn't encourage them. There were apparently seven political 
+8 appointees, except for the Administrator at the Federal Aviation Administration who, 
+9 similarly, after I resigned, made a similar deci---made the same decision of leaving early, 
+10 I think a day afterwards or something like that. 
+11 Q Yeah. And I understand that you didn't encourage them to leave, but did 
+12 you have discussions with them about their decisions about why they similarly felt that 
+13 they wanted to resign because of January 6th? 
+14 
+15 A 
+Q No. 
+Did they notify you, much like you had notified Mr. Meadows? Did you get 
+16 word from some or all of them that they were also resigning? 
+17 A I smile because, by that time, I don't think --I don't think I was the Secretary 
+18 anymore. So if they told anybody, it would've been to the Acting Secretary. 
+19 Q I see. So you were there through the 11th, I guess, officially. Do you 
+20 recall any discussions with any of your deputies or the administrators of the component 
+21 agencies about this topic, about whether to stay or go? 
+22 
+23 
+24 
+25 A 
+Q 
+A 
+Q No. That was also over a weekend. So I think the 7th was a Thursday. 
+A Wednesday. 
+A Wednesday? 
+I'm sorry, the 6th was a Wednesday, you're right. The 7th was a Thursday.  25 
+1 A Thursday. And so there was only --and then Thursday, you know, the 
+2 announcement was made, like, late morning. And because of COVID, we weren't 
+3 even --actually, that's something to remember. We weren't even all together because 
+4 of COVID. We were not together. And there was only Friday that was a workday, and 
+5 then there was a weekend. 
+6 Q Yeah. All right. Let me just --a couple of things about the 25th 
+7 Amendment. 
+8 Do you remember talking to anyone about the possible invocation of the 25th 
+9 Amendment at any time? 
+10 
+11 A 
+Q How do you define anyone? 
+Anyone at all that had --I guess I'm not talking about a neighbor, but anyone 
+12 who potentially had a professional, relevant role to play in the consideration of whether 
+13 that amendment was or wasn't, you know, potentially appropriately invoked, other 
+14 members of the Cabinet, the Vice President, others who would consider it in Congress. 
+15 Did you talk to anyone like that about the 25th Amendment? 
+16 
+17 A 
+Q No. 
+There have been a lot of reports about Cabinet discussions. Secretary 
+18 Pompeo, Secretary Mnuchin, you know, discussed this openly. I'm just wondering if you 
+19 were a party to any of those conversations about whether or not the Cabinet should 
+20 invoke the 25th Amendment and seek potentially to have the Vice President step in for 
+21 the last 2 weeks? 
+22 A They did not approach me, and I was not aware of any discussions within the 
+23 Cabinet on the 25th Amendment. 
+24 
+25 Q Okay. I appreciate that. 
+Did you have any personal concerns about sort of the mental fitness of the  26 
+1 President at that point? Separate from conversations, did you have concerns that 
+2 maybe the 25th Amendment would be appropriate? 
+3 A By that time, I did not have personal contact with him. I mean, I just hadn't 
+4 had --
+5 
+6 Q 
+A I'm sorry. I didn't mean to --
+1 did not go to the White House, there were no meetings, so I hadn't been in 
+7 close proximity of him. 
+8 Q I understand that. But based on his action or inaction, did you have 
+9 concerns that perhaps there was a mental health issue or instability sufficient that we 
+10 should actually consider the 25th Amendment? 
+11 A Well, he has his point of view, and he has very strong opinions, like most 
+12 people, like most leaders. But I did not discuss that with anyone in the Cabinet, nor did 
+13 anyone discuss it with me. 
+14 Q Yeah. I understand it wasn't discussed. I guess I'm just wondering 
+15 whether you had any concerns about his decision making based on what happened on 
+16 January 6th, practical concerns that steps needed to be taken to land the plane, to 
+17 stabilize government in the last 2 weeks? 
+18 A I was not close enough to him. Subsequent knowledge about certain 
+19 people getting to him, I was not aware of that at that time. 
+20 Q All right. Secretary Chao, in all of the weeks and months since January 6th, 
+21 have you had other conversations with people about their personal experience that day? 
+22 And, again, when I say people, I mean people that were directly affected, 
+23 government officials, Members of Congress, and, again, I'm setting aside your husband 
+24 and the spousal privilege issues. 
+25 A No. I mean, life goes on. Obviously what happened that day was very  27 
+1 disturbing, and I've made my position and my feelings quite clear by taking the strongest 
+2 action possible. 
+3 
+4 Q 
+A Yeah. 
+Then after that, you know, there are other things to do. And I know I've 
+5 had to personally get transitioned into my private life, get resettled again. This is a 
+6 bigger --it's a big issue, but I don't talk about it with, you know, with --with other 
+7 Cabinet --I haven't had very many discussions with Cabinet officers since leaving. 
+8 Q Yeah. I guess I'm just wondering if you learned anything more from people 
+9 about their personal experience, particularly people in the White House, about what was 
+10 happening that day, what the mood was, what was --what were people encouraging the 
+11 President to do, anything factual like that that you learned from other people anytime 
+12 since. 
+13 A Not really. I mean, I just read the public reports, newspapers, like 
+14 everybody else. 
+15 Q Yeah. And I appreciate that. I'm not looking for public reports. I'm 
+16 wondering if you recall any conversation with people about their lived experience that 
+17 day. 
+18 
+19 
+20 A 
+Q 
+A No. 
+Okay. Not Cabinet members, not White House officials? 
+I really haven't talked to very many of them at all. 
+21 All right. Let me pause here and see,_ if you have 
+22 anything about January 6th. I don't think we have any Members on the line. 
+23 
+24 Q BY 
+All right. Secretary Chao,-is going to ask you a few questions 
+25 about events related to the election, but I just wanted to ask you one final question.  28 
+1 Anything else at all about January 6th or the events of January 6th that I haven't 
+2 asked you that you think is important for the committee to know, anything else that you 
+3 want to say about those events? 
+4 
+5 
+6 
+7 
+8 
+9 could. 
+10 A 
+Q 
+A 
+Q 
+A 
+Q No. 
+Okay. 
+I think you've asked a lot, and I've given the best -­
+I'm sorry? 
+I said, you've asked a lot of questions and I've given the best answers that I 
+Okay. Thank you. Let me ask- now to turn to the 
+11 election-related issues. 
+12 Go ahead. 
+13 EXAMINATION 
+14 BY 
+15 Q Secretary Chao, I'm just going to ask you a few questions about the time 
+16 period leading up to January 6th. 
+17 Did you have any involvement in President Trump's reelection campaign either 
+18 before or after election day? 
+19 
+20 A 
+Q No. 
+Okay. So no pending any surrogate calls or campaign events, strategy 
+21 sessions, anything like that? 
+22 A Definitely not strategy sessions, no --no surrogate calls. Yeah, I wasn't 
+23 really involved. 
+24 Q Do you remember talking to anyone from the campaign or in the White 
+25 House about the campaign strategy, you know, legal strategy, strategy before Congress,  1 media, with the Vice President, anything like that, either before or after election day? 
+2 
+3 
+4 
+5 
+6 2020? A 
+Q 
+A 
+Q No. No. I did go --I did go to the convention. 
+Excuse me. The convention? 
+[Nonverbal response.] 
+Okay. You attended the convention in, what was that, maybe August 
+A 7 Righ 
+Q Or maybe it was before. 29 
+Okay. But aside from that, any conversations one-on-one with anyone involved 
+10 with the campaign? 
+11 A No. And even during the --I mean, you asked whether what contacts I've 
+12 had in terms of the campaign, which is why I thought --I mentioned the convention. But 
+13 even there, I mean, I didn't do very much. You know, it was primarily to go as a spouse. 
+14 Q Okay. Post-election day --election day was November 3rd, 2020 --did you 
+15 talk to anyone in the White House or elsewhere in the administration about the 
+16 messaging around the election? 
+17 You know, for example, you, as Secretary of Department of Transportation, if you 
+18 should have --how you should be messaging the election, whether it was stolen, that 
+19 there's going to be a second term for President Trump, anything like that? 
+20 
+21 A 
+Q No. 
+Okay. Do you recall receiving any guidance from anyone in the 
+22 administration about how to talk about the election? 
+23 
+24 A 
+Q I don't think so. 
+Do you recall any conversations with anyone in the White House or 
+25 elsewhere in the administration, including President Trump, where they expressed to you  30 
+1 that the election had been stolen or rigged or corrupted, you know, in some way? 
+2 A I was never in a one-on-one meeting. I was always in large meetings, like it 
+3 was a Cabinet meeting or it was a meeting on a particular issue. In my case, it would be 
+4 transportation. There would always be other people around. And in such a gathering, 
+5 the President would make --I think he probably would say that the election was --was 
+6 not honestly conducted. 
+7 Q Tell us what you recall about those comments by President Trump about the 
+8 election. 
+9 A It would be what you hear, you know, publicly. I mean, there really is no 
+10 difference between what he says privately versus what he says publicly. 
+11 
+12 Q 
+A So the election, he'd say, for example, like, the election was stolen? 
+I can't attest that he said that specifically, but it probably would be 
+13 something that --you know, something to that effect. 
+14 Q Do you recall about how many times this happened, in like how many 
+15 different meetings you recall him making comments like this? 
+16 
+17 
+18 A 
+Q 
+A I don't. 
+Okay. 
+I wasn't at the White House that often. And if I did, it was on 
+19 transportation issues. 
+20 Q Okay. So in these meetings where he made these comments, you weren't 
+21 meeting actually about the election. He would just make a comment, even though it 
+22 was unrelated to the topic of the meeting? 
+23 
+24 A 
+Q Yes. 
+Do you remember how it would even come up where he would talk about 
+25 the election?  1 
+2 A 
+Q 
+3 meeting? 
+4 A He would talk about lots of things. 
+A lot of things that had nothing to do with why you were there for the 
+Well, we would, of course, talk about what was the topic at hand, but he 
+5 would also talk about other things that most people would in a conversation. 
+6 Q Do you recall other comments he made about the election? You talked 
+7 about the election, you know, being, you know, stolen or rigged. Anything else, any 
+8 kinds of comments he made in these meetings? 31 
+9 A Actually, I should be more careful, because I'm not quite sure. You know, it 
+10 all kind of runs together. He would opine upon different things. He probably did opine 
+11 upon the election, but I don't recall too much of it. 
+12 Q Do you recall anyone's reaction to when he would make comments about 
+13 the election in these meetings? 
+14 
+15 
+16 
+17 A 
+Q 
+A 
+Q No. He would be speaking. 
+You recall people would just listen and not necessarily engage? 
+He could speak at length. 
+Do you remember him ever making a comment about how he was going to 
+18 be there for a second term? 
+19 A No. 
+20 Q Or how about how he --any actions that he was taking in connection with 
+21 the election? Do you remember him talking about cases he was --his campaign was 
+22 bringing or any sort of strategy he was pursuing? 
+23 
+24 A 
+Q No. 
+Do you recall --I'm wondering if you have any better or clear recollection 
+25 about these meetings who might've been there.  32 
+1 A Probably --I hate to throw people into the briar like --in the briar patch like 
+2 this, but probably whoever worked on transportation issues would be the ones that 
+3 would be in the meeting. 
+4 Q And we are aware of a visit you had at the White House on December 18th, 
+5 2020. Does that sound around --not to hold you to it, I know this was quite a long time 
+6 ago. Could that have been around the time when you met with President Trump and 
+7 potentially others and he made a comment about the election? 
+8 A No, I didn't meet with him that day. 
+9 Q You did not. Okay. We had you --we have White House visitor records 
+10 that suggest --
+11 A You can go through --I think I thought about that and --because it was 
+12 brought up to me that you were kind of concerned about that. And there were 
+13 Christmas parties going on at that time. So I remember going to a number of Christmas 
+14 parties, holiday parties, and it was kind of expected that the Cabinet person would show 
+15 up at these parties. So that was probably one of them. I did not see the President. 
+16 Q For these meetings where you --
+17 A Maybe he appeared and gave, you know, a speech at the balcony or 
+18 something, but I didn't speak with him. 
+19 Q Okay. For these meetings where you recall these comments by 
+20 President Trump, do you remember around when they happened? You know, it 
+21 would've been right after election day, December, January? 
+22 
+23 A 
+Q What kind of meetings? 
+These meetings where you recall the President making comments about the 
+24 election, do you remember around when this happened? 
+25 A Oh, it must've been --I think there must've been a Cabinet meeting right  33 
+1 after the election. And they're all televised. Although I don't know whether that one 
+2 was. But, yeah, he lets the cameras in like --at first it was 5 minutes, and then it was 10 
+3 minutes, and then it was 15, and then they were covering pretty much the whole thing. 
+4 But it must've been one of those big gatherings. 
+5 
+6 
+7 
+8 
+9 
+10 
+11 clearly. 
+12 Q 
+A 
+Q 
+A 
+Q 
+A 
+Q 
+13 comments? 
+14 A Okay. 
+Not super big, but, you know, like a meeting like that. 
+So you think it might've happened --
+1 think. I'm not sure. 
+Excuse me. Sorry. 
+I said, no, I think. I'm not quite sure. I don't --I can't remember that 
+So you think it might have been at a Cabinet meeting, at least one of these 
+I don't --I don't know, but it was a meeting of --like, I was not alone with 
+15 him, and it was --you know, it was a gathering of some sort, not on that particular topic 
+16 but on something, on some issue. 
+17 Q Do you recall any other conversations with President Trump or anyone else 
+18 in the White House more generally about the results of the 2020 election? 
+19 
+20 A 
+Q 
+21 election? 
+22 
+23 
+24 
+25 A 
+Q 
+A 
+Q No, not really. 
+Did you ever hear President Trump acknowledge that he had lost the 
+That he had lost the election? 
+Yes. 
+No. 
+Did you ever hear from anyone that he had acknowledged to them in private  34 
+1 that he had lost the election? 
+2 A No. I'm not too much involved in the politics of, you know, the White 
+3 House. I don't get involved in any of that. 
+4 Q We've heard from other members of the Cabinet certain points of time 
+5 when they came to believe that President Trump had lost the election. Was there a 
+6 point in time when you came to believe he had lost? 
+Yes. November 3rd. 7 
+8 
+9 A 
+Q 
+A 
+Q So on election night, you thought that he had lost the election on that night? 
+Well, whatever --whenever the --it was declared, you know, that he lost. 
+10 So various media outlets, for example, on November 7th, they had called the 
+11 election for Joe Biden. Is that around the time you think you --
+12 A Did I get the date wrong? Sorry. Did I get the date wrong? What was 
+13 the --it was November 7th? 
+14 
+15 
+16 Q 
+A 
+Q November --
+The election in 2020 was November 7th. 
+It was --November 3rd was election day, but the 7th was the day that 
+17 various media outlets, you know, Associated Press, CNN, they called the election for --
+18 
+19 
+20 A 
+Q 
+A Well, whenever --
+--they projected that Joe Biden had won. 
+I mean, whenever --you know, whenever it was common consensus that the 
+21 President had lost, the President lost.  35 
+1 
+2 [3:00 p.m.] 
+3 BY 
+4 Q And so when you came to that conclusion that President Trump had lost, did 
+5 you take any steps then towards a transition to a Biden administration or planning your 
+6 life after the Trump administration? 
+7 A I've been through transitions before. Basically the GSA was already 
+8 moving. They were not allowed to declare the official start of the transition. The 
+9 White House has to give them permission to do that. So that was unusual. But the 
+10 transition is ongoing. The bureaucracy is already planning for either eventuality. And, 
+11 you know, whether the incumbent team wins or whether the new team wins, the 
+12 transition is already underway --
+13 
+14 
+15 
+16 
+17 
+18 Q 
+A 
+Q 
+A 
+Q 
+A So you're --
+--before November 3rd -­
+Do you recall --excuse me. 
+Go ahead. 
+No. That's fine. You can continue. I apologize. 
+Oh, no. I was going to say, and then the transition team came on --literally 
+19 came on board on site on November 15th, so there was a lot to do. 
+20 Q So you mentioned GSA. They made their ascertainment on 
+21 November 23rd. Do you recall taking steps towards the transition even before 
+22 November 23rd? 
+23 A Well, there were certain things that the Department could not do in the 
+24 absence of a GSA declaration, but there was work that could be done. You know, 
+25 getting papers ready, getting things organized, wrapping up issues, all of that could go on.  36 
+1 But as for --sometimes, in the absence of GSA, again, declaring that the official transition 
+2 could begin, there were certain documents that could not be transferred over. 
+3 Q And I believe you made a comment a minute ago that it was unusual about 
+4 the GSA ascertainment, at least based on your prior experience being a Cabinet Secretary. 
+5 Can you explain a little bit more what was unusual this time around? 
+6 A It was almost proforma in past administrations. I think very few people 
+7 even understood that the GSA had a role in all of this, and the transition after the election 
+8 just occurred. 
+9 
+10 
+11 
+12 Q 
+A 
+Q 
+A And this time what was your experience? 
+At the time? 
+In 2020. You said in the past it just occurred. It was proforma? 
+You never gave it another thought. The election occurred, the winners, 
+13 you know, those who --you know, the election occurred and the transition would occur, 
+14 the interactions between the two teams on each side. And it was chaotic. It was 
+15 difficult because of the pressures of the time, but it was kind of --you know, it was pro 
+16 forma. You kind of knew what to do. There was never any question as to whether any 
+17 legality was concerned about certain transfers of information and, you know, material. 
+18 
+19 
+20 
+21 Q 
+A 
+Q 
+A And did you say this time it was chaotic and difficult? Is that -­
+Transitions are always chaotic. 
+Okay. 
+They're chaotic on the way out, and they're chaotic on the way in, which is 
+22 why it was important to have, you know, an orderly transition, because I care about 
+23 public service; I care about the continuity of government. We lost. We had an 
+24 obligation to enable the next team to be able to, you know, have the right materials, to 
+25 know some of the more sensitive issues which pertain to our transportation sector.  37 
+1 mean, that was all part of the orderly transition process. 
+2 Q Did you feel that actions were being taken that were preventing you from 
+3 participating in this orderly transition that you participated before in the George W. Bush 
+4 administration? 
+5 A Yes, because GSA did not --you used the word "attest." They didn't give 
+6 the go-ahead. So the Department --we weren't --we couldn't --we couldn't proceed 
+7 with the transition. We could prepare ourselves. We could do other things. But in 
+8 terms of overtly dealing with the new team, we were not allowed to do that. 
+9 Q So it sounds like it negatively impacted your ability to help with an orderly 
+10 transition. Is that fair? 
+11 A I think the new team did fairly well. They knew what they were doing as 
+12 well. 
+13 Q Okay. But it sounds like you felt like, perhaps, more could have been done 
+14 to help you facilitate this transition to the next administration? 
+15 
+16 A 
+Q 
+17 election? 
+18 
+19 
+20 A 
+Q 
+A Yes. 
+Okay. Did you believe that President Trump should have conceded the 
+It's up to him what he wants to do. 
+And I understand that --
+But he --but he clearly --but a more gracious way of handling this would 
+21 have been to, I guess, concede, although Stacey Abrams, I understand, never conceded 
+22 either. I think the President should have attended the inaugural, and he did not. He 
+23 should have done that. 
+24 Q And in terms of concession, did you form that opinion around the time that 
+25 you came to believe that President Trump lost the election, you know, around the time  38 
+1 when media outlets had called the election for Joe Biden? 
+2 A Yeah. I saw no reason --I mean, I --yeah, I think it was pretty clear the 
+3 election was lost. 
+4 Q We've heard from other individuals, quite a few White House advisors, who 
+5 privately had talked to President Trump and advised him about conceding or focusing on 
+6 his legacy, you know, the accomplishments of the administration rather than the election. 
+7 Did you talk to anyone in the White House and, you know, share similar advice or 
+8 have conversations about that topic with anyone in the White House, including President 
+9 Trump, post-Election day? 
+10 A No, I did not. You know, I don't get involved in politics. I mean, I take 
+11 care of the Transportation Department, and it's very well-run. 
+12 Q A book that came out somewhat recently called "This Will Not Pass" 
+13 reported that you had told a friend sometime in December 2020 --this is a 
+14 quote --"Every day the leader and I wake up saying, 'How do we manage the President?"' 
+15 You know, is that an accurate characterization of a conversation that you had, you 
+16 know, post-Election Day? 
+17 
+18 
+19 
+20 A 
+Q 
+A 
+Q I have no idea where that quote came from. 
+Okay. 
+I don't remember asking it. 
+Okay. Did you have concerns about managing President Trump 
+21 post-Election Day? 
+22 
+23 A 
+Q Post-Election? 
+Post-Election Day, you know, between --after November 3rd, did you have 
+24 concerns about trying to manage him? 
+25 A I think throughout the whole term, there were --you know, there were --I  39 
+1 had issues at the Department that I was very concerned about, and I wanted enough 
+2 White House attention and White House resources devoted to these issues. So it's 
+3 always a concern to make sure that those in the White House are aligned with the 
+4 Department's thinking and what the goals were at the Department. 
+5 Q Did you have concerns that President Trump's, you know, interest in the 
+6 election and relitigating or litigating the results were taking away from what you were still 
+7 trying to accomplish at the Department of Transportation? 
+8 A No. It was pretty much toward the end. Time was already running out. 
+9 There was not enough time left. 
+10 Q So it sounds like you didn't have any specific concerns related to the election 
+11 and President Trump's, you know, pursuit of, you know, what he was doing related to the 
+12 2020 election and how it impacted your work at the Department? 
+13 A No. We didn't really discuss --I mean, I didn't really discuss too much, 
+14 number one, politics, with the White House folks. I don't discuss politics overall too 
+15 much. And as I mentioned, the election was lost. We had to get going and kind of 
+16 wrap things up and take care of people, many of whom are in shock that they actually 
+17 don't have a job anymore. And it is a vast department. It's got 55,000 people, 20,000 
+18 contractors. It's very decentralized. It's all over the country. It's a big department. 
+19 Q You know, we've heard from other Cabinet Secretaries in the post-Election 
+20 Day period that they had concerns about the quality of advice that President Trump was 
+21 receiving, you know, before January 6th. And I'll limit it to after Election Day. Did you 
+22 have any concerns about the advice that President Trump was receiving? 
+23 A Well, it wasn't until later that we all learned about who he was receiving this 
+24 advice from, and at the time it was not quite clear, because I wasn't, you know, going to 
+25 the White House that often. I didn't really hear too much about it, and they were  40 
+1 dealing much more with kind of the politics part of it. 
+2 Q And when you say "later," are you referring to, like, in 2022, like this year, or, 
+3 you know, somewhat recently? 
+4 A Probably last year when the news reports came out about who got into the 
+5 White House and who spoke with him. 
+6 Q So the information that you've learned since then about the advice President 
+7 Trump was receiving, is that just from news reports? 
+8 
+9 A 
+Q Yes. 
+Okay. And you've touched on this before. You're in a unique position in 
+10 that you've served as a Cabinet Secretary before and you've participated in a transition 
+11 process. You know, is there a --you've touched on this a bit, but is there any other ways 
+12 that the transition process for you this time around differed from your prior experience in 
+13 the George W. Bush administration? 
+14 A Well, the George W. Bush administration in November of 2008, it was 
+15 much --the transition was much more orderly, because it was at the end of two terms, 
+16 and everybody knew they had to leave, so there was not this upheaval. And 
+17 then-President George W. Bush and his team were very clear about how we had to 
+18 cooperate --not that we had to, but that we should cooperate and facilitate the transition 
+19 to the next administration. 
+20 Q Was President Trump or the White House clear that you should participate 
+21 in an orderly transition of power at any point? 
+22 A Not at all. In fact, they--again, they forbid us from --they --we were not 
+23 allowed to proceed with the transition until GSA declared, you know, attested that it was 
+24 okay to go forward. 
+25 Q And what about after GSA declared to go forward, did you get the message,  41 
+1 you know, loud and clear that you should participate and facilitate the transition? 
+2 A No. But it's the right thing to do, and I know what to do. I've been 
+3 through transitions before, and I've been through transitions in which the time is 
+4 shortened. So the transition time is very valuable to the other side as well. 
+5 Q We've heard from others that prior to January 6th, they had concerns that 
+6 President Trump would not participate in a peaceful, orderly transition of power. Did 
+7 you have those concerns about, like, President Trump specifically? 
+8 A I've never heard him say that. And, you know, you hear things from other 
+9 people, no --so what's the question again? 
+10 Q If you, yourself, had concerns that President Trump would not participate in 
+11 an orderly or peaceful transfer of power, you know, he would take some actions, aside 
+12 from GSA, to prohibit? 
+13 
+14 it. 
+15 
+16 
+17 A 
+Q 
+A 
+Q No. No, it never would have occurred to me. I would not have believed 
+Okay. Were you aware of anyone in the Cabinet who had those concerns? 
+No. 
+Do you recall any conversations with any colleagues or members of the 
+18 Cabinet about what you should do to ensure an orderly transition of power to the next 
+19 administration, you know, aside from what the White House was saying or not saying? 
+20 A I know what I'm doing. I operate pretty independently, and I know what 
+21 needed to be done. So the GSA attestation was important because it disallowed many 
+22 of us --well, it disallowed the process. So what we could do in terms of the transition, I 
+23 directed that it be done. And then until GSA allows the transition to go forward, you 
+24 know, then that was the final step of the transition. But we did as much as we could 
+25 during the transition that I knew needed to be done so that when the GSA attestation  42 
+1 came, we would be able to handle whatever we needed to handle right away. 
+2 Q Since you've been through a transition before, did you share any advice to 
+3 any of your colleagues since you've been through it and others may not have been 
+4 before? 
+5 
+6 
+7 
+8 
+9 A No. Free advice is not something that is readily appreciated in Washington. 
+Okay. Understood. 
+do you have any questions? 
+~ Yeah, just a couple of things. 
+BY 
+10 Q Secretary Chao, other than the delay, the GSA delay in allowing you to move 
+11 forward, were there any other sort of specific things that you could point to that were 
+12 impediments to a smooth transition? 
+13 A I think that was really key. I mean, for those of us that knew what to do, 
+14 we had everything teed up, but we couldn't release it. 
+15 Q Yeah. Once it was released, though, was that it; you proceeded as if it 
+16 were a normal transition or --
+17 
+18 
+19 A 
+Q 
+A Then the teams can talk to one another. 
+Right. 
+The teams could talk, and then the new team can basically, you know --and 
+20 they must have had lots of questions, and then they could have engaged. 
+21 Q Yeah. I appreciate it. I know how it works. I'm just wondering if once 
+22 that switch was flipped and the GSA gave what's called an "ascertainment," were there 
+23 any other things that the White House did or didn't do that made it more difficult, or was 
+24 everything fine once GSA issued that ascertainment? 
+25 A Again, I know pretty much what I'm doing, and so, you know, I did what I  43 
+1 thought was right. 
+2 Q Okay. And I just wanted to go back to the quote from "This Will Not Pass." 
+3 I understand that the quote may be inaccurate, but I'm just looking for the underlying 
+4 sentiment about managing the President. I'm just wondering if you felt, at any time, 
+5 that it was difficult to manage the President or you needed to take affirmative steps to do 
+6 so. And if you could sort of share with us more what triggered that --if you had that 
+7 concern, what triggered that and what steps that you took? 
+8 A I think you have to understand who you work for, and how to get to them, 
+9 how to help them understand what you are saying, to understand their moods, to 
+10 understand their --you know, where they --what their background is, and how they 
+11 receive things, something as simple as whether they receive things verbally, or whether 
+12 they receive information, you know, on paper or something --or sometimes you have to 
+13 channel information through, you know, a friend, a trusted person. But I do not --I do 
+14 not remember making that kind of a statement, and it's pretty --if you think about it, I 
+15 mean, every day, that's saying a lot. 
+16 
+17 Q 
+A Yeah. And I appreciate that. 
+It's also saying, you know, the focus is there every day, so I don't remember 
+18 making a statement like that. 
+19 Q Yeah. And, again, I'm not --I don't want to go back to the statement. I'm 
+20 just thinking more generally, what did you learn about the person for whom you worked, 
+21 in terms of managing him, how to convey information, how to get his attention? Were 
+22 there lessons that over the course of the 4 years impacted that relationship, your 
+23 relationship with him? 
+24 A Well, I think for anybody who works for --you know, management goes all 
+25 the way around. There's management down, there's management up. And I  44 
+1 learned --I never --I didn't really know him, so I learned that he liked to have things in 
+2 short spurts, that he liked things that are visually presented rather than in writing, and 
+3 that he had lots of opinions about lots of issues. And so, you know, to talk about a 
+4 particular issue, it's helpful to enlist other people to kind of be messengers as well. 
+5 So do you have a specific question in that --
+6 Q No. You're answering that, and I appreciate that. 
+7 Were there other people in particular that you enlisted to convey information or 
+8 get through to the President on things that were important to you? 
+9 A Most likely it would be through, you know, whoever worked on 
+10 transportation issues. 
+11 Q Anyone in particular that you recall using as essentially an ally or a 
+12 messenger to help convince the President to do or not to do something? 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 A Can I ask my counsel? 
+Sure. 
+Ms. Chao. I hate to throw someone --
+Mr. Crosland. Let's mute it. 
+Yeah, that's fine. 
+[Discussion off the record.] 
+Mr. Crosland. Can you see us here? 
+I can, yes. 
+Mr. Crosland. Okay. Sorry. I think you had a question pending. We may 
+22 want to raise it again. Sorry. 
+23 
+24 
+25 Q Sure. 
+BY 
+And, Secretary Chao, I appreciate that. And I'm not --let me clarify. I am  45 
+1 not looking for sort of granular transportation-specific issues. I'm wondering more 
+2 generally if in your 4 years of working for President Trump, if there were people that were 
+3 messengers or whose opinion he trusted who you enlisted on anything that --again, I'm 
+4 not interested in the FAA. I'm interested in more broadly who he listened to, who was 
+5 important when he was making decisions. To the extent you have any views on that, it 
+6 would be helpful. 
+7 A Well, I'm not so sure he trusted anyone, but I found Gary Cohn --that's why, 
+8 you know, I hate to involve other people. I mean, everyone is just trying to live their 
+9 own lives these days, and to have to hire lawyers or to have to get involved --it's an 
+10 important issue for our democracy, of course, but, you know, I just hate to drop 
+11 somebody in. But Gary Cohn was one of those people who was very helpful. 
+12 
+13 Q 
+A I see. 
+Yeah, he was really smart, and he was gutsy, and, you know, he was a quick 
+14 study. And so, you know, I would go to Gary and allies like him and just --but it would 
+15 change in particular, whatever the issue is and how --what the momentum was at the 
+16 time and what the dynamics was. You know, it kind of changes. 
+17 Q Yeah, I appreciate that. I understand that Mr. Cohn was actually gone 
+18 awhile before January 6th. 
+19 How about the President's family? Did you find that they were influential or 
+20 were allies potentially or messengers of sorts, much like Mr. Cohn? 
+21 
+22 
+23 
+24 A 
+Q 
+A 
+Q I had interaction with them, but I did not really ask them for help either. 
+I see. 
+I didn't ask for help [inaudible] from them. 
+Uh-huh. Okay. Anyone else then besides --and I appreciate your concern 
+25 about involving other people, but I'm just --again, anyone that you thought that he would  46 
+1 listen to if there was an important issue, in your experience? 
+2 A It really depended on the particular issue and what was happening at the 
+3 time, who he was close to at the time, what he felt. I mean, that all --it was very 
+4 dynamic. 
+5 Q Yeah. Right at the end, were there people that were particularly close to 
+6 him? 
+7 At the end --
+8 A 
+Q The end of the administration, right around the time of the election and the 
+9 transition. 
+10 
+11 A It was hard to say. 
+outside of the administration. He had so many contacts. He would hear from people 
+He would call people --this is what I hear. He would 
+12 call people. It wouldn't go --and they were not --the calls were not logged in. So he 
+13 talked to a lot of people. 
+14 Q All right. Secretary Chao, is there anything else that we have not asked you 
+15 about this that you think is important? And I know I asked you that before about 
+16 January 6th, but anything more broadly that you want to make sure we know before we 
+17 stop? 
+18 
+19 
+20 
+21 A I don't think so. 
+~ Okay. All right. _, anything else for you? 
+And, again, I don't see any other members on the Webex. 
+All right. Secretary Chao, again, I appreciate this. You did this voluntarily, and 
+22 it matters. On behalf of the select committee, we really appreciate your willingness to 
+23 spend some time with us to go through your own process of hiring lawyers and the 
+24 inconvenience of it. 
+25 Thank you very much for your time. We appreciate it.  1 
+2 
+3 And with that, we'll go off the record. 
+Thank you. 
+[Whereupon, at 3:25 p.m., the interview was concluded.] 47  1 
+2 
+3 Certificate of Deponent/Interviewee 
+4 I have read the foregoing __ pages, which contain the correct transcript of the 
+5 answers made by me to the questions therein recorded. 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 Witness Name 
+Date 48 

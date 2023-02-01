@@ -1,0 +1,1108 @@
+1 
+2 
+3 
+4 SELECT COMMITTEE TO INVESTIGATE THE 
+5 JANUARY 6TH ATTACK ON THE U.S. CAPITOL, 
+6 U.S. HOUSE OF REPRESENTATIVES, 
+7 WASHINGTON, D.C. 
+8 
+9 
+10 
+11 INTERVIEW OF: JOCELYN BENSON 
+12 
+13 
+14 
+15 Thursday, June 2, 2022 
+16 
+17 
+18 
+19 Washington, D.C. 
+20 The deposition in the above matter was held via Webex, commencing at 10:10 
+21 a.m. 1  1 
+2 Appearances: 
+3 
+4 
+5 For the SELECT COMMITTEE TO INVESTIGATE 
+6 THE JANUARY 6TH ATTACK ON THE U.S. CAPITOL: 
+7 
+8 
+9 
+10 
+11 
+12 , STAFF ASSOCIATE 
+, SENIOR INVESTIGATIVE COUNSEL 
+, INVESTIGATIVE COUNSEL 
+, CHIEF CLERK 
+13 For MICHIGAN DEPARTMENT OF STATE: 
+14 
+15 MIKE BRADY, CHIEF LEGAL DIRECTOR 2  1 
+2 It is 10:10 a.m. eastern time on June 2nd, and this is a transcribed 
+3 interview of Secretary Jocelyn Benson by the House Select Committee to Investigate the 
+4 January 6th Attack on the United States Capitol, pursuant to House Resolution 503. 
+5 Secretary Benson, please introduce yourself by stating your name and spelling 
+6 your last name. 
+7 Secretary Benson. My name is Jocelyn Benson, J-o-c-e-1-y-n, B-e-n-s-o-n. And I 
+8 am the secretary of state of the State of Michigan. 
+9 - Thank you and good morning. 
+10 And, Mr. Brady, can you please identify yourself and your role? 
+11 Mr. Brady. Yes, Michael Brady, chief legal director for Michigan Secretary of 
+12 State Jocelyn Benson and the Michigan Department of State. 
+13 - And Brady is B-r-a-d-y? 
+14 
+15 Mr. Brady. That is correct. 
+~ Great. Thank you. And good morning to you too, Mr. Brady. 
+16 So my name is I am a senior investigative counsel for the select 3 
+17 committee. And with me today is_, investigative counsel for the committee. 
+18 It is possible that members of select committee join us, and they will probably do so by 
+19 the Webex platform. And, if they do, I will let you so that you are aware of their 
+20 presence. And, if they have any questions, I will turn the floor over to them as well. 
+21 But this will primarily be a staff-led interview, and it is going to be conducted through 
+22 both me and-· 
+23 Because this is a transcribed interview, there is an official reporter who you will 
+24 see in the Webex platform, and they are taking the official record down. It is also being 
+25 recorded by the platform as well.  4 
+1 Just as general basics for that, please wait until my question is completed before 
+2 you begin your response. And we will try to wait until your response is completed 
+3 before we ask our next question. And I think that will make the reporter's life a bit 
+4 easier. And also, as a reminder, the reporters cannot take down nonverbal responses, 
+5 like shaking your head, so we do ask that you just provide complete audible responses. 
+6 Understanding that some of these events took place a while ago and that you may 
+7 not recall everything, and if that is the case, please just say so. We ask that you provide 
+8 answers based on your best recollection. And then, also, if any question I ask you is not 
+9 clear, please ask me to rephrase it, and I will be happy to do so. 
+10 And, just as a reminder, this is something that we do tell everybody as part of the 
+11 congressional investigation process, but this is not under oath, but it is still unlawful to 
+12 deliberately provide false information to Congress. 
+13 Do you understand everything we have just gone over, Ms. Benson? 
+14 
+15 Secretary Benson. I do. 
+- Very good. And just, finally, as a matter of kind of procedure, let 
+16 us know if you need any breaks either for comfort or to speak with Mr. Brady for any 
+17 reason. We will be happy to go off the record and accommodate that. 
+18 
+19 
+20 
+21 Secretary Benson. Got it. Thank you. 
+Q EXAMINATION 
+BY 
+So, just generally, can you please tell us your position with the Michigan 
+22 government? 
+23 A I am the State's chief election officer, elected in 2018 to begin serving in 
+24 January --as of January 1, 2019. And, in my capacity as Michigan's secretary of state, I 
+25 am the second highest ranking --first --third highest ranking constitutional officer in the  5 
+1 State of Michigan, behind the Governor and the Lieutenant Governor. So, in that 
+2 capacity, I also serve in various other ways, including overseeing the Department of 
+3 Motor Vehicles, but I think the relevance for today's discussion, I serve as of the State's 
+4 chief officer of elections. 
+5 Q And, as the State's chief officer of elections, what are your primary roles and 
+6 responsibilities? 
+7 A I oversee campaign finance reports for those running for statewide or 
+8 State-based offices and also oversee and provide support for our 83 county clerks and 
+9 over 1,500 local clerks who --one second, sorry. 
+10 
+11 Q 
+A That is all right. 
+--who collectively at the local level, those clerks oversee our --the 
+12 operations of elections. So we operate in support of those individuals and who 
+13 operationalize elections at the local level, offering legal guidance, offering educational 
+14 materials and various other things to ensure that they have what they need in 
+15 partnership with us to administer elections at the statewide and local level. 
+16 Q And you have these roles and responsibilities that you just went over as chief 
+17 elections person in the State of Michigan for the November 2020 Presidential election. 
+18 Is that right? 
+19 
+20 A 
+Q Correct. 
+So, before you became secretary of state, I noted that you wrote a book 
+21 about secretaries of state as guardians of the democratic process. Can you just tell us a 
+22 little bit about why you wrote that? 
+23 A In 2008, I began researching a book about and the development of a book 
+24 called "Secretaries of States: Guardians of the Democratic Process." And the purpose 
+25 of that book was to do two things: one, highlight the ways in which these executive  6 
+1 offices, when they oversee elections as they do in Michigan, can be a path towards 
+2 protecting democracy; and then, secondly, well, do so by highlighting best practices of 
+3 secretaries and stories of secretaries on both sides of the aisle, and to also communicate 
+4 to voters/readers that they have an important role to play in electing secretaries of state 
+5 and holding them accountable. 
+6 In writing the book, I sought to very clearly demonstrate that overseeing elections 
+7 and guarding democracy is not a partisan issue and highlighting secretaries of state from 
+8 both sides of the aisle, from Beth Chapman, who was the secretary of state of Alabama at 
+9 the time; Karen Handel, who was the secretary of state in Georgia at the time; to Mark 
+10 Ritchie, who was the secretary in Minnesota at the time, that, regardless of what side of 
+11 aisle one sits on or party they affiliate with, that there are ways in which in a nonpartisan 
+12 capacity secretaries of state can effectively and have effectively made democracy work 
+13 better for the citizens in their State. And, in doing so, in writing that, it was the first ever 
+14 best practices collection of actions of secretaries of state who were operating in elected 
+15 and during the 2008 election into 2009 and found --and highlighted and broke down 
+16 various different case studies of ways in which secretaries had up to that point utilized 
+17 that office proactively to develop innovative ways to increase access to the vote and 
+18 protect the security of the process and also ensure that the campaign finance side of the 
+19 office is affiliated with the secretary of state also operates in a way that promotes 
+20 transparency and helps voters stay engaged and informed. 
+21 Q And did your research in those case studies that you wrote about inform you 
+22 as you go through your duties and responsibilities as secretary of state in Michigan? 
+23 A Yes. It was a --in talking with secretaries of state all around the country 
+24 from Todd Rokita, in Indiana, who was serving at the time, to Trey Grayson, who was my 
+25 first interview at the NASS conference in Grand Rapids Michigan in I think 2008 or  7 
+1 maybe --yeah, 2008, I saw that if you are able to put your party affiliation aside, as the 
+2 best secretaries of state and most effective secretaries of state do and have done, you 
+3 can accomplish a great deal for all citizens in a democracy. And it was inspiring to see 
+4 how these public servants were by and large for the most part not utilizing their offices in 
+5 a way to further a partisan agenda or political goals but, instead, trying to find data-driven 
+6 ways to simply make democracy and elections work better for the citizens and also build 
+7 citizens' faith and trust in the process. And it was to me personally so --as someone 
+8 who was an elections lawyer and wanted to do everything I could to improve access to 
+9 our elections and ensure that they --to the best way possible, our democracy lives up to 
+10 the ideals of our Founders, was particularly moved at how little we knew at the time 
+11 about these offices and how much these offices can and are and were being utilized by 
+12 leaders to really move the ball forward on increasing access to the vote and the security 
+13 of the process. 
+14 And so my last interview was the Ohio secretary of state, Jennifer Brunner, after 
+15 which I turned off the tape-recorder and said, you know, I think I would really like to do 
+16 this job. It is very --it seems to me to be one of the most direct ways in which an 
+17 individual can have an influential role in ensuring the integrity of our elections, the 
+18 accessibility of the vote, and also educating voters about how to assess their democracy 
+19 and their power in a democracy. And as someone who is an educator, the daughter of 
+20 educators, and an attorney and policy advocate I wanted to utilize those skills, as many 
+21 other current secretaries at the time were doing to serve the people of Michigan in a way 
+22 that would improve our democracy and do so really by increasing turnout and then 
+23 minimizing any potential security threats for the process. So it was building those 
+24 relationships with secretaries of state, many of whom --some of whom are still serving 
+25 and many of whom have become great friends and colleagues, that I decided myself to  8 
+1 seek this office. And, in serving as secretary of state, I do so from the position of having 
+2 learned from those who have come before me on both sides of the aisle about how to do 
+3 this job well and protect and preserve democracy and avoid any partisan influence or 
+4 interference, as I think all of us must do in these positions. 
+5 Q And so I want to turn now to the November 2020 election. And I think it is 
+6 fair to say that, in Michigan, it was a contested election. Would you agree with that? 
+7 A From my standpoint, as the chief election officer, the 2020 election was an 
+8 extraordinary success. It certainly --there were many contested races up and down the 
+9 ballot, both in the primary and in the general election, that cycle. But, in many ways, 
+10 the work that we did, if you block out the noise that candidates were making, was 
+11 actually extraordinarily successful, well-thought-out, and data-driven. So, in that regard, 
+12 the election, if you simply look at the operations of the election, the election was 
+13 extraordinarily smooth and successful. 
+14 What made it perhaps appear contested to the outside were candidates seeking 
+15 to interfere with our operations, confuse voters, cause chaos and challenges for us that 
+16 were simply trying to do our job. And, in that regard, it is an enormous success that we 
+17 still had a highly successful, secure, smooth, high-turnout election in the midst of all of 
+18 that. And so, from my vantage point, the 2020 election was actually a very operationally 
+19 smooth and successful and, I think if people who are able to see the truth see it, 
+20 universally applauded or universally I guess successful process. And I think trying to cut 
+21 through the noise that candidates created to make sure people see that truth has been 
+22 one of the more challenging aspects of this work. 
+23 Q Okay. And that is exactly what I want to talk about. And the noise that 
+24 some people suggest that it was not a smooth operation and that are suggesting that it 
+25 was contested. But that noise that you were hearing, were you starting to hear that  9 
+1 before the election took place? 
+2 A Yes. The noise really began on May 20th, 2020, when --when the 
+3 President at the time began criticizing on the national stage our decision to send out 
+4 absentee ballot applications to every voter in our State. This was a decision that was 
+5 data-driven and based on really two or three factors: One, the fact that we were 
+6 entering the first election cycle that voters in Michigan would have the right to vote by 
+7 mail or absentee. This was a right created by voters themselves by amending our State 
+8 constitution in 2018 to create a right for every citizen to vote from home or vote 
+9 absentee. So the first and most important thing we had to do was make sure citizens 
+10 knew about that right and knew how to exercise it because we knew millions would be 
+11 potentially choosing that option to vote for the first time and had questions about it. So 
+12 that was the primary reason. We mailed every registered voter in the State a request 
+13 form to educate them about how to request their absentee ballot, which they had a State 
+14 constitutional right to vote from. 
+15 The second factor was the pandemic. And we saw, in the May local election of 
+16 that year, which was around I think May 3rd or 4th, the first Tuesday in May, an 
+17 enormous --we saw high turnout, but an enormous interest in voting from home in the 
+18 midst of the pandemic in part because of the changing circumstances at that time. So I 
+19 also had a responsibility in that moment to make sure that citizens had the clarity of how 
+20 to vote from home, which they again they had the right do so in the midst of this election 
+21 cycle. 
+22 And then the third reason for sending out those absentee ballot request forms 
+23 was because we knew local clerks --and many were starting to reach out to us at that 
+24 time --local clerks both sides of the aisle all across the State from Ottawa County to 
+25 Detroit were saying: We know that the research shows when a voter receives an  10 
+1 absentee ballot request form from their election official, be it the State or the local, they 
+2 are more likely to respond to it and understand and believe that it is accurate as opposed 
+3 to receiving it from political party or a nonpartisan entity. And so we had the 
+4 responsibility to follow that data and ensure we were doing our jobs of giving citizens the 
+5 most reliable sources of information on how to request their absentee ballot. And, 
+6 when we noticed many local clerks but not all local clerks were looking to do the 
+7 same --remember, we have 83 counties and 1,500 local clerks. It was incumbent upon 
+8 me as the statewide officer to ensure that, no matter where someone lived or 
+9 what --who their clerk was, that they had that same opportunity to get that information. 
+10 So that was --that sort of equal protection purpose as well was undergirding our decision 
+11 to at the statewide level send out those forms, because I didn't want a voter in Ottawa 
+12 County to get that form but a voter next door in Muskegon County to not get it because 
+13 that creates an unequal access potential. 
+14 So I say all that to say that is why we did it. We were grateful to have Federal 
+15 CARES funding to enable us to pay for it. And the entire decision was based entirely on 
+16 what is best for every voter in our State. And what happened at that point was the 
+17 President on Twitter --the President at the time on Twitter then attacked that decision 
+18 and got it wrong. He said we sent out ballots when we actually didn't. So 
+19 misinformation. And then, you know, personally attacked me, calling me names and, in 
+20 that moment, created and made this very nonpartisan voter-driven, data-driven decision, 
+21 made it a lightning rod that, to this day, I am still being asked about and asking if I regret 
+22 making that decision or if it was a bad decision when, as I just explained, it was a very 
+23 data --it was exactly what any secretary of state should have done in that circumstance, 
+24 and, indeed, many did. The Iowa secretary of state, the West Virginia secretary of 
+25 state, the Georgia secretary of state. The Ohio secretary of state reached out to me and  11 
+1 said: I want to be able to do this too. How can I? 
+2 And so this was a decision that many secretaries of state were making, yet 
+3 Michigan was singled out in a way that created a lot of controversy based on sort of noise 
+4 and falsehoods and misinformation that looking at simply the facts could have --and the 
+5 determination that we made could have illuminated that indeed this was the right 
+6 decision for Republican, Democratic, Independent, all voters in our State. 
+7 Q You mentioned Federal --I am sorry. Go ahead. 
+8 A So just to kind --that is --that is a longwinded anecdote in response to your 
+9 question of how we had --of when things started. That was really the beginning of, and 
+10 then, at that point, every decision we made began to be made controversial by 
+11 miss --through misinformation, causing people to --many local election officials, many 
+12 Republican lawmakers in Michigan --to pick up on that misinformation and try to repeat 
+13 it and essentially created the controversy that we battled through election day and 
+14 beyond. But it began in that moment. And my own, I think, disappointment on behalf 
+15 of all voters in our State that elected officials who are --who must operate in a way that is 
+16 trustworthy to their citizens were instead using their platforms to lie and create 
+17 controversy falsely so based on nothing. And that citizens were then reacting --many, 
+18 not all --but some were reacting in a way that were creating anger and distrust of the 
+19 elections process based on misinformation, not based on fact. But it really began in 
+20 that --in May and in various different ways continued through election day and of course 
+21 began to escalate after the unofficial results of the election became known. 
+22 Q We are going to walk through some of that. In the pre-election period, did 
+23 any Federal agencies assist in Michigan to ensure the accuracy of the vote and the 
+24 security of the election? 
+25 A Well, as I mentioned, as you referenced, the CARES Act funding were key.  12 
+1 don't know if that is considered a Federal agency, but the CARES Act funding were --was 
+2 probably the most significant action the Federal Government took at that time to support 
+3 us in the States. I and others asked for more and more support, which we didn't 
+4 receive, but we were able to utilize what we did receive effectively. 
+5 In addition to that, CISA was, under the leadership of Chris Krebs, extraordinarily 
+6 supportive. We had frequent conversations with him, both at the State level, the local 
+7 level, collectively as secretaries of state, as they worked to do what was really the most 
+8 important thing in that time, which was build the connective tissue between us and them 
+9 so that, if and when there were serious threats to the security of our process that they at 
+10 CISA became aware of, that we had a direct line of communication to them. So I was 
+11 really grateful for their work and support. 
+12 To a lesser extent and later on in --closer to November, the FBI reached out to us 
+13 as well, and we had a meeting with them, Jonathan Brater and I. But it was late in the 
+14 process, and I didn't get the sense that they were coordinating with the leadership at 
+15 CISA, Matt Masterson and Chris Krebs in particular, who had been working through, 
+16 working with quite consistently throughout the election cycle. 
+17 Beyond that, I can't --those were the two in terms of support from Federal 
+18 agencies. The Election Assistance Commission as well to a lesser extent was providing 
+19 support, particularly when it came to recruiting poll workers and other best practices, but 
+20 the Federal agency we worked most closely and continuously with was CISA. 
+21 Q And did they ultimately identify anything in Michigan that would have 
+22 affected, from CISA, the Federal Government's perspective, the outcome or the accuracy 
+23 of the vote in Michigan? 
+24 A No. And there was never any actual threats that came to fruition. There 
+25 were efforts to proactively prepare for threats like upgrading our websites and other  13 
+1 things. And whenever there was any, you know, potential threat or intelligence to 
+2 that --in that regard, we were notified. But there was at no point any actual 
+3 interference with our elections. And, as I said before, we and as CISA, through Chris 
+4 Krebs, later confirmed, we actually got it right. And we got it right in part because CISA 
+5 also followed best practices in working with us in looking at data and reports of any 
+6 potential intelligence and concerns so that we could be prepared and respond 
+7 appropriately. As a result in part of that work, we were able to protect our systems 
+8 against any potential challenges or interference that would have impacted the accuracy 
+9 of any aspect of our process, including the vote results. 
+10 Q You mentioned earlier another election that Michigan had in May. And I 
+11 understand there is also an election, at least in August as well, of that year. Is that 
+12 right? 
+13 
+14 A 
+Q Yes, uh-huh. 
+Was there any allegations that the certified results from those other election 
+15 held the same year in 2020 were not accurate? 
+16 A No. There were, I believe, if I recall correctly, in August, at the local 
+17 canvassing board in Wayne County there were concerns raised around poll book, balance 
+18 poll books where you have a situation where the number of people who show up to a 
+19 precinct are different than the number of ballots cast. And the job of the clerk during 
+20 the canvassing process is to resolve those discrepancies. And essentially what happens 
+21 sometimes is the clerk runs out of time to resolve all those discrepancies. And so those 
+22 results are then presented along with those discrepancies to the --discrepancies in just, 
+23 you know, number of people showing up versus number of ballots cast and things like 
+24 that, imbalanced poll books, as they are called. So some of that emerged in the August 
+25 canvassing process after the August primary. And that actually for us was an indication  14 
+1 to begin providing more support for the Wayne County clerk and election officials in 
+2 Wayne County to make sure they had the time and space to resolve those basic 
+3 bookkeeping challenges that don't impact the results of the election at all but are 
+4 sometimes utilized, as they were ultimately in November but beginning in August, to 
+5 suggest something untoward, to falsely insinuate that something untoward was going on. 
+6 So recognizing that and this is work we continued to do and have now I think done 
+7 successfully, because in our most recent election, all the poll books were balanced out of 
+8 Wayne County in Detroit. But we began to see perhaps the seeds being planted at that 
+9 point of potentially questioning that and suggesting that an election shouldn't be certified 
+10 based on those discrepancies. The election was certified, but it also --in August, but it 
+11 also led to us being more involved in Detroit's elections and building out a partnership 
+12 with the Detroit city clerk. Having the former elections director, Chris Thomas, who is a 
+13 renowned nationally known expert in election administration, be on hand to support 
+14 Detroit's elections in the fall. So, essentially, all that to say is anything that emerged for 
+15 us in the canvassing process post-August primary in Wayne County was utilized to 
+16 improve on elections processes for November. And then, of course, in November we 
+17 began to see a more coordinated, in my view, insincere and lacking in good faith effort to 
+18 utilize basic procedural things to suggest that, wrongly so, the election results were 
+19 anything but accurate. 
+20 Q Now I want to talk about this idea of the blue wave, I will refer to it as that. 
+21 But are you familiar generally what I mean when I say blue wave? 
+22 
+23 
+24 A 
+Q 
+A Yes. 
+What does that mean to you? 
+It is generally used as a political term to suggest a large number of voters 
+25 who vote Democratic in a particular election are going to turn out and, as a result of the  15 
+1 wave of their enthusiasm and support, will see the election of many Democrats in that 
+2 particular election. And the same can be seen of a red wave with the same happening 
+3 with Republican --with voters voting for Republican candidates that then creates a 
+4 momentum electing many Republican candidates based on the turnout of voters who 
+5 chose those candidates or affiliate with that party and doing so in higher numbers than 
+6 those who don't. 
+7 Q And I understand there was some talk or discussion in the pre-election 
+8 period about this blue wave coming through absentee ballots and really happening on 
+9 election night or even after that based on how ballots are counted and processed from 
+10 absentee voters. Did you have concerns or thoughts about that before the election 
+11 going into November 3rd? 
+12 A We were aware that candidates were talking about the potential for ballots 
+13 voted on election day to favor one candidate that may not emerge ultimately to be the 
+14 winning candidate after all ballots were counted. And we were --I was looking at things 
+15 through the lens of --two things: One voters in Michigan can choose when they vote, 
+16 whether they vote prior to election day or on election day. And, at that point, these 
+17 were our first series of elections with that right in place. And our data didn't really 
+18 indicate. I mean, you could extrapolate things from other States, but we really didn't 
+19 have the data in Michigan to know for sure or really could we ever reliably know for sure 
+20 who is going to vote early and who is going to vote on election day. But we know a lot 
+21 of people speculated, and we know the President at the time himself was openly 
+22 speculating, as others of his most ardent supports were doing as well as well, is to --the 
+23 affiliations of voters prior to election day versus on election day. That is really sort of 
+24 irrelevant to our work as election administrators. We just want to make sure everyone 
+25 knows that there are options to vote and chooses what is best for them.  16 
+1 That said, what I was concerned about was any effort by any candidates, but 
+2 particularly the former President, to falsely --and I talked about this publicly at the 
+3 time --falsely before every ballot was counted claim victory and do so on election night 
+4 when perhaps only a small portion of ballots had been counted and perhaps those ballots 
+5 might have favored him at the time. We didn't know a way to know if that was actually 
+6 going to happen. We were actually just prepared for him to say it regardless because 
+7 there had been such a pattern, beginning in that May incident that I talked about, of the 
+8 former President simply saying things that benefited him politically regardless of whether 
+9 they were true. 
+10 And so, my goal and my job as the State's chief election officer was to make sure 
+11 that citizens and the media knew that the voters and the counting of ballots decides who 
+12 wins an election, not a candidate. And so a candidate can't simply declare that they 
+13 have won at any point but certainly prior to all the ballots being counted until, you know, 
+14 we have the unofficial results prepared. 
+15 So one of the --I really focused on three things in that week of November prior to 
+16 on election day and the days immediately following. One was making sure everything 
+17 went smoothly. Two was making sure our ballots were counted efficiently and 
+18 effectively and validated securely. But third was being a voice for our State at a time 
+19 when we knew likely that others were going to be trying to define who won before the 
+20 ballots defined who won or the voters defined who won that election. And so, from the 
+21 moment those polls closed in November --that Tuesday in November, until we had the 
+22 unofficial results about 40 hours later, I was determined to continue speaking the truth 
+23 about the fact that, whether someone votes on election day or prior, their vote counts 
+24 and our job was to count every vote. I can go into more detail about some of the ways 
+25 in which the legislature wasn't helpful in that regard in Michigan because essentially,  17 
+1 under our laws, we can't begin processing absentee ballots until the morning of election 
+2 day whereas, in States like Florida and Ohio, they can begin much earlier. That was a 
+3 change we asked for for over a year and that the legislature never gave us, making us 
+4 surmise that, you know, potentially they didn't want us to succeed in quickly counting all 
+5 those ballots, but that was just our --my own feeling at the time because we had no 
+6 other reason to why they weren't acting. 
+7 But that said, our job was to efficiently tabulate those ballots as quickly as possible 
+8 to minimize the amount of time that any candidate, including the former President, had 
+9 to confuse people about the results of the election by insinuating that if a vote of people 
+10 who voted in person on election day went, you know, just looking at those small portion 
+11 of ballots, favored him but counting every ballot didn't favor him, we were aware that he 
+12 would try to use that as an opportunity to suggest that he won the election based on 
+13 simply looking at who voted on election day itself. But again, as I have just gone 
+14 through, that is not how elections work. 
+15 
+16 Q 
+A Sure. 
+And so we tried to throughout that time period remind people of that. And 
+17 of course that ultimately was just the beginning of --I thought we would be 
+18 doing --fighting that battle up until the unofficial results were declared because, at that 
+19 point, we didn't expect the --we thought the voice of the voters would be clear, 
+20 unequivocal as it was and no one seeking public office would be in a rightful place to 
+21 challenge that fact. And, of course, we were sorely mistaken. 
+22 Q And so, of course, on --late on the night of election day or early morning the 
+23 next day, the President went out and did declare victory. 
+24 
+25 A 
+Q Yes. 
+And did that cause in fact the confusion that you were concerned about with  18 
+1 the voters? 
+2 A Yes. It created a baseline of suspicion about the election results, which we 
+3 have continuously worked and are still working to correct and address. And, again, it 
+4 was something that we felt, once the data and the truth was out there through the actual 
+5 full counting of the votes, that any suggestion that anyone who didn't win an election 
+6 that somehow --you know, that it would simply dissipate the misinformation, dissipate 
+7 because the facts were so clear. And I think that was what was most disheartening, that 
+8 the lie, the misinformation became so --took hold through various different ways in so 
+9 many circles that --and the subsequent attempts through lawsuits masquerading 
+10 as --well, PR campaigns masquerading as lawsuits and, you know, attempts to block the 
+11 certification; they were simply, in our view, attempts to keep that lie out there whereas, 
+12 in previous years, it would have dissipated as soon as the unofficial results were known. 
+13 But by challenging then the unofficial results as somehow invalid and continuing those 
+14 challenges up through and until January 6th and even beyond, it created this sea of 
+15 uncertainty based on no evidence or facts, but purely rooted in a political challenge or a 
+16 political strategy and a partisan strategy, in my view, to undermine the public's 
+17 confidence in the very clear and unequivocal election results, not just in Michigan but in 
+18 other States as well. 
+19 Q From your position where you sat as the Secretary of State, were there any 
+20 allegations in Michigan in particular that stood out as sowing these seeds of distrust or 
+21 confusion? 
+22 A Yes, there were many. I think what we experienced was any --any lever 
+23 that could be pulled, any allegation that could be thrown to either actually block the 
+24 certification of the election or create enough distrust of the certification process as to 
+25 cause people to question its legitimacy, which again those were the goals one or the  19 
+1 other or both, was --resulted in various questions and challenges and insinuations and 
+2 allegations. And it was, because they weren't really rooted in anything legitimate, 
+3 because every decision we made throughout the to 2020 election and beyond was rooted 
+4 in best practices that I had studied and that I knew and that our team had implemented, 
+5 and so we felt very confident throughout the process. And indeed I think the scrutiny 
+6 and our ability to withstand that scrutiny underscores this. We felt very confident 
+7 throughout the whole process that the facts and the true would prevail because we knew 
+8 the election results were accurate. We knew that the certification process under law 
+9 should proceed because there was no legal reason for it not to. 
+10 And every step of the way we had the law on our side, but what grew were the 
+11 suspicions and anger affiliated with those suspicions that were in no small part, if not 
+12 entirely led by, from our standpoint, the President at the time utilizing his platform to, 
+13 with the loudest megaphone perhaps in the room, spread those falsehoods that people 
+14 would then react to in a way that wasn't, again, rooted in truth but was rooted in sort of 
+15 following these lies and believing them. 
+16 Q There are a number of allegations that you mention popped up specifically in 
+17 Michigan. And earlier you mentioned somebody by the name of Chris Thomas. Chris 
+18 Thomas I understand is a former director of elections himself who worked in multiple 
+19 administrations. Is there --I guess without the advantage of you having what he has 
+20 said about the Michigan election in front of you, do you have any reason to believe that 
+21 his conclusions that allegations about the TCF center or poll watchers or observers or 
+22 counting and dating issues, do you have any reason to think that his conclusions are not 
+23 correct with respect to the 2020 Presidential election? 
+24 A No. He is --he is the gold standard. Chris Thomas is the gold standard for 
+25 integrity and deep knowledge of elections operations in Michigan and really nationwide.  20 
+1 That is why we wanted him there in Detroit because he is a trusted voice. He has 
+2 worked for three Republican secretaries of state and was one of the longest serving 
+3 election directors in the country. There is no one who is, in my view, a more trusted 
+4 informed voice about election operations in our State, certainly potentially in our country 
+5 than Chris Thomas. 
+6 Q And I do want to ask you specifically about Dominion. That was an 
+7 allegation coming out of Antrim County Michigan after the election. Can you briefly just 
+8 describe what your understanding of that was and how it was resolved or the conclusions 
+9 that your office or others in Michigan reached with respect to Dominion voting systems? 
+10 A Yes. Antrim County in particular, it first was brought to my attention I 
+11 believe the day after the election or thereabouts when I was asked by a reporter at a 
+12 press conference about the accuracy of the vote tallies coming out of Antrim County. 
+13 And I probably have a recording of my response somewhere, but I simply --without 
+14 knowing more, simply just said I had, you know, faith and trust in the process and then 
+15 asked Jonathan Brater, our director of elections, who was much more closer to some of 
+16 the more granular challenges that day, for more information. And that is when I learned 
+17 it was an issue of human error and that essentially the clerk at the time failed to update 
+18 all of the programming for the tabulation machines with all races. So even though 
+19 machines counted the ballots accurately and had that accurate count, the reporting 
+20 software initially reported the unofficial results incorrectly. Now, that is why we call the 
+21 results unofficial. That is why we have post-election canvasses to catch things like that. 
+22 And it would have been caught in canvass where they actually look at the ballot and the 
+23 tabulator tapes and match that with the results of --reported by the machines. So it is 
+24 just yet another example --and you probably say this of any potential allegation that 
+25 emerged after the election --of, if and when any error occurs or any attempted  21 
+1 maleficence occurs in an election, we have secure levels of protocols in place to catch it 
+2 before anything becomes an official result or officially tabulated, and this was the case in 
+3 Antrim. And so, from my standpoint, error caught, error addressed. It was fixed I 
+4 believe by the clerk before, you know, and --before I think anything became particularly 
+5 controversial, it was identified and fixed. And so, at that point, I --we assumed okay, 
+6 error caught, error fixed done, taken care of. Election results accurate, moving on. 
+7 
+8 
+9 Q 
+A 
+Q So --
+And, in a typical election cycle, that would have been the end of it. 
+Understood. And so this human error that caused this, it sounds like it was 
+10 fixed, it was addressed. Was there any indication that you or your team were aware of 
+11 of hacking into voting machines or some bug in the system or in the software designed to 
+12 switch votes from one candidate to another? 
+13 A No. But we also know that there is always --I have been studying this for a 
+14 long time, for decades. We also know and we always need to be prepared for any 
+15 potential malfeasance to occur, and that is why we have post-election audits, that is why 
+16 we have paper ballots, and again that is why we have many secure protocols in place. 
+17 Because, in my view, election administration is about creating the most secure system 
+18 possible, which we did, but also having protections in place to catch anything that may 
+19 occur because none of us are perfect and we are all human, and so we have to have 
+20 protocols in place to potentially correct errors as they occur and make sure that we can 
+21 have confidence at the end of day after those procedures and protocols have been met 
+22 that the results are accurate. And that is exactly what happened in Antrim County. 
+23 There was a human error. It was caught. It was fixed. And none of it actually 
+24 impacted the official results. And, of course, our full essential recount, hand recount, 
+25 livestream of those hand --those actual ballots in Antrim County verified that the  22 
+1 machines accurately counted the results. So, again, we --there was no evidence to 
+2 suggest that there was anything wrong or interference with our machines. But I will also 
+3 emphasize again that we had done the work leading up to election day to have that 
+4 confidence through verifying the machines prior to, which prior to an election, which 
+5 every clerk does, and does an accuracy test prior to an election, to our work with CISA to 
+6 be aware of any information about any potential threats or attempts to intervene with 
+7 our election machines, that we had a clear line of communication to be able to be made 
+8 aware of and react to. 
+9 And then, finally, I will mention one of the things I did in 2019 and 2020 was meet 
+10 directly with the vendors of our voting machines at Hart and Dominion and ES&S. And I 
+11 talked with them again leading up to the elections again to make sure lines of 
+12 communication were open and emphasizing to them that, if they heard anything or if 
+13 they knew of any vulnerabilities within their machines, to make sure we knew 
+14 immediately so that we could address them. And so all that to say is we didn't go into 
+15 this blindly, just assuming and trusting our machines. We did the work to make sure, if 
+16 and when any vulnerabilities emerged, we would know about them so that we could 
+17 address them. And that is why I can also say with such confidence that our machines 
+18 worked, and they were secure, and they accurately counted the ballots, not to mention 
+19 the hundreds of post-election audits we did, which again reaffirmed that truth. 
+20 Q I do want to talk you to you briefly about certification at the county levels in 
+21 particular. And are you aware of outreach or efforts to stop or delay the certification in 
+22 Wayne County in particular? 
+23 
+24 
+25 A 
+Q 
+A We are aware of what was reported in press. 
+Okay. 
+You know, that there was outreach made, there was --and that was --and  23 
+1 statements that were made, public statements that were made by officials at the time 
+2 regarding that outreach. 
+3 Q And we understand there was outreach from the President directly to two of 
+4 the Wayne County Board of Canvassers members, Monica Palmer and William Hartmann. 
+5 Is that the public reporting you are referring to? 
+6 A That is my understanding of what occurred. And I would also say that 
+7 actions they took seemed to have validated that reporting, actions that the canvassers 
+8 took and questions that were raised seemed to indicate that --the legitimacy of that 
+9 reporting. 
+10 Q And both of them are Republicans on that Board of Canvassers. Is that 
+11 your understanding? 
+12 
+13 
+14 A 
+Q Correct. I believe one has since passed away. 
+Mr. Hartmann, I think that is correct. 
+As members of the Board of Canvassers, they are not in charge of elections in 
+15 either Michigan or in Wayne County. Is that right? 
+16 A Correct. Their job is --and they are appointed by two --by political parties 
+17 themselves. Their job is to basically check and make sure all the procedures were 
+18 followed, to provide another set of eyes, as it were, on the elections processes. And, 
+19 barring any evidence or concerns that would significantly suggest that the results are not 
+20 accurate, their job is to certify the elections at the local level. 
+21 Q So the President we understand reached out to them. Did the President 
+22 ever reach out directly to you, the chief elections officer in Michigan? 
+23 
+24 
+25 A 
+Q 
+A Only on Twitter. No, not directly to me. 
+Okay. 
+Other than more public statements that he made on social media.  24 
+1 Q And my understanding, I looked briefly at the Michigan Board of County 
+2 Canvassers' manual, which again I know you don't have the benefit of having it in front of 
+3 you. But it does say that the Board of Canvassers, based on a Supreme Court case and I 
+4 guess other laws and regulations in Michigan, that it is not the job of canvassing boards to 
+5 go behind the returns, especially for the purpose of determining fraud in the election. 
+6 Their duties are more or less clerical. I understand there is some nuance there. But 
+7 generally is that that your understanding as well? 
+8 A Yes. Our understanding and our expectation that the limits of their legal 
+9 authority as appointees by parties is simply to observe the process and to I think the law 
+10 actually says they shall certify. And so they have a legal responsibility and obligation to 
+11 certify. And stretching the boundaries of their authority was something that we 
+12 continued to see suggested, but their authority is very clear under the law. 
+13 Q And I also understand that Michigan law allows candidates to request 
+14 recounts in Michigan, particularly a President or a candidate for President is able to do so 
+15 if, under Michigan law, the request alleges fraud or mistakes in the canvassing and so long 
+16 as the candidate does so with specific allegations. Do you recall President Trump or his 
+17 campaign ever seeking a formal recount with you from the 2020 election? 
+18 A No. There were some local candidates who requested recounts of local 
+19 races, which we completed in partnership with the clerks. The former President and his 
+20 campaign or anyone affiliated with it and anyone else running for statewide office, 
+21 including the Senate candidates, none of them requested a recount at any point, which it 
+22 was of course their legal duty --or their legal right to do so if they chose to. And we 
+23 were prepared fully and even awaiting or expecting such a request and ready to fulfill it, if 
+24 asked. But no request was ultimately made. 
+25 Q So the President --none of claims that the President or people on his behalf  25 
+1 were making about fraud or improprieties in Michigan were actually written down on 
+2 paper and submitted to you as part of the formal recount request, even though the 
+3 President had the right to do that. Is that correct? 
+4 A Correct. There was no formal recall request submitted to our office or any 
+5 other office in Michigan. And I will add that, in furtherance of that, we actually 
+6 voluntarily did a full hand recount of the votes in Antrim County in response to the 
+7 misinformation and its metastasization, if that is a word, and to again affirm the results 
+8 and quell people's concerns. Indeed, that full hand recount did affirm the accuracy of 
+9 those results. And my point in saying that is that we were at every time willing to 
+10 comply with requests made, and we were willing to and even did go above and beyond to 
+11 proactively try to demonstrate and reinforce the accuracy of the election results. But, of 
+12 course, it all fell on deaf ears because it, in my view, fit in with what was clearly a political 
+13 strategy to de legitimize the election results, even if there was no evidence that those 
+14 results were anything but accurate. 
+15 Q And I understand that, separate from the recounts, there were also a 
+16 number of audits conducted in the State of Michigan with respect to the vote. Did any 
+17 of the audits turn up information that suggested that the vote was anything other than 
+18 fair, secure, or accurate? 
+19 A No. The audits and there was a risk-limiting audit that we had been 
+20 preparing to do. We had started preparations for in 2019. So that audit took place as 
+21 planned. And I say that to emphasize that risk-limiting audits statewide take a lot of 
+22 work and piloting and collaboration to pull off successfully. And we had done had that 
+23 work prior to any of this emerging. And that is why I --that is in part why I feel so 
+24 strongly in the success and the accuracy of that audit, as well as the hundreds of other 
+25 audits conducted at the State and local level, all of which and the results of which are all  26 
+1 laid out in the report that we released following those audits. 
+2 The other thing I will emphasize is those audits looked not just at the machines 
+3 and the accuracy of the results and the tabulation, but also at the procedures that went 
+4 into validating the ballots, ensuring if someone showed up to a precinct, that all of the 
+5 rules were followed and they were effectively identified as the voter. And so we also 
+6 audited the procedures in place and the secure protocols we had in place to protect 
+7 against malfeasance prior to a ballot getting to a machine. And all of those audits also 
+8 affirmed that the secure protocols were in place, that the rules were followed, and, 
+9 therefore, we could trust not just the results of the ballots being tabulated by the 
+10 machines and that part of the process, but the process in which ballots were cast and 
+11 ultimately fed into the machines and validated prior to that point. And so I think that is 
+12 important to note because, in some cases, the auditing process has been I think wrongly 
+13 criticized as something that just looked at ballots as they were voted through machines 
+14 and the accuracy of that. Our audits were comprehensive as our report details and 
+15 looked at both the procedures as well as the tabulation. 
+16 Q And I would like to shift briefly to this idea of alternate electors in Michigan. 
+17 After we last spoke, your office provided documents to the committee of electoral votes 
+18 purportedly submitted by Republican electors in the State of Michigan to cast votes for 
+19 then-President Trump, who was not the certified winner. Can you tell us about your 
+20 understanding and what you knew at the time about any efforts to have alternate 
+21 electors to meet and cast votes for Donald Trump in Michigan? 
+22 A Yes. The --there was a lot of discussions and chatter about that element of 
+23 the strategy that we saw unfolding that we were trying to piece through as we lived it, 
+24 whether it was, you know, attempts to block the certification at the State or local level, 
+25 which happened in November, and then, moving through that, November 23rd, our State  27 
+1 results were certified. We then, the next front, the next evolution of this battle, for lack 
+2 of a better word, was this question of whether or not still an alternate slate of electors 
+3 would be submitted. 
+4 And we were again just responding to chatter and intelligence and that sort of 
+5 thing. And I say all that to say that the crystallization of that chatter was really when 
+6 actual people showed up outside our State capitol on a day when we were meeting inside 
+7 in the senate chamber to formalize the electoral college vote process and have the 
+8 electors vote and submit the official slate of electors, signed by the electors themselves 
+9 and verified by the Governor and I, and submit that to the National Archives. So the 
+10 manifestation of that chatter and the, you know, was in the actual people who showed up 
+11 outside the capitol and claiming to be the electors themselves and the security needed 
+12 around that day. There was also a, I believe, my recollection is that a lawmaker or 
+13 current or former at the time was doing a radio interview that morning of the electoral 
+14 college certification in our State, suggesting that there might be violence at the capitol 
+15 that day, at the State capitol. And, again, I would pull up the interview to get the 
+16 most --this is just my recollection of it, but there was a sense that there might be a bomb 
+17 threat or something of that sort, but that might have just been us kind of piecing together 
+18 the chatter we were hearing. But there was an air of concern that something bad might 
+19 happen that day at our State capitol. 
+20 And, again, from my standpoint, in the middle of all this, I am just trying to do my 
+21 job. And so 95 percent of my thought and focus is on making sure we get all the 
+22 materials, making sure we get to the capitol, making sure we continue to talk publicly 
+23 about the process and affirm to people that it is moving forward. And so I spent very 
+24 little time thinking about what could happen or what could go wrong or any violence that 
+25 might --but there was definitely a sense, an aura in the air through the chatter that --of  28 
+1 uncertainty, that something could happen. And so --so, anyway, but the videos are of 
+2 the people who showed up, I think were kind of again the most physical manifestation of 
+3 a lot of that chatter claiming to be the false electors. 
+4 After our official ceremony, we then went directly to the Governor's office. The 
+5 Governor and I then signed --and there are documented photos of this that the Governor 
+6 and I signed all of the official --the official slate of electors was signed and then sealed, 
+7 and then I put the seal on it as the keeper of the State seal. And those were 
+8 immediately given to or transmitted to the National Archives. There was a sense of 
+9 urgency in that moment about transmitting that information that was palpable. And I 
+10 didn't know all the reasons why there was any such an urgency, perhaps the Governor's 
+11 attorney, Mark Totten, did, but there was definitely a sense that we have got to get these 
+12 official slates of electors to the National Archives as soon as humanly possible, and we 
+13 have to confirm that they were received. And there was my first time going through all 
+14 of this so I didn't have much to go on that this is different than any other. But, again, 
+15 there was a palpable sense of urgency. At the time, I didn't know about any potential 
+16 formal written alternative slate of electors or anything like that. It wasn't until later, a 
+17 few days later, that we learned of that, that that helped me understand the sense of 
+18 urgency at the time of submitting our official slates. And then, at the time, and I believe 
+19 it was around January, a few weeks later, in 2021, where we learned about the alternate 
+20 slate that we then knew that it was unsuccessful because --this was prior to January 6th, 
+21 but --I believe --but it was unsuccessful because we submitted our official slates; we got 
+22 confirmation it was accepted, all of that. So we had done what we needed to do. So I 
+23 didn't give much thought about the alternative slate at that time other, than to refer it to 
+24 the Attorney General to see if there were any laws violated in that regard because it is 
+25 certainly something that is alarming. And had we not done everything we needed to do  29 
+1 with the sense of urgency to get the official slates in and everything we had done up to 
+2 that point to create those and make sure those official slates were ready to go, you know, 
+3 it creates this air of, what could have happened had there been a breakdown on the 
+4 official side of our processes, knowing that there were folks waiting and potentially 
+5 planning and strategizing to submit this alternate slate?  30 
+1 
+2 [11:07 a.m.] 
+3 BY 
+4 Q So it's been publicly reported and out there that one of the reasons, or 
+5 perhaps a primary reason for these alternate slates meeting, at least given by them, was 
+6 in the event that a State legislature or court determined that the outcome of an election 
+7 at any given State was actually different, that these would be in place. 
+8 Were you aware of any formal request for GOP or Republican electors to meet 
+9 because of that? You know, still meet in the capitol as required by law, cast these 
+10 alternate votes, just in case they're needed? Did the Republican Party or anybody reach 
+11 out to your office, or anybody in the capitol that you're aware of, to actually set this up 
+12 and kind of follow the Michigan laws and having these people meet and cast votes? 
+13 A No. There was no outreach to our office, but there wouldn't have been 
+14 because, in order to set anything like that up, they would work directly with the capitol, 
+15 with the --which the lawmakers --our State senators and State representatives and the 
+16 Republican leadership in both of those chambers, they're the ones who would have, I 
+17 believe, gotten those requests, not us. Or they could have gone through the Governor's 
+18 office. 
+19 But --so those types of requests wouldn't have come to us. My --my 
+20 appearance and my role at the electoral college certification was primarily ceremonial as 
+21 the State's chief election officer. My official role came later in actually signing the 
+22 certificates, and so --so there was no reason why anyone seeking to have an alternative 
+23 session would have gone through us. There were other places --I imagine the State 
+24 lawmakers --where they would have gone to arrange that. 
+25 I will simply just say, though --and, at this point, everything --I don't --I don't  1 have a recollection as to when exactly I learned that there was, but we know it's been, I 
+2 think, since revealed through memos that there was a plan to get access to the State 
+3 capitol and --and so I imagine there perhaps were conversations [inaudible] --
+4 
+5 
+6 - Uh-oh. 
+Secretary Benson. --for the purpose of seating electors. 
+I know that the timing of us actually physically showing up, everything was 
+7 very --can you still hear me? It says my internet --
+8 
+9 -Yes. 
+Secretary Benson. --connection is unstable. Okay. 
+10 There was a --that day, again, there was so much happening at every minute in 
+11 those moments, and I was just trying to focus on my work, but there was definitely a 
+12 sense of a need for greater security around the capitol building and the need to make 
+13 sure we got there, we got in our seats. 
+14 There --you know, and that was mostly the Governor's office and Lieutenant 31 
+15 Governor's office that were managing everything, but there was definitely a tenseness to 
+16 the entire process that --that suggests to me, in retrospect and even maybe going 
+17 through it at the time, that there was more that we didn't know of that was happening. 
+18 And --and I think that's some of what we've seen unfold since. 
+19 BY 
+20 Q Secretary Benson, this is-· I just wanted to ask you a couple of 
+21 followup questions about this line. 
+22 I know you've told us that you were monitoring and obviously having to react and 
+23 deal with a lot of the misinformation and the --I think you described it as, you know, 
+24 different elements or manifestations of the strategy to interfere with certification of the 
+25 election, coming primarily from the then-President, and I wondered if there --during this  32 
+1 time, either after the meeting of the electoral college or since then, if you're aware of 
+2 efforts in the State legislature or elsewhere in Michigan to have some other formal action 
+3 taken that would have purported to confer some legitimacy on this alternate slate of 
+4 electors? 
+5 A I'm not specifically aware of any --you know, nothing was shared or would it 
+6 have been shared with me directly. And --because I don't talk regularly to the senate 
+7 leader, Mike Shirkey, or his staff. To the extent that I was at the time in contact with 
+8 Lee Chatfield, the speaker of the house, and his staff, it is unlikely that they would have 
+9 shared anything with --with my office about this, because it --you know, at that point, 
+10 they would be collaborating with an attempt to undermine the official actions that my 
+11 office was taking, so why would they alert us to that? 
+12 It's been more, you know, again, reports in the press that --that there was 
+13 pressure made, and I don't know. I don't know all of the conversations that occurred, 
+14 but I know there were probably many that occurred that I was not a part of that kind of 
+15 reflected the actions that we experienced, like people showing up outside the --
+16 
+17 Q 
+A Right. 
+--the State capitol on the day that we're inside --the moment that we're 
+18 inside certifying those votes. 
+19 I will also add, as I'm thinking through it, there was also a --there was a, you 
+20 know --there was a high --just everything was well planned that day, and it was very 
+21 important that I and others got into the chamber at a certain time. That was impressed 
+22 upon me, without knowing why. 
+23 Now knowing that there may have been an attempt for others to get there first, in 
+24 which case they --you know, others who have control of those chambers might have 
+25 potentially permitted, although I don't have any, you know, direct access to that  33 
+1 knowledge. But there was a sense of we needed to get there quickly and as soon as 
+2 possible to go through this formal process. 
+3 And, again, it being my first time doing this work, it was --you know, nothing kind 
+4 of, you know, particularly struck me as --as alarming, but now, knowing greater context, I 
+5 could envision there was perhaps a scenario in which we needed to get there and be in 
+6 place prior to anyone else showing up because certainly people did show up after we 
+7 were in place. 
+8 
+9 Q And just one more question on this. 
+After your --after your office received a copy of the purported alternate slates, I 
+10 believe your --you received them directly from the Archives. So, after you looked at a 
+11 copy and realized that that slate had also been submitted to the National Archives, what 
+12 was your reaction? What did you think about what you were seeing? 
+13 A It --my reaction was, well, I'm glad --our official --my initial interaction was, 
+14 well, these are illegitimate, but --and now I understand some of the sense of urgency 
+15 behind getting our materials in as quickly as possible. And, again, it was --it was, you 
+16 know, again, palpable that the --the sense that it was very important that these physical 
+17 documents get into the hands of the National Archive as soon as possible. So it helped 
+18 me understand a little bit of why there was that urgency. 
+19 And --and then, secondly, it helped illuminate the broader strategy in going into 
+20 Congress, which --which I think unfolded, you know, on January 6th. But, you know, in 
+21 that moment, when we were on --we are --just lived through over, you know, 60, 
+22 70 days of every day seeing more and more of this very --what ultimately, in retrospect, 
+23 seems to be a well --a strategy --I don't know if I would call it well coordinated, but it 
+24 was certainly a coordinated strategy, beginning with the --you know, immediately 
+25 following the closing of the polls, and probably beginning prior to election day as well.  34 
+1 But, in terms of post-election strategy, trying to control the narrative around this 
+2 question of who won and who lost despite the --before the ballots had even been 
+3 counted, and then, you know, interfere with the local certification, and then interfere 
+4 with the State certification, and then the electoral college vote, and then, you know, 
+5 showing up at my house. 
+6 It was --it just felt like every day, there were more things that were being 
+7 revealed as to the tactics, and then the lawsuits and everything else that --the tactics that 
+8 were being employed all towards trying to block the ultimate certification of the election 
+9 for the Presidency. 
+10 And so I say that to say, upon receiving --the context in which I received these 
+11 alternate slates was yet another thing of this path. And it wasn't until January 6th 
+12 where I was able to understand that this was not a day-to-day thing that we were just 
+13 encountering, you know, the tactic at the moment, that this seemed to be a very 
+14 well-planned --planned and coordinated strategy to use every possible avenue to 
+15 overturn the election results and to block our official election results from coming to 
+16 fruition and through the electoral college and perhaps in other States as well. 
+17 So, upon receiving this alternate slate of electors, it was, you know, yet another 
+18 tactic that was attempted and that was unsuccessful and that we preempted. But it was 
+19 also a reminder of how close every one of these arrows that were slung at our democracy 
+20 came to being successful. 
+21 And, in the post-January 6th work that I and others have tried to do, we've been 
+22 focused on making sure, with the expectation that those arrows may come again in the 
+23 future, that we are prepared or even more prepared to handle them as we in some ways 
+24 did but --but in some ways through happenstance in the post-election period of 2020. 
+25 - Thank you.  1 
+2 
+3 - And, Secretary, I'm aware of your time limitations today. 
+Secretary Benson. Yeah. 
+- It is 11:15. We have --we kind of have one more block for you, 
+4 and we're happy to pick it up at a better time, so completely defer to you and your 
+5 schedule. 
+6 Secretary Benson. I have --I mean, I have maybe 10 --gosh, 5 more minutes, 35 
+7 because I have to go to another meeting, and I have to call for a --I'm on Mackinac Island, 
+8 so I have to call for a ferry before that, so I've got 5 more minutes. I can --
+9 
+10 
+11 - Okay. And we --
+Secretary Benson. We have time next week if we need. 
+- Okay. That sounds great. Then do you want to just trek through 
+12 for the next 5 minutes or so? 
+13 
+14 
+15 
+16 Secretary Benson. Yes, please. 
+- Okay. All right. 
+BY 
+Q So you --one of the things you just mentioned was people showing up at 
+17 your house, is one of the things that occurred in the post-election period up until 
+18 January 6th, and I want to talk to you about that. 
+19 So can you tell us about that and the personal toll that some of the 
+20 election-related issues were having on you and your family? 
+21 
+22 
+23 A 
+Q 
+A That's hard to do in 5 minutes. 
+Okay. 
+I will say --I will say the actual events of that night was --and this to my day 
+24 tells me the only way we even heard about this ahead of time was from a Democratic 
+25 lawmaker seeing a post on Facebook where someone --someone said: We're showing  36 
+1 up at 8 at an official's house tonight. 
+2 And they mentioned --they used the "she" pronoun in their posting. You'll 
+3 probably find their post. 
+4 Someone saw that and reported it to --I think called the AG, and --or called or 
+5 reported that --no, reported it to the capitol police, the State capitol police, who then 
+6 reported it to the Michigan State Police, who then called my office and the attorney 
+7 general's office and said: We don't know whose house it is, but we've received this tip. 
+8 And that was at 8 o'clock. 
+9 And I then went to the Facebook post and read the post as well as the context for 
+10 it, and it was all about me and the election and mad at me for overseeing this election, 
+11 and it was all kind of just attacking me. 
+12 So I was like --I mean, clearly it's me, guys. I don't know, like, why, like, we 
+13 would conclude anything else. And that was around 8 o'clock. 
+14 And then I called the attorney general and basically said: Well, it's one of us. 
+15 And she said: Well, I'll call you if it's me. 
+16 
+17 And I said: I'll do the same. 
+And then I just had to sit there. And then, about 45 minutes later, we started to 
+18 hear the noises outside my home, and that's --my stomach sunk, and I thought: It's me. 
+19 And they're --and then we just --we don't know what's going to --and the 
+20 uncertainty of that was what was the fear. Like are they coming with guns? Are they 
+21 going to attack my house? I'm in here with my kid. You know, it's --I'm trying to put 
+22 him to bed. And so it was --that was the scariest moment, just not knowing what was 
+23 going to happen. 
+24 And then Michigan State Police, again, knew at 8 o'clock that night --they didn't 
+25 show up to my house until 9:45. And, in that time period, from about a little before 9,  37 
+1 when folks showed up to 9:45, when police showed up, the only person standing in 
+2 between those protesters and my home was a neighborhood security guard, who we 
+3 called right away and showed up --and who showed up and just stood on my doorstep. 
+4 And we have video footage of this from our security cameras. 
+5 And there were a couple of times in which folks approached the house, in which 
+6 case the security guard approached them. But, you know, it was --it was a 
+7 neighborhood security guard, one, and that was it. And that was the scary time. 
+8 And so, during that time, I just kept calling the attorney general and telling her 
+9 what was going on. And then, eventually --and I was almost just --I mean --and I was 
+10 also --you know, I'm a mom, so I was --I was just trying to, like, protect my son and 
+11 maintain calmness in the house and take him to his bath and put him to bed and make 
+12 sure he didn't hear the noise at the same time. 
+13 And my husband, who was in the house at the time, called 911 and let them know. 
+14 Still no one showed up. And I think he was, like, on hold with them for a while, while I 
+15 was doing all of this. And --and so I'm sure there is a record of the 911 call and when 
+16 that happened. 
+17 But the biggest frustration was that no one showed up until 9:45. As soon as 
+18 law --as soon as Michigan State Police showed up and then, about 5 minutes later, 
+19 Detroit Police showed up --as soon as that happened, they dispersed. And --and I met 
+20 with Michigan State Police afterwards, and they said --they had actually interacted with 
+21 the protesters, and they said: A few were armed. 
+22 This is Michigan State Police: A few were armed, and, yet, it's an open carry 
+23 State, and so they're within their right to do that, to openly carry weapons. 
+24 And --and I just --obviously anyone's going to remember if someone said that to 
+25 them, and so that was like --that was my most cogent memory of that briefing after the  38 
+1 fact. 
+2 The only other thing to add is that, as it was going on, again, my focus was on my 
+3 kid. And then, you know, during the bath, I would, like, call Dana and let her know that 
+4 they were still there. 
+5 And then she said: Well, I'm going to call the mayor. 
+6 
+7 So then the Detroit mayor called me and said: What was going on? 
+And then he could hear them over the phone outside my house. And he said: 
+8 Is anyone there? 
+9 
+10 And I said: No, we're waiting for Michigan State Police to show up. 
+And he said: Well, I'll get DPD to come. 
+11 And then James Craig, who was then the chief the police for Detroit, called and 
+12 said the same thing and said: I'm so sorry; we didn't know about this. 
+13 We called 911. I don't know why he didn't know. 
+14 And we have a police station about a mile from our home, and so eventually they 
+15 came. But it was a good 45 minutes in which, again, just neighborhood security guard. 
+16 And I --and that was my sort of after-the-fact relief that nothing bad happened, 
+17 like there were no shots fired into my house, which is what, to this day, I'm still 
+18 concerned about. And we left my home after that. We stayed at a hotel by my kid's 
+19 school for a few days just to get out of the house because we, again, didn't know if people 
+20 were going to show up again. 
+21 We then --and I would --was --and I'm a very private person, and so at no point 
+22 was I hoping this would become public. And it was then the next day where Jake 
+23 Rollow, my communications director, called and said: Media knows about this, and 
+24 we're going to have to issue a statement. 
+25 And I just didn't want to have to talk about it, so then I wrote an op-ed, and it  39 
+1 ultimately became a statement from me, which I posted that day, about what happened. 
+2 And that is public. We can get that to you. 
+3 And then, you know, have subsequently --you know, have --I have subsequently 
+4 authored public descriptions about it. But that was the essence of it. And --and I 
+5 think it was then hard to have so much public attention and have to kind of keep talking 
+6 about it on the news and all that, but that was the actual experience itself. 
+7 The other --the last thing I want to add is that, after the fact, we worked with 
+8 Michigan State Police. The Governor reached out. The head of MSP reached out, and 
+9 they apologized for their lateness in responding, which I still have never fully understood. 
+10 And --and --but, at that point, I'm just about looking forward, so I said: What do 
+11 we need to put in place so that, if and when this happens again, people are there right 
+12 away? Because, if people had showed up within 3 minutes, it would have lasted 
+13 3 minutes. 
+14 And so now, if I call 911, they know it's me, and they know to escalate or come 
+15 right away, so we put procedures in place after the fact, but my biggest frustration and 
+16 recollection of that night was that the --the slow police response time. 
+17 Q Have any armed protesters showed up outside your home in response to any 
+18 other elections other than the November 2020 Presidential --
+19 
+20 
+21 A 
+Q 
+A No. 
+--election? 
+No. No. And, if anyone has --and there have been incidents where 
+22 people individually have showed up at my home or things have occurred, and I never get 
+23 the sense it's about anything other than the November 2020 election. 
+24 Q The last thing I have is that it's been recently reported that the President had 
+25 made comments about you as a potential traitor.  40 
+1 Can you tell us about the comments that you heard and how you learned about 
+2 them? 
+3 A Yeah. Right around the same time as all of this was happening in 
+4 December of 2020 --it might have been --I don't recall exactly, but it might have been, 
+5 like, after the incident that I just described because it was certainly received in this 
+6 heightened state of anxiety that I was in at that time. 
+7 I received a phone call, and I was --from a trusted colleague, who is not an 
+8 election official, and they were probably trying to, I think, check in and make sure I was 
+9 okay and just checking --it was sort of a check-in call in which we were discussing just 
+10 the --a lot of the examples of unorthodox things that were occurring in that moment and 
+11 the high temperature of everything. 
+12 And they said to me: Well, you know, I --I heard --I know --I heard from a 
+13 person who was at a Cabinet-level meeting in which things were discussed that would 
+14 make your --something like your hair stand on ends and, you know, just your skin curl, or 
+15 something like that. 
+16 And I said: Really? Like what? 
+17 And they mentioned the seizure of voting machines being discussed and related to 
+18 Antrim County and in relation to that as well as the arresting me --they said, you know, in 
+19 this --in this Cabinet-level meeting, the President was talking about seizing voting --the 
+20 seizure of voting machines and --potentially related to Antrim County and --and then 
+21 arresting you and Brad Raffensperger and having you tried for treason and potentially 
+22 executed. 
+23 And, at the time, it was --I mean, I'm in this mode where I have complete, full 
+24 faith in our elections processes. I know there were --nothing wrong happened. So no 
+25 threats about me being locked up or arrested coming from the President or anyone else,  41 
+1 which this was not the first or last time someone --I mean, my political opponent in this 
+2 moment had a lock on her logo. So, like, this idea that election officials should be 
+3 arrested and then potentially tried for treason and potentially executed was not --wasn't 
+4 a novel, unfortunately, concept. Just it made my stomach sink. I was very sad to hear 
+5 it, just is another example of the depths in which people are sinking to. But it wasn't 
+6 received in such a way that seemed like it would be acted upon. 
+7 
+8 Q 
+A Uh-huh. 
+I was also, however, in the stage of just hearing all of these things and trying 
+9 to just do my job and protect the election results and look --take one step at a time in 
+10 furtherance of that work. 
+11 And so the threats were, in many ways, tangential to that and just kind of another 
+12 thing that was happening, but not something that I could really waste or spend a lot of 
+13 energy on, because they were, in my view, irrelevant to the actual work that I had to do. 
+14 And so they were --I --long way of saying that it was added to kind of the pile of 
+15 noise that I was hearing and had been hearing for a long time --
+16 
+17 Q 
+A Yeah. 
+--from the White House and not something that I felt was --it, you know, 
+18 something that was actually going to happen, but it was more an illustration of the 
+19 chatter. 
+20 Q Do you know who the person was who was in that meeting at the White 
+21 House who provided this information? 
+22 
+23 
+24 A 
+Q 
+A Not directly. 
+Okay. 
+And I have not --I haven't talked to --I have not spoken with anyone who 
+25 was directly in that meeting. And the person who shared this with me prefaced the  42 
+1 entire conversation with, like: You can't share this with anyone. It was --I think it was 
+2 just said --they said: It would make your skin curl. 
+3 And I said: What? 
+4 And they said: Well, look, you can't share this. This has to be kept in 
+5 confidence, because I'm not even supposed to know this, but. 
+6 And so that's part of the reason why I didn't tell anyone about it. And that's a 
+7 significant reason why because this is a trusted colleague and someone who I --you 
+8 know, I don't --yeah. So --so, anyway --but, yeah, I don't --I don't --I haven't heard 
+9 directly from anyone who was in the meeting with this information. 
+10 Okay. All right. And we may follow up with you or your office 
+11 off the record about some of that. 
+12 
+13 Secretary Benson. Yeah. 
+£Ell It may be helpful to us to kind of better understand that. But 
+14 I --again, I'm aware of your time constraints right now. 
+15 
+16 Secretary Benson. Yeah. 
+And, if there is that followup, we will certainly do that. So, at this 
+17 point, unless there is anything else you'd like to add based on what we've gone over, 
+18 Secretary Benson, I think for today, we're certainly complete. 
+19 
+20 this --
+21 
+22 
+23 
+24 Secretary Benson. Okay. Well, thank you for your time. Thank you for doing 
+- Yeah. 
+Secretary Benson. --very important work. It is not easy to relive all of this. 
+- No. No. Understood. 
+Secretary Benson. I'm trying, but --but, yeah, we have some time on Monday. 
+25 And, truly, whatever you need from us, we're here. So we'll -- 1 
+2 
+3 
+4 ~ Okay. 
+Secretary Benson. --always take the time for whatever you need. 
+- We appreciate that. And let's go off the record. 
+[Whereupon, at 11:29 a.m., the deposition was adjourned.] 43  1 
+2 
+3 Certificate of Deponent/Interviewee 
+4 I have read the foregoing __ pages, which contain the correct transcript of the 
+5 answers made by me to the questions therein recorded. 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 Witness Name 
+Date 44 

@@ -1,0 +1,261 @@
+Privileged and Confidential 
+TO: 
+FROM: 
+DATE: 
+RE: MEMORANDUM 
+Judge James R. Troupis 
+Kenneth Chesebro 
+November 18, 2020 
+The Real Deadline for Settling a State's Electoral Votes 
+You asked for a written summary of the legal analysis underlying my 
+suggestion during our conference call that, in any judicial review of the 
+canvassing/recounting in Wisconsin, we should emphasize that the presidential 
+election timetable affords ample time for judicial proceedings, even if initial errors 
+in the recount require a remand for further recounting. 
+Summary 
+There is a very strong argument, supported by historical precedent (in 
+particular, the 1960 Kennedy-Nixon contest), that the real deadline for a finding by 
+the Wisconsin courts (or, possibly, by its Legislature) in favor of the President and 
+Vice President is not December 8 (the "safe harbor" deadline under the Electoral 
+Count Act), nor even December 14 (the date on which electors must vote in their 
+respective States), but January 6 (the date the Senate and House meet for the 
+counting of electoral votes). 
+Assuming the electors pledged to Trump and Pence end up meeting at the 
+Wisconsin Capitol on December 14 to cast their votes, and then send their votes to 
+the President of the Senate in time to be opened on January 6, a court decision (or, 
+perhaps, a state legislative determination) rendered after December 14 in favor of 
+the Trump-Pence slate of electors should be considered timely. On this view, the 
+only real deadline during the next month is the December 14 deadline to cast 
+electoral votes -so that any state judicial proceedings which extend past that date, 
+working toward resolution of who has won Wisconsin's electoral votes, are entirely 
+compatible with federal law provided that they are completed by January 6. 
+1. The January 6 Hard Deadline 
+The date which has "ultimate significance" under federal law, as Justice 
+Ginsburg aptly noted, is "the sixth day of January," the date set by 3 U.S.C. § 15 on 
+which the Senate and House determine "the validity of electoral votes." Bush v. 
+Gore, 531 U.S. 98, 144 (2000) (Ginsburg, J., dissenting). That is the first date on 
+which any electoral votes are actually counted. On that date, the Twelfth 
+Amendment directs, "[t]he President of the Senate shall, in the presence of the 
+Senate and House of Representatives, open all the certificates and the votes shall 
+then be counted." 
+Chapman025125  Privileged and Confidential 
+The Real Deadline for Settling a State's Electoral Votes 
+2. What Must Happen on December 14 
+The other date of particular federal significance is the date that the ten 
+Wisconsin electors pledged, respectively, to Trump-Pence and Eiden-Harris, must 
+meet in Madison to actually cast their electoral votes, if those votes are later to be 
+eligible to be counted in Congress on January 6. Art. II, § 1, cl. 4, gives Congress 
+the power to specify the date "on which [the electors] shall give their Votes, which 
+Day shall be the same throughout the United States." Exercising that power, 
+Congress has mandated that the electors "shall meet and give their votes on the 
+first Monday after the second Wednesday in December" -this year, December 14 -
+"at such place in each State as the legislature of such State shall direct." 3 U.S.C. § 
+7. 2 
+In accord with§ 7, the Wisconsin Legislature has directed that "[t]he electors 
+for president and vice president shall meet at the state capitol" at noon on 
+December 14. Wis. Stat.§ 7.75(1). 
+Prudence dictates that the ten electors pledged to Trump and Pence meet and 
+cast their votes on December 14 (unless by then the race has been conceded). It is 
+highly uncertain, given the language in Art. II requiring that all electors 
+throughout the United States vote on the same day, whether Congress could validly 
+count electoral votes cast on a later date.1 
+It may seem odd that the electors pledged to Trump and Pence might meet 
+and cast their votes on December 14 even if, at that juncture, the Trump-Pence 
+ticket is behind in the vote count, and no certificate of election has been issued in 
+favor of Trump and Pence. However, a fair reading of the federal statutes suggests 
+that this is a reasonable course of action. 
+The basic responsibility of the electors is to "make and sign six certificates of 
+the votes given by them" for President and Vice President, 3 U.S.C. § 9; "seal up the 
+certificates so made by them," id.,§ 10; and forward them by registered mail to the 
+President of the Senate and to other officials. Id., § 11. These actions are carried out 
+without any involvement by state officials. 
+1 In 1857, Congress spent two days debating whether it would count electoral 
+votes from Wisconsin which were cast one day late due to a blizzard in Madison. 
+The result of the presidential election did not turn on the question, and it was left 
+unresolved. Cong. Globe, 34th Cong., 3rd Sess., 644-60, 662-68 (1857). 
+Chapman025126  Privileged and Confidential 3 
+The Real Deadline for Settling a State's Electoral Votes 
+It also seems clear that if, before the electors cast their votes, the candidates 
+for whom they are voting have been issued certificates of election, it is the duty of 
+the governor to deliver the certificates to the electors "on or before the day" they are 
+required to meet, id. at§ 6, and the electors are then to attach the certificates to the 
+electoral votes they transmit to the President of the Senate. Id., § 9. 
+But nothing in federal law requires States to resolve controversies over 
+electoral votes prior to the meeting of the electors. Indeed, there is no set deadline 
+for a State to transmit to Congress a certification of which slate of electors has been 
+determined to be the valid one. The duty of a state governor is merely to transmit 
+the certification "as soon as practicable after the conclusion of the appointment of 
+the electors in such State by the final ascertainment, under and in pursuance of the 
+laws of such State providing for such ascertainment .... "Id.,§ 6. 
+3. Hawaii's Electoral Votes in the 1960 Kennedy-Nixon Contest 
+The reasonableness of the above statutory analysis, and the prudence of the 
+Trump-Pence electors meeting in Madison on December 14 to cast their votes and 
+transmit them to Congress, regardless of the status of the electoral contest in 
+Wisconsin at that juncture, is illustrated by how the Democratic Party handled the 
+uncertainty over Hawaii's electoral votes in the 1960 presidential election between 
+John F. Kennedy and Richard M. Nixon.2 
+Remarkably, Hawaii's electoral votes were counted in favor of Kennedy and 
+Johnson when the votes were opened in Congress on January 6 even though: 
+(1) they did not arrive in Congress until that very morning: 
+(2) on the date the Electoral College met, December 19, 1960, Nixon's electors 
+had in hand a certificate from the Hawaii governor certifying that Nixon had won 
+the state (by 141 votes); 
+(3) the Kennedy electors nonetheless also met and voted on that day, to 
+preserve the possibility that their votes would eventually be certified as the valid 
+ones; 
+(4) on the same day, a Hawaii court ordered a recount of the entire state; 
+2 The following summary is adapted from Michael L. Rosin & Jason Harrow, 
+"How to Decide a Very Close Election for Presidential Electors: Part 2," Take Care 
+Blog, Oct. 23, 2020 (https://takecareblog.com/blog/how-to-decide-a-very-close­
+election-for- presidential-electors-part-2) (visited Nov. 17, 2020). 
+Chapman025127  Privileged and Confidential 
+The Real Deadline for Settling a State's Electoral Votes 
+(5) only on December 28 did the Hawaii courts issue a final decision finding 
+that Kennedy had, in fact, won the state (by 105 votes); and 
+(6) because the Kennedy electors had taken care to vote on the proper day, 
+and the governor signed an amended certificate of election which was then rushed 
+to Washington, in time to be counted in Congress, the electoral votes were awarded 
+to Kennedy (although, it should be noted, the votes were counted only after Vice 
+President Nixon, in his capacity as President of the Senate, suggested without 
+objection that the votes be counted in favor of Kennedy "[i]n order not to delay the 
+further count of the electoral vote," and "without the intent of establishing a 
+precedent"). 4 
+The last-minute counting of the Hawaii electoral votes in favor of Kennedy in 
+1960 buttresses the conclusion of constitutional law scholar Laurence Tribe that, 
+absent some indication by a State to the contrary, the only real deadline for a state 
+to complete its recount of a presidential election is "before Congress starts to count 
+the votes on January 6."3 
+4. Nothing in Wisconsin Law Is Inconsistent With the Trump-Pence 
+Electors Casting Their Votes on December 14, as the Kennedy­
+Johnson Electors Did in 1960 
+The Eiden camp might well seek to create a sense of urgency, and try to 
+artificially truncate the post-election process of recounting and adjudication, by 
+claiming that Wisconsin has an important interest in having all controversies 
+regarding the election resolved by December 8, in order to gain the benefit of the 
+"safe harbor" provision of the Electoral Count Act, which purportedly mandates that 
+a final result reached in a State by the safe-harbor date "shall be conclusive" when 
+votes are counted in Congress. 3 U.S.C. § 5.4 The U.S. Supreme Court's view that 
+3 Laurence H. Tribe, "Comment: eroG .v hsuB and Its Disguises: Freeing 
+Bush v. Gore From Its Hall of Mirrors," 115 Harv. L. Rev. 170, 265-66 (2001). 
+4 One must use the caveat "purportedly," because there are substantial reasons 
+to doubt that the Electoral Count Act, enacted by the 50th Congress in 1877, can 
+have any binding effect on the 117th Congress which will convene on January 3, 
+regarding its authority and obligation to count electoral votes as it sees fit. In 
+particular, there is a very strong argument that the Senate which convenes in 
+January has the inherent power to set whatever rules it wishes for deciding 
+challenges to the electoral votes cast in this election. To view the Electoral Count 
+Act as tying the Senate's hands, unless amended, would mean that the Senate 
+would need the permission of both the House and the President (absent a veto-proof 
+Chapman025128  Privileged and Confidential 5 
+The Real Deadline for Settling a State's Electoral Votes 
+Florida had a strong interest in qualifying under this safe-harbor provision was a 
+key factor in its decision to halt the ongoing Florida recount in the 2000 presidential 
+election. Bush v. Gore, 531 U.S. 98, 110-11 (2000) (per curiam). 
+However, nowhere has the Wisconsin Legislature placed any priority on 
+ensuring that post-election procedures in presidential contests are completed by the 
+safe-harbor date. Far from mandating that certificates of election must be issued by 
+this date, the Legislature has, with regard to all elections, affirmatively banned 
+certificates of election from being issued unless and until all timely brought 
+recounts, and subsequent judicial proceedings, have been exhausted: 
+When a valid petition for recount is filed ... the governor or 
+commission may not issue a certificate of election until the recount has 
+been completed and the time allowed for filing an appeal has passed, 
+or if appeal until the appeal is decided. 
+Wis. Stat. § 7. 70(5)(a).5 
+voting margin) to change the rules governing its deliberations, a result which 
+cannot be squared with Art. I,§ 5, providing that "[e]ach House may determine the 
+Rules of its Proceedings .... " As Professor Tribe has noted, "[t]here is no 
+constitutionally prescribed method by which one Congress may require a future 
+Congress to interpret or discharge a constitutional responsibility in any particular 
+way." Tribe, supra note 3, at 267 n.388 (citing Laurence H. Tribe, 1 American 
+Constitutional Law,§ 2-3, at 125-26 n.1 (3d ed. 2000)). See also Chris Land & David 
+Schultz, On the Unenforceability of the Electoral Count Act, 13 Rutgers J. of Law & 
+Pub. Pol'y 340, 368-77, 385-87 (2016); Vasan Kesavan, Is the Electoral Count Act 
+Unconstitutional?, 80 N. Car. L. Rev. 1654, 1729-59, 1779-93 (2002). 
+5 To be sure, in accord with ordinary practice, under which the winner of the 
+electoral votes in Wisconsin will typically be known well in advance of the date 
+when electors cast their votes, the Legislature has provided that in presidential 
+elections, the govenor "shall prepare a certificate showing the determination of the 
+results of the canvass and the names of the persons elected," and send six duplicate 
+originals to one of the electors on or before the date electoral votes are cast. Wis. 
+Stat.§ 7.70(b). Obviously this ministerial duty exists only when a certificate of 
+election has already issued under§ 7. 70(a), after all post-election recounts and 
+related legal proceedings have reached finality. There is nothing in§ 7.70(b) that 
+purports to affect the timetable for resolving post-election proceedings. 
+Chapman025129  Privileged and Confidential 
+The Real Deadline for Settling a State's Electoral Votes 
+Conclusion 
+The position taken by the Trump-Pence campaign regarding the outside 
+deadline for resolving post-election challenges could conceivably end up proving 
+critical to the result of this election. If so, it would not be the first time: the failure 
+of the Gore team in 2000 to focus on the real deadline early enough was a clear 
+mistake. Thus, the issue of the real deadline should be examined carefully in the 
+near future, so that the campaign presents a clear and united front concerning it. 
+Reflecting on the failure of the Gore challenge to Bush's victory in Florida, 
+Ron Klain observed in a 2002 essay that "time was our enemy" -to an extent that 
+"cannot be underestimated."6 Klain's early mistake was to overlook the possibility 
+that January 6 might be the real deadline for resolving the matter of who had won 
+Florida's electoral votes. As Klain recounted, when he went on CNN shortly after 
+the election (on November 10), he "rather offhandedly noted that there was plenty 
+of time for a full and fair counting of the people's votes, given that the electoral 
+votes were not scheduled to be counted until December 18 .... "7 
+The timetable for Gore to win the recount was further truncated by Gore 
+attorney David Boies who, "during the first argument to the Florida Supreme 
+Court," on November 20, "had said that the election would be over on December 12, 
+because of an obscure provision of federal law."8 Journalist and lawyer David 
+Kaplan vividly describes Boies's fateful decision in answering the justices' question 
+regarding the outside deadline for resolving the controversy over the recount:9 
+The deadline [Boies] repeatedly cited was December 12, six days 
+before the Electoral College met and twenty-two days hence -a 
+veritable eternity in the day-to-day, minute-to-minute struggle. This 
+was the date mandated by the Electoral Count Act by which states had 
+to get their acts together, in order to prevent Congress from possibly 
+rejecting a slate of presidential electors. December 12 was a so-called 
+6 Ronald A. Klain & Jeremy B. Bash, "The Labor of Sisyphus: The Gore Recount 
+Perspective," in Overtime!: The Election 2000 Thriller (2002) (Larry B. Sabato, ed.), at 161. 
+7 Id. 
+8 Jeffrey Toobin, Too Close to Call: The Third-Six-Day Battle to Decide the 2000 
+Election 195 (2001). 
+9 David A. Kaplan, The Accidental President: How 413 Lawyers, 9 Supreme Court 
+Justices, and 5,963,110 (Give or Take a Few) Floridians Landed George W. Bush in the White 
+House 142-43 (2001). 6 
+Chapman025130  Privileged and Confidential 
+The Real Deadline for Settling a State's Electoral Votes 
+safe harbor, but it was not a requirement ordained by either the U.S. 
+Constitution, the Florida constitution, or even Congress itself. It was 
+only in the nature of a benefit offered, with no penalty other than the 
+absence of the benefit -sort of a no-risk offer. Any electoral slate 
+determined thereafter simply would not be immune from congressional 
+examination in a close election. That might seem like a big deal in 
+theory, but did anyone really believe that in practice the electoral votes 
+of one of the most populous states in the Union might go uncounted 
+altogether? The distinction between a safe harbor as a freebie or 
+absolute requirement was vital, but Boies didn't make it. Boies figured: 
+Why should he? If his client got the time to count, Gore would overtake 
+Bush and hand him the witch's hourglass 
+Wells pressed Boies on whether he agreed that December 12 
+represented the outer bounds. 
+"I do, Your Honor." He said this despite there being no state law 
+or executive pronouncement to that effect. 
+Boies's concession of the date as a constitutional line over which 
+no recount could cross would come back to haunt him in two weeks at 
+the U.S. Supreme Court. It walled him in from ever offering such dates 
+as December 18 (when the Electoral College convened), January 6 
+(when Congress met in joint session to count the electoral votes), or 
+even January 20 (Inauguration Day). Indeed, January 20 was the only 
+date mandated by the federal Constitution (in the Twentieth 
+Amendment) -the other dates were mere statutory creations, which 
+could be changed. 
+But to the extent the justices were going to come up with a new 
+timetable, thinking about December 12 was critical. Any certification 
+of the election -whether it included all, some, or none of the results 
+from manual recounts -had to happen in time for the contest phase of 
+Florida law to play out. A contest lawsuit needed time for trial and 
+appeals. That had to be completed by December 12, according to 
+Boies's answer. 
+If Boies had instead taken the position that January 6 was the real deadline 
+for resolving the contest over Florida's electoral vote, citing the Hawaii 1960 
+example, Gore might ultimately have prevailed. So the issue of what is the real 
+deadline is an issue that warrants close examination. 
+K.C. 7 
+Chapman025131 

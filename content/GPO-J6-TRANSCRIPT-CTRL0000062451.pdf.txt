@@ -1,0 +1,1754 @@
+1 
+2 
+3 
+4 SELECT COMMITTEE TO INVESTIGATE THE 
+5 JANUARY 6TH ATTACK ON THE U.S. CAPITOL, 
+6 U.S. HOUSE OF REPRESENTATIVES, 
+7 WASHINGTON, D.C. 
+8 
+9 
+10 
+11 INTERVIEW OF: CHRISTOPHER J. TOM NEY 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 Thursday, April 14, 2022 
+Washington, D.C. 
+The interview in the above matter was held via Webex, commencing at 9:00 a.m. 1  2 
+1 
+2 Appearances: 
+3 
+4 
+5 For the SELECT COMMITTEE TO INVESTIGATE 
+6 THE JANUARY 6TH ATTACK ON THE U.S. CAPITOL: 
+7 
+8 INVESTIGATIVE COUNSEL 
+9 INVESTIGATIVE COUNSEL 
+10 PROFESSIONAL STAFF MEMBER 
+11 , CHIEF CLERK 
+12 INVESTIGATIVE COUNSEL 
+13 INVESTIGATIVE COUNSEL 
+14 INVESTIGATIVE COUNSEL 
+15 INVESTIGATIVE COUNSEL 
+16 
+17 For the DEPARTMENT OF HOMELAND SECURITY: 
+18 VICTORIA RAPOPORT, ESQ. 
+19 HILARY LEDWELL, ESQ.  3 
+1 
+2 Mr- This is a transcribed interview of Director Chris Tomney conducted 
+3 by the House Select Committee to investigate the January 6th attack on the United States 
+4 Capitol pursuant to House Resolution 503. 
+5 Director Tomney, could you please state your full name and spell your last name 
+6 for the record. 
+7 Mr. Tomney. Sure. My full name is Christopher James Tomney. Last name, 
+8 it's T-o-m as in Michael, N as in Nancy, e-y. Tomney. 
+9 
+10 
+11 
+12 
+13 Thank you, sir. In the room here today for the committee, both 
+physically and virtually, are myself, - our researcher, 
+all of whom are members of the Select Committee's 
+investigative team and serve as investigative counsel. 
+I note on your end you have Hilary Ledwell and Victoria Rapoport. Anyone else 
+14 on your end of the table, sir, so to speak. 
+15 
+16 
+17 Thanks. 
+18 Mr. Tomney. Not that I'm aware of, but let me ask Hilary to verify. 
+Ms. Ledwell. Hi, this is Hilary. No one else that I'm aware of from our side. 
+Mr- Thank you so much. This will be a staff led interview and 
+19 members of the committee may of course choose to ask questions. 
+20 Again, my name is and I'm investigative counsel with the Select 
+21 Committee. Before we begin, I'd like to describe a few ground rules. While I will lead 
+22 the questioning for today's interview, there may be additional questions from my other 
+23 colleagues or from members who may choose to join us today. And if members do join 
+24 us during the interview, I'll pause, acknowledge them, so everyone knows and is aware 
+25 that they are in the room.  4 
+1 Mr. Tomney, you are permitted to have counsel present, as you do. And counsel 
+2 has already identified themselves for the record. 
+3 There's an official court reporter transcribing the record of this deposition. 
+4 Please wait until each question is completed before you begin your response, and we 
+5 will try to wait until your response is complete before we ask the next question. The 
+6 stenographer cannot record nonverbal responses such as shaking of heads, so it's 
+7 important that you answer each question with an audible verbal response. 
+8 We ask that you provide complete answers based on your best recollection. If 
+9 the question is not clear, of course, please ask me for clarification. And if you don't 
+10 know or if you don't remember, just please simply say so. I don't want you to speculate 
+11 or guess if you don't know. 
+12 I would also like to remind you that it's unlawful to deliberately provide false 
+13 information to Congress. And you and your attorney will have the opportunity to review 
+14 the transcript of this interview. 
+15 So I am done with my end. Victoria, I'll turn it over to you for your part before 
+16 we get started in earnest. 
+17 Ms. Rapoport. Perfect. Good morning, everyone. My name is Victoria 
+18 Rapoport and I just wanted to make a quick statement for the record. The department 
+19 has made available to the committee, consistent with requests from the chairman, 
+20 information and records that the department would not publicly release. This includes 
+21 information and records covered under the Privacy Act, personnel and other privacy 
+22 information, for official use only, intelligence and law enforcement sensitive records, and 
+23 raw intelligence information. 
+24 While the department has made this information and records available to the 
+25 committee, the department continues to assert that such information and records  1 provided to the committee and any discussion of such information or records during 
+2 the course of the transcribed interview is not intended for public disclosure. 
+3 DHS is not waiving any protections and, for the purposes of administrative 
+4 efficiency and to promote constructive dialogue during the transcribed interview, is 
+5 making this assertion at the outset of the transcribed interview to preserve all assertions 
+6 of protection from public release or disclosure over information or records used or 
+7 discussed during the transcribed interview. The transcript and any attachments are 
+8 protected from further dissemination to the same extent as the documents and 
+9 information they are based on. 
+10 Please consult with the department prior to any public release or disclosure. 
+11 Thank you. I'll turn it over to Mr. Tomney. 
+12 Mr. Thank you, Victoria. I appreciate it so much. Thank you so 
+13 much. 
+14 EXAMINATION 
+15 BYMR.-
+16 Q 
+17 morning. 
+18 
+19 A 
+Q And again, welcome, Director Tomney. I appreciate your time this 
+Thank you. 
+So let me first just give you a roadmap of kind of where we're going to go 
+20 with the questioning. It's going to be very similar to what we did the last time you and I 
+21 spoke informally, so there shouldn't be anything new in terms of what we're going to 
+22 cover, but we'll start with your background. We'll talk about the organizations that you 
+23 work with and for. We'll talk about the lead-up to January 6 of what you and your 5 
+24 departments were doing. We'll talk about January 6th itself, you know, sort of what you 
+25 and your departments were doing on that day.  6 
+1 We'll then go backwards in time and talk about the summer of 2020 and sort of 
+2 what your role was during that time period. And we may juxtapose sort of what you did 
+3 during the summer of 2020 with what happened on January 6th. 
+4 And then finally, and with just some recommendations from you, sir, if any, 
+5 regarding what we, the collective federal government we, along with state and local 
+6 partners, can do to prevent something like this from happening again in the future. So 
+7 that's sort of the roadmap. 
+8 Any questions about that before we get started? 
+9 
+10 A 
+Q No questions. 
+All right, sir. So let's start with your professional --personal and 
+11 professional background, sir. Tell us about your professional background and sort of 
+12 how you got to the position that you're in now. 
+13 A Certainly. So I'm a retired Coast Guard rear admiral. I retired in the 
+14 summer of 2018. Shortly after I retired, that summer, about two months into 
+15 retirement, I got a call out of the blue from the acting deputy secretary at the time, 
+16 Ms. Claire Grady. Claire and I had served together in the Coast Guard when she was a 
+17 senior executive within the acquisition directorate when I became a new flag officer in 
+18 2009. 
+19 Why she had called me was my last assignment, I was the director of the Joint 
+20 lnteragency Task Force South under U.S. Southern Command down in Key West, Florida. 
+21 It's a task force that's made up of all five branches of the U.S. military with 
+22 representatives from U.S. law enforcement, the U.S. intelligence community, the U.S. 
+23 R&D community as well as working with 42 different international countries and partners. 
+24 But --and the role of that task force was to coordinate the detection and monitoring of 
+25 illicit activity by narco-traffickers in the western hemisphere.  7 
+1 Given that I was leading this joint interagency task force, I got to meet then 
+2 Secretary Christine Nielson on several visits down to Key West. And after I retired, I was 
+3 asked if I would be willing to join the department in a civilian capacity as a senior advisor 
+4 to look and make recommendations to the secretary and deputy secretary on how DHS 
+5 could work better in a joint collaborative fashion such as what I was doing down in 
+6 Florida. 
+7 I joined the department and came on board starting in October of 2018 as a senior 
+8 advisor. The position I currently hold right now, which is the director for the office of 
+9 operations coordination, that billet was vacant and before the department hired a new 
+10 director for ops coordination, they asked for my insights and recommendations, which is 
+11 what I did. 
+12 The position was then advertised early in 2019. I want to say it was January or 
+13 early February. I applied for the position and then ultimately was selected and was 
+14 offered and assumed the role that I currently perform right now on August 4th of 2019. 
+15 So it was just changing positions from a senior counselor to now the director for ops 
+16 coordination. And that's been since August of 2019 to this day. 
+17 Q Appreciate that, sir. Tell us a little bit about what your responsibilities are 
+18 as the director of ops coordination. 
+19 A Sure. So my office consists of four primary directorates. One directorate 
+20 is just mission support, so I won't really go into much detail. That just provides all the 
+21 support services to my directorate, HR, information technology, budget, that sort of 
+22 functions. 
+23 The three primary directorates, though, that do operational work, the first is 
+24 called our Current Operations Division, COD. And within the current operations 
+25 divisions, there's three primary sections. The first is the National Operations Center,  8 
+1 which is by far the largest. It also goes by the acronym NOC or N-O-C. 
+2 And what the National Operations does, it acts as the principal operations center 
+3 not only for DHS, but for the entire Homeland Security enterprise. And the statutory 
+4 language for the NOC is found in Title 6 U.S.C. 321d, which describes the NOC as that 
+5 principal federal operations center that provides situational awareness and a common 
+6 operational picture and provides information, disseminates information not only on 
+7 terrorism-related information, but information related to manmade and other natural 
+8 disasters in order for decision-makers within that Homeland Security enterprise to make 
+9 informed decisions. So it's really a situational awareness center. 
+10 The second section within the Current Operations Division on top of the NOC 
+11 includes our Special Events Program. Special Events Program also goes by the acronym 
+12 SEP or S-E-P. And they work with state and local partners to help coordinate and 
+13 facilitate the assignment of federal resources, capabilities, personnel and assets in order 
+14 to safely perform a multitude of state and local activities and events around the country. 
+15 This past year, there was over 40,000 different events that were submitted to the 
+16 department to get what is known as a SEAR rating or a special event assessment rating 
+17 known as S-E-A-R, SEAR rating. 
+18 And then the third primary section within the Current Operations Division is the 
+19 secretary's briefing staff. And, as the name entails, it's made up of personnel not only 
+20 from my staff, but detailees from other DHS components and they compile information 
+21 and provide a daily product to the secretary and the deputy secretary on what's going on 
+22 around the department, around the federal government, et cetera, what they need to 
+23 know for the day. They also respond to requests for information that may come up 
+24 throughout the day in order to meet the needs of the secretary and the deputy secretary. 
+25 So COD is the second division. The third division is our continuity division. One  9 
+1 of my primary collateral duties for the department is I act as the continuity coordinator 
+2 for DHS. Within the continuity divisions, we maintain the continuity program for the 
+3 department. We work on continuity plans. We work with the front office on the 
+4 secretarial successor program, and we make sure we have the various alternate facilities, 
+5 capabilities, equipment in order for us as a department to continue our primary mission 
+6 essential functions, regardless of what's going on within the department, across the 
+7 nation, across the globe, that we're able to maintain our vital services as a department on 
+8 behalf of the federal government. So that's the continuity division. 
+9 The last division within my office is known as the JIAG. And that stands for the 
+10 Joint Incident Advisory Group, J-1-A-G. Basically the way I describe the JIAG for others, 
+11 it's our initial attempt as a department to create a DHS version of the joint staff which is 
+12 found within DoD. It's basically made up of detailees from the other components and 
+13 offices within DHS. 
+14 They sit together as an integrated team to then work on joint projects/products to 
+15 provide the secretary, the deputy secretary and other DHS leaders with a joint integrated 
+16 look and perspective on whatever issues we may be working on in that given time. 
+17 So whereas the secretary and the deputy secretary get great advice and counsel 
+18 from senior leaders of the various offices, that advice and counsel is very much stove 
+19 piped from one agency's point of view and we try to provide that joint perspective on 
+20 issues to the front office. Over. 
+21 Q Appreciate that, sir. Clearly you have a very wide and very deep portfolio. 
+22 So as we move forward and we're going to talk, I want you to do a deeper dive into sort 
+23 of the things that your department does, but focus on those that are related or had the 
+24 most relevance, I guess, for January 6th. But I do want to just tease out a couple of 
+25 others before we do that.  10 
+1 So you mentioned in the beginning something called mission support. Can you 
+2 just give me sort of a thumbnail sketch of what that organization does. 
+3 A Yeah. So the mission support division is really the administrative division 
+4 that provides the services, the support services to all the other members within the office 
+5 for them to do their jobs. So they're not doing operational stuff. They're maintaining 
+6 our budget; they're maintaining our IT equipment; they're making sure people are getting 
+7 paid; they are maintaining liaison with the Office of Legislative Affairs. 
+8 So again, it's those support services, which basically any organization needs 
+9 those services. You need ITs, you need to get paid, you need a budget. So that's all 
+10 the supports --mission support type stuff which is being done within that division. 
+11 Q Copy that, sir. And moving over to the continuity coordinator function, is 
+12 another way of sort of summing up what that does, the continuity of government, making 
+13 sure government can continue to function if there's a disaster, if there's a terrorist attack 
+14 or something like that? Is that what you're talking about when you talk about 
+15 continuity? 
+16 A Yeah. So continuity really has --there's two real primary types of 
+17 continuity. There's continuity of operations known as COOP and then as you just 
+18 alluded to, there's the continuity of government or COG. So, yes, the continuity division 
+19 performs both aspects, both COOP as well as COG. 
+20 Again, COOP is, again, making sure that we're able to continue to perform all the 
+21 multitude of operations that our department does, from law enforcement operations to 
+22 maritime operations to protective service operations. It's ensuring that operations are 
+23 able to continue regardless of the environment that we find ourselves operating in. 
+24 Whereas continuity of government is to ensure the continued constitutional 
+25 framework that our nation has been founded on, making sure that that continuity of  11 
+1 government, the three branches of government, et cetera, that that government is able 
+2 to continue regardless of whatever internal/external threats our nation may be facing. 
+3 They sound very similar, and they are. But one is actual operations and one is 
+4 the larger framework of maintaining our constitutional framework for the nation. 
+5 Q Copy that, sir. And staying with continuity for a second, with specific 
+6 reference to January 6th, were any of the functions or responsibilities of that portion of 
+7 your portfolio implicated at all in either the lead-up or on January 6th itself? I know we 
+8 didn't talk about this last time, but I'm just curious to know. 
+9 A So one of the things we do as a department, so this department has an 
+10 alternate operating facility. There's actually many different facilities. Our primary one 
+11 that we use is out in Mount Weather. And my office maintains basically a warm cell. 
+12 We keep a warm status out there where we have personnel that that's their 
+13 assigned duty station is out at Mount Weather, to make sure that if we had to, for 
+14 whatever reason, you know, go out there, that the equipment is working, all the 
+15 terminals are up and running, we have voice, we have video, you know, that we're able 
+16 to continue operating from our alternate facility with no loss of mission at all. 
+17 So again, regarding January 6th, we would have had that same team out there as 
+18 well. So again, whether there was anything nefarious or even if we just had like a power 
+19 outage or we had equipment failure for whatever reason, we could shift --and I'm talking 
+20 now primarily the watch, which provides that situational awareness --we could shift the 
+21 watch seamlessly out there to Mount Weather to continue providing that situational 
+22 awareness of what was going on on the given day. 
+23 Q Copy that, sir. Appreciate that. 
+24 So now let's focus on sort of the middle --what I'll call the middle of your 
+25 portfolio. So to bookend by mission support on one end, continuity on the other,  12 
+1 sort of that spot in the middle that sort of had the three different components to it, 
+2 and I want to just sort of drill down on that a little bit more. 
+Sure. 3 
+4 A 
+Q So with respect to that section of your portfolio, and I know you sort of went 
+5 through it individually, but generally speaking, what would you say are the primary 
+6 functions and responsibilities of that portion of your organization? 
+7 A Yeah. So again, that division is known as the Current Operations Division or 
+8 COD. And again, that's where I would say the bulk of the activity within my staff is 
+9 occurring on any given day. And certainly on January 6th and the lead-up of January 
+10 6th, that's where the majority of the actual, you know, moving parts are occurring at that 
+11 point. And again, with the centerpiece being that National Operations Center or the 
+12 NOC. 
+13 So again, within the NOC, in the days leading up to January 6th, this is where 
+14 we are engaging with our interagency partners to make sure that we have good 
+15 two-way communications and flows. We are coordinating the assignment of liaison 
+16 officers. We don't have any permanent liaison officers either within the NOC or if the 
+17 NOC has their own liaisons to other external agencies. 
+18 The other thing --and you may ask later on --is we were setting up a virtual 
+19 situation room that we used very effectively on January 6th. And it was basically a tool 
+20 that we had been using all the way through that summer of 2020, so in the months 
+21 leading up to January 6, as a way to get not only DHS components, but our interagency 
+22 components up on a single --again, we call it a virtual sit room. It's like a virtual chat 
+23 room where everyone could log in, it's secured, you needed a password, you --you know, 
+24 just the general public could not access it. But for the sharing and passing and in real 
+25 time of law enforcement-related information where folks could ask questions and, as  13 
+1 events were unfolding, it could be disseminated broadly, simultaneously to all the 
+2 components and agencies that were up in that virtual sit room. And we can talk more 
+3 about that based upon any detailed questions you may have. 
+4 But I'll stop there, Bryan, see what other questions, where you want to drill down 
+5 on. 
+6 Q No, I appreciate that. I definitely want to talk about the virtual situation 
+7 room when we sort of get to that part of the story. But I want to sort of tease apart the 
+8 COD and the NOC for a second. 
+9 So from the perspective of explaining to someone who is not familiar with what 
+10 operations centers are and what they do and how they're staffed and, you know, what 
+11 liaison officers are, can you kind of give us sort of a NOC 101 about those things. Sort 
+12 of what's its primary function? How does it work? How is it staffed? You know, 
+13 who populates it? Who are partners and liaisons, that sort of thing? 
+14 A Sure. Yeah, no. Great question. Happy to do that. 
+15 I think one key point I would lead off with is our National Operations Center 
+16 within the department and my role as the director for ops coordination is I have --and 
+17 on the date in question, on January 6th, I had no direct operational tasking authority. 
+18 So we are in the business of gathering, acquiring and disseminating information 
+19 for situational awareness purposes, but we are not a center where I give tasking direction 
+20 and have the authority to direct. I'm not like a military unit where I can direct a DHS 
+21 component or an interagency partner to do anything. So, I mean, that's something key 
+22 to get out there. 
+23 The way we are structured, we are made up of a combination of DHS employees 
+24 who are on my staff as FTE employees of the department who work for --directly for me. 
+25 And we're also staffed up by a number of interagency liaisons who are representatives  14 
+1 from other not only federal departments, but we have a number of state and local law 
+2 enforcement as well who sit and reside actually on the NOC watch floor as direct 
+3 representatives of their components. 
+4 So they perform two primary functions. One is to disseminate information 
+5 that they acquire by sitting on the NOC floor back to their home agency, but at the 
+6 same token act as a provider of information, what their home agency may have, 
+7 provide that information to us within the NOC. 
+8 As I mentioned, the statutory language of the NOC in 6 U.S.C. 321 delta, we 
+9 disseminated for the entire Homeland Security enterprise. So we're not just a center 
+10 solely for passing information to the DHS secretary and component leaderships. We 
+11 disseminate and share information with every federal, state, local, territorial, tribal, 
+12 private sector, international partner that has a role to play in protecting/preserving 
+13 Homeland Security going forward. 
+14 Our physical layout within the National Operations Center, we have what we term 
+15 a high side and a low side. The high side is our top secret SCI SCIF. Our low side is still 
+16 a classified space, but it's only classified up to the secret level. On the high side, our 
+17 senior most watch stander is what we term the NOC duty director, also goes by the 
+18 acronym NDD. The NOC duty director is a GS-15. Senior most watch stander sits on 
+19 the high side. 
+20 The NOC duty director is supported by a senior watch officer, who is also a GS-15, 
+21 and that senior watch officer sits on the low side. So we have two GS-15s, NDD on the 
+22 high side, and the senior watch officer, also known as the SWO, S-W-O, on the low side. 
+23 The way I describe their division of labor, seen as on paper they're the same pay 
+24 grade, the SWO manages the actual watch itself, so the people who are in the center, 
+25 making sure they are doing their individual jobs, making sure that all the processes and  15 
+1 procedures are flowing within the center itself. 
+2 The NOC duty director is the direct representative of the DHS secretary. And 
+3 the NOC duty director's primary responsibility is to ensure the dissemination of 
+4 information and act as that direct communicator to the secretary, deputy secretary, 
+5 chief of staff, White House sit room, any interagency partner. While the SWO can do 
+6 that as well, the NOC duty director's kind of that looking upwards and out of the 
+7 center while the SWO is looking down and in on the way that people are doing their 
+8 jobs. 
+9 Also within the NOC, we have portions of DHS intel and analysis, l&A. They have 
+10 a number of centers. One of the l&A centers is known as CETC, spelled C-E-T-C. That's 
+11 the Current and Emerging Threat Center. They're also an around-the-clock watch. And 
+12 the CETC watch sits on that high side where the NOC duty director resides. 
+13 So within feet of each other, we have intel watch standers right next to the ops 
+14 watch standers to again help the facilitation of information between the intel and 
+15 operations. 
+16 We have a number of federal agencies within the NOC, everyone from 
+17 Department of Defense, Department of Transportation, Department of Veterans Affairs. 
+18 We have representatives from the Department of State's diplomatic security service, et 
+19 cetera. 
+20 We also have a number, but not all, a number of DHS component representatives 
+21 to include Secret Service has a representative, TSA's TSOC, the Transportation Security 
+22 Operations Center, maintains a watch within the NOC. Countering Weapons of Mass 
+23 Destruction's office, CWMD, maintains a watch within the NOC. And FPS represents the 
+24 management directorate with an FPS liaison within the NOC as well. 
+25 We have some state and local representatives within the NOC. And again, this is  16 
+1 based upon the value proposition that state and locals find in the NOC. So we have 
+2 representatives from --everyone from 
+3 et cetera. They're all there representing their local 
+4 jurisdictions. And when we have issues that either affect that part of the country or 
+5 something that may have nationwide interest, they help to facilitate the information 
+6 sharing with state and local agencies as well. 
+7 As far as fusion centers, we rely on DHS l&A, who has a number of DHS intel 
+8 officers, 10, assigned to fusion centers around the country. So again, it's through that 
+9 cross-coordination between CETC and the NOC that we reach out so we're not double 
+10 tapping and we're both reaching out to state and local fusion centers. We rely on l&A 
+11 through their intel officers to provide that information. 
+12 I'll stop there- see what follow-up questions you may have. 
+13 Q Appreciate that, sir. Very, very helpful, very exhaustive explanation and I 
+14 appreciate it. 
+15 With respect to the liaison officers or the partners, state and federal, that may 
+16 be at the NOC, do you recall if at any time whether the Washington Metropolitan 
+17 Police Department or the United States Capitol Police were ever part of the NOC? 
+18 A Great question. So the answer to MPD is no. For Capitol Police as well as 
+19 I'll mention the U.S. Supreme Court Police, they both have assigned representatives to 
+20 the NOC. 
+21 On January 6th itself, Capitol Police LNO was not physically in the NOC, but he 
+22 was up on Capitol Hill and he was providing us realtime information from Capitol Hill, 
+23 whereas on most days he would be actually in the NOC. But on the day in question, 
+24 he was up there on Capitol Hill. 
+25 I will also say now, where we're at today, post-January 6, the Capitol Police have  17 
+1 looked at their manning requirements and they have since pulled back their Capitol Police 
+2 LNO. So we currently do not have one assigned today, although we did on the date in 
+3 question. 
+4 
+5 
+6 Q 
+A 
+Q Copy that, sir. And is LNO the acronym for the liaison officer? 
+I'm sorry, yes. 
+No, that's okay. I knew what it was, but just for purposes of other people 
+7 who might be reading the record and not know what an LNO is. 
+8 So you talked about how primarily what you do is that --well, you said what you 
+9 don't do is you're not an operational director. You don't direct assets, you don't 
+10 command action. You corral information, you pull that information in and then you 
+11 disseminate it to folks, and I want to sort of talk about that a little bit. 
+12 Let's start with how do you acquire, how do you get your information that you 
+13 bring into the NOC? Talk to us sort of about what that process looks like both on the 
+14 low side and on the high side. 
+15 A Sure. So there's no --do I still --okay. There you are. You froze for a 
+16 second. 
+17 So I'll start off by saying there is no one primary way. It's a multitude of ways 
+18 that information flows, both being pushed to the NOC as well as the NOC pulling 
+19 information to itself. 
+20 I'll start off first with open source. So one of the ways we get information 
+21 provided to us is through open source reporting. The NOC maintains a contract with a 
+22 private company to basically monitor both traditional media, news media, as well as 
+23 social media that can provide us realtime tipping and queuing when there's issues, again, 
+24 in traditional or social media that may have a nexus to Homeland Security. 
+25 So I think everyone is familiar with the incident that just happened several days  18 
+1 ago on the subway up in New York City where there was a shooter on a subway train. 
+2 As you can imagine, folks that were directly involved in that instant, they were up on 
+3 immediately social media, sending Tweets and sending snap chats and communicating 
+4 that something is going on. 
+5 Oftentimes, many --a high percentage of the time, the initial indicators that we 
+6 get within the National Operations Center that there may be something going on is 
+7 through people posting on social media and that's getting picked up. So it kind of 
+8 helps --if you think of it --helps to skew us into a direction that there may be something 
+9 going on that we need to look into further. 
+10 Oftentimes social media may be traditional law enforcement initial reporting 
+11 because law enforcement may be initially responding to a request 911 call. And before 
+12 we would even know through official channels, we're getting alert that, hey, there's shots 
+13 fired at a high school in a certain part of the country. You know, do we have an active 
+14 shooter? Is this --you know, what's going on? So that is one way, through our 
+15 contract with traditional and social media, that we would get information. 
+16 The second way we would get information I mentioned already is through all 
+17 those various liaisons we have assigned to the NOC, through their --you know, working 
+18 back with their parent agencies, just pulling and providing information to us. Or if we 
+19 have indicators that there's something going on in a certain part of the country, let's say 
+20 in San Diego, whereas we may not have a San Diego police officer within the NOC, we do 
+21 have Los Angeles Police, we may ask LAPD's liaison, hey, can you ask, you know, your 
+22 colleagues what they may know going on down there in San Diego. 
+23 What we have found over the years is the best way to get information from law 
+24 enforcement agencies is to have fellow law enforcement officers contact fellow law 
+25 enforcement officers. Not having a nameless government civilian in Washington, D.C.  19 
+1 asking what's going on, but saying I'm so and so with this police agency trying to get some 
+2 indication as to what may be going on. So we would get it, again, either pushed to us 
+3 from a law enforcement partner or one of our liaisons would pull it for us at our request. 
+4 We also within the NOC have a few, not many, a few liaison officers that we assign 
+5 external from the NOC. The one that we rely on principally is a permanently assigned 
+6 billet we have over at FBI. And that is a billet --so whenever we have a law 
+7 enforcement incident, we would be reaching out to our DHS ops, our NOC liaison officer 
+8 to the FBI to find out what the FBI/Department of Justice may know about a specific 
+9 situation. 
+10 I mentioned earlier about our relationship with DHS intel and analysis through 
+11 their current and emerging threat center. So, again, we might get information through 
+12 intelligence channels provided to us through l&A. l&A may get their information 
+13 through their relationships with all the state and local fusion centers, through the intel 
+14 officers. And we have also a relationship with the government of Canada and their 
+15 National Operations Center, their national center, so to exchange information with our 
+16 partners to the north, we may get it that way as well. 
+17 One procedural thing we do within the National Operations Center is every time 
+18 the watch changes over --and our watch schedule is we have our watch team stand 
+19 eight-hour watches Monday through Friday and then 12-hour watches on Saturdays, 
+20 Sundays and federal holidays. So every time the watch changes out, whether it's every 
+21 eight hours or every 12 hours, one of the things they do at the start of the watch is they 
+22 do what's called a blast call. 
+23 And what a blast call is, is they get up all the federal operations centers, all the 
+24 DHS operations centers at the start of the watch saying we've just changed over the 
+25 watch here in the NOC, here's what the NOC is currently monitoring for events and the  20 
+1 current status, and then they poll and see if any other department or agency has any 
+2 other additional information that they would like to provide to the NOC and the 
+3 broader group that the NOC may not already have awareness of. 
+4 And then I think the last way --and again, certainly not the --let me take that 
+5 back. It may not be the last way, but one of the other primary ways, the virtual situation 
+6 room --I won't go into detail now because I know you're probably going to have 
+7 questions later --but the virtual situation room is a way to get realtime information. 
+8 And then I will just end by saying a term of art that I used when I headed up 
+9 Coast Guard intelligence where we had a term of art back then was every Coastie is a 
+10 collector, is --every member of the Homeland Security enterprise has eyes, has ears. 
+11 We know the DHS phrase, if you see something, say something. 
+12 So again, we may get information just from our daily interactions with others both 
+13 inside the department as well as outside the department. It could be as simple as 
+14 talking with a military aide to the secretary or the deputy secretary to know that they're 
+15 going to a meeting or that something came up in a VTC or private discussion that, you 
+16 know, hey, can the NOC look into something because the secretary heard during a 
+17 telephone call with an individual that something may be happening. 
+18 So multitude of ways that we may get information to us. But I'll stop there, 
+19 Bryan. 
+20 Q Copy that, sir. I appreciate it. 
+21 With respect to DHS l&A, you mentioned that they have an intel watch that 
+22 also sits in the NOC. Is that function the NOC's primary interface with the intelligence 
+23 community, with the IC? Is that how it gets its high side or some of its high side 
+24 information? 
+25 A Yes. So we rely on l&A to be that direct interface with the intel community.  21 
+1 So we would not independently and knowingly go around l&A. We would rely on l&A to 
+2 be that front door from DHS to the broader IC and then rely on l&A to make sure we're 
+3 aware of any intelligence. 
+4 Q Copy that, sir. So you've done a really good job of explaining the multitude 
+5 of ways that DHS ops and NOC in particular ingest information. Let's talk about how it 
+6 disseminates that information. 
+7 Sort of the primary ways it does it, who are the primary clients, whether they 
+8 be internal to DHS such as DHS senior leadership and/or other federal partners, state 
+9 and local. Sort of walk us through what the dissemination of information looks like. 
+10 A Sure. And again, kind of like the ingest, there's a multitude of ways that we 
+11 disseminate information as well. So in no particular order, within the department, the 
+12 NOC maintains secretarial information requirements, which are a list of key issues and 
+13 events that, should we get indications that these triggers are being met, these are issues 
+14 that the secretary and his staff would like to be immediately notified for. That's 
+15 something that every leader, every secretary, you know, tweaks based upon what their 
+16 threshold for awareness is. 
+17 So one of the ways we would disseminate is if we get an event that triggers 
+18 secretarial information requirements, it would either be a direct call directly to the 
+19 secretary. More likely than not, before we go directly to the secretary or directly to the 
+20 deputy secretary, the NOC duty director would first reach out to their chief of staff saying 
+21 this is what we have. We believe the secretary needs or the deputy secretary needs to 
+22 be notified. Do you want to do it as their chief of staff or do you desire us to do it. 
+23 And that would be something that would be worked in real time. 
+24 If, given the sensitivity of the information, the gravity of the situation, the 
+25 timeliness of the situation, should the NOC not be able to reach either of their chiefs of  22 
+1 staff, they have been given the green light to go directly to the principal when time is of 
+2 the essence. So that's one way. 
+3 Another way that our senior leaders get it is through that production of that 
+4 secretary's daily brief, which I mentioned one of the three parts of that Current 
+5 Operations Division is the secretary's briefing staff. So they prepare a written daily 
+6 product, they work with all the DHS components, compile operational information and 
+7 provides a daily written product that not only goes to the secretary and the deputy 
+8 secretary, but it goes to the top leadership throughout the department and all the 
+9 components and staff. So that's another way that information is disseminated 
+10 internally. 
+11 A third way it's disseminated internally is through NOC notes and NOC awareness 
+12 reports. Very similar, but they go to different audiences. What a NOC note is and NOC 
+13 watch updates are basically tactical, very short, concise situation reports, sitreps as we 
+14 call them, to senior leaders across the department when we get indications that an event 
+15 affecting the homeland is unfolding. 
+16 We try --it's our own internal procedures within ops --we try to get out a NOC 
+17 note within 30 minutes of initial notification of an event. We get alerted through 
+18 whatever that means I've talked about earlier, whether it's a social media hit that 
+19 there may be shots being fired at a high school, we'll within 30 minutes try to verify, 
+20 try to get additional informations, but, within 30 minutes, get out initial notification. 
+21 And then given the severity of the incident, whether or not the incident is 
+22 occurring, whether or not it is growing in intensity, et cetera, we would be providing 
+23 updates to that on an ad hoc basis as the information warrants providing updates. 
+24 Those NOC notes and NOC watch updates are internal to DHS. 
+25 When the event rises to equities beyond just DHS, we then would send out a NOC  23 
+1 awareness report. And those NOC awareness reports goes to the entire Homeland 
+2 Security enterprise. And we caveat it at the beginning of those NOC awareness reports 
+3 that much of the information may be similar to what was previously reported in a NOC 
+4 note, because, again, the NOC note only went to DHS leadership. The NOC awareness 
+5 report, because we're opening up the aperture to others, a lot of it may seem repetitive 
+6 to the initial DHS recipients of the initial NOC notes going forward. 
+7 Generally, the way in practice it works out, almost exclusively we start off with a 
+8 NOC note because we don't know how big --unless obviously it's something major like a 
+9 911 style attack where obviously it's something broad like that. But mostly we start off 
+10 with the internal report and then broaden out as the situation becomes clearer, more 
+11 into focus as we get additional information. 
+12 We also have, just like we have secretarial intelligence requirements, we also have 
+13 Presidential critical information requirements known as PCIRs. So --and it's not just 
+14 with us. Within DHS, all federal departments and agencies have Presidential CIRs. 
+15 They're the same. 
+16 Basically like what the secretarial information requirements are, it's those 
+17 events that warrant the attention of the White House through the White House 
+18 situation room, as we've known it, W-H-S-R or WHSR as we call the acronym. 
+19 So again, when we're working an event that may warrant notification within the 
+20 department, it may also trigger a Presidential critical information requirement that 
+21 requires a written notification over to WHSR as well. So that's another way we 
+22 disseminate. 
+23 We disseminate very informally through that network of liaison officers that I've 
+24 already talked about as well. One of the things I have not talked about yet during this 
+25 session is our OPSDEPs forum. It stands for operations deputies forum. It was a forum  24 
+1 that we had in place at the time of January 6. It was a forum that we had in place for 
+2 over two years where we had the senior operators from all DHS components and offices 
+3 would get together on a weekly basis to share and disseminate for situational awareness 
+4 operational matters that was impacting the department. We would meet every Tuesday 
+5 for an hour, and at the end of each hourly meeting, we would devote a period of time 
+6 where I would poll the representatives to see if they had any information they would like 
+7 to share with other DHS elements that were at the meeting. 
+8 And then the virtual sit room, again, another tool to disseminate information. 
+9 One of the other ways we disseminate to state and local partners I have not talked about 
+10 is HSIN, the Homeland Security Information Network. We have a HSIN desk within the 
+11 NOC. HSIN stands for H-S-1-N, the Homeland Security Information Network. But it's a 
+12 way to disseminate Homeland Security information to state and local partners where 
+13 state and local agencies can request from DHS a password and a username and it's a way 
+14 for us to disseminate information across the vast network of state and local partners 
+15 around the country. 
+16 So I'll stop there-see what else you may have on that. 
+17 Q Copy that, sir. Appreciate it. 
+18 Are fusion centers included in the audience of folks that you may share 
+19 information to such as the NOC awareness reports that you mentioned? 
+20 A Yes. NOC awareness reports, I'm hesitating. Not completely sure on that. 
+21 They would be getting information disseminated certainly through the Homeland Security 
+22 Information Network, HSIN, and then they would be getting information directly from 
+23 their assigned DHS intel officers, again, assuming that the CETC watch has asked those IOs 
+24 to disseminate it. 
+25 As far as the NOC awareness reports, I would have to ask my staff. I'm not sure  25 
+1 at this moment in time. 
+2 Q Copy that, sir. I was just using that as an example. I was really just trying 
+3 to get at whether or not you generally share information with fusion centers and it 
+4 sounds like you do. 
+5 Understanding that DHS l&A is essentially your intel partner in the NOC and 
+6 drawing on your intelligence integration and information sharing background both from 
+7 JIATF South and in standing up the JIAG in the department itself, talk to me about what 
+8 your relationship is like with DHS l&A, how does it work, is it --
+9 A can you repeat? The bandwidth is breaking up, so I didn't catch 
+10 that. 
+11 Q Copy that, sir. I'm happy to. 
+12 So again, referencing back to your experience both in JIATF South and standing 
+13 up to JIAG and intelligence integration and information sharing, understanding that 
+14 DHS l&A is your intel partner in the NOC, talk to us about what that relationship is like. 
+15 How does it work? How do you think it's working? Is it good? Is it bad? Is it 
+16 better? Just sort of generally give us a sense about what the relationship is like 
+17 between l&A and providing the intel piece to the NOC. 
+18 A Yeah. So I would say the relationship today is good. I will also say that 
+19 the relationship is very much personality driven and personality dependent. I would not 
+20 say it's necessarily solidified through processes and procedures. I have seen it worked 
+21 better. 
+22 For example, during my tenure down at the Joint lnteragency Task Force South 
+23 where intel and operations were fully integrated, here we are peers and we share and 
+24 exchange information, but it's based upon relationships more than it's solidified in 
+25 procedures.  26 
+1 And what I mean by that is l&A's watch works directly for l&A's leadership. 
+2 They're colocated. We work together. But, for example, the NOC duty director can 
+3 task and assign other NOC watch standers to do stuff. He can ask and direct the SWO, 
+4 the senior watch officer, to take certain actions, et cetera. What the NOC duty director 
+5 can do with CETC is make requests, is can ask permission. 
+6 The other thing is --and again, having at one point in time in my career, having 
+7 grown up in the Coast Guard intelligence field and knowing, again, the type of work that 
+8 they do, and I understand about protecting sources and methods, I understand about the 
+9 needs to know, et cetera. 
+10 So procedurally, a lot of what CETC does has to go back to l&A's front office and 
+11 l&A's leadership to really get permission and guidance for sharing and disseminating 
+12 information. And oftentimes information is passed to the NOC only after permission 
+13 is being granted from a senior within l&A. 
+14 Another challenge that I face at my level is oftentimes l&A's leadership is 
+15 providing information directly to departmental's leadership and I'm not aware of it. So 
+16 whereas I'm trying to consolidate, whereas I'm trying to integrate information, I can't 
+17 necessarily integrate information that I don't have direct knowledge and awareness of. 
+18 Why I thought it worked better during my time in uniform in south Florida was 
+19 down there, it was purely a single watch center made up of both intel and ops watch 
+20 standers. Those intel watch standers reported directly to my command duty officer. 
+21 And that command duty officer represented me and the entire command, not just 
+22 represented the ops side of the command but represented the entire command. 
+23 The role of my intel staff was to provide administrative oversight to those intel 
+24 watch standers, make sure they were appropriately trained, make sure they followed 
+25 appropriate intel oversight restrictions, et cetera. But when they were performing  1 the watch, those intel watch officers reported directly to that duty officer. It's not 
+2 the case and has not been the case here at DHS. That CETC watch reports not to me 
+3 and not to the NOC duty director. They report directly to l&A. 
+4 I think, again, jumping the gun here to the end of this interview and 
+5 recommendations, that's one of the things I think could be improved upon in the 
+6 department, but, again, it's not what we currently enjoy today. 
+7 Q Copy that, sir. I appreciate that. 
+8 What I'd like to do is, before we move on to the next section of our interview, 
+9 which is going to be the lead-up to January 6, I want to pause and ask if any of my 
+10 colleagues have any questions for Director Tomney about anything that we've 
+11 discussed so far before we change topics. 
+12 Mr.- Okay. - Director Tomney, this is my colleague-
+13 - He may have a couple of questions for you. Stand by. 
+14 
+15 
+16 
+17 
+18 Mr. Tomney. Hi, -
+Q 
+A 
+Q BYMR. 
+Hi, Director Tomney. How are you? 
+Good. 
+I wanted to ask --drill down on a couple of issues that you brought up 
+19 regarding l&A, CETC and the NOC. We've heard that perhaps there is some overlap or 
+20 duplicativeness between l&A --between CETC's social media collection, its open source 
+21 collection, and that which happened at the NOC and other places in DHS. 
+22 How would you characterize that? Is there a duplicativeness or duplication or 
+23 do the parts kind of work together seamlessly? 27 
+24 A So I will caveat by saying I'm not 100 percent certain of the procedures that 
+25 l&A's open source collectors follow. I'm aware of their role that they perform, but I'm  28 
+1 not, you know, precisely clear on procedurally. 
+2 But I would say that there is likely some overlap, but I will also say that l&A's 
+3 open source collectors perform some services that definitely are unique --and I hate 
+4 that word --but are unique that we just don't do on the ops side of the house. And 
+5 what specifically --so first of all, what we do from an open source collector within ops 
+6 is, as I mentioned earlier, we're just, you know, have our antennas --and I use that 
+7 term, you know, not figuratively --I mean, figuratively, not literally. We're just 
+8 listening to the airwaves and, you know, listening to and trying to collect if someone is 
+9 Tweeting out, hey, there's shooting going on in Times Square, to alert us to something. 
+10 CETC and their open source collectors may have that capability. I don't know. 
+11 But what we do not do and what CETC does do is when there is an incident --and let's 
+12 say, Jerry, you are now a person of interest to law enforcement for whatever reason and 
+13 maybe you were arrested for something and we now want to know what is your social 
+14 media presence out there in cyberspace. This would be something that we do not do 
+15 within ops because now we're into an area that is beyond just situation awareness. 
+16 Something has occurred. There's now a person that is of interest either for intelligence 
+17 purposes, law enforcement purposes whatsoever. 
+18 So my understanding now, which, again, may not be 100 percent accurate, my 
+19 understanding is that's where l&A's open source collectors is looking at --they're not 
+20 drilling down into firewalled and protected websites, but anything that Jerry may have 
+21 put out there that the general public has access to, they would be looking at your 
+22 social media profile for law enforcement and intelligence value. I don't know if that 
+23 helps-
+24 Q It does. And I'm grateful for that. Thank you very much for that 
+25 explanation, Director Tomney.  29 
+1 Is it possible for you to very broadly describe the content of the secretary's 
+2 daily brief? Not the intelligence-sensitive information that's in there, but kind of 
+3 what gets to the secretary, what's handled by the NOC, kind of like what sorts of 
+4 information, what chunks of information and how that may shift and change over time 
+5 depending on the secretary. 
+6 A Yeah. So, again, to your last point there, yeah, it changes based upon the 
+7 secretary's, you know, interest and guidance. 
+8 So the secretary's briefing staff will be working daily with each of the other 
+9 operational components and staffs to kind of either pull information based upon a 
+10 request either from the secretary, the deputy secretary or one of their senior advisors, 
+11 to pull the answers to, you know, requests for information, what we term RFls. So 
+12 pulling that information, putting it into a future secretary's daily brief, as well as 
+13 operational reporting over the last 24 hours. 
+14 So generally speaking, this is broadly speaking, the beginning of the brief will be 
+15 any sort of overnight developments over the last 24 hours of major operational issues of 
+16 the department, a major drug seizure, a major, you know, migrant interdiction, a 
+17 pollution case, you know, that sort of stuff. And again, at that senior executive level, 
+18 just the facts --if you remember Joe Friday --just the facts, you know, just the key bullets 
+19 of what went on. 
+20 It's also an opportunity for our components to highlight successes. So, again, we 
+21 would also be including in the brief the results of any sort of, let's say if there was a 
+22 criminal investigation, whether Secret Service or HSI, you know, was doing an 
+23 investigation that led to an arrest or a seizure or a takedown of an organization, we'd be 
+24 putting in the highlights of that as well. 
+25 One of the things some secretaries like in their daily briefs from an aviation  30 
+1 standpoint is the wait times at the TSA checkpoints around the country. We often put in 
+2 the national weather forecast and a national weather map. Because, again, things like 
+3 wildfires, things like tornados, et cetera, we'll put in the weather maps and the weather 
+4 forecast around the nation. 
+5 So, again, it's normally success stories, significant operational events from the 
+6 last 24 hours, you know, airports, weather, those types of things would be in the brief. 
+7 Q Thank you. When it comes to l&A's intelligence or information that they 
+8 may want to share with the secretary and the staff, the senior staff, does it go through 
+9 the secretary's daily brief? Is this your opportunity to see l&A's intelligence? I know 
+10 you had said that sometimes l&A or often l&A sends intelligence directly to the secretary 
+11 and you don't get eyes on it. Is this your one opportunity or one of the few would you 
+12 characterized? 
+13 A So I would say it's ad hoc. It's no --it's a friction point whereas at times 
+14 some l&A products will go through the secretary's briefing staff and be in the daily book. 
+15 Other times it would go direct from l&A directly to the secretary, the deputy secretary 
+16 and bypass the secretary's briefing staff. 
+17 I think it all is based upon either the sensitivity of the information, how broadly 
+18 it's disseminated, does l&A want the secretary's briefing staff to even know about 
+19 something very sensitive, you know, if they're dealing with a known or suspected 
+20 terrorist or something like that. So sometimes it does, sometimes it doesn't. It's 
+21 not definitive one way or the other, unfortunately. 
+22 Q And one final question and then I will happily let you go. And- thank 
+23 you for the opportunity to ask questions. And thanks again, Director Tomney, for your 
+24 responses. 
+25 Is the secretary's daily brief the primary way the secretary gets intelligence and  31 
+1 operational information on a daily basis or are there other briefs, a routinized brief? 
+2 I know that there's a Presidential daily brief, but within the department, is this --at 
+3 least within the last administration, the last several years, was this the primary way? 
+4 A So it's the primary way to get the basic foundational information of the day. 
+5 And then it would be, again, updated throughout the day and evening through those NOC 
+6 notes as other time-sensitive events would happen throughout the day. 
+7 But yeah. So it's more of the --what I would term the issues that we have the 
+8 luxury of time, that it doesn't need to go like at 10 o'clock at night. It's stuff that can 
+9 wait to get published into a finished product that he or she could read the next 
+10 morning as part of the start of their workday, you know, to complement, to your point, 
+11 like the Presidential daily brief that they get. 
+12 
+13 
+14 
+15 
+16 Mr.- Once again, thank you, Director Tomney. And thank you,_ 
+Mr. Tomney. Thanks, -
+Mr.- Thank you,_ Appreciate it. 
+BYMR. 
+Q So Director Tomney, we've been going for about 65 minutes or so. I think 
+17 we probably have another hour, maybe hour and a half together. Did you want to take 
+18 a break, sir, before we press forward, for 5 or 10 minutes, or do you want to press? It's 
+19 totally up to you. 
+20 A I am good, but if others need to take a comfort break, I'm happy to pause, so 
+21 I'll defer to you. But I'm personally --I'm fine to continue. So --
+22 Q Copy that, sir. So am I. So we'll just press --and if at any point you want 
+23 to take a break, just let me know and we can always pause and take five, okay? 
+24 
+25 A 
+Q All right. Thank you. 
+So now let's segue over into the lead-up of January 6th. And I want to start  32 
+1 with --what we'll use as a segue is a couple of times in the first part of our conversation, 
+2 you talked about this virtual situational room. And I'm wondering if you could tell us in 
+3 a little more detail what that is, sort of what its origins were and sort of what role was it 
+4 designed to serve with respect to January 6th itself. 
+5 A Sure. So the virtual situation room has been around for a couple of years. 
+6 It was not designed or utilized exclusively for January 6th. It had been used quite 
+7 extensively prior to that. 
+8 For those of you old enough here on this interview who can remember the old 
+9 America Online AOL chat rooms, it's kind of a modern day version of that. It is a 
+10 software solution where individuals can log in, kind of like what we're on right now 
+11 with Webex, where you can look at all the participants on this call that we're on today. 
+12 Our virtual situation room has the same capabilities, so you can see who is all in the sit 
+13 room. 
+14 Kind of like Webex here, it has a chat feature, so you could post questions, you 
+15 could post information within the virtual situation room. It allows us to hang 
+16 attachments. So if we had documents, if we had reports, if we had images or pictures, 
+17 charts, we could hang those in the virtual situation room. 
+18 It had video and audio like we're using right now. So very much similar to Cisco 
+19 Webex, very much similar to Microsoft Teams that many of us are familiar with. But it 
+20 was a closed --meaning it's not open to the general public --a closed law enforcement 
+21 community where we would activate it, we would act as the host or the monitors for that 
+22 virtual situation room, allowing folks to enter the situation room, again, if they had a valid 
+23 need to be there because we are passing law enforcement related information. And it's 
+24 a way to basically baseline, flatten out the information flow and then when information 
+25 was happening, to get it to everyone at the exact same time.  33 
+1 So you're not playing the phone game, let's call everyone up, you're not sending 
+2 out an email or a report hoping someone opens it up in their inbox or you hope it's not 
+3 sitting in someone's in box for hours. It gets everyone out there, you know, at the exact 
+4 same time. 
+5 So that's what the virtual situation room is. We used it quite extensively during 
+6 the summer of 2020 for civil unrest, in the lead-up to January 6. And in the lead-up to 
+7 other types of planned major events where we were going to leverage that virtual 
+8 situation room, we would again make --how should I describe it? We would advertise 
+9 that we were going to be activating the virtual situation room so folks would know that 
+10 would be a tool that they would be able to leverage. 
+11 We would be, again, announcing it at our blast calls whenever the watches would 
+12 change out, alerting everyone that the virtual situation room is available. Our liaison 
+13 officers, we would say, hey, make sure your agencies know the virtual situation room. 
+14 You know, informal discussions, you know, at my level and my peers' level. So trying to 
+15 get the word out that that's a tool, not the only tool, but a tool that folks could use to, 
+16 again, have situational awareness. So I don't know if that leads to other questions on 
+17 that. 
+18 Q No, that's very good, sir. And again, I think it's a good segue into 
+19 January --the lead-up to January 6 before we talk about the 6th itself. 
+20 Now understanding sort of how that component works and given all the 
+21 background you've given us about how ops gets information, how it disseminates 
+22 information, to the best of your recollection, when did what I'll call the specter of 
+23 January 6th start to pop up on your radar? When did you as the director of ops start 
+24 to get information that something might be brewing in or around either the Electoral 
+25 College vote count and/or the inauguration?  34 
+1 A I would say probably --I can't give you a precise date, but as memory serves 
+2 me, it would be mid to late December is when things --that we knew that there was 
+3 going to be large crowds. Law enforcement was starting to see in social media a 
+4 number of various groups calling for protests. Law enforcement, like the Park Police, 
+5 were starting to get applications for various permits in the city. So I would say starting 
+6 mid to approaching the Christmastime frame of December of 2020, that's when, again, 
+7 we started to know that things were starting to heat up. 
+8 I can tell you, though, initially, January 6th wasn't initially a date. It started first 
+9 looking at the inauguration. And then, again, as we were getting into late December, as 
+10 we start seeing what was going on at the state level down in the Georgia area, as law 
+11 enforcement started seeing more and more mention of January 6, it was about late 
+12 December, you know, between Christmas, maybe New Year's, that time frame that, yeah, 
+13 January 6 started becoming more clear as a significant date for law enforcement. 
+14 Q Copy that, sir. And you mentioned that it started out with what sounds like 
+15 open source information in part being provided by what I think I understand to be sort of 
+16 state and local law enforcement partners. 
+17 Were you getting any other information from, let's say, federal partners, from 
+18 Capitol Police or DoD or DOJ, FBI, any of those, or even anywhere else within the DHS 
+19 enterprise about sort of percolating about, you know, this buildup to what would 
+20 eventually be January 6th? 
+21 A Yes. So again, I mentioned previously about our weekly operations 
+22 deputies forum. So again, this would be where we would be getting indications of what 
+23 is on the radar of our various components. 
+24 So it's not just INA that has a social media collection capability. It's not just 
+25 within ops and my commercial contract company. Our other law enforcement  35 
+1 agencies also, for their own law enforcement purposes and under their own 
+2 authorities, have capabilities as well; agencies like the Secret Service, agencies like the 
+3 Federal Protective Service as well. 
+4 So, again, not any one area, but, you know, through all these mechanisms, we 
+5 were starting to get indications that, you know, around January 6, things were going to 
+6 be --there was a lot of interest that started, you know, coming together in that late 
+7 December time frame. 
+8 At my level, I don't recall any direct engagements with interagency partners until 
+9 we got to the point --and I know we're going to get there, so I won't go into the 
+10 details --until we get to the point of those two calls at the cabinet level. That was really 
+11 where we started getting directly into the interagency, you know, passing/sharing of 
+12 information. 
+13 Q Copy that, sir. So if I understand you, it sounds like prior to the calls on 
+14 January 3rd and 4th, the cabinet level calls, it sounds like DHS ops is getting info, sort of 
+15 assessing it, but it sounds like it hasn't started to push any of that information either out 
+16 or up. Is that correct or is that fair? 
+17 A Push out or up. Yeah, I don't think there was really anything that we had 
+18 yet to push out or up other than, yeah, there was a lot of interest surrounding it, but we 
+19 didn't have anything tangible yet to pass, correct. 
+20 Q Copy that, sir. And again, before we jump to the two cabinet level 
+21 calls --and I know that you've mentioned that you also held your ops deputies forum. 
+22 Prior to the 3rd, to January 3rd, were there any DHS internal calls such as the 
+23 ops deputies' call or any other interagency calls where sort of the lead-up to January 6 
+24 was being discussed, putting aside the cabinet level discussion on the 3rd and the 4th? 
+25 A Yeah. Nothing that comes to memory right now prior to that Sunday,  36 
+1 January 3rd first cabinet level call. Nothing to --as you just described it, nothing formal 
+2 like that had occurred that I recall. 
+3 Q Copy that, sir. So let's start --let's jump to January 3rd, then. Talk to me 
+4 about sort of how is it that you became to be involved in that cabinet level call on that 
+5 Sunday. 
+6 A Yeah. So that Sunday morning, I was at home. I live down in -
+7 - so I was at home. And I got word earlier that morning that the secretary was 
+8 invited to a cabinet level call that was being convened that afternoon at 1 o'clock by the 
+9 acting Secretary of Defense to talk about the planning for the federal interagency 
+10 coordination and planning for security for the events on January 6th. And I was asked if 
+11 I was available, if I could be a plus one to back bench the secretary on that call. 
+12 I said obviously if the secretary wants me, I can certainly, you know, be on that 
+13 call. And so I got a calendar invite from the secretary scheduler that morning. Once I 
+14 got wind of that, my first thing is I carry a secured mobile telephone. I went and 
+15 attempted to do a secure call, but where I live, I get spotty reception, so the secure call, 
+16 test call didn't go very well. So I decided I was going to just drive into the city to be 
+17 there for the call at 1 o'clock and take it down there in the National Operations Center 
+18 where, again, in case there was any sort of hiccups, I had the watch team there that could 
+19 assist me in the call and managing the call. 
+20 After that, I reached out to my staff, through my deputy chief of staff for 
+21 operations and I asked-a let's schedule a no notice operations 
+22 deputies call. We would call them snap OPSDEPs because we would have the routine 
+23 regular Tuesday morning weekly forums. But whenever we had to call an add hoc 
+24 meeting or a no notice meeting, we just called them snap OPSDEPs. 
+25 So I asked_ I said, let's do a snap OPSDEPs for 9 o'clock Sunday morning.  37 
+1 Let's get together our law enforcement components, INA, the Office of General Counsel, 
+2 to talk about where do we stand as a department in our planning for January 6th and 
+3 then let's prepare a one-pager --and I use the term "one-pager." It's not always one 
+4 page, but we try to keep it to a page --let's prepare a one-page pager of talking points 
+5 that we could give to the secretary prior to the 1 o'clock call so he could talk from an 
+6 informed position about all the preparatory work that we were doing within the 
+7 department. 
+8 So we did that snap OPSDEPs call at 9 o'clock Sunday morning after which the 
+9 watch then prepared that one-pager, which basically summarized what each one of our 
+10 law enforcement components either knew about January 6th or what was going to be 
+11 their force posture on the day of January 6th and how we were going to be postured. 
+12 And so that was what occurred Sunday morning. I drove into the city and then I took 
+13 the call from the operations center. 
+14 So I won't go further. Let you ask additional questions unless you want me to 
+15 continue into the call. 
+16 Q No, no, I appreciate it, sir. Thank you. 
+17 So the one-pager that you provided from the snap OPSDEPs call --and you may 
+18 have said this and I may have just missed it --to whom did you provide that one-pager 
+19 to? Is that something that went to AS1 or AS2 or was that something that was 
+20 disseminated just amongst the deputies? I'm just curious sort of where that 
+21 ultimately went. 
+22 A Yeah. That went obviously to --because AS1 was the customer of it 
+23 because we wanted him to be informed for the call. And then what our general 
+24 procedures are is those one-pagers, we would then disseminate it back out to the 
+25 OPSDEPs so they have awareness as well of this is what we sent to the secretary. So  38 
+1 everyone has that consolidated. So it would go much broader than just that. 
+2 Personally what I did as well, and this goes back to that summer of 2020, one of 
+3 the things we haven't talked about is AS1 Wolf appointed me as his direct liaison with the 
+4 Department of Justice for making sure we had transparency in the dissemination of 
+5 information. 
+6 And since the summer of 2020, I was regularly keeping the DOJ point of 
+7 contact, an individual by the name of Mr. David Burns from the criminal investigations 
+8 division of DOJ as well as the FBl's deputy director, David Bowdich, I kept them 
+9 informed, whenever we would send out reports to the secretary on overnight 
+10 developments of civil unrest or as we were developing products on our force posture 
+11 for significant events that occurred during 2020 like, you know, July 4th, like Labor Day 
+12 weekend, like, you know, election day in November, making sure that DOJ and the FBI 
+13 knew our posture and in turn they would keep me informed about what they knew 
+14 from a DOJ or an FBI standpoint. 
+15 So I would have to go back through my notes, but I'm fairly confident that I would 
+16 have sent that same one-pager to both Davids at DOJ and FBI so they knew, hey, your 
+17 principal will be on the call most likely with my principal. Here's what my principal 
+18 knows is our force posture going into the call. 
+19 Q Copy that, sir. Appreciate it. 
+20 So let's talk about the January 3rd call and start with who do you recall, what 
+21 agencies were represented on the call? 
+22 A The call was, again, convened at the request of the acting Secretary of 
+23 Defense. There was a number of senior Department of Defense officials on the call to 
+24 include, as I recall, the Deputy Secretary of Defense, the Chairman of the Joint Chiefs of 
+25 Staff, the Secretary of the Army. Those were the principals. There may have been --I  39 
+1 don't recall now --there may have been a senior official from the National Guard Bureau 
+2 as well on the call. There may have even been the head of the D.C. National Guard, 
+3 General Walker. Again, I'm not confident on that. 
+4 The ones I recall speaking on the call were the acting Secretary of Defense, the 
+5 Secretary of the Army and the Chairman of the Joint Chiefs of Staff. I recall specifically 
+6 those three speaking during the call, but I think there were other senior DoD officials. 
+7 Additionally to that, the acting attorney general was on the call, AG Rosen at the 
+8 time. The Secretary of Interior was there. Oh, going back to the acting attorney 
+9 general, he had with him the deputy director of the FBI, David Bowdich, who was on the 
+10 call. Who else? FBI, DOJ, DoD. So obviously Secretary Wolf was invited. He did not 
+11 initially start the call because he was getting ready to take off from Andrews and so he 
+12 joined the call midway through the discussion. 
+13 I would have to look at my meeting notes. There may have been a couple of 
+14 others. If I'm forgetting one and you want to ask me was so and so there, I could tell 
+15 you, but there may have been a few others that I'm just overlooking right now. 
+16 Q Copy that, sir. No, I appreciate that. 
+17 What do you recall was generally discussed and sort of what were the 
+18 outcomes of the January 3rd meeting? 
+19 A So the whole purpose, as I recall in the opening comments by the Secretary 
+20 of Defense behind this call, was that the Defense Department was asked to provide 
+21 soldiers to help in the security on January 6, and the secretary was looking for getting a 
+22 general consensus on what was the interagency's understanding of what was going to 
+23 occur on January 6 and what were other departments in the AGC's posture going to be. 
+24 Because he as the Secretary of Defense didn't really have a good understanding of what 
+25 everyone else was doing and really wanted to just kind of baseline to have a discussion to  40 
+1 understand what others were doing on January 6. 
+2 And I think he, as I recall, started with the Secretary of the Army to describe the 
+3 request that the Secretary of the Army had for sending National Guard to support the 
+4 District, and the Secretary of the Army had not yet made a decision whether or not to 
+5 provide the requested soldiers that were asked of by the city. 
+6 And then he went to the Chairman of the Joint Chiefs of Staff, General Milley. 
+7 And generally speaking, General Milley was very reluctant to put the U.S. military in a 
+8 position of policing U.S. citizens based upon our historical roots as a nation and using the 
+9 military against our own people. So he was very adamant and very skittish as to the 
+10 chairman about getting uniformed folks involved in the security for January 6. 
+11 And after that, it was just kind of around the roster, the folks on the call, about 
+12 what each agency or department knew about January 6, how big a crowd was expected, 
+13 what was people's understanding of expected level of violence and how are folks 
+14 posturing their own departments and agencies. 
+15 I recall that there was a swag, as I would put it, a widely disparate view about the 
+16 crowd size, but I think most folks on the call expected it was going to be a large crowd. 
+17 Numbers that I recall being thrown about on that call, anywheres from about 25 to 
+18 30,000 or more could be expected. And I remember someone --don't ask me who, I 
+19 can't remember now --commented that while that is a large number, D.C. has seen much 
+20 larger crowds over the years than that. And I think there was broad 
+21 discussion/acknowledgment that folks were calling for bringing weapons into the city on 
+22 that day, so there was no surprise, there was no --you know, no one disagreed that there 
+23 was going to be the high likelihood that there could be some violence on January 6. 
+24 That was kind of the flow of the call. Everyone spoke from their point of view 
+25 what they knew, what they didn't know, how they were going to be postured.  41 
+1 The call kind of ended with, one, whether or not folks thought there should be a 
+2 follow-up call on Monday, and no one really pushed back. No one really had a strong 
+3 opinion one way or the other. And I think because there was kind of a general lack of 
+4 silence, Secretary of Defense said, well, let's go ahead and do a second call tomorrow to 
+5 see, you know, if anything has really changed or if we get any additional clarity and 
+6 it --you know, tomorrow's call doesn't have to be as long or as exhaustive as this call that 
+7 we're just now finishing. If anyone just has any updates, we can make it shorter. 
+8 The only thing that was kind of left as a, as I would term it, a hanging chad on that 
+9 call was who was going to be the lead federal coordinator for the federal government on 
+10 the 6th. That the Secretary of Defense felt like it shouldn't be the Department of 
+11 Defense, but he just called the meeting because no one else had called the meeting and 
+12 he just generally wanted to know what everyone was doing going on, but that someone 
+13 should be coordinating and it shouldn't be the Department of Defense. So that was kind 
+14 of left as an opened, unanswered question that was kind of touched upon during the call. 
+15 And there was some hope that there would be some greater clarity on the next day's call 
+16 to that question. So that's kind of how the call kind of concluded. 
+17 Secretary Wolf, just to conclude from a DHS perspective, he ultimately joined the 
+18 call, but only after I had been --or DHS had been polled and then I spoke up on the 
+19 secretary's behalf, basically summarized that one-pager that we produced to the 
+20 secretary, let the acting Deputy Secretary of Defense know that, one, that our estimates 
+21 within DHS generally aligned with others, that we were anticipating a high number, 
+22 25,000 or more people. We were aware of a broad likelihood of being some violence. 
+23 I talked about the mission of the Federal Protective Service to protect federal 
+24 facilities, talked about that the Secret Service felt like they were adequately prepared 
+25 to protect the White House complex and their protectees. And I also talked about  42 
+1 the virtual sit room, how we were connected with the other departments and agencies 
+2 that were on this call, with their agencies who were up on the call and that we would 
+3 be monitoring that. So that was kind of, you know, for two to three minutes, kind of 
+4 the highlights I gave the group on the call from the DHS standpoint. 
+5 Q Copy that, sir. I appreciate that. And I know you may not recall 
+6 specifically, but I'll ask, do you know if the U.S. Capitol Police was on that January 3rd 
+7 call? 
+8 
+9 A 
+Q I know for a fact they were not. Were not. 
+Okay. And other than sort of the difference in crowd size, was your sense 
+10 that everyone on that call was on the same page in terms of what I will generically call the 
+11 threat picture for the 6th, or did you feel like not everyone was sort of on the same page 
+12 about what that looked like as of the 3rd? 
+13 A So as of the 3rd, I think everyone was on the same page on the 3rd, knowing 
+14 that there was a number of permits that have already been submitted by the 3rd, again, 
+15 for the Department of Interior speaking on behalf of the U.S. Park Police. Talked about 
+16 that there were so many permits that had already been submitted and that knowing the 
+17 groups that submitted the permits, there was consensus or broad awareness on the call 
+18 that there was a number of divergent ideological groups that were going to be in the city 
+19 at the same time on the 6th, so the likelihood and from past experience during the 
+20 summer of 2020 of protests and counter-protest groups getting into physical altercations, 
+21 there was a recognition that there was a high likelihood that that could occur on January 
+22 6th. 
+23 And again, on the 3rd, there was also awareness that there was a number of 
+24 various posts on social media where folks were talking about bringing weapons into the 
+25 city. So folks were expecting that there was going to be weapons in the crowds and  43 
+1 folks violating D.C.'s weapons, you know, laws. 
+2 Q Copy that, sir. And you mentioned that you spoke up on the secretary's 
+3 behalf because DHS was already polled by the time the secretary joined. Then 
+4 afterwards, you sort of briefed up the secretary on what you had briefed on the call. 
+5 Can you recall --and again, just from sort of a general broad brush perspective, 
+6 as of the 3rd when you were briefing the secretary, what was DHS's posture? Like 
+7 what were we prepared to do? Sort of who was prepared to bring what to the fight, 
+8 so to speak, to the best of your recollection? 
+9 A Yeah. So from the best of my recollection, again, Secret Service, from their 
+10 mission space, felt like they were adequately prepared to safeguard the White House 
+11 complex, the vice presidential, you know, house. So Secret Service had no 
+12 additional --as I recall, they still had the anti-climb fencing around Lafayette Square up. 
+13 So Secret Service --good to go from Secret Service's perspective. 
+14 FPS, from their force posture, they had a number of officers that were going to be 
+15 guarding federal facilities down there along the National Mall area. They also had a 
+16 mobile field force that was going to be, again, as the name entails, available, that if they 
+17 had to, you know, respond to a federal facility where they may not be adequately 
+18 manned or reinforce a currently, you know, guarded federal facility, they were going to 
+19 have the mobile field force available. 
+20 One of the things FPS also had done going back through the summer of 2020 is, at 
+21 their own headquarters, they have a number of, again, law enforcement, badge-carrying, 
+22 weapons-carrying officers just doing headquarters functions, that they had a number of 
+23 headquarters folks that were identified, not immediately available, but could get recalled 
+24 to constitute yet additional FPS reinforcements. 
+25 FPS also worked out with both CBP and ICE where --over at the Ronald Reagan  44 
+1 Building and at ICE headquarters. FPS provides building securities at those two facilities 
+2 as well. FPS worked it out to, again, pull FPS officers away from those two headquarters 
+3 and allow ICE and CBP to provide their own building security to allow FPS greater 
+4 flexibility to safeguard other federal facilities in the area. 
+5 And then I think I would just end by saying both CBP and ICE were asked to 
+6 identify additional personnel should FPS require additional support. So FPS had 
+7 somewhere in the neighborhood of about 50 CBP-identified reinforcements that, again, in 
+8 order to support FPS, whether it's from ICE or CBP or another DHS law enforcement 
+9 component, they have to be cross-designated by FPS. So, again, in the lead-up to 
+10 January 6, it was making sure that those folks that were on recall from CBP and ICE to 
+11 augment FPS had been, you know, cross-designated, had all the required training and 
+12 were ready to go. 
+13 CBP and ICE don't have any organic authorities to operate and to safeguard 
+14 federal facilities. That's an FPS authorities that needs to be delegated and designated to 
+15 our other components. So it was making sure those other components had staff that 
+16 were ready to go with the appropriate gear, training and authorities. 
+17 
+18 Q Copy that, sir. Appreciate it. 
+Last question about the 3rd before we move on to the 4th. Were there any 
+19 action items for DHS as a result of that call? Were there any specific actions that DHS 
+20 ops took as a result of the conclusion of the January 3rd call, other than what you've 
+21 already described? 
+22 A Yeah. No specific actions that I recall other than everyone was asked to 
+23 update their --you know, if they had any updates. So that was our only action was to 
+24 verify the next day on Monday, the 4th, with our components to make sure, has anything 
+25 changed? Do you still have the same posture? Are you doing anything new or  45 
+1 different that we don't already know about? But other than that, there was no 
+2 additional action items for us. 
+3 Q Copy that, sir. So with that said, let's move now over to the 4th and let's 
+4 talk about, you know, who was on the call on the 4th, what was discussed, sort of the 
+5 same thing we've done with the 3rd, but now with the 4th. 
+6 A Yeah. So on the 4th, it was the exact same members were invited on the 
+7 call that were on the 3rd. Really --and again, it was led off by the acting Secretary of 
+8 Defense. And, again, he just prefaced that we don't need to make this a long call, just 
+9 looking for any updates since we had talked at 1 o'clock on Sunday. 
+10 The things that stood out to me was, before Chairman Milley spoke, the acting 
+11 attorney general spoke as well as a few others. And so when Chairman Milley spoke, 
+12 Chairman Milley put out a statement --and I'm paraphrasing. This is not a verbal 
+13 statement, but paraphrasing, that --and I'm now General Milley, saying, hey, if I 
+14 understand correctly, DOJ is the lead federal agency on the 6th or words to that effect, 
+15 but that was the general sense of what General Milley said. And then he went on to say 
+16 a few other things. 
+17 But the thing that resonated with me from General Milley's statement was 
+18 General Milley in no uncertain terms said I just heard that DOJ is the lead federal 
+19 agency. And to me, that clearly gave an open window for the acting attorney general 
+20 to push back to say, no, General, you heard wrong, we're not the lead federal agency. 
+21 That did not occur. But neither did the acting attorney general say to the effect, 
+22 yeah, you heard correctly, we are the lead federal agency. 
+23 So it was --there was a lack of interest --my opinion now. Let me just share 
+24 what I'm about to say is my opinion. There was a lack of interest on the Sunday call by 
+25 DOJ to actively take the lead federal agency call, which is why it was left as a hanging  46 
+1 issue, unresolved issue from that first call. 
+2 On the second call, by the time it got to General Milley and he said, from 
+3 everything I've heard, DOJ is the lead federal agency, and because the attorney general 
+4 didn't push back, to me, it was everyone recognized that, okay, DOJ, you got it. You're 
+5 the lead now for the 6th on behalf of the federal Executive Branch. 
+6 Q Copy that, sir. Appreciate it. 
+7 And so sort of having put that issue to bed and other than updates from the 1 
+8 o'clock call on the 3rd, anything else significant discussed at that January 4th call? 
+9 A No. It was a much shorter call. The only thing, at the end of the call, vice 
+10 asking the group, the acting Secretary of Defense basically said, hey, from what I've 
+11 heard, I don't think there's a need for us to do another call on Tuesday the 5th, but if 
+12 anyone disagrees, let me know or if you feel we need to get a call, we can always 
+13 schedule a call later, but I feel --and again, I'm paraphrasing now --I feel comfortable as 
+14 the Secretary of Defense. I don't think we need to do another call, you know, after this 
+15 call. And therefore, no one spoke up to say, oh, no, we need to continue these calls, you 
+16 know, it was that second call and that was it. 
+17 
+18 
+19 Q Copy that, sir. I didn't mean to cut you off. I'm sorry if you weren't done. 
+A You're good. 
+Q Thank you, sir. Do you recall if, on the January 3rd call, if U.S. Capitol Police 
+20 was a part of that call? I know they weren't on the 3rd. Do you recall if they were 
+21 on --whether or not they were on on the 4th? 
+22 A No. Neither Capitol Police nor Metro PD from the city were on either calls. 
+23 It was just all the federal partners from the Executive Branch. 
+24 Q Copy that. And again, sort of similar to my question about the 3rd, any 
+25 action items or any actions that DHS ops took as a result of what came out of the January  47 
+1 4th call? 
+2 A No. I don't recall we took any actions, nor do I necessarily recall really 
+3 anyone necessarily took many actions. It was really to share and pass information, not 
+4 necessarily to take taskers or to take action. It was really just to inform others about 
+5 what each one was doing from a departmental standpoint --from each department 
+6 standpoint. But, no, I don't recall any specific actions necessarily for anyone coming out 
+7 of that call. 
+8 
+9 
+10 
+11 Q 
+A 
+Q 
+A Copy that, sir. 
+If I could --
+Yes, sir. 
+Sorry to cut you off. There was only one item that was discussed as a 
+12 possible action. And on that second call, there was discussion about whether or not 
+13 there should be a briefing to members of Congress on what's our general awareness of 
+14 the events and how we are postured and, you know, whether it's a joint, you know, 
+15 briefing from, you know, the various departments. 
+16 Folks generally thought that was a good idea. And so I don't recall necessarily 
+17 that anyone got specifically pinned with that to lead that briefing to Congress. Again, 
+18 it's my opinion that, as I sit here and remember it, the assumption was it would have 
+19 been the lead federal agency to schedule that. I recall coming back after that call and 
+20 alerting our own DHS Department of Leg Affairs that there may be an ask to give a 
+21 briefing to members of Congress so our leg affairs folks were not caught off guard. 
+22 But as I know it to this day, there was never any briefing that actually was a follow-up. 
+23 Q Copy that, sir. Appreciate it. 
+24 So before we segue into the 6th itself, like I've done previously, I'll pause and 
+25 ask if any of my colleagues have any questions for Director Tomney about what we just  48 
+1 discussed in terms of the lead-up to January 6th and his participation as the director of 
+2 DHS ops. 
+3 Okay. Looks like we're good to go, sir. So let's talk about the 6th. And 
+4 probably the easiest way to do this is kind of like we've been doing. In a narrative form, 
+5 just sort of tell me how your day began on the 6th, like from the time you woke up and 
+6 we'll walk through the day and I'll probably ask you questions along the way about what 
+7 you did and what was going on on January 6th itself. 
+8 A Yeah. No, certainly. And I'll try to pause as I tell the story so you don't 
+9 have to remember a laundry list of questions. 
+10 So again, as I recall both at the department level as well as within my own staff, 
+11 we maximized teleworking on that day because we knew there was going to be large 
+12 crowds in the city. We knew there could be the potential for violence. So we 
+13 encouraged folks to telework, not come into the city unless they needed to be in the 
+14 city. 
+15 The acting secretary of DHS was overseas on international travel in the Middle 
+16 East. He was eight time zones ahead. The acting deputy secretary was at his home 
+17 over i~ Was not in. 
+18 I came in that morning to --and I remained in the city at St. Elizabeth the entire 
+19 day and didn't leave until, you know, well into the evening to return back home. 
+20 For the most part, I spent most of my time in my office with my deputy chief of 
+21 staff for operations. I got a morning brief as I do every morning, or I should say every 
+22 workday, from the NOC duty director about what's going on. I activated and logged 
+23 in myself into the virtual sit room from my own desktop in my office and I recall 
+24 making and receiving a number of calls that morning as the situation started to unfold 
+25 in the city.  49 
+1 And I'll go all the way up until noontime and then I'll pause before I go more to see 
+2 if you have any questions. So as I recall that morning, that the sit room was actively 
+3 being utilized by the interagency. A number of departments and agencies were up into 
+4 the sit room. 
+5 I recall we were getting realtime crowd estimate sizes down there around the 
+6 Washington Monument and around The Ellipse. Generally speaking, prior to noon, 
+7 the crowd was generally peaceful. There had been a couple of arrests that morning. 
+8 I know at one federal facility, FPS stopped a vehicle and found a couple of handguns 
+9 and took a couple of individuals into custody. But generally speaking --and I think on 
+10 a positive note, surprisingly, there was very little violence, that the crowd was 
+11 generally peaceful. A large crowd, but generally peaceful. 
+12 Knowing that there was going to be the event The Ellipse over at the White House, 
+13 by midmorning the crowd started to shift away from the Washington Monument to start 
+14 getting over towards The Ellipse for the White House function. And I recall that the 
+15 crowd size was being estimated at about 25,000. And I don't recall the crowd size 
+16 much --estimates much deviating. So I think that was --someone pins me down and 
+17 asked what was the crowd size, that's what I'd give is 25,000 because that's what I recall. 
+18 Generally speaking, that's what folks leveraged --you know, kind of leveraged on. 
+19 Our DHS law enforcement folks were in their various positions, safeguarding the 
+20 federal facilities, the Ronald Reagan Building, et cetera. And really it was --other than a 
+21 few minor issues, generally, we didn't see the large scale what we had anticipated of 
+22 protests and counter-protest groups going at it with one another. 
+23 So I'll stop there to see if you have any questions up until that moment in the 
+24 timeline. 
+25 Q Copy that, yes, sir. I just have one question. Do you recall if you were  50 
+1 tracking or monitoring the media coverage of the event like on TV or on old school radio, 
+2 you know, up until 12 o'clock? 
+3 A Yes. So in my office, I have a large flat screen TV on the wall. I have a 
+4 removable standup desk. So like I'm talking to you now, I had my desktop and then 
+5 directly on the wall in front of me I had a TV. So, yes, I had the TV on and was 
+6 monitoring open source as well. 
+7 Q Copy that, sir. All right. So now let's say from 12:00 to about 3:00, what's 
+8 going on? 
+9 A Okay. So shortly after 12:00, we are now getting reports of disturbances 
+10 up on Capitol Hill where the crowd is starting to get agitated. Again, I can see it with my 
+11 own eyes because I'm watching the national news coverage. I can see the Capitol Police 
+12 behind the bike racks with the crowds in front of them, much larger than what I saw as 
+13 the Capitol Police in the TV coverage I was watching. 
+14 I would see the outbursts within the crowds of either shaking bike racks. 
+15 would see occasional objects being thrown at officers, et cetera. So at the same time 
+16 that was going on and I was observing that, I was monitoring the virtual chat that was 
+17 on my desktop and I was seeing, you know, reports where the event at The Ellipse that 
+18 the White House was performing was concluding and that law enforcement was seeing 
+19 the crowds migrate from The Ellipse up towards Capitol Hill. So where there was 
+20 already large crowds that I was seeing on TV, the reports we were getting is even more 
+21 folks were now leaving the White House function to head up to Capitol Hill as well. 
+22 At one point, I would have to look at the timeline, but it was somewhere in that 
+23 time frame, we got the report of a couple of suspicious packages up there on the Capitol 
+24 complex. At one point we had a report of a person with a weapon on a rooftop of a 
+25 building that initially had the interest but was quickly dispelled and turned out to be  51 
+1 fellow law enforcement up on a rooftop, but they initially didn't know who it was that 
+2 was up there. 
+3 A lot of inquiries going back and forth both in virtual chat, emails, telephone 
+4 calls about what's going on. I know at some point, as the events are unfolding, 
+5 Secretary Wolf reached out to me. I know at one point his chief of staff and deputy 
+6 chief of staff, who was traveling with him, reached out to me as well via email wanting 
+7 to know what was going on. 
+8 I was answering questions for the deputy secretary. At one point the deputy 
+9 secretary asked me to pass the link because he wanted to get up into the virtual sit room. 
+10 His chief of staff wanted to get up in the virtual sit room as well as his senior counselor. 
+11 So I recall, again, helping them get connected in the virtual sit room as well. 
+12 I did not know it at the time, but during this time frame, Director Murray from the 
+13 Secret Service was trying to provide me an update of what the Secret Service was doing, 
+14 but for whatever reason, his messages never got through to me. I don't know why, but 
+15 he was trying to reach out to me. And this is all happening until --again, then I'm 
+16 witnessing like everyone else the breach happening up there on Capitol Hill. So I'll stop 
+17 with the initial breach to see any questions on that thus far. 
+18 Q Copy that, sir. And I appreciate it. 
+19 So two questions. One, it sounds like when you started your day, you were in 
+20 your office. Did you stay in your office during this time frame or at some point did 
+21 you migrate to the NOC, for example? 
+22 A I can't say definitively, but I believe I walked to the NOC at least once in the 
+23 morning before things really heated up. If you're unfamiliar with the layout of the St. 
+24 Elizabeth's campus, it's literally about a 10-minute walk from my office to the NOC. 
+25 And again, while I'm in the NOC, I don't have access to my cell phone, I don't  52 
+1 have access to my email, so I did not plant myself in the NOC. But I recall, yeah, 
+2 when I first got down there, to have the face-to-face discussions with the NOC duty 
+3 director, with the senior watch officer, so I could talk to our liaisons that were in on 
+4 that day, you know, take a look at the virtual sit room on the wide screens that we 
+5 have down there. 
+6 But after, you know, that initial visit, I was pretty much tied to my phone, my desk 
+7 phone, my cell phone, my emails up there in my office with my deputy chief of staff. 
+8 And then just dealing with the watch either in the virtual sit room, telephone or emails 
+9 just from my desk. 
+10 Q Copy that, sir. Appreciate it. 
+11 And my second question is, at this point in the story, are you --or have you yet 
+12 been providing any information to AS1, Acting Secretary Wolf or Acting --AS2, Acting 
+13 Deputy Secretary Cuccinelli about what was going on? Had that happened yet at this 
+14 point in the story? 
+15 A I would have to refresh my memory on my timeline. I know I had 
+16 engagements with both of them. I can't remember right now if it was before the breach 
+17 or after the breach, but I know they both had interest. They were both watching the 
+18 same news media that I was as well. So I can't --I would have to look at the timeline to 
+19 say at what point that occurred. 
+20 I know I had more engagements with the deputy secretary only because he was 
+21 here in the NCR, and I know it was late at night, but I did have some engagements with 
+22 the acting secretary. But I can't recall right now whether it was before or after the 
+23 breach. 
+24 
+25 Q Copy that, sir. I appreciate that. 
+So let's talk about what happened now after the breach. The Capitol is  53 
+1 breached. Sort of what happens next in your day? What do you do next? 
+2 A So, again, as I mentioned a while ago, we have a --or had a U.S. Capitol 
+3 Police liaison officer assigned to the NOC who was actually up on Capitol Hill that day who 
+4 was providing realtime information back to our watch in the NOC. 
+5 Once we got word that the Capitol had been breached, several things 
+6 happened almost probably simultaneously at various places. We were getting wind 
+7 and word from FPS that they were asked to send FPS officers up to the Capitol Hill to 
+8 augment the Capitol Police. And so, therefore, FPS was taking 16 officers, as I recall, 
+9 as a team and surged them up to the Capitol. 
+10 I didn't know it at the time, but I learned later that at the same time FPS was 
+11 asked for reinforcements, that Secret Service sent reinforcements as well. I do not 
+12 know --and this would be something you would all have to get from Secret 
+13 Service --whether or not that was a specific ask of the Secret Service or if the Secret 
+14 Service did it, you know, at their own --on their own. But they did send initially 100 
+15 officers, both uniformed and plainclothes, up to assist at the Capitol. And later on sent 
+16 an additional 100. So I think at the height, as I recall, there was about 200 Secret 
+17 Service, give or take, up there on Capitol Hill. 
+18 About this same time as the breach occurred, because the deputy secretary is now 
+19 in the virtual chat room, he made a posting in the chat that he authorized appropriate 
+20 DHS law enforcement personnel to assist the Capitol Police. And as this was all 
+21 occurring, I asked my deputy chief of staff to let's convene as soon as possible an 
+22 immediate snap OPSDEPs to find out what do we have that we can send up there to assist 
+23 the Capitol Police. 
+24 Mindful of where we were at in the story, not having the luxury of history now, 
+25 we didn't know if this was a start of something more serious and whether or not there  54 
+1 was going to be other events and other widespread violence happening in other places 
+2 in the city. So the purpose behind the OPSDEPs was, one, find out what do we send 
+3 up there, at the same time figure out how are we postured to continue to secure other 
+4 federal buildings, our own headquarters, at CBP, ICE, et cetera. 
+5 So what could we do to assist CB --or the Capitol Police, while at the same time 
+6 let's make sure we need to be able to respond to other incidents if and when they would 
+7 occur. 
+8 Simultaneously to all this happening, the director of the Coast Guard Criminal 
+9 Investigative Service, Mr. Michael Berkow, who is someone I had worked with for a 
+10 number of years and I would consider a friend, reached out to me to let me know that he 
+11 had about a dozen or so special agents of the Criminal Investigative Service available to 
+12 assist. And I told him at the time that we were getting ready to convene at 3:30 a snap 
+13 OPSDEPs and that he was invited to join us on that call. 
+14 He was able to also tell me on that initial call that, if we weren't aware, that the 
+15 Capitol Police had set up a --what I would term a rallying point up on Capitol Hill 
+16 where responding agencies were asked to report to so they could get their assignment 
+17 of where they could be employed up there on Capitol Hill. I said, no, wasn't aware of 
+18 that, Michael. If you could pass me a point of contact; I'll have the watch reach out, 
+19 so that would assist us as the department to figure out so we're not just sending stuff 
+20 up piecemeal. 
+21 So later on, he did send me a phone number and a name. I asked our watch to 
+22 contact this individual up there in the Capitol Police to find out where and what could 
+23 they --what did they want from DHS beyond FPS and Secret Service that they already 
+24 had. 
+25 So that was all occurring within the 3:00 p.m., 3:30, 4 o'clock, you know, within  55 
+1 that one-hour time frame. 
+2 We kicked off the snap OPSDEPs at 3:30, basically figured out what do we have at 
+3 our disposal. We also talked about and asked the DHS components to go back to figure 
+4 out --again, not knowing if this was just the tip of the iceberg --where else could you get 
+5 reinforcements and how many hours would it take you to get additional folks into the city 
+6 if it was required. 
+7 So --and that was a homework assignment from that snap OPSDEPs is what else 
+8 could you bring that --we know what we have at the table right now. What more is 
+9 available out there that you could pull from other cities and how quickly could you get 
+10 them here. Something we learned from June of 2020 in the civil unrest scenarios. 
+11 So we're doing the snap OPSDEPs. NOC duty director reached out to the 
+12 Capitol Police. By the time they reached out to the Capitol Police, Capitol Police told 
+13 our watch that they had more than enough reinforcements showing up and at that 
+14 point, they, one, thanked us as a department and, two, asked us just to remain at our 
+15 current locations to --you know, to stand by if additional help was needed at that 
+16 point. So we passed that. 
+17 Post-snap OPSDEPs call, because I don't think we got the word until after the call 
+18 was over that, hey, just continue to consolidate your resources, but don't deploy up to 
+19 Capitol Hill until we get word from the Capitol Police that they need even additional 
+20 officers beyond what had already responded by that point. 
+21 I think the last thing I would say is I recall reaching out to, at that point, to 
+22 Secretary Wolf via email, let him know here's our posture, on a call letting deputy 
+23 secretary know here's our posture. I know at one point, the deputy secretary asked me 
+24 in an email whether or not the secretary had any concerns about the deputy's direction to 
+25 provide needed support to the Capitol Police. And I remember responding back to the  56 
+1 deputy saying, no, I talked to the secretary and he's fine and basically, you know, in no 
+2 uncertain terms, you know, kind of impressed the same thing is let's provide all necessary 
+3 support that the Capitol Police may need going forward. 
+4 So I'll stop there. That may elicit some follow-up questions for you-
+s Q Copy that, sir. And I appreciate it. 
+6 Going back just a little bit, but tying it to the 6th itself, but beginning in sort 
+7 of --when you identified when this first started percolating in mid to late December up 
+8 to and including the 6th itself, had you gotten --did DHS INA provide you with any 
+9 information about the 6th or the lead-up to the 6th either in December in prep for 
+10 your January 3rd call, January 4th call and/or on the 6th itself, and if so, what kind of 
+11 information did they give you? 
+12 A Yes. So there was a number --not just INA products, but I recall a number 
+13 of various products talking about the 6th. You know, I recall getting --you know, one of 
+14 the routine products we would get is a list of daily protest permits throughout the city 
+15 and the number of expected participants for the various protests that would come out on 
+16 a daily basis. 
+17 So, yes, INA did put out a number of products, but I recall reading products 
+18 from FPS, reading products from the Secret Service as well. So it wasn't just 
+19 exclusively INA. 
+20 Q Copy that, sir. What time did you finally get to go home on the 6th? 
+21 What time did your day wrap up? 
+22 A I recall wrapping up --it was well after business hours. I want to say it was 
+23 8 o'clock. Could have been a little bit later than that. My last task I was trying to do 
+24 was, based upon direction I was given from the acting secretary, he wanted me to reach 
+25 out directly to Rich Donoghue, who I believe at the time was serving the role as the acting  57 
+1 deputy attorney general, and he wanted me to reach out to see if DOJ needed anything 
+2 additional from DHS. 
+3 I recall trying to reach Rich via email with no luck. I recall reaching out to 
+4 David Burns from DOJ as well as Dave Bowdich, the deputy of the FBI. Dave Bowdich 
+5 was not reachable either via email or I had his personal cell phone and he wasn't 
+6 picking up his cell phone. 
+7 David Burns finally --I did get a hold of him and I told him why I was trying to reach 
+8 Rich. He told me he would reach out to Rich Donahue and have Rich get a hold of me. 
+9 As I recall, we didn't connect until sometime 8 o'clock or later. And at that point, Rich 
+10 was actually in the Capitol and I told him basically what we had done up until that point, 
+11 that we had reached out to the Capitol Police and as of 4:00 p.m., they had no specific 
+12 additional ask for us and asked us to just stand by. And I recall Rich said, yeah, that 
+13 seems prudent --basically paraphrasing now --I'm up here right now and, yeah, there's 
+14 more than enough law enforcement and National Guard up here now. Don't see a need 
+15 for additional DHS up here on Capitol Hill. I said Roger, I'll just get that back to the 
+16 secretary, just want to make sure that you all had anything you need from a DOJ 
+17 standpoint. 
+18 So that was my last task. And then I recall sending up an email to the secretary 
+19 and deputy secretary letting them know I talked to Rich. And I think after I sent that 
+20 e-mail was when I departed for the day. 
+21 Q Copy that, sir. And one last question about the 6th that just occurred to 
+22 me that I didn't ask you during our informal, so I apologize. But do you recall --well, let 
+23 me ask it this way. 
+24 Our understanding is that acting AS2 Ken Cuccinelli actually went to the Capitol 
+25 on the 6th. Were you aware of that and was that coordinated with you at all or your  58 
+1 office? 
+2 A I'm not aware of that now. So, no, it would not have been coordinated 
+3 with us. It may have been --and again, assuming if he did go up there, it would have 
+4 been, I would assume, after the fact in the evening sometime. But no. 
+5 All I recall ending the evening with with the deputy secretary is two things. 
+6 One, he had a number of media hits the next morning, so I know he wanted to know 
+7 what he could and couldn't talk about as far as with the media the next morning. 
+8 Because, again, I told him as far as DHS numbers, how many officers we sent from 
+9 which agencies and he wanted to know what. So I advised him to stay clear of 
+10 specific numbers, just keep it broad and general. 
+11 And I recall also he had asked for a formal brief on everything first thing when he 
+12 got in on Thursday morning the 7th. So I recall working with the Secret Service, working 
+13 with my own team to make sure we had a good executive brief ready to go first thing in 
+14 the morning when the deputy showed up to work. 
+15 Q Copy that, sir. Thank you. 
+16 Once again, I'll pause here before we move on to --I promise you, sir, we're 
+17 coming to the end of the tunnel. But before we move on to the summer of 2020, do 
+18 any of my colleagues have any questions for Director Tomney about what we've 
+19 discussed regarding January 6th itself? 
+20 Okay, sir. So let's --we'll come back to January 6th and the form of 
+21 recommendations towards the end, but let's talk about the summer of 2020 and sort of 
+22 what was DHS ops' role in addressing and dealing with the civil unrest, not just locally 
+23 here in the national Capitol region, but also in other parts of the country as it related to a 
+24 number of social injustice issues to include the death of George Floyd. 
+25 A Right. So I and my staff became involved, again, as I recall, it was Memorial  59 
+1 Day weekend in May where I took a phone call from the acting secretary who indicated 
+2 that he had just gotten off the phone with Attorney General Barr, and the AG and the 
+3 acting secretary talked. 
+4 And the secretary told me that he gave the attorney general my name and 
+5 asked me to act as the DHS point attorney. So if the attorney general needed 
+6 anything from DHS, to please rely on Chris Tomney and that I should expect a call 
+7 from, you know, someone from the attorney general's office who was going to be my 
+8 counterpart. And that ultimately turned out to be David Burns that I've mentioned 
+9 already. 
+10 That was right before the week of 2 June, Monday, 2 June, with all the incidents 
+11 that occurred that week in the city, to include the issues at Lafayette Park, the issues with 
+12 the church, et cetera. 
+13 So as the summer progressed, what we would do within my staff is we would 
+14 do a daily synopsis each morning. It was a separate report that listed any significant 
+15 civil unrest issues from around the country that we would compile into a single report 
+16 on a daily basis and only on days when there was unrest. I mean, if there was 
+17 nothing to report, we would not produce one, so there was not certainly one every 
+18 day. There was one every day at the lead-off of the summer, but, again, as we 
+19 approached the fall and winter and things started to settle down, they became less 
+20 and less frequently until we no longer did them. 
+21 But what we would do is not report on the actual First Amendment protected 
+22 protests, but we would be reporting on the criminal activities. We would be reporting 
+23 on the arrests. We would be reporting on the issues that affected Homeland Security. 
+24 As we grilled our staff, folks can, you know, protest and march, et cetera, all 
+25 they want, but it's when they cross that line into criminal matters is when we need to  60 
+1 be doing the reporting. And again, because we're in the business providing that 
+2 situational awareness. 
+3 So those daily reports, when they would be compiled by the watch, they would go 
+4 up to the secretary and all our DHS senior leaderships and then, through my relationship 
+5 with DOJ, I would share that directly with both David Burns and David Bowdich of the FBI 
+6 just so, again, we would be able to have the same shared understanding of level of 
+7 violence, level of criminal activities in the various cities from the night before. 
+8 In many of these cities, we also coordinated law enforcement responses. So 
+9 take, for example, Portland, Oregon where it was safeguarding and providing the 
+10 physical security to the Hatfield Courthouse that became the center of gravity for a 
+11 number of the violent protests. But that courthouse was jointly guarded and 
+12 protected by both DOJ as well as DHS. You had U.S. marshals in the courthouse, you 
+13 had Federal Protective Service individuals there. So, again, it was to share that 
+14 baseline awareness between the two departments. 
+15 Additionally over the summer, my role was, again, as the title is of my office, 
+16 operations coordinations, we helped to coordinate and provide resources to other 
+17 components when they needed additional support. 
+18 So in the context of civil unrest, FPS, they, as an agency, did not have nearly 
+19 enough law enforcement officers to safeguard all the facilities in all the cities where 
+20 we had criminal unrest. So FPS would leverage my staff routinely to help find 
+21 additional law enforcement LEOs so FPS could do their primary mission of protecting 
+22 federal property and federal facilities. 
+23 So the way we would do that is FPS would try to leverage their own resources 
+24 first, both within their regions and --again, they divide up the country into FPS 
+25 regions --so they would try to get additional FPS officers from a neighboring city within  61 
+1 their own specific region, if they need them at a certain location. But if the threat and 
+2 level of violence exceeds what the region can provide, it then goes up to FPS 
+3 headquarters here in Washington to say let's divert resources from another region to help 
+4 in a specific FPS region. 
+5 But if it exceeds what FPS can do across their entire agency, then it would come to 
+6 me and then we would act as, again, that facilitator to call snap OPSDEPs to say, okay, 
+7 FPS, ICE, you know, Secret Service, et cetera, what do you have available? Can you 
+8 provide any additional resources? And we were to, again, connect FPS to our DHS 
+9 components. 
+10 lnteragency, we would do the same thing, not nearly on the same volume. But I 
+11 recall, again, it was during July --during the 4th of July when we had the threats to the 
+12 national monuments, again also over Columbus Day in October when we had threats to 
+13 Christopher Columbus statues in various cities around the country, that DOI, Department 
+14 of the Interior and specifically the National Park Service and the Park Police, would ask us 
+15 as a department, DHS, could you provide us, DOI, with some additional LEOs to help 
+16 safeguard national parks, national monuments, statues, et cetera. 
+17 One of the things we did, for example, is we sent some law enforcement officers 
+18 from DHS up to Gettysburg to help the National Park Police, you know, safeguard a 
+19 number of the monuments up there at Gettysburg. 
+20 But I'll stop there,_ see if that elicits other questions. 
+21 
+22 Q Yes, sir. I appreciate it. 
+Just one question in addition to what was a very good explanation about the 
+23 role of DHS ops during that time period. We've come to learn during our 
+24 investigation that --and this is also, I believe, a part of public reporting, open source 
+25 reporting at the time --that DHS INA had sort of a fundamentally different role in 2020  62 
+1 than it did on January 6th in that they were sort of gathering information about 
+2 people, about protesters, about reporters. 
+3 Was INA sharing any of that information with you or your office in that capacity 
+4 while you were carrying out your normal functions in response to what you've already 
+5 described? What interaction, if any --may be a better way to ask the question --did you 
+6 all have with DHS INA at that time. 
+7 A Yes. So DHS INA is a part of the OPSDEPs forum. And in the context of 
+8 civil unrest, whenever we would do these snaps OPSDEPs calls, which we would do them 
+9 fairly regularly, especially during the summer of 2020, INA would be on those calls as well. 
+10 Because, again, as we're responding to a specific threat in a specific city, we would always 
+11 ask and INA would always be there to say what do we know? What's the latest? You 
+12 know, if we got an operational response, we're spending FPS or other LEOs, what's the 
+13 latest threat that we're aware of. 
+14 So INA was a part of all those snap OPSDEPs calls and, yes, would be providing 
+15 us whatever they knew at the time. 
+16 Q Copy that, sir. I appreciate it. 
+17 Again, I'll pause here before we move on to our last question to see if anyone 
+18 on the call has any questions about the summer of 2020 for Director Tomney. 
+19 All right, sir. As promised, last, but certainly not least, we ask all of the folks who 
+20 give us their time, of which we are very appreciative of your time both before and now, 
+21 but for their own --to the extent you have --understanding that they're personal 
+22 recommendations or thoughts --about what we --again, defined as the collective federal 
+23 government we, to include our federal and state, local, tribal partners --what can we do? 
+24 What are some lessons learned from your perspective, not just based on what you 
+25 experienced on the 6th itself, but your vast experience in the Coast Guard at JIATF South.  63 
+1 What are some things that we might do differently or better to prevent something like 
+2 this from happening again both within the context of DHS itself and, again, outside of DHS 
+3 to the greater sort of federal government. 
+4 A Yeah. No, I appreciate the question because I've given this a lot of thought 
+5 over the months as I know many folks have as well. 
+6 You know, I'll start off my answer by saying --and it may not be a very popular 
+7 answer, an answer that's shared by many, but I don't view January 6 necessarily as an 
+8 intelligence failure. I think we had enough intelligence. I think we had enough 
+9 awareness that there was going to be large crowds. I think we had enough 
+10 awareness --we knew there was going to be the strong likelihood of violence. I think 
+11 we had the general awareness that there was going to be the strong likelihood that 
+12 people were going to be armed and bringing weapons, et cetera. 
+13 So to me, again, there was enough knowledge out there, maybe not knowledge 
+14 that specifically the Capitol was going to be stormed, but, you know, we knew that the 
+15 Capitol was going to be the center of gravity. We knew about the crowd size. We 
+16 knew about the potential for violence. We knew as an interagency that generally the 
+17 focus in the morning was going to be at the function on The Ellipse, and we knew that the 
+18 focus was going to be up on Capitol Hill in the afternoon. So none of that is a surprise, 
+19 and I think the intelligence gave us good, strategic warning about what to expect on the 
+20 day. 
+21 Where I think we collectively all came up short on that day was how do we 
+22 communicate --I mean, it's the same lessons from 9/11, that we were all in various levels 
+23 of silos and therefore the adversary was able to take advantage of the seams and the 
+24 gaps between the various agencies and the jurisdictions, et cetera, and because everyone 
+25 was in charge, no one was in charge.  64 
+1 And so what we could do differently is, one, we need to have better planning 
+2 going into major events like this. It's all well and good to have discussions and 
+3 baseline awareness and knowledge, but we're --you know, from my Coast Guard 
+4 experience and spending five years in two joint commands working with DoD, where's 
+5 the campaign plan? Where is the branch and sequel plannings, meaning if this 
+6 happens, then that? If this, you know, occurs, then we will do that. 
+7 To me, we had ample law enforcement in the city on January 6th. I don't think it 
+8 was a lack that law enforcement didn't have enough trained law enforcement officers. 
+9 We had plenty of law enforcement officers. What we did not have was we did not have 
+10 a contingency plan that if a federal --or if any location was suddenly, you know, 
+11 overtaken or became the focus point of an angry mob, how are we going to all respond in 
+12 a coherent, integrated fashion? Whether it was the U.S. Capitol, whether it was the 
+13 White House, whether it's Lafayette --you know, it doesn't matter. If the crowd 
+14 suddenly went into one location, how are all the various overlapping jurisdictions going 
+15 to, you know, respond to it. 
+16 So I think that's lesson number one is we did a very poor job of planning. We 
+17 didn't have any contingency plans at all in place or, if we did, we didn't leverage those 
+18 contingency plans. 
+19 Another recommendation is I think from the National Incident Management 
+20 System, NIMS, I don't think we leveraged all the same lessons that we learned and that 
+21 we utilize in other major incidents. There was never, that I'm aware of anyways, there 
+22 was never a national incident command that was established for this. There was a 
+23 number of command centers. There was a number of operations centers. FBI had 
+24 their SIOC. FBI had their Washington Field Office. Metro PD had their joint operations 
+25 center. You know, Capitol Police, you know --so everyone had their own thing, but  65 
+1 where are all the top leaders all coming together to speak as a single integrated voice? 
+2 You know, if you all think back, for example, you know, I'll pick one, like the 
+3 Boston Marathon bombing. You know, after that bombing occurred, you know, 
+4 everyone rallied around. There was --you know, from the district attorney to the chief 
+5 of police to the FBI SAC up in Boston, they were speaking as a single interagency body. 
+6 They were working in a coherent fashion to find the bombers. 
+7 You know, on January 6th, we didn't have a coherent, integrated, national incident 
+8 command structure in place. So that would be, you know, another lesson is how do we 
+9 put that in place or how do we have it on paper? How do we exercise it? And then 
+10 how do we implement it when we have a major incident like that, you know, like January 
+11 6th. God forbid we have something like that, but any major incident where you need to 
+12 bring the agencies together. 
+13 Third, which may be a long pole in the tent because it goes back to our U.S. 
+14 Constitution, is the separation of powers. But the fact is that, you know, the Capitol 
+15 grounds are, you know, a different branch of government than the Executive Branch. 
+16 So, you know, I think most, if not all of you, are lawyers and I'm not a lawyer, 
+17 but from my understanding is our federal law enforcement agencies do not have 
+18 independent jurisdictions to enforce federal laws on the U.S. Capitol grounds because 
+19 that's under the sole authority of the Legislative Branch. Just like we don't have any 
+20 sort of independent authorities to enforce federal laws on the grounds of the Supreme 
+21 Court because that's the Judiciary Branch. 
+22 So I don't know if there's a way to get around that or have overlapping or joint 
+23 jurisdictions. But it was my understanding on January 6th, just like it's my 
+24 understanding today --and I could be wrong --but we could not unilaterally send any DHS 
+25 LEOs up to Capitol Hill without the express authority being delegated by the Capitol Police  66 
+1 to us in DHS because we're a different branch of government. 
+2 So I don't know how you could, you know, fix that or if it is even fixable or it's just 
+3 one of the bumps in --you know, necessary bumps in having a free and open society is 
+4 the separation of branches. But again, you can mitigate it. If you can't fix the 
+5 jurisdictional piece, you can mitigate it by having plans, by exercising plans, by having 
+6 joint structures where you have a rep from the Legislative Branch, a rep from the 
+7 Judiciary Branch and a rep from the Executive Branch speaking as, no kidding, they are 
+8 the leaders for this event speaking on behalf of all three of the branches of government. 
+9 I think we failed short as an Executive Branch because there was, I think, a 
+10 reluctance acknowledgment of who was the lead federal agency, but that was never 
+11 formally disseminated, that was never actively discussed. It was kind of --it was very 
+12 loose, that designation. And there was no firm direction/guidance given to the 
+13 interagency because the lead federal agency only at the last second, the last days, really 
+14 acknowledged their role of that going forward. 
+15 I think from a DHS perspective, one of the things I think that we, I think, need to 
+16 do better as a department is figure out what is our departmental's roles and missions for 
+17 acts of civil unrest, civil disobedience, you know, et cetera. 
+18 Because I think, if I were to poll contemporaries and peers here in the 
+19 department, I think I would get different points of view. I think some view us as a 
+20 national police force, which I don't believe that was the intention of Congress, my 
+21 personal belief, when DHS was created, that we're not a national police force, a 
+22 national police agency to be called upon. 
+23 But I think some believe that and I think others agree with me that they don't 
+24 think that should be our role. And one of the things from January 6th all the way 
+25 through the previous summer of 2020 that the various unrest in the city showed us is we  67 
+1 have a very high demand, low density number of trained, qualified and equipped law 
+2 enforcement officers who could actually be able to respond to an issue of violence and 
+3 civil unrest. Meaning we don't have a large number of folks that are trained in riot 
+4 control techniques, that have the appropriate shields and helmets and nonlethals, et 
+5 cetera. We just don't have. 
+6 So whereas on paper we maybe have, you know, thousands --tens of 
+7 thousands of law enforcement officers, only a very small percentage that actually get 
+8 put into what we saw on January 6th on the front lines and would be able to be 
+9 effective because they are trained and equipped to do so. We don't have a large 
+10 number. 
+11 So I don't know what the right number is. I think we have too few. I don't 
+12 know what the target should be, but I think that should be something that ought to be 
+13 looked upon going forward. 
+14 But I'll stop there, Bryan. I think those are some of the major, you know, 
+15 takeaways from my experience leading up to January 6. 
+16 Q Appreciate that, sir. And, yes, your understanding of the separation 
+17 between church and --separation of powers is correct, you're right, you know. The 
+18 Executive Branch can't just show up on USCP's door --United States Capitol Police's door 
+19 and start doing stuff without their permission. 
+20 And I think it's interesting that you point that out because a lot of folks have 
+21 talked about that issue just within the Executive Branch. Like, you know, with --for 
+22 example, in D.C., you have like --you know, the Park Police has got this piece of it and 
+23 the Secret Service has got this piece of it. But I think you're the first person to sort of 
+24 articulate that as it applies to the different branches of government, so I think that's a 
+25 very useful recommendation.  68 
+1 Another thing that you brought up that I thought was very interesting is this idea 
+2 of some sort of regular high-level meeting between the executive, judiciary and the 
+3 legislative on, you know, these operational issues. You come from an ops and planning 
+4 background, you know, and maybe there's some value in, you know, having some kind of 
+5 regular meet where folks get together and say, hey, if something happens and it touches 
+6 all three of us, this is our plan, this is our contingency, this is how we're going to respond. 
+7 So I really appreciate all of your recommendations, but those two particularly resonated 
+8 with me. 
+9 I'll pause and ask one last time. Anything from my team, any last questions for 
+10 Director Tomney before we let him go? Hearing none, I'll ask if there's anything from 
+11 Hilary or Victoria, anything that you'd like to put on the record before we adjourn. 
+12 Ms. Rapoport. I don't have anything. Thank you. 
+13 Mr. Okay. Great. 
+14 BYMR-
+15 Q Well, Director Tomney, I want to thank you again for your time. Thank you 
+16 for your service. Thank you for making your time during both in the informal and during 
+17 this transcribed interview. Both were very, very helpful to the committee's work and I 
+18 thank you for that. 
+19 Do you have any final questions for me, sir, before we call it a day? 
+20 A No, I don't,_ I appreciate it. I'm happy to help you and the 
+21 committee out. As I said after the first time, if you have any follow-up questions you 
+22 think of after the fact, more than happy. I think it's very important work what the 
+23 committee, what you all are doing up there. So happy to, again, answer any additional 
+24 questions as they may come up in the future. 
+25 Q Appreciate that, sir. And I haven't forgotten your open invitation for us to  1 come visit the NOC as well. 
+2 
+3 A Absolutely. 
+Q So I'll probably be taking you up on that. 
+4 M- With that said, this transcribed interview stands adjourned. 
+5 Have a very happy weekend, sir, happy Easter and thank you all for your participation. 
+6 
+7 Mr. Tomney. All right. Thank you as well. Thanks, everyone. 
+(Whereupon, at 11:42 a.m., the taking of the instant interview concluded.) 69  1 
+2 
+3 70 
+Certificate of Deponent/Interviewee. 
+4 I have read the foregoing __ pages, which contain the correct transcript of 
+5 the answers made by me to the questions therein recorded. 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 Witness Name 
+Date 

@@ -1,0 +1,1640 @@
+1 
+2 
+3 
+4 SELECT COMMITTEE TO INVESTIGATE THE 
+5 JANUARY 6TH ATTACK ON THE U.S. CAPITOL, 
+6 U.S. HOUSE OF REPRESENTATIVES, 
+7 WASHINGTON, D.C. 
+8 
+9 
+10 
+11 INTERVIEW OF: GREG RUBENACKER 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 Wednesday, April 6, 2022 
+Washington, D.C. 
+The interview in the above matter was held via Zoom, commencing at 2:05 p.m. 1  1 
+2 Appearances: 
+3 
+4 
+5 For the SELECT COMMITTEE TO INVESTIGATE 
+6 THE JANUARY 6TH ATTACK ON THE U.S. CAPITOL: 
+7 
+8 
+9 
+10 
+11 
+12 
+13 INVESTIGATIVE COUNSEL 
+STAFF ASSOCIATE 
+INVESTIGATIVE COUNSEL 
+INVESTIGATIVE COUNSEL 
+14 For GREG RUBENACKER: 
+15 
+16 MICHAELANGELO MATERA, ESQ. 
+17 The Matera Law Firm 
+18 560 Broadhollow Road, Suite 303 
+19 Melville, NY 11747 2  1 
+2 
+3 Mr. - All right. We will go on the record at 2:05 p.m. eastern time. 
+Good afternoon. This is a transcribed interview of Mr. Greg Rubenacker, 
+4 conducted by the House Select Committee to Investigate the January 6th Attack on the 
+5 United States Capitol pursuant to House Resolution 503. 
+6 At this time, I'd ask the witness to please state your full name and spell your last 
+7 name for the record. 
+8 
+9 
+10 
+11 
+12 
+13 
+14 Mr. Rubenacker. Hello. Can you guys hear me? 
+Mr.- Yes. 
+Mr. Rubenacker. Okay. My name is Greg Thomas Rubenacker. 
+Mr- And can you spell your last name, please? 
+Mr. Rubenacker. R-u-b-e-n-a-c-k-e-r. 
+Mr. - Thank you, Mr. Rubenacker. 
+This will be a staff-led interview. And members, of course, may choose to also 
+15 ask questions if they attend. 
+16 
+17 But in the room with you today is myself, I'm an investigative 
+counsel. You have , also an investigative counsel, and 
+18 -, an investigative counsel. There are currently no Members of Congress that 
+19 are present for this meeting. 
+20 At this time, could counsel please state their name for the record? 
+21 Mr. Matera? 
+22 
+23 
+24 Mr. Matera. Michaelangelo Matera, attorney for Mr. Rubenacker. 
+M-. Thank you. 
+There is an official reporter transcribing the record of this interview. So I'd ask 3 
+25 that you please wait until each question's completed before you begin your response, and  4 
+1 we will try to wait until your response is complete before we ask the next question. 
+2 The stenographer cannot record nonverbal responses, such as shaking your head, 
+3 so it's important that you answer each question with an audible, verbal response. 
+4 Mr. Rubenacker, if I see you shaking your head, don't worry about it too much. I will 
+5 just indicate it for the record, whether it be a positive or negative response. 
+6 We ask that you please provide complete answers based on your best 
+7 recollection. If the question is not clear, just ask for a clarification. If you do not know 
+8 the answer, please simply say so. 
+9 You may only refuse to answer a question to preserve a privilege recognized by 
+10 the select committee. Such privileges include the Fifth Amendment privilege against 
+11 compulsory self-incrimination. 
+12 First, it's important that you understand this interview today is voluntary. If at 
+13 any time you would like to stop speaking with us, that's your choice. Similarly, if at any 
+14 point you need to discuss something with your attorney in private, please just let us 
+15 know, and we'll take a break so you can have that conversation. 
+16 Second, this interview is not under oath, but because this is a formal select 
+17 committee investigation, you are obligated under Federal law to tell the truth, the same 
+18 as if you were speaking to the FBI or the DOJ. It is unlawful to deliberately provide false 
+19 information to Congress. For this interview, providing false information could result in 
+20 criminal penalties for perjury and/or false statements. 
+21 Do you understand, Mr. Rubenacker? 
+22 
+23 Mr. Rubenacker. I understand. 
+Mr- You are also not obligated to keep the fact of this interview and 
+24 what we discuss confidential. You are free to tell whomever you wish that you met with 
+25 us, including a prosecutor or a judge on your case, or you can tell no one at all. That's  1 your decision. 
+2 Do you understand that as well? 
+3 Mr. Rubenacker. Absolutely, I understand that. 
+4 Mr.- Okay. 
+5 The select committee investigation is separate and independent from DOJ. We 
+6 have no involvement with the prosecutions, and DOJ is not a partner with the select 
+7 committee in its investigation. 
+8 The select committee also is not a party to your criminal case and is not agreeing 
+9 to submit anything on your behalf to the judge, nor can we make any representation 
+10 whether, if you tell judge you met with us, that the judge will be more favorable to you 
+11 during sentencing. 
+12 Do you also understand that? 
+13 
+14 
+15 Mr. Rubenacker. Yes, I understand. 
+Mr- All right. 
+And, last, we have agreed with your attorney not to share the substance of what 
+16 you say with the DOJ prior to your sentencing, but there are two exceptions. If you told 
+17 us about evidence of a crime that we thought law enforcement was unaware of or if we 
+18 had reason to believe that you lied to us during this interview, then we would be 
+19 obligated to tell the DOJ or another appropriate law enforcement agency. 5 
+20 And if you tell the judge that you met with us, please understand that may prompt 
+21 questions from the judge about what you said and whether it's consistent with your prior 
+22 statements and acceptance of responsibility. And if the judge starts asking questions, 
+23 we may be asked to respond and divulge what you said. 
+24 Do you also understand that? 
+25 Mr. Rubenacker. Yes, I understand.  6 
+1 Okay. 
+2 So, logistically speaking, please let us know if you need any breaks or anything like 
+3 that as we go through, and we'll make sure we accommodate your request. 
+4 EXAMINATION 
+5 BY 
+6 Q So let's start off with a little bit of your background, Mr. Rubenacker. Just 
+7 tell us a little bit, like, where you're from, how long you've lived there, your educational 
+8 background, please. 
+9 
+10 A So my name is Greg Rubenacker. I was born in Manhattan. I was-
+I was raised on Long Island. I live at Farmingdale. 
+11 I've lived there my whole life. 
+12 Education, I graduated high school. I went to Nassau Community College for a 
+13 year and a half for marketing. I dropped out, and I started pursuing my own career in 
+14 music. 
+15 At the time, I started deejaying. I started playing shows, Webster Hall. What 
+16 are some of the --I haven't done it in so long. Webster Hall's, like, the biggest one. 
+17 But when they knocked Webster Hall down, that's, like, when my deejay career basically 
+18 ended. But I used to do, like, little things in the city all the time. 
+19 And then, after that, I met up with Dave East's producer. Dave East is a hip-hop 
+20 artist. And I was told to --I was doing EDM in, you know, like, the deejay scene, and 
+21 they told me to just try to do hip-hop. And ever since then, that's when I started doing 
+22 hip-hop. I've been doing hip-hop since about 2017. 
+23 I've made a ton of connections through networking, through traveling. In 2020, I 
+24 was in Timbaland Studio before COVID hit. I was supposed to go to Los Angeles in 2020 
+25 to work with Chance the Rapper, but COVID happened, so I lost that opportunity.  7 
+1 I'm currently in the process of finalizing my trademark with the Federal 
+2 Government to have my own record label. I currently still work with Buddha and Grinz 
+3 (ph). They are Grammy-nominated producers. And I have a vocal coach, which is --my 
+4 vocal coach is Lady Gaga and Katy Perry's vocal coach. 
+5 
+6 
+7 
+8 
+9 Q 
+A 
+Q 
+A 
+Q 
+10 military? 
+11 A Wow. Did you say Dave East in the beginning? 
+Yeah, Dave East. 
+Okay. Yeah, I'm a big fan of Dave East. 
+I've met him, like, five times. He's a good person. 
+Are you at any time --are you a veteran, for example? Did you serve in the 
+My family's just --I'm, like --I come from a family that's just --my brother's 
+12 been in military for over 20 years. My brother Brian I believe did 4 years. And then my 
+13 sister's husband, he was in the Marines; he's in the Reserves now. So we're a Marine 
+14 family. 
+15 
+16 
+17 Q 
+A 
+Q Okay. Are you former law enforcement? 
+No. 
+Okay. And so your career after high school and some community college 
+18 has been primarily in the music industry? 
+19 
+20 
+21 A 
+Q Yes, the music industry. 
+Sounds good. 
+So let's fast-forward straight now to, you know, the lead-up to January 6th. And 
+22 as we kind of discussed off the record before we started, we're interested to learn, I 
+23 guess, how you were following politics and what may have led you to want to come to 
+24 D.C. on January 6th. 
+25 So, in general, how closely did you follow political events throughout former  8 
+1 President Trump's term? 
+2 A To be completely honest, I didn't start paying attention to politics till COVID. 
+3 I was --
+Okay. 4 
+5 Q 
+A I was very busy with music. Like I said, that year was supposed to be a very 
+6 special year for me. I thought I was actually --you know, my dreams were actually going 
+7 to come true, to be completely honest. 
+8 
+9 Q 
+A Uh-huh. 
+And then COVID happened, and I had just a ton of time on my hands. And 
+10 that's kind of when I started turning into politics, to be honest. 
+11 Q So I'm assuming with --are you referring to the COVID mandates that I'm 
+12 assuming forced you to have to stay in the house more? 
+13 
+14 A 
+Q The lockdowns, yes, correct. 
+Gotcha. So, during this time period, during the lockdowns, did you start, 
+15 you know, reading the news more? Is that what kind of led to this? 
+16 A It wasn't really the news. I was just --I started doing just research of just, 
+17 like, everything, to be completely honest, even, like, you know, going back just trying to 
+18 learn American history. I just, like, I guess, gained an interest for just, like, America and 
+19 what was going on. 
+20 
+21 
+22 Q 
+A 
+Q Yeah. So I guess, what triggered this interest in American history? 
+I guess COVID. 
+Okay. And can you just walk us through, I guess, your process for --and 
+23 you don't have to go into deep detail but just, we want to understand, what were you 
+24 reading to catch up or to learn American history? 
+25 A I mean, so what I was reading is just --I would be --I would go on Google or  9 
+1 DuckDuckGo, and I would just learn about, like, things that the CIA, like, would conduct 
+2 years ago, like, these certain operations that would lead to certain things. 
+3 And I kind of saw, like, things, like, a little twisted from a sideline of things. And I 
+4 guess when I saw things being, like, twisted from, like, 20 years to, like, even 10 years 
+5 ago, I started realizing that, like, everything from the past has something to do with today 
+6 when it come to politics. 
+7 
+8 Q Gotcha. 
+Mr.~ lsee urned his camera on. 
+9 Do you have any questions about the research side of this? 
+10 Yeah. 
+11 Well, I'm just curious, Mr. Rubenacker, whether it was just, you know, the fact 
+12 that you had a lot of time, or was it, you know, the policies that were being enacted 
+13 during COVID that got you into looking into politics? 
+14 Mr. Rubenacker. I really want to say, honestly, it was probably just the extra 
+15 time. Because, like, I really try not to pay attention to politics anymore, to be 
+16 completely honest, and I'm really trying to just, like, get my life back together, and I'm 
+17 really trying to tackle my dreams. And I feel like I've been making some of the best 
+18 music that I've --honestly, like, my coach is very proud of me. 
+19 And I've been doing music for a very long time, and I'm actually very proud of 
+20 myself. And it took me a while to even be proud of myself, because, as a musician, 
+21 there's so many musicians that are, you know, trying to do the same thing. So I found a 
+22 way where I think that I'm original because I make the beats. I do everything. I do 
+23 literally everything when it comes to my songs. I write the lyrics, I perform it, I sing it, I 
+24 make the beats. I do everything. 
+25 So, lately, I just --I don't really have the interest anymore. I really just --my goal  10 
+1 in life is I want to help people. It's always been my goal to help people because of the 
+2 things that I've been through in my life. 
+3 You know, I lost my friends in a car accident at 18. A year after that, I lost my 
+4 friend to an overdose. And then a year after that, my mom had a heart attack, and she 
+5 was touch and go for about a year and a half. And that was probably one of the biggest 
+6 emotional roller coasters, you know, just never catching a break. And I really wanted to 
+7 just dedicate my life to just putting my pain into music. That's, like, basically my 
+8 therapy. 
+9 And COVID basically, I guess, yeah, just really gave me the free time. Because, 
+10 like, I'm now really just back into doing what I do, and it's just like, I'm just trying to work 
+11 as hard as possible, and I'm trying to do the right thing as possible. You know, I go to 
+12 therapy; I have to check in with my probation officer. I'm doing everything possible to 
+13 just try to get my life back. 
+14 I really --politics, I guess, was --like I said, it was more because I had the time. 
+15 
+16 
+17 Got it. That makes sense. 
+BY 
+Q So it sounds like you were researching during the COVID lockdowns 
+18 American history. But did that eventually turn into post-election news? Did it switch 
+19 to that at any point? 
+20 A Well, I mean, yeah, that, obviously --you know, like I said, it came into, like, 
+21 current events. 
+22 
+23 Q Okay. 
+A And when the media was --you had one side of the media saying that the 
+24 election was completely fair, and then you had one side of the election saying that it was 
+25 completely illegitimate and not fair. And on top of that, you had a lot of Congresspeople  11 
+1 from one side of the spectrum also chipping in with what the President was saying. 
+2 So, you know, it concerned me for election integrity, for sure, to see that the 
+3 medias that were going were going two separate ways, and then on top of that you have 
+4 the Congressmembers sitting here saying that, you know, the election has been 
+5 interfered with. 
+6 So it all ties into just, like, my way of thinking, and I was just, like --I don't know. 
+7 Something, to me, just didn't feel right. 
+8 Q That makes sense. 
+9 So you mentioned some of the news sources and, for example, hearing what some 
+10 of the Congressmen were saying on both sides of the aisle. 
+11 I guess, what channels of television, if you were watching television, were you 
+12 watching? 
+13 
+14 A 
+Q So I would watch CNN. I'd watch FOX. And I also watched lnfoWars. 
+Sure. Of these channels you just listed, were there any that you preferred 
+15 over the others? 
+16 
+17 
+18 A 
+Q 
+A I preferred lnfoWars. 
+Just out of curiosity, what drew you to lnfoWars? 
+I felt like, when Alex Jones was speaking, a lot of the things that he talked 
+19 about in the previous tended to end up to be true. 
+20 He did an interview in 2018 where he said that there was going to be a pandemic 
+21 in 2020. And that was some of the research that I did in 2020. And it kind of, you 
+22 know, blew my mind how someone would even know this type of information and how 
+23 he, like, predicted it, and then now it's really happening in real-time. Like, this stuff was 
+24 happening. 
+25 So it's just, like --I was just, like, what does he know? Like, that was just, like, a  12 
+1 curiosity. Like, how does someone even know something like that? 
+2 Q Right. 
+3 So you talked about some of the television channels or, it sounds like, YouTube 
+4 channels, as well, that you watched. Did you read any print publications, such as, like, 
+5 The New York Times or Wall Street Journal, anything like that? 
+6 A The only publications that I read were from dot-govs, FBI documents or CIA 
+7 documents that are published on Google. 
+8 
+9 Q Got it. Okay. 
+I'm going to --did you use social media? We saw in your criminal filings, for 
+10 example, that you were using Snap on January 6th. But did you use social media 
+11 applications before January 6th? 
+12 
+13 A 
+Q Yes. 
+Okay. I'm just going to go through a list of them. And specifically what 
+14 we're interested in is whether you were getting news from these social media 
+15 applications. Does that make sense? 
+16 A Yeah, it makes sense, but I --
+17 Q Okay. 
+18 A Just --
+19 
+20 Q 
+A Sorry. No, carry on. Carry on. 
+No, I was going to say, none of the --I can promise you, like, none of the 
+21 news was coming from Snapchat. But carry on with what you were going to go through. 
+22 
+23 
+24 
+25 Q 
+A 
+Q 
+A Okay. Did you get any news from Facebook? 
+No. 
+Okay. What about Parler? 
+Nope.  1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 Q Reddit? 
+A Nope. 
+Q Snap? 
+A Nope. 
+Q Telegram? 
+A I was --the only --
+Q Sorry. 
+A The only thing that I would consider I went through when it comes to news 
+9 would be Twitter. And I may have just started using Telegram, like, right around the 
+10 election, if I'm --
+11 Q Got it. 
+12 A I don't recall when I started using Telegram, but it wasn't like I was on 
+13 Telegram. Like I said, I wasn't into politics until COVID, so I don't really --
+14 Q No, that's understandable. 
+15 I guess, one of the questions --you said you didn't start using Telegram till right 
+16 before, what, January 6th? Is that fair? 
+17 A Yeah, I didn't really --1 --
+18 Q What drew you to it right before January 6th? 
+19 A The fact that Twitter was starting to censor some of the people that I was 
+20 listening to. That's what drew me --
+21 Q Mr. Rubenacker, I feel like you're reading my notes, because my next 
+22 question was going to be: Who did you follow on these social media sites? Who did 
+23 you prefer to follow at the time? 
+24 
+25 A I like the Hodgetwins. 
+NELK Boys. They have, like, the "Full Send Podcast." 13  14 
+1 Joe Rogan. I've always been a Joe Rogan fan. It's not just because of the things 
+2 in the last year; I've been listening to Joe Rogan for years. It's a shame Joe Regan's just 
+3 into this big political thing now. 
+4 And then the rest were just --the rest were just musicians, you know, me just 
+5 trying to network and, as much as possible, just try to get my name out there. 
+6 I really follow, like, a lot of business accounts. I follow, like, garyvee, mentor 
+7 accounts, trying to just, like, grow my mental --like, my business, like, aspirations of, like, 
+8 something that --if I don't know how to do something, I'm trying to learn how to do it. 
+9 Just, like, that's --I could try to consider myself, you know, a --like I said, I have 
+10 this trademark going through. So I would like to consider myself one day a CEO, you 
+11 know? 
+12 Q Gotcha. That's --I can see, like, putting in the reading to get to that. That 
+13 makes sense. 
+14 Did you follow former President Trump on these, on Twitter, for example, or any 
+15 other social media site? 
+16 
+17 A 
+Q Yeah, I did follow Donald Trump until he was censored. 
+Gotcha. 
+18 Right after the general election in 2020, did you believe the election had been 
+19 stolen from former President Trump? 
+20 
+21 A 
+Q 
+22 after 2020? 
+23 A Say that again? 
+Did you believe the election had been stolen from former President Trump 
+With the people that I followed and the things they were saying, yeah, I did 
+24 generally believe that. 
+25 Q Okay. So I guess this is a two-part question. When did you start to  15 
+1 believe the election was stolen, and what made you believe that the election had been 
+2 stolen? 
+3 A Well, I saw multiple videos of people carrying in briefcases the day after 
+4 election day, and then they would tell people to leave the room, and they would bring in 
+5 these suitcases, and they would be caught on camera, and then they would start counting 
+6 again. So I thought that was very suspicious. 
+7 What was another one? There was another one. I just had another one. That 
+8 one --oh, and when they were showing on the news, the day after the election, when it 
+9 went from --the numbers were just, like, going, like, back and forth, trembling back and 
+10 forth, and then all of a sudden Joe Biden just had, like --was, like, 30,000 or whatever, 
+11 like, 40,000 --like, it was, like, a straight line up, and, like, Trump just had, like, nothing. 
+12 I was just like, so you're telling me that this guy had 40,000 votes and not one 
+13 person --not one person voted for Trump, out of all the 40,000 people? It just didn't 
+14 make, like, logistical sense to me. 
+15 Q Got it. 
+16 I'm jumping way ahead, but do you still believe today that the election was stolen 
+17 in 2020? 
+18 
+19 
+20 
+21 A 
+Q 
+A 
+Q No. Joe Biden is our President. 
+I guess I'm --
+Donald Trump has no say over what goes on in this country, so --
+Yeah, but I think accepting that former President --or that President Biden is 
+22 now the President is different than thinking it was stolen. 
+23 I guess we're just trying to understand, do you still have concerns about the 2020 
+24 election? 
+25 A I'm trying to just do this music.  16 
+Q Got it. 
+A It's President Biden, man. 
+Q Sounds like you don't think anymore about it now because of the music? 
+A It's President Biden, man. That's it. 
+Q Okay. 1 
+2 
+3 
+4 
+5 
+6 Does anyone have any --does have any 
+7 followup after that? 
+8 Okay. 
+9 BY 
+10 
+11 
+12 Q After the 2020 election, did you participate in any election-related protests? 
+A Only January 6th. 
+Q Only January. Okay. 
+13 So let's talk about your decision to come to D.C. for January 6th. I guess, what 
+14 factors influenced your decision to want to come here on January 6th? And by "here," 
+15 I'm in D.C., so Washington, D.C. 
+16 A At the time, I, you know, had the intentions that it was stolen, and I wanted 
+17 to hear President Trump speak. And that was really it. 
+18 And, you know, he said to walk down to the Capitol. And when I left, I was so 
+19 tired, because, like, you couldn't even --I even have --like, I paid a ticket. Like, I didn't 
+20 stay --I was not in --I was not in Washington, D.C., on the 5th. I was not at any of those 
+21 events that people, you know, were --they talked about Ray Epps or all that stuff. I was 
+22 not there. I left at 12:30, here, New York time, to go down to D.C. 
+23 So, after Trump's speech, I was honestly completely exhausted. And I sat down, I 
+24 guess it was by the DOJ --
+25 Q Right. I do have a quick followup. How do you know who Mr. Ray Epps  17 
+1 is? 
+2 A They talk about --I mean, the reason why I know about Ray Epps is because I 
+3 have an ankle monitor on me, and I've been --well, some of the worst things have 
+4 happened to me in the last year since I've been arrested. I've been jumped. I've been 
+5 attacked for what I've done. I've lost a lot of friends and all that stuff. 
+6 And I just --it's just --it's just upsetting to me to know that this guy, from the 
+7 videos that I have seen, that this guy has not been charged with anything, and my life has 
+8 been honestly completely --like, I've lost, like, everything. Like, everything's been 
+9 turned upside down for me. 
+10 
+11 
+12 
+13 
+14 Q Where did you see the videos of Mr. Ray Epps? 
+A Twitter. 
+Q Twitter? Okay. So you still follow, you're still on Twitter today? 
+A I just --I actually recently just made a new --a new Twitter account. 
+Q Okay. 
+15 And I'm sorry to hear about what you just described happening to you after 
+16 January 6th. 
+17 I guess, going back to your decision, though, do you recall former President Trump 
+18 tweeting about the January 6th protests in December --December 19th, to be specific? 
+19 
+20 A To be completely honest, I found out about January 6th through Alex Jones. 
+Q Through Alex Jones. Okay. It was on lnfoWars? You found out through 
+21 lnfoWars? 
+22 
+23 A Yeah. 
+Q Was part of the Alex Jones segment on January 6th, did it advertise the fact 
+24 that former President Trump was going to be speaking? 
+25 A Yeah.  1 Q What were you expecting, if anything, from former President Trump's 
+2 speech on January 6th? 
+3 A Honestly, I couldn't tell you. 
+4 
+5 Q 
+A Were you expecting some type of reveal related to the election? 
+No. Honestly, I really couldn't tell you. I just wanted to hear --I just 
+6 wanted to hear the President speak about something that I had a concern about, and I 
+7 wanted him --hear his thoughts, not through a social media, not through an interview. 
+8 wanted to hear it in person, because I had an actual concern about it. 
+9 Q And what were you hoping, if you were hoping anything, to hear from the 
+10 former President? 
+11 A I was really just hoping to hear, I guess, just words of encouragement, that 18 
+12 just, you know, even if he did lose, it's just, like, I'm a big believer that this country needs 
+13 to come together, regardless if Donald Trump is the President. And Joe Biden is the 
+14 President, and that's still how I feel. 
+15 And I was kind of hoping he would kind of be --like, leave with some type --leave, 
+16 kind of, like, with some type of encouragement. And I guess that's not exactly what 
+17 happened. 
+18 Q And we'll get into January 6th in a little bit, but you also mentioned earlier 
+19 that certain congressional Members were --and I don't want to misstate your words, but 
+20 it sounded like you were talking about congressional Members also saying some of the 
+21 things that former President Trump was saying about the election. 
+22 
+23 
+24 Is that correct? Is that fair to say? 
+A 
+Q 
+25 remember? Fair. 
+Okay. Which congressional Members are you referencing, if you  19 
+A Marjorie Taylor Greene. Steve Bannon. Alex Jones, obviously. 
+Q Uh-huh. 
+A Well, he's not Congress, but --
+Q Yeah. 
+A Roger Stone. 1 
+2 
+3 
+4 
+5 
+6 Q Okay. How did you follow, for example, Mr. Roger Stone? How were you 
+7 hearing what he was saying during this time period? Was it through the shows like 
+8 lnfoWars, or was it on social media? 
+9 
+10 
+11 
+12 
+13 
+14 
+15 A Yeah. He was a regular guest appearance on lnfoWars. 
+Q Gotcha. 
+And what about Mr. Bannon? Did you watch his show as well? 
+A No. 
+Q Okay. So how did you --
+A That's from FOX right there, I'll tell you. 
+Q Got it. Got it. Okay. 
+16 So, ultimately, then --and I just want to button this up before we move --when 
+17 did you decide to come to D.C., approximately, and what was your goal? 
+18 And if you can just, like, give us a time period, whether it's late December, early 
+19 January, when did you decide to come to D.C. for January 6th? 
+20 A I talked about it probably the end of December. I literally booked a hotel 
+21 January 5th --
+22 
+23 
+24 
+25 Q Okay. 
+A --for January 6th. 
+Q And you drove? 
+A Yes.  20 
+1 Q Okay. 
+2 So that takes us into our next, kind of, group, which is your logistics to come here. 
+3 And you touched on that. 
+4 So you booked your hotel on January 5th? 
+5 A Yeah. It was just kind of a spontaneous, impulsive decision-making, to be 
+6 completely honest. 
+7 
+8 Q Okay. And did you stay in a hotel in D.C. or in the surrounding area? 
+A In --I don't even know the name of it, to be honest. I just found something 
+9 that had a spot. 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 Q Okay. 
+When did you leave New York to come to D.C.? 
+A Like, 12:30, January 6th. Like, you know what I'm saying? Like --
+Q 12:30 a.m.? 
+A Yeah. 
+Q Okay. And you drove down by yourself? 
+A I drove down with my friend. 
+Q Okay. Was your friend also a New York native? 
+A Yeah. He lives in California now. 
+Q Okay. 
+Did you end up --so you just said --approximately how long did it take you to get 
+21 from your hotel to where the Capitol area was? Do you remember that? 
+22 
+23 A I believe it was 25 minutes in the Uber. 
+Q When you were on your way to D.C. that morning, were you expecting there 
+24 to be violence at the rallies? 
+25 A No. My friend told me that there might be violence, but I --he kept talking  21 
+1 about --my friend kept talking about, like, that that group, Anonymous --
+2 Q Yeah. 
+3 A --whatever. And I just told him, like, I don't believe in that stuff, so, like, I 
+4 don't want to listen to that. So I just went --
+Q He was talking about the internet group Anonymous, the hackers? 
+A Yeah,yeah,yeah,yeah,yeah. 5 
+6 
+7 Q And were they going to be there or something? Is that kind of what he was 
+8 saying? 
+9 A Nah, he said that there was going to be violence at the Capitol, and I was 
+10 like, I don't believe in stuff like that. Like --
+11 
+12 
+13 
+14 Q Oh. 
+A And then --yeah, I was just like, I'm just going to go. 
+Q Why didn't you believe that there was going to be violence at the Capitol? 
+A Because I don't believe --I don't follow --like, I didn't even know what 
+15 that --the Q thing was till Q Shaman. You know what I'm saying? So it's like, I don't 
+16 know where those people got their information from. I don't know who those people 
+17 are. And, to me, why I would want to listen to someone that doesn't have, like, a 
+18 verifiable source? You know what I'm saying? 
+Right. Okay. 19 
+20 Q 
+A So that was --I didn't want to --I would --I don't know. Just, to me, that 
+21 was just --I thought it was just propaganda, to be completely honest with you. I don't 
+22 know who those people are, and --
+23 
+24 
+25 Q Okay. 
+A --that's that. 
+Does anyone -- any followup before we  1 head into January 6th? 
+2 All right. 
+3 BY 
+4 
+5 
+6 
+7 
+8 Q Mr. Rubenacker, so we're at January 6th now. 
+Did you attend the rally at the Ellipse? 
+A Yes. 
+Q Okay. What time did you arrive at the rally, approximately? 
+A I have no idea. You guys can definitely --you guys have my phone. You 
+9 guys should know, with the photos I've taken. 
+Q I just told you in the beginning --
+11 I don' A 22 
+Q I just told you in the beginning, it's a separate investigation from DOJ, so we 
+13 don't. 
+A I don't --I couldn't tell you, to be honest. 
+15 Was it before -­ Q 
+A It --what's up? 
+Q Was it before a speaker started speaking? 
+A I think there was someone already speaking beforehand, but, like, when I got 
+19 there, I walked up to Don Jr. speaking. 
+20 
+21 
+22 
+23 
+24 
+25 Q Okay. That's a good timestamp for us. 
+Were you staying inside the gated area, or were you on the outside of the actual --
+A Oh, nah, that place was so packed. I was on the outside. 
+Q All right. What speaker --
+A And I --
+Q Sorry. Keep going.  23 
+1 A I've never seen so many people come, like, for one thing, honestly, to be 
+2 honest. 
+3 Q I guess, what was the mood then, right? With so many people, what was 
+4 the general mood when you arrived at the Ellipse rally that morning? 
+5 A Well, I'm sure you've seen my Snapchat. It just --it seemed like a lot of 
+6 people were very upset and very angry, you know. America was pissed. That's where 
+7 that Snapchat comes from. A lot of people were very upset and very angry. 
+8 
+9 Q 
+A Who was the anger directed towards? 
+I would have to say that they were really angry --I don't even --I don't --to 
+10 be committee honest, now that I think about it with a clear mind, there was no one on 
+11 stage, so I don't know who they --who could they be mad at? 
+12 Q I guess, let's think about your situation. I know you are thinking clear now 
+13 and, as you've said, the entire interview. Who were you mad at, at that moment? 
+14 A Well, I was --I was --I was upset about the way the --what upset me the 
+15 most about the election is I'm tired of the media --I don't like how there's CNN saying 
+16 stuff that Democrats want, and I don't like how there's FOX News that's saying what 
+17 Republicans want. 
+18 I was really more outraged with the media, to be completely honest with you, 
+19 because I feel like the media's job is to completely just tell the truth. And as an 
+20 American citizen, we are supposed to think for ourselves, and we are supposed to make 
+21 the decisions. And that's why we vote for what is right and what is wrong. 
+22 
+23 
+24 day? 
+25 And I was really more --I was really more aggravated at the media. 
+Q Going back to the rally, what speakers were you most excited to see that 
+A Alex Jones, and he did not speak. I honestly did not care for --besides  24 
+1 seeing Trump, because, at the time, he was President. To me, that was an honor to see 
+2 a --I'd never seen a --you know. 
+3 
+4 Q 
+A Right. 
+And regardless of the situation, he is still the former President. So it was an 
+5 honor to see a President in a distance of my eyes. 
+6 Q Gotcha. 
+7 Did Mr. Jones say on his show leading up to January 6th that he would be a 
+8 speaker? 
+A 
+Q 
+A 
+Q Apparently he spoke January 5th. 
+Got it. Okay. 
+But I was not there. So that's where my, like -­
+Right. 9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 Did you stay for former President Trump's speech? 
+A 
+Q 
+A 
+Q 
+A Yes. 
+Did you stay for the entire speech, or did you leave at a certain point? 
+He was wrapping up. I might have left maybe 5 minutes beforehand, but -­
+Okay. 
+At the end of the day, I ended up --like I was saying, I was sitting, because I 
+19 was so exhausted, because I drove that night. I ended up sitting on, like, a bench for a 
+20 decent amount of time, because I was so, like I said, exhausted, tired. 
+21 Q You sat on the bench for a decent amount of time after former President 
+22 Trump's speech or --
+23 
+24 
+25 A 
+Q 
+A Yeah. Yeah. 
+--during his speech? 
+Nah, after.  1 
+2 
+3 
+4 
+5 Q 
+A 
+Q 
+A 
+Q Okay. 
+People at this time were heading down to the Capitol. 
+Okay. 
+What were you saying? 
+Oh, no, I was going to say --because we have former President Trump's 
+6 speech ending at 1:10. So it sounds like you might have left, you said, a few minutes 25 
+7 before and then sat on a bench because you were tired, which makes sense because you 
+8 left at 12:30 a.m. the morning of, right? 
+9 A Yeah. 
+10 Q Okay. 
+11 During the President's speech, do you recall him saying, "And if you don't fight like 
+12 hell, you're not going to have a country anymore"? 
+13 
+14 A 
+Q Yeah, he did say that. Yes, he did say that. 
+I guess, since you do remember, like, what did you take this to mean, or 
+15 what kind of impact did it have on you? 
+16 A To be completely honest, my mindset was, I'm going to rest. I am 
+17 exhausted. And then, you know, he said that we were going to go down to the Capitol 
+18 and protest, and that's where I was going to head after. 
+19 So I rested. As I walked down to the Capitol, I did not come in contact with no 
+20 barricade, no police, no nothing. Everything was already removed. I walked up onto 
+21 the grass. I didn't even know I was trespassing at that point. 
+22 
+23 
+24 
+25 At that point, that is when people started singing the national anthem --
+Q Wait, wait, wait, wait. Let's break it --let's back up a little bit. 
+So were you tracking going to the Capitol before former President Trump said it? 
+A Huh?  26 
+1 Q Were you going to go to the Capitol after the speech before President Trump 
+2 said it? 
+3 
+4 A 
+Q No. 
+Okay. So it was only after former President Trump said "we're going to 
+5 march to the Capitol" that you decided you were going to march to the Capitol? 
+6 
+7 
+8 A 
+Q 
+A Yeah. 
+Did you think former --
+He should've --he should've --he should've been --see, now that I know 
+9 more stuff, he should've been more specific, because he apparently had a permit for 
+10 certain grounds. He should've been more specific on where people should've went, 
+11 instead of just saying going down to just the Capitol. Because that could've probably 
+12 prevented a lot of things. 
+13 
+14 
+15 
+16 
+17 
+18 Q 
+A 
+Q 
+A 
+Q 
+A How do you hear about the permits? 
+Alex Jones said it. 
+Oh, after January 6th, you saw that on Alex --are you still --do you still -­
+That's what I'm --that's what I'm, yeah, I'm trying to say. 
+Okay. 
+Like, if Donald Trump would've had just said that we have permits to be on 
+19 these premises, don't go on other things, maybe --precisely, a lot of things during 
+20 January 6th, the events could've been prevented. 
+21 Q Was it your view that former President Trump had these permits or 
+22 somebody else had the permits? 
+23 A I'm not --like I said, I found this out after from Alex Jones. I didn't even 
+24 know there was permits on January 6th. 
+25 Q So you still watch lnfoWars?  1 
+2 
+3 A I --nah, not anymore. 
+Q Okay. 
+A I did for a little bit, and then, once I started taking mental therapy pretty 
+4 serious, that's when I was like, I gotta get back to being who I am. And me being into 
+5 politics does not serve me at all. 27 
+6 And I'm a very talented person, and I wouldn't have --I wouldn't be where I would 
+7 be, I wouldn't have the connections that I have in the music industry if I wasn't talented. 
+8 And that's my dream, you know? That's what I want to do, you know? I want to do 
+9 music. That's always been my dream. 
+10 And I got caught up in a very dumb decision. And that's really just all I'm looking 
+11 forward to, is just trying to get my life back together so I can get on stage and just try help 
+12 people. That's just --that's literally all I look forward to. 
+13 Q We understand. 
+14 Going back to your march down to the Capitol, approximately when did you 
+15 arrive? I guess --so which side the Capitol did you walk up on, and approximately when 
+16 did you arrive? 
+17 
+18 A 
+Q What side was it? 
+I can actually --I can read it from your statement of facts. It says --and I 
+19 can defer to you, Mr. Matera, as well, if you know that off the top of your head. 
+20 
+21 
+22 Mr. Matera. I have it in my notes. 
+Okay. 
+So, from what I'm reading, it just says --it talks about when you first entered. So 
+23 it looks like you entered the Senate wing door at approximately 2:13 p.m. Is that fair? 
+24 
+25 Mr. Matera. He first entered --because he did enter two separate times. 
+Yep, yep. But the first time is at 2:13 -- 1 
+2 
+3 
+4 Mr. Matera. Approximately. 
+--in the Senate wing door, approximately. Okay. 
+B 
+Q So that's the west side of the Capitol. So the way you entered the first 
+5 time, was that the side you walked up on, Mr. Rubenacker? 
+6 
+7 A Yeah. 
+Q So that was the side where, you know, there were various standoffs 
+8 between 2:13 --or before 2:13. Were you there kind of standing in the big crowd 
+9 before 2:13? 
+10 A No, that's --that's why I was saying to you, like, you know, how I stayed on 
+11 the bench and just, like, I was resting. I literally walked up to the Capitol, like, just the 
+12 grass of the Capitol. No nothing. 28 
+13 Q And, like, I swear I'm trying to understand it, but, like --so I've looked at the 
+14 surveillance, and there's literally, like, thousands of people on that side of the Capitol. 
+15 How did you just walk straight in through the door and get through all those people at 
+16 2:13 right when people first breached the Capitol? 
+17 
+18 A What do you mean? 
+Q So the first breach of the window in the Senate wing door was at 2:13. 
+19 Right? I know you came in approximately, so I'm imagining it was probably, like, 
+20 minutes after 2:13. But how did you just walk straight through thousands of people to 
+21 get into the Capitol, unless you were already standing there? 
+22 
+23 A I'm not understanding what you're saying. 
+Mr. Matera. He's asking, the path that you took to get into the Capitol the first 
+24 time, did you have to go through people to get there, or was it just a clear path and you 
+25 didn't see anyone? Because the surveillance shows there was people.  1 Mr. Rubenacker. But what do you mean, though? Like, when I walked 
+2 into --when I was walking onto Capitol property, there was absolutely nobody there. 
+3 So once you got --
+4 
+5 
+6 
+7 Mr. Matera. Once you got up to the door. 
+Yeah. 
+Mr. Rubenacker. Once I got to the door, I literally just walked up the steps. 
+With thousands of other people, right? Or hundreds of other 
+8 people? 29 
+9 Mr. Rubenacker. Yeah, I mean, there was people there, but it wasn't thousands. 
+10 I mean, I walked up literally --you know, they had the handle there, so I walked up with 
+11 the handle. 
+Can I ask 
+Please. a quick question? 12 
+13 
+14 - So, Mr. Rubenacker, how would you say the movement of the people 
+15 was? Was it calm? 
+16 Mr. Rubenacker. It was definitely aggressive. 
+17 - It was aggressive. Okay. So how --
+18 Mr. Rubenacker. But the thing that --where you have --again, you'll see the 
+19 photos of me, which I guess ended up being Officer Goodman, is, I didn't have intentions 
+20 of any violence. You know, I walked into the Capitol with a water bottle and a nicotine 
+21 pen. So the outrage for me, when you look at those photos, is, one of those guys is 
+22 actually part of the media. 
+23 So what happened was, I walked up the stairs. People were breaking, you know, 
+24 the windows. I'm sure you've seen the videos, people jumping through the windows, all 
+25 that stuff. I walked through the doors. You know what I'm saying? I didn't partake in  30 
+1 any of that violence. 
+2 Did you see the people breaking the windows, though? 
+3 
+4 Mr. Rubenacker. Yes, I did see people breaking the windows. 
+But that is also what partakes into my frustrations, though. Because I've seen a 
+5 movie in 1990s where the media used to do crimes and then they'd turn around and then 
+6 start filming people, and then they would, you know--
+7 
+8 - Is it your view today that the media broke the windows? 
+Mr. Rubenacker. No, I know that there definitely were Trump supporters that 
+9 broke it, but the media definitely added to it. You know what I'm saying? It wasn't just 
+10 Trump supporters. It was the media too. 
+11 And the guy that --in the photo where I'm like this, like, where Officer Goodman 
+12 is, that was posted by The Washington Post. And that's the guy that I was --that's the 
+13 guy that broke the window. He literally threw a brick through the window. 
+14 - Right, so I'm just going to ask for clarification here. Are you saying 
+15 that the media makes it worse in the sense of they amplify this stuff by posting it --
+16 
+17 Mr. Rubenacker. Absolutely. The media definitely --
+- Hold on, let me finish. Or are you saying that there were members 
+18 of the media who were breaking windows and breaking into the Capitol and then, you 
+19 know, looking around and encouraging other people to do it? 
+20 Mr. Rubenacker. I think it was, the media was encouraging people to get into 
+21 the building. And then, as soon as it got to the point where they were in the building, 
+22 they flipped their role and they started recording. 
+23 Who was encouraging you from the media to go into the 
+24 building? 
+25 Mr. Rubenacker. I could not tell you his name. The guy had pink goggle --he  31 
+1 had a pink gas mask and he had goggles, though. I remember that on point. 
+2 So, like, aside from the photo showing up in The Washington Post, 
+3 why do you --well, how do you know he's media? 
+4 Mr. Rubenacker. Well, I mean, you would --if that guy --if that was the guy, 
+5 right, and if that guy posted --first, you have to get clearance from Washington Post, and 
+6 you have to get clearance from a publisher. 
+7 If I took something, I'm the publisher of something, just like my music. When 
+8 I --I can't --if I give you a beat and I say I want a certain price for this or something, you 
+9 are not allowed to use my beat to make money off of it until I get paid. 
+10 So it's the same way it would be for a photographer. So a photographer's not 
+11 allowed to --Washington Post clearly paid this man, and they posted the photo. 
+12 - Well, we don't want to get into a legal argument here, but are you 
+13 aware that news organizations sometimes use public source photos in articles? 
+14 
+15 Mr. Rubenacker. I am well aware of that. 
+- So I'm just wondering how you --if that's possible, how can you know 
+16 that the guy was the media? Is there another way that you knew? 
+17 Mr. Rubenacker. I mean, I don't know. The way I would go about it is, he 
+18 seemed pretty prepared for violence. He had goggles, he had the gas mask. And he 
+19 had a professional photographer camera with him. It seemed like he was ready to --it 
+20 seemed like he was ready to, you know, film. 
+21 Didn't your friend, on the way down, say that there was a 
+22 potential for violence and people were going to go to the Capitol? Didn't he tell you 
+23 that on the way down? 
+24 
+25 Mr. Rubenacker. Yeah. 
+~ Okay. I guess the ultimate question is, Why did you go in the  1 Capitol, right? You said you saw people breaking the windows. I know you went 
+2 through the door. But why did you go in the Capitol? 
+3 
+4 Mr. Rubenacker. Because --when we go back it to, it's just mistakes. 
+Okay, it's a mistake. But, like, on January 6th, at that time, at 
+5 2:13 when you go in, what were you going in there to do? 
+6 Because you're quoted in your statement of facts as saying, "Where are they 
+7 counting the votes?" So what was your --what was your mindset when you went --
+8 Mr. Matera. No, no. 
+9 
+10 Mr. Rubenacker. Nah, nah, nah. 
+Mr. Matera. Let me be clear about that. He was --there were people in the 
+11 crowd yelling that. I don't believe it's attributed to Mr. Rubenacker. 
+Mr. Rubenacker. And that needs to be fixed. 
+So you weren't saying that, Mr. Rubenacker? 
+No. And that's not my mindset at all. 
+Okay. So what is your mindset going into the Capitol on January 6th? 32 
+12 
+13 
+14 
+15 
+16 
+17 Q 
+A 
+Q 
+A My mindset was to just protest. That's it. You had people burning down 
+18 buildings 6 months prior to that with weapons, all this stuff. I came in with a water 
+19 bottle and a nicotine pen. I didn't have any intentions of overthrowing anything. The 
+20 police officers in the Capitol have weapons. I didn't have any intentions of doing 
+21 anything. In fact --
+22 
+23 Q 
+A What were you protesting? 
+--in fact --in fact, I would say that I put myself more at harm than I did 
+24 protecting myself. Because Ashli Babbitt got shot, and I could've been in a situation like 
+25 that, being just --to me, like I said, it was a mistake.  33 
+1 I got caught up in mob mentality. And that's why I'm also in therapy. But, like, 
+2 when you come to sit here and tell me that I had intentions of, like, oh, what was I trying 
+3 to do, I didn't have intentions of doing really anything. I just wanted to protest. 
+4 
+5 
+6 Q Well, I --
+A To me --to me --
+Q Mr. Rubenacker, I haven't said what you were going to do at all. That's 
+7 what we're trying to learn. 
+8 I guess my question is, then what were you protesting? 
+9 A It's just, to me, my mentality was just, I already knew I wasn't going to do 
+10 violence, I wasn't going to destroy anything. And that's already on record, that I didn't 
+11 steal anything, I didn't destroy anything. I didn't --
+12 Q Mr. Rubenacker --Mr. Rubenacker, we haven't said that. I guess my simple 
+13 question is, what were you protesting? 
+14 
+15 
+16 
+17 A The election. The integrity --
+Q Okay. 
+A The integrity of the election. 
+Q Gotcha. So were you hoping that congressional Members would object to 
+18 the election? 
+19 
+20 A I didn't --no. I was hoping that they would give it more time. 
+Q Okay. And what was you going into the Capitol --how was that going to 
+21 accomplish, I guess --
+22 
+23 
+24 
+25 A It didn't accomplish anything. 
+Mr. Matera. Let him finish the question. 
+Mr. Rubenacker. It didn't accomplish anything. 
+BY  34 
+1 Q Okay. So you went into the Capitol, it seems, with the first group of 
+2 people; you mentioned with Officer Goodman's group. You walked up the flights of 
+3 stairs. 
+4 Why did you leave that first time? 
+5 A Because those people were rowdy. It seemed like they wanted to do things 
+6 that I don't want to do. So I left on my own terms. 
+7 Q Before leaving, I think I should --I need to ask this question. So you are 
+8 cited as saying to an officer, "You serve this country. Are you even proud of yourself?" 
+9 Why were you saying that to officers? 
+10 A Because I saw multiple officers that day 
+11 completely hit --completely --imagine you standing right now. I understand that 
+12 people are not supposed to be in the Capitol Building, but I saw, multiple times, Capitol 
+13 Police taking their baton sticks and going up to people that were just having a flag and 
+14 cracking them in the head with the baton stick. 
+15 
+16 Q 
+A Was this on the west side the Capitol? 
+This is --this is throughout the whole of January 6th. I saw this when I 
+17 got --after I left, I saw people say that they got hit by police. I saw it with my own eyes. 
+18 And on the second time, when I went into the Rotunda, that is when I, like, fully saw, like, 
+19 how bad, like, police were assaulting, like, people. 
+20 Q So, I guess --so you saw the assaults happening in the Rotunda and, I'm 
+21 assuming, on the west side the Capitol, where there was a lot of resistance --
+22 A Well, a lot of people on the west side of --when I entered the first time, I 
+23 would say that, you know, a lot of --if you would talk to a lot of protesters, they would 
+24 tell you that the cops escalated that violence, because the cops --we were singing the 
+25 national anthem, and then, all of a sudden, you had gas grenades being thrown at us, you  35 
+1 had flashbangs being thrown at us. And that was for being peaceful. 
+2 And that is, I think, a big reason of why a lot of people did get upset. Because 
+3 when you're peacefully assembling and you have people that, you know, are, you 
+4 know --you know, obviously I understand they're defending the Capitol, but, at the time, 
+5 there was --there was no --
+6 Q Let me stop you there --let me stop you there, then. That's perfect, 
+7 because that's my next question. 
+8 The Capitol --no one's supposed to go in the Capitol. How were they supposed 
+9 to defend the Capitol, then? 
+10 A Well, I mean, based off --based off what I would --I would assume is, why 
+11 would --why would the Capitol --
+12 Q That's not my question. My question is, how were they supposed to 
+13 defend the Capitol? 
+14 A No, I know. You're asking me a question, and I'm going to give you an 
+15 answer. So you're giving me a question, so now I'm going to give you a question back. 
+16 So --
+17 Q But, Mr. Rubenacker, though, that's not --you asking me a question back is 
+18 not how it works. 
+19 
+20 
+21 
+22 
+23 
+24 
+25 Mr. Matera. can we take 3 minutes? 
+Please. Please. We'll recess in place for 3 minutes. 
+Mr. Matera. All right. Thank you. 
+No problem. 
+[Recess.] 
+Mr. Matera. Thank you for that. 
+Hey, no problem. No problem at all.  1 
+2 BY 
+Q We'll just jump right back into the question of, how was the Capitol Police 36 
+3 supposed to defend the Capitol on January 6th? 
+4 Mr. Matera. Okay. I think, when you --just so I understand the question, you 
+5 want him to tell you how you think the officers should've had a policy in place? Or you 
+6 just --
+7 - No. I'll make it specific to his answer, then. He said that he 
+8 saw officers striking protesters. 
+9 BY 
+10 Q My question is: If you have individuals trying to get into the Capitol, with 
+11 that initial wave of folks like Mr. Rubenacker was in, how were the Capitol Police officers 
+12 supposed to respond to their entry? 
+13 A That --you're taking my words and putting it into the beginning of --I was 
+14 talking about the Rotunda. That's when I saw them hitting people. 
+15 
+16 
+17 Q Okay. 
+A I had nothing to do with the entrance of --of what I'm talking about. 
+Q So, at that point, then, people are in the Rotunda, and the officers are trying 
+18 to clear the Capitol. Do you think their behavior was inappropriate for trying to clear 
+19 the Rotunda so that Congress could go back into session? 
+20 A Well, I think that most of the officers did a pretty swell job, besides some of 
+21 them. I don't think that a civilian deserved to be cracked in the head with a baton stick. 
+22 
+23 Q Okay. 
+So you left the Capitol, and it appears you reentered it around 2:42 p.m. on the 
+24 east side of the Capitol. Is that correct? Is that fair? 
+25 It's from your statement of facts too. I read that from paragraph 12.  37 
+A That's correct. 1 
+2 Q Okay. So explain to us how you left the Capitol and then made your way to 
+3 the east side, the other side of the Capitol. 
+4 
+5 
+6 
+7 
+8 A By simply just walking. 
+Q Okay. Were you following a crowd to get to the east side of the Capitol? 
+A No. 
+Q Okay. Why did you go in the Capitol a second time? 
+A Again, just --it goes all back to mob mentality, really. I don't have a good 
+9 answer for you. 
+10 Q So mob mentality is something we've been looking into. What about the 
+11 mob mentality, like, influenced you personally? 
+12 
+13 
+14 A Just, I mean, the doors were open, so I just went in there. 
+Q You went in at 2:42. The doors were being broken open again at that time. 
+So, look, on the west side, it looks like the windows had just been smashed open 
+15 when you walked through the door. And on the east side the Capitol, you entered at 
+16 2:42, which is minutes after the doors had been forced open. 
+17 So did you see that, as well, on the east side of the Capitol? 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 A No. 
+Q You didn't see the --you didn't see any, like --
+A No, because the steps --the steps go down. So I was --
+Q Okay. So you were looking up on the steps --
+A Yeah. 
+Q --when the doors were opened? 
+A Yeah, I didn't see --yeah, I didn't see any of that. 
+Q Okay. The steps were pretty crowded. Is that correct?  1 
+2 A Yeah, absolutely. 
+Q Did you happen to see a group march in military clothing in a stack 
+3 formation past you? 
+4 
+5 A Yeah. That would, I would assume, would be the Oath Keepers. 
+Q Correct. How did you --were you aware of the Oath Keepers at the time, 
+6 or in retrospect? 
+7 
+8 
+9 A I thought they were crazy, to be completely honest. 
+Q Were they saying anything as they marched past --
+Mr. Matera. He asked if you were aware of them beforehand. 38 
+10 Mr. Rubenacker. Oh, no, no, I didn't. I was like, these people are crazy. They 
+11 had full gear on. I was like, oh, my goodness. 
+12 
+13 BY 
+Q Why --I guess, what --did you hear them saying anything when they 
+14 marched past you? 
+15 A It was --the only thing they kept saying was "hold the line," because they 
+16 kept --I think they were holding each other. 
+17 Q Oh, okay. Were people excited that the Oath Keepers were marching past 
+18 you, or did the people around you kind of say "these guys are crazy" as well, if they said 
+19 anything? 
+20 A Nah, people were pretty --pretty hyped. I was, like --I was pretty 
+21 mind-blown, to be completely honest. 
+22 Q So then you went into the Rotunda. This is the time where you said you 
+23 were in the Rotunda. That makes sense, because you went into the east doors, and that 
+24 goes right to the Rotunda, correct? 
+25 A Uh-huh.  39 
+1 Q And it appears as --like, what were you doing in there? Just taking it in, it 
+2 seems like? 
+3 
+4 
+5 A Yeah, man. Like I said, just mistakes, man. Just mistakes. 
+I took a photo with Abe Lincoln. I took a photo with Thomas Jefferson. 
+I got --again, I got exhausted, tired. I sat down. I had my nicotine pen, so I sat 
+6 down. And, you know, people were --you know, there was some people tussling with 
+7 Capitol Police, and I was like, I'm not here to do none of this stuff. I'm tired. So, at 
+8 that point, I was just smoking my nicotine pen, which I'm sure you've seen the Snaps. 
+9 And a group of people, I guess because I was smoking my nicotine pen, came up to 
+10 me, and they were just like, do you want to smoke? And I was just like, I don't have, 
+11 like, anything on me. I don't know, what, like --I just have this. And, like, this one guy, 
+12 like, had a bowl, like, a tobacco bowl with him. So he was smoking. 
+13 And then this guy in the cowboy hat literally just had just --not --like, I don't even 
+14 know how many joints he had, but just a lot. 
+15 
+16 
+17 
+18 Q Right. 
+A And that's where you have me smoking --
+Q Right. 
+A --that joint. Whether it was THC or CBD, I don't --I can't tell you, because I 
+19 didn't open the package, I just got handed something. 
+20 And then, yeah, that's when I saw an officer crack somebody in the head with a 
+21 baton stick. And that's kind of when the Rotunda kind of got crazy. 
+22 Q Got it. I think this was around the time when they were starting to clear 
+23 out the Rotunda --
+24 
+25 A Yeah. 
+Q --by the Capitol Police and other law enforcement -- 1 
+2 
+3 A Yeah. 
+Q --correct? Okay. 
+A And then that's why you have --that's where you have the video of me 
+4 calling a cop a communist, because --
+5 
+6 Q Right. 
+A --I've never --I just saw a cop just smash someone in the --like, I was just 
+7 standing there, and then he just got smashed with a baton stick. So that's where you 
+8 had me saying, like, that's something like a communist would do. 
+9 But, like, again, just, like, I didn't have any, like, inter---like, I didn't have, like, 
+10 any, like, mind sense of, like, physical interactions. 40 
+11 And, yeah. If you look at some of the videos, too, you can actually see that I am 
+12 pulling some of the protesters back from the police. 
+13 Q Thank you for that. We will make sure we note that if we look through the 
+14 surveillance again --
+15 
+16 
+17 A Yeah. 
+Q --at your time inside the Rotunda. 
+Another question: Why --I think I know. You just explained it, I think, but I 
+18 want to make sure. Why did you end up leaving the Capitol the second time? 
+19 A Well, what happened was I got --I got pepper-sprayed, tear-gassed, 
+20 whatever it is. I couldn't see for an inch of me. And I --yeah, just couldn't see for an 
+21 inch of me. 
+22 And I went up to a cop, and the cop was just like, were you fighting with police 
+23 officers? And I was just like, no. I was just like, they sprayed me though. And he was 
+24 just like, I can help you. And I was just like, all I really want from you is to just, like, just 
+25 get me out of here.  1 And that's where have you the video of the cop, like, escorting me out of the 
+2 Capitol. And then that's when he, like, leaves me alone. And then that's when I start 
+3 pouring water all over my eyes, just trying to just --I couldn't see for anything. 
+4 
+5 Q 
+A Right. 
+But that cop was a nice gentleman, though, that escorted me out, though. 
+6 He did seem to care about my safety and well-being. 
+7 
+8 
+9 Q Right. 
+I guess, when you left the Capitol, where did you go? 
+A I went back to the hotel. I was --
+Q And you used an Uber again? 
+A Yeah, yeah, yeah, yeah. I was just --41 
+10 
+11 
+12 Q Were you with your friend? Were you with your friend, or was this person 
+13 separated from you? 
+14 A Nah. My friend is a --is a full Bernie Sanders supporter. He really just 
+15 went there to just go for the ride, to be honest. Because he was moving --he was 
+16 moving to California in a month --
+Right. 17 
+18 Q 
+A --and he was getting, I think it's called --is it called 
+19 like, you're over---
+? where, 
+20 
+21 Q 
+A Yeah, where you're overweight. Because, like, my friend used to weigh 430 
+22 pounds. 
+23 So, you know, he just came for the ride with me. And I told the FBI, like, he 
+24 has --like, he doesn't believe anything that I believe, none of that stuff. If anything, you 
+25 know, he did remind --think to tell me that there was going to be violence. But, like, I  42 
+1 just don't --I didn't believe in, like, those type of, like, groups. You know what I'm 
+2 saying? But I guess I should've listened to him, to be completely honest. 
+3 Q Before I turn to your feelings today, I want to turn it over to my colleague 
+who I think wants to follow up on something you said earlier. 
+Yeah. Thanks, 
+BY 4 
+5 
+6 
+7 Q Mr. Rubenacker, you mentioned a couple minutes ago --actually, before we 
+8 took the break, you mentioned something about the summer 2020 protests and your 
+9 concern with how protesters were behaving at those protests in comparison to what was 
+10 going on on January 6th. 
+Right. 
+Do you mind elaborating on that? 11 
+12 
+13 A 
+Q 
+A I knew that I was --I knew on January 6th that I was never, ever going to go 
+14 to that extent of what happened in those protests. 
+15 Like I said, I only walked into the Capitol with a water bottle. I still drink Essentia 
+16 because I have So Essentia water helps with my And 
+17 a nicotine pen. And I don't smoke nicotine because nicotine affects my 
+Well--
+So I knew --18 
+19 
+20 Q 
+A 
+Q Sorry, Mr. Rubenacker. I'm sorry to interrupt. So what happened, in your 
+21 view, in summer 2020? 
+22 A I mean, multiple business owners --and I know one business owner that 
+23 happened to in Suffolk County, where his business got burned to the ground because of, 
+24 you know, social justice and the police reform and all that stuff. And it was really --you 
+25 know, I --it was kind of heartbreaking to see, you know, people losing, like, what they've  43 
+1 worked so hard for and saved. 
+2 But I knew that I was never going to use that type of violence or come in with that 
+3 type of aggression, like, at all. Like, that was never my mentality. Like, "Oh, I need 
+4 to" --like, you know how, like --I'm sure you've seen videos where there's people saying, 
+5 like, "Oh, I need to find Nancy" or, like, all that stuff. Like, none of that ran through my 
+6 head. Like, I didn't want to attack anyone, I didn't want to hurt anyone. 
+7 I just wanted to protest. And the protest that I went to was --it just turned into 
+8 a bunch of chaos. 
+9 Q Got it. 
+10 So you were thinking about the summer 2020 protests on January 6th and kind of 
+11 thinking about what you thought people did then in comparison to what you thought 
+12 people were doing on that day? 
+13 A Yeah, I just --I just, like, was, like, I want to do whatever they don't do. You 
+14 know what I'm saying? Like, I don't want to set anything on fire, I don't want to destroy 
+15 anything. 
+16 Like, I'm not in the Capitol --like, when I went in the Capitol, that was never my 
+17 intentions. Like I said, I have photos with Abe Lincoln, I have photos with Thomas 
+18 Jefferson. Nothing about the way that I believed was about destroying anything in the 
+19 Capitol at all. 
+20 And, like I said, me going into the Capitol, the way that I think about it, and me 
+21 getting help, I would really just consider it mob mentality, because I would never put 
+22 myself in those --if I could do it again, I would never do it, I would never go to D.C. 
+23 wouldn't even do that. 
+24 So, you know, but at the end of the day, they're my actions, and I've got to, you 
+25 know --you know, I can't go back in the past and change them, but -- 1 
+2 Q 
+A 44 
+Got it. 
+--it's --it was never my intentions to go there to destroy anything, break 
+3 anything, or to harm anybody. 
+4 Q You mentioned a couple times "they" in relation to the summer 2020 
+5 protests. Who do you think was responsible for those protests? 
+6 A Well, I --I don't really have an answer, but it didn't help that Congresspeople 
+7 were saying that you need to throw a fist, you know, and it's okay to assault an officer. 
+8 And, you know, AOC, Alexandria Cortez, had an actual --and it's still on her Twitter 
+9 page, actually. It has the proper way of how to protest, and it tells --it tells the people 
+10 that are protesting to bring tear-gas. And that's a sitting Congresswoman, a 
+11 Representative, that --you know, that's --she has that. It's still on her Twitter feed right 
+12 now. You could do it, you can go on Twitter right now yourself, and it's still there. And 
+13 it says --she's telling protesters to bring tear-gas, which then is going to be used on law 
+14 enforcement. 
+15 And, you know, like I said, if you look at everything from January 6th, it's, like, I 
+16 only had a water bottle and a nicotine pen. That was never my intentions, to cause 
+17 harm or cause chaos or mayhem. And I just really just got sucked into a bad situation 
+18 that I just wish I never --I never really put myself into. 
+19 And I'm really just trying --like I said, I'm really just trying to get my life back 
+20 together, and I'm really just trying to tackle this music stuff. 
+21 Q Got it. 
+22 I'm curious to know where you saw that Alexandria Ocasio-Cortez tweet. 
+23 
+24 A 
+Q It's on her Twitter. 
+The only thing I've been able to find is that she introduced a bill to ban the 
+25 use of tear-gas.  45 
+1 A Oh, that's from 2020. Yeah, that's what I'm saying. When you're talking 
+2 about 2020, that was an actual --she said that in 2020. 
+3 
+4 
+5 of --
+6 
+7 Q That she introduced this bill to ban police use of tear-gas in 2020? 
+A Wait, she banned the use of police using tear-gas? So that's --that's kind 
+Q She introduced a bill to ban the use of tear-gas. 
+A That's kind of hypocritical then. So she wanted the protesters to use 
+8 tear-gas but not the police? 
+9 Q I don't think she said that protesters should use tear-gas. In fact, she called 
+10 it a weapon of war. 
+11 But we will --I have noted it as well. I haven't seen her tweet 
+12 that either. We will look for it, but the only thing I've seen, as well, is her --
+13 
+14 
+15 
+16 Mr. Rubenacker. I can give you --
+1 don't want to get distracted on this topic. 
+Yeah. 
+I asked you who you think was responsible for the summer 2020 
+17 protests. You named a couple of Members of Congress. Are those the people you 
+18 think are responsible? 
+19 Mr. Rubenacker. Yeah, because those are the people that are --are pushing for 
+20 reform. 
+21 Who do you think is responsible for January 6th? 
+22 Mr. Matera. Are you asking him responsible for the riot, or responsible for the 
+23 protest, or responsible for people going down there, so it's clear? 
+24 
+25 Q Who is responsible for the riots? We'll start there.  1 
+2 
+3 
+4 
+5 
+6 
+7 A 
+Q 
+A 
+Q 
+A 
+Q 
+A I guess it would be Donald Trump. 
+Got it. Why do you think that? 
+He's the people that sent everyone to the Capitol. 
+Do you feel like you went to the Capitol because of Donald Trump? 
+I mean, yeah, I said that already, that he said to go to the Capitol. So -­
+Do you feel like people went inside the Capitol because of Donald Trump? 
+After looking, seeing some of the --what these people are, I think, yeah, 
+8 absolutely. 
+9 
+10 
+11 
+12 
+13 Q Got it. 
+Well, that's really helpful, Mr. Rubenacker. 
+I'll turn it overt~ now. 
+Thank you again. 
+Mr. Matera, this is probably for you. Can you just give us a very brief summary 
+14 of the current status of Mr. Rubenacker's case? 
+15 Mr. Matera. Sure. 
+16 There was plea negotiations that went back and forth between myself and with 
+17 the U.S. attorney's office. Ultimately, the offer that was --I mean, I don't know how 
+18 much --I mean, I can tell you specifically, if you want me to tell you the whole --
+19 - Oh, just a --no, no, no. Just very brief. Like, just give me a 
+20 couple sentences, whether he's entered a guilty plea, awaiting sentencing, or --
+21 Mr. Matera. He entered a guilty plea. Unfortunately, we could not reach a 
+22 plea bargain agreement, because the government wanted him to waive a number of his 46 
+23 rights, including the right to appeal as well as the right to contest their determination of 
+24 the offense level, something that they have now currently dropped in their request, from 
+25 what we've seen and I've had conversations with them about.  47 
+1 Because of that, he pied guilty to the entire indictment, which was 10 counts. 
+2 Because their offer that included him waiving the rights I just mentioned was only to 
+3 allow him to plead guilty to the top two counts, which served no purpose at that point. 
+4 It wasn't an offer, certainly not one that warranted his waiving anything. So we did 
+5 enter a plea. 
+6 We just received a copy of the pre-sentence report last Monday. We are in the 
+7 process of filing our objections, which will be filed this week, which --we don't have 
+8 factual objections. It's really more objections to, they repeated the --the probation 
+9 officer repeated the calculations that we disagreed with. 
+10 Seemed like, at the plea hearing, that the judge understood and agreed with our 
+11 side of things, that perhaps certain enhancements didn't apply, which, again, is --I think is 
+12 reasonable. 
+13 Got it. 
+14 
+15 
+16 
+17 Mr. Matera. So I think we're on now in May for sentencing. 
+Sounds good. Sounds good. Thank you, Mr. Matera. 
+BY 
+Q So, Mr. Rubenacker, in closing, we like to ask questions about how you feel 
+18 now. And you've touched on this a lot throughout our interview, so this should go 
+19 pretty quickly. 
+20 But, looking back on January 6th, what are your thoughts about that day now, like, 
+21 just in general? 
+22 
+23 A 
+Q I think it's a pretty disgraceful day. 
+Can you just elaborate a little bit on why you think it's a disgraceful day? 
+24 know it may be obvious, but I just want to hear it from you. 
+25 A I just think that, you know, I got somewhat --like I told you, I just didn't  1 have, like, the mindset and mentality of, like, causing destruction and mayhem. And 
+2 other people did. 
+3 And I am caught up in, what I seem to think --I don't know. You know, I'm not 
+4 part of any militia or anything, so it's like, I see how crazy people are. And I just look 
+5 back at it and just, like --it's something that I wish I was never part of. 
+6 
+7 
+8 
+9 Q Okay. 
+Have your feelings towards former President Trump changed since January 6th? 
+Hundred percent. 
+How so? 48 
+10 A 
+Q 
+A Well, I come from a --I told you, I come from a Marine family. My brother 
+11 last year came back to New York for a month and a half before he got redeployed to 
+12 Hawaii for 3 years. And my --I'm adopted. I told you that, right? 
+13 
+14 Q 
+A Uh-huh. 
+Okay. So is my Marine brother. He's Asian. So when Trump started 
+15 talking about "the China virus," "the Chinese virus," and all that stuff --my brother's been 
+16 in the Marines for over 20 years. My brother appreciates Donald Trump for all the 
+17 things that he's done for him, but he also says that he's never been judged as much as he 
+18 did under Donald Trump. 
+19 So, to see that affect the military, especially my brother, it showed the diversity 
+20 that --and power that Donald Trump does have. And that's not what our President 
+21 should be representing at all. You know, our President is not a king. Our President is 
+22 supposed to represent all of our people. 
+23 And after hearing that and just, like, just doing more of an understanding of, like, 
+24 what happened on January 6th and just everything, it just --I feel like he didn't know how 
+25 to carry himself as a President, because he didn't know how to stop talking. And I also  49 
+1 feel that he divided the country and hurted people that didn't deserve to be hurt. 
+2 And my brother was affected by that, and he serves his country. And when my 
+3 brother told me that, that kind of really --you know, it hit --it hit at home. So --
+4 Q Understandable. As a fellow veteran, I'm sorry to hear about your 
+5 brother's experiences in the military. 
+6 , it looks like you have a followup? 
+7 Yeah, I echo wha said. And I can hear how, you 
+8 know, some of these things had a personal impact to you. 
+9 I'm just curious about the timing, because it sounds like you supported President 
+10 Trump through January 6th. I mean, he started using language like "the China virus" a 
+11 long time before that. What was the turning point to you? 
+12 Mr. Rubenacker. My brother was stationed out in California. And my brother 
+13 is a high rank in the military; he's a master gunnery sergeant. So --he also has a family 
+14 of four --three, sorry, three. So he's a very busy man, you know? 
+15 I went to visit him when I was in 10th grade, and he wasn't even at that high level 
+16 yet, and he would be up at 5:00 in the morning leaving for work, and he wouldn't come 
+17 home until maybe 8 or 9 o'clock, and then the rest of the time would be to spend time 
+18 with the family. 
+19 So, when he was stationed out in California, I really didn't have --we really didn't 
+20 contact --like, the most --like, he saw my music and saw everything I would do, but we 
+21 didn't really, like, conversate like that. 
+22 And then, yeah, after January 6th, you know, like I told you, he came home 
+23 because he was getting redeployed to Hawaii, and so he had, like, a month and a half to, 
+24 like, spend with his family, so he came back to New York. And, you know, he just told 
+25 me, like, how stupid I was in decisions that I've made.  50 
+1 And I told him I agree with him 100 percent, you know, and that's also --like, to 
+2 me, that's, like, one of, like --I'm very --like, me and him, like, we could really talk-talk. 
+3 You know what I'm saying? Like, so he really, like, got a lot of, like, world reality, I would 
+4 say, because he's been around the world, sees how the world reacts, and sees how 
+5 everything --and he really got, like, that perspective, like, really into me. 
+6 And, you know, that's when I kind of realized that President Trump was kind of 
+7 trying to act like more like a king than he was trying to be a President. Because, like I 
+8 said, as a President, I feel like you should be standing for all people, not just what you 
+9 believe in. And that's just not what happened at all. 
+10 So that's what happened after January 6th. My brother came home, you know, 
+11 last year before being redeployed, and he explained all this stuff to me. And that's 
+12 when my perspective just --I just couldn't really sit there and rock with that anymore as 
+13 an American citizen anymore. 
+14 Because my goal as a musician is I want to try to heal people, with all the damage 
+15 I've been brought into with my life, with me losing my friend, me almost losing my mom. 
+16 So I understand how much damage and pain I've been through, so I want to take that 
+17 damage and pain and try to heal others. 
+18 So hearing that my brother is --you know, my brother's been risking his life for 
+19 this country for the last 20 years, and him say something and it's affecting him in a 
+20 negative way because the President's speaking out in a negative way, it made me really 
+21 get a grip of reality of what's, like --what's right and what's wrong and how things should 
+22 really go in this country. And I didn't support that at all, when I, like, had more an 
+23 understanding of that, like, completely. 
+24 And I think that's, like, one of, like, the things that I'm trying to do going forward, 
+25 is just, like --you know, I've been working on that in therapy --is, like, trying to just think  1 before I speak, think before I act. Because, you know, I --you know, my doctors have 
+2 told me I have impulsive decisions and stuff. So I try to, you know, breathe before I 
+3 think. And, like, I'm sure you guys have seen that with me talking to you. Like, I'm 
+4 trying to think before I even speak to you, because I don't want to come off saying 
+5 something. 
+6 But it's something that I've been really working on since I've been in therapy. 
+7 And I plan to just keep --you know, continue to try to be the best person that I could 
+8 possibly be. And that's just --that would be, like, my closing arguments for you guys. 
+9 Thanks, Mr. Rubenacker. 
+10 
+11 
+12 
+13 Mr. Rubenacker. You're welcome. 
+? 
+Yep. 
+I guess, the question we like to ask last, since part of our role is to provide 51 
+14 recommendations to the congressional Members, is: What do you think could be done 
+15 differently as a country to prevent a situation like January 6th from ever occurring again? 
+16 Mr. Rubenacker. I think that we need to --I think the biggest problem in this 
+17 country right now is that we have multiple media outlets saying one side of the story on 
+18 what they want to believe. And I think that we need the media to tell us the truth and 
+19 let the American citizens really know the truth so that we can decide for --what's better 
+20 for the country. 
+21 Because when you have one side saying this and another side saying that, that's 
+22 already division right then and there. You know what I'm saying? And that's already a 
+23 clash. 
+24 And it's like, we have to find a way where we can --you know, we're not going to 
+25 always agree on everything, but we have to find a way where we can come closer  52 
+1 together so that our country can thrive, you know, and just, we can be happy, you know? 
+2 Love is love, all this stuff. Like, I'm just, like --I'm very against violence. So we have to 
+3 find ways where we can come together. 
+4 And I think that we need to find ways where Congress is not divided into a part 
+5 where you have a certain part of Congress going on FOX saying their point of views and 
+6 then having a certain part of country believing that and then another part of Congress 
+7 going on CNN and saying that. Because, then, what is the truth? You know what I'm 
+8 saying? 
+9 And then it's just, like, I think that's one of the biggest problems that we face in 
+10 society right now. And I think that will prevent that type of situation from happening 
+11 again. 
+12 And, yeah. I just think the truth just needs to be told at all times. And 
+13 regardless if people don't like the truth, they have to accept it. You know what I'm 
+14 saying? Like, it's --the President is Joe Biden, regardless if people do not like it, you 
+15 know? They're going to have to accept it. He's the President, so --and that's it. 
+16 
+17 
+18 But we need --
+Thank you. 
+Mr. Rubenacker. --we need the truth, though. And that's --I think that's what 
+19 will change the --that's how that situation will never occur again. And I honestly hope 
+20 in my lifetime that it never happens again. 
+21 Me too. Me too. 
+22 Well, we thank you, Mr. Rubenacker, for taking the time to sit with us today. 
+23 Being able to talk to individuals like you who went into the Capitol is incredibly important 
+24 for our investigation. It allows us to hear your thoughts rather than just making 
+25 judgments based upon the filings in your DOJ case. So this is incredibly helpful. We  1 appreciate and thank you for taking time to sit with us here today. 
+2 Mr. Matera, thank you for coordinating with us to set up this interview as well. 
+3 Do you all have any questions before we close out? 
+4 
+5 
+6 
+7 
+8 
+9 
+10 Mr. Rubenacker. Just, I'm glad that I can help you guys out. 
+Thank you, Mr. Rubenacker. 
+And we will end this interview at 3:38 p.m. eastern time. So thank you. 
+Mr. Rubenacker. All right. Have a great day, guys. 
+Mr. Matera. Have a good day. 
+You too. Bye. 
+[Whereupon, at 3:39 p.m., the interview was concluded.] 53  1 
+2 
+3 Certificate of Deponent/Interviewee 
+4 I have read the foregoing __ pages, which contain the correct transcript of the 
+5 answers made by me to the questions therein recorded. 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 Witness Name 
+Date 54 

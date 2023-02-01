@@ -1,0 +1,989 @@
+1 
+2 
+3 
+4 SELECT COMMITTEE TO INVESTIGATE THE 
+5 JANUARY 6TH ATTACK ON THE U.S. CAPITOL, 
+6 U.S. HOUSE OF REPRESENTATIVES, 
+7 WASHINGTON, D.C. 
+8 
+9 
+10 
+11 INTERVIEW OF: DOUGLAS SELLERS 
+12 
+13 
+14 
+15 Friday, June 3, 2022 
+Washington, D.C. 1 
+16 
+17 
+18 
+19 
+20 The interview in the above matter was held via Webex, commencing at 10:00 p.m.  1 
+2 Appearances: 
+3 
+4 
+5 For the SELECT COMMITTEE TO INVESTIGATE 
+6 THE JANUARY 6TH ATTACK ON THE U.S. CAPITOL: 
+7 
+8 
+9 
+10 
+11 
+12 
+13 TAFF ASSOCIATE 
+SENIOR INVESTIGATIVE COUNSEL 
+ROFESSIONAL STAFF MEMBER 
+SENIOR INVESTIGATIVE COUNSEL 
+14 For DOUGLAS SELLERS: 
+15 
+16 STEFAN PASSANTINO 2  1 
+2 Good morning. This is a transcribed interview conducted by the 
+3 House Select Committee to Investigate the January 6th Attack on the U.S. Capitol 
+4 pursuant to House Resolution 503. 
+5 My name is_, I'm a senior investigative counsel; and with me is-
+6 - who is also a senior investigative counsel. 
+7 At this time, I'd ask the witness to please state and spell your last name --state 
+8 your full name and spell your last name. 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 Mr. Sellers. Sure. Douglas Sellers, S-e-1-1-e-r-s. 
+Mr. Sellers, thank you for joining us and doing so voluntarily. I'm 
+going to go over a few ground rules before we get started, but first let me say that, while 
+and I are here in the room today, and we're doing this by Webex, we may be 
+joined at any point by members of the select committee, and if they do join they can ask 
+questions, but as it stands now it's just the two of us and we'll be the ones asking 
+questions, okay? 
+Mr. Sellers. Okay. 
+18 record. 
+19 Mr. Passantino. Stefan Passantino, P-a-s-s-a-n-t-i-n-o. 
+21 Now, there is an official reporter who is transcribing the interview today, Mr. 
+22 Sellers, and, as you heard at the start, it is also being recorded on video. 3 
+23 In order to keep the record as clean as possible, we just ask that you wait for us to 
+24 complete our questions before you begin your answer, and we'll wait for you complete 
+25 your answer before we ask our next question.  4 
+1 If anything we ask is unclear, please just say so. We'll do our best to rephrase 
+2 the question or make it clear for you. And just to note that the official reporter can't 
+3 record nonverbal responses like a shake or nod of the head, so excuse me in advance if at 
+4 any point we have to ask you to say yes or no or to verbalize your response. 
+5 So as we go through the questions today, all you're being asked is to provide the 
+6 most complete answer you can, based on your best recollection of the events. If you 
+7 don't remember something or you don't know the answer, just say so. 
+8 If at any point you need a break to talk to Mr. Passantino, or you just need a break 
+9 for comfort, we're happy to accommodate. Just let us know. We can turn our cameras 
+10 off and go on mute and just take a few minutes, whatever you need. 
+11 And before we get started I mentioned, but I'll say now on the record, we're going 
+12 to show you some exhibits today, some documents and a photograph. Take as much 
+13 time as you need, and if you need to take a break with your attorney to look at those to 
+14 familiarize yourself with them before you answer any questions. 
+15 What we'll do is we'll flash them up on the screen, and if you need us to 
+16 direct --you know, to zoom in so you can see them more clearly, just let us know. 
+17 Otherwise, I'll just remind you, as we do all witnesses, that it is unlawful to 
+18 deliberately provide false information to Congress and that to do so could result in 
+19 criminal penalties. 
+20 Do you understand all that? 
+21 
+22 
+23 
+24 Mr. Sellers. Yes. 
+Do you have any questions before we get started? 
+Mr. Sellers. I don't believe so, no. Thank you. 
+And, as I said earlier and will just make clear for the record, you're 
+25 appearing voluntarily. We reached out to you and you retained Mr. Passantino and  1 agreed to meet with us without the need for a subpoena. 
+2 Is that right? 
+3 
+4 Mr. Sellers. Yes. 
+Thank you. Now, as part of our reach-out to Mr. Passantino and 5 
+5 our conversations about your appearance, we also made several requests for documents, 
+6 to the extent you had them. Were you generally familiar with the requests that we 
+7 made through Mr. Passantino? 
+8 Mr. Sellers. Yes. 
+9 And as I understand from Mr. Passantino, you don't have anything 
+10 responsive that is --that falls within the categories and the timeframe that we asked for. 
+11 Is that right? 
+12 Mr. Sellers. That is correct, yes. 
+13 But just so we're clear, did you make an effort to look through 
+14 whatever electronic devices or hard copy files you have to see if you had anything 
+15 responsive? 
+16 Mr. Sellers. I did, yes. I looked at my phone and don't really have any 
+17 hard-copy documents, but I did ensure that I didn't have any of the documents in the 
+18 request. 
+19 Thank you for doing that. 
+20 EXAMINATION 
+21 BY 
+22 Q All right. So then we'll start with a few background questions, as we do 
+23 with all witnesses. 
+24 How old are you, Mr. Sellers? 
+25 A Thirty-one.  1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 Q And what's the highest level of education you have? 
+A Bachelor's degree. 
+Q What year did you graduate? 
+A 2013. 
+Q And from what school? 
+A Southern Methodist University in Dallas, Texas. 
+Q What is your current occupation? 
+A I'm --I have my own company. I'm a consultant. 
+Q And prior to that, we understand you worked in the White House for 
+10 President Trump's administration. Is that right? 
+11 
+12 
+13 A That's correct. 
+Q And what year did you join the White House? 
+A Well, so I --I worked in the EOP and 0MB in 2017 for about a year --or 
+14 almost a year. I worked at the Overseas Private Investment Corporation, OPIC, which is 
+15 now called the DFC, for a year and a half, and then left government for about a year, and 
+16 then started working in the White House in --at the very end of May 2020 through 
+17 January 2020 --2021, excuse me. 
+18 Q Was your last day in your role at the White House roughly January 20th of 
+19 2021? 
+20 A I --it was actually January 7th. I --yeah. It was January 7th. 
+21 Q All right. We'll come back to that. But when you joined in May of 2020, 
+22 what role did you join --did you come on as with the White House? 
+23 A I believe my title was assistant staff secretary, but I joined as a member of 
+24 the staff secretary's office. 
+25 Q Did your role remain the same throughout your tenure, from May of 2020 6  7 
+1 through January of 2021? 
+2 A Yes. I mean, Derek Lyons, who was staff secretary, left in December, but 
+3 that didn't really change the nature of my role upon him leaving and I was only there for a 
+4 week or two after he left. But yes, it was pretty much the same role throughout. 
+5 Q As a general matter, what were your responsibilities within the Office of 
+6 Staff Secretary? 
+7 A I was just a member of the team, and we kind of had a few of us that had 
+8 played similar roles, in terms of staffing out documents, getting comments on executive 
+9 orders, Presidential memos, those sorts of things, talking points, speeches, and kind of 
+10 worked it through our process in order to get it prepared for final signature or for, you 
+11 know, delivery, or what have you. 
+12 So I just kind of was --we all --most of the folks on our team had similar roles in 
+13 that. And I just was part of that, that team. So I didn't necessarily have like a set 
+14 specialty or anything like that. We all were kind of team players and did similar work. 
+15 Q When it comes to speeches in particular, again, just in a summary fashion, 
+16 what was the role of the staff secretary's office? 
+17 A So basically, we would get a speech from the speechwriting team, and then 
+18 circulate that speech to the relevant people in the EOP or the administration, depending 
+19 on the nature of it, and then collect comments for the speechwriting team. Then they 
+20 would, you know, adjudicate those comments or that feedback. 
+21 And then we would --we would sometimes do that, you know, multiple rounds, 
+22 depending on the nature of the speech or how long or et cetera, and then get it ready for 
+23 final presentation, and make a binder for the President and, you know, then put in the 
+24 speech text into the teleprompter if that were --if it were a teleprompter speech, that 
+25 sort of thing. So just kind of coordinating input and feedback on speeches.  1 In terms of background, I don't have any more questions. I don't 
+2 know if Mr. -does. 
+3 
+4 
+5 I don't, no, thank you. 
+Q Okay. So I think we can just kind of cut to the chase, Mr. Sellers, with 
+6 showing you exhibit 2. It's a photograph --I'll tell you before it flashes on the screen or 
+7 as it's coming up --that was taken on the evening of January 5th of 2021 in the Oval 
+8 Office. And as we understand it, it was roughly around 5 p.m. in the evening. 
+9 
+10 
+11 So do you see that photograph on your screen? Are you able to see it? 
+A Yes. Yes, I do. 
+Q And as we understand it, if we look at the photo, President Trump is on the 
+12 right, and then as you follow the photo, you work from right to left. 
+13 Do you recognize the young woman who's standing next to him at the Resolute 
+14 Desk? 
+15 
+16 
+17 
+18 
+19 
+20 A Yes. That's my colleague, Madison Porter. 
+Q And then to her left? 
+A To her left is me --or, excuse me, to her right. Sorry. I'm looking --
+Q As we look at the photo, it reverses the perspective. 
+A 
+Q Yeah, I have to flip over. I'm to Madison's right. 
+Let me just start by asking this: Do you remember being in the Oval Office 
+21 that night of January 5th of 2021? 
+22 
+23 
+24 A Yes. 
+Q Why were you there? 
+A I was there with Madison to help her. We were both there together to get 
+25 the President to sign, I believe, a lot of legislation that was soon to expire if he weren't to 8  9 
+1 sign it. And so we were getting that, and maybe a few other orders or, you know, pieces 
+2 of --or documents signed that evening. 
+3 I know that it was a lot of legislation. I think --I think you can see some of it on 
+4 the corner of the desk there. But I know that there were kind of stacks of them, and I 
+5 went to help her carry them and then get them signed. 
+6 Q Understood. Now, when you and Ms. Porter went in to have those signed, 
+7 were all of the other people that we see in that meeting, putting President Trump aside, 
+8 were all of the other people there when you first came in the Oval Office, that you 
+9 remember? 
+10 A When we first went in, I think it was just the two of us. I don't remember it 
+11 being a crowd. I don't remember if we were the only three in --or if we were the only 
+12 two in the room in addition to the President, but I remember --I definitely remember it 
+13 not being everyone in that picture when we initially went in. 
+14 Q In terms of everyone else in the picture besides the three people we've now 
+15 discussed, could you just work your way around the picture in the same direction. We 
+16 don't have to do the left-right, but just who you recognize being in there, starting next to 
+17 you on the other side, not Ms. Porter. So who's that, if you can tell us? 
+18 A Kayleigh McEnany is in the red sweater. And then I think that's Margo 
+19 Martin in the --in the --next to her in the dark outfit. I do not remember who is in the 
+20 doorway. And then, I believe, that the man next to --who I do not --I'm not recalling 
+21 whose name that is, is Davis Ingle. And then I believe next to him is Gaby Hurt. 
+22 I cannot remember her last name, but I believe the woman next to her is Lindy, I 
+23 think, is her first name. The gentleman next --under the clock is Chad --Chad Gilmartin, 
+24 I believe. And then I'm not --I'm not sure I remember the woman's name next to him, 
+25 or the other two behind the lamp. And then I see Judd Deere standing in the gray suit,  10 
+1 and it looks like the back of Dan Scavino's head in this picture as well. 
+2 Q Now, Mr. Scavino aside, all of the people that you just discussed from 
+3 Kayleigh McEnany through Judd Deere, were they all, to the best of your knowledge, part 
+4 of, I guess, which office? 
+5 A The press team or the communications team. I'm not sure. I guess 
+6 communications team is the right way to put it. 
+7 Q So you and Ms. Porter were the only people in the room at that time who 
+8 were from the staff secretary's office? 
+9 
+10 A 
+Q That is correct. 
+Now, when you and Ms. Porter came into the Oval Office, I know you said 
+11 earlier you recall the President being there, but did you remember Mr. Scavino being 
+12 there when you first joined, or did he come later? 
+13 
+14 A 
+Q I do not recall that. 
+You talked about the door in the picture, right in the center where the young 
+15 woman is standing who you don't know the name of, and it appears that the door is open 
+16 to the outside. Is that right? 
+17 
+18 A 
+Q Yes. 
+All right. Do you remember the door being open that night when you were 
+19 in the Oval Office? 
+20 
+21 A 
+Q I do. I do. 
+So I think it would be helpful --and you take your time if you need a minute 
+22 to review and go over with Mr. Passantino. 
+23 I'm going to show you exhibit 3, and what exhibit 3 is, is an excerpt from the book, 
+24 "Peril," by the authors and reporters Bob Woodward and Robert Costa. Do you see that 
+25 first page 1 that shows you the title page?  1 
+2 A Yes, I do. 
+Q All right. So we'll go to page 2 of the exhibit, and page 2 are the pages in 
+3 the book 230 and 231, and then just to show you page 3 of the exhibit is pages 232 and 
+4 233. 
+5 Now, if you go back to page 2, what we've done is we've just highlighted a 
+6 description in Peril of the meeting that took place within the Oval Office the night of 
+7 January 5th that that photo was of. 
+8 And so, what I'd like you to do is just read the highlighted portion to yourself. 11 
+9 And if you want to take a break and talk to Mr. Passantino about it, you let us know. But 
+10 if you --we can zoom in as close as you need, and just when you're done let us know. 
+11 Doug, are you able to see that? 
+12 Mr. Sellers. Yes, I'm able to see it. I'm happy to read it right now. Okay, I've 
+13 read the 230 and 231 highlighted sections. 
+14 
+15 Q So let's move to page 3 of the exhibit. There's just one last paragraph. 
+16 Let us know when you're done reading that. 
+17 
+18 
+19 
+20 A Okay. 
+Q Are you good? 
+A Yes, I read all the highlighted section. 
+Q Okay. So is the description within Peril, is that consistent with what you 
+21 remember about the meeting that night? 
+22 A I don't --I don't necessarily remember the --the conversation that was 
+23 described there. I don't really recall the quotes or what was said in the room. 
+24 I do remember the room, the door was open, and I --I personally don't remember 
+25 shivering or being cold, but I don't know that I would necessarily remember that.  12 
+1 Q What --and I guess you were in --as we see in the photo, you were in a full 
+2 suit, although some of your colleagues maybe had on dresses or sleeveless dresses, so 
+3 understood. 
+4 But in terms of the meeting then, and understanding that you might not recall the 
+5 particular quotes, do you remember discussion of the people who had come to D.C. for 
+6 the President's rally and hearing the music? 
+7 A I remember hearing pretty faint sounds of music in the background. I don't 
+8 know that I remember hearing like people or crowds. And I know that there --I don't 
+9 really remember the contents of the conversation. I know that there might have been 
+10 some comment made about the people outside, but I don't really recall any sort of 
+11 discussion, or any sort of --the details of any conversation about the events or the --what 
+12 was going on outside. 
+13 Q But as a general matter, do you recall that the President was discussing the 
+14 fact that there were people there in town, beside the specifics? 
+15 A Yes. As a general matter, I think --I mean, I recall him making mention of 
+16 people being in town, but I don't really necessarily remember the nature of those 
+17 comments or anything like that. 
+18 Q Were you there when the door to the outside was actually opened, or was it 
+19 opened by the time you got in that evening? Do you remember? 
+20 
+21 A 
+Q I do not remember that. 
+Do you recall --you see Mr. Scavino sitting there in the photo and his phone 
+22 is out. Do you see that? Did you see that in exhibit 2? 
+23 
+24 A 
+Q I did, yes. 
+Do you remember there being discussion of any tweets or the President 
+25 sending out any tweets at that time?  1 
+2 A I don't remember that or those sorts of discussions. 
+Q Okay. Do you recall any discussion by the President, put aside the people 13 
+3 who were in town, but about what was going to happen the next day at the joint session 
+4 of Congress for the certification of the Presidential election? 
+5 
+6 A 
+Q I do not recall, no. 
+Did he --did the President discuss that, though, and you just don't 
+7 remember the specifics? 
+8 A He may have. I just --I don't really --I don't recall any talk about the next 
+9 day. He may have. I just don't --I don't recall. 
+10 
+11 
+12 Q If we look at exhibit 4 --we'll bring that up for you, Mr. Sellers. 
+A Okay. 
+Q And what this is is just an archive of President Trump's tweets. And so, the 
+13 first page, it starts with tweets that he sent on January 6th, but I want to direct you to 
+14 page 4. 
+15 And if you look at page 4, what we've done is highlighted three that were sent out, 
+16 the first at 5:05 p.m. on the night of January 5th, the second at 5:12 p.m. on January 5th, 
+17 and the third at 5:25 p.m. on January 5. 
+18 Do you see those there? 
+19 
+20 
+21 
+22 A Yes, I do see them. 
+Q If you could just let us know when you're done reading them to yourself. 
+A Okay. Okay, I've read all three. 
+Q So I just want to talk about these a little bit. But you notice that the timing 
+23 is in line with when we understand this meeting in the Oval Office was taking place, which 
+24 is in the 5 o'clock hour. 
+25 Do you recall that being about the time you were in there, in the office?  I don't recall the time of when I would have been in there. 
+Was it within business hours, though? 14 
+1 
+2 
+3 A 
+Q 
+A I don't know what business hours technically are, but, I mean, I remember it 
+4 being dark and, I mean, I remember it being like towards the end of a workday. So yes, I 
+5 mean, at the end of a workday sort of thing. 
+6 Q And you notice there that in the first tweet that we've highlighted, the 5:50 
+7 p.m., the President says, "We hear you (and love you) from the Oval Office," and he's 
+8 talking about at the start that Washington is being inundated with people who don't want 
+9 to see an election victory stolen. Do you see that? 
+10 
+11 A 
+Q Yes. 
+Does that refresh your recollection about whether you heard or could hear 
+12 people within the Oval Office at that time outside, and that the President was 
+13 commenting on the fact that people were there in town? 
+14 A I don't --I don't recall necessarily hearing people outside. Again, I recall 
+15 like music and, I mean, maybe faint --I think you could kind of always hear, like, noises of 
+16 the city from outside, but I don't necessarily recall like hearing a loud crowd or anything 
+17 of that --of that nature. 
+18 Q And in his next tweet just a few minutes later at 5:12, he's talking about 
+19 weak and ineffective RINO section of the Republican Party, and he tweets out certain 
+20 Senators, Senator McConnell, Senator Cornyn, and Senator Thune. 
+21 Do you see that? 
+22 
+23 A 
+Q Yes, I see that. 
+So, as we read in the Peril book, where it says there was discussion about 
+24 RINOs, and what to do about the RINOs, this tweet is in line with that. 
+25 Does that refresh your memory about whether the President was discussing that  15 
+1 in the room with you all? 
+2 A I don't recall that, that specifically. 
+3 Q At minute 5:25 p.m., you see that he sends a tweet about antifa being a 
+4 terrorist organization, stay out of Washington, law enforcement is watching you. 
+5 And if you recall, in the Peril section you read, there is discussion about the 
+6 President saying there's a lot of anger out there, and a staffer commenting that they hope 
+7 it was going to be safe the next day, and so, consistent with the tweet that's sent at 5:25 
+8 talking about law enforcement watching. 
+9 So, again, does that refresh your recollection about whether there was discussion 
+10 in that room by the President about whether it would be safe in the city on January 6th? 
+11 
+12 A 
+Q I do not recall that, that conversation, no. 
+What, if anything, more do you recall about your time in the Oval Office that 
+13 night and what was discussed? 
+14 A I really don't have a great recollection of what was discussed. I do 
+15 remember getting out of the way when the group took a picture. There was a big group 
+16 picture, I remember, and that's when I think that we left. 
+17 But I don't really recall the conversations. I just --I really remember just being in 
+18 there to get documents signed and then --and then kind of being --getting out when the 
+19 group of the press team took a picture, I believe. 
+20 Q So regarding the President's, what, if anything, he was saying that night, you 
+21 know, you see the last tweet there is at 5:25 p.m., right? 
+22 
+23 
+24 A 
+Q Yes, I see that. 
+That we highlighted. Okay. 
+So why don't we look at exhibit 5. I'm just going to orient you that this is an 
+25 email chain that starts on January 5th, and actually ends on January 5th, but the last --the  16 
+1 top email in the chain that you're looking on page 1, if we go --stay up there at the top, 
+2 please, it's from Ross Worthington sent to a collection of people. 
+3 And it's listed as being at 12:46 a.m. on January 6th. For your orientation, this is 
+4 actually in Greenwich Mean Time, so that's actually 7:46 p.m. on the 5th. 
+5 
+6 A 
+Q Okay. 
+And included on there, you see at the top the first recipient is Austin Ferrer, 
+7 but then the next one is Madison Porter. But what I want to do, then, is go to the first 
+8 email in the chain to show you how it started. So it's on page 2. Go back up to page 2. 
+9 Okay. 
+10 So there you see that January 5th at 5:11 p.m. Austin Ferrer writes to Vince Haley 
+11 and Ross Worthington, copying the staff secretary email address and also Molly Michael, 
+12 and the subject line is the 11 a.m. speech. And then Mr. Ferrer is asking Vincent Ross: 
+13 "Is a draft available for POTUS' speech tomorrow a.m.? Thank you. Austin." 
+14 
+15 
+16 
+17 So can you see that all? 
+A 
+Q 
+A Yes, I can see those emails. 
+Who are Mr. Haley and Mr. Worthington? 
+Mr. Haley and Mr. Worthington were two of the --two members of the 
+18 speechwriting team. 
+19 
+20 Q 
+A Who was Mr. Ferrer? 
+Mr. Ferrer was --we called it the body man or the President's, you know, 
+21 personal aide. I'm not sure what his exact title was, but --
+22 Q And the staff secretary email address that's copied on this asking about the 
+23 speech, was that an email address that would come to you and your colleagues in the 
+24 staff secretary office? 
+25 A Yes, that is correct.  17 
+1 Q If you notice the timing, 5:11 p.m., that's in between when the first tweet we 
+2 showed you from the President at 5:05 p.m. talking about the --Washington being 
+3 inundated with people, and the 5:12 p.m. tweet talking about RINOs and what they'll do 
+4 the next day at the joint session. 
+5 So I want to show you the next email in the chain. So we have to go to the 
+6 bottom of page 1, and it will come back to the top of page 2. 
+7 So there you can see that Madison Porter at 5:28 p.m. writes to Mr. Ferrer, 
+8 Mr. Haley, and Mr. Worthington, copies the Staff Secretary email address and Molly 
+9 Michael. If we go down then to page 2 to read the text, and says: "Ross and 
+10 Vince --we got some feedback from POTUS re: the remarks. Will give you a call." And, 
+11 again, this is at 5:28 p.m., 3 minutes after the President had sent the last tweet talking 
+12 about antifa and law enforcement. 
+13 So do you recall the President giving you and Ms. Porter feedback to provide to 
+14 Ross and Vince for his speech the next day? 
+15 A I do not. And I would just say, I guess, like, I don't --I know that I didn't 
+16 work on this speech per se, because my last day was supposed to be the 6th. And so, I 
+17 kind of handed off a lot of my duties and responsibilities. 
+18 And so, I do not remember any sort of direction, but I also might not have gotten 
+19 any direction, because Madison was staying on for the next couple weeks and may 
+20 have --may have gotten some sort of direction. But I do not recall receiving any sort of 
+21 feedback or direction there. 
+22 Q This is --you see there that Mr. Ferrer is asking is a draft available for the 
+23 speech, and here Ms. Porter is saying before a draft is circulated: "We got some 
+24 feedback from POTUS re: the remarks. Will give you a call." 
+25 If you go up to the next email in the chain on page 1, Vince replies to Austin at  18 
+1 6:02 p.m.: "Austin --we are finalizing the draft. We anticipate delivery by 8 p.m. 
+2 latest." 
+3 So what this reflects is that no draft had made its way to the President yet. So, in 
+4 terms of your experience with the staff secretary's office, was it in the ordinary course for 
+5 the President to provide feedback about a speech to the staff secretary without having 
+6 seen a draft first? 
+7 A So I guess I would just say it really varied on the speech. And there were 
+8 times I recall when the President would work --or would correspond with the 
+9 speechwriting team directly in the course of drafting a speech and that, you know, we 
+10 wouldn't necessarily be in the middle of that exchange if the President, you know, gave 
+11 specific instructions to the speechwriting team. 
+12 So, I think that that had happened in the past, just depending on the speech, in 
+13 terms of the President interacting with the speechwriting team in the course of them 
+14 drafting it. 
+15 Q But here he is telling --Ms. Porter is saying that the President gave --well, 
+16 she says "we" feedback, and she copies the staff secretary and then is reaching out to 
+17 speechwriters. 
+18 So in terms of giving the staff secretary's office feedback before seeing a draft and 
+19 not reaching out to the speechwriters directly, was that in the ordinary course, in your 
+20 experience? 
+21 A I --I don't really know if that was in the ordinary course or not. I guess --I 
+22 think there could have been times in the past when the President, who I think knew that 
+23 the staff secretary team worked with the speechwriting team on speeches, would 
+24 mention to really anyone on either of the teams that he wanted something to be in the 
+25 remarks.  19 
+1 So I don't know that that was necessarily out of the ordinary, just in terms of 
+2 letting someone on either team know that he wanted something to be reflected in the 
+3 remarks. 
+4 Q Speaking of wanting something reflected in the remarks, we're going to 
+5 show you two exhibits in a row to show you how that draft ends up coming. But if you 
+6 look up at the top of this exhibit, to orient you, on the exhibit 4 --excuse me, exhibit 5 
+7 still --exhibit 5, my apologies --that's Mr. Worthington, that top one at 7:45 p.m. on the 
+8 5th, saying: "Draft attached --please confirm receipt and delivery. Thank you." 
+9 And the draft he sent is on this email. Now, we can show you, starting on page 
+10 3, and I just want you to focus on that first paragraph and just read it to yourself and let 
+11 us know when you're done. 
+12 
+13 A 
+Q Okay. Okay, I've read the first paragraph. 
+And do you recognize within that first paragraph the same kind of language 
+14 that was in the President's tweets at the times I showed you on the night of the 5th? 
+15 For instance, our country has had enough and will not take it anymore, don't want to see 
+16 our election victory stolen by emboldened radical left Democrats. 
+17 If it helps you to look at the tweets, I'm happy to bring them back up. Do you 
+18 want to compare that? 
+19 A I mean, I recall I think the tweets. And sorry, could you just restate your 
+20 question, I guess? 
+21 Q Well, do you see that language there, starting with the last two sentences in 
+22 that opening paragraph? 
+23 
+24 A 
+Q Okay. 
+Right? And then we'll just compare them just so you can see it on exhibit 4, 
+25 page 4. And the 5:05 tweet, if you just read that to yourself again.  1 
+2 A 
+Q [Witness reviewed the document.] 
+Do you recognize the similar verbiage and words between that tweet and 
+3 what's in the opening paragraph of the speech? 
+4 
+5 A 
+Q Yes. 
+Okay. So then, if we look at exhibit 6, this is an earlier version of the 
+6 speech that Mr. Worthington sent to Stephen Miller, copying Vince Haley and Robert 
+7 Gabriel, on January 5th at 3:30 p.m., so 4 hours before that draft he circulated later. 20 
+8 I'll just stop here and ask, was it your understanding of the speechwriting process 
+9 that the team, you know, Mr. Worthington and Mr. Haley, would work with Mr. Miller to 
+10 get a draft in good shape before sending it in to the staff secretary review process? 
+11 A Yes. My understanding was that the team worked together --or, I mean, 
+12 the speechwriting team worked together before sending a draft, depending on the nature 
+13 of the speech. But yes, that's my understanding. 
+14 Q So if we look at the first paragraph of this speech on page 2 of the same 
+15 exhibit, just read the first --you can read the first two paragraphs to yourself and just let 
+16 us know when you're done. 
+17 
+18 A 
+Q Okay, I've read the first two paragraphs. 
+And, Mr. Sellers, in reading that, you can see that the language that we 
+19 focused on in the draft in the prior exhibit, and that was from the tweet and the others, 
+20 that that doesn't appear here in these first two paragraphs, does it? Do you see that 
+21 anywhere here? 
+22 
+23 A 
+Q I do not. 
+All right. And so if we look at 7, exhibit 7, just to make the contrast clear, 
+24 there's just a red line that we created running against the two versions of the speech, the 
+25 earlier, then the later. And if we can zoom out a bit so you can see.  21 
+1 So you see the strikeout at the top of that original, the original two paragraphs, 
+2 and then in blue, the insertion in a later draft of the paragraph that has the language from 
+3 the tweet. Do you see that? 
+4 A Yes, I see it. 
+5 Q So, I do all this by way to see if it refreshes your recollection about whether 
+6 when you were in the Oval Office the night of January 5th, that the feedback the 
+7 President had about what the speech should focus was to echo the language that he was 
+8 tweeting about regarding the people in town wanting to stop the steal and not having it 
+9 stolen by emboldened radical left Democrats. 
+10 Do you recall him talking about that? 
+A I do not. 
+Mr.- I'll stop there and see if Mr. has any questions on the 5th. 11 
+12 
+13 
+14 Q I do have a few questions just more generally for you, Mr. Sellers. 
+15 Do you recall any discussions in the White House, whether it involved the 
+16 President or not, about encouraging the Vice President to take some action during the 
+17 joint session of Congress? 
+18 A I do not recall any sort of discussions or, you know, hearing those sort of 
+19 discussions about the Vice President, no. 
+20 Q Okay. And let me ask it somewhat differently just so I capture what I'm 
+21 getting at. 
+22 Do you remember any discussions whatsoever about the Vice President or his role 
+23 during the joint session? 
+24 A I do not. I mean, I recall reading the news and there being like stories 
+25 about that sort of thing, but I don't recall any sort of discussion that I was privy to or that I  22 
+1 was a part of about that. 
+2 Q Okay. And when I say "discussions," that could just be casual conversations 
+3 between you and a colleague. It doesn't have to necessarily be kind of formal meeting 
+4 to discuss it. 
+5 But around that time, I know in the news on January 5th, The New York Times or 
+6 the President issued a statement about an article in the New York Times addressing an 
+7 alleged disagreement between the President and the Vice President, specifically about 
+8 January 6th. 
+9 Do you remember hearing about any such disagreements other than what you 
+10 may have read in the press? 
+11 
+12 A 
+Q I don't, no. 
+Okay. Are you familiar with any outreach to State legislators that anybody 
+13 in the White House was conducting in the lead-up to January 6th? 
+14 
+15 A 
+Q I'm not familiar with any --any of that outreach, no. 
+And when you're in with the President on the evening of the 5th, either 
+16 before the rest of the crowd gathered, so just you and Ms. Porter alone, or when they 
+17 were gathered, can you just give us a sense of the President's general demeanor as you 
+18 remember it? 
+19 A I feel like, generally speaking, he was the same as usual. I mean, I wasn't 
+20 around the President a whole --like a lot in my time, but he seemed like he was kind of 
+21 his usual self, from what I could tell. But I don't really recall any specific, you know, 
+22 aspects of his demeanor or anything like that. 
+23 Q I know you've gone over with Mr. -a number of questions about what 
+24 you recall and whether the President talked about the joint session or the crowds that 
+25 were outside.  23 
+1 Is there anything that you do remember from that evening in that gathering about 
+2 what might happen the next day on January 6th? 
+3 
+4 A No. I don't remember any sort of conversation or discussion of that. 
+Q Okay. So it could have --I just want to clarify. It could have happened, 
+5 conversations like that, you just don't recall them happening. Is that fair? 
+6 
+7 
+8 
+9 A Yes, that's fair. 
+Q Okay. 
+Q So you said you had already planned on being --your last day being January 
+10 6th. Any particular reason why it was that day? 
+11 A I was just offboarding like in the --I mean, I think offboarding took place for 
+12 like 2 weeks prior to the 20th. I was --I was willing to be on the early wave of 
+13 offboarding because I was going to Florida with my family and going to a national 
+14 championship football game that weekend. And so, I put in for the earlier wave of 
+15 offboarding that was kind of --it just happened to fall on the 6th. 
+16 Q And so, as you said, you were not going to have any more duties to handle 
+17 on the 6th itself, because that's the day you were basically coming in to leave, right? 
+18 A That is correct. I would just say on the 5th, I got a call in the afternoon, or 
+19 sometime in the --on the --in the 5th, I think it was in the afternoon, that basically said a 
+20 lot of folks would be working remote on the 6th because of, you know, activities at the 
+21 White House, or activities in Washington and travel and that sort of thing, and that I could 
+22 either offboard like within the hour of that phone call, or offboard on Thursday. 
+23 And so I wasn't ready. I just simply hadn't like packed all my stuff and wrapped 
+24 up all my --you know, my things yet, so I just offboarded on Thursday. 
+25 Q Thursday, the 7th?  24 
+1 A Yeah. I offboarded on the 7th. I just --I had pretty much finished all 
+2 my --I pretty much finished all my duties like before the 5th and the 6th and the 7th. It 
+3 was kind of like the week before, but yeah. 
+4 Q And did you have anything scheduled for January 6th, in terms of meetings 
+5 with the President, to get anything signed that was on your to-do list before you left? 
+6 
+7 
+8 right? 
+9 
+10 A Not that --not that I recall, no. 
+Q And you understood he was going to be at the rally on the 6th. Is that 
+A I understood that he was speaking on the 6th, yes. 
+Q And so when you were there in the Oval Office the night of the 5th, I imagine 
+11 that then was the last time you understood you would be seeing the President in person 
+12 before you left? 
+13 
+14 A Yes, that was my --that was my understanding. 
+Q And so I have to ask, and you understand why, this is the last time you're in 
+15 the presence of the President in your role in the White House, and you don't have a 
+16 memory of what he was saying during that meeting the last time you were with the man? 
+17 A No, I really don't. I mean, I'll be honest. It was --I was kind of checked 
+18 out and I was asked to go get some documents signed with my friend Mad --or my 
+19 colleague Madison, and don't really --I was there for that reason and wasn't necessarily 
+20 paying attention. I was kind of already on the way out the door, so to speak. 
+21 Q Did you work remotely on the 6th, given that your colleague said that folks 
+22 would be doing that because of the rally? 
+23 
+24 
+25 A No, I was --I was there on the 6th. 
+Q What time did you get into work that day? 
+A I want --it was normal time, I mean, which for me would have been  25 
+1 anywhere around 8 o'clock or 8:30, something in that range. I --I just know I rode with 
+2 a colleague, because I couldn't park in my usual parking spot that day. 
+3 
+4 Q Where was your office located on the White House grounds or complex? 
+A It was in the --I guess they call it the ground floor, but it feels more like a 
+5 basement of the West Wing. Right behind if you walked in from West Executive, take a 
+6 left at the Secret Service desk and go past the stairs on the left and kind of then --I shared 
+7 an office with Madison Porter in the staff secretary suite. 
+8 Q And that day when you arrived, did you have a plan to go to the Ellipse rally 
+9 to see the President give that speech? 
+12 
+13 
+14 
+15 
+16 
+17 
+18 event? 
+muted. A 
+Q 
+A 
+Q 
+A 
+Q 
+A 
+Q No, I did not. 
+Did you ultimately end up going to the Ellipse rally for any portion of the 
+No. I was just in my office. 
+And the office that you shared with Ms. Porter, did it have a TV? 
+Yes, it did. 
+And would the TV generally be on in the office during the day? 
+It generally was on something, some sort of channel, and it was generally 
+Did you keep --was it the quad channel that we've seen, or was it just one 
+20 channel at a time? 
+21 A Yeah. It was a lot of the quad channel, but I just said generally on 
+22 something because I do remember it being on the Master's, because I'm a golf fan. But 
+23 yeah, it was generally on the quad channel, the news. 
+24 Q So that day, did you work throughout the full day until the kind of what I'll 
+25 call the order to go home came out around 5:30 or 6 o'clock that evening?  26 
+A I think I left earlier than that. 
+Q What time do you think you left? 1 
+2 
+3 A I think I left like middle of the afternoon. I just --again, I remember I got a 
+4 ride home with a friend who --because I couldn't drive that day. And I don't think I 
+5 stayed throughout the whole day, but I feel like it was sometime in the afternoon. 
+6 
+7 
+8 
+9 
+10 
+11 
+12 Q Who was the friend that you got the ride home with? 
+A William Crozer. 
+Q How do you spell that last name, just for the record? 
+A C-r-o-z-e-r. 
+Q Also in the staff secretary office? 
+A No, he worked in the EOB. 
+Q Did you know before you left with Mr. Crozer that there was violence at the 
+13 Capitol? 
+14 A I don't know the extent of what I knew at what times. I mean, I was 
+15 watching the news and --and that sort of thing. So I don't know when that would have 
+16 been, you know, on the news, but I was --I was watching the news as it unfolded on TV 
+17 and on --on, you know, my phone and that sort of thing. 
+18 Q Understood. And that's why I was just asking. Did you --were you aware 
+19 of the violence at the Capitol before you left with Mr. Crozer? 
+20 A I don't recall in terms of like timing. I just remember being done with my 
+21 work, and done for the day and we --we left. I don't know if it was before or after I 
+22 knew of violence at the Capitol. 
+23 Q So what's your first memory of realizing that --of learning that there was the 
+24 disturbance at the Capitol, however you want to characterize it? 
+25 A I don't necessarily remember, like, my first memory. I --I guess just seeing  27 
+1 it on the news and seeing, you know, pictures and images and videos on social media and 
+2 on the news. 
+3 Q In your office, though? 
+4 A Yeah, I believe I was in my office when I saw the first images of people at the 
+5 Capitol. But I guess the point being I don't know when I first saw, you know, the 
+6 violence per --I mean, I remember seeing pictures of people outside the Capitol. I don't 
+7 know when that --that timing would have been. 
+8 Q Did you --did you hear any discussion while you were still at the office about 
+9 what, if anything, President Trump was doing to address the situation at the Capitol? 
+10 A I do not recall that. 
+11 Q Were you still in the office when the President began to tweet about the 
+12 Capitol and what was going on there? 
+13 A I'm not --I'm not sure when he tweeted about that. 
+14 Q So if we look at exhibit 4 on the first page, do you see at the bottom of page 
+15 1, at 2:24 p.m. on January 6th of 2021, the President tweeted --you can read it to 
+16 yourself, but it's about Vice President Pence. Do you see that? 
+17 
+18 A 
+Q Yeah, I see that. I'll read it. Okay, I read that. 
+I can tell you that a lot of people that we've talked to in the White House or 
+19 close to President Trump have a strong memory of this tweet and their reaction to it. 
+20 Do you remember seeing this tweet when it came out or at least soon thereafter? 
+21 A I mean, I would have generally been like --would generally have seen his 
+22 tweets just in the course of being on Twitter like personally, but I don't necessarily have a 
+23 recollection of seeing this one. 
+24 But I mean, I remember, generally speaking, just following Twitter that day. So 
+25 I'm sure I did see this. I just don't have a specific memory of this tweet.  28 
+1 Q How about the next one at 2:38 p.m. about "please support our Capitol 
+2 Police." You can read that one to yourself. 
+3 A Yeah. I think the same thing applies, I mean that I saw it. I just don't have 
+4 a specific recollection of when and that sort of thing. 
+5 Q And the same question with respect to the one at 3:13 p.m. Can you read 
+6 that and let us know your thoughts? 
+7 A Sure. I would just say the same thing. I think I was probably seeing it on 
+8 Twitter, but don't necessarily remember, you know, when and my reaction to that. 
+9 Q And the one at 4:17 p.m., it's a link, but I'll tell you it's the video. We can 
+10 move up so you can see the tame on the exhibit. It's the video the President sent out in 
+11 which he told people to go home. 
+12 Are you familiar with the fact that he sent out that video that day from the Rose 
+13 Garden? 
+14 
+15 
+16 out? 
+17 
+18 A 
+Q 
+A 
+Q Yes, I am. 
+Do you remember when you saw that video? Did you see it when it came 
+Yeah, generally speaking. I don't remember exactly when I saw that. 
+Now, and you've read these tweets to yourself, the ones where there's text, 
+19 and fair to say that in the ones with text from 2:24 through 3:13 p.m., there's nothing 
+20 explicit telling people to go home, right? 
+21 
+22 
+23 
+24 A 
+Q 
+A 
+Q I can read them again, just -­
+Sure. 
+That is correct. 
+Do you remember any discussion within the White House before you left for 
+25 the day about whether the President should be making a statement, whether on Twitter  29 
+1 or otherwise, to the public that people at the Capitol needed to go home? 
+2 A I don't --I don't think I remember any discussion of that. I think I 
+3 remember seeing that on social media, that people were saying that sort of thing, but I 
+4 don't necessarily remember any discussion of that in the White House, per se. 
+5 - I'll stop and see if-has any questions to follow up. 
+6 - Ida. 
+7 
+8 Q When you were at the White House at work on January 6th, do you 
+9 remember seeing images on TV of people breaking windows to the Capitol? 
+10 
+11 A 
+Q I do not recall. That's not to say I didn't see them. I just don't remember. 
+Do you remember people being inside the Capitol or seeing images of that 
+12 while you were at work on January 6th? 
+13 
+14 A 
+Q I believe so. I believe so. 
+And do you remember any discussions whatsoever with Ms. Porter or 
+15 anybody about what was happening at the Capitol while you were still at work on the 
+16 6th? 
+17 A I was with --with Madison. And I remember us, you know, being shocked 
+18 at what was happening. I don't necessarily remember the nature of our conversation or 
+19 reaction per se, but I mean just, you know, shock, and I think sadness at what was 
+20 happening. 
+21 Q And do you remember, either you or Ms. Porter, ever going to talk to 
+22 anybody, Mr. Meadows or anybody else in the White House, about issuing a statement or 
+23 doing something to address what was happening at the Capitol? 
+24 A I do not remember me doing that, and I don't remember Madison doing that 
+25 either. Again, that's not to say that she didn't. I remember that I didn't. I don't  30 
+1 remember her doing that or us talking about that, but I don't --I mean, we were in the 
+2 same office, but we would come and go, I mean, so I don't know. But I don't remember 
+3 that sort of thing from either one of us. 
+4 Q And I know you talked earlier with -about the role of the staff 
+5 secretary's office with potential remarks that the President might deliver. We 
+6 understand that some within the White House were writing up remarks for the President 
+7 to deliver on the 6th. 
+8 Did the staff secretary's office and you have any role in reviewing, editing, or 
+9 drafting remarks for the President to deliver on the 6th? 
+10 A Do you mean like the speech he gave on the 6th, or what are you referring 
+11 to? 
+12 Q Anything at all. Any potential comments, draft comments or comments 
+13 that he actually did deliver? 
+14 
+15 Q Why don't we ask this just to be clear, Mr. Sellers: Did you have any role 
+16 with regard to the Ellipse speech that he gave that morning? 
+17 
+18 
+19 A 
+Q 
+A No, I did not. 
+Okay. Okay. 
+And then I don't remember any sort of --or I don't remember any 
+20 involvement in terms of working on any other sort of remarks that day as well. 
+21 I just would say I guess I would --the staff secretary's office, one of my colleagues 
+22 would have, you know, worked on the speech, per se, in terms of finalizing it, on the 
+23 Ellipse speech, but I wasn't working on that. 
+24 
+25 Q I'm also thinking of any remarks that were drafted for the President to  31 
+1 deliver later that day, like in the Rose Garden, or that evening. 
+2 A Understood. I know --I know that I did not work on anything like that, and 
+3 I don't recall any of my colleagues in the staff secretary working on anything like that, but 
+4 that's not to say that --that someone in my office could have. I just don't recall. 
+5 know that I didn't. I just --I don't recall any --any sort of thing like that in our office. 
+6 Q And oftentimes, at least in places I've worked, there is kind of scuttlebutt or 
+7 discussions about what's going on in the office. 
+8 Do you remember any discussions about the President's call with the Vice 
+9 President on the morning of the 6th before he spoke at the rally on the Ellipse? 
+10 
+11 A 
+Q I do not recall any discussions or informal discussions about that. 
+Do you remember hearing that the President had a call with the Vice 
+12 President that morning? 
+13 
+14 
+15 A 
+Q I do not remember that, no. 
+Any discussion in the afternoon before you left about what the President 
+16 was just doing within the White House while the attack on the Capitol was going on? 
+17 
+18 
+19 
+20 
+21 A 
+Q 
+A 
+Q I don't recall any sort of discussion about that or knowing that, no. 
+BY 
+Do you know where the President was during the afternoon of the 6th? 
+I do not. Yeah, I don't know exactly where he was, no. 
+And I understand that you left kind of mid-afternoon. Was that ordinary 
+22 for you to leave in mid-afternoon, or was there something unique about this day that 
+23 caused you and Mr. Crozer to leave in the afternoon on the 6th? 
+24 A I mean, I think seeing, you know, what was going on on television and that 
+25 sort of thing, and me personally being, you know, knowing that was my last day or  32 
+1 second-to-last day, you know, I think it was --it was a time that made sense to leave. 
+2 But that was earlier than normal, but I guess with the events that were going on 
+3 and considering I was technically done with all my duties and work, that was I guess not 
+4 too different --or it's an anomaly, I guess, but in the sense that it was also my last day, 
+5 you know, so --
+6 Q Do you remember hearing any instructions or suggestions from anybody at 
+7 the White House that people should start to leave because of what was happening on the 
+8 Hill? 
+9 
+10 A 
+Q I don't recall instructions or that sort of --that sort of thing, no. 
+Or even suggestions, if not a formal instruction to go home, just that, Hey, 
+11 you guys should probably start leaving? 
+12 A I don't really remember that, but, I mean, I just remember thinking that, you 
+13 know, we --like, it made sense to go ahead and leave. And I think others were doing the 
+14 same or, you know --but I don't necessarily remember like an urge or suggestion to do 
+15 that. 
+16 Q Do you remember any discussions, whether on the 6th or the 7th, which I 
+17 understand was your last day, about the President and how he should address what was 
+18 happening on the --at the Capitol or what happened, if it was later in time? 
+19 
+20 
+21 A 
+Q 
+A Sorry. Could you restate that question? 
+Yeah. 
+I heard --you know. 
+22 Q Of course. Any discussions at all about how the President should address 
+23 what happened at the Capitol? 
+24 A I don't --I don't really remember much about that. I --again, I guess I left 
+25 in the afternoon, and then came back the next day, and I don't --I don't really remember  33 
+1 much discussion about how to --how to address it, or the President's, you know, first 
+2 response. 
+3 So I guess no is the answer to your question. 
+4 Q You did say you don't remember much about it. I want to follow up on 
+5 that. Do you remember anything at all about --even in the informal conversations that 
+6 you may have had with your colleagues, about whether the President should address it 
+7 or, if so, how to address the events at the Capitol on the 6th? 
+8 A I'm just trying to remember if --I mean, I feel like informally I remember, you 
+9 know, thinking that he should, you know, condemn what was going on, but I don't 
+10 necessarily remember the degree to which I talked to Madison or other colleagues about 
+11 that. 
+12 I didn't really --I wasn't really there to talk to people about that, but as I point out, 
+13 so I don't necessarily remember if that was something that I was thinking about or talking 
+14 about to --if that makes sense. 
+15 Q Okay. Yes. And do you remember hearing anything, whether formal or 
+16 informal conversations you had with your colleagues, that the President may have been 
+17 reluctant to issue any particular message on the 6th or even after on the 7th? 
+18 
+19 that. 
+20 
+21 
+22 
+23 
+24 
+25 A I don't remember that being the --I don't remember conversations about 
+Q Okay. 
+I have no follow-up questions. I think Mr. 
+Mr. Sellers, thank you. We appreciate it. 
+And, Stefan, thank you for working with us on this. 
+So this will end the interview and take care. 
+e'II go off the record. is done.  34 
+1 [Whereupon, at 10:59 a.m., the interview was concluded.]  1 
+2 
+3 Certificate of Deponent/Interviewee 
+4 I have read the foregoing __ pages, which contain the correct transcript of the 
+5 answers made by me to the questions therein recorded. 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 Witness Name 
+Date 35 

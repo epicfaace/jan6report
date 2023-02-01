@@ -1,0 +1,675 @@
+1 
+2 
+3 
+4 
+5 SELECT COMMITTEE TO INVESTIGATE THE 
+6 JANUARY 6TH ATTACK ON THE U.S. CAPITOL, 
+7 U.S. HOUSE OF REPRESENTATIVES, 
+8 WASHINGTON, D.C. 
+9 
+10 
+11 
+12 INTERVIEW OF: STEVEN TERNER MNUCHIN 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 Monday, July 18, 2022 
+Washington, D.C. 
+21 The interview in the above matter was held in Room 5480, O'Neill House Office 
+22 Building, commencing at 2:07 p.m. 
+23 Present: Representatives Aguilar and Lofgren. 1  1 Appearances: 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 For the SELECT COMMITTEE TO INVESTIGATE 
+THE JANUARY 6TH ATTACK ON THE U.S. CAPITOL: 
+STAFF ASSOCIATE 
+INVESTIGATIVE COUNSEL 
+SENIOR COUNSEL 
+PROFESSIONAL STAFF MEMBER 
+, CHIEF INVESTIGATIVE COUNSEL 
+- SENIOR COUNSELOR TO THE VICE CHAIR 
+CHIEF CLERK 
+PROFESSIONAL STAFF MEMBER 
+16 For STEVEN TERNER MNUCHIN: 
+17 
+18 MILES GREENE 
+19 STEVEN PEIKIN 
+20 ALEXANDER WILLSCHER 
+21 SULLIVAN & CROMWELL 
+22 
+23 
+24 
+25 2  3 
+1 Good afternoon, Secretary Mnuchin. This is a transcribed 
+2 interview conducted by the House Select Committee to Investigate the January 6th Attack 
+3 on the United States Capitol pursuant to House Resolution 503. 
+4 Could you please state your full name and spell your last name for the record? 
+5 Secretary Mnuchin. Sure. Steven Terner Mnuchin, M-n-u-c-h-i-n. 
+6 My name is and I am the chief 
+7 investigative counsel to the select committee. With me is 
+8 
+9 
+10 committee. ----and 
+11 I understand you're represented by counsel. also staff of the select 
+12 Counsel, if you could also introduce yourselves and spell your last names for us. 
+13 
+14 
+15 
+16 
+17 Mr. Peikin. Steven Peikin, P-e-i-k-i-n, from Sullivan & Cromwell. 
+Mr. Willscher. Alex Willscher, W-i-1-1-s-c-h-e-r, from Sullivan & Cromwell. 
+Mr. Greene. Miles Greene, G-r-e-e-n-e, from Sullivan & Cromwell. 
+Great. Welcome. 
+This will be a staff-led interview, although members of the committee may join 
+18 and choose to ask questions. Because it is a virtual interview, members, if they join, will 
+19 put their camera on and I will do my best, Secretary Mnuchin, to indicate when they are 
+20 present and recognize them if they choose to be. I'll announce their presence so you 
+21 know who's on and who's not. 
+22 There is an official reporter --two official reporters --who will be transcribing the 
+23 record of the interview. Please wait until each question is complete before you begin 
+24 your response, and we'll try to wait until your response is complete before we ask our 
+25 next question.  4 
+1 The stenographer cannot record nonverbal responses such as shaking of your 
+2 head, so it's important that you answer each question with an audible verbal response. 
+3 We ask that you provide complete answers based on your best recollection. If 
+4 the question is not clear, please ask for clarification. And if you don't know the answer, 
+5 obviously, just say so. 
+6 I have to remind you, as we do with all witnesses, that it is unlawful to deliberately 
+7 provide false information to Congress. Doing so could be a violation of 18 U.S.C. 1001 or 
+8 other statutes. 
+9 Any questions about the basic --
+10 
+11 
+12 
+13 
+14 Secretary Mnuchin. No. All set. 
+Okay, great. 
+EXAMINATION 
+B~ 
+Q So let me start, Secretary Mnuchin, by just show you what we'll mark here as 
+15 exhibit No. 1, which is a letter dated today from Special Counsel to the President Richard 
+16 Sauber to your lawyers, Mr. Peikin and Mr. Willscher. 
+17 Have you seen this in advance and had an opportunity to review it? 
+18 
+19 A 
+Q I just saw it when I arrived, and I've reviewed it. Thank you. 
+Okay, great. It is a letter, for the record, from the White House counsel 
+20 indicating that, in their view, it would not be appropriate to assert executive privilege on 
+21 the subjects identified, including events within the White House on or about January 6th, 
+22 attempts to use the Department of Justice to advance a false narrative that the 2020 
+23 election was tainted by widespread fraud, other efforts to alter election results or 
+24 obstruct the transfer of power. 
+25 So, again, for the record, that's the position of the current White House counsel.  1 
+2 
+3 Secretary Mnuchin, you're here voluntarily, correct? 
+A 
+Q Yes. 
+Not pursuant to a subpoena but here, rather, to provide your voluntary 
+4 cooperation to the committee. 
+5 
+6 A 
+Q That is correct. 
+Which we very much appreciate. 
+7 You served as Secretary of Treasury from, my understanding, February of 2017 all 
+8 the way through the end of the administration in January 2021. 
+9 
+10 A 
+Q That is correct. 
+Okay. At any point after the 2020 election, did you have any discussions 5 
+11 with President Trump about the results, the integrity of the vote, or anything having to do 
+12 with the election results? 
+13 A I had a brief conversation with President Trump shortly after the election, so 
+14 not long after, and asked him if he was going to concede the election. He told me he 
+15 was going to pursue his legal remedies before he decided to do anything, which I 
+16 understood. And that was the extent of our conversation. 
+17 Q About approximately when did that conversation take place? 
+18 A It was in the first week. 
+19 Q I see. 
+20 A It may have been a few days, but it was definitely within the first week. 
+21 Q I see. Do you know if it was before or after the election had been called or 
+22 the networks had indicated? I think that was on Saturday the 7th that they projected 
+23 President Biden. 
+24 
+25 A 
+Q My guess is it had been after it had been called, but I don't recall specifically. 
+Okay. Was that in person or by telephone?  1 
+2 A 
+Q I believe it was by telephone. 
+All right. Is it the only conversation with him at any time that you had 
+3 about the election? 6 
+4 A It was the only conversation that I had about the election. There may have 
+5 been other times where he said certain things about the election which were consistent 
+6 with what he said publicly. 
+7 Q I see. Okay. But the only time you recall a direct conversation with him 
+8 was that one? 
+9 
+10 A 
+Q That is correct. 
+All right. 
+11 Did you in any way make an effort to form your own opinion about these 
+12 allegations of alleged election fraud? 
+13 A You know, unlike the previous campaign, I was not involved in this campaign. 
+14 I was really not in a position to understand things. So, you know, I followed the 
+15 Attorney General and other things that he was saying. 
+16 Q Yeah. The Attorney General on December the 1st made a public 
+17 announcement, did not see --the Department of Justice did not see existence of election 
+18 fraud sufficient to undermine confidence in the outcome in any State. 
+19 Did you endorse that or believe that to be --that was accurate? 
+20 A I had no expertise in understanding anything different, so I respected his 
+21 view and assumed that he was correct. 
+22 Q Okay. You mentioned before that that first conversation with President 
+23 Trump did involve some discussion of whether he would concede. Is that right? 
+24 
+25 A 
+Q It was a very brief discussion, but yes. 
+So no other conversations with him about whether he should concede after  1 that initial? 
+2 
+3 A 
+Q No. 
+Okay. Did you have any concerns --we've heard from other colleagues of 
+4 yours in the Cabinet that they had concerns about the nature of the advice that the 
+5 President was getting after the election. 7 
+6 Did you share those concerns, have any reason to believe he was not being served 
+7 by other voices outside of the Cabinet? 
+8 
+9 A 
+Q Again, only from what I was hearing secondhand. So yes. 
+Tell me more about that. What were you hearing secondhand and what 
+10 were your concerns? 
+11 A That there were people around him who were not necessarily the staff or 
+12 the full-time people who had been part of the team that were making claims of election 
+13 fraud. 
+14 
+15 
+16 Q 
+A 
+Q Did you talk with the President at all about that, about --
+1 did not. 
+Okay. Did you express those concerns to anyone else, about the quality of 
+17 the advice the President was getting? 
+18 A I may have expressed that to the chief of staff, Mark Meadows, but beyond 
+19 that, no. 
+20 Q All right. On the issue of concession, did you ever talk to Mr. Meadows 
+21 about whether the President should or shouldn't concede? 
+22 
+23 A 
+Q Not that I can recall. 
+Okay. Anyone else besides the President himself, discussions about 
+24 whether he should concede? 
+25 A Not that I recall, no.  1 
+2 
+3 Q 
+A 
+Q Okay. I understand on January 6th you were traveling abroad, correct? 
+I was. I was in Israel. 
+Okay. When did you first have indication that there was violence at the 8 
+4 Capitol, and how did you get that information? 
+5 A I came back from dinner, and we turned on the TV and we watched it. That 
+6 was the first time I had any indication of it. 
+7 Q When you first had the indication of it, did you take any action, make any 
+8 inquiries to get more information? 
+9 A Again, it was very late at night. Again, I don't recall. We were watching it 
+10 live on TV. Obviously, I had concerns about what was going on, but I don't recall making 
+11 any calls. 
+12 
+13 
+14 
+15 Q 
+A 
+Q 
+A 
+16 that point. 
+17 Q Okay. Did you speak to anyone at the White House, for example? 
+Not that I recall. 
+Okay. Not the President, not Mr. Meadows? 
+I definitely didn't speak to the President and didn't speak to Mr. Meadows at 
+Okay. How about within your own organization, within the Treasury, did 
+18 you call back to see if the events were in any way causing concern or affecting the 
+19 Treasury Department? 
+20 A I was in regular communication with the Treasurer, and it was not impacting 
+21 the Treasury at all. We were normally functioning. 
+22 Q All right. So did you have any concerns about a security threat to the 
+23 facility at Treasury? 
+24 A I had the Secret Service with me, and, you know, they would advise me if 
+25 there was such a situation, and we did not have any of those concerns.  1 Q All right. How about discussions with anyone at Treasury or elsewhere 
+2 about the stability of financial systems or markets, either on or after January 6th, did you 
+3 have any of those concerns or discussions? 
+4 A I did not have those concerns. The markets were functioning, fully 
+5 functioning. There were plenty of other times that I had those concerns while I was in 
+6 office and we appropriately dealt with them, but the markets were functioning normally. 
+7 Q Understood. Okay. Did you have any conversations with Vice President 
+8 Pence that day? 
+9 A I had no conversations with him that day. I did have conversations with 
+10 him later in the week. 
+11 Q Okay. Tell us about that conversation after January 6th and the election 
+12 had been certified. Tell us about any conversations you had with Vice President Pence. 
+13 
+14 events. 
+15 
+16 A 
+Q 
+A Again, I had a normal conversation with him just to check in, given the 
+Tell us what you said to him and what he said back to you. 
+Again, I wanted to make sure that he was okay. And, again, we just talked 
+17 about the normal functioning of government. 
+18 Q Did you express thanks or admiration or compliment him on the steps that 
+19 he took on the 6th? 
+20 A I appreciated what he did, but I don't --I don't specifically remember that 
+21 conversation. 9 
+22 Q Okay. Did he say anything, share anything with you about his experience or 
+23 anything that had happened? 
+24 A He did not go into the details. I obviously had read a bunch of it in the 
+25 press.  1 Q Okay. We'll talk a little bit more here about efforts, discussions about 
+2 things to do and some of the transition. 
+3 Anything at all, though, with Vice President Pence about the events of the 6th? 
+4 Nothing else? 
+5 
+6 A 
+Q No. 
+How about military leaders or Members of Congress, did you ever speak to 
+7 any of them about the events of the 6th? 
+8 A I don't recall speaking to Members of Congress, I think only because in one 
+9 of the questions that you sent me you referenced that General Milley referenced a 
+10 conversation that he and myself and Secretary Pompeo had had. 10 
+11 Q Yes. Yeah. Let's go to that. Do you recall a conversation where General 
+12 Milley was present where you were talking to Secretary Pompeo? 
+13 A I believe --I believe it must have been a meeting, a normal meeting in the 
+14 Situation Room. It was probably a Principals Committee meeting, because I don't recall 
+15 having seen him other than that period of time. And we may have had a casual 
+16 conversation on the sidelines of that. 
+17 Q Okay. And do you recall anything specific about that casual conversation? 
+18 A Again, I recall that, you know, we felt there was the normal functioning of 
+19 government. And, again, putting aside the election issues, we all had a lot to do and 
+20 government was functioning. 
+21 Q Yeah. Let me just read you what General Milley testified when he was here 
+22 before the select committee. 
+23 He was asked, "Do you remember on the 6th or days thereafter any discussion of 
+24 the potential invocation of the 25th Amendment?" 
+25 He said, "Yes. So I'm not a member of the Cabinet and I have no role whatsoever  11 
+1 in the 25th Amendment, but there was at least one or two occasions when other 
+2 members of the Cabinet mentioned it very brief, like 10 seconds, 15 seconds. And then 
+3 they looked and they saw that I was standing there and, knowing that I'm not a member 
+4 of the Cabinet, they shut up." 
+5 
+6 
+7 
+8 Question: "Who were they?" 
+Answer: "Steve Mnuchin, Pompeo. I think that's it, those two." 
+"What do you remember them saying?" 
+General Milley said, "It was just a discussion. They were talking about something 
+9 and then the term '25th Amendment' comes up. I'm there. I'm like from here to here 
+10 away." And he literally was about as far as I am from you. "And then they look, they 
+11 see me, they know I'm not a member of the Cabinet, so they ceased the discussion." 
+12 That ring any bells, or do you recall talking to Secretary Pompeo in General 
+13 Milley's presence about the 25th Amendment? 
+14 A I mean, I do recall speaking to Secretary Pompeo about the 25th 
+15 Amendment. I don't recall it being in that circumstance, and I surely don't recall that I 
+16 stopped the conversation when General Milley came up. 
+17 Q Okay. Let's talk then about your conversations with Secretary Pompeo or 
+18 others about that topic of the 25th Amendment. 
+19 Tell me, when was the first time that you had any such discussion, either on or 
+20 after January 6th? 
+21 
+22 
+23 A 
+Q 
+A Okay. Again, I just want to put this in perspective on timing. 
+Yes. 
+So I think, as you are aware, kind of during the month of December I was 
+24 very, very busy negotiating with Congress both what was the CARES Act and 
+25 the additional funding of government, which I believe President Trump signed on  12 
+1 December 28th. So that was really my full-time focus. 
+2 I then ended up leaving shortly for vacation. I came back. And then I went on a 
+3 planned trip to Egypt, Sudan, and other countries in the Mideast. I cut that trip short, 
+4 and then I came back. 
+5 So I believe the conversation that you're referencing must have been, you 
+6 know --we can check the exact date I got back, but it was not in the first few days. 
+7 
+8 Q 
+A I see. 
+So, again, my conversations with Secretary Pompeo, when I got back, this 
+9 was all over the press. So every time you turned on TV, there was the 25th Amendment. 
+10 It came up very briefly in our conversation. We both believed that the best 
+11 outcome was a normal transition of power, which was working, and neither one of us 
+12 contemplated in any serious format the 25th Amendment. 
+13 Q I see. Did you or anyone on your behalf do any kind of research into the 
+14 predicates for the invocation of the act or sort of --
+15 A The only research I did out of curiosity was I googled it. It came up. 
+16 remember my general counsel asking me if we wanted him to do extensive research on it. 
+17 I said, no, not at this point. 
+Q Okay. I see Ms. Lofgren has joined us, a member of the committee. 18 
+19 
+20 So you talked to Secretary Pompeo about that prospect? 
+A Again, it came up in a conversation. I can't recall in date whether it was in 
+21 the conversation with General Milley or whether it was in a different conversation that 
+22 we had. 
+23 Q Okay. Do you remember talking about the 25th Amendment with any 
+24 other members of the President's Cabinet? 
+25 A I don't.  13 
+1 Q Okay. Do you remember talking about it on the telephone in addition to 
+2 the in-person discussion that General Milley referenced? 
+3 A I recall discussing it on the telephone. I don't particularly recall the 
+4 meeting with General Milley. But, again, it sounds like a meeting where the three of us 
+5 were together in the Situation Room. 
+6 
+7 
+8 
+9 
+10 
+11 
+12 Q 
+A 
+Q 
+A 
+Q 
+A 
+Q Okay. Do you recall a telephone conversation with Pompeo about it? 
+Yes. 
+I see. Anyone else that you talked to on the phone? 
+No. 
+All right. There's a --let me read you a passage from Jonathan Karl's book. 
+I'm familiar with it, but go ahead. 
+He said, "Mnuchin did have conversations with other members, plural, of the 
+13 Cabinet that night, January 6th, and the next morning on a step much more dramatic than 
+14 issuing a statement. According to a source familiar with the conversations, Mnuchin 
+15 talked to other members of the Cabinet about attempting to remove Trump from office 
+16 by invoking the 25th Amendment. Among the Cabinet officials Mnuchin spoke to that 
+17 night was Secretary of State Pompeo." 
+18 Again, is that accurate? Does that refresh any recollection? 
+19 A It is completely inaccurate. I can tell you I did speak to Jonathan Karl on 
+20 background. What I told him --he asked me about the 25th Amendment. I said that I 
+21 was not going to make any comments on the 25th Amendment, that I didn't think it was 
+22 appropriate in that format, and that he shouldn't take that as meaning that there were 
+23 conversations or there weren't conversations. 
+24 He also asked me whether I had a conversation separately with Secretary Pompeo, 
+25 and I answered I had spoken to Secretary Pompeo after January 6th, not referencing that  14 
+1 I spoke to him about the 25th Amendment. 
+2 So if he has that information from other people, I believe it's inaccurate. 
+3 Q I see. Okay. And I take it from your answer, Secretary Mnuchin, that you 
+4 never personally formed the view that President Trump was incapable of carrying out the 
+5 functions of the office or had mental illness sufficient to trigger invocation of the 25th 
+6 Amendment. 
+7 A Again, I never did the legal research on the 25th Amendment. But, again, 
+8 putting aside the elections, I believed that he was able to and we did have a normal 
+9 functioning of the government. 
+10 Q I see. Did you ever speak to Vice President Pence or any members of his 
+11 staff about the 25th Amendment? 
+12 
+13 A 
+Q I don't recall. 
+Okay. So just to be clear, you don't remember any conversations with 
+14 anyone other than Secretary Pompeo? 
+15 
+16 A 
+Q That's correct. 
+Okay. All right. Let me ask you about some other steps that were 
+17 discussed in the days after January 6th to ensure functioning of government and a 
+18 transition. 
+19 We interviewed Secretary Scalia, and he told us that he thought perhaps a Cabinet 
+20 meeting should be convened and that the Cabinet should be more directly involved in big 
+21 decisions in the last 2 weeks of the administration. 
+22 Do you remember hearing about that or having --
+23 
+24 
+25 A 
+Q 
+A I do not. 
+Okay. You didn't talk to Scalia or others? 
+Again, I may have spoken to Scalia during that period. I don't ever  15 
+1 remember having a conversation as you've described and him saying there should be a 
+2 Cabinet meeting. 
+Okay. Did anyone raise that prospect with you? 3 
+4 Q 
+A No. I mean, I would also just say in terms of Cabinet meetings, most of the 
+5 functioning of the government that we did was outside of Cabinet meetings. So it would 
+6 be a little bit of an odd request. 
+7 Q Yeah. Were there any discussions about, beyond the 25th Amendment or a 
+8 Cabinet meeting, other steps that should be taken to ensure smooth function of 
+9 government between January 6th and January 20th that you were involved in yourself? 
+10 
+11 A 
+Q I'm sorry, give that to me again. 
+Were there any other steps discussed, that you discussed with anybody else, 
+12 about specific things that needed to be done, so in the wake of January 6th, to make sure 
+13 that the term was finished appropriately? 
+14 A Not in the wake of January 6th. There were other things that were part of 
+15 a normal transition that were discussed, things that are similar to any other Presidential 
+16 transition, and they were proceeding properly. 
+17 Q Okay. Did you ever at any time perceive resistance to cooperating with the 
+18 transition, even going back before January 6th, from the White House or anyone else? 
+19 A So if you recall, I believe it was in late November, the GSA certified the funds 
+20 for the transition committee. 
+21 
+22 Q 
+A Right. 
+We had been working internally on transition plans before the election, 
+23 which is required no matter who wins the election. We continued to work on them. 
+24 And then I believe it was after November 26th or 28th, I forget what the date was, 
+25 when that was certified we were told by the White House that we could proceed and  16 
+1 speak to --in that case, I spoke to Janet Yellen several times. 
+2 
+3 
+4 Q 
+A 
+Q Okay. I think that's called ascertainment or something like that. 
+You can google the document. It's out there. 
+Yeah. But it sounds like once that occurred, the funds were appropriated, 
+5 there was no --you never perceived any resistance. 
+6 A No, none whatsoever. We had professional career staff who were working 
+7 on it. As I said, I had several conversations with Janet Yellen during that period of time. 
+8 
+9 Q I see. Okay. 
+I see that Mr. Aguilar has joined us as well, a second member of the committee. 
+10 All right. So several of your colleagues in the Cabinet did resign, right, on or soon 
+11 after January 6th. Did you have any conversations with either Secretary DeVos or 
+12 Secretary Chao about their decisions to resign? 
+13 
+14 
+15 A 
+Q 
+A I did not. 
+Did you yourself consider resigning? 
+I absolutely didn't. And let me be clear. I absolutely believed that the 
+16 best thing I could do to serve the American people was to continue in my job. As I said, 
+17 we had a lot of work to do in those last 2 weeks. 
+18 Q Yeah. Do you remember discussions with anyone who didn't resign who 
+19 was contemplating it, Cabinet or otherwise, as a result of January 6th? 
+20 A No. I'd say everybody else who didn't resign, again, there was a lot of work 
+21 going on independent of the election. Again, as it relates to the CARES Act, we had a lot 
+22 of work we were working on right until the very end. 
+23 Q Yeah. Just going back, looking over my notes, Secretary Mnuchin, you 
+24 issued a statement by tweet on the night of January 6th. I guess it was very late at night 
+25 where you were in Israel.  17 
+1 "Violence is always unacceptable. We must respect our Constitution and 
+2 democratic processes." 
+3 It's something that was drafted for you, you drafted yourself? Do you recall how 
+4 that came about? 
+5 A It was a combination. Typical of these types of tweets, it was a 
+6 combination of myself, my communications staff, and other staff members. But I signed 
+7 off on that tweet. 
+8 Q Okay. And why was it important to use those words or to issue that 
+9 message, in your view? 
+10 A I thought it was important. I was out of the country. And, obviously, this 
+11 was something I was watching on TV. And I thought it was appropriate. 
+12 Q When you say, "We must respect our Constitution and democratic 
+13 processes," why --beyond violence --why did you feel it necessary to include a reference 
+14 to the Constitution and the democratic process? 
+15 A Again, I thought it was appropriate. I can't remember the specific things. 
+16 But, again, it was --we thought it was appropriate. 
+17 
+18 
+19 
+20 
+21 Q 
+A 
+Q 
+A 
+Q Okay. Did you clear that or notify the White House in any way before --
+1 did not. 
+You were able, as a Cabinet Secretary -­
+But I wouldn't normally have done that. 
+Yeah. Okay. Okay. All right. 
+22 So, again, no conversations with DeVos or Chao or anyone else about resignations, 
+23 that you remember? 
+24 
+25 A 
+Q I don't recall anything, no. 
+Okay. You mentioned a conversation with Vice President Pence. Is there  18 
+1 anything else or any other conversations with him that you had, either about January 6th 
+2 or about sort of transition or the last 2 weeks? 
+3 
+4 
+5 
+6 A 
+Q 
+A 
+Q I just recall one conversation with him during that period of time. 
+Yeah. The one you mentioned earlier? 
+Yes. 
+Okay. I also wanted to ask you about a name of Jeff Clark. Do you know 
+7 Jeff Clark, who was a lawyer at the Justice Department? 
+8 A Yes. 
+9 Q How do you know Jeff Clark? 
+10 A Yeah. I met Jeff Clark --so let me be clear. I didn't have any 
+11 conversations during this period of time with Jeff Clark whatsoever. I met Jeff Clark 
+12 socially earlier on, and he was involved in certain areas around animal rights and other 
+13 things that we had an interest in. But I never --I never spoke to him within the period 
+14 of, you know, kind of January on. 
+15 Q Okay. So you didn't have any discussions with him about his interest in 
+16 election fraud? 
+17 
+18 A 
+Q No. I was --I watched on TV and was surprised. 
+I see. Okay. Certainly no discussions with anyone about him becoming 
+19 Acting Attorney General? 
+20 A Absolutely not. 
+21 
+22 
+23 
+24 
+25 Q 
+A 
+Q Okay. Discussion with the President about him, did you ever -­
+No. 
+Okay. All right. 
+Mr. Aguilar or Ms. Lofgren, do you have any questions? 
+Ms. Lofgren. No, thank you.  Mr. Aguilar. No questions. 
+No? Okay. 
+-anything? 
+BY 19 
+1 
+2 
+3 
+4 
+5 Q Mr. Mnuchin, I just wanted to go back real quick to your conversations with 
+6 Secretary Pompeo. 
+7 So just so I'm clear, did you say there are two separate conversations that you can 
+8 recall with Secretary Pompeo, one in the Situation Room and another over the phone, 
+9 where the 25th Amendment was brought up? 
+10 
+11 
+12 A 
+Q 
+A So, again, I recall the conversation over the phone. 
+Okay. 
+Again, since you've referenced to me and General Milley said, I have no 
+13 reason to believe he's not accurate, but I don't remember that conversation. 
+14 
+15 
+16 Q 
+A 
+Q So you recall one phone conversation? 
+I do. But the other one may have been the case. 
+Do you recall, just generally, the 25th Amendment coming up more than 
+17 once in conversations that you had during the post-January 6th time period? 
+18 A Again, what I recall was it was all over the press, and everybody was 
+19 tweeting about it, and my name was in a lot of the tweets, again, you know, from the 
+20 period I was coming back for the next 1 or 2 days. And, you know, so, again, it came up 
+21 in that context and then, no, we didn't discuss it after that. 
+22 
+23 Q 
+A And what do you recall Secretary Pompeo saying to you on the topic? 
+Again, I think we both had the same view, which was, you know, we were 
+24 supportive of an orderly transition of government, and we saw the government 
+25 functioning and thought that was the best outcome.  20 
+1 Q Did Secretary Pompeo share with you if he was talking to anyone else about 
+2 the topic? 
+3 
+4 A 
+Q He didn't share that. 
+And it sounds like he was not of the opinion, from what you could tell, about 
+5 invoking the 25th Amendment? 
+6 A I think we were both of the opinion at that time that the best thing was to 
+7 proceed with a normal transition of power. 
+8 BY 
+9 
+10 20th? 
+11 
+12 
+13 
+14 Q 
+A 
+Q 
+A 
+Q Have you talked to President Trump since you both left office January the 
+I have. 
+Have you talked to him at all about January 6th? 
+I have not. 
+Okay. How about about your testimony today? Other than your lawyers, 
+15 I don't want to hear about your conversations with them, but have you talked to anyone 
+16 else about the fact that you were going to be here talking to us today? 
+17 A I told my wife and I told people in my office today in case this leaked into the 
+18 press they were not surprised. 
+19 Q Yeah. Okay. But --and I appreciate that. But sort of on the merits, any 
+20 substantive discussion with --
+21 
+22 
+23 
+24 A 
+Q 
+A 
+Q None. 
+--anyone else about the subject matter of your testimony? 
+No. 
+Okay. And fairly --another standard question. Did anyone in any way try 
+25 to influence your testimony, encourage you to do or not do certain things when you  1 provide information to us? 
+2 A No. And, again, I just want to clarify one thing since I did reach out to 
+3 Secretary Pompeo to get his lawyer's information and put our lawyers in touch. That 
+4 was the extent of my conversation with him about today. 
+5 
+6 Q I appreciate that. Okay. 
+Okay. I don't have any other questions. And if Ms. Lofgren or 
+7 Mr. Aguilar do not either, then I think we can go off the record. 
+8 [Whereupon, at 2:35 p.m., the interview was concluded.] 21  1 
+2 
+3 Certificate of Deponent/Interviewee 
+4 I have read the foregoing __ pages, which contain the correct transcript of the 
+5 answers made by me to the questions therein recorded. 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 Witness Name 
+Date 22 

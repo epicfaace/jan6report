@@ -1,0 +1,2731 @@
+1 
+2 
+3 
+4 SELECT COMMITTEE TO INVESTIGATE THE 
+5 JANUARY 6TH ATTACK ON THE U.S. CAPITOL, 
+6 U.S. HOUSE OF REPRESENTATIVES, 
+7 WASHINGTON, D.C. 
+8 
+9 
+10 
+11 INTERVIEW OF: JOSH FINDLAY 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 Wednesday, May 25, 2022 
+Washington, D.C. 
+The deposition in the above matter was held via Zoom, commencing at 1:03 p.m. 
+Present: Representative Aguilar. 1  1 
+2 Appearances: 
+3 
+4 
+5 For the SELECT COMMITTEE TO INVESTIGATE 
+6 THE JANUARY 6TH ATTACK ON THE U.S. CAPITOL: 
+7 
+8 
+9 
+10 
+11 
+12 STAFF ASSOCIATE 
+INVESTIGATIVE COUNSEL 
+INVESTIGATIVE COUNSEL 
+PROFESSIONAL STAFF MEMBER 
+13 For JOSH FINDLAY: 
+14 
+15 STEFAN PASSANTINO 
+16 Michael Best & Friedrich LLP 
+17 790 N. Water Street, 
+18 Suite 2500 
+19 Milwaukee, WI 53202 2  1 
+2 
+3 Ms. - Let's go on the record now. 
+All right. Good afternoon, this is a transcribed interview of Joshua Findlay, 
+4 conducted by the House Select Committee to Investigate the January 6th Attack on the 
+5 United States Capitol, pursuant to House Resolution 503. 
+6 At this time, I'd like to ask the witness to please state his full name and spell his 
+7 last name for our record. 
+8 
+9 
+10 
+11 Mr. Findlay. Joshua Jensen Findlay, F-i-n-d-1-a-y. 
+Ms.- Thankyou. 
+And, Counsel, could you please also identify yourself for the record. 
+Mr. Passantino. Yes, Stefan Passantino. Last name, Pas in Paul, -a-s-s-as in 
+12 Sam, -a-n-t-i-n-o. 
+Ms.- Great. Thank you. 3 
+13 
+14 So I have some preliminaries to go over before we get started for our conversation 
+15 today. Before we do so, I want to note that you're appearing here voluntarily, Mr. 
+16 Findlay, and we really appreciate that cooperation. 
+17 So today this will be a staff-led interview. Members of the select committee 
+18 may, of course, choose to join us during the day --to join us for the questioning. If they 
+19 do log in, you'll be able to see them on the participant list on our Zoom screen here, and 
+20 we will do our best to note their appearance for the record and for your awareness as 
+21 well. 
+22 If they do join, they may, of course, choose to ask questions, and we'll take some 
+23 breaks to allow them to do so. 
+24 Again, as I introduced myself to you before we went on the record, my name is 
+25 I'm an investigative counsel for the select committee. I'm joined by a  4 
+1 couple of my colleagues today. 
+2 In the room with me here is professional staff member and 
+3 joining us remotely on the Webex is my colleague, investigative counsel-
+4 -
+5 We may have some other members of the select committee staff join us as well, 
+6 and you'll be able to see them on a participant list also. 
+7 So just a few ground rules to go over before we begin, which I'm sure will not be a 
+8 surprise to you. As you heard, there's an official reporter who is transcribing our 
+9 interview today. We are recording this virtual proceeding, but the reporter's transcript 
+10 is the official record of our interview today. You will have the opportunity, you and your 
+11 attorney, to review the transcript and suggest any corrections before it's finalized. 
+12 And because the official reporter is taking down the official record, 
+13 Mr. Passantino, we ask that you stay on camera if you are going to speak so that they can 
+14 see your face and your voice at the same time. 
+15 And we ask, Mr. Findlay, for a verbal response rather than a head nod or a shake 
+16 because the stenographer can't take down nonverbal responses. 
+17 And, although this is a voluntary interview, not under oath, I do want to remind 
+18 you that it is unlawful to deliberately provide false information to Congress. Do you 
+19 understand that? 
+20 
+21 Mr. Findlay. Yes. 
+Ms.- Okay. Thankyou. 
+22 So we really do want you to be able to understand our questions today, to be able 
+23 to answer them fully and truthfully. So, if any of my questions or those my colleagues 
+24 are unclear, please don't hesitate to ask us, and we're happy to clarify. 
+25 Similarly, if you don't know the answer to the question, please just say you don't  5 
+1 know or you can't recall as appropriate, but do keep in mind that we hope that --we 
+2 expect full answers to our questions today and for them to be truthful. 
+3 Logistically, please let us know if you need to take any breaks at all, both just for a 
+4 comfort break, especially due to the virtual environment here, or if you need to consult 
+5 with your counsel at any point during the day, just let us know. 
+6 I think that's it on my end. Anything else, any questions you have about the 
+7 proceeding? 
+8 Mr. Findlay. No. 
+9 Ms.- Okay. 
+10 And, Mr. Passantino, anything you would like to address before we go on? 
+11 
+12 
+13 
+14 
+15 Mr. Passantino. No. We're ready to proceed. 
+Ms.- Okay. Thankyou. 
+Q EXAMINATION 
+BYMS.-
+So, Mr. Findlay, could you please give me a brief description of your 
+16 background, starting with your educational background. 
+17 A Sure. I attended undergraduate at Brigham Young University in Utah. 
+18 attended law school at the University of Georgia School of Law. After that, I was an 
+19 attorney in private practice for about 5 years. 
+20 From there, I kind of transitioned into politics, working for --as the chief counsel 
+21 for a Member of Congress, working on various campaigns, mostly here in Georgia. 
+22 And then, in January of 2019, I moved to Washington, D.C. to work on the Trump 
+23 campaign. 
+24 Q Okay. Thank you. So, when you joined the Trump campaign in January of 
+25 2019, what was your position at that time?  1 
+2 
+3 A I was a regional director of party organization and delegates. 
+Q And what region were you responsible for? 
+A It was basically the southern third of the United States, West Virginia, 
+4 Virginia, down to Florida, and then from Florida west to Arizona. 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 Q Okay. And was that part of --
+A There's 20 States and territories. 
+Q You were responsible for 20 States? 
+A Yes. 
+Q Understood. Okay. Thank you. 
+And was this your role as part of the campaign's political operation or structure? 
+A Yes. 
+Q Okay. And how long did you hold that position of regional director? 
+A Until about June-ish of 2020. 
+Q And, in the summer of 2020, did you take on a new role within the Trump 
+15 campaign? 
+A Yes. 
+Q And what was that? 
+A Associate general counsel. 6 
+16 
+17 
+18 
+19 Q So, before taking on the associate general counsel role when you were in the 
+20 political operation, did you perform any function as an attorney for the campaign? 
+21 A Not really. So a lot of what I did dealt with getting delegates elected to the 
+22 National Convention, Presidential electors elected during that process. It all has a lot to 
+23 do with State party rules, State laws, things like that. And so I did a lot of --my legal 
+24 knowledge came in very practical, but it was also very much a political operation. 
+25 Q Understood. That's helpful. And so tell us more about the position that  7 
+1 you transitioned into in June, I think you said, of 2020 as associate general counsel. How 
+2 did your responsibilities change at that time? 
+3 A They changed who I reported to directly. I started reporting to General 
+4 Counsel Matt Morgan directly, and the work responsibilities changed significantly. I did 
+5 not do a lot of the litigation-type work at that time, but a lot of the kind of operational 
+6 work and advising the political operation on legal issues was kind of more what was in my 
+7 portfolio. 
+8 Q Okay. Thank you. And, before you became associate general counsel, to 
+9 whom did you report in your political role? 
+10 
+11 
+12 
+13 
+14 
+15 A 
+Q 
+A 
+Q 
+A 
+Q Nick Trainer. 
+And what was Mr. Trainer's position at that time? 
+The director of party organization and delegates. 
+Do you know who Mr. Trainer reported to? 
+Yes. Bill Stepien and Justin Clark. 
+Okay. Thank you. Who were at the time campaign manager and deputy 
+16 campaign manager? 
+17 A They weren't at the beginning. I think kind of when the transition 
+18 happened, Bill was a deputy campaign manager; Justin was the general counsel at that 
+19 time. 
+20 Q Okay. Thank you. So you said that you --in your role as associate general 
+21 counsel, you were still providing advice to the political operation. The work that you 
+22 had described related to the delegates and electors. 
+23 Was that all work that you did prior to --you know, was that work concluded 
+24 when you made the transition to the associate general counsel role? 
+25 A Yes, it was.  8 
+1 Q Okay. Had you had any experience with delegates or Presidential electors 
+2 before? 
+A Not prior to the campaign, no. 3 
+4 
+5 
+6 Q Okay. Did you stay in the associate general counsel role until election day? 
+A Yes. 
+Q Okay. And how long did you stay employed by the Trump campaign after 
+7 election day? 
+8 
+9 A Until December 15th. 
+Q And until December 15th, did you remain in the role as associate general 
+10 counsel, or did it change? 
+11 
+12 A No, I was still in that role. 
+Q Okay. So tell us a little bit about what your employment, you know, history 
+13 has been after December 15th. Where did you go to work after leaving the campaign? 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 A After December 15th? 
+Q Uh-huh. 
+A I went down to Georgia to work on the U.S. Senate race, the runoff. 
+Q And who was your employer at that time? 
+A I didn't have an employer. I was paid contract by the NRSC. 
+Q Okay. And how long did you remain as a contractor for the NRSC? 
+A Until --until about January 6th-ish, 7th-ish, somewhere in there. 
+Q Just after the runoff for the Senate races? 
+A Correct. 
+Q Okay. And what else? What did you do next? What was your next job 
+24 after the Senate runoff concluded? 
+25 A I didn't really have --well, the next job I got was the --with the Republican  1 National Committee as the national director of election integrity. So I was off for about 
+2 3 months until I took that job. 
+3 
+4 
+5 Q 
+A 
+Q Okay. Great. And where are you employed now? 
+At the RNC. 
+Okay. Great. All right. And generally, when you were in Georgia during 
+6 the time period from December 15th through the runoff elections, just generally, what 
+7 were your responsibilities? 
+8 
+9 
+10 
+11 A 
+Q 
+A 
+Q I worked on advising the war room down here, down in Georgia. 
+Providing legal advice or political advice? 
+A little bit of both. 
+Okay. Great. Let's see. So I want to focus on the time period --most of 
+12 our discussions today are going to be focused on our time period from election day 
+13 through January 6th for what, I'm sure, are obvious reasons. 
+14 And so to the extent that my questions aren't clear, you know, my intention is to 
+15 focus on that time period, and I'll let you know if there's something that's relevant from 
+16 the earlier time, like, for instance, your experience during the summer with securing 
+17 Presidential electors might become relevant to some of the things we're talking about. 
+18 But, generally speaking, we're looking at the post-election time period, and it 
+19 really falls under, you know, the charge of the select committee to investigate the causes 
+20 of January 6th. 
+21 So, during that post-election time period, I'd like to get a little bit, before we go 9 
+22 into some of your memories of, you know, facts, to get a little bit better sense of who you 
+23 were advising or who you were working with in the campaign. 
+24 So I know that you identified Matt Morgan as your direct supervisor in your 
+25 position as associate general counsel. Did you have an understanding of who  10 
+1 Mr. Morgan was reporting to during that time period? 
+Yes. 
+Who was that? 
+Bill Stepien and Justin Clark. 2 
+3 
+4 
+5 A 
+Q 
+A 
+Q And you say both of them. Did you report, you know, sort of a dual line to 
+6 each? 
+7 
+8 A 
+Q Yes. 
+Okay. And who --were there other associate general counsels with whom 
+9 you were working during that time period? 
+10 
+11 
+12 A 
+Q 
+A 
+13 main three. 
+14 Q Yes. 
+Who were they? 
+Elliot Gaiser, Joe Mazara (ph), Stuart McCommas. Those were probably the 
+Okay. Great. I'd just like to note for your awareness and for the record 
+15 that Representative Aguilar has joined us. 
+16 Good afternoon, Congressman. 
+17 So, in addition to Mr. Morgan, Mr. Stepien, and Mr. Clark, were there other senior 
+18 officials of the campaign that you had, you know, direct interaction with during the 
+19 post-election time period? 
+20 A Not really direct interaction. I mean, we were in the same office, but those 
+21 were the three that I mainly worked with. 
+22 Q Okay. And what about to the candidate or candidates themselves, did you 
+23 have any direct interaction with President Trump after the election? 
+24 
+25 A 
+Q Not really. 
+Okay. Tell me a little bit more about "not really." Is it a no or a maybe  1 or --
+2 A So it was essentially a no, right? Like, we went and took pictures one day. 
+3 We were at the same Christmas party, but not in any work function. 
+4 Q Understood. So more of a group environment rather than a one-on-one 
+5 conversation. Is that fair? 
+6 
+7 
+8 
+9 A 
+Q 
+A 
+Q Correct, yes. 
+Okay. And is the same true for Vice President Pence? 
+Yes. 
+Okay. And I know you told us that, in your role as associate general 
+10 counsel, you didn't have direct responsibility for litigation efforts, but did you have any 
+11 interaction with outside counsel retained to represent the campaign? 
+12 
+13 A 
+Q No, not that I recall. 
+Okay. Did that change at any point? I'm thinking in particular about, I 
+14 know there was a time period in, you know, in the early days after the election, but 11 
+15 mid-November, November 14th I think, where President Trump announced that he would 
+16 put Rudy Giuliani in charge of litigation efforts. 
+17 What about Mr. Giuliani's team, which I know might not be considered outside 
+18 counsel, did you have direct interaction with Mr. Giuliani and his team? 
+19 
+20 A 
+Q No. 
+Okay. How about any other White House officials? So, again, during this 
+21 post-election time period, did you have any direct interaction with the White House 
+22 Counsel's Office? 
+23 
+24 
+25 A 
+Q 
+A No. 
+Okay. And what about with the chief of staff, Mr. Meadows? 
+No.  1 Q Okay. And how about a lawyer working in the White House named Eric 
+2 Herschmann, did you have any interaction with him after the election? 
+3 
+4 A 
+Q No. 
+Okay. How about the staff or lawyers working for Vice President Pence, 
+5 including Greg Jacob or Marc Short, did you have any interaction with them after the 
+6 election? 
+7 
+8 A 
+Q No. 
+Okay. What about members of the campaign --well, let me rephrase. 
+9 understand there were some folks that were working with the campaign or for the 
+10 campaign before Mayor Giuliani was put in charge of litigation efforts, but then, you 
+11 know, sort of became a part of his team. I'm thinking of one in particular, Boris 
+12 Epshteyn. 
+13 Did you interact with him after the election? 
+14 
+15 
+16 
+17 A 
+Q 
+A 
+Q No. 
+Okay. Is he known to you? 
+Yes. 
+Did you work with him at all before election, you know, during your 
+18 time --the entirety of your time working for the Trump campaign? 
+No. 12 
+19 
+20 A 
+Q Okay. Did you have a sense for what role he was hired to play or what his, 
+21 you know, job function was in the Trump campaign? 
+22 A My understanding was that generally he did communications, but I did not 
+23 really have any interactions with him. 
+24 
+25 Q 
+A Okay. Did you understand him to be a lawyer representing the campaign? 
+No, I don't believe so.  13 
+1 Q Okay. What about Jenna Ellis, same questions, did you have any 
+2 interactions with her after the election? 
+3 
+4 A 
+Q No. 
+And what about just generally during, you know, the entirety of your time 
+5 period working for the Trump campaign, did you interact with Ms. Ellis? 
+6 
+7 A 
+Q I don't believe so. 
+Okay. And did you understand her role to be more of a communications 
+8 job, or did you consider her to be a lawyer, working, you know, representing the 
+9 campaign? 
+10 
+11 A 
+Q More of a communications job. 
+Okay. Okay. Thank you. 
+12 So anything else that I've missed as far as just general background on your jobs or 
+13 responsibilities during the Trump campaign? 
+14 
+15 A 
+Q I don't think so. 
+Okay. So let's get into the sort of facts here, and I think mostly we'll talk 
+16 about this chronologically unless there's something that pops up to you that you think is 
+17 relevant kind of out of order. 
+18 But, from my concept in thinking about election day and immediately after, the 
+19 first area that I want to ask you about and that I think you have some knowledge of were 
+20 efforts to gather information or allegations or even evidence about election fraud 
+21 allegations. 
+22 Were you involved in any such efforts related to election fraud allegations after 
+23 the November 3rd, 2020, election? 
+24 
+25 A 
+Q Yes. 
+Okay. Tell me a little bit about that. Just generally speaking, what was  14 
+1 your involvement with that effort? 
+2 A So, after the election, the legal team kind of divided up into States of 
+3 responsibility, and the State that I was assigned was Georgia. And, as kind of allegations 
+4 about different, you know, election issues arose, we were asked to kind of look into them 
+5 and see if there was any merit, so talk to the people, you know, staff people on the 
+6 ground, allies on the ground, to kind of find out the facts around whatever allegations 
+7 arose. 
+8 Q Okay. That's very helpful. So you said that the legal team was divided up 
+9 and sort of assigned States. First question is, do you remember how many States were 
+10 assigned in this fashion? 
+11 
+12 
+13 A 
+Q 
+A I think it was roughly six. 
+Okay. And do you remember which States they were? 
+I am pretty sure --so I was very focused on Georgia at this time, but I'm 
+14 pretty sure it would've been Pennsylvania, Michigan, Wisconsin, Georgia obviously, 
+15 Arizona, and Nevada. 
+16 Q Okay. And how soon after November 3rd were you assigned to, you know, 
+17 the responsibility for Georgia? 
+18 A Well, immediately after November 3rd, I guess I was assigned to Georgia. 
+19 There are 3 days that you have to cure provisional ballots, and the first project we had 
+20 was curing the provisional ballots, and so that was the first kind of operation that we did 
+21 in Georgia. 
+22 Q Understood. So it's within that --in enough time to be useful in reaching 
+23 out to voters during these 3 days, I assume? 
+24 
+25 A 
+Q Correct. 
+Okay. Curious how the six States came to be. Those ultimately  15 
+1 were --they fit the description of the, you know, ultimately the six States that were, I 
+2 would say, in some manner contested by the Trump campaign but that had been declared 
+3 for the Biden-Harris campaign. 
+4 Do you remember when the decision was made for these six States to be assigned 
+5 in this manner? 
+6 A I don't know about the other States. So what we were doing in all of the 
+7 competitive States was, you know, checking the legal process, kind of like we were doing 
+8 in Georgia, right? Are there provisional ballots that need to be cured? Is there a 
+9 provision for a runoff if it's under a certain percentage? Things like that. 
+10 So, in States where there was still --the margin was within the legal process or 
+11 there were still ballots to be counted or cured, or whatever it was, we were following the 
+12 process to take care of those issues. 
+13 Q Okay. Thank you. And who was supervising the effort? Who gave you 
+14 the assignment to do Georgia? 
+15 
+16 A 
+Q Matt Morgan. 
+Okay. And were the other lawyers that were assigned a State like you were 
+17 also associate general counsels working with Matt Morgan? 
+18 
+19 A 
+Q Yes. 
+Okay. So tell us how generally did you --so, setting aside the provisional 
+20 ballots or investigating the State laws as far as the, you know, counting process, did you 
+21 at some point start investigating things that were allegations related to election fraud or 
+22 improprieties in some manner? 
+23 
+24 A 
+Q We didn't --so we did not do, like, hands-on investigations into those things. 
+What did you do? You know, generally describe it for us. I assume, were 
+25 things coming into you?  16 
+1 A So, yes. We had --the campaign had a hotline set up with, you know, all 
+2 kinds of issues that people were reporting. We had election --I guess EDO operations 
+3 on the ground at that time that were taking in issues. 
+4 And, for the most part, it was the election day operations team that was doing a 
+5 lot of the kind of on-the-ground digging into issues. 
+6 Q Okay. And so, if things were coming in either through the hotline or 
+7 through the EDO operation, how did you receive that information, and what did you do 
+8 with it? 
+9 A So I received it primarily through our EDO's State director on the ground and 
+10 then would report the issues that we were hearing to Matt, Bill, and Justin. 
+11 Q Okay. And not a memory test for what was, I'm sure, a large volume of 
+12 information, but if you can give us a sort of general description of what were the types of 
+13 allegations or complaints that you were receiving at this time? 
+14 Mr. Passantino. Were you able to hear? You broke up on us. I'm sorry. Can 
+15 you repeat that question? 
+16 Ms. - Oh, sure, no problem. 
+17 BYMS.-
+18 Q So, Mr. Findlay, I'm not asking you to identify them in any, you know, 
+19 specificity, especially after this long time, but if you can give us a general description, 
+20 what were the type of complaints or allegations that you were receiving during this time? 
+21 A Sure. So, for example, a lot of individual voters were complaining that they 
+22 had been told they had already voted when they went to the polling locations. I guess 
+23 the water main break in Fulton County was something that came across there. 
+24 So it was a lot of individual complaints, but also some kind of big-picture 
+25 complaints.  17 
+1 Q Okay. And I know you said you didn't have a lot of hands-on investigation, 
+2 you know, responsibility, but what did you do with the complaints or allegations once 
+3 they came in? 
+4 A So mostly talked to the team on the ground and see what kind of facts they 
+5 were finding about these issues and then report to Matt and Bill and Justin for any 
+6 decisions, if things needed further action. 
+7 Q Okay. Earlier you said that there was an EDO State director. Who was 
+8 that person for Georgia? 
+9 
+10 A 
+Q Robert Sinerse (ph). 
+Okay. So, as an example, I know you highlighted the water main break, an 
+11 allegation related to the Fulton County absentee ballot processing facility at State Farm 
+12 Arena. Is that fair, my description? 
+13 A Yes. 
+14 Q Okay. Did you hear other things in the early, you know, November time 
+15 period about State Farm Arena? 
+16 A I mean, that was the main one and issues related to it. Everyone was 
+17 wondering what happens during that time. People were sent home and people were 
+18 wondering, you know, why they were sent home. They were wondering who was 
+19 monitoring the ballots while people were sent home. A lot of issues kind of related to 
+20 that. 
+21 Q Okay. And earlier you said that, you know, one of the things that you did 
+22 after receiving this was talk to the team on the ground. Did you specifically talk to 
+23 anyone in Georgia about these allegations related to State Farm Arena? 
+24 
+25 A 
+Q Yes, I would've talked to Robert about it. 
+Okay. And what did you learn from that discussion with Robert?  18 
+1 A Mostly that there was a lot of confusion about what really happened. We 
+2 were getting a lot of secondhand stories without a lot of --well, a lot of secondhand 
+3 stories, I would say. 
+4 Q Okay. Did you speak with anyone else about the State Farm Arena 
+5 allegations? 
+6 
+7 A I may have, but I don't recall any substantive conversation. 
+Q Okay. Did you speak with any government officials or law enforcement 
+8 regarding those allegations? 
+9 
+10 
+11 
+12 A No. 
+Q Okay. So nobody with the Secretary of State's Office in particular? 
+A No. 
+Q Okay. Any other --so, after learning what you could about the allegations 
+13 for State Farm Arena and acknowledging that there was a lot of confusion about it, did 
+14 you report up to Matt, Bill, and Justin about those allegations? 
+15 
+16 
+17 A Yes. 
+Q And what generally did you tell them? 
+A I relayed kind of the facts of the story, relayed kind of what the news was 
+18 saying about it, and then also kind of what our State director on the ground was saying. 
+19 Q Okay. Did you have any further involvement with the allegations related to 
+20 State Farm Arena? 
+21 
+22 A No. 
+Q Okay. I don't want to get us too off track, but later there came to be a time 
+23 where there was a State Senate hearing held in Georgia, and some video, direct from that 
+24 State Farm Arena, was played by a Trump lawyer, I believe, who represented herself to be 
+25 affiliated with the Trump campaign and Mr. Giuliani. Did you see that footage?  1 
+2 A 
+Q Yes. 
+Okay. Did you have any involvement in investigating or determining the 
+3 accuracy of that information? 
+4 
+5 A 
+Q No. 
+Okay. Are you aware of any other efforts that the campaign did to 
+6 determine the, you know, validity of any allegations related to State Farm Arena? 
+7 
+8 A 
+Q No. 
+Okay. So the process that you've described to us of, you know, receiving 
+9 information from either the EDO operation or the hotline --I don't want to 19 
+10 mischaracterize you at all, so please stop me if I am, but I generally heard you to say that 
+11 you, you know, did some work to gather and organize the information that was coming in 
+12 and discuss it with folks on the ground and then provided your assessment or, you know, 
+13 maybe conclusions to your superiors, to Mr. Morgan, Mr. Stepien, and Mr. Clark. Is that 
+14 fair? 
+15 
+16 A 
+Q Yes. 
+Were you involved in any other efforts to either receive or investigate 
+17 allegations of election fraud? 
+18 
+19 A 
+Q No. I mean, it was just kind of through that --that process. 
+Okay. And approximately, you know, how long after the election did you 
+20 remain involved in this process of receiving and kind of gathering information about 
+21 election fraud allegations? 
+22 A So I was updating on everything that was happening in Georgia kind of 
+23 through the end of my time on the campaign really. You know, at first, we were taking a 
+24 lot of incoming complaints and things like that, and so that a lot of my job was kind of 
+25 sorting through what was hearsay, what there was actual, you know, proof of, evidence  20 
+1 of, for lack of a better word, what could really be documented. 
+2 And then, as, I guess, other lawyers kind of took the lead, it was more monitoring 
+3 what lawsuits were being filed, what, you know, just essentially reading news articles and, 
+4 you know, court filings, and trying to find out what other lawyers related to the campaign 
+5 were doing. 
+6 Q Understood. And I think in the documents that we provided you through 
+7 our investigation, we have received what looks like a --we may have received it in a 
+8 couple of parts, but kind of a continuous, you know, email thread of you providing 
+9 updates to the campaign about what was happening in Georgia. Is that --you know 
+10 what the documents are that I'm referring to, right? 
+11 
+12 A 
+Q Yes. 
+Okay. And so is that --it's a very comprehensive report of activities in 
+13 Georgia. So I think is it fair to say that those emails kind of summarize what you were 
+14 observing and monitoring for the campaign in Georgia? 
+15 
+16 A 
+Q Yes. 
+Okay. So just to try to pin down the timeframe a little bit, I hear you to be 
+17 saying that, you know, you were involved, right after the election, in assessing, you know, 
+18 State laws in Georgia in the post-election time period, such as the requirement to cure 
+19 provisional ballots in 3 days, and then started to gather and organize this information 
+20 about election fraud allegations. At some point, did you kind of tie off that work and 
+21 switch gears? 
+22 
+23 A 
+Q Tie off which work? 
+The, you know, election fraud allegations. You were saying that this hotline 
+24 was set up and the EDO operation --
+25 A Yes.  21 
+1 Q --was sending stuff in. Correct me if I'm wrong, but I kind of get the 
+2 impression that that was probably quite busy for a time period and then maybe switched 
+3 gears to something else. Is that fair? 
+4 
+5 A 
+Q Yes, that's correct. 
+And, if you could help me pin it down, you know, about how long was that, 
+6 that you were focused on receiving and sort of investigating what was going on, on the 
+7 ground? 
+8 A I don't remember the exact time period, but it was probably for, like, a 
+9 couple of weeks after the election. 
+10 Q Okay. 
+11 A Really, I would say it marks --it kind of tracks with the times of the processes 
+12 in the State, right? So, you know, during the provisional-ballot-counting period, we 
+13 were getting a lot of questions during those days about provisional ballots and what it 
+14 looks like. 
+15 And then the secretary of state, you know, if you're under a half percent in 
+16 Georgia, then there's an automatic recount. So there were a lot of questions about 
+17 what that recount would look like, and so we had questions about the recount. 
+18 And then the secretary of state decided to do an audit. So there were a lot of 
+19 questions about, you know, what that audit was going to look like. 
+20 And so we were probably fielding complaints from, maybe, like I said, a couple of 
+21 weeks after the election, something like that. But really I, during that time, was more 
+22 focused on kind of these procedural things of, you know, the recount, the audit, that sort 
+23 of thing. 
+24 And so it was kind of a gradual transition as those other things took up more 
+25 intensity.  1 Q Okay. And were you in Arlington during that time period, or did you go 
+2 down to Georgia at some point? 
+3 
+4 A 
+Q I was in Arlington in that time period. 
+Okay. When did you go to Georgia? Was it when you switched gears to 
+5 be working on the Senate runoffs? 
+6 
+7 
+8 
+9 A 
+Q 
+A 
+Q Correct. 
+Okay. So after December 15th? 
+Yes. 
+Okay. So earlier I referred to a tweet that President Trump posted --I 
+10 believe it was November 14th --sort of announcing that he was going to transfer 
+11 leadership or control of the litigation efforts of the campaign to Mayor Giuliani. And I 
+12 believe you said you remembered that occurrence, right? 
+A Yes. 22 
+13 
+14 
+15 
+16 Q Okay. And you were still working in the Arlington headquarters during that 
+time period? 
+A Yes. 
+Q Okay. Were you involved in any meetings on the topic of who would be in 
+18 charge of the Trump campaign's litigation efforts? 
+19 
+20 
+21 A 
+Q 
+A No. 
+Were you generally aware of the fact that this transition was happening? 
+Yes. Well, so let me rephrase. I --there were meetings obviously as we 
+22 were talking about the transition going to somebody else, but I was not in, like, the 
+23 decisionmaking process. I was not with the President while those decisions were going. 
+24 
+25 Q Understood. Okay. That's really helpful. 
+And I think it's widely reported, but also has been confirmed in our investigation,  23 
+1 that Mr. Clark and Mr. Morgan in particular had a difference of strategy --a different 
+2 strategy that they were pursuing and had proposed for the campaign, than did 
+3 Mayor Giuliani and that those individuals, and I think more beyond them, perceived the 
+4 President putting Mayor Giuliani in charge as a decision not to follow the strategy that 
+5 Mr. Clark and Mr. Morgan were recommending. Is that fair and consistent with your 
+6 understanding of events? 
+7 
+8 A 
+Q Yes, it is. 
+Okay. What can you add to that for our understanding? Did you discuss 
+9 these events with Mr. Morgan or Mr. Clark? 
+10 A Yes. Yes. From my perspective, you know, the decisions were being 
+11 made, and they were kind of telling us that this is the direction that Rudy wants to go 
+12 with things. 
+13 To that point, like I said, we had been looking at what had been coming through 
+14 the hotline and everything else. And, at best, there was a lot of confusion; at worst, 
+15 there may not have been a lot of substance to a lot of what was being said. 
+16 But we just didn't know. There was a lot of unknowns at that point. And so, 
+17 you know, Matt and Justin decided that their track was probably the best advice to give 
+18 the President. Rudy had a difference of opinion. 
+19 And, you know, they kind of communicated that, based on what we were seeing, 
+20 that they thought their advice was the best way to go. 
+21 Q Understood. So what makes up your understanding or your assessment, 
+22 which is a helpful way of putting it --so thank you --you said that, at best, there was a lot 
+23 of confusing information about the election, and, at worst, maybe a lot of, you know, 
+24 sound but not a lot of substance. What are you basing that assessment on? 
+25 A What we were seeing, what I was seeing coming in through Georgia. Like I  24 
+1 said, at that point, we were having general meetings to talk about the other States and 
+2 what they were doing. But I was focused on Georgia. And, at this point, we were 
+3 going through the legal process, like I said, the ballots and the recount, and all of that sort 
+4 of thing, and we could see what was happening with the margins as they were going, and 
+5 kind of comparing that with the complaints that we were getting and the evidence that 
+6 we could gather based on those complaints. 
+7 It just kind of seemed like there was too much confusion to pursue a more 
+8 aggressive legal strategy at that point. You know, everyone is under tight deadlines in 
+9 the State, and there was just a lot of --a lot of more evidence-gathering to be done if we 
+10 were going to pursue a more aggressive strategy. 
+11 Q Understood. And the more aggressive strategy, is it fair to say that that 
+12 would have included --you know, you're not talking about, you know, filing deadlines 
+13 when it comes to how aggressive you are or something like that. Right? 
+14 Is it fair to say that the aggressive strategy would have included more aggressive 
+15 allegations about potential fraud or, you know, wrongdoing connected with the election? 
+16 Is that fair? 
+17 
+18 A 
+Q Yes. 
+Okay. And you've described to us your assessment and experience with the 
+19 information that you were receiving and speaking to people on the ground about in 
+20 Georgia. Was that a consistent experience to your colleagues who were focusing on 
+21 other States? 
+22 A I believe so. Like I said, we gave general updates on the States, but I would 
+23 say generally that was probably the case. 
+24 Q Okay. And so, just to be clear, in the process of, you know, your gathering 
+25 information related to Georgia and speaking to your colleagues about their efforts in  25 
+1 other contested States, did you ever come to learn of information that was, you know, 
+2 verifiable and --a verifiable allegation of election fraud that would've affected the 
+3 outcome of the election? 
+4 A So what we learned about was there was a lot of bad election 
+5 administration, and there was a lot of bad process that was going on. There was not a 
+6 lot of time to investigate a lot of the major claims of fraud that would've, like, flipped an 
+7 election, for example. 
+8 I think there were a lot of justifiable complaints about election administration 
+9 generally. But, you know, the big complaints that you would hear about, you know, 
+10 massive vote flips and things like that, we just didn't ever --at least in Georgia, we did not 
+11 ever find any evidence of that. 
+12 Q Okay. And did you ever learn from your colleagues or anyone else on the 
+13 Trump campaign whether there was, you know, known evidence of, you know, similar 
+14 types of election fraud in other States beyond Georgia? 
+15 A No, not that I know of. 
+16 Q Okay. Okay. Let me pause here just to see before I switch gears a little 
+17 bit, if anyone has any followup questions. 
+18 Okay. So, Mr. Findlay, I want to ask you about the role of State legislatures after 
+19 the election. And, first, before we talk about 2020, just want to ask you, in your 
+20 experience in politics or otherwise, going into the 2020 election, what was your 
+21 understanding of the role for a State legislature, if any role, after the election? 
+22 
+23 
+24 
+25 A 
+Q 
+A 
+Q Going into 2020? 
+Yes. 
+I was not too familiar with the process. 
+Okay. And you did have some experience in the 2020 cycle with --I know  26 
+1 you said convention delegates but also electors for the electoral college. Is that right? 
+2 A Yes. 
+3 Q So, generally tell us, what was your understanding of the electoral college 
+4 process? And if you want to, you know, include in that, you know, what type of work 
+5 you did for it in the summer, that would be helpful too. 
+6 A Sure. So Presidential electors and Presidential delegates to the National 
+7 Convention are generally --well, they're elected in different ways based on the State. 
+8 And they're generally elected kind of in parallel tracks. 
+9 So, you know, if the delegates are elected in a National Convention, a lot of times 
+10 the electors are as well, things like that. And they're elected kind of on the same 
+11 timeline. 
+12 So the main focus during the delegate selection process was more actually on the 
+13 delegates because, you know, theoretically they have a choice as to how to vote at a 
+14 convention. Most electors don't really have a choice as to how to vote, right? They're 
+15 bound by State law. 
+16 So, while we wanted, you know, strong Trump delegates --or excuse me --strong 
+17 Trump electors, the focus was more on the delegates during this time period. But the 
+18 process is usually parallel in the States, and so we also did a lot of elector work as well. 
+19 Q Okay. Great. And, when you're --when we're talking about electors 
+20 being elected in the summer, you mean elected through the process of, under State law, 
+21 of being named sort of to be the nominee that would ultimately serve as an elector in the 
+22 electoral college. Is that fair? 
+23 
+24 A 
+Q Yes. 
+I think we could possibly get into a place where, you know, the electors are 
+25 elected several times if we mince words because I understand that, under a lot of State  27 
+1 laws, the process of a Presidential election being conducted in the State is, under their 
+2 State law, is the process of the popular vote electing electors to the electoral college. Is 
+3 that fair? 
+4 
+5 A 
+Q Yes, that's right. 
+Okay. All right. So, at that time, you were responsible for, I think you said 
+6 20 States, right, so beyond just Georgia electoral college process? 
+7 
+8 A 
+Q Correct. 
+Okay. Great. Were you aware, before the election, of any discussion 
+9 about competing slates of electors? 
+10 
+11 A 
+Q No. 
+Okay. Were you aware of any historical precedent at that point for 
+12 competing slates of electors? 
+13 
+14 A 
+Q No. 
+Okay. There was an article in The Atlantic in September of 2020 that 
+15 discussed the outcome, you know, a potential outcome of the November Presidential 
+16 election and did describe the Trump campaign or the Republican Party contemplating 
+17 testing the assumption that electors would be chosen by the popular vote in the States. 
+18 Were you aware of that article at the time? 
+19 
+20 A 
+Q No. 
+Okay. Were you aware of any such communications either within the 
+21 Trump campaign or in the party? 
+22 
+23 A 
+Q 
+24 electors? 
+25 A No. 
+Okay. So when did you first hear this concept about competing slates of 
+I first heard about it probably around December 7th or 8th.  1 
+2 
+3 
+4 
+5 Q 
+A 
+Q 
+A 
+Q Okay. So more than a month after the election, right? 
+Correct. 
+Okay. How did you hear about it? 
+Through Matt Morgan, I believe. 
+Okay. And what did Mr. Morgan tell you? 28 
+6 A So that was around the time that the Texas attorney general filed --well, so 
+7 let me back up. Generally, we were going through the process of making sure that the 
+8 President's duly elected electors were going to show up and vote, right? Almost like a 
+9 ballot-access type of thing in the States where, you know, the electors were duly elected, 
+10 like I said. 
+11 Oh, my phone just turned on Google --
+12 
+13 
+14 Q 
+A --in this interview, yeah. 
+That's right, that's right. 
+So around --so we were going through that in the normal, you know, the States 
+15 that he won. Around that time, Matt came and said: You know, the attorney general 
+16 of Texas is filing this lawsuit with the Supreme Court. It is --this was different than 
+17 other lawsuits because this was attorney general. Other attorneys general had signed 
+18 onto it. It was going to the Supreme Court. 
+19 There was precedent from Hawaii of having, you know, other electors. If 
+20 something happens with the litigation and things, you know, happen to go the President's 
+21 way, we needed to be prepared for that. So he kind of said, what is --just kind of asked 
+22 the question of what can we do at that point to, you know, prepare electors in the 
+23 litigation States, is what we called them. 
+24 I think there was a lot of hesitancy about whether this would work or it was a 
+25 good idea. But, because it was an attorney general that filed the suit, like, there was a  1 legitimate, you know --and it was before the Supreme Court, there was a legitimate 
+2 claim. And so I kind of thought it something we should at least look into at that point. 
+3 Q Okay. Did Mr. Morgan tell you or did you get a sense of whether this was 
+4 something that he had come up with on his own or whether he was, you know, telling 
+5 you, reading you into this concept at the direction of someone else? 
+6 
+7 
+8 A 
+Q 
+A My understanding is that he did not come up with this on his own. 
+How did he learn of it? 
+So I don't know exactly, but it was my understanding that the President 
+9 made this decision, like, this was something that came from even higher than Matt. 
+10 
+11 Q 
+A Okay. And what gave you that impression? 
+The way he talked about it. So I don't remember the exact words that he 
+12 said, right, but it was kind of everything that we just said, like: This is a long shot. 29 
+13 There is some precedent. We don't know if it's going to be effective. This is what the 
+14 client wants to do, the campaign wants to do. And so we need to at least look into it 
+15 and see if this is an option. 
+16 Q Okay. Did he mention any other, you know, in the process of looking into 
+17 it, any other, you know, precedent or avenues for research other than I know you 
+18 mentioned Hawaii, which I think refers to the 1960 election? Anything else --
+19 
+20 A 
+Q No. That was --no, that was kind of it at the time. 
+Okay. Did he mention any other outside counsel or advisers to the 
+21 President that were promoting or developing this idea? 
+22 A He didn't mention them to me by name, but during this whole time, it was 
+23 very clear that there were other, like, there were other advisers. It was very clear during 
+24 this time that there were always competing legal theories and that, you know, it wasn't 
+25 Matt by himself making any of these decisions about what we were going to pursue.  1 Q Okay. Understood. And not to jump out of order, but did you come to 
+2 understand who were some of the people kind of promoting these competing legal 
+3 theories? 
+4 
+5 A 
+Q I did eventually, yes. 
+Okay. Tell me who those were. And I'm not going to jump --we won't 30 
+6 jump around too much, but I do want to make sure I understand at the outset, you know, 
+7 to make sure that we cover it as we go. 
+8 A Sure. So, around December 11th, Ken Chesebro came on my radar as 
+9 someone who was really kind of promoting these theories and being aggressive, you 
+10 know, aggressively promoting them. And he was kind of--well, my understanding was 
+11 at this time kind of Rudy Giuliani was making a lot of the decisions about litigation 
+12 strategy. He really bought into Ken's theory on this. And so those were kind of the 
+13 main ones driving this. 
+14 
+15 Q 
+A Okay. Did you come to learn of any role or involvement of John Eastman? 
+I didn't, no. 
+16 Q Okay. So I want to go back really quickly in this first conversation that you 
+17 had with Mr. Morgan. You mentioned that you were --you described the States that 
+18 were kind of affected here or that for which you and Mr. Morgan were discussing being 
+19 prepared as the litigation States. And I wanted you to describe that a little bit more for 
+20 us. What did you mean by the litigation States? 
+21 A So I believe those were the States that were still under controversy based on 
+22 the lawsuit that the attorney general of Texas filed. 
+23 
+24 Q 
+A Okay. Just on the Texas v. Pennsylvania suit? 
+I believe so. But there might've been other lawsuits as well. I remember 
+25 that the one that we were mostly --that kind of started this whole thing was the Texas  1 suit. 
+2 Q Got it. And so the affected State would've been Pennsylvania. Is that 
+3 right? 
+4 A Correct. 
+5 Q Okay. Okay. Did you have this conversation with Mr. Morgan in person 
+6 or by phone? 
+7 
+8 
+9 
+10 
+11 
+12 
+13 A I don't remember exactly, but my --I don't remember exactly. 
+Q Okay. And you said it was around December 7th or 8th. Is that right? 
+A Yes. 
+Q Are you familiar with the electoral college safe harbor deadline? 
+A Yes. I believe so. 
+Q Yeah. What's your understanding of, what is the safe harbor? 
+A I mean, generally --so, yeah, generally it's around December 9th, right, 
+14 everything is kind of locked in at that point. 
+15 Q Okay. I was just wondering whether that was a point in time, if you 
+16 remember whether at the time you were speaking to Mr. Morgan about this, you knew 
+17 that the safe harbor deadline had already passed or if that was something that factored 
+18 into your conversation at all? 
+19 A No, it definitely did. At this time, like all of these deadlines were huge 
+20 deadlines, and there was always a question of what action can we, should we, what is 
+21 politically prudent to take, based on the next upcoming deadline. 31 
+22 Q Okay. And so, after the safe harbor deadline, and really the relevance of it 
+23 is that, by that date, all of the States are expected to --and in 2020 they all did --certify 
+24 the results of the election in their States. Is that fair? 
+25 A Yes.  32 
+1 Q Okay. Were you aware of that at the time when you were evaluating these 
+2 issues, that all 50 States had certified their election results? 
+3 
+4 
+5 A 
+Q 
+A Yes. 
+Okay. 
+Generally. I mean, I didn't go through and check all 50 States, but I'm 
+6 generally aware that they followed the process. 
+7 Q 
+8 had not. 
+9 
+10 A 
+Q Right, yeah. Presumably you would've been aware if at least one of them 
+That's right. 
+Okay. All right. Great. So what happened next? What did you do after 
+11 having this conversation with Mr. Morgan on December 7th or 8th? 
+12 A So we had the conversation. We decided that we were going to look into 
+13 the process and see what it would take for these other litigation States. 
+14 At the time, I believe this was going to be kind of an operation run by the political 
+15 team, and so there was an effort to reach out, first of all, to see if the electors even 
+16 wanted to do this. Right? Kind of the threshold question was, is this something that 
+17 they're even willing to do? 
+18 I was not involved in most of the reaching out to the electors, although I did get, 
+19 you know, correspondence from a few States where I had worked initially to help people 
+20 get elected. 
+21 And then, from there, it was kind of walking through the process of what it would 
+22 even look like if the electors were willing to do that. 
+23 Q Okay. And you said you weren't directly involved other than maybe some 
+24 people who knew you and knew your email address, reaching out to you. But who was 
+25 responsible for that initial outreach to the electors?  33 
+1 A So, for the most part, it would've been the regional political directors for the 
+2 Trump victory team. 
+3 
+4 
+5 Q Okay. As an example, for Georgia, who would that have been for Georgia? 
+A Ryan Barretts (ph). 
+Q Okay. And the regional political director sort of organization structure is 
+6 separate from the EDO operation you mentioned earlier, right? 
+7 
+8 A Correct. 
+Q Okay. Was the EDO operation involved in this effort at this time?  1 
+2 [2:00 p.m.] 
+3 
+4 
+5 Mr. Findlay. Not initially, no. 
+BYMS. 
+Q Okay. Okay. So you said that the initial process was reaching out to the 34 
+6 electors --these are my words, but it seems like to gauge their interests or I think you said 
+7 willingness maybe to participate. 
+8 What was the consensus coming out of that process? 
+9 A I think most electors were willing to participate. There were some that 
+10 were not, but I think a lot of them were. 
+11 Q Okay. And are you aware of how the process was described to the electors 
+12 at this time? 
+13 A So I'm not aware of what each individual RPD said, but the general message 
+14 that went out around this whole process was what I described earlier that, you know, the 
+15 attorney general of Texas has filed this lawsuit. Because of that, there is like an air of 
+16 legitimacy to it. It's before the Supreme Court. These States are in controversy. 
+17 There's some precedent for this. We need to be prepared if something happens with 
+18 the court ruling. 
+19 Q Okay. And I understand you weren't on all of these communications, but is 
+20 it fair to say that your general understanding was that the electors were --the message 
+21 was conveyed to them that this was connected to the litigation efforts and potentially 
+22 connected to the preserving of potential remedy in litigation. Is that fair? 
+23 
+24 A 
+Q Yes. 
+Okay. Did you do any legal research or other, you know, sort of attorney 
+25 work about this on the concept and the process?  35 
+1 A I did. I did some general research on the Electoral Count Act and kind of 
+2 how the process works. 
+3 Q Okay. Did you memorialize that in a memo or an email to Mr. Morgan or 
+4 anyone else? 
+5 A I believe so, yes. At least I would've sent something with kind of issues or 
+6 questions that the regional political directors were relaying and from the field. 
+7 Q Okay. Got it. 
+8 So during this time period in this initial phase where the political operation was 
+9 reaching out to electors, did you have any other conversations with Mr. Morgan or 
+10 anyone else about the big picture strategy, including, you know, as you mentioned earlier 
+11 above them up to the Oval Office potentially? 
+12 A Not that I recall. At this time I was really focused on kind of the nuts and 
+13 bolts of the process, like, if this thing would even work. 
+14 Q Okay. And at that time when we were thinking about the litigation States, I 
+15 know you identified Pennsylvania as, you know, the one that was maybe most 
+16 immediately affected by the lawsuit going up to the Supreme Court, but how many 
+17 States' electors were contacted at this point? 
+18 
+19 A 
+Q As far as the litigation States? 
+Yes. If those --when the political operation started reaching out, which 
+20 States were they reaching out to? 
+21 A So --yes, sorry. To back up, so they were already reaching out to the States 
+22 that the President had won, right? So this operation was already going on, you know, in 
+23 Indiana and Utah and places like that. So it was already happening in all of those States. 
+24 Q Got it. Yeah. Thanks for the clarification. So at some point there were 
+25 States where the President had lost --the result had been certified by the State for Biden,  36 
+1 there were certain States that were added on to discuss what the electors found 
+2 convening not withstanding the President losing in the State, right? 
+3 
+4 
+5 A 
+Q 
+A 
+6 Nevada. 
+7 Q 
+8 them? 
+9 A Correct. 
+And which States were added on to that process? 
+So I believe it was Georgia, Pennsylvania, Michigan, Wisconsin, Arizona, and 
+Okay. So the six States. Were you aware of litigation pending in each of 
+I believe so. I believe there was either litigation or at least enough 
+10 controversy that at the time somebody felt that we needed to be going through this 
+11 process in those States. 
+12 Q Okay. Maybe that's the source of my confusion. 
+13 Was there a difference of opinion about which States were felt to be appropriate 
+14 to be going through this process? 
+15 
+16 A 
+Q Yes. 
+What was your understanding of what that difference of opinion is? Which 
+17 States would've fallen on which side of the line? 
+18 A So I did not have conversations about which States would've fallen on which 
+19 side of the line, but it was definitely --you know, like I said, the Pennsylvania case was the 
+20 main one, right? Like, that was kind of the one that this whole idea was based off of. 
+21 And then the other States, there were decisions made that there was enough controversy 
+22 there for us to, at least, look at the process in those States as well. I was not part of 
+23 those conversations. 
+24 Q Okay. Did Mr. Morgan ever speak with you about an understanding of 
+25 whether lawsuits in the State were kind of legitimate election contest suits versus other  1 types of litigation that wouldn't have the affect of, you know, changing the outcome, 
+2 contesting the certified result of the election? 
+3 A We talked about it a little bit. 
+4 
+5 Q 
+A So what do you remember about that? 
+Not a lot of detail. It was --during this time, like I said, I was focused on 
+6 kind of the nuts and bolts of this, and there was always, like I said earlier, this --this 37 
+7 spoken and unspoken understanding that there were competing legal theories, right, and 
+8 that those were getting fought out even above Matt's head when it came to this stuff. 
+9 Q Okay. And when it came to above Matt's head, did you speak with 
+10 anyone --like did you speak with Justin Clark or Bill Stepien about the decision making of 
+11 which States would have been, you know, kind of potential legitimate litigation States 
+12 where the outcome might be affected by court cases? 
+13 
+14 
+15 them? 
+16 
+17 A 
+Q 
+A 
+Q No, not at any real way that I recall. 
+Okay. And did you get a sense of the direction coming from even above 
+No. 
+Okay. Okay. So the --was there any discussion in this early time period, 
+18 you know, including your conversation with Mr. Morgan and then your work on the kind 
+19 of nuts and bolts piece of it early on in December, was there any discussion about what 
+20 would happen after the 14th once these electors cast their votes, what would become of 
+21 the votes? 
+22 
+23 A 
+Q Of the litigation States? 
+Yes, of the litigation States. Yep. 
+24 A No, not really. So it all kind of was just based on what the outcome of the 
+25 litigation was going to be, and it was more to preserve a right. That was the only  38 
+1 conversations we had about it. 
+2 Q Okay. And just to be clear, when you're talking about the litigation States, 
+3 you're referring to these six States that you identified. Is that fair? 
+4 
+5 A 
+Q Correct. Yes. 
+Okay. So setting aside the question of whether there was litigation pending 
+6 that would have affected the State certification, but those were the ones that you were 
+7 told to look into the process of having Trump electors meet, even though the State had 
+8 certified for Biden. Is that fair? 
+9 A Correct. 
+10 Q Okay. All right. Great. I just didn't want to get lost in the details of 
+11 litigation States or miss ourselves on our understanding of that in the future. So thank 
+12 you. 
+13 Okay. Let me check my notes real quickly. Did you ever come to learn about 
+14 anything unique in this process at the early part here regarding Wisconsin? 
+15 
+16 A 
+Q No, I don't believe so. 
+Okay. Did Mr. Morgan tell you or did you learn at any other point about 
+17 discussions that had already taken place in Wisconsin regarding the convening of 
+18 alternate electors? 
+19 
+20 A 
+Q No. 
+Okay. Okay. So what happened next after this nuts and bolts process 
+21 where you described to us the political operation was reaching out to the Trump electors 
+22 in States Trump won and then added on these litigation States? From your perspective, 
+23 what was your next involvement with this process? 
+24 A So it was really just that until December 11th. On December 11th that was 
+25 when Ken Chesebro came on my radar and I guess my understanding was, you know,  39 
+1 Matt made the introduction of Ken. I don't even remember --I'm not sure what point 
+2 we had our first conversation that day, but kind of how the day played out was at some 
+3 point we learned that the Supreme Court was not going to hear these litigation --they 
+4 just weren't going to hear the Texas case, right? 
+5 And so at that point, you know, I was talking to Matt a lot and we kind of made 
+6 plans to wrap up this operation. I'm not sure of the conversations that happened above 
+7 Matt, but the decision was made to --basically, that Matt and I were not going to be 
+8 working on this operation anymore and that we would pass it off to Ken Chesebro. 
+9 Q Okay. And did that all occur on the same day on December 11th? 
+10 
+11 A 
+Q I believe so. At least from my perspective I believe it did. 
+Okay. So we'll talk about it in a little bit more detail. So when Mr. 
+12 Morgan introduced --either made the introduction or introduced --gave you information 
+13 to introduce you to Mr. Chesebro, how did that process happen? Did you talk to Matt in 
+14 person? Was it an email? 
+15 
+16 
+17 
+18 A 
+Q 
+A 
+Q No. We spoke over the phone. 
+Over the phone, you and Mr. Morgan? 
+Correct. 
+Okay. So what did he tell you about Mr. Chesebro? 
+19 A That --so the first conversations were kind of that this Texas thing is 
+20 wrapping up. That means there's not really anything left for us to do on this project; 
+21 like, we're kind of done with it. And then we had a conversation --and I don't 
+22 remember the exact number. I remember as being kind of on and off the phone a lot 
+23 that afternoon as developments were happening. 
+24 
+25 Q 
+A Okay. 
+But then there was another conversation where he said, essentially, that Ken  40 
+1 is going to be taking this over now; that Rudy wants Ken to --Rudy Giuliani wants Ken to 
+2 be doing this; that, you know, the litigation was over so it doesn't seem like a good idea 
+3 for us to be involved in it, and then he kind of asked me to --advised me to send an email 
+4 to everyone that had been working on this before saying, you know, this has been 
+5 officially passed off to Ken. He will answer any questions or have anything to do with it 
+6 going forward, and that was --that was the end of my involvement with the whole thing. 
+7 Q Okay. And that was an email that you sent on the same day, the 11th of 
+8 December? 
+9 A Correct. 
+10 Q And it's one of the documents that you provided to us in response to our 
+11 requests. Is that right? 
+12 A Yes. 
+13 Q Okay. All right. Great. We'll look at it in a minute just so --but I'll want 
+14 to get through the timeline at a higher level and we'll match the documents up if that's 
+15 okay. 
+16 So when you had these phone calls with Matt, did he mention his --did he 
+17 describe any conversations with Mr. Clark, Justin Clark? 
+18 
+19 A 
+Q No, not that I recall. 
+Did you have a sense for where Mr. Clark was as far as his perspective on 
+20 what you should be doing or not doing? 
+21 A My sense was that he was generally very matched up with Matt about these 
+22 issues. 
+23 Q Okay. How do you have that sense? Did you later talk to Mr. Clark about 
+24 it or how did you learn that? 
+25 A I guess two ways. One, it was pretty clear this whole time that Matt and  41 
+1 Justin saw the world the same way and would come to an agreement on a strategy, and 
+2 then kind of advise us what direction to go on with this strategy, right? 
+3 So there was kind of a general operation of that's how things worked, but 
+4 then --well, I don't recall. That's --that was the sense I had, and that was generally kind 
+5 of how things operated during this whole time. 
+6 Q Okay. That's helpful. And I think it's fair to say certainly from our 
+7 investigation, but public information, too, that they were --Mr. Morgan and Mr. Clark 
+8 were aligned and they were frequently had an opposite recommendation than did Mr. 
+9 Giuliani. Is that fair? 
+10 
+11 A 
+Q That's correct. 
+Okay. Did you come to learn either at this time in December or at any later 
+12 time about whether this was an instance where Mr. Clark and/or Mr. Morgan had taken 
+13 their recommendation up to the President and, you know, had Rudy on the opposite 
+14 recommendation? 
+15 A So I do know that Rudy was on the opposite recommendation here. I'm not 
+16 aware of any conversations that they had with the President. I mean, I just don't know 
+17 what conversations they had, but I am very aware that Rudy was on the opposite side of 
+18 this. 
+19 
+20 Q Okay. Got it. 
+So just on this general level, what was your understanding of the difference of 
+21 opinion between Mr. Clark, Mr. Morgan on one side, Mr. Giuliani on the other? I mean, 
+22 you've told us the kind of instigating factor it sounds like was the Supreme Court's 
+23 decision not to hear the Texas versus Pennsylvania case, but if you could tell me a little bit 
+24 more what was the --what were the proposed, you know, next steps from each side and 
+25 how did they differ?  42 
+1 A Sure. So I guess I can't --so from our perspective during this time, there 
+2 was not a lot of confidence that this litigation would work with the Supreme Court. So, 
+3 you know, we were kind of going through the exercise, but even that day while the 
+4 Supreme Court wasn't ruling, like, we were kind of winding this down, right, even early in 
+5 the day. Not holding out a lot of hope, right? 
+6 Q Uh-huh. 
+7 A And I don't remember what time we got word that the Supreme Court 
+8 wasn't going to hear this thing, but it was almost like as soon as that happened, Matt 
+9 called and said, you know, they're not going to hear this thing, we're done with this, like, 
+10 just stop work on this exercise. 
+11 Q Okay. And what was the rationale or the theory that led Mr. Giuliani to 
+12 decide to continue with the exercise as you described it? 
+13 
+14 A 
+Q I can't say what his rationale was. 
+Okay. And you didn't learn from your conversations with Mr. Morgan 
+15 about his, you know, discussions with Mr. Giuliani or otherwise, you know, what was it 
+16 that Mr. Giuliani was recommending that you continue to do? 
+17 A Well, no. So I guess, like I said, where I learned that Mr. Giuliani wanted to 
+18 take another route was through this --through passing the operation to Ken, right? And 
+19 it was like a very abrupt thing. It was kind of like, you know, we were winding it up 
+20 through the day as the Supreme Court kept not saying anything, you know, we were kind 
+21 of winding this up as the day got later and later, kind of figuring there's not a lot to do at 
+22 this point. 
+23 We found out from the Supreme Court --according to my recollection, we found 
+24 out from the Supreme Court that this wasn't going to work. So Matt said, you know, 
+25 we're done. Like, that was kind of it. There's no --no other recourse here.  43 
+1 And then in a follow up, he said, Rudy wants to keep fighting this thing. So we're 
+2 going to pass --we're going to have you pass it off, everything off to Ken. 
+3 
+4 
+5 day. 
+6 Q Okay. Got it. And then had Mr. Morgan spoken to Mr. Chesebro before? 
+A I don't --I don't know. I don't believe so --well, I don't know before that 
+Q Okay. What about Mr. Clark? Are you aware of conversations between 
+7 Mr. Clark and Mr. Chesebro? 
+8 
+9 A No. 
+Q Okay. But then did you have a conversation directly with Mr. Chesebro 
+10 that day? 
+11 A I believe so. I believe we spoke after --yeah. I believe so. I think we 
+12 spoke after the email to kind of talk about things. 
+13 Q Okay. Tell us what you remember about that. I think you said earlier that 
+14 you had never spoken --he was not a person that was known to you before? 
+15 
+16 
+17 A No, he was not. 
+Q Okay. 
+A No. It was kind of --and I don't remember a lot of details, but it would've 
+18 just been an introductory thing and --so Matt, at this time, was kind of advising me to 
+19 just get out of this whole thing and I thought that was the best course of action. This 
+20 was kind of a long shot to begin with. 
+21 So Ken calls and actually did not sound like he had a good plan for what he was 
+22 going to do at this point. And so I just said, look, this is on you, right? Like, the 
+23 decision has been made that you are taking care of this at this point. Like, I don't even 
+24 know what the next steps are. This whole thing is on you to kind of sort it out going 
+25 forward.  1 
+2 Q 
+A And how did he respond? 
+I mean, that was just kind of it. There wasn't --said okay. We're 
+3 gonna --there wasn't a lot to say at this point. You know, we --we never really had a 
+4 working relationship. 
+5 Q Got it. Okay. Did he mention having drafted documents or anything at 
+6 that point? 
+7 A He might have. He was --he was kind of walking through what his, like, 
+8 next plan and next steps were, but like I said, I was just kind of out. I just said, you 
+9 know, you need to do what you need to do here. This is not our operation anymore. 44 
+10 Q Okay. Were you at that time aware of legal memos that Mr. Chesebro had 
+11 drafted about this issue? 
+12 A I was vaguely aware. Like, I had not seen them at this point, but in the 
+13 conversations that I had with Matt, I believe they came up as, like, this was the 
+14 justification for why Rudy and Ken were going to keep going forward with this stuff. 
+15 Q 
+16 memos? 
+17 
+18 A 
+Q Okay. Did you later come to have possession of Mr. Chesebro's two 
+Yes. 
+Is that --did you know of them and read them back in the 2020, you know, 
+19 post-election timeframe or I know they've been published recently. Did you know about 
+20 them at the time before January 6th? 
+21 A Yes. I mean, I think he sent them to me somewhere around this time 
+22 period. 
+23 Q Got it. Okay. Got it. 
+24 In either your conversations with Mr. Morgan that led to it or your call with Mr. 
+25 Chesebro, did the concept of the joint session of Congress on January 6th, did that come  1 up? 
+2 
+3 A 
+Q No, not that I recall. 
+Was there any discussion about the difference between having, you know, 
+4 an alternate slate of electors vote and hold on to the certificates versus voting, casting 
+5 them, and sending them to the President of the Senate? 
+6 
+7 A 
+Q No, not really. 
+Okay. Okay. All right. So what happened after you had your call with 
+8 Mr. Chesebro that day on December 11th? 45 
+9 A I mean, really, at that point, everything was passed off. Ken copied me on 
+10 some emails after that. I think a couple of people might have reached out to me to say, 
+11 you know, is this --is Ken really doing this work now, that sort of thing, but it was very 
+12 few because everyone that I had been interacting with, for the most part, was on that 
+13 email that I sent and that was just kind of it. 
+14 Q Okay. The people who reached out to you about Mr. Chesebro, were they 
+15 electors or campaign staff or affiliates? 
+16 A For the most part, campaign staffers, I believe. Those are the ones that I 
+17 recall. 
+18 Q Okay. And were staff from the RNC involved in this operation either before 
+19 or after Mr. Chesebro took over? 
+20 A Yes. So the regional political directors I referenced earlier, I believe are 
+21 technically RNC staff, but they were Trump victories. So they were also, you know, kind 
+22 of part of the campaign. 
+23 Q Got it. Okay. And did their involvement continue after you had this 
+24 conversation with Mr. Chesebro? 
+25 A I don't know. I really ended kind of everything at that point. I may have  46 
+1 been copied on a few emails, but I was not really interacting with anybody on this issue 
+2 after that. 
+3 Q Okay. What about on the day of the 14th, the meeting of the electoral 
+4 college? Were you aware of what happened in these litigation States as you described 
+5 them? 
+6 A I mean, vaguely aware. I wasn't talking to anybody on the ground at this 
+7 point, but I think it was covered in the news and, you know, I was kind of tracking that. 
+8 Q Okay. And what generally was your --what did you perceive about what 
+9 happened in those States? 
+10 A I think most States ended up --the electors ended up meeting. I think 
+11 some people sent me some emails about it, like, you know, either saying this happened or 
+12 it didn't, right, because I had been working on this stuff before. Yeah. I think that's 
+13 mostly kind of what happens. 
+14 Q Okay. And then after the 14th, did you have any further involvement in the 
+15 alternate slates of the electors from these six States? 
+16 
+17 A 
+Q No, I don't believe so. 
+Okay. What about on the eve of January 6th, did you ever come to learn of 
+18 efforts to make sure that the original copies of alternate electors certificates were 
+19 delivered to the President of the Senate? 
+20 
+21 A 
+Q No. 
+Okay. Any further conversations with Mr. Morgan or Mr. Clark or maybe 
+22 Mr. Stepien after your, you know, interactions with Mr. Chesebro? 
+23 A I mean, there are a lot of conversations. I don't know that there was much 
+24 about this issue, in particular. 
+25 Q Yeah. I certainly didn't mean to ask if you had any conversations with them  47 
+1 at all. That was my --an imprecise question. Thank you for clarifying it. 
+2 But specific to this issue about alternate slates of electors, did you guys have any 
+3 other conversations? 
+4 A No, not really. When I was sending those updates, there may have been 
+5 things as I was hearing through the grapevine or stuff like that, but no --no real 
+6 conversations about it. 
+7 
+8 Q Okay. All right. Let me look at my notes real quick. 
+Okay. I think I would like to show you some documents and we'll go through the 
+9 story --not all of it, you know, in detail, but some of the documents that you produced 
+10 and some of the other ones that we have, but we have been going for about an hour and 
+11 a half. Do you want to take a brief kind of comfort break and when we come back, we'll 
+12 look at some documents? 
+13 
+14 
+15 
+16 Mr. Findlay. Sure. That works. 
+Ms. - Okay. How much time would you like? 
+Mr. Findlay. Just 5 minutes. Enough to go get some water really quick. 
+Ms. - Perfect. Okay. Let's go off the record 2:28. We'll come back at 
+17 2:35. Is that good? 
+18 
+19 
+20 
+21 
+22 
+23 Mr. Passantino. Sounds good. Thank you. 
+[Recess.] 
+Ms. - You ready to proceed, Mr. Findlay? 
+Mr. Findlay. Yes. 
+Ms. - Okay. Great. All right. 
+Let's go back on the record. Transcribed interview of Joshua Findlay. It's 2:36 
+24 p.m. here in Washington. 
+25 BYMS.- 1 Q Okay. Mr. Findlay, thank you for the general overview of the time period. 
+2 Before we go into the documents, any other key events focused on this concept of 
+3 meeting, the convening, and casting votes for alternate electors? Are there any other 
+4 kind of key conversations or events in the time line that you remember that we haven't 
+5 talked about yet? 
+6 
+7 A 
+Q I don't believe so. 
+Okay. And I think earlier --before we get into the documents, I did just 
+8 want to clarify. I think earlier you said you did come to learn about John Eastman. 48 
+9 don't know if that was generally or specific to this concept of alternate slates of electors. 
+10 
+11 A 
+Q No. So I actually did not learn about him at this time. 
+Okay. Okay. I assume you did hear about him in the context around 
+12 January 6th eventually. Is that right? 
+13 
+14 A 
+Q Yes. 
+Okay. Did you ever take note of Mr. Eastman's or Dr. Eastman's, his advice 
+15 or, you know, the public --let me rephrase. 
+16 Did you ever take note of the fact that Dr. Eastman was referring to the fact that 
+17 there had been alternate slates of electors submitted in the context of his public 
+18 statements or other information that came out publicly about his advice to the President 
+19 regarding January 6th? 
+20 A I mean, I guess I don't understand what you mean take note. You know, 
+21 afterwards I read the articles that were published about it and that's kind of when it got 
+22 on my radar, I guess. 
+23 Q Yeah. That's fair. That's kind of what I was referring to. I think --you 
+24 know, there's this time period that you were involved in and had these conversations, you 
+25 know, in early December before the electors actually met and then you've told us that,  49 
+1 you know, you didn't really have any more involvement in the process after that, other 
+2 than kind of taking note on the news that the electors in several States had met and cast 
+3 votes for Trump. 
+4 And I just wondered later in the context around January 6th, even if it was just in 
+5 publicly reported information, if you, you know, understood that there was a role that 
+6 was, you know, ascribed to these alternate slates at that time? 
+7 A Yes. I mean, I guess it was just on my radar generally from following the 
+8 news. 
+9 Q Yeah. And did you have any reaction to it, based on your understanding of 
+10 this process that had gone on? Was it surprising to you to see that John Eastman and 
+11 Rudy Giuliani and others associated with them were, you know, sort of pointing to these 
+12 alternate slates in the context of the joint session? 
+13 A Once again, it depends on what you mean by "surprising," right? So on the 
+14 one hand it seems --like, it was even a long shot when we were talking about it on 
+15 December 7th or 8th, right? It was a long shot even then. At some point in the 
+16 campaign, though, nothing really became surprising, like, what people were trying to do 
+17 post-election day. 
+18 Q Okay. 
+19 A So I --to answer your question, maybe everything was surprising at that 
+20 point, right? It kind of felt like nothing was off the table to some people. 
+21 Q I guess that's fair. Either everything's surprising or nothing is surprising, I 
+22 guess, if you're in that --if you're in that place. 
+23 
+24 A 
+Q Right. 
+And did you --yeah. Did you have any conversations with your --I guess 
+25 then former colleagues, but Mr. Morgan, Mr. Clark, people who you had been talking  1 with about the strategy back in the time period before the elector college met, did you 
+2 talk with them about what you learned through public reporting about, you know, the 
+3 emphasis on alternate slates of electors around January 6th? 
+4 
+5 A 
+Q 
+6 discussions? Yes. Yeah. 
+And what did you all share? What was the general tenor of those 50 
+7 A I mean, everybody was kind of back to your surprise point. Everybody was 
+8 shocked, but also --it felt like nothing was off the table to some people. And so, you 
+9 know, everyone was shocked by the tactics and --but at the same time, you know, it 
+10 seemed like some people were going to do whatever they wanted to do. 
+11 Q Okay. That's fair. Okay. So let's look at some documents that will, I 
+12 think, fit with the description that you gave to us earlier about the relevant events. 
+So the first one's exhibit 1. And while my colleague, brings it 13 
+14 
+15 up --there you go. 
+by Ken Chesebro. Very fast. So this is an email --a memo that appears to be drafted 
+It's dated November 18th, but then has a note next to the date that 
+16 says that it was streamlined version dated December 10th. 
+17 Are you familiar with this memo? 
+18 
+19 
+20 
+21 
+22 
+23 A 
+Q 
+A 
+Q 
+A 
+Q Yes. 
+How did you become familiar with it? 
+I believe it was emailed to me on or about December 11th. 
+Emailed to you by Mr. Chesebro? 
+Yes. 
+Okay. And the recipient of the memo in the header here is an individual 
+24 named Judge James R. Troupis. Are you familiar with Judge Troupis? 
+25 A Yes.  1 
+2 Q 
+A 51 
+How so? 
+So just generally --well, so let me say, I'm generally familiar with him. I did 
+3 not do a ton of work in Wisconsin, but he was always a name that came up that was 
+4 advocating for different, you know, theories for the President. 
+5 Q Okay. Within the campaign other than Mr. Chesebro who seems to be 
+6 associated with him at least insofar as he prepared this memo for him, who in the 
+7 campaign was affiliated with Mr. Troupis? 
+8 A I don't know. To my knowledge, he was someone that --you know, we 
+9 would find out about what he was doing more than working with in any way. 
+10 
+11 Q Okay. Understood. 
+So the subject line of this memo is then repeated in the summary section here, 
+12 says: The real deadline for settling a State's electoral votes, and then in the first 
+13 paragraph of the summary, it really identifies the real deadline as being January 6th, the 
+14 date that the Senate and House meet for the counting of electoral votes. 
+15 Was this the subject of any discussion among you and your colleagues on the 
+16 campaign at the time that you saw this? 
+17 A So this memo wasn't really at the time that we saw this. So generally, like I 
+18 said earlier, all of these dates were important, right? You always had to do an analysis 
+19 as these dates come up of is the next step, you know, something even reasonable to do, 
+20 but kind of, like I said, by the time December 11th rolled around, to my knowledge, like, 
+21 we were not actively pursuing anything to go on beyond past that date. I mean, even 
+22 December 14th for us was kind of an end to deadline if you want to put that. 
+23 So we didn't have a lot of conversations around it. It was, like, once that 
+24 potential pending litigation wrapped up on the 11th, there just was not much left to do at 
+25 that point, to my knowledge.  52 
+1 Q Okay. And is it accurate based on what you told us earlier to say that, even 
+2 though this memo was drafted in November --mid-November and lays out an argument, 
+3 essentially, for why the focus should be on December 6th and why --thank 
+4 you --January 6th and why, you know, alternate slates of electors might still have a role 
+5 to play before --you know, looking at January 6th as the deadline, that your own process 
+6 had already started and your conversations internally with Mr. Morgan were independent 
+7 of your having any knowledge of this memo? 
+8 
+9 A 
+Q Correct. 
+Okay. Okay. And this memo describes --I think it's on page 3, if you want 
+10 to just click through to it real quickly. It does go into some detail --a little bit of detail, 
+11 at least, about the Hawaii scenario following the 1960 election. 
+12 Do you remember reading this? 
+13 
+14 A 
+Q Yes. 
+And what was your assessment for using the example of the Hawaii 
+15 circumstances following 1960's presidential election as a precedent for convening 
+16 alternate slates of electors after the 2020 election? 
+17 A Well, so, generally, I don't remember what kind of the analysis we went 
+18 through, but like, essentially, in this case, there were alternate electors; that there was a 
+19 controversy in election, there were alternate electors prepared to cast their votes that 
+20 day and that was kind of a case where, you know, we can point to and say this has been, 
+21 at least, done in the past. There is a precedent for prepping electors when there is 
+22 controversy as to the election. 
+23 
+24 
+25 Q Okay. Did this come up at all when you spoke to Mr. Chesebro? 
+A Not really. 
+aware of these memos. So when I talked to Matt earlier in the day, I believe he was 
+We kind of talked through a little bit about what Ken's  53 
+1 justification was going to be for him and Rudy taking over and pursuing at this point, but I 
+2 don't believe that Ken and I really talked about this other than maybe he would've 
+3 mentioned like a cursory, you know, this is to justify what we're doing from here, but we 
+4 did not go into detail, no. 
+5 Q Okay. I should've asked earlier, too. You described to us your phone call 
+6 with Mr. Chesebro on the 11th and then also noted that he continued to send you some 
+7 emails or copy you on emails for a few days. Did you ever speak with him again after 
+8 the call on the 11th? 
+9 
+10 A 
+Q I don't believe so. 
+Okay. And he's not someone whose path has crossed yours since this time 
+11 period, like, in --after January 6th? 
+12 
+13 A 
+Q No. No. 
+Okay. All right. Let's look at exhibit 2, please. 
+14 So going chronologically by date, but now that we know you didn't see the memo 
+15 when it was drafted, not chronologically in your experience, but these are some text 
+16 messages that you produced to us. Is that right? 
+17 A Yes. 
+18 Q Okay. They look like messages between yourself and David Shafer, who I 
+19 understand to be the chair of the Republican party in Georgia. Is that right? 
+20 
+21 A 
+Q Correct. 
+Okay. So tell us what the circumstances were for your first exchange here 
+22 that looks like it happened on December 7th, 2020? 
+23 A Yes. So Chairman Shafer was a chairman who was very involved in the 
+24 delegate and elector selection process. Georgia's laws are such that he can basically, 
+25 you know, choose the delegates and the electors.  54 
+1 So we worked with him to kind of get a list that was agreeable to both, you know, 
+2 to him and the campaign, but he was a very hands on chairman. So when we were kind 
+3 of --when it came across the radar that we were starting to look at this process of even 
+4 would electors want to --would electors in these litigation States want to get-together 
+5 and vote? I believe I tried calling him. He texted, you know, just to, like, find out what 
+6 the process is even to get the electors elected, right, like, what the plans were. 
+7 I believe I called him and he texted back, and that kind of led to this exchange. 
+8 Q Okay. So that's you in the blue text message mark saying: Need to 
+9 discuss how presidential electors vote. What is the process? 
+10 
+11 A 
+Q Correct. 
+Okay. Then Mr. Shafer refers to your law degree deferring to you, it seems, 
+12 but then also says that he is aware that they meet Monday at noon at the State Capitol, 
+13 right? 
+14 
+15 A 
+Q Correct. 
+Okay. At that point you asked for more practical information, just sort of 
+16 looks like logistical nuts and bolts as you said. Did you have a phone call with Mr. Shafer 
+17 after these text messages were exchanged? 
+18 
+19 A 
+Q I don't believe so. 
+Did you ever --I know that you've described during this time period the 
+20 campaign reaching out to electors to gauge their willingness to participate in a meeting 
+21 and a vote not withstanding the fact that their State had been certified for Biden. Did 
+22 you ever gain an understanding from Mr. Shafer about whether he would participate in 
+23 such an exercise? 
+24 A I don't believe I got it from him himself, although I may have, but like, 
+25 generally, I knew that it was going to happen.  1 Q Okay. And did you have an understanding of whether Mr. Shafer did 
+2 participate when the electors met? 
+3 
+4 A 
+Q I believe he did. 
+Did you ever have any conversations with Mr. Shafer about the internal 
+5 campaign, you know, the change of control, shall we say, about the process? 
+6 
+7 
+8 A 
+Q 
+A We did have communications, yes. 
+When was that? 
+It would have been around kind of the 11th, 12th, something like that. 
+9 think I sent that email around. He was a little bit confused about why, you know, the 55 
+10 campaign --we weren't --like, why I wasn't directly involved with it anymore, and I think 
+11 there was a little bit of back and forth about who was going to pursue it at this point. 
+12 Q Okay. Was the back and forth just the process of communicating to him, 
+13 you know, figuring out who the person was who he should be communicating with it 
+14 about this or was it more --did you share with him any of the details about the difference 
+15 of opinion on the strategy front? 
+16 
+17 A 
+Q No. It was just about who was going to be the point person at this point. 
+Okay. Okay. I think we have a couple of other emails that we'll show you 
+18 about that. 
+19 
+20 All right. Let's move forward to exhibit 4, please. 
+So this is another email. This is one we provided to you in advance, Mr. Findlay. 
+21 Came from another production, but it looks like you're a recipient on the email. 
+22 Did you have a chance to look at it and does it look familiar to you now? 
+23 A Yes, it does. 
+24 Q Okay. So if we could scroll down---, if you don't mind, to show the 
+25 part that Mr. Findlay writes. Yeah. There we go.  56 
+1 So on December 10th, this is an email that you were writing to Matt and Nick who 
+2 I assume would be Mr. Morgan and Mr. Trainer. Is that right? 
+3 
+4 A 
+Q Yes. 
+Okay. And you --you describe in that first paragraph --tell us if you have 
+5 any trouble seeing it and we're happy to, you know, zoom or scroll for you? 
+6 
+7 A 
+Q Sure. 
+And now I know you're not looking out the window, too. It's easier to see 
+8 on the bigger screen. 
+9 Mr. Passantino. Well, and the one issue that we have --and it's not your fault, 
+10 but the way when you're projecting it, we have a side bar on the right. So we're from 
+11 like --we can see in the word "wrote," we can see to the E, barely the E, and then it's cut 
+12 off to the right because it's our facing your visual image. 
+13 Is there any way to, like, slide, you know, so that you're only showing us like in the 
+14 left two-thirds of the screen? I don't know if that's possible. 
+15 Ms. - Yeah. I think you can actually move that little bar. 
+16 Mr. Passantino. You can move it too, but --yeah. But --and if I do that, I don't 
+17 know what we're cutting off --I guess --
+18 Ms. - I think --we're moving it on our end. 
+19 Mr. Passantino. Yeah. Okay. You did well. You fixed it for us. Thanks. 
+20 Ms. - Oh, that works for you, too? Okay. All right. That's good. 
+21 didn't know it would transfer. 
+22 BYMS.-
+23 Q So Mr. Findlay, I wanted to ask you about your opening paragraph first here 
+24 in the email where you say the States have had a day to process what we're asking of the 
+25 presidential electors in the litigation States and it seems like a lot of questions are arising.  57 
+1 So, generally, what do you remember about the questions that you were getting 
+2 back after initial outreach to these electors in the litigation States? 
+3 A So a lot of this was, like I said, going through the regional political directors 
+4 and the feedback that we were getting from them that I recall was just there was a lot of 
+5 confusion about the whole --the whole process, right, because --yeah, just a lot of 
+6 confusion about the process. 
+7 Q Okay. And if we could scroll down a little bit,_, to the paragraph that 
+8 starts "replacement electors." So this paragraph starts off with a reference to an 
+9 individual with the initials JB. Who is that that you're referring to there? 
+10 
+11 
+12 A 
+Q 
+A John Black. 
+And who is Mr. Black? 
+He was one of the regional political directors for either the northeast or 
+13 mid-Atlantic States. 
+14 Q Okay. So he was one of the Trump Victory workers who were, you know, 
+15 employed by the RNC, but assisting with the Trump campaign. Is that fair? 
+16 
+17 A 
+Q Yes. 
+Okay. What do you remember about your communications with Mr. Black 
+18 on this topic? 
+19 A So not a lot. I think --like, I believe there was a lot of concern in 
+20 Pennsylvania about this whole process even to begin with. Chairman Tabas, like it says 
+21 there, had already left. He was a very strong State party chairman. I believe that most 
+22 of the regional political directors were counting on the chairs to do a lot of the wrangling 
+23 for this process, because like Georgia, they have a big say, generally, in who the electors 
+24 are. 
+25 And so I think there were just some controversy generally about getting people in  58 
+1 Pennsylvania to even do this. 
+2 Q Okay. Were there --I think there's an email that might shed a little more 
+3 light on this, but were --was the --were there any concerns raised that you felt like would 
+4 have jeopardized, you know, gone to the sort of merits of the question, like, were the 
+5 Pennsylvania electors not just sort of objecting, like, I'm sorry. I had plans already on 
+6 Monday, but rather that they didn't feel it was appropriate to be doing it? 
+7 A Yes, absolutely. I think there were electors --there were a lot of electors 
+8 that kind of fell into that category. I think Chairman Ta bas was one of those electors, 
+9 and in Pennsylvania I know they even, you know, where it requested language for the 
+10 forms that they were filling out to indicate that this was --you know, they were casting 
+11 these votes in the case of controversy or I forget the language exactly, but --yeah. 
+12 Q Okay. That's helpful. Any other --I think we have a couple of examples 
+13 we can talk about, but just in general your memory of feedback from the initial outreach 
+14 to electors. Other than Chairman Ta bas and potentially other electors in Pennsylvania, 
+15 any electors from other States that gave similar kind of feedback about the 
+16 appropriateness or potential legality of the process? 
+17 A Yes. There were --I don't have a lot of specific names. I wasn't the one, 
+18 like, kind of reaching out to the electors directly, but yes, there were definitely electors in 
+19 probably most of the States that had concerns about this process. 
+20 
+21 Q 
+A And how did the campaign respond to those concerns? 
+To my recollection, there was, like, no pressure on anybody to be there and 
+22 to do this, but we made it --we kind of articulated the argument that we said before of 
+23 there is pending litigation, you know, at the Supreme Court filed by the Texas attorney 
+24 general; like, this is at least a real litigation we want to preserve our rights here. So, you 
+25 know, please show up and participate in this.  59 
+1 Q Okay. And did that generally assuage the concerns for the individuals that 
+2 had raised them? 
+3 A I'm not sure how persuasive it was or not, you know, with any individual 
+4 electors. 
+5 Q Okay. And were you learning about these conversations regarding 
+6 concerns from the regional political directors or did you yourself have communications 
+7 with any electors who raised concerns? 
+8 
+9 A 
+Q For the most part, I believe from the regional political directors. 
+Okay. Yeah. On the bottom paragraph here on the screen, I think this is 
+10 on the similar topic under com ms, the third sentence says: In Pennsylvania, it seems 
+11 that many electors are against this and we may not want anyone talking to the press. 
+12 How did those concerns being raised by electors factor into the campaign's 
+13 decision making about communications and press relations? 
+14 A I don't know how it would've affected press or communications, generally. 
+15 That wasn't what I --that wasn't like my --that wasn't something that I worked on. 
+16 Q Okay. And in the initial phase of outreach to the litigation States, did the 
+17 campaign tell the electors not to speak about this to the press or publicly? 
+18 A Not that I recall. I think we were just generally, at this point, like, reaching 
+19 out to see if they were even interested and kind of what the process would be if we 
+20 decided to go forward with this. 
+21 Q Okay. Okay. Let's look at exhibit 5, please, or actually exhibit 6 is better. 
+22 Here we go. 
+23 So Mr. Findlay, this is a document we provided to you in advance. I will 
+24 represent to you that it was produced to us in a different production from our 
+25 investigation and it originated in an email from Nick Trainer with the subject line  60 
+1 "electors," and then it says: Here are the six with contact. The cover email is dated 
+2 December 20th. 
+3 And then attached to it is this spreadsheet of names, contact information 
+4 organized by State. 
+5 Does this list look familiar to you? 
+A Yes, generally. 
+Q And what is it? 6 
+7 
+8 A So I did not do a ton of work in Michigan and Pennsylvania, but it looks like a 
+9 list that we would've put together of presidential electors. 
+10 Q If we can scroll down to the Georgia part, which is at the bottom of the page 
+11 that might help with your --level of familiarity. 
+12 
+13 A Yes, that looks right. 
+Q Okay. Did you have any personal, you know, contact or interactions with 
+14 any of the Georgia electors that are on this spreadsheet? 
+15 A So definitely not about this and no one outside of David Shafer. No one 
+16 outside of David Shafer. 
+17 
+18 
+19 
+20 2020? 
+21 
+22 Q Okay. Are you familiar with an individual named John Isakson? 
+A Generally. 
+Q Did you talk to him at all about his role as an elector after November 3rd, 
+A No. 
+Q Okay. What about a State representative --that's how she's described on 
+23 the list here --named Susan Holmes. Are you familiar with her? 
+24 
+25 A Yes. 
+Q Did you have any interaction with Ms. Holmes after November 3rd, 2020?  1 
+2 A 
+Q 61 
+No. 
+Okay. Okay. Let me get the timing right. So we've got a lot of 
+3 communications on the 11th, Mr. Findlay --oh, can you hear us okay? 
+4 
+5 Mr. Passantino. Yes. 
+Ms.- Oh, okay. You appeared twice on our screens. I wanted to make 
+6 sure that at least one of them was still working. 
+7 BYMS.-
+8 Q Okay. So I might do this out of order just because I think some of the time 
+9 stamps on the emails might not be exactly right. But let's go back to the text messages 
+10 with Mr. Shafer, please. It's exhibit 2. 
+11 As I think you described to us, it seems like there's a little flurry of activity for 
+12 December 11th, so we'll be here for a few minutes, at least. 
+13 So following on the exchange that we looked at before with Mr. Shafer and the 
+14 chairman of the party in Georgia, you did have some additional text messages with him 
+15 on the 11th. I think it starts on the next page. There we go. 
+16 So we don't see any text messages, at least, between you and Mr. Shafer in 
+17 between the 7th and the 11th, but then it looks like he reached out to you in the evening 
+18 of December 11th. 
+19 Do you see that? 
+20 
+21 A 
+Q Yes. 
+Okay. Tell us what you remember about this exchange. 
+22 A Pretty much just what the texts says right there. He reached out to see 
+23 who was in charge of whipping the electors at this point. At this point, the email had 
+24 already been sent that I was not doing anything with the electors anymore. So my 
+25 response is that Mike Roman is in charge of whipping and executing the event --I mean,  62 
+1 pretty much everything that it says right there. 
+2 Q Okay. But you had already had your conversations with Mr. Morgan and 
+3 Mr. Chesebro at this point? 
+Correct, yes. 4 
+5 A 
+Q Okay. Tell us more about Mike Roman. I understand that he was apart of 
+6 the election day operations team. Is that right? 
+7 
+8 
+9 
+10 
+11 
+12 A 
+Q 
+A 
+Q 
+A 
+Q Yes. 
+Okay. How well do you know Mr. Roman? 
+I would say very well. 
+You worked together on the campaign? 
+Yes. 
+And how --what was the significance to you of Mr. Roman coming in to 
+13 replace the political team after, you know, you had --were no longer participating in the 
+14 alternate electors plan? 
+15 
+16 
+17 
+18 A 
+Q 
+A 
+Q I'm not sure I understand the question. The significance? 
+Was Mr. Roman still an employee of the Trump campaign at that point? 
+Yes, I believe so. 
+Okay. And so is it fair to assume that it was --he was brought in, but it 
+19 wasn't just Mike Roman, but also the other people who worked with him on EDO. Is 
+20 that right? 
+21 
+22 A 
+Q Yes. 
+Okay. And is it fair to assume as I think you explained earlier that then 
+23 Mike Roman and his team took over the logistical piece of actually making the electors 
+24 meetings and votes happen? 
+25 A Yes.  63 
+1 Q Okay. Help me to understand what the difference was, you know, why you 
+2 were kind of instructed not to be involved in this process anymore, but why the campaign 
+3 through Mike Roman still was? 
+4 A So I guess from the very beginning when the well-documented meeting with 
+5 Justin Clark and Rudy happened and kind of the legal team became divided, it really kind 
+6 of divided the campaign. 
+7 So I think Rudy and his team were working in the campaign office for a couple of 
+8 days after that maybe, but then they moved to a completely different location. And to 
+9 my knowledge, we had no interaction with what they were doing, right? We were kind 
+10 of more try to figure out what strategies they were employing and like we've talked 
+11 about, Matt and Justin were taking competing legal theories higher up than themselves 
+12 and kind of talking about things. 
+13 That divide on the campaign, I guess, it led to a divide in campaign. And I can't 
+14 speculate as to why Mike Roman was chosen, but I think Rudy or his team --I guess I will 
+15 speculate --I think Rudy or his team saw them as loyal to executing this plan whereas, 
+16 you know, Justin and Matt and our part of the legal team were not going to pursue this 
+17 further.  64 
+1 
+2 [3:09 p.m.] 
+3 BY MS. 
+4 Q Okay. That's helpful and fair. So, certainly, as you said, it is well 
+5 documented, and we talked about it a little bit before, two different perspectives, two 
+6 different strategies recommended to the President, two different teams on the legal side. 
+7 And then, apparently, it's helpful to learn that that also translated into more 
+8 nonlegal staff members picking a side in this time period. Is that a fair summary? 
+9 don't mean to put words in your mouth. 
+10 
+11 A 
+Q Yes. 
+Okay. Did you have any conversations with Mr. Roman about this process 
+12 as he --either as he took over or at any later point? 
+13 A I believe we spoke, like, on the night of December 11th, kind of around that 
+14 time we were transitioning things. I believe he called me to just kind of ask what was 
+15 going on here, because if I remember correctly, he was kind of caught off guard with it as 
+16 well. And that was it, like, that was the last --you know, the only conversation we had. 
+17 Q Okay. Did you share with him any of the context about how you ceased to 
+18 be involved in the process, including, you know, your discussions with Mr. Morgan? 
+19 A Yes. We kind of talked through it because he was asking why are 
+20 y'all --why are you, as the legal team, not doing this anymore. And I kind of explained 
+21 to him that, you know, we were backing out. Rudy had said that --you know, we were 
+22 in the process of backing out anyway --that Rudy had said that this was going to Ken. 
+23 I didn't know, you know, a lot of the context, the decision making behind it, but 
+24 that's what we're being told. And Matt is advising us to just completely back out of this 
+25 whole thing, so that's what we're doing.  1 
+2 Q 
+A Okay. And what was Mr. Roman's response? 
+Like I said, at this point, he was a little bit caught off guard by it as well. 
+3 This had been a political operation before, and his team was not set up to --he was 
+4 communicating that his team was, like, not really set up to do this, but they did have 
+5 people in every State so that they could do it. 
+6 But, for the most part, like I said, it sounded like he was kind of caught off guard 
+7 by it as well. 
+8 Q Okay. Did you have any conversations with him about the substantive, 
+9 legal issues implicated by the plan? 65 
+10 A No. I just relayed to him that Ken had his ideas about how things should be 
+11 done, and that he should defer to Ken on it from this point on. 
+12 Q Okay. Understood. Okay. Let's look at exhibit 7, please. So this is an 
+13 email. I recognize you're not on the very top line of this email, Mr. Findlay, but if we can 
+14 scroll down --yeah, that's great --the part that I want to focus on is this email from Ken 
+15 Chesebro, dated Friday, December 11th at 10:03 a.m. There's a number of people 
+16 copied on the "to" line, and then you're the one on the cc with your DonaldTrump.com 
+17 email address. Do you remember this email? 
+18 A I don't. I saw it when you sent it over, but I don't really remember this 
+19 email. 
+20 Q Okay. It seems to reflect Mr. Chesebro handing off point, as he says, to you 
+21 for the Pennsylvania electoral votes. And I recognize, you know, it looks like it's in the 
+22 morning. Do you think it's reasonable that this email happened before your 
+23 conversations with Mr. Morgan and Mr. Chesebro? 
+24 
+25 A 
+Q It might be. I really --I really just don't remember this. 
+Okay. But I guess it's --if he was handing point off to you, meaning that  66 
+1 you were to handle something with respect to the Pennsylvania electors, it's inconsistent 
+2 with it happening after you told him you were no longer being involved. Is that right? 
+3 
+4 A 
+Q That's correct. 
+Okay. Let's go back and look at the second Chesebro memo --it's at tab 3, 
+5 exhibit 3 --before we go on through the 11th. 
+6 I did just want to put this other memo up in front of you, Mr. Findlay. It's dated 
+7 December 9th, 2020, and it's the second memo from Mr. Chesebro. I think you said that 
+8 you received both of them at some point in emails. Is that right? 
+9 
+10 A 
+Q Yes. 
+Okay. If you had a chance --did you have a chance to look at this before 
+11 we spoke today? 
+12 
+13 A 
+Q Yes. I reviewed it generally. 
+Okay. All right. Not a quiz, but generally it walks through the Federal and 
+14 State --the Federal and State provisions that are potentially relevant to the convening of 
+15 electoral --alternate electors rather, in each of the six States. Is that fair? 
+16 
+17 A 
+Q Yes. 
+Okay. And on this first page --if you could scroll down just a little bit, 
+18 --- yeah, that middle paragraph here, it starts with "it appears." 
+19 So this is written on December 9th, or at least that's what is stated on the 
+20 document. Again, it looks like it's a memo from Ken Chesebro to Judge Troupis, and 
+21 then it says: It appears that even though none of the Trump-Pence electors are 
+22 currently --underlined --certified as having been elected by the voters of their State, 
+23 most of the electors, with the possible exception of the Nevada electors, will be able to 
+24 take the essential steps needed to validly cast and transmit their votes so that the votes 
+25 might be eligible to be counted if later recognized by a court, a State legislature, or  1 Congress as the valid ones that actually count in the Presidential election. 
+2 So the first question is just, is this consistent with your understanding of the 
+3 circumstances before the Supreme Court declined to take up the Texas v. Pennsylvania 
+4 case? 
+5 
+6 A 
+Q Yes, I believe so. 
+But, after that point, tell me --again, I don't want to put words in your 
+7 mouth, but I understand from what you've told us today that after the point that the 
+8 Supreme Court made a --you know, took action or decided not to on the Texas v. 67 
+9 Pennsylvania case, that you would no longer have seen this to be, you know, an accurate 
+10 description of the process. 
+11 
+12 
+13 A That's correct. 
+Q Okay. 
+of the sentence? And what generally did you understand about this point at the end 
+He says: So that the votes might be eligible to be counted if later 
+14 recognized by a court, the State legislature, or Congress. 
+15 Based on your understanding of the electoral college process and having been 
+16 involved in at least part of this process with the alternate electors question, what were 
+17 the ways that a State legislature or Congress might have recognized the electoral votes? 
+18 Mr. Passantino. So are you asking him, like, what his understanding at the time 
+19 or are you asking to sort of give a legal analysis now? 
+20 BYMS.-
+21 
+22 Q Yeah, I'm asking --thanks, Mr. Passantino. 
+I'm asking for your understanding at the time. Did you see a role for a State 
+23 legislature, for instance, regarding these alternate slates of electors? 
+24 A No. This was not something we were even considering at the time. We 
+25 were looking just strictly at the court case.  1 
+2 Q 
+A 
+3 court case. 
+4 Q Okay. 
+Like I said, to us, December 14th, like, yeah. We were just looking at the 
+Understood. Did you come to learn at any point that there were others, 
+5 and perhaps Mr. Giuliani and Mr. Chesebro were part of that category, that were urging 
+6 State legislatures to take some action with respect to these alternate slates of electors? 
+7 A Yes. We learned that later. I kind of watched it unfold in the news with 
+8 everybody else as this process was going on. 
+Q What was your understanding for the --well, let me rephrase. 
+Did you think that was appropriate? 68 
+9 
+10 
+11 A I mean, that's kind of --so as far as --like I said, nothing was surprising at this 
+12 point. Well, I guess your question is, was it appropriate? At some point, the votes are 
+13 what they are. Right? And, unless you've got proof that the votes are not what they 
+14 are, it's tough to keep fighting that fight. 
+15 Q Okay. And what about the Congress part of this parenthetical --court, 
+16 State legislature, or Congress, --at the time, did you understand that there was a role for 
+17 Congress to recognize these alternate slates of electors? 
+18 
+19 A 
+Q No. 
+And did you learn that there were efforts by others to urge Congress to take 
+20 some action with respect to these alternate slates of electors? 
+21 
+22 A 
+Q Yes. I learned about it later on. 
+Did you have conversations internal on the campaign about it, or did you just 
+23 learn about it through the news in connection with January 6th? 
+24 
+25 A 
+Q Just through the news. 
+Okay. So, if we could go to the very last page, I think it's page 5 of this  69 
+1 exhibit, on the very bottom, the concluding paragraph. 
+2 So, after walking through the States and the statutes or other rules related to the 
+3 appointment and convening of electors --excuse me --Mr. Chesebro concludes the 
+4 memo with this paragraph that provides some assessment for varying degrees of how 
+5 problematic convening voting by an alternate slate of electors would be. 
+6 He concludes: It's unproblematic for Arizona and Wisconsin, slightly problematic 
+7 in Michigan, somewhat dicey in Georgia and Pennsylvania, and very problematic in 
+8 Nevada. And then, in parentheticals, he gives his explanation for those assessments. 
+9 What's your understanding of his analysis here, and what --well, let me be more 
+10 precise --what was it at the time, and did you have any concerns about the campaign 
+11 going forward with convening electors in any of these States? 
+12 A So I'd have to review for each individual State what his analysis was, but, 
+13 generally, like I said, we backed out of this thing. I mean, if I thought there was a path 
+14 forward, I might've asked to be part of this. Right? But, like, in my analysis, there was 
+15 not a lot left to do once the court case got dismissed. So I didn't even really go into a 
+16 State-by-State analysis of what Ken's memo meant for every State. 
+17 Q Okay. Did the fact that alternate electors would not be able to comply with 
+18 State law because, for instance, they have to meet inside the Senate Chamber, or they 
+19 have to have a Governor, you know, ratify alternate electors, did that factor into your 
+20 analysis or your discussions internally at the campaign? 
+21 A No, not really that I recall. Like I said, kind of the threshold question is, is 
+22 there even any reason for them to be meeting in the first place? And, once the Supreme 
+23 Court decided --declined to hear that case, like I said, we backed off of everything. So 
+24 there wasn't even, in my mind, and from what I was a part of, there was not much 
+25 analysis to do after that.  70 
+1 Q Okay. That's helpful. I wanted to go --before we move on from this 
+2 document, I wanted to ask you one more question. After our conversation about your 
+3 discussions with Mike Roman, was Mr. Roman at all concerned about the legal team 
+4 backing out or declining to participate further in this process? 
+5 A I don't know. We didn't really discuss it other than just his kind of surprise, 
+6 like I said, surprise at being given this job in the first place. I don't know that he had any 
+7 other concerns, but we also didn't discuss it. 
+8 Q Okay. All right. Who did Mr. Roman report to within the campaign? 
+9 A Well, for a while, he reported to Justin Clark. Definitely prior to election 
+10 day, he reported to Justin Clark. And then, after that, kind of his reporting, I guess I 
+11 don't know who he reported to all the time. 
+12 
+13 
+14 Q 
+A 
+Q After he ceased reporting to Mr. Clark? 
+Yes. 
+Okay. Okay. So I think I've got a couple more emails that we can go 
+15 through really quickly that you produced to us that probably predated your conversation 
+16 with Mr. Chesebro. The first is exhibit 8, please. 
+17 So, while my colleague is pulling this up, this is an email that you produced. It's 
+18 from Ken Chesebro to an email address that appears to be affiliated with Bernie Kerik, 
+19 and then Mr. Rudy Giuliani is copied, as well as yourself. 
+20 And this is an email where Mr. Chesebro attaches his two memos about the --in 
+21 the subject line he says: Explaining the reason for casting electoral votes and logistics. 
+22 And it looks like Mr. Chesebro is referring to Michigan in this email to Mr. Kerik. 
+23 Do you have any understanding of what Mr. Keri k's role was in this process? 
+24 
+25 A 
+Q I didn't, no. 
+Did you ever talk to Mr. Kerik about it?  1 
+2 
+3 
+4 A 
+Q 
+A 
+Q No. 
+Did you talk to Mr. Giuliani about it? 
+No. 
+Okay. And Mr. Chesebro is inviting Mr. Kerik, Mr. Giuliani, or yourself to 
+5 weigh in on the press release that he's drafted. Did you provide any comments on the 
+6 press release? 
+7 
+8 A 
+Q No. 
+Okay. Another one, the next tab, number 9, please, this is another email 71 
+9 that you produced to us from Ken Chesebro in the afternoon of December 11th, this one 
+10 directed to Mike Roman with you copied. And it says it's attached a packet of 
+11 documents --it indicates that a packet of documents related to Pennsylvania, as well as 
+12 his two legal memos. 
+13 And, in his third sentence, he writes: Pennsylvania, Georgia, and Michigan are 
+14 the main concerns at this point. 
+15 What do you --what did you understand at the time him to mean by that? 
+16 A I don't know. Like I said, we were kind of winding down on our side, and I 
+17 was not proactively talking to Ken. 
+18 
+19 
+20 Q 
+A 
+Q Okay. Do you think this happened after your conversation with him? 
+I think it could have. 
+Okay. So, as reflected in the earlier email, he writes that Bernie Kerik is 
+21 heavily involved with Michigan. And then he seems to refer to you as the best source of 
+22 information for Georgia, and then also kind of refers to you in the context of 
+23 Pennsylvania. 
+24 Based on what you've told us, I assume that was not, you know, telling you to take 
+25 the ball and run with it with those States, but rather to convey what you knew to  1 Mr. Roman. Is that fair? 
+2 A Yes. 
+3 
+4 
+5 
+6 Q 
+A 
+Q 
+A Okay. And do you remember what you told Mr. Roman about Georgia? 
+I don't believe we had a conversation about Georgia. 
+Okay. Did you talk with him specifically about Pennsylvania? 
+I don't know. I know Roman was very involved in Pennsylvania. I don't 
+7 recall any specific conversations about it, but there may have been. 
+8 
+9 Q Okay. Let's look at tab 10, please, exhibit 10. 
+Okay. So I expect this is the email that you described to us, you know, sort of 
+10 taking yourself out of the process. Is that fair? 
+11 
+12 A 
+Q Yes. 
+Okay. So it's dated December 11th at 5:52 p.m., and there are several 
+13 people in the "to" line all with @gap.com email addresses. So I assume these are the 
+14 regional political directors that you referred to? 
+Correct. 72 
+15 
+16 A 
+Q Okay. Okay. After you and Mr. Morgan and Mr. Clark took yourselves out 
+17 of this process, did the regional political directors, the RNC employees on this email, also 
+18 cease to be involved? 
+19 A I don't know. I don't know. Because I was not involved. I was not 
+20 actively reaching out to them. I know some of them, I think, copied me on emails going 
+21 into the next day about things, but I don't know what role each of them kind of played 
+22 after this. 
+23 Q Okay. Did you have any conversations with them about the circumstances 
+24 for your withdrawal? 
+25 A I don't remember anything specifically, but they may have reached out and  1 kind of asked why am I not involved anymore or what the change is. 
+2 Q Okay. Do you remember in particular having that conversation with any 
+3 one of these? 
+4 
+5 A 
+Q No, I don't, necessarily. But like I said, it may have happened. 
+Got it. Did you ever come to learn who, outside of the campaign, you 
+6 know, your reporting structure through Mr. Morgan and Mr. Clark, was aware of the 
+7 distinction between the sort of handoff in the participation here from your team to 
+8 Mr. Roman's? 73 
+9 And I'm thinking in particular about folks at the White House. Do you know if the 
+10 chief of staff, Mr. Meadows, was aware of or involved in that decision at all? 
+11 
+12 
+13 A 
+Q I don't know. 
+Okay. All right. So let's look at tab 12, please. 
+So, Mr. Findlay, this is another document we provided to you in advance. We 
+14 received it from another source. And, at the bottom, it reflects an email --you're not on 
+15 this very top one, but if we could scroll down a little bit --perfect. 
+16 So this is an email from Ken Chesebro to yourself, copying several individuals: 
+17 Mr. Black, who you identified for us before; Mike Roman; and then this email address for 
+18 Mr. Kerik as well. 
+19 And Mr. Chesebro is attaching a packet of documents for Georgia electors. This 
+20 is, again, that evening of Friday, December 11th --and,., if you don't mind just 
+21 scrolling down a little bit just so we can see the file names. 
+22 There are six attachments. I will not make you look at each of them, but the 
+23 names of the files are very descriptive. So it really looks like all of the component pieces 
+24 that were provided to the Georgia electors so that they could complete this process, a 
+25 how-to document, followed by draft press release and the ballots, the certificates  1 themselves. 
+2 Did you discuss with Mr. Chesebro his preparation of these documents at all? 
+3 
+4 A 
+Q No, I don't believe so. 
+Okay. So did you ask him to prepare these documents, or were you at all 
+5 involved in directing him to do so? 
+6 
+7 A 
+Q No. 
+Okay. So, again, I won't make you look at each of the attachments, but in 
+8 those documents, one of the steps that is outlined for the electors is mailing the ballots 
+9 after the meeting directly to the relevant authorities, including the Vice President in his 
+10 capacity as President of the Senate. 
+11 So my question for you is just whether, before you got out of the process, were 
+12 you involved at all in determining what those sort of next steps would be after the 
+13 electors met and voted? 
+14 A So, no, I wasn't involved in the process. I mean, way back, kind of around 
+15 when we were doing this before, I did research into, like, who they have to be --excuse 74 
+16 me. When we were doing this just for the States that Trump won, right, I had done the 
+17 research to find out where it had to be mailed to because no one on the legal team just 
+18 kind of knew the ins and outs of the electoral count. Right? 
+19 So I became familiar with it and kind of conveyed that to the other lawyers at that 
+20 time, but I was not really involved with this process at all. 
+21 Q Okay. And did you have any understanding of the legal significance of 
+22 whether those ballots should be held in abeyance in some way or whether they should be 
+23 submitted, you know, to the archives and to the president of the Senate? 
+24 
+25 A 
+Q No, not at this time. 
+Okay. At a later time, was that relevant?  75 
+1 A I mean, so it wasn't really relevant to me in my opinion because, like I said, 
+2 when we backed out, like, I wasn't sure --when we backed out, there was a question 
+3 about --I just kind of stopped the legal analysis at that point. Right? It was kind of like 
+4 the threshold question has not been met here, so I stopped doing the analysis. 
+5 Q Okay. So let's look at tab 14, please, exhibit 14. This is another one of the 
+6 documents that you produced to us, Mr. Findlay. It is the following day, from Saturday, 
+7 December 12th, and it's an email from Ken Chesebro again. And it relays the contents 
+8 or some portion of a conference call that took place that day; it says with Mayor Giuliani. 
+9 From other information we've developed in our investigation, we understand that 
+10 this was a conference call to which a large number of the alternate electors were invited 
+11 and some participated in. Were you aware of that call? 
+12 
+13 
+14 
+15 
+16 it? 
+17 
+18 A 
+Q 
+A 
+Q 
+A 
+Q Not at the time. I became aware when this email came across. 
+Okay. So you didn't participate in the call yourself? 
+No. 
+Okay. Did you discuss it at all with Mr. Morgan after you became aware of 
+No, I don't believe so. 
+Okay. Let's look at exhibit 15, please. So this is another one of the 
+19 documents you produced. It's an email that same day, Saturday, December 12th, in the 
+20 evening, to yourself --or really it's from Ken Chesebro to Mike Roman with you copied on 
+21 it. 
+22 And it relates to --well, the subject line says "tweaked language for certificate" 
+23 and provides some suggestive language for dealing with the concern raised in the 
+24 Pennsylvania conference call about electors possibly facing legal exposure. 
+25 Were you aware of a concern raised by any electors about possible legal  1 exposure? 
+2 
+3 A 
+Q Not really until this email came across. 
+Okay. So, in your earlier, you know, involvement in the process, had you 
+4 ever become aware of a request by Pennsylvania electors that the campaign indemnify 
+5 them for this conduct? 
+6 
+7 
+8 itself. A 
+Q No, that is something I had been aware of. 
+Okay. This concern seems to be specific to the language of the certificate 
+9 -if you don't mind scrolling down, so we can see the bottom half. 76 
+10 Inside the email here, it copies the language that appears on the certificates of the 
+11 vote, starting "we, the undersigned," and then there's this bold language that's inserted 
+12 that says: On the understanding that it might later --I think there should be a word "be" 
+13 there --determined that we are the duly elected and qualified electors for President and 
+14 Vice President. 
+15 Were you aware of concerns raised by the electors in Pennsylvania or any other 
+16 State about this duly elected language? 
+17 A Yes. I think this goes back to when we were talking about Chairman Ta bas, 
+18 like, there was kind of a general awareness that --about the legality of all of this once the 
+19 court case didn't --like, the validity, I guess, more than the legality --about the validity of 
+20 this once it happened. 
+21 And I think, like I said, several electors had that concern, and I think it goes to that. 
+22 Q Okay. Just explain to me a little bit more, what's the distinction that, in 
+23 your mind, between a concern about validity versus a concern about legality? 
+24 A Well, I mean, just because someone puts together a document, that doesn't 
+25 mean that it has followed, like, the legal process to be recognized as binding in any way.  77 
+1 Q Okay. And did you have that concern about this language that 
+2 Mr. Chesebro had put together? 
+3 A I'm not sure that I understand. So it seems to me that this language was 
+4 inserted at the time. So, look, I think, at this time, the court case had been dismissed, 
+5 right? So we backed out. But I think people were still hoping to find some legal way to 
+6 cast these votes. 
+7 I guess I'm just speculating at this point, but the Pennsylvania electors were 
+8 probably, knowing what I know about Chairman Ta bas, looking for something to --to 
+9 preserve their rights in case something came up. 
+10 Q Okay. And what about --1 mean, that's all totally fair, and in reality, this 
+11 language was altered for the Pennsylvania certificate and the certificate of one 
+12 other --one other State as well. But ultimately there were seven slates that were, you 
+13 know, convened and submitted, and five of them did not have this altered language, that 
+14 just said: We, the undersigned, being the duly elected and qualified electors for that 
+15 particular State. 
+16 And I guess my question is, your point about validity versus legality. Without this 
+17 caveat and for those other five States, the language that was used, which do you see 
+18 applying? Is there a concern about possible validity or a concern about possible legality 
+19 there? 
+20 A I mean, I guess I'm not sure that I understand the question, but it seems like I 
+21 would kind of being speculating at this point as to what they were trying to accomplish 
+22 here. 
+23 Q Okay. Did you have any --well, one thing that's clear here, I mean, 
+24 Mr. Chesebro has described it as easily fixed. And then, at the bottom, he says: It 
+25 strikes me that if inserting these few words is a good idea for Pennsylvania, it might be  1 worth suggesting to electors in other States. 
+2 Did you have any conversations about suggesting this change prompted by 
+3 Pennsylvania to other States? 
+4 
+5 A 
+Q No. 
+Okay. And did you --I know that at some --you know, this is --looks like 
+6 it's something that was discussed, or Mr. Chesebro was revising it after you were no 78 
+7 longer involved in the process. But did you come to learn why that change wasn't made 
+8 for the other States? 
+9 
+10 A 
+Q No. 
+Okay. Just a couple of questions, I won't pull up the documents unless it's 
+11 helpful to refer to them, but there's a document that we provided to you that relates to 
+12 the electors in Nevada. Did you have any communications with electors in Nevada 
+13 about this process? 
+14 
+15 A 
+Q No, I don't believe so. 
+Okay. And there's an individual copied on the email from Mr. Chesebro 
+16 related to Nevada. Mike Roman is also copied, but there's an individual named Mike 
+17 Brown on the email. Are you familiar with him? 
+18 
+19 
+20 
+21 A 
+Q 
+A 
+Q Yes. 
+Who is Mike Brown? 
+That was Roman's deputy, Mike Roman's deputy. 
+Okay. And do you have any understanding of what his role was with 
+22 respect to the alternate electors? 
+23 
+24 A 
+Q No. 
+Okay. There is an email in here from Ken Chesebro --again that weekend, 
+25 this one's on Sunday December 13th --that you produced to us, to Mike Roman and  79 
+1 yourself, and it relates --from Mr. Chesebro, providing documents related to New 
+2 Mexico. 
+3 Do you know how New Mexico came to be one of the States where alternate 
+4 electors met and voted? 
+I don't. 5 
+6 A 
+Q Okay. I ask just because it wasn't on your list that you identified earlier as 
+7 the litigation States, and didn't seem to be one of the ones that was on the radar of your 
+8 team when you were working on this. So I'm just wondering if you have any thoughts 
+9 for how they came to be included? 
+10 
+11 
+12 A 
+Q I don't know. 
+Okay. Okay. Let's look at one more document, exhibit 19, please. 
+So this one we sent to you in advance even though it's not from your production, 
+13 so hopefully you had a chance to look over it. Is that fair? 
+14 
+15 A 
+Q Yes. 
+Okay. It's an email exchange that it actually starts with an email that you 
+16 wrote on December 10th, kind of before, you know, being extracted from the process. 
+17 We looked at this email in another thread earlier. 
+18 And then, if you don't mind scrolling up to the bottom half of the first page, 
+19 please-
+20 I just wanted to direct your attention to the email from Justin Clark --if you could 
+21 scroll up, yeah, there we go. 
+22 That's Sunday, December 13th. Mr. Clark writes to Mr. Trainer, yourself, 
+23 Mr. Morgan, and Tim Murtaugh, who I understand to have been a communications 
+24 person with the campaign. Is that right? 
+25 A Yes.  80 
+1 Q Okay. So Mr. Clark writes: We have alternate slates that will vote on 
+2 Monday. This has morphed into something bigger than originally planned so I wouldn't 
+3 build press into it. 
+4 What do you think --or what did you understand Mr. Clark to refer to when he 
+5 said, "This has morphed into something bigger than originally planned"? 
+6 A So my understanding of this was, like I said, this was just supposed to be a 
+7 contingency plan if litigation went our way. It was not supposed to last past that, 
+8 because that was kind of the main justification that everyone was relying on for this to 
+9 happen. 
+10 My understanding is that he never anticipated it going past, you know, that 
+11 December 11th date. But, at this point, you know, it's Sunday; it had gone past this date 
+12 for 2 days. Rudy and his team were making preparations to go forward with this thing. 
+13 I think --I don't --I don't remember, like, when press was talking about this, but 
+14 press started talking about this either now or in the future. I mean, people were making 
+15 plans to meet at capitals. 
+16 And it was really kind of beyond the control or scope of Justin and Matt and this 
+17 side of the team, and so it got bigger and more out of control. So it didn't seem like a 
+18 good idea to advise Tim to do press on it when we didn't know what was going to happen, 
+19 we didn't know really a whole lot about it at that point. 
+20 Q Okay. And, if we could scroll back up, Mr. Murtaugh responds, and then 
+21 Mr. Clark writes in the final email at the top here: You know, I think from Rudy or Jenna 
+22 is better, and then, the reality is, there won't be much rationale for these folks voting 
+23 tomorrow. 
+24 So the Rudy or Jenna piece seems consistent with everything you've told us, that 
+25 this was now a Rudy operation and, therefore, that any public statements about it should  81 
+1 be coming from him. Is that fair? 
+2 
+3 A 
+Q Yes. 
+Okay. So the reality that there won't be much rationale for these folks 
+4 voting tomorrow, is that consistent with your understanding of the circumstances? 
+5 
+6 A 
+Q Yes. 
+And it's consistent with your conversations with the folks on this email, in 
+7 particular, Mr. Morgan and Mr. Clark. Is that fair? 
+8 
+9 A 
+Q Yes. 
+Okay. So I want to just step back a little bit here. Do you think that that 
+10 was communicated to the electors themselves? 
+11 
+12 A 
+Q I don't know. 
+Because it seems like there were --your original --the original outreach that 
+13 was done through you and the political --you know, "you" meaning you, Mr. Morgan, 
+14 Mr. Clark, you're a team at the campaign --and the political operation was very much in 
+15 the context of elite litigation remedy that you've explained to us. Is that fair? 
+16 
+17 A 
+Q Yes. 
+The switch in control of the process from your team over to Rudy's team and 
+18 Mr. Chesebro, in particular, was any of that communicated to the electors? 
+19 A So I don't know. It was communicated to the regional political directors 
+20 who were communicating with the electors. 
+21 Q Okay. If the electors maintained an understanding that they were meeting 
+22 and casting votes on the 14th based on what had originally been described to them as 
+23 part of a litigation contingency, in your mind at least, that was no longer the case on the 
+24 14th when they met. Is that fair? 
+25 A I think so.  82 
+1 Q Okay. Based on what's been publicly reported, and I can say based on our 
+2 investigation, we have not yet seen any indication that the change in circumstances 
+3 around the justification for --or the reason why the electors met was communicated to 
+4 the electors themselves. Do you have any information that would contradict that? 
+5 A So I'm not sure that I understand the question. Can you repeat the 
+6 question? 
+7 Q Yeah. It was kind of long. Let me see if I can say it a little more clearly 
+8 too. So, you know, you've explained to us that your team and the campaign, when 
+9 originally reaching out to the electors, explained to them that the process was a part of a 
+10 potential litigation contingency and then, in particular, you know, related to the Supreme 
+11 Court litigation. Is that fair? 
+12 
+13 A 
+Q Yes. 
+Okay. And then you've also explained to us how that changed internally 
+14 within the campaign after the discussions on --related to the Texas v. Pennsylvania case, 
+15 and why you and your team within the campaign no longer felt that it was appropriate to 
+16 continue and, in fact, according to Mr. Clark in his email, that there was no longer any 
+17 rationale for the electors to meet. Is that fair? 
+18 
+19 A 
+Q Yes. 
+Okay. But, nonetheless, the electors --the process did continue whereby 
+20 people, at the direction of Mr. Giuliani, who was then leading litigation on behalf of the 
+21 Trump campaign, did continue to go through the process, convene the electors, have 
+22 them vote, and then have their certificates submitted. Is that right? 
+23 
+24 A 
+Q Yes. 
+Okay. Through publicly reported information and through our 
+25 investigation, we have not seen any indication that the electors themselves were aware  83 
+1 of the change in strategy or the change in circumstance related to the reasoning or the 
+2 rationale for why they should meet and vote on the December 14th. So that's me just 
+3 stating a fact and asking whether you know of any information that would contradict that, 
+4 any information that would indicate that the electors were informed about this change in 
+5 strategy and change [inaudible] --get back to your regularly scheduled --
+6 
+7 
+8 
+9 
+10 
+11 Mr. Passantino. Okay. Thank you. 
+Ms.- Does that work? All right. Let's take about 5 minutes. 
+Mr. Passantino. Okay. Sounds good. 
+Ms.- Okay. Thank you. 
+[Recess.] 
+Ms. - So let's go back on the record with the transcribed interview of 
+12 Mr. Joshua Findlay. It's 3:54 p.m. in Washington. Mr. Findlay, just a couple of wrap-up 
+13 questions for you. 
+14 BYMS.-
+15 Q So, in the process of your communications with Mr. Morgan and sort of the 
+16 process of change in your perspective and thus your role in the alternate electors process, 
+17 did you see --was there any specific memo or document that Mr. Chesebro wrote, or was 
+18 associated with, that prompted the understanding on your team, you and Mr. Morgan, of 
+19 the change in strategy going forward after the Supreme Court, you know, declined to take 
+20 up the case? 
+21 A I don't believe so. Not --you know, no new document that we haven't 
+22 already discussed. 
+23 Q Okay. That's helpful. So there's no other key document, even if it's not in 
+24 your possession, custody, or control any longer, that you remember, from Mr. Chesebro 
+25 regarding this whole subject area that you weren't able to find or remember existing but  1 no longer have? 
+2 
+3 A 
+Q No, not that I recall. 
+Okay. And I provided to you a long email thread, or it's in a couple of 84 
+4 pieces that we referred to earlier, that described, you know, your observations about the 
+5 post-election time period in Georgia. 
+6 I'm not going to make you sit there and relive those, you know, 9 weeks or so, but 
+7 there were a couple of key events that are described in there and that were publicly 
+8 reported either at the time or shortly after. 
+9 One was the visit by Mark Meadows to Georgia to appear at the site of a signature 
+10 match audit that was being conducted in Cobb County. Do you remember that? 
+11 
+12 A 
+Q Yes. 
+Were you involved at all in setting that up, or did you have any knowledge of 
+13 Mr. Meadows, you know, the facts around Mr. Meadows' appearance other than what 
+14 you learned from publicly reported sources? 
+15 
+16 A 
+Q No, I don't believe so. 
+Okay. 
+17 A I --so I was definitely not involved in any of the setup or anything like that. 
+18 I don't think I have any knowledge of it at this point. 
+19 
+20 
+21 Q 
+A 
+Q Okay. And did you interact with Mr. Meadows while you were in Georgia? 
+No. 
+Okay. There were also at the time, and then again since then, reports of 
+22 calls by the President to elected officials in Georgia. In your emails, you relayed the fact 
+23 of a phone call from President Trump to the attorney general of Georgia, Mr. Carr, and I 
+24 think it was in the context of the case that we've been discussing, Texas v. Pennsylvania. 
+25 Do you remember that?  85 
+Yes. 1 
+2 A 
+Q Did you have any involvement in those facts, or did you have any knowledge 
+3 about it, about President Trump's call to Mr. Carr that was not from publicly reported 
+4 sources? 
+5 
+6 A 
+Q No. 
+Okay. And what about, same question regarding calls that were placed by 
+7 Mr. Meadows and by President Trump to Secretary of State Brad Raffensperger and other 
+8 members of his staff, were you involved in that at all, or did you have any knowledge of 
+9 those circumstances other than from publicly reported sources? 
+10 
+11 A 
+Q No. 
+Okay. So I wanted to just go back and clarify one thing about what you told 
+12 us about your conversation with Mr. Morgan regarding the decision that you and he 
+13 would no longer participate in the alternate electors process. 
+14 And you recounted to us that some of what Mr. Morgan told you, and I just 
+15 wanted to get a little bit more detail if possible. Is that okay? 
+16 
+17 A 
+Q Sure. 
+Okay. So do you remember what Mr. Morgan told you about why the 
+18 process would continue even though you were no longer going to be involved in it? 
+19 
+20 
+21 
+22 A I don't have a lot of recollection about why that happened. 
+Can we go off the record --
+Ms. - If you guys would like to confer --
+Mr. Passantino. You want to have an attorney-client conversation, or you want 
+23 to just go off the record? 
+24 Mr. Findlay. Either way. 
+25 Mr. Passantino. Let's go off the record -- 1 
+2 
+3 
+4 
+5 
+6 Mr. Findlay. If you don't mind. 
+Mr. Passantino. --for right now. 
+Ms. - Yeah, we can do that. We're off the record now. 
+[Discussion off the record.] 
+BYMS.-
+Q Let's go back on the record. Okay. Great. So this is the transcribed 
+7 interview of Mr. Findlay. We're back on at 4:02. 
+8 So, Mr. Findlay, I just wanted to go over in a little bit more detail the 
+9 conversations that you had with Mr. Morgan earlier in December around the alternate 
+10 electors idea or plan. 
+11 So was there --1 think you described to us earlier that there were earlier 86 
+12 conversations where Mr. Morgan first asked you to look into this. I think you said it was 
+13 around the idea of --around the dates of December 7th or 8th. Is that right? 
+14 
+15 A 
+Q Yes, I believe so. 
+Okay. And, in those discussions, do you remember what Mr. Morgan told 
+16 you about how he was being directed to pursue this, like, from --what was the 
+17 motivation for looking into it? 
+18 A Sure. So, at that time, he said that this lawsuit was going to be filed in 
+19 Texas, right? Like I said, it was an attorney general lawsuit. It was going to the 
+20 Supreme Court. It was, like, a pretty legitimate lawsuit. 
+21 Conversations happened above his head that said that we need to --we should 
+22 look into electors in these potential litigation States, essentially, kind of look into the 
+23 process of how they would even, you know, be elected if we were to win a court case or 
+24 something like that. 
+25 Q Okay. Understood. And I think earlier you told us that what Mr. Morgan  87 
+1 had conveyed to you was that this is what the client wanted. Is that right? 
+2 
+3 A 
+Q Yes, that's correct. 
+Do you remember that as, like, a direct quote? Do you remember 
+4 Mr. Morgan using those words or other ones to say that to you? 
+5 
+6 A 
+Q I don't remember the exact words. 
+Okay. But you certainly got the impression that this was coming from the 
+7 client, the President himself. Is that fair? 
+8 
+9 A 
+Q Yes. 
+Okay. What else did Mr. Morgan share with you in that earlier 
+10 conversation in December that gave you the impression that this, you know, request to 
+11 look into this was coming from the client himself, from the President? 
+12 A Just kind of the general sense that this was a long shot, that it wasn't 
+13 necessarily something that he believed in wholeheartedly, that, like I said, there were 
+14 conversations that were happening above our heads about this, about whether we should 
+15 even look into it or not. But it was a --it was, like, at least a legitimate claim to do it 
+16 because of who was filing the lawsuit, and where it was, and the client requested it, and 
+17 so we would at least look into it and see what the process is. 
+18 
+19 
+20 Q 
+A 
+Q Okay. Did you ever hear Mr. Morgan refer to Rudy Giuliani as the client? 
+No, I don't believe so. 
+Okay. And so the later conversations that you had with Mr. Morgan after 
+21 the initial outreach to the electors and after the Supreme Court, you know, determination 
+22 regarding Texas v. Pennsylvania, I realize that you've told us earlier that this happened 
+23 over several conversations during the day of December 11th. Is that right? 
+24 
+25 A 
+Q Yes. 
+Okay. And what do you remember about what Mr. Morgan told you as to  88 
+1 why the process would continue even though you and he would no longer be involved in 
+2 it? 
+3 A So we didn't have a lot of discussions about why at that point. It was 
+4 essentially that Rudy had been put in charge of this process, and Rudy wanted Ken to take 
+5 over. 
+6 Q Okay. And did you have a similar sense from Mr. Morgan in that 
+7 conversation or several conversations that took place on December 11th as to whether 
+8 the desire for this process to continue, notwithstanding you and the legal team no longer 
+9 participating in it, whether that was coming from your client, the President? 
+10 A Yes, I believe so. I mean, he had made it clear that Rudy was in charge of 
+11 this and that Rudy was executing what he wanted. 
+12 Q Okay. Do you remember anything specifically that Mr. Morgan said during 
+13 those conversations that gave you that impression? 
+14 A No. The conversation was really about Rudy at that point. It was more 
+15 that Rudy had been given power and that this is what he wanted to do. And so it really 
+16 revolved more around Rudy. 
+17 Q Okay. That's great. Anything else, Mr. Findlay, that we neglected to ask 
+18 you that is relevant to our work and our inquiry here? 
+A No, I don't believe so. 19 
+20 Ms. - Okay. Mr. Passantino, anything that you'd like to address before 
+21 we go off the record? 
+22 Mr. Passantino. Nope. I think we're good. Thank you. 
+23 Ms. - Okay. Mr. Findlay, thank you very much for your time today. 
+24 Thank you for appearing here voluntarily and for your cooperation. We really 
+25 appreciate it.  1 
+2 
+3 
+4 Mr. Findlay. Thank you. 
+Mr. Passantino. Thank you. 
+Ms. - Okay. We'll go off the record, conclude the interview. 
+[Whereupon, at 4:08 p.m., the interview was concluded.] 89  1 
+2 
+3 Certificate of Deponent/Interviewee 
+4 I have read the foregoing __ pages, which contain the correct transcript of the 
+5 answers made by me to the questions therein recorded. 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 Witness Name 
+Date 90 

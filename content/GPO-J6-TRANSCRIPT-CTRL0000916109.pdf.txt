@@ -1,0 +1,2063 @@
+1 
+2 
+3 
+4 SELECT COMMITTEE TO INVESTIGATE THE 
+s JANUARY 6TH ATTACK ON THE U.S. CAPITOL, 
+6 U.S. HOUSE OF REPRESENTATIVES, 
+7 WASHINGTON, D.C. 
+8 
+9 
+10 
+11 DEPOSITION OF: MICHAEL ROMAN 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 Wednesday, August 10, 2022 
+Washington, D.C. 
+20 The deposition in the above matter was held via Webex, 
+21 commencing at 10:02 a.m. 1  1 
+2 Appearances: 
+3 
+4 
+s For the SELECT COMMITTEE TO INVESTIGATE 
+6 THE JANUARY 6TH ATTACK ON THE U.S. CAPITOL: 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 STAFF ASSOCIATE 
+, PROFESSIONAL STAFF MEMBER 
+SENIOR INVESTIGATIVE COUNSEL 
+, CHIEF INVESTIGATIVE COUNSEL 
+INVESTIGATIVE COUNSEL 
+, CHIEF CLERK 
+16 For the WITNESS: 
+17 
+18 DAVID WARRINGTON 
+19 GLYNIS GILIO 
+20 JONATHAN SHAW 
+21 MICHAEL COLUMBO 
+22 Dhillon Law Group 
+23 2121 Eisenhower Avenue, Suite 402 
+24 Alexandria, VA 22314 2  3 
+1 
+2 It is August 10th, and this is a deposition 
+3 of Mr. Michael Roman conducted by the House Select Committee to 
+4 Investigate the January 6th Attack on the United States Capitol 
+5 pursuant to House Resolution 503. 
+6 At this time, I'd ask you, Mr. Roman, to state your full 
+7 name and spell your last name for the record. 
+8 Mr. Roman. Michael A. Roman. Romeo, Oscar, Mike, 
+9 Echo (sic), November. 
+10 Thank you, Mr. Roman. 
+11 And I see that we have a few people from Mr. Warrington's 
+12 law firm joining as counsel today. 
+13 Mr. Warrington, if you could introduce yourself and then, 
+14 I th i n k , for e ff i c i ency , i f you could j us t i n trod u c e the others 
+15 a n d i den t i f y t he i r po s i t i on s . 
+16 Mr. Warrington. Sure. Absolutely. 
+17 David A. Warrington, W-a-r-r-i-n-g-t-o-n, for Mr. Roman. 
+18 Along w i th me f r om o u r f i rm a re Mi k e Col um b o , C -o -l -u -m -b -o ; 
+19 Jon at ha n Sh aw , S -h -a -w ; and Glyn i s G i l i o , G -i -l -i -o . 
+20 Very good. Thank you. And they're all 
+21 attorneys on the team representing Mr. Roman, correct? 
+22 Mr. Warrington. That's correct. 
+23 Very good. 
+24 All right. At this time, I'd ask the reporters who are 
+25 joining remotely to swear in Mr. Roman.  4 
+1 The Reporter. Do you solemnly declare and affirm that the 
+2 testimony you are about to give will be the truth, the whole 
+3 truth, and nothing but the truth? 
+4 Mr. Roman. I do. 
+5 Thank you very much. 
+6 So this is going to be a staff-led deposition, but if any 
+7 members of the select committee join, they of course may choose 
+8 to also ask questions. 
+9 You can see there on the platform, if you have the 
+10 participants list up, everybody who's in the meeting remotely. 
+11 And if any members join, I'll try to announce their presence so 
+12 that you, Mr. Warrington, and the others know that they' re here, 
+13 and I'll try to do so as quickly as possible, though there may 
+14 be a delay. 
+15 Just introducing the people that are in the room with me, 
+16 my name is I'm a senior investigative counsel for 
+17 the select committee. To my left is , investigative 
+18 counsel for the committee, and to my right is professional staff 
+19 member , who's also with the select committee. On 
+20 the platform, other staff is joining as well, including our chief 
+21 clerk, , and potentially others as well. 
+22 You also see a number of official reporters. They are 
+23 taking the official record of today's deposition. There are 
+24 more than one, and there are likely going to be more than one, 
+25 but there's only one of them who's taking the official record  5 
+1 at a ti me. 
+2 Just to go over some of the ground rules that we're going 
+3 to be following, under the House deposition rules, neither the 
+4 committee members nor staff may discuss the substance of 
+5 testimony you provide today unless the committee approves it 
+6 release. And you and Mr. Warrington, your attorneys, will have 
+7 an opportunity to review the transcript after we're done here 
+8 today. 
+9 We're going to follow the House deposition rules that we 
+10 provided to Mr. Warrington previously. Under those rules, 
+11 counsel for other persons or government agencies may not attend. 
+12 And, of course, you are allowed to have an attorney present, and 
+13 we've noted their presence already on the record today. 
+14 It is against the rules to make any outside recordings of 
+15 this, and I'd just ask for you to confirm that neither you nor 
+16 anyone you're aware of is recording this session on your end. 
+17 Is that correct? 
+18 M r . Wa r r i n gt on . We ' re not rec o rd i n g . 
+19 Okay. Thank you, Mr. Warrington. 
+20 Like I mentioned before, there's an official reporter 
+21 transcribing the record of this deposition. Because it's done 
+22 using stenography, please wait until my question is complete 
+23 be f o re you beg i n you r response , and I w i l l let you complete you r 
+24 response before asking my next question. 
+25 Of course, the reporter can't take nonverbal responses,  6 
+1 like shaking your head, so it is important that you answer each 
+2 question with an audible and verbal response. 
+3 We do ask that you provide complete answers based on your 
+4 best recollection. We understand that some of these events 
+5 happened over a year ago, and so if you don't remember something, 
+6 that's perfectly fine; you can just say so. But you are under 
+7 oath, and if do you remember something, you are obligated to 
+8 provide that information. 
+9 Also, if a question that I ask is not clear, please go ahead 
+10 and ask for clarification. Or if anybody else asks a question 
+11 that's unclear, same thing. We'd rather have you answer a 
+12 question that you understand than try to answer one that you 
+13 don't. 
+14 You may only refuse to answer a question to preserve a 
+15 privilege recognized by the select committee. And if you refuse 
+16 to answer a question based on a privilege, we can either proceed 
+17 with the deposition or seek a ruling from the chairman on the 
+18 objection. If the chairman overrules such an objection, you 
+19 would be required to answer the question. 
+20 And, finally, I do want to let you know that it's unlawful 
+21 to deliberately provide false information to Congress. And 
+22 since this deposition is under oath, providing false information 
+23 could res u l t i n c r i mi n al penal t i es f o r p e r j u r y and/ o r p r o vi d i n g 
+24 false statements. 
+25 Logistically, the last thing I'll mention here is that  7 
+1 please just let us know if at any time you need a break, either 
+2 for comfort or to speak with Mr. Warrington or any of your 
+3 attorneys. We're happy to allow for that, to comply with that. 
+4 And if you do so, I would just recommend that you turn off your 
+5 microphone and turn off your video so that nobody is going to 
+6 hear your end of the conversation that you're having. 
+7 Are there any questions about anything that we just went 
+8 over? 
+9 
+10 
+11 
+12 Mr. Roman. No. 
+Okay. Did you understand everything? 
+Mr. Roman. Yes. 
+Very good. 
+13 At this point, Mr. Warrington, I don't know if you have 
+14 anything that you would like to put on the record before we begin 
+15 quest i on s , but i f you ' d l i k e to , now ' s the opp o rt u n i t y . 
+16 Mr . Warr i n gt on . No , I don ' t . 
+17 Okay. Very good. 
+18 EXAMINATION 
+19 BY 
+20 Q Then, at this time, I'm going to pull up exhibit No. 1. 
+21 Make sure you can see that. And this is a subpoena titled at 
+22 the top ex hi bi t No . 1 . 
+23 
+24 
+25 If we could blow that up a little bit. 
+Bear with us one moment. 
+There we go. Are you able to see the exhibit we've just  8 
+1 put up, Mr. Roman? 
+2 A Yes. 
+3 Q Very good. Thank you. And do you understand you're 
+4 appearing pursuant to the subpoena dated March 28, 2021, with 
+5 your name, Michael A. Roman, at the top of it? 
+6 A There's a different date on the subpoena you have on the 
+7 screen. 
+8 Q I'm sorry. If we go down, we'll show you the date that 
+9 the subpoena was actually issued. At the bottom of page 1 there, 
+10 it's March 28th. 
+11 
+12 A 
+Q Okay. 
+Do you understand you're appearing here today pursuant 
+13 to this subpoena? 
+14 A Yeah, I believe so. There were two subpoenas. 
+15 Q Okay. This one, though, is the second one that you 
+16 actually were served with, correct? 
+17 A Yes. 
+18 Q Very 
+19 
+20 A 
+Q I believe so. 
+--good. 
+21 And the subpoena that you received did require the 
+22 production of documents described in the schedule attached to 
+23 the subpoena. Are you aware of that? 
+24 
+25 A Yes. 
+Q We received from you through Mr. Warrington  9 
+1 approximately 74 files, give or take. But after that 
+2 production, we understand that other responsive documents would 
+3 not be produced based on an assertion of the Fifth Amendment 
+4 privilege. 
+5 Is that your understanding of the document production? 
+6 
+7 A 
+Q My attorney has my documents. 
+Okay. And is that your understanding of the 
+8 production, that some were produced and others may or may not 
+9 have been if they were responsive documents? 
+10 
+11 A 
+Q Yes. 
+Have you destroyed, deleted, or otherwise manipulated 
+12 any documents that are responsive to the request described in 
+13 the subpoena, regardless of whether they were produced or not? 
+14 A No. 
+15 Q Other than your lawyers, have you coordinated with 
+16 anyone about your production of documents to the select 
+17 committee? 
+18 And just to be clear, I don't want to get into any 
+19 discussions that you've had with your lawyers that would be 
+20 privileged. 
+21 
+22 
+23 
+24 Mr. Roman. Can we mute it for a second? 
+Sure. 
+[Witness conferring with counsel.] 
+Mr. Warrington. And just to be clear,_ we had a 
+25 third-party vendor involved in the collection of documents.  10 
+1 That's the only other person --or, only other people that 
+2 were --and they were working for us, the law firm. 
+- Okay. 
+BY 3 
+4 
+5 Q So then, I guess I'll just clarify by saying 
+6 that. Other than your lawyers and anybody hi red by your lawyers 
+7 to help with the production of documents, have you coordinated 
+8 with anybody about which documents to produce or not to produce 
+9 to the select committee? 
+10 
+11 A 
+Q No. 
+And other than your lawyers or anybody hired by your 
+12 lawyers for your appearance before the select committee, have 
+13 you coordinated with anybody about the testimony that you may 
+14 provide here today? 
+15 A No. 
+16 Q So my goal today is to ask questions that are relevant 
+17 to our investigation, with the hope that you' re going to answer. 
+18 If you do have an objection or privilege assertion, we'll ask 
+19 that you assert it for the record. 
+20 And I note that there has been some correspondence on this 
+21 issue with Mr. Warrington as well as the chairman of the select 
+22 commit tee. 
+23 So I do want to start, though, with your professional 
+24 background. I understand that back in the '90s you began, I 
+25 guess, a career in politics. You worked with State Senator --or  11 
+1 the campaign for State Senator Bruce Marks in Pennsylvania, is 
+2 that right, around 1993? 
+3 A Yes. 
+4 Q And you yourself were elected a ward leader in 
+5 Philadelphia in 2002 or thereabouts? 
+6 A Yes. 
+7 Q Did you serve as that for about 4 years, until 2006? 
+8 
+9 A 
+Q Yes. 
+And I understand you also worked with the Pennsylvania 
+10 House Republican Campaign Committee. Is that correct? 
+11 
+12 A 
+Q 
+13 recall? 
+14 
+15 A 
+Q Yes. 
+Approximately how long did you do that, if you can 
+I don't recall. 
+Ultimately you worked through various other jobs, 
+16 ending up in Mr. Trump --Trump's White House starting in 2017. 
+17 Was that the beginning of the Trump administration? 
+18 A Yes. 
+19 Q What was your role in the White House? 
+20 A Special Assistant to the President. 
+21 Q Did you have a particular portfolio that you worked? 
+22 [Witness conferring with counsel.] 
+23 Mr. Roman. Yes. I was working in White House Counsel's 
+24 Office, assisting with vetting and clearance counsel. 
+25 BY  12 
+1 Q I've seen that you may have also had as part of your title 
+2 or a description of your job "Director of Special Projects and 
+3 Research." Is that right? 
+4 
+5 A Yes. 
+Q Was that the same job duties that you just described 
+6 working on inside White House Counsel's Office? 
+7 A Yes. 
+8 Q And you said "clearance counsel." Is that nominations? 
+9 Or could you be a little bit more specific about what that 
+10 involved? 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 PPO. 
+19 A Yes. Nominations. 
+Q Did you have any other roles outside of the nominations? 
+A Vetting of potential employees. 
+Q Okay. Employees --
+A Non-Senate-confirmed employees. 
+Q Did you do that with the Personnel Office? 
+A No. That was through White House Counsel's Office and 
+Q And when you say "employees," are you talking about 
+20 White House employees or administration employees more broadly? 
+21 A Administration employees. 
+22 Q So i t could be at o the r age n c i es i n the exec u t i v e b ranch . 
+23 I understand you left the White House around 2018. Is that 
+24 
+25 right? 
+A Yes.  1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 Q 
+A 
+Q 
+A 
+Q 
+A 
+Q 
+A 
+Q 
+When did 
+A 
+reelect. 
+Q 
+A 
+Q 
+Spring? 
+A Where did you go after leaving the White House? 
+Philadelphia. 
+Okay. And where were you working? 
+I was consulting. 13 
+With whom? As an employer, as opposed to your clients. 
+I --
+Who was your employer? 
+I was self-employed. 
+Eventually you made it to the Trump reelection campaign. 
+you start working with the Trump reelection campaign? 
+I don't recall the exact month that I went with the Trump 
+Do you remember what year it was? 
+2019. 
+Could you give us a season? Summer? Fall? Winter? 
+If you recall. 
+It was before the --it was before summer. So it 
+18 would've been in the first half of the year. 
+19 Q Were you asked to join the campaign by the President or 
+20 anybody else? 
+21 A I don't recall who --the President didn't ask me to join 
+22 the campaign. 
+23 Q When you joined the campaign around springtime of 2019, 
+24 what were your responsibilities? 
+25 A I was working on --I was doing some --I had a number  14 
+1 of things I was doing. I'm --I can't recall all of my projects 
+2 that I had. 
+3 Q Okay. Can you give us a flavor, just some of them, the 
+4 type of work that you were doing? 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 that? A 
+Q 
+A 
+Q 
+A 
+Q 
+A 
+Q 
+A 
+Q Normal campaign outreach. 
+Like knocking on doors? 
+No. I was not knocking on doors. 
+Okay. So what does "outreach" mean to you when you say 
+Coordinating with people in the States. 
+State officials? 
+No. Campaign. 
+Okay. And you were working out of Pennsylvania? 
+Yes. 
+But your job involved coordinating with people in other 
+16 States outside of Pennsylvania? Is that fair? 
+17 
+18 A 
+Q Yes. 
+Did you have interactions with any State officials in 
+19 Pennsylvania or otherwise during your work on the Trump 
+20 reelection campaign? 
+21 
+22 A 
+Q Yes. 
+Okay. With whom? Which States did have you contact 
+23 with State officials? 
+24 A I don't recall the States. Um --I don't recall the 
+25 States.  Pennsylvania? 
+Pennsylvania, yes. 15 
+1 
+2 
+3 Q 
+A 
+Q And did you have a primary contact, as far as State 
+4 officials in Pennsylvania, that you would usually speak to about 
+5 campaign-related issues? 
+6 
+7 
+8 A 
+Q 
+A No. 
+Can you name some of the State officials? 
+There's --I need to --hold on. 
+9 [Witness conferring with counsel.] 
+10 Mr. Warrington. -can you clarify the question? Just, 
+11 it's a little confusing, and I think if we narrow exactly what 
+12 you' re looking for, I think he could probably give you an answer 
+13 that's what you're looking for. 
+14 Yep. That's perfectly fine. I'm happy to do 
+15 that. 
+16 BY 
+17 Q Before we do that, though, actually, what was the title 
+18 you had when you we re h i red by the Trump reelect i on camp a i g n back 
+19 in 2019? 
+20 
+21 
+22 
+23 
+24 
+25 A 
+Q 
+A 
+Q 
+A 
+Q Senior advisor. 
+Anything else or just "senior advisor"? 
+Just "senior advisor." 
+Did it ever change, your title? 
+Not officially. 
+Did it change unofficially?  16 
+1 A It was quoted in the newspaper as "di rector of election 
+2 day operations." 
+3 Q Did you have those responsibilities, directing election 
+4 day operations, for the Trump campaign at any point? 
+5 
+6 
+7 
+8 A Yes. 
+Q When did you begin those responsibilities? 
+A When I began working on the campaign. 
+Q Who did you report to when you started at the campaign 
+9 in springtime 2019? 
+10 
+11 A 
+Q Justin Clark. 
+Did that ever change throughout your time working for 
+12 the Trump reelection campaign? 
+13 
+14 A 
+Q No. 
+And we're going to get into some other folks, as well, 
+15 as we go th rough th i s de po s i t i on , but d i d you eve r rep o rt to Rudy 
+16 Giuliani when he began working with the campaign after the 
+17 election? 
+18 
+19 
+20 
+21 A 
+Q No. 
+Did you ever interact with Mr. Giuliani? 
+Mr. Warrington. One moment,_ 
+Mr.~ Okay. 
+22 [Witness conferring with counsel.] 
+23 Mr. Warrington. You're talking about --what period of 
+24 time are you talking about, -just so I can clarify? 
+25 Mr. -- Well, I guess at any point during his time  17 
+1 working on the campaign, so either before the election or after. 
+2 Mr. Warrington. Well, let's break that up into two 
+3 questions. 
+4 Sure. 
+5 BY~ 
+6 
+7 Q 
+A Let's do before the election. 
+I don't believe I had any interaction with him before 
+8 the election. 
+9 Q And what about after the election? Did you have any 
+10 interactions with Mr. Giuliani after the November 2020 
+11 Presidential election? 
+12 A On the advice of counsel, I assert my constitutional 
+13 privilege under the Fifth Amendment and respectfully decline to 
+14 answer the question. 
+15 Q Understood. 
+16 Mr. Warrington. And, for shorthand, as we've done 
+17 before, as the assertion is or, as the privilege is asserted, 
+18 can we j us t use the sh o rt hand of " the F i ft h " ? 
+19 That's perfectly fine, yeah. If you say "the 
+20 Fifth," we'll understand what that means moving forward. 
+21 Mr. Warrington. Okay. 
+22 BY 
+23 Q So, to get back to one of the questions we had before 
+24 a brief sidebar you had with counsel, you mentioned interacting 
+25 with various State officials during your time working for the  18 
+1 Trump reelection campaign. 
+2 Starting first with Pennsylvania, which State officials in 
+3 Pennsylvania did you primarily interact with in your job working 
+4 for Trump campaign? 
+5 Mr. Warrington. can we break that up into time 
+6 periods? 
+7 Sure. 
+8 
+9 
+10 
+11 
+12 Q Before the election? 
+A Yeah. I --can you -­
+[Witness conferring with counsel.] 
+Mr. Roman. So one of the things that I was doing was 
+13 tracking legislation that would affect the election code. So 
+14 if a particular bill was introduced, I would often call either 
+15 t he s po n so r o r co s po n so r of t he b i l l to g e t a f l av o r of t he b i l l 
+16 and what they thought the possibility was of it moving into 
+17 committee/out of committee. 
+18 There were a number of bills that were introduced in 
+19 Pennsylvania and other States that would've had sponsors and 
+20 cosponsors. I don't recall all of the officials that I would've 
+21 called --that I called, but it would've been dictated by the 
+22 person that either introduced or cosponsored a bill. 
+23 BY 
+24 Q Okay. Did you have any communications with State 
+25 officials in Pennsylvania before the election outside of that,  19 
+1 kind of, bill tracking? 
+2 A I have a number of friends who hold titles in 
+3 Pennsylvania that I'm sure I had conversations with. None that 
+4 I was reaching out to that I recall for specific purposes outside 
+5 of legislation. 
+6 Q Okay. And we're not so interested, I guess, in the, 
+7 kind of, friendly communications you would've had, but more so 
+8 the communications you had that are relevant for your role 
+9 working on the Trump reelection campaign. I appreciate you 
+10 making that distinction as well. 
+11 What about after the Presidential election? What were the 
+12 nature of your communications with State officials in 
+13 Pennsylvania like then? 
+14 
+15 A 
+Q The Fifth. 
+After the campaign --or, excuse me, after the 
+16 Presidential election in November, who were the primary State 
+17 officials that you were interacting with in Pennsylvania? 
+18 A The F i ft h . 
+19 Q And some of this we'll get back to as well. 
+20 Other than tracking legislation, understanding changes or 
+21 potential changes to election codes in various States, what other 
+22 responsibilities did you have before the election working with 
+23 the Trump campaign? 
+24 A I was also monitoring changes to the code through 
+25 administrative orders, through emergency COVID protocols. I  20 
+1 was working on putting together plans for the way an election 
+2 was conducted in a particular --any particular State. 
+3 Q Okay. Anything else that can you recall? 
+4 
+5 A 
+Q Not at this moment. 
+You said you reported to Justin Clark. Were you taking 
+6 direction from anybody else working with the Trump reelection 
+7 campaign before the election? 
+8 
+9 
+10 
+11 A 
+Q 
+A 
+Q Direction? 
+Correct. 
+Can you clarify "direction"? 
+Yeah, sure. Was there anybody else within the Trump 
+12 reelection campaign who were asking you to do tasks, take on 
+13 certain events, certain projects, things like that? 
+14 [Witness conferring with counsel.] 
+15 Mr. 
+16 BY 
+17 Q Yep. Go ahead. You took a moment with Mr. Warrington, 
+18 but you' re back now. 
+19 A I was often asked to contact stakeholders --RNC 
+20 members, State chairs --who were interested in election day 
+21 operations to hear them out. 
+22 Q Of those stakeholders, what were the types of things 
+23 that you recall hearing before the election? What was the 
+24 interest, the discussions about, with respect to election day 
+25 operations?  21 
+1 A Many of the questions were, are we doing anything in 
+2 their State? Often the answer was no. And in the ones where 
+3 we did have operations, I would normally give them information 
+4 for who the State director was. 
+5 Q Can you describe for us the types of activities that 
+6 these stakeholders were interested in? When they asked you, are 
+7 you, Mr. Roman, or the Trump campaign doing something in our 
+8 State, what specifically would you have in mind when you answered 
+9 that question "no"? Or, if there was something going on, what 
+10 were those things? 
+11 Mr. Warrington. And, to be clear, we're talking about 
+12 pr i or to the elect i on . 
+That's correct. Thank you, Mr. Warrington. 13 
+14 Mr. Roman. Would we have an apparatus in place if a voter 
+15 had a con c e r n about v o t i n g , i f they we re unable to cast a b al lot , 
+16 if they had concerns about long lines at polling places due to 
+17 previous history, if they had concerns about changes in the 
+18 election code that may disrupt the normal election procedure. 
+19 It was a lot of drilling down into the mechanics of the 
+20 electoral process and what the campaign was doing to ensure that 
+21 every voter that was coming out was able to cast a ballot and 
+22 that illegal ballots, if there were any, would be identified. 
+23 BY 
+24 Q From your previous answer, it sounds like in some States 
+25 the Trump campaign was active with respect to those types of  22 
+1 efforts and some States there was no activity in. Is that 
+2 correct? 
+Yes. 3 
+4 A 
+Q How did the campaign or you choose which States to be 
+5 active in with those types of efforts that you just described? 
+6 A I did not choose the States that we were operating in. 
+7 Q Do you know who did? 
+8 A No. 
+9 Q Which States were those operations going on in that you 
+10 recall before the election? 
+11 A Sure. Pennsylvania, Florida, Georgia, Michigan, 
+12 Wisconsin, Ohio, Minnesota, Montana, Arizona, New Mexico, 
+13 Nevada, New Hampshire, Maine. That's all I recall. 
+14 Q All right. And do you know why those States were 
+15 selected in particular for those types of activities that you 
+16 des c r i bed earl i er? 
+17 
+18 A 
+Q Those were target battleground States. 
+Sounds like other, kind of, State chairs or party 
+19 officials reached out to you in this pre-election period asking 
+20 if there were activities like that going on in their States and 
+21 you said no. Do you remember the States where there weren't 
+22 those types of activities? 
+23 A Every other State except for the ones that I mentioned 
+24 we did have activity. 
+25 Q I see . 0 k a y .  23 
+1 I'm going to pause there just to see if anybody else has 
+2 any questions along the lines of what we just went over. 
+3 nothing from me. 
+4 
+5 
+6 Q All right. I do want to, more generally, go into some 
+7 of the accounts that you used as well as the means of 
+8 communications that you had. 
+9 I understand that your Twitter handle, at least from the 
+10 period of November 2020 through January of 2021, which is 
+11 primarily our focus here, was @mikeroman. Is that correct? 
+12 A Yes. 
+13 Actually, could I ask one clarifying question? 
+14 Sure. 
+15 Mr. Roman, at the outset of the deposition, 
+16 you spelled your name for the record, and I thought I heard you 
+17 spell it R-o-m-, Echo, November, rather than Alf a, November. 
+18 Which of those is accurate? 
+19 
+20 Mr. Roman. If I did that, that was a flub on my part. 
+Great. So R-o-m-a-n is the correct spelling 
+21 of your last name? 
+22 Mr. Roman. Yes, ma'am. 
+23 
+24 
+25 Q Okay. Thank you. 
+BY 
+Other than that @mikeroman Twitter handle, did you use  24 
+1 any other Twitter handles to communicate or post information on 
+2 Twitter? 
+3 A No. 
+4 Q And did you use a phone number in that same period, so, 
+5 again, November 2020 through January 2021, with area code. 
+6 that ended in 7 I'd rather not put the entire number on the 
+7 record, if you recognize that number. So did you use a number 
+8 like that? 
+9 
+10 A 
+Q Yes. 
+And did you use that number to send or receive text 
+11 messages related to the election? 
+12 
+13 A 
+Q Yes. 
+Was your email for the Trump reelection campaign 
+14 mroman@donaldtrump.com? 
+15 
+16 
+17 I believe that's correct, yes. A 
+Q And we also understand that you had an email account that 
+was a variation of your name ending in Again, 
+18 I ' m not go i n g to put the en t i re em a i l add res s on the rec o rd . But 
+19 
+20 
+21 do you remember using an email address with the domain 
+7 
+A That's my personal email address. And I did receive 
+22 emails, and I attempted to push those people to my DJT email. 
+23 Q So, if it was related to campaign issues, you would try 
+24 to push anybody who contacted you at that email address to your 
+25 official email account?  25 
+1 A Yes. 
+2 Q And you produced to the select committee several 
+3 messages that appear to be from a Signal account. Is that right? 
+4 Did you have a Signal account that you used in that time? 
+5 A Yes. 
+6 Q And is that linked to the phone number ending in 7 
+7 
+8 A 
+Q I believe so, yes. 
+Did you use any other encrypted applications to 
+9 communicate with anybody between November 2020 and January 2021? 
+10 I'm thinking of Wi ckr, WhatsApp. I suppose Facebook could fit 
+11 in that category. Any of those? 
+A Wickr. 12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 Q And was that account, Wickr account, was that also 
+associated or linked to your phone number ending in 
+A I don't believe so. 
+Q Okay. Is that linked to a phone number? 
+A 
+Q 
+A 
+Q I don't believe so. 
+Is it linked to an email account? 
+Yes. 
+Andis that linked to your email account 
+21 A Yes. 7 
+7 
+22 Q Any other applications, phone numbers, or email account 
+23 that you used to communicate that would be relevant to the 
+24 November 2020 election in that timeframe we just identified? 
+25 A I did have an alternate phone number that I used for the  1 campaign. 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 Q Do you still use that phone number? 
+A No. 
+Q What was that phone number, if you remember? 
+A I do not remember. 
+Q Do you remember what the area code was? 
+A It was either --I don't recall. 
+Q Okay. 
+A 
+Q 
+A It was either or 
+Okay. So a D.C.-area-type phone number? 
+Yes. 
+[Witness conferring with counsel.] 
+BY 
+Q We spoke a little bit about your role before the 26 
+15 c amp a i g n , a n d you gave u s --oh , I see you ' re con s u l t i n g w i t h 
+16 Mr. Warrington. 
+17 
+18 Mr. Sorry about that,_ 
+No, that's quite all right. I just want to 
+19 give you enough time, whatever you need. 
+20 BY 
+21 
+22 role 
+23 
+24 
+25 Q I saw --or we spoke a little bit earlier about your 
+Mr. Warrington. One second, •. 
+Yep. Take your time. 
+[Witness conferring with counsel.]  27 
+1 
+2 
+3 
+4 M r . W a r r i n gt on . Al l r i g h t , 1111, we ' re b a c k . So r r y . 
+Nope. That's quite all right. 
+BY 
+Q Okay. So we spoke al ittle bit earlier about your role 
+5 and some of your job duties or functions on the Trump campaign 
+6 before the election. Did have you a formal role with the Trump 
+7 reelection campaign, or whatever that entity became, after the 
+8 November 3rd Presidential election? 
+9 
+10 A 
+Q Fifth. 
+I really couldn't hear you there. I'm sorry. Did you 
+11 say "Fifth"? 
+12 
+13 A 
+Q Yes. 
+Okay. 
+14 Between November 3, 2020, and January 2021, did you ever 
+15 participate in any discussions involving Sidney Powell or Jenna 
+16 Ellis related to election fraud or irregularities in the 2020 
+17 election? 
+18 
+19 A 
+Q The Fifth. 
+In that post-election period between November 3, 2020, 
+20 and January 20, 2021, did you have any conversations with any 
+21 White House officials, including President Trump, related to 
+22 potential election fraud or other irregularities in the 2020 
+23 e l e c t i on ? 
+24 
+25 A 
+Q The Fifth. 
+Did you, Mr. Roman, have any role investigating  1 allegations related to purported election fraud or 
+2 irregularities in the 2020 election after the election took 
+3 place? 
+4 
+5 A 
+Q The Fifth. 
+The same period, post-election through January 20, 28 
+6 2021, did you have any conversations with any elected officials, 
+7 whether at a State, local, or Federal level, regarding election 
+8 fraud or irregularities in the election? 
+9 
+10 A 
+Q The Fifth. 
+Did you ever talk with anybody at the Department of 
+11 Homeland Security in that post-election period, November 3rd 
+12 through January 20th, about the election or any purported fraud 
+13 or irregularities? 
+14 
+15 A 
+Q The Fifth. 
+Same period, between November 3, 2020, and January 20, 
+16 2021, did have you any conversations with current or former 
+17 officials at the Department of Justice regarding purported 
+18 election fraud or irregularities in the 2020 Presidential 
+19 election? 
+20 A The Fifth. 
+21 Q And do you have in your possession, Mr. Roman, evidence 
+22 of widespread fraud that actually affected the outcome of the 
+23 2020 Presidential election? 
+24 
+25 A The Fifth. 
+Q Where were you on election day, so November 3, 2020?  29 
+1 [Witness conferring with counsel.] 
+2 Mr. Warrington. So, -I think, with regard to that 
+3 question, there's been some --I don't know if your question has 
+4 been informed by some press articles. In particular, there's 
+5 one, I believe it was a Politico article, that is just flat wrong. 
+6 But you and I can talk about that offline. Or, after the 
+7 deposition, I can give you some background on that. 
+8 Mr - Okay. Yeah, I'd be interested in hearing what 
+9 it is you have to say about that. 
+10 But for Mr. Roman, so are you instructing him not to answer? 
+11 Or --I shouldn't put that it way, but I just --I guess I'll 
+12 just renew my question. 
+13 BY 
+14 Q Regardless of whatever' s been reported, where were you, 
+15 Mr. Roman, on election day? 
+16 Mr. Roman. The Fifth. 
+17 And, Mr. Warrington, I'll fol low up with you, 
+18 t hen , a f t e r w a rd s . 
+19 
+20 
+21 
+22 Mr. Warrington. Yes. 
+- Okay. 
+BY 
+Q I'm going to show you some exhibits, Mr. Roman, like we 
+23 b rough t up be f o re on the s c re en . The f i rs t i s ex h i bi t No . 3 . 
+24 All right. Can you see that, what we pulled up as exhibit 
+25 No. 3?  30 
+Yes. 1 
+2 A 
+Q All right. This is an email from Mike Roman to Alex 
+3 Cannon. Do you know who A lex Cannon is? 
+4 A Yes. 
+5 Q Who is that? 
+6 A The Fifth. 
+7 Mr. Warrington. , can we see the entire document? 
+8 Of course. Let's scroll down. 
+9 And then the only thing on that second page is just that 
+10 Trump Victory signature block. 
+11 Mr. Warrington. Okay. Thank you. 
+12 BY 
+13 Q So this is an email exchange between you and Alex Cannon 
+14 late on the evening of November 5th and into the morning of 
+15 November the 6th. 
+16 A I'm sorry. Could you repeat that? I couldn't hear 
+17 you. 
+18 Q Yes, of course. And it wasn't a question yet. 
+19 But this is an email exchange between you and Alex Cannon 
+20 late on the evening of the 5th and into the morning of the 6th. 
+21 And it begins with a report sent by an RNC employee to Mr. Cannon 
+22 providing a comparison of the 2020 Presidential election results 
+23 in four cities to those same cities' results in 2016 and 2012. 
+24 That's that chart there at the bottom. 
+25 The RN C employee notes that , quote , "AT L i s h i g he r i n 2 0 2 0 ,  31 
+1 but GA has approximately 2 million more voters on their rolls 
+2 compared to 2016." 
+3 And then just further describing this, in the top email 
+4 there --if you could zoom in a little bit so Mr. Roman can see 
+5 it. Yep. 
+6 In that top email, you wrote, quote, "Only Atlanta 
+7 overproduced in raw votes. The margin was higher in three of 
+8 four. Not sure that satisfies the narrative." 
+9 And so my question to you is: In this email, why was the 
+10 focus these four cities --Philadelphia, Atlanta, Milwaukee, and 
+11 Detroit? And, again, this email exchange is dated between 
+12 November 5th and November 6th of 2020. 
+13 
+14 A 
+Q The Fifth. 
+And, then, in that email, you say, "Not sure that 
+15 satisfies the narrative." What was the narrative you're 
+16 referring to here in response to Mr. Cannon's email? 
+17 
+18 A 
+Q The Fifth. 
+You can take that down. Thank you. 
+19 When was first time you recall using language like "stop 
+20 the steal " or refer r i n g to the elect i on as potent i ally be i n g 
+21 "stolen" in relation to the 2020 Presidential election? 
+22 A The Fifth. 
+23 Q Can we pull up exhibit 24, please? 
+24 And while that's coming up, were you ever directed to or 
+25 asked to use l an g u age l i k e the elect i on i s " go i n g to be stolen "  32 
+1 or it "will be stolen" before the Presidential election ever 
+2 occurred? 
+3 
+4 A 
+Q The Fifth. 
+Exhibit 24 --can you see that there? --it's a tweet 
+5 from your @mikeroman account. 
+6 
+7 A 
+Q The Fifth. 
+Okay. The first thing I just want to make sure is you 
+8 can see it. Can you see what we've shown as exhibit No. 24? 
+9 
+10 A 
+Q Yes, sir. 
+Okay. 
+11 Mr. Warrington. Can we see the whole document,_ 
+12 Yes. This is just one page. I think you're 
+13 seeing the whole thing. You are. 
+14 Mr. Warrington. Okay. Thank you. 
+15 BY 
+16 Q And this is a tweet dated July the 1st of 2020, so a few 
+17 months before the election, in which you said that now President 
+18 Bi den and o the rs we re go i n g to rec r u i t goons to , quote , " steal 
+19 the elect i on . " 
+20 Were you asked by anyone in the Trump reelection campaign, 
+21 White House, or otherwise to put out tweets like this July 2020 
+22 tweet even before the election occurred? 
+23 
+24 A 
+Q The Fifth. 
+And what information did you have in July 2020, around 
+25 the time you sent this tweet, to support the claim that the  33 
+1 election was going to be stolen? 
+2 A The Fifth. 
+3 Q If we could pull up exhibit No. 4, please. 
+4 Okay. Can you see what we've pulled up on the screen as 
+5 exhibit 4? 
+6 
+7 A 
+Q Some of it. 
+Okay. Let's scroll down. This is only one page. I'll 
+8 represent to you there is a page 2 but it's only the byline, or 
+9 the signature line, "Paid for by Donald J. Trump for President." 
+10 We can show that to you quickly. 
+11 So, in this email, it looks like a mass mailing email sent 
+12 by the campaign on November 7, 2020, a little less than a month 
+13 before the Presidential election. And the "from" line includes 
+14 your name, Mike Roman, National EDO Director, from an email 
+15 address@team.donaldtrump.com. And the subject line is "Stop 
+16 elect i on fraud . " 
+17 The first question I have for you: Did you write this 
+18 email? 
+19 
+20 A 
+Q The Fifth. 
+Because this looks, at least to me, like it's kind of 
+21 a mass, like, marketing or outreach email. Did you have any role 
+22 in approving this message before it went out using your name, 
+23 from Mike Roman, National EDO Director? 
+24 A The Fifth. 
+25 Q The em a i l st a rt s , i t says , " E le ct i on f r au d i s real. "  34 
+1 That first paragraph there under the name "Laura," it says, "The 
+2 Democrats are busy changing the way ballots are cast and counted 
+3 in order to create chaos and confusion. Their goal is to steal 
+4 th i s elect i on f r om the Ame r i can people . They want to steal f r om 
+5 you." 
+6 What evidence did you or the campaign have that you' re aware 
+7 of at this time in October of 2020 that Democrats were motivated 
+8 by creating, quote, "chaos and confusion" and were going to have 
+9 a goal of stealing the election? 
+10 A The Fifth. 
+11 Q All right, you can take that down. Thank you. 
+12 All right. So I want to go to some tweets from election 
+13 day itself. 
+14 If we could pull up exhibit No. 5. 
+15 This is just one page as well. This is a tweet from your 
+16 account on November 3, 2020, which is election day, at 9:12 in 
+17 the morning is the timestamp. 
+18 And it says, "Illegal campaigning inside of a polling 
+19 location in Philly. Man in blue is handing out Dem literature 
+20 to voters in line to vote. This is why Dems are keeping Trump 
+21 watchers out. They are stealing it. This needs to stop." 
+22 Did you take either of the pictures that appear in this tweet 
+23 from your account on November 3rd? 
+24 
+25 A The Fifth. 
+Mr. Warrington. -can we see the entire --that may  35 
+1 be 
+2 -- This is the whole thing. 
+3 Mr. Warrington. Yeah. 
+4 Yep, that's the whole thing. 
+5 Mr. Warrington. It's just, where the sound bar is on the 
+6 screen, it actually kind of covered up the bottom. 
+7 Oh, I see what you're saying. I apologize. 
+8 Mr. Warrington. No, that's fine. I think it's on our end. 
+9 Sorry about that. 
+10 BY 
+11 Q Did anyone encourage you to tweet about the election 
+12 being stolen the afternoon of election day, so on election day 
+13 itself? 
+The Fifth. 14 
+15 A 
+Q Did you do anything to investigate the activity you 
+16 tweeted about here in this tweet in exhibit No. 5? 
+17 A Fifth. 
+18 Co u l d I a s k --
+19 Yep. 
+20 Mr. Roman, do you have any information about 
+21 whether the two photos that appear side-by-side in this tweet 
+22 
+23 
+24 
+25 were actually taken at the same 
+Mr. Roman. The Fifth. of the same instance? 
+You can take that down. Thank you.  36 
+1 Q What's your understanding about how the Trump campaign 
+2 investigated allegations of alleged election fraud in the 
+3 November 2020 Presidential election after the election took 
+4 place? 
+5 
+6 A 
+Q The Fifth. 
+Do you have any proof, Mr. Roman, of widespread 
+7 intentional vote flipping using any voting machines, including 
+8 Dominion voting machines? 
+9 
+10 A 
+Q The Fifth. 
+Do you have proof that enough dead people voted in any 
+11 State or a combination of States to change the outcome of the 
+12 election? 
+13 
+14 A 
+Q The Fifth. 
+Do you have proof that any purported irregularity in the 
+15 Presidential election actually changed the election in any 
+16 State? 
+17 A The Fifth. 
+18 Q I do w a n t to p u l l u p ex h i b i t No . 9 . 
+19 All right. Can you see that we've pulled up exhibit No. 9 
+20 on your screen? 
+21 And if we go to the bottom of page 1 --this is just a one-page 
+22 email as well, or one-page exhibit I should say. If you zoom 
+23 in just a little bit at the bottom so we can see the --it's a 
+24 December 18th email. 
+25 Can you see what we're showing you here as exhibit No. 9?  37 
+Yes. 1 
+2 A 
+Q All right. So this first email is from somebody named 
+3 James Fitzpatrick at Donald Trump --or, excuse me, with the 
+4 email address jfitzpatrick@donaldtrump.com. 
+5 Who's James Fitzpatrick? 
+6 A The Fifth. 
+7 Q All right. 
+8 The subject line of this email exchange, as you can see there 
+9 in the bottom email, is "Updated fraud examples in Arizona, 
+10 Pennsylvania, Michigan, Wisconsin, New Mexico, Nevada, 
+11 Georgi a." Looks to be a file name . doc, meaning "document." 
+12 And Mr. Fitzpatrick told you, "See attached" --excuse me --sent 
+13 this to you, yes, and said "See attached." 
+14 And then, if we go up, you forward it along to somebody named 
+15 Jason Miller. And Mr. Miller responds, "Thank you, Mike." And 
+16 he asks you a question: "Safe to say this takes the best verified 
+17 examples we have from you, Navarro, Cleta, etc, and this is our 
+18 top -s he l f s t u f f , you ' d be f i n e w i t h o u r d i s t r i bu t i n g p u b l i c l y ? " 
+19 And if we go up one more --still on the 18th. And then 
+20 on, at least according to this timestamp, which is the 19th at 
+21 1:30 a.m., you write back to Mr. Miller, copying Mr. Boris 
+22 Epshteyn, saying, "This is the stuff we can validate, either a 
+23 news a rt i cl e o r a c red i bl e a ff i d av i t . " 
+24 Do you recognize this email exchange that we have here as 
+25 ex h i b i t No . 9 ?  1 
+2 A 
+Q The Fifth. 
+In this email, based on what you recall and the 
+3 attachment and discussion surrounding it, is this the most 38 
+4 comprehensive record of the results of your and the campaign's 
+s efforts to compile and validate allegations of fraud that arose 
+6 in the 2020 Presidential campaign? 
+7 
+8 A 
+Q The Fifth. 
+You can take that down. Thank you. 
+9 So we understand that, eventually, Rudy Giuliani and a team 
+10 that worked with him took over the campaign's post-election-day 
+11 legal team. How did that affect your responsibilities, if any? 
+12 A The Fifth. 
+13 Can we take a break to get some coffee? 
+14 Mr. Warrington. -could we just take about a 30-second 
+15 break to get some coffee? 
+16 Yeah, of course. You want to just say 
+17 5 minutes --
+18 
+19 
+20 
+21 Mr. Sure. 
+for a coffee break? 
+Mr. Warrington. Yeah. 
+All right. Then we'll go off the record and 
+22 take 5 minutes. 
+23 
+24 Mr. Warrington. Okay. 
+[Recess.]  39 
+1 
+2 [11:00 a.m.] 
+3 BY 
+4 Q It's 11:00 a.m., and we are resuming the deposition of 
+5 Mr. Michael Roman. 
+6 I was about to go through a list of people and ask if you 
+7 discussed anything with them after Mr. Giuliani took over kind 
+8 of the legal efforts on the campaign or after election day more 
+9 generally. So I'm just going to list them all and see if you 
+10 communicated with any of them. 
+11 So did you communicate after the election with Sidney 
+12 Powell, Cleta Mitchell, Jenna Ellis, John Eastman, Christina 
+13 Bobb, Ken Chesebro, or Jack Wilenchik? 
+14 A The Fifth. 
+15 Q Okay. I would ordinarily ask you to describe any 
+16 communications you had with each, but I'm going to assume, based 
+17 on your answer to the last question, that you will assert a 
+18 privilege to that question. Is that correct? 
+19 
+20 A 
+Q Yes. 
+Going back to the pre-election period, so before 
+21 November 3rd, 2020, what was your understanding of the role of 
+22 State legislatures in the process of electing the President of 
+23 the United States in choosing the electoral college electors? 
+24 
+25 Mr. Warrington. We're pre-election, right? 
+Pre-election, correct.  40 
+1 The Witness. I was not focused on that? 
+2 BY 
+3 Q Okay. So you weren't focused on it. Did it come up at 
+4 any point that you recall before the November election? 
+5 A No. 
+6 Q I assume I know the answer to this question, but are you 
+7 aware of any discussions before the election about the Trump 
+8 campaign potentially encouraging State legislatures in 
+9 battleground States to appoint Trump electors. So, again, 
+10 discussions before the November 3rd election? 
+11 
+12 A 
+Q The Fifth. 
+And, to the extent there were those discussions, who was 
+13 involved in any such discussions before the election about the 
+14 Trump campaign potentially encouraging State legislatures to 
+15 c ho o s e T r ump e l e c to r s ? 
+16 
+17 A 
+Q The Fifth. 
+Did you ever participate in any efforts to encourage 
+18 State legislators in Pennsylvania or elsewhere to select Trump 
+19 electors in States that Mr. Trump had lost? 
+20 A The Fifth. 
+21 Q Pull up exhibit No. 7, please. 
+22 All right. So these are --
+23 Mr. Warrington. What's the exhibit number on this? 
+24 This is No. 7. 
+25 Mr. Warrington. 7?  41 
+1 Yeah. You produced this to us. It is 
+2 starting Bates Roman 19 through Roman 26. 
+3 BY 
+4 Q Okay. These are approximately, based on my rough 
+5 count, 25 messages that you exchanged with someone named Matt 
+6 Stroia between November 21st and December 4th. Were these 
+7 messages sent via Signal from your phone? 
+8 A The Fifth. 
+9 Q And, just to be clear, these messages are messages that 
+10 you provided to the committee itself. Are you going to 
+11 take --assert the Fifth amendment to any questions about these? 
+12 Mr. Warrington. Not to interrupt, but if your 
+13 questions is, if he's going to do that, I'm going to 
+14 let --obviously let him answer, but I just want to make sure 
+15 that's you're talking about this string of emails or texts? 
+16 Mr. That's correct. On this exhibit in 
+17 particular. 
+18 The Witness. The Fifth. 
+19 
+20 Q BY MR. 
+Maybe I will just ask you more generally then. Outside 
+21 the context of this exhibit, who is Matt Stroia? 
+22 A The Fifth. 
+23 Q I understand that somebody named Matt Stroia was the 
+24 chief of staff to Representative Mike Kelly at the time, so, in 
+25 the Nov em be r , Dec em be r and J an u a r y p e r i o d that we ' v e been ta l k i n g  42 
+1 about. Is that your understanding as well? 
+2 A The Fifth. 
+3 Q We go to page 3 of this exhibit, which is Bates stamped 
+4 Roman 0021. It shows a message that Mr. Stroia sent to you on 
+5 November the 22nd. And it looks like this message relates to 
+6 purported legislative hearings --or excuse me --a purported 
+7 legislative hearing held a few days later in Gettysburg, 
+8 Pennsylvania, and it is talking about: Rudy we are hoping it 
+9 turns out --excuse me --Mr. Stroia said: I hope it turns out 
+10 like we envisioned. We need to make --oh, excuse me --we need 
+11 to push hard to make it in person. 
+12 And you respond about the Federal courthouse maintained by 
+13 GSA. 
+14 What role did Mr. Stroia play in organizing election fraud 
+15 he a r i n gs o r p u r po rte d he a r i n gs i n Penns y l van i a a round th i s t i me? 
+16 
+17 A 
+Q The Fifth. 
+My fol lowup question, what was your role in coordinating 
+18 or arranging or organizing any hearings in Pennsylvania around 
+19 this time? 
+20 A The Fifth. 
+21 Q If we go to page 4 of this exhibit, again, you produced 
+22 these messages to us. And this is Bates stamped Roman 0022, this 
+23 shows the messages exchanged again between you and Mr. Stroia 
+24 now on November 8, 2020. You ask: Who briefed the PA House 
+25 caucus last name Adams.  43 
+1 Mr. Stroia says: I have no idea. Could it be the general 
+2 counsel for the speaker? 
+3 You respond: No, apparently, it is Michael Adams, the SOS 
+4 from Kentucky. Does that make sense? And it doesn't sound like 
+5 this went well. 
+6 And you attach an apparent screen shot of several other 
+7 messages in which somebody says: Maybe the Trump campaign 
+8 should get some actual evidence of fraud and file in court. 
+9 They've been horrible in their court filings. We just got a 
+10 report from their legal team. They told us on caucus they have 
+11 zero evidence. 
+12 What do you know about the briefing discussed here in which 
+13 the apparent secretary of state from Kentucky briefed the 
+14 Pennsylvania House caucus? 
+15 
+16 A 
+Q The Fifth. 
+And who sent you the messages that you took a screen shot 
+17 of and sent them to Mr. Stroia that are shown here on Bates No. 
+18 Roman 0022? 
+19 
+20 A 
+Q The Fifth. 
+The embedded message says that, quote, they told us in 
+21 caucus they have zero evidence, end quote. Are you aware of such 
+22 a statement by any members of the Trump campaign team or the Trump 
+23 campaign legal team on which Mr. Giuliani worked? 
+24 
+25 A 
+Q The Fifth. 
+Did you ever hear Mr. Giuliani or anybody else  44 
+1 associated with the campaign indicated that Mr.Giuliani and his 
+2 team didn't have evidence but did have theories about the 
+3 election and purported fraud? 
+4 
+5 A 
+Q The Fifth. 
+On page 7 of this same exhibit, exhibit 7, and this is 
+6 page Roman 0025, for the record. Mr. Stroia said: The mayor 
+7 may be calling you. Christina told me he's wanting to talk to 
+8 me about Pennsylvania. My mind is in no shape to talk with him 
+9 right now. I told him that you will know everything I do. Did 
+10 you speak with Mr. Giuliani on or about December 4th about 
+11 election issues in Pennsylvania? 
+12 
+13 A 
+Q The Fifth. 
+Do you know why Mr. Giuliani would have been calling Mike 
+14 Kelly's chief of staff, Mr. Stroia, about Presidential election 
+15 i s sues rat he r than you , who was act i n g as the d i recto r of elect i on 
+16 day operations for the campaign? 
+17 A The Fifth. 
+18 Q In this message it mentions Christina. Is that 
+19 Christina Bobb? 
+20 
+21 
+22 Bobb? 
+23 
+24 A 
+Q 
+A 
+Q The Fifth. 
+Do you know how often Mr. Stroia interacted with Ms. 
+The Fifth. 
+Did Mr. Stroia or Representative Kelly assist in any 
+25 efforts to have State legislators choose Trump electors in  45 
+1 Pennsylvania after the November 2020 election? 
+2 A The Fifth. 
+3 Q Did you ever talk to Representative Kelly about having 
+4 Pennsylvania State legislature choose Trump electors? 
+5 A The Fifth. 
+6 Q If we go to exhibit No. 8. This is another exchange that 
+7 you provided to us. And that's Bates stamped Roman 0004 through 
+8 Roman 0012. And these are messages somebody named Katherine 
+9 Friess. Can you see the exhibit that we put up on the screen 
+10 there, at least the first page of it? 
+11 A I can't see all of it. 
+12 Q Okay. We can zoom in to relevant portions there. 
+13 Again, these are nine pages of texts you exchanged with Ms. 
+14 Friess between November 24th and January 1st, and it is 
+15 approximately 30 messages. Were these sent through your Signal 
+16 account or sent or received with your Signal account, I should 
+17 say? 
+18 
+19 A 
+Q The Fifth. 
+And, again, I would just note for the record that, 
+20 because you produced these to us, we think that these are fair 
+21 game for questioning outside of any Fifth Amendment privilege 
+22 assert i on . I understand you are assert i n g the Fi ft h . If you ' d 
+23 like a moment to talk to Mr. Warrington about that, that's 
+24 perfectly fine, and take as much time as you need, but that is 
+25 the committee's position.  46 
+1 Mr. Warrington. I understand the committee's position. 
+2 And I think our position is laid out in our prior correspondence 
+3 with the chairman. 
+4 
+5 
+6 ~ Okay. Thank you, Mr. Warrington. 
+BY 
+Q All right. So just a few questions to fol low up on this 
+7 for the record here. Is this Katherine Friess, who assessed Rudy 
+8 Giuliani' s legal team? 
+9 
+10 A 
+Q The Fifth. 
+In the message on page 2, go to page 2, Ms. Friess says: 
+11 In your inbox, my guys and then lists a few people. Stisogis, 
+12 Colonel Waldron, Kim Peterson, Charles Nudo, and his 84-year-old 
+13 mother-in-law. It appears she's sending information about 
+14 potential witnesses for Pennsylvania election fraud hearings. 
+15 I s t h a t co r rec t ? 
+16 
+17 A 
+Q The Fifth. 
+And what was her role in setting up the purported 
+18 he a r i n gs i n Pen n s y l v a n i a ? 
+19 
+20 A The Fifth. 
+Q Who, if anyone, was responsible for investigating the 
+21 allegations of election fraud or irregularities that came up or 
+22 that were presented by witnesses at that hearing? 
+23 
+24 A 
+Q The Fifth. 
+On page 5 of this exhibit, which for the record is Roman 
+25 0 0 0 8 , M s . F r i e s s s a y s t h a t s he ' s on w i t h Be r n i e , j u s t s h a red .  1 Thanks a bunch. 
+Do you understand that to be Bernie Kerik? 
+A The Fifth. 47 
+2 
+3 
+4 Q On the next day, December 27th, she says: Tracking 
+5 something down for the mayor and POTUS. Have you seen anything 
+6 that shows over vote numbers from Michigan or Pennsylvania, 
+7 especially Pennsylvania, and/or Detroit, Philly, Pitt? Thanks 
+8 so much. 
+9 You respond and say: I know. We were looking at this as 
+10 we were discussing recounts. Let me see where it was left. 
+11 They says: Thanks a million. 
+12 And then the next day you say: Saw POTUS' tweet. Is that 
+13 what you were referring to? 
+14 And, if we go on to the next page, which is Roman 9, she 
+15 i n t he m i d d l e of t he page re s pond s a n d s a y s : Yep , t h a n ks . 
+16 There is a tweet that the President issued on December 28th 
+17 I will represent to you, Mr. Roman. It says: In Pennsylvania, 
+18 there were 2,005 --excuse me --205,000 more votes than there 
+19 were voters. This alone flips the State to President Trump. 
+20 Is this the tweet you remember seeing when you wrote on 
+21 December 28th "saw POTUS tweet"? Is that what you were referring 
+22 to? 
+23 A The Fifth. 
+24 Q You also said that your team had been looking at this. 
+25 Di d you eve r le a r n that th i s i s sue of 2 0 5 , 0 0 0 al leg e d o v e r votes  48 
+1 was debunked and that there weren't such over votes in 
+2 Pennsylvania? 
+3 A The Fifth. 
+4 Q Did you ever have any discussions with the President or 
+5 anybody on the campaign, including Mr. Giuliani and his team, 
+6 that this over vote allegation had in fact been debunked? 
+7 A The Fifth. 
+8 Q On page 7 of this exhibit, which is Roman 0010, Ms. 
+9 Friess mentioned Mastriano. Did you understand that to be State 
+10 Senator Doug Mastriano? 
+11 
+12 A 
+Q The Fifth. 
+Did you, Mr. Roman, ever speak with State Senator Doug 
+13 Mastriano about the election? 
+14 
+15 A 
+Q The Fifth. 
+Did you ever speak to State Senator Doug Mastriano about 
+16 the joint session of Congress on January 6th? 
+17 
+18 A 
+Q The Fifth. 
+Did you ever speak to Senator Mastriano about his 
+19 presence in Washington, D. C. , on January the 6th? 
+20 A The Fifth. 
+21 Q All right you can take this down. Thank you. 
+22 Did you have any role directing Trump campaign staffers or 
+23 volunteers to make calls to Republican State legislators after 
+24 the November election? 
+25 A The Fifth.  49 
+1 Q Did you have any role in drafting or approving scripts 
+2 that such staffers or volunteers would use when speaking with 
+3 Republican State legislators after the election? 
+4 A The Fifth. 
+5 Q I do want to show you exhibit No. 10. If you can zoom 
+6 in a bit. Showing you exhibit No. 10, can you see the top of 
+7 the first page of exhibit No. 10 on your screen? 
+8 
+9 A 
+Q Yes. 
+Okay. So, at the top it says: Hard sell. Support the 
+10 resolution to appoint electors for Trump. 
+11 It says: Basic script. 
+12 And then it starts with a script that says: 
+13 Representative/Senator blank. 
+14 We can scroll down to show you the rest of this document. 
+15 Stop the re and j us t go up . Good . 
+16 So part of this script says: Tomorrow, Mayor Giuliani is 
+17 presenting experts and witnesses from Arizona who will show the 
+18 vote totals are fatally flawed and do not accurately represent 
+19 the will of the voters. 
+20 It goes on to say: You have the power to reclaim your 
+21 authority to send the slate of electors that will support 
+22 President Trump and Vice President Pence. This is a clear path 
+23 to correct the attempted theft of this election. This effort 
+24 is happening in other States where fraud was rampant, including 
+25 Pen n s y l v a n i a , Ar i z on a , a n d Geo r g i a ?  50 
+1 There's more to it as well. But do you recognize what this 
+2 document is, that says "hard sell, support the resolution to 
+3 appoint electors for Trump"? 
+4 A The Fifth. 
+5 Q As I just read, it includes a mention of Mr. Giuliani 
+6 and presenting experts and witnesses from Arizona. Did you have 
+7 any role coordinating Mr. Giuliani's appearance before 
+8 legislators in Arizona in the post-election period? 
+9 
+10 A 
+Q The Fifth. 
+Did you approve any of the language that was included 
+11 in this script? 
+12 
+13 A 
+Q The Fifth. 
+Do you know if anyone actually cal led State legislators 
+14 to convey the information in this script? 
+15 
+16 A The Fifth. 
+Q Were you directed by anyone within the Trump campaign 
+17 or White House to make cal ls like these or have others, campaign 
+18 volunteers or staff, make calls like these? 
+19 
+20 A 
+Q The Fifth. 
+Did you ever talk to President Trump about calling State 
+21 legislators and encouraging them to appoint 
+22 Trump electors in States that he had lost? 
+23 A The fifth. 
+24 Q Did you ever talk to President Trump about other options 
+25 for changing or affecting the results of the 2020 Presidential  51 
+1 election? 
+2 A The Fifth. 
+3 Q Were you involved in any other efforts to urge State 
+4 legislatures or State legislators to appoint electors, including 
+5 by reconvening for special legislative sessions, if necessary? 
+6 A The Fifth. 
+7 Q If we go to exhibit No. 11. This is --and I'll 
+8 start --excuse me. Can you see the top part of the first page 
+9 of what we just pulled up is exhibit No. 11? 
+10 A Yeah. I can see the top, yes. 
+11 Q Okay. This is an email exchange between you on December 
+12 2nd, 2020, with Tim Murtaugh, Jenna Ellis, Boris Epshteyn, and 
+13 G. Michael Brown. The subject line: Michigan reporter 
+14 question. 
+15 And we go to the bottom of page 2. The Michigan reporter 
+16 question appears to be: Is the Trump campaign responsible for 
+17 emails from Kerrick Kuder and voicemails from Angela McCallum 
+18 to Michigan lawmakers, urging them to appoint their own electors 
+19 from Jonathan Oosting in Michigan. 
+20 After several emails, we get back to the near the top of 
+21 page 1. Mr. Murtaugh asked you and others: So what is the 
+22 answer actually? Is the campaign pushing emails and voicemails? 
+23 And you respond: The campaign did send emails and 
+24 voicemails. MR. 
+25 Was Tim Murtaugh aware of these calls or emails to State  52 
+1 legislators before they happened? 
+2 A The Fifth. 
+3 Q Jenna Ellis is somebody who is on this email exchange 
+4 and who actually weighs in at one point. Was she aware of these 
+5 cal ls and emails either before or as they were happening to State 
+6 legislators? 
+7 
+8 A 
+Q The Fifth. 
+More generally, whose idea was it to place cal ls to State 
+9 legislators? 
+10 
+11 A 
+Q The Fifth. 
+You can take that down. Thank you. 
+12 Were you involved in any discussions about rerunning the 
+13 2020 Presidential election? 
+14 
+15 A The Fifth. 
+Q Were you involved in any discussions about seizing 
+16 voting machines? 
+17 A The Fifth. 
+18 Q Were you involved in any discussions about imposing 
+19 Martial law related to the 2020 Presidential election? 
+20 
+21 A 
+Q The Fifth. 
+And were you involved in any efforts to gain access to 
+22 voting machines fol lowing the election, including gaining access 
+23 th rough St a t e off i c i al s , me m be rs of M r . G i u l i an i ' s legal team , 
+24 or anybody else? 
+25 A The Fifth.  Q Are you aware of an individual named Phil Waldron? 
+Mr. Warrington. Just a second,_ 
+Mr.~ Sure, take your time. 
+[Witness conferring with counsel.] 
+The Witness. The Fifth. 
+BY MR. 53 
+1 
+2 
+3 
+4 
+5 
+6 
+7 Q Quickly I will show you exhibit No. 26. And this is the 
+8 extent of the exhibit. This is Bates stamped R-O-M-A, ending 
+9 in 645, a document that you produced. It says: ASOG, Phil 
+10 Warren, 200k electronically adjudicated ballots. Novis 
+11 software, defaulted ballots to Biden. 
+12 Can you see the exhibit that we have up there, Mr. Roman? 
+13 
+14 
+15 
+16 A 
+Q Yes. 
+What is this? This is something you produced. 
+Mr. Warrington. Can you scroll down,_ 
+Yes. This is the extent of the entire 
+17 exhibit, but yes. 
+18 
+19 
+20 
+21 
+22 The Witness. What was the question? 
+BY 
+Q What is this document? 
+A The Fifth. 
+Q In that it says Phil Warren, W-a-r-r-e-n, is that 
+23 actually a reference to Phil Waldron, W-a-l-d-r-o-n? 
+24 
+25 A 
+Q The Fifth. 
+All right. You can take that down. Thank you.  54 
+1 So we talked a little bit about State legislators choosing 
+2 Trump electors in States that Mr. Trump had lost. But, 
+3 separately, are you aware of a plan to have Republican electors 
+4 meet and cast votes for Donald Trump in States that Mr. Trump 
+5 had lost, separate and apart from any efforts related to State 
+6 legislatures? 
+7 
+8 A 
+Q The Fifth. 
+For ease of use and shorthand, I'm going to refer to the 
+9 folks who did that as alternate electors. And so, when I use 
+10 that term, that's what I'll be referring to. 
+11 Why was it necessary for alternate electors to convene in 
+12 States that Mr. Trump had lost? 
+13 A The Fifth. 
+14 Q And what was your role, if any, in having alternate 
+15 elect o rs meet i n St ates that M r . Trump had lost , i n cl u d i n g 
+16 Pennsylvania? 
+17 
+18 A 
+Q The Fifth. 
+Did you discuss the alternate electors plan with 
+19 President Trump either before or after the electors met and cast 
+20 votes on December 14th, 2020? 
+21 A The Fifth. 
+22 Q Did you discuss the concept of or process for convening 
+23 al t e r n ate elect o rs i n contested St ates w i th any of the fol low i n g 
+24 people , J us ti n Clark , Matt Morgan , Josh Fi n d lay , or Ni ck Tr a i n er? 
+25 A The Fifth.  55 
+1 Q And same question: Did you ever discuss this concept 
+2 of or process for convening alternate electors with Rudy 
+3 Giuliani, Boris Epshteyn, Jenna Ellis, John Eastman, Bernie 
+4 Kerik, Christina Bobb, Judge James Troupis, Mike Brown --G. 
+5 Michael Brown, or Robert Sinners? 
+6 
+7 
+8 A The Fifth. 
+Q Pull up exhibit No. 12, please. 
+All right. So we're putting up exhibit No. 12. Can you 
+9 see the top of the first page of exhibit 12 on your screen? 
+10 
+11 A 
+Q Yes. 
+This is a memo to Judge James Troupis from Kenneth 
+12 Chesebro or Chesebro, dated November 18th, 2020, in brackets, 
+13 12/10 streamlined version, re: The real deadline for setting a 
+14 State's electoral votes. 
+15 And then Mr. Chesebro introduces it by saying: Here is a 
+16 summary of my view that the Presidential election timetable 
+17 affords ample time for post-election judicial proceedings. 
+18 Have you ever seen this memo before? 
+19 Mr. Warrington. Can you scroll through it, -
+20 Sure. 
+21 
+22 Q And if we go back to the top of page 1 and at least scroll 
+23 through it, that second paragraph under the summary --I'll just 
+24 read the beginning of it. It says: Assuming the electors 
+25 pledged to Trump and Pence end up meeting in a State on December  56 
+1 14th to cast their votes and then send their votes to the 
+2 President of the Senate in time to be opened on January 6th, a 
+3 court decision or perhaps a State legislative determination 
+4 rendered after December 14th in favor of the Trump-Pence slate 
+5 of electors should be considered timely. 
+6 So now having scrolled through this and heard at least that 
+7 portion of it, do you recognize this memo dated November 18th? 
+8 A The Fifth. 
+9 Q Was the portion I just read to you from that second 
+10 paragraph on page 1 consistent with what you are told about the 
+11 alternate electors and the plan to have them meet? 
+12 A The Fifth. 
+13 Q Did you have any concerns about the meeting and casting 
+14 votes by alternate electors on December 14th, 2020? 
+15 A The F i ft h . 
+16 Q If we go to exhibit 13. This is another memo. It is 
+17 a separate memo, dated December the 9th, to James Troupis from 
+18 Kenneth Chesebro. And it is: Re: Statutory requirements for 
+19 December 14th electoral votes. 
+20 I'll represent to you, as we' re scrolling through it, that 
+21 Mr. Chesebro in this memo goes through Federal law as well as 
+22 various State laws from Arizona, Georgia, Michigan, Nevada, 
+23 Pennsylvania, and Wisconsin and talks about the different State 
+24 law requirements for the meeting of electoral college electors 
+25 related to the Presidential election. Do you recognize this  1 memo shown as exhibit 13? 
+2 
+3 A 
+Q The Fifth. 
+Did you participate in any discussions about legal 57 
+4 issues related to the meetings of Republican electors in various 
+5 States? 
+6 
+7 A 
+Q The Fifth. 
+If we go to exhibit No. 15, please, and this is just a 
+8 one-page email, if you scroll up a bit --excuse me, scroll down, 
+9 rather. The end is a signature block from Joshua Findlay. Can 
+10 you see what we put up as exhibit No. 15? 
+11 
+12 A 
+Q Yes. 
+And this is an email, dated December 11th, 2020, at 5: 52 
+13 p.m., from Joshua Findlay to John Black, Clayton Henson, B. 
+14 Barrett, Jeremy Hughes, Brian Seitchik, copying Kenneth Chesebro 
+15 and you, Mr. Roman, with the subject: Presidential electors 
+16 l i ti g at i on i n the St ates . 
+17 And, in this email Mr. Findlay wrote: Rudy's team has 
+18 designated Ken Chesebro as the point person for the legal 
+19 documents and Mike Roman as the lead for executing the voting 
+20 on Monday. Both are copied here and can assist in resolving 
+21 outstanding issues in your State. 
+22 Is i t accurate that Mr . G i u l i an i des i gnat e d you as the le ad 
+23 for executing the voting by alternate electors in advance of 
+24 December 14th in the meeting of the electoral college? 
+25 A The Fifth.  58 
+1 Q And it says that you had been designated as the lead for 
+2 executing the voting. How did you execute the effort for the 
+3 voting of alternate electors on December 14th? 
+4 
+5 
+6 A The Fifth. 
+Q We'll go to exhibit No. 16. 
+All right, this is a December 12th email, at least the top 
+7 email here. Can you see the top of page 1 for exhibit 16 that 
+8 we've put up? 
+9 A Yes. 
+10 Q All right. We'll scroll down. This is a two-page 
+11 email. It starts with an email from you on December 12th to James 
+12 Fitzpatrick, Sean Flynn, Jesse Law, Thomas Lane, Valerie 
+13 McConaughey, G. Michael Brown, Robert Sinners, and Peter 
+14 McKi nnes (ph). 
+15 Are those members of your election day operations staff? 
+16 
+17 A 
+Q The Fifth. 
+You can take that down. Thank you. 
+18 So we understand that the campaign and advisers to the 
+19 campaign drafted language for the alternate electors to use in 
+20 certificates that were ultimately sent to Congress and the 
+21 National Archives. That language indicated that the alternate 
+22 electors were the, quote, duly elected and qualified electors 
+23 for President and Vice President. 
+24 Are you aware of anyone who expressed concerns about using 
+25 that language?  59 
+The Fifth. 1 
+2 A 
+Q It's been reported publicly that Pennsylvania State 
+3 Senator Doug Mastriano wanted assurances about the plan for the 
+4 alternate electors to meet and cast votes and wanted to speak 
+5 directly with Mr. Giuliani to ensure that the plan was legal. 
+6 Are you aware of any of Senator Mastriano's concerns about the 
+7 alternate electors? 
+8 
+9 A 
+Q The Fifth. 
+It's also been reported that Arizona GOP chair Kelli 
+10 Ward and Arizona State Senator Kelly Townsend also had concerns 
+11 about the alternate electors plan and that, according to an email 
+12 written by Mr. Chesebro, quote, Ward and Townsend are concerned 
+13 it could appear treasonous, end quote. 
+14 Did you ever learn about any concerns that Ms. Ward or 
+15 Senator Townsend had about the convening of alternate electors 
+16 in Arizona? 
+17 
+18 A The Fifth. 
+Q We go to exhibit No. 18. This is a one-page email --or 
+19 one-page exhibit rather, excuse me --with an email from 
+20 Mr. Chesebro to you, Mike Roman, as well as Josh Findlay on 
+21 Saturday, December 12th, at 7:12 p.m. Can you see the exhibit 
+22 we've put up as exhibit 18? 
+23 
+24 A 
+Q Yes. 
+Okay. And the subject for this email is: Tweet 
+25 language for certificate.  60 
+1 And Mr. Chesebro wrote to you saying: Mike, here is my 
+2 suggested language for dealing with the concern raised in the 
+3 PA conference call about electors possibly facing legal 
+4 exposure, parenthesis, at the hands of a partisan AG, close 
+5 parenthesis, if they seem to certify that they are currently the 
+6 valid electors. 
+7 And then he offers language with some strikeouts and 
+8 balding. Do you recognize this email? 
+9 A The Fifth. 
+10 Q Did you discuss the purported fix that Mr. Chesebro 
+11 wrote in this email with anyone, including Mr. Chesebro? 
+12 
+13 A 
+Q The Fifth. 
+At the end of this email, just above his signoff there, 
+14 it says: It strikes me that if inserting these few words is a 
+15 good idea for Pennsylvania, it might be worth suggesting to 
+16 electors in other States. 
+17 Do you know why electors in at least some other States did 
+18 not do the same and amend the language in the alternate electors 
+19 certificates that were sent to Congress and the Archives? 
+20 
+21 A 
+Q The Fifth. 
+If we go to exhibit No. 20, please, this is a few pages 
+22 of emails. The top one in includes you, Ryan Terrell, Charles 
+23 Nichols, Andrew Hitt, Mark Jefferson, Kenneth Chesebro, G. 
+24 Michael Brown, Clayton Henson, Andrew Iverson, and Nathan 
+25 Trueblood , w r i t ten on Nov em be r --excuse me , Dec em be r 16th , 2 0 2 0 ,  61 
+1 at around 11:22 a.m., with the subject line: Mailing the 
+2 packages for Monday's meeting. 
+3 Was this email exchange about mailing the alternate 
+4 electors votes to the President of the Senate, the Archives, and 
+5 others? 
+6 
+7 A 
+Q The Fifth. 
+I'll just note for the record, the bottom of page 1 of 
+8 this exhibit, it does talk about packages being mailed to the 
+9 President of Senate, the U.S. Archivist, secretary of state, and 
+10 district court. And that's an email from Mr. Nichols at the 
+11 Wisconsin GOP. 
+12 In this exchange, on page 2, you asked for confirmation that 
+13 the packages have been sent. And then Mr. Terrell says, quote: 
+14 The timing of the delivery is sensitive for the campaign. 
+15 And that's at the top right there where the cursor is, in 
+16 the top email on page 2. My question is, first, what was 
+17 Mr. Terrell's role in the alternate elector effort? 
+18 
+19 A 
+Q The Fifth? 
+Second, why is the timing of the delivery of these 
+20 alternate elector votes sensitive? 
+21 
+22 A 
+Q The Fifth. 
+You can take that down. Thank you. 
+23 D i d you eve r l ea r n t h rough d i rec t con v e r s a t i on o r o t he r w i s e 
+24 that the former President wanted alternate electors to submit 
+25 electoral college votes in States that he had lost so that the  62 
+1 Vice President, Vice President Pence, could choose them during 
+2 the joint session of Congress on January 6th? 
+3 
+4 A 
+Q The Fifth. 
+Beyond mailing or having these electoral college 
+5 alternate votes mailed, did you help in any way to get physical 
+6 copies to the Capitol, the U.S. Capitol? 
+7 A The Fifth. 
+8 Q Did you ever speak with Matt Stroia, then chief of staff 
+9 to Representative Kelly, in the days before January 6th regarding 
+10 the delivery of documents to the Senate Parliamentarian's 
+11 Office, the U.S. Senate to be clear? 
+12 A The Fifth. 
+13 Q Were the documents you discussed with Mr. Stroia the 
+14 alternate elector votes? 
+15 
+16 A 
+Q The Fifth. 
+Are you aware of anybody, including yourself, actually 
+17 delivering those votes to Mr. Stroia before the joint session 
+18 of Congress on January the 6th? 
+19 A The Fifth. 
+20 Q If we go to exhibit No. 22, if you could zoom in on this, 
+21 this is a one-page exhibit consisting of text messages sent to 
+22 somebody named Michael B. My understanding, I'll represent to 
+23 you, is that that's Mike Brown. Did you work with somebody named 
+24 Mike Brown or G. Michael Brown? 
+25 A The Fifth.  63 
+1 Q In this exchange, Mr. Brown informed the other person, 
+2 Angela McCal lum, that he had, quote, just landed and that he had, 
+3 quote, never flown clutching his bag before, end quote. He 
+4 actually says "clutching my bag before," and he explained that 
+5 the reason why he flew clutching his bag was because he, quote, 
+6 didn't want to let the docs out of his sight. 
+7 Do you know what documents Mr. Brown was flying with in the 
+8 days before the joint session of Congress and that he says he 
+9 was clutching here? 
+10 
+11 A The Fifth. 
+Q We go to exhibit No. 23. This is two pages of text 
+12 messages that we'll scroll through between Mr. Brown, Angela 
+13 McCallum, and Madison Crawley. On this first page, you can see 
+14 here Mr. Brown sends a photo of himself wearing a suit and a mask 
+15 with the U.S. Capitol over his shoulder, and he writes, quote: 
+16 Mission accomplished about to Uber home, end quote. 
+17 And, regarding the photo, he said, below the picture, quote: 
+18 This has got to be the cover of a book I write one day, end quote. 
+19 And, if we go to the next page, he continues, if you can 
+20 zoom in on the middle of page, and he says, quote: I should 
+21 probably buy Roman a tie or something for sending me on this one. 
+22 Hasn't been done since 1876, and it was only three States that 
+23 did it. 
+24 Question for you is, did you send Mr. Brown, Mike Brown, 
+25 to Wash i n gt on to de l i v e r any documents i n the days be f o re J an u a r y  1 6th? 
+2 
+3 A 
+Q 64 
+The Fifth. 
+And for what purpose did you send Mr. Brown to 
+4 Washington, as he says here, apparently to deliver documents? 
+5 
+6 A 
+Q The Fifth. 
+All right, you can take that down. 
+7 In the weeks leading up to January 6th, Professor John 
+8 Eastman wrote several memos addressing the Vice President's 
+9 authority to count or not count certain electoral votes during 
+10 the joint session of Congress based in part on the existence of 
+11 purportedly competing slates of electoral votes sent in by these 
+12 alternate electors. 
+13 Did you discuss the role of the Vice President during the 
+14 joint session of Congress with Professor Eastman? 
+15 
+16 A 
+Q The Fifth. 
+Did you discuss the role of the Vice President during 
+17 the joint session with Boris Epshteyn? 
+18 A The F i ft h . 
+19 Q And did you ever discuss the role of the Vice President 
+20 du r i n g the j o i n t session w i th Mr . Chesebro , Mr . G i u l i an i , or 
+21 anybody else? 
+22 A The Fifth. 
+23 Q Before January 6th, 2021, did you know that the 
+24 alternate electors' votes would be cited as a means of putting 
+25 pressure on Vice President during the joint session of Congress  65 
+1 to count or not count certain electoral votes? 
+I'm sorry. Can you ask that again? 2 
+3 A 
+Q Yeah, sure. So, before January 6th, 2021, the day of 
+4 the joint session, did you know that the alternate electors votes 
+5 would be cited as a means of putting pressure on or encouraging 
+6 Vice President Pence during the joint session of Congress? 
+7 
+8 A 
+Q The Fifth. 
+Did you talk to anyone in the White House, including the 
+9 President, about the President's efforts to have Vice President 
+10 Pence count or not count certain votes during the joint session 
+11 of Congress on January 6th? 
+12 A The Fifth. 
+13 Q Did you have any role in drafting, encouraging, sending 
+14 or delivering letters from State legislators to Members of 
+15 Congress , the Depa rt men t of J us t i c e o r the Vi c e P res i dent rel ate d 
+16 to elect i on fraud or the J an u a r y 6th , 2 0 21 , j o i n t s es s i on of 
+17 Congress? 
+18 
+19 A 
+Q The Fifth. 
+If we bring up exhibit No. 25, please. This is a 
+20 one-page exhibit. It's a tweet. It's fairly big, but it is from 
+21 your account @MikeRoman with a picture of people in front of the 
+22 Washington Monument. And this was posted on January 6th, 
+23 a cc o rd i n g to the t i me stamp , at 11 : 0 6 a . m . 
+24 First of all, can you see the exhibit we put up as exhibit 
+25 No. 2 5?  1 A Yes. 
+2 Q And, in this tweet, there are the hashtags 
+3 FightForAmerica, FightforTrump and January6th. Do you 
+4 recognize this tweet from your public Twitter account? 
+5 
+6 
+7 
+8 A The Fifth. 
+Q Were you in Washington on January 6th, 2021? 
+A The Fifth. 
+Q Did you take this picture of the crowd with the 
+9 Washington Monument in the background on January 6th, 2021? 
+10 A The Fifth. 66 
+11 Q Did you attend the President's rally on the Ellipse in 
+12 the morning of January 6th and into the first part of the 
+13 afternoon? 
+14 
+15 
+16 2021? A 
+Q The Fifth. 
+Did you go to the Capitol at any point on January 6th, 
+17 A The Fifth. 
+18 Q Have you talked to anybody who went to the Capitol on 
+19 J an u a r y 6th , 2 0 21? 
+20 A The Fifth. 
+21 Q And, whether before, on, or after January 6th, so at any 
+22 point, did you discuss the rally on the Ellipse with anyone who 
+23 worked in the White House at the time, including President Trump? 
+24 A The Fifth. 
+25 Q At any time, whether before, on, or after January 6th,  67 
+1 did you discuss the President's rally on the Ellipse with Mr. 
+2 Giuliani, Ms. Bobb, Ms. Ellis, Mr. Eastman, Mr. Chesebro, or 
+3 anybody working with Mr. Giuliani' s legal team? 
+4 A The Fifth. 
+5 Q Do you know why the President encouraged his supporters 
+6 to go to the Capitol on January 6th, including in his speech? 
+7 A The Fifth. 
+8 Q I'm going to stop there and see if anybody has any 
+9 followup questions to what we've gone over. 
+10 No, nothing for me. Thank you. 
+11 
+12 Q So, Mr. Roman, at this point, we will see if there is 
+13 anything that you would like to add for the record and give you 
+14 the opportunity to add anything that you would think is helpful 
+15 to the select committee's investigation. 
+16 A No. 
+17 Q And, just for the record, these are the questions that 
+18 we ' v e gone o v e r . I t ' s been about an ho u r and 4 5 mi nut es o r so 
+19 since we began. These are not necessarily all of the questions 
+20 that we would have asked, but, based on your answers to certain 
+21 of the questions, it looks like several areas of inquiry would 
+22 involve you asserting the Fifth. And so, in that case we're 
+23 go i n g to ref r a i n f r om o the r quest i on s , but we have d i s cussed many 
+24 topics here today. 
+25 And I think, at this point, unless there is anything that  68 
+1 you, Mr. Warrington, would like to put on the record or any of 
+2 the other attorneys who represent you, Mr. Roman, I think we'll 
+3 be near conclusion. 
+4 Mr. Warrington. We don't have anything further other than 
+s what was contained in our correspondence with the chairman and 
+6 obviously the assertions made today. 
+7 ~ Okay. Thank you, Mr. Warrington. 
+8 Then, at this point, I think we can recess subject to the 
+9 call of the chair and conclude the deposition. 
+10 Mr. Warrington. And we would put on the record our 
+11 objection to that. Our position is that Mr. Roman has fulfilled 
+12 his obligations under the subpoena. 
+13 Thank you. That will be noted. And then we 
+14 can go off the record. 
+15 [Whereupon, at 11:46 a.m., the deposition was recessed, 
+16 subject to the call of the chair.]  1 
+2 
+3 69 
+Certificate of Deponent/Interviewee 
+4 I have read the foregoing __ pages, which contain the correct 
+s transcript of the answers made by me to the questions therein 
+6 recorded. 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 Witness Name 
+Date 

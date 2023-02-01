@@ -1,0 +1,851 @@
+1 
+2 
+3 
+4 SELECT COMMITTEE TO INVESTIGATE THE 
+5 JANUARY 6TH ATTACK ON THE U.S. CAPITOL, 
+6 U.S. HOUSE OF REPRESENTATIVES, 
+7 WASHINGTON, D.C. 
+8 
+9 
+10 
+11 DEPOSITION OF: BIANCA GRACIA 
+12 
+13 
+14 
+15 Thursday, April 7, 2022 
+16 
+17 
+18 
+19 
+20 Washington, D.C. 
+The deposition in the above matter was held via Zoom, commencing at 9:58 a.m. 1  1 
+2 Appearances: 
+3 
+4 
+5 For the SELECT COMMITTEE TO INVESTIGATE 
+6 THE JANUARY 6TH ATTACK ON THE U.S. CAPITOL: 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 , PROFESSIONAL STAFF MEMBER 
+, INVESTIGATIVE COUNSEL 
+CHIEF CLERK 
+, INVESTIGATIVE COUNSEL 
+INVESTIGATIVE COUNSEL 
+SENIOR TECHNICAL ADVISOR 
+16 For THE WITNESS: 
+17 
+18 LAURIN MILLS 2  1 
+2 
+3 - And so we're on the record at 9:58 a.m. 
+Good morning. This is the deposition of Bianca Gracia, conducted by the House 
+4 Select Committee to investigate the January 6th attack on the United States Capitol, 
+5 pursuant to House Resolution 503. 
+6 This deposition is being conducted via Zoom. This will be a staff-led deposition, 
+7 though Members may choose to join the Zoom call and ask questions. 
+8 At this time, I'd ask the witness to please state your full name and spell your last 
+9 name for the record. 
+10 The Witness. Bianca Gracia, G-r-a-c-i-a. 
+11 - My name is-. I'm an investigative counsel with the 
+12 Select Committee. There are no other staff from the Select Committee on the call right 3 
+13 now and no other members, but if people choose to join, I'll try to announce them as they 
+14 come in so that you know who's in the room. 
+15 The Witness. Okay. 
+16 - And then I'd also ask at this time for counsel for Ms. Gracia to state 
+17 his name for the record. 
+18 Mr. Mills. Good morning. It's Laurin Mills for Ms. Gracia. And as we 
+19 discussed before, make a short statement. Ms. Gracia is appearing here, respecting the 
+20 committee's authority here to subpoena her. 
+21 However, in light of comments made by the Attorney General and the Deputy 
+22 Attorney General, and by the committee and filings in the Central District of California 
+23 and by a judge in the Central District of California, she has opted to invoke her rights 
+24 under the Fifth Amendment, not to be a witness against herself. 
+25 And so after you swear her in, every answer she's going to give is, I rely on my  1 Fifth Amendment privilege. And that's how we will proceed. And are you okay with 
+2 that shorthand,-? 
+3 - That's --yeah, that's going to be fine. I'll have a few kind of 
+4 clarifying statements once we get started as well, but, yeah, we can go with shorthand 
+5 after the first invocation. 
+6 You know, actually, if you can just give me one second while a staff member is 
+7 trying to join the call. 
+8 
+9 Mr. Mills. Okay. 
+- Okay. All right. Thank you for that, Mr. Mills. 
+10 So under House deposition rules, neither committee members, nor staff, may 4 
+11 discuss the substance of the testimony today, unless the committee approves for release. 
+12 And then also note under House rules, you may have your attorney present, which 
+13 obviously you do, but counsel for other individuals, or attorneys for other government 
+14 agencies may not be present and are, therefore, not present today. 
+15 And then I'll also note for the record, that we've had join. 
+16 He's another investigative counsel with the Select Committee. 
+17 What has been previously marked as exhibit 1 is the Select Committee's January 
+18 19, 2022 subpoena for Ms. Bianca Gracia. The House deposition rules are included in 
+19 that exhibit. 
+20 We've also had a couple more individuals join. We've had_, 
+21 investigative counsel for the committee, and , who's a consultant with 
+22 the committee and on the committee staff as well. 
+23 So, Ms. Gracia, there's an official reporter that's transcribing the record of this 
+24 deposition. So to make her job a little bit easier, if you can just wait until I complete my 
+25 questions before you begin your response. We'll try to wait --and then I'll also try to  1 wait until you've completed your answer before I begin my next question. 
+2 It's just difficult for the court reporter to try to transcribe two people speaking at 
+3 the same time. Does that make sense? 
+4 
+5 The Witness. Yes. 
+- Okay. And then along the same lines, you need to use verbal 
+6 responses today, as opposed to, like, a head shake. So just make sure that you try to 
+7 use yes or no or a similar answer when I ask a question. 
+8 And then also today, all we ask is that you provide complete answers to the best 
+9 of your recollection. If a question is not clear, please ask for clarification or ask me to 
+10 restate it. And if you don't know the answer, you can simply say so. 
+11 The Witness. Okay. 
+12 - Also note, and Mr. Mills has already addressed for the record, that 
+13 you may refuse to answer a question to preserve a privilege recognized by the select 
+14 committee, privileges like the Fifth Amendment right against self-incrimination. 
+15 If you refuse to answer a question based on a privilege, staff may either proceed 5 
+16 with the deposition or seek a ruling from the chairman on the objection. If the chairman 
+17 overrules such an objection, you'll be required to answer the question. 
+18 And then, I also want to remind you that it's unlawful --and we provide this 
+19 warning for everybody we speak to --that it's unlawful to deliberately provide false 
+20 information to Congress. 
+21 Providing false information could result in criminal penalties for perjury or false 
+22 statements, including under 18 U.S.C. 1001, which makes it illegal to provide a false 
+23 statement to an congressional investigator like myself, or some of the others that I've 
+24 announced on this call. Does that all make sense to you? 
+25 The Witness. Yes.  1 - That being said, I want to make clear that this is a congressional 
+2 investigation and not a criminal investigation. This proceeding is separate and distinct 
+3 from any current criminal proceeding by the United States Department of Justice. Do 
+4 you understand that? 
+5 
+6 The Witness. Yes. 
+- Okay. And then throughout today and throughout our 
+7 conversation, if you need any breaks, just let me know. I'll try to take a break about 
+8 every hour or so, but if you need one at a different time, feel free to say so. 
+9 The Witness. Okay. 
+10 And then, I'll mostly be leading our conversation today and asking 
+11 most of the questions, but occasionally, other staffers or a member might join the 
+12 discussion and ask a follow-up question for you, so that may occur. 
+13 And then lastly, because this is a deposition, you are --or you will be under oath. 
+14 So could you please raise your right hand to be sworn. 
+15 The Reporter. Do you solemnly swear and affirm under the penalty of perjury 
+16 that the testimony you are about to give will be the truth, the whole truth, and nothing 
+17 but the truth? 
+18 
+19 
+20 
+21 The Witness. I do. 
+The Reporter. Thank you. 
+The Witness. Yes. 
+- Great. And then to start, sort of a housekeeping matter, I'm going 
+22 to pull up exhibit 1, which you should be able to see on your screen now. Can you see 
+23 that? 
+24 
+25 The Witness. Yes. 
+- Okay. And this is the January 19, 2022 subpoena issued to you by 6  1 the select committee. Have you seen this document before? 
+2 The Witness. Yes. 
+3 - Okay. And I'll note, obviously at the top of there, we've got Bianca 
+4 Gracia, and I just want to confirm that you're the individual named in this subpoena. Is 
+5 that correct? 
+6 
+7 The Witness. Yes. 
+- Okay. Great. And then I'm scrolling down to page 5 of this 
+8 document, which is a schedule of documents requested in the subpoena. Have you 
+9 seen this document schedule before? 
+10 
+11 The Witness. Yes. 
+- Okay. And am I right that in response to the subpoena, which calls 
+12 for the production of documents, you've produced no documents, correct? 
+13 Mr. Mills. I'm going to --we have already asserted the act-of-production 
+14 privilege with regard to that. 
+15 - Sure. And just as an initial matter, you know, I'm going to need 7 
+16 Ms. Gracia to assert those privileges on the record. So really just a housekeeping matter 
+17 to get her to put that on the record. 
+18 
+19 
+20 Mr. Mills. So, Bianca, you can say, I rely on my Fifth Amendment privilege. 
+The Witness. I rely on my Fifth Amendment privilege. 
+- Okay. And then also as an additional matter, I just want to make 
+21 sure --I'm sure you've had conversations with Mr. Mills about this, but I want to make 
+22 sure you understand what it means to invoke the Fifth Amendment privilege. 
+23 And so, I hope that you understand that by invoking the Fifth Amendment right 
+24 against self-incrimination, you're indicating that you believe that truthful answers to my 
+25 question would be incriminating.  8 
+1 Mr. Mills. I object to that characterization. The Fifth Amendment says nothing 
+2 about incrimination. It says she has a right not to be a witness against herself. And 
+3 that's the objection. So that's the privilege she's asserting. 
+4 - Do you understand that by providing truthful answers to these 
+5 questions and invoking the Fifth Amendment right, that you believe that the answers to 
+6 your questions could be used against you in a criminal case? 
+7 The Witness. I rely on my Fifth Amendment privilege not to be a witness against 
+8 myself. 
+9 - Okay. And it's also your position that collecting documents and 
+10 producing documents would also amount to being used as a witness against yourself? Is 
+11 that the case? 
+12 The Witness. I rely on my Fifth Amendment Privilege not to be a witness against 
+13 myself. 
+14 - Thank you. 
+15 EXAMINATION 
+16 BY-: 
+17 Q I'd like to start this with some background questions. If you can tell me, 
+18 where do you currently live? 
+19 
+20 
+21 
+22 
+23 
+24 
+25 A Houston, Texas. 
+Mr. Mills. Bianca? 
+The Witness. Uh-huh. 
+Mr. Mills. You know, just stick with your privilege. 
+The Witness. Okay, thank you. 
+I rely on my Fifth Amendment privilege. 
+BY-:  1 
+2 
+3 Q 
+A 
+Q And what is your occupation? 
+I rely on my Fifth Amendment privilege. 
+I'm going to ask you a series of questions. We'll go through some kind of 
+4 introductory questions, and I'll have you invoke your Fifth. I might ask some clarifying 
+5 questions to understand the scope of your Fifth Amendment objection and also 
+6 understand the basis for it. So --but first, I would like to answer some questions about 
+7 your involvement in the organization Latinos for Trump. Are you the founder of Latinos 
+8 for Trump? 
+9 
+10 
+11 
+12 
+13 
+14 A 
+Q 
+A 
+Q 
+A 
+Q I rely on my Fifth Amendment privilege. 
+Okay. Can you tell me what the purpose of that organization is? 
+I rely on my Fifth Amendment privilege. 
+Does the organization still exist? 
+I rely on my Fifth Amendment privilege. 
+Okay. Is it going to be --or is it your intention to invoke the Fifth 
+15 Amendment for any and all questions related to your involvement with the organization, 
+16 Latinos for Trump? 
+17 
+18 A 
+Q I rely on my Fifth Amendment privilege. 
+Okay. I also want to ask some questions about are there other individuals 
+19 that are related to Latinos for Trump or may have had some involvement with that 
+20 organization. So first, I'll ask, do you know Mr. Enrique Tarrio? 
+21 A I rely on my Fifth Amendment privilege. 
+22 Q Do you know an individual named Mr. Thad Cisneros? 
+23 A I rely on my Fifth Amendment privilege. 
+24 Q Okay. Would it be your intention today to invoke the Fifth Amendment 
+25 with respect to any questions about other individuals' involvement in Latinos for Trump? 9  1 
+2 A 
+Q I rely on my Fifth Amendment privilege. 
+Okay. Let's move towards some questions and topics related to planning 
+3 for January 5th and 6th. Could you tell me, or to start from a high level, what is 10 
+4 your --or what was your involvement in obtaining any permits for the events on January 
+5 5th and 6th? 
+6 
+7 
+8 
+9 A 
+Q 
+A 
+Q I rely on my Fifth Amendment privilege. 
+Okay. Do you know of an organization called Virginia Freedom Keepers? 
+I rely on my Fifth Amendment privilege. 
+Okay. I have a series of questions about the permitting process and 
+10 permits you may have been involved in obtaining, either through Latinos for Trump or in 
+11 relation to the Virginia Freedom Keepers. 
+12 Is it your intention to invoke the Fifth Amendment with respect to all questions 
+13 about permitting or planning for the events of January 5th and 6th? 
+14 
+15 A 
+Q I rely on my Fifth Amendment privilege. 
+Okay. I also have a series of questions about other individuals involved 
+16 with Virginia Freedom Keepers that you may know or have interacted with in relation to 
+17 planning for the 5th or the 6th. So the first one is Marsha Lessard. Do you know 
+18 Marsha Lessard? 
+19 
+20 
+21 
+22 A 
+Q 
+A 
+Q I rely on my Fifth Amendment privilege. 
+Okay. And how about Christina Skaggs, do you know Ms. Christina Skaggs? 
+I rely on my Fifth Amendment privilege. 
+Okay. There are a number of other individuals that you may have been 
+23 familiar with or worked with in relation to planning for the 5th and the 6th. I'm going to 
+24 name those entities and if you could tell me if you're familiar with them and if you 
+25 worked with them for those purposes.  1 The first entity I want to address is Women for America First. Are you familiar 
+2 with that organization? 
+I rely on my Fifth Amendment privilege. 
+Okay. How about Stop the Steal? 
+I rely on my Fifth Amendment privilege. 11 
+3 
+4 
+5 
+6 A 
+Q 
+A 
+Q Okay. And you know what, we can, just to make this easier for everybody 
+7 and for you, Ms. Gracia, if you want to just say "Fifth," that's fine with me. 
+8 How about coordination with Mr. Ali Alexander, do you know him, or have you 
+9 worked with him? 
+10 
+11 
+12 them? 
+13 
+14 A 
+Q 
+A 
+Q I rely on my Fifth Amendment privilege. 
+Okay. And how about either Amy or Kylie Kremer, do you know either of 
+I rely on my Fifth Amendment privilege. 
+Okay. And leading up to the 5th and the 6th and planning for those days 
+15 and the events on those days, did you have contact with anybody in the White House for 
+16 planning any of those events? 
+17 
+18 A 
+Q I rely on my Fifth Amendment privilege. 
+How about any Members of Congress, were you in contact with or did you 
+19 coordinate with any Members of Congress in relation to planning or attending events on 
+20 the 5th or the 6th of January? 
+21 
+22 A 
+Q I rely on my Fifth Amendment privilege. 
+In your --just continuing on the theme of kind of preparation and planning 
+23 for the 5th and the 6th. In your preparation and planning for those events, did you 
+24 consider any security threats or how to deal with them if they arose on that day? 
+25 A I rely on my Fifth Amendment privilege.  12 
+1 Q Okay. How about security threats posed by extremist groups that might've 
+2 been present in D.C. around that time? 
+3 
+4 A 
+Q I rely on my Fifth Amendment privilege. 
+Okay. And I just want to clarify or state that I have a series of questions 
+5 about individuals who may have posed a security threat to you or your organization on 
+6 January 5th or 6th, and would it be your intention to invoke the Fifth Amendment with 
+7 respect to any security threats that you recognized or planned for on the 5th or the 6th? 
+8 
+9 A 
+Q I rely on my Fifth Amendment privilege. 
+Okay. Then moving from sort of planning to your involvement, actual 
+10 involvement in and participation in events of that day, on January 5th, were you 
+11 involved --did you attend any of the events on January 5th? 
+12 
+13 
+14 
+15 A 
+Q 
+A 
+Q I rely on my Fifth Amendment privilege. 
+Okay. Were you a speaker at any of the events on January 5th? 
+I rely on my Fifth Amendment privilege. 
+I have a series of questions related to your attendance and participation in 
+16 rallies or events that were held on January 5th, 2021. Is it your intention to invoke the 
+17 Fifth Amendment to all of those questions? 
+18 
+19 A 
+Q Yes. I rely on my Fifth Amendment privilege. 
+Okay. I'd like to ask you about another individual who was involved in 
+20 planning for events on January 5th. Her name is Cindy Chafian. Do you know 
+21 Ms. Chafian? 
+22 
+23 A 
+Q I rely on my Fifth Amendment privilege. 
+I have a series of questions about your communications and interactions 
+24 with Ms. Chafian. Would it be your intention to invoke the Fifth for any and all 
+25 questions about your interactions with Ms. Chafian related to January 5th or 6th?  1 
+2 
+3 A 
+Q 
+A I rely on my Fifth Amendment privilege. 
+If you did speak on January 5th, were you paid for your speech? 
+I rely on my Fifth Amendment privilege. 
+4 Q Okay. And then, I also want to ask just some kind of logistical questions 13 
+5 about your trip to Washington, D.C. for January 5th and 6th, 2021. Where did you stay 
+6 while you were in Washington, D.C.? 
+7 
+8 
+9 
+10 A 
+Q 
+A 
+Q I rely on my Fifth Amendment privilege. 
+Okay. How long did you stay in D.C. when you were here for those events? 
+I rely on my Fifth Amendment privilege. 
+Okay. Did anyone or any entity pay for any of your travel accommodations 
+11 for the 5th or the 6th? 
+12 
+13 A 
+Q I rely on my Fifth Amendment privilege. 
+Okay. I have, again, a series of questions about just kind of the logistics of 
+14 your attendance at these events, where you stayed, who paid for those accommodations. 
+15 Would it be your intention to invoke the Fifth Amendment for any questions related to 
+16 your travel around January 5th and 6th? 
+17 
+18 A 
+Q I rely on my Fifth Amendment privilege. 
+Okay. You've mentioned previously --or I mentioned previously in this 
+19 deposition, Mr. Enrique Tarrio, and I just want to ask you a few questions about him and 
+20 how you know him and what your interactions with him have been. 
+21 So I'll start just generally, do you know Mr. Tarrio? 
+22 
+23 A 
+Q I rely on my Fifth Amendment privilege. 
+Okay. I had some more specific questions about Mr. Tarrio and his 
+24 involvement in Latinos for Trump. Can you tell me what positions, if any, he's held in 
+25 the organization Latinos for Trump?  1 
+2 A I rely on my Fifth Amendment privilege. 
+Q We have collected documents and testimony from other witnesses who've 
+3 indicated that on November 13th, Mr. Tarrio flew with other Proud Boys from Miami to 
+4 Washington, D.C. for the rallies in D.C. on November 14th. Were you aware of this 
+flight? 
+A I rely on my Fifth Amendment privilege. 
+Q Okay. Did you help pay for this flight? 
+I rely on my Fifth Amendment privilege. 14 
+5 
+6 
+7 
+8 
+9 A 
+Q If you did not pay for the flight, do you know who did pay for those flights to 
+10 D.C. on November 13th? 
+11 
+12 A I rely on my Fifth Amendment privilege. 
+Q Okay. Again, I have a series of questions about Mr. Tarrio's travel to 
+13 Washington, D.C. for the events of November 14th and your knowledge of payments for 
+14 those flights and other individuals that might've been on the flight. 
+15 Is it your intention to invoke the Fifth Amendment with respect to any questions 
+16 about the flight with Mr. Tarrio and other Proud Boys from Miami to Washington on 
+17 D.C. --to D.C. for November 13th. Would you invoke the Fifth for all of those questions? 
+18 
+19 A I rely on my Fifth Amendment privilege. 
+Q Similarly, other witnesses and evidence that we've collected have indicated 
+20 that Mr. Thad Cisneros, who also has some ties to the organization Latinos for Trump, was 
+21 flown by private plane to Washington, D.C. for the events of January 6th. Were you 
+22 aware of this flight? 
+23 
+24 
+25 A 
+Q 
+A I rely on my Fifth Amendment privilege. 
+Did Latinos for Trump help pay for that flight? 
+I rely on my Fifth Amendment privilege.  Okay. Do you know an individual named Mr. Patrick Byrne? 
+I rely on my Fifth Amendment privilege. 15 
+1 
+2 
+3 Q 
+A 
+Q Okay. Do you know if he helped pay for either of the two flights that we've 
+4 just discussed, the November 13th flight to Washington, D.C. with Mr. Tarrio, and the 
+5 January 6th flight to Washington, D.C. with Mr. Cisneros? 
+6 
+7 
+8 
+9 A 
+Q 
+A 
+Q I rely on my Fifth Amendment privilege. 
+Okay. Is Mr. Byrne a financier, or does he contribute to Latinos for Trump? 
+I rely on my Fifth Amendment privilege. 
+Okay. Again, I have a series of questions about Mr. Byrne and his relation 
+10 to the organization, Latinos for Trump. Would it be your intention to invoke the Fifth 
+11 Amendment with respect to any questions about Mr. Byrne and his relation to that 
+12 organization? 
+13 
+14 A 
+Q I rely on my Fifth Amendment privilege. 
+Would you also invoke the Fifth with respect to any questions about Mr. 
+15 Byrne and his financing of the flights that we previously identified? 
+16 
+17 A 
+Q I rely on my Fifth Amendment privilege. 
+Okay. I'd like to move to another topic. Also in advance of the events of 
+18 January 5th and 6th --this is in December of 2020 --did you visit the White House at any 
+19 time? 
+20 
+21 A 
+Q I rely on my Fifth Amendment privilege. 
+Can you tell me, if you did visit the White House, what your reason for 
+22 visiting the White House was? 
+23 
+24 A 
+Q I rely on my Fifth Amendment privilege. 
+Did Mr. Tarrio visit the White House with you for --in that December visit to 
+25 the White House?  1 
+2 A 
+Q I rely on my Fifth Amendment privilege. 
+Okay. And I have a series of questions about this White House visit in 
+3 December. Would it be your intention to invoke the Fifth Amendment with respect to 
+4 all questions about any visits you had to the White House in December of 2020? 
+5 
+6 
+7 A 
+Q 
+A I rely on my Fifth Amendment privilege. 
+Okay. Did you or Mr. Tarrio meet President Trump during this visit? 
+I rely on my Fifth Amendment privilege. 
+8 Q Okay. I would like to ask that she --I'd like to ask some questions about 16 
+9 some other elected officials that you may have had contact with. So I'm going to pull up 
+10 what we've premarked as exhibit 3. And can you see this document? Are you able to 
+11 see this, Ms. Gracia? 
+12 Oh, I know that you're on your --
+13 
+14 A 
+Q Yeah. 
+--on your phone, so it might be a little difficult to read. I can read to you 
+15 from the document, and if we need to provide a copy for you to view some other way, we 
+16 can try to do that. But what I'll represent to you is that these are phone records that we 
+17 have collected from T-Mobile related to your phone number, 
+18 And I've, through those phone records, identified some specific calls I'd like to ask 
+19 you about. And if you can just tell me if you remember the phone call and remember 
+20 what the topic of discussion was on the phone call. 
+21 So first, I'd like to ask you about a November 24th phone call to Senator Cornyn's 
+22 office. Do you recall this phone call? 
+23 A I rely on my Fifth Amendment privilege. 
+24 Q And do you recall what you discussed with Senator Cornyn or his staff on this 
+25 phone call?  1 
+2 A I rely on my Fifth Amendment privilege. 
+Q Okay. I'd also like to look at a series of phone calls from November 30th 17 
+3 from your phone to --two calls to a White House landline and two calls to a White House 
+4 cell phone. Do you recall phone calls on November 30th to any White House phone 
+5 numbers? 
+6 
+7 A I rely on my Fifth Amendment privilege. 
+Q And could you tell me what the topics of conversations during those phone 
+8 calls were? 
+9 A I rely on my Fifth Amendment privilege. 
+10 - And, again, I'll just say one more time --and Mr. Mills, if it makes 
+11 Ms. Gracia more comfortable for you to direct her, I'm fine if you just want to say "Fifth," 
+12 instead of "I rely on my Fifth Amendment privilege" and we can move things along a little 
+13 faster. 
+14 Mr. Mills. Thank you. We'll just stick with this shorthand that we, you 
+15 know --we'll go with it. But thanks for the offer though. 
+16 - Sure. 
+17 BY-: 
+18 Q Then again on November 30th, there's a phone call to Representative 
+19 Ba bin's office. Do you recall this phone call? 
+20 
+21 A I rely on my Fifth Amendment privilege. 
+Q Okay. Later in November --or, sorry --December 1st, you made a call to 
+22 Representative Weber's office. Do you recall this phone call? 
+23 
+24 A I rely on my Fifth Amendment privilege. 
+Q Okay. And then we'll move to December 22nd, again a series of phone calls 
+25 to White House numbers, a land line and a cell phone. Do you recall calling the White  18 
+1 House on December 22nd? 
+A I rely on my Fifth Amendment privilege. 2 
+3 Q Okay. And then finally, also on that same day, December 22nd, it looks like 
+4 you called Senator Cruz' office. Do you recall this phone call? 
+5 
+6 
+7 
+8 A I rely on my Fifth Amendment privilege. 
+Q And do you recall the topics of conversations during that phone call? 
+A I rely on my Fifth Amendment privilege. 
+Q And for all these calls that I've just identified for you, did any of the topics of 
+9 conversation involve planning for rallies or events in Washington, D.C.? 
+10 
+11 A I rely on my Fifth Amendment privilege. 
+Q And then more specifically, I'll ask, did any of the phone calls involve 
+12 planning for events on January 5th or 6th? 
+13 
+14 A I rely on my Fifth Amendment privilege. 
+Q Okay. I would have a series of questions about the circumstances 
+15 surrounding these phone calls. Would it be your intention to invoke the Fifth 
+16 Amendment with respect to any questions about the phone calls that were just 
+17 identified? 
+18 
+19 A I rely on my Fifth Amendment privilege. 
+Q Okay. All right. Moving to another event and topic, I want to talk --move 
+20 back on January the 5th, 2021. So I'm going to pull up another exhibit. This one's a 
+21 short video, and we'll watch a few seconds of it. 
+22 Are you able to see this video? 
+23 
+24 
+25 Mr. Mills. Bianca, can you see the video? 
+BY-: 
+Q Can you see the video?  19 
+1 A Yeah, yeah. It's small but I can see, yes. 
+2 Q I'm just going to play a few seconds of it. The audio, you're not going to be 
+3 able to hear the audio on this. This, if you just saw that --I'll go back to still with the 
+4 individuals I'm going to ask you about. 
+5 In this video, you appear to be in a garage. I'll represent that this video was 
+6 taken on January 5th. Do you remember a meeting in a garage on January --on the 
+7 evening of January 5th? 
+8 
+9 A 
+Q I rely on my Fifth Amendment privilege. 
+Okay. Looking at this video, I'm going to identify some individuals. The 
+10 first one I'd like to identify and have you confirm is you. On the left side of that screen 
+11 in a red jacket with a mask below your chin, I believe that's you. Can you confirm that 
+12 that's you in the video? 
+13 A I rely on my Fifth Amendment privilege. 
+14 Q Okay. And the other individuals in this video, I believe immediately to your 
+15 right are Mr. Enrique Tarrio, and standing in front of him is Mr. Josh Macias. Standing to 
+16 the right of both of them in the photo is Ms. Kellye So Re lie, and finally behind Ms. Kellye 
+17 SoRelle is Mr. Stewart Rhodes. Do you know these individuals? 
+18 
+19 A 
+Q I rely on my Fifth Amendment privilege. 
+Okay. I have a series of questions about this meeting and about these 
+20 individuals and the topics discussed at that meeting. Would it be your intention to 
+21 invoke the Fifth Amendment with respect to all of those questions? 
+22 
+23 
+24 
+25 A 
+Q 
+A 
+Q I rely on my Fifth Amendment privilege. 
+Do you know Ms. Amy Harris? 
+I rely on my Fifth Amendment privilege. 
+Okay. Was Ms. Amy Harris also at this meeting?  1 
+2 A 
+Q I rely on my Fifth Amendment privilege. 
+Okay. Again, related to some planning for January 5th and 6th, I'd like to 
+3 ask some other questions. Did you arrange for security to be provided for you or any 
+4 other attendees of the events on January 5th and 6th? 
+5 
+6 A 
+Q I rely on my Fifth Amendment privilege. 
+Okay. Have you ever arranged for security to be provided at any other 
+7 rallies in Washington, D.C.? So specifically I'll ask about the rallies on November 14th 
+8 and December 12th. 
+9 
+10 A 
+Q I rely on my Fifth Amendment privilege. 
+Can you tell me what organizations, if you did have security needs at these 
+11 sorts of events, you would ask for --ask to provide that sort of security detail? 
+12 
+13 A 
+Q 
+14 events? I rely on my Fifth Amendment privilege. 
+Did you ever ask Mr. Tarrio to help you arrange security for any of these 
+I rely on my Fifth Amendment privilege. 20 
+15 
+16 A 
+Q Did you ever ask any other Proud Boys to provide security for you or any of 
+17 the organizations you were involved with? 
+18 A I rely on my Fifth Amendment privilege. 
+19 Q How about any other militia groups or groups who held themselves out as 
+20 providing security? Specifically, I'll ask you about the Oath Keepers. Did you ever 
+21 arrange to have the Oath Keepers provide security for you or anybody else? 
+22 
+23 A 
+Q I rely on my Fifth Amendment privilege. 
+And how about specifically on the 6th, did you communicate with, 
+24 coordinate with Proud Boys or Oath Keepers in an effort to provide security for anybody 
+25 on that day?  1 
+2 A 
+Q I rely on my Fifth Amendment privilege. 
+Again, I have a series of questions about your planning and coordination 
+3 with members of the Proud Boys or any other similar groups that were present on 21 
+4 January 6th. Would it be your intention to invoke the Fifth Amendment with respect to 
+5 any questions about their involvement on the event --or in the events of January 5th and 
+6 6th? 
+7 
+8 
+9 
+10 
+11 
+12 A 
+Q 
+A 
+Q 
+A 
+Q 
+13 entry area? 
+14 
+15 A 
+Q I rely on my Fifth Amendment privilege. 
+Where were you on January 6th? 
+I rely on my Fifth Amendment privilege. 
+Did you attend the rally at the Ellipse on January 6th? 
+I rely on my Fifth Amendment privilege. 
+If you attended the rally, were you admitted into a VIP area or into an early 
+I rely on my Fifth Amendment privilege. 
+And then I'll ask again, would it be your intention to invoke the Fifth 
+16 Amendment with respect to any questions about your attendance at the Ellipse rally on 
+17 January 6th? 
+18 
+19 A 
+Q I rely on my Fifth Amendment privilege. 
+I'd like to ask questions about any other --or any activities that you engaged 
+20 in after the Ellipse rally. Where did you go after the Ellipse rally? 
+21 
+22 
+23 
+24 A 
+Q 
+A 
+Q I rely on my Fifth Amendment privilege. 
+Did you plan to speak on January 6th? 
+I rely on my Fifth Amendment privilege. 
+Would it be your intention to invoke the Fifth Amendment with respect to 
+25 any other questions about your activities on January 6th?  22 
+I rely on my Fifth Amendment privilege. 1 
+2 A 
+Q I want to ask about your awareness of other individuals planning for events 
+3 of January 6th. Were you aware that there was going to be a march to the Capitol from 
+4 the Ellipse rally? 
+5 
+6 A 
+Q I rely on my Fifth Amendment privilege. 
+Were you aware separately that the Proud Boys were planning to march 
+7 from the Washington Monument area to the Capitol? 
+8 
+9 A 
+Q 
+10 January 6th? 
+11 
+12 A 
+Q I rely on my Fifth Amendment privilege. 
+Did you have any communications with Mr. Tarrio about his plans for 
+I rely on my Fifth Amendment privilege. 
+Okay. And similarly I have a series of questions about other individuals' 
+13 plans on January 6th and your awareness of those plans. Would it be your intention to 
+14 invoke the Fifth Amendment with respect to any questions about any other individuals' 
+15 plans for January 6th? 
+16 
+17 A 
+Q I rely on my Fifth Amendment privilege. 
+Okay. I'd like to ask some questions about how you communicated with 
+18 people for planning related to January 5th and 6th. Do you use any encrypted 
+19 messaging apps? 
+20 
+21 
+22 
+23 
+24 
+25 A 
+Q 
+A 
+Q 
+A 
+Q I rely on my Fifth Amendment privilege. 
+Have you ever used Signal? 
+I rely on my Fifth Amendment privilege. 
+Have you ever used Telegram? 
+I rely on my Fifth Amendment privilege. 
+Did you ever communicate with Mr. Tarrio through any encrypted messaging  23 
+1 app? 
+2 A I rely on my Fifth Amendment privilege. 
+3 Q After --were you aware of Mr. Tarrio's arrest on January 4th? 
+4 A I rely on my Fifth Amendment privilege. 
+5 Q Either after January 4th or after the events of January 6th, did you ever 
+6 delete any messages with Mr. Tarrio or any other Proud Boys related to the events of 
+7 those days? 
+8 A I rely on my Fifth Amendment privilege. 
+9 - I'm just trying to go back through some of my notes and make sure 
+10 I've covered most of the topics that we'd like to discuss with you today, but I think we're 
+11 nearing the end. 
+12 Let's take just a quick recess. It's 10:38. We'll go into recess until 10:45, and 
+13 then hopefully when we come back, we can wrap things up. 
+14 Mr. Mills. Sounds good. Thank you very much. 
+15 - Thanks. You can go ahead and mute your video or camera if you 
+16 need to. And I will. 
+17 [Recess.] 
+18 - Then we can go back on the record at 10:46, and I think my 
+19 colleague,_ has a few quick questions for you, and then I have a few final 
+20 close-up questions, and then we should be done. 
+21 So,_, feel free to go ahead. 
+22 - Thankyou,-. 
+23 BY-: 
+24 Q I just have a few questions a little bit zooming out. First of all, why was it 
+25 important for you to go to Washington, D.C. on January 6th?  24 
+A I rely on my Fifth Amendment privilege. 
+Q What were you hoping to accomplish by going to D.C. on January 6th? 
+A I rely on my Fifth Amendment privilege. 
+Q Do you believe that the 2020 election was stolen? 
+A I rely on my Fifth Amendment privilege. 1 
+2 
+3 
+4 
+5 
+6 Q Was it your belief that President Trump wanted to delay the certification of 
+7 the election results on January 6th? 
+8 
+9 A 
+Q I rely on my Fifth Amendment privilege. 
+Do you have any reason to believe that President Trump encouraged 
+10 individuals to try to delay the election results on his behalf? 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 A I rely on my Fifth Amendment privilege. 
+Q Do you believe that Joe Biden is the President of the United States? 
+A I rely on my Fifth Amendment privilege. 
+Q Thank you. 
+_, that's all I have. 
+-Great. 
+BY-: 
+Q Then just a couple more quick questions about Latinos for Trump. Is 
+19 Latinos for Trump, or was Latinos for Trump an official coalition partner with the Trump 
+20 campaign? 
+21 
+22 A I rely on my Fifth Amendment privilege. 
+Q And then could you explain to me the sources of funding for Latinos for 
+23 Trump? 
+24 
+25 A I rely on my Fifth Amendment privilege. 
+Q And then a few more just general questions about anybody you might've  1 spoken to in relation to the events of January 5th or 6th, either just about your 
+2 attendance or about planning for those events. 
+3 Did you ever speak to or coordinate with anybody you knew to be employed by 
+4 the White House with respect to the events of January 5th or 6th? 
+5 
+6 
+7 
+8 A 
+Q 
+A 
+Q I rely on my Fifth Amendment privilege. 
+Okay. How about anybody employed by the Trump campaign? 
+I rely on my Fifth Amendment privilege. 
+And then how about any other elected officials? We'll start specifically 
+9 with Members of the House of Representatives. Did you speak with any Members of 25 
+10 the House of Representatives with relation to your attendance or planning for the events 
+11 of January 5th or 6th? 
+12 
+13 A 
+Q I rely on my Fifth Amendment privilege. 
+And how about any Members of the Senate? 
+14 A I rely on my Fifth Amendment privilege. 
+15 - Okay. All right. Well, with that, just while we're still on the 
+16 record, I appreciate you coming and spending some time with us this morning, and I think 
+17 that's all the questions that we have for you right now. 
+18 We are --because you invoked the Fifth with respect to essentially all of my 
+19 questions, we're going to leave this deposition open and have the option of calling you 
+20 back at some point, but for today, I believe we're done. 
+21 Mr. Mills. Thank you very much. 
+22 The Witness. Thank you. 
+23 - We can go off the record at 10:49. 
+24 [Whereupon, at 10:49 a.m., the deposition was recessed, subject to the call of the 
+25 Chair.]  1 
+2 
+3 Certificate of Deponent/Interviewee 
+4 I have read the foregoing __ pages, which contain the correct transcript of the 
+5 answers made by me to the questions therein recorded. 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 Witness Name 
+Date 26 

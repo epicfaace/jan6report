@@ -1,0 +1,1444 @@
+1 
+2 
+3 
+4 SELECT COMMITTEE TO INVESTIGATE THE 
+5 JANUARY 6TH ATTACK ON THE U.S. CAPITOL, 
+6 U.S. HOUSE OF REPRESENTATIVES, 
+7 WASHINGTON, D.C. 
+8 
+9 
+10 
+11 INTERVIEW OF: MARK ESPER 
+12 
+13 
+14 
+15 Friday, April 1, 2022 
+Washington, D.C. 16 
+17 
+18 
+19 
+20 
+21 The interview in the above matter was held via Webex, commencing at 3:04 p.m. 
+Present: Representatives Luria, Lofgren, and Kinzinger. 1  1 
+2 Appearances: 
+3 
+4 
+5 For the SELECT COMMITTEE TO INVESTIGATE 
+6 THE JANUARY 6TH ATTACK ON THE U.S. CAPITOL: 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 STAFF ASSOCIATE 
+INVESTIGATIVE COUNSEL 
+SENIOR INVESTIGATIVE COUNSEL 
+, STAFF ASSOCIATE 
+PROFESSIONAL STAFF MEMBER 
+, CHIEF INVESTIGATIVE COUNSEL 
+CHIEF CLERK 
+PROFESSIONAL STAFF MEMBER 
+, INVESTIGATIVE COUNSEL 
+19 For the DEPARTMENT OF DEFENSE, OFFICE OF GENERAL COUNSEL: 
+20 
+21 EDWARD RICHARDS 2  3 
+1 
+2 So good afternoon, Dr. Esper. 
+3 This is a transcribed interview of Dr. Mark Esper conducted by the House Select 
+4 Committee to Investigate the January 6th Attack on the United States Capitol pursuant to 
+5 House Resolution 503. 
+6 Dr. Esper, could you please state your full name and spell your last name for the 
+7 record? 
+8 Dr. Esper. My full name is Mark T. Esper. My last name is spelled E-s-p-e-r. 
+9 It appears, Dr. Esper, that you are not represented personally by 
+10 counsel, though counsel for the Department of Defense is present for the interview. 
+11 Mr. Richards, if you could identify yourself for the record and spell your last 
+12 name --although I think it's pretty easy --for the court reporter. 
+13 Mr. Richards. Yes. Edwards Richards with the Department of Defense, Office 
+14 of General Counsel, R-i-c-h-a-r-d-s. 
+15 Thank you. 
+16 Thank you. 
+17 My name is - I'm the chief investigative counsel for the select 
+18 committee. In the room with me today is she's a senior 
+19 investigative counsel to the select committee, and who is an 
+20 investigative counsel as well. 
+21 This will be a staff-led interview, and members, of course, may choose to also ask 
+22 questions. I believe we have at least one member of the select committee, Mr. 
+23 Kinzinger, who has joined us thus far. And if others join, I will note their presence and 
+24 periodically turn to them if they request it. I'll try to announce their presence when 
+25 they join so you know who is in the meeting.  4 
+1 There is an official reporter who is transcribing the record of the interview. 
+2 Please wait until each question is completed before you begin your response, and we will 
+3 try to wait until your response is complete before we ask our next question. 
+4 The stenographer can't record nonverbal responses, such as shaking of your head, 
+5 so it's important that you answer each question with an audible verbal response. 
+6 We ask, Dr. Esper, that you provide complete answers based on your best 
+7 recollection. If the question isn't clear, please say so and ask for clarification. And if 
+8 you don't know the answer, then just simply say you don't recall. 
+9 I also want to remind you --and this isn't specific to you, this is something we tell 
+10 all witnesses --that it is unlawful to deliberately provide false information to Congress 
+11 and to do so would be in violation of 18 U.S.C. Section 1001 or other statutes. 
+12 Do you understand what I've just gone over and prepared to proceed? 
+Dr. Esper. I do. 13 
+14 Okay. Great. 
+15 And if at any point you need a break, just let us know, we can certainly do that. 
+16 And if you ever need to confer with Mr. Richards, again, just say the word, and we'll 
+17 facilitate that. 
+Dr. Esper. Okay. 18 
+19 
+20 
+21 So, Dr. Esper, I understand you have some introductory remarks 
+that you want to make. 
+Dr. Esper. I do. Now would be a good time for you to do that. 
+Thank you. 
+22 Well, good afternoon. 
+23 I want to begin by commending the committee for the important work it is doing 
+24 to bring transparency, understanding, and accountability to the tragic events of January 
+25 6th, 2021.  5 
+1 As someone who worked on Capitol Hill for several years and had an office in the 
+2 Capitol itself when I worked for the Senate Majority Leader, I was both horrified and 
+3 saddened by what happened that day. 
+4 As such, it is important for the country --and indeed our democracy --that the 
+5 American people have a full and complete history of what prompted and fueled the 
+6 violent insurrection that seemed determined to prevent the peaceful transfer of power 
+7 from one administration to the next after a legitimately certified election. 
+8 As you are aware, I was removed from office on November 9th, 2020, merely a 
+9 week after the election and nearly 2 months prior to the assault on Capitol Hill. 
+10 I appear before you today willingly with the hope that I might provide some 
+11 insights over the next hour consistent with our agreement that I would speak to, quote, 
+12 "my experiences in June 2020 that are directly related and relevant to what happened on 
+13 January 6th, 2021," end quote, and to the events of that tragic day. 
+14 Though we're now nearly 2 years removed from June 2020, I will answer all 
+15 relevant and related questions based on my recollections and to the best of my ability. 
+16 For example, I'm prepared to speak to the internal discussions regarding the 
+17 Defense Department's response to events in Washington, D.C., in June 2020, the actual 
+18 deployment and employment of military personnel during that time, and what the 
+19 Department learned from these actions. 
+20 With that, I stand ready to answer your questions. Thank you. 
+21 Thank you, Dr. Esper, very much for that. 
+22 I will note again, as you just indicated, that you're here voluntarily, not pursuant 
+23 to any sort of subpoena. 
+24 We have gotten a letter from the White House, and I just want to put that in the 
+25 record. I believe it's exhibit 13.  1 And,_ if you can put it up on the screen, we'll just --oh, we don't have 
+2 that one. 
+3 Well, I assume --it's addressed to you, Mr. Richards, and I assume that you've 
+4 shared it with Dr. Esper. It's the March 30th letter from Jonathan Su, the deputy 
+5 counsel to the President. 
+6 
+7 Mr. Richards. Yes, I have. Thank you. 
+Great. And I'll just quote briefly. It says, "In light of the unique 
+8 and extraordinary nature of the matters under investigation, President Biden has 
+9 determined that an assertion of executive privilege is not in the national interest and, 
+10 therefore, is not justified with respect to particular subjects within the purview of the 
+11 select committee." 6 
+12 And as you've indicated, Dr. Esper, we've sort of hashed out those subject matters 
+13 in advance. 
+14 So to be clear, the current White House counsel and the current administration, 
+15 President Biden, has indicated that it would not be appropriate to assert executive 
+16 privilege. 
+17 EXAMINATION 
+18 
+19 
+20 
+21 
+22 
+23 
+24 Q So with that understanding, let me just jump right into the questions. 
+Dr. Esper, tell us where you went to college. 
+A 
+Q 
+A 
+Q I went to the United States Military Academy at West Point. 
+When did you graduate from West Point? 
+I graduated in 1986. 
+Did you --I assume as a West Point graduate, you enlisted or you joined the 
+25 United States Army as an officer at that point?  7 
+1 A That's correct. I was commissioned a second lieutenant on May 28th, 
+2 1986. 
+3 Q All right. And did you serve as an infantry officer during the Gulf War? 
+4 A I did. 
+5 Q What was your role during the Gulf War? 
+6 A I was an operations officer with the 3rd Battalion, 187th Infantry of the 101st 
+7 Airborne Division. 
+8 Q What did you do upon the completion of your military service, your 
+9 Active-Duty military service? 
+10 A That's correct. I served 10 years on Active Duty after commanding in 
+11 Europe and then working in the Pentagon. After my --after departing Active Duty in 
+12 1996, I joined the Reserves and spent another 11 years in the National Guard and Army 
+13 Reserve. 
+14 At the time that I joined the Guard and Reserve, I had also begun work on Capitol 
+15 Hill --I'm sorry. I first began work at the Heritage Foundation in Washington, D.C., and 
+16 then later Capitol Hill in a variety of different jobs after that, leading up to my return to 
+17 the Pentagon, my fifth --fourth return to the Pentagon in 2017. 
+18 Q All right. And in 2017, Dr. Esper, were you appointed by President Trump 
+19 as Secretary of the Army? 
+20 
+21 
+22 A I was, after being confirmed by the Senate. 
+Q Yep. And how long did you serve as Secretary of the Army? 
+A I served from November of 2017 until I was named Acting Secretary of 
+23 Defense in June of 2019, and I was confirmed a month later, in July 2019. 
+24 Q I see. And then you served as the Secretary of Defense, the 
+25 Senate-confirmed Secretary of Defense until November the 9th of 2020. Is that right?  1 
+2 A 
+Q That is correct. 
+Okay. And we'll get into the circumstances of your departure from that 
+3 position a little bit later. 8 
+4 When you were appointed as Secretary of Defense, Dr. Esper, did you discuss with 
+5 President Trump his priorities for the Department of Defense? Did he give you any sort 
+6 of specific priorities or marching orders that he wanted you to pursue when you began in 
+7 that position? 
+8 A No, nothing that I recall. 
+9 Q Did you have discussions with President Trump over time about the role of 
+10 the military in domestic affairs? 
+11 
+12 A 
+Q No, not that I recall. 
+Was it --we talked before, Dr. Esper, before today about the President being 
+13 enamored with generals or believed very strongly that the military had a potential role to 
+14 play in various domestic issues. Do you recall that discussion? 
+15 A I don't. If you can restate that and help me understand the relevancy to 
+16 January 6th, 2021, that would be helpful. 
+17 Q Yeah. I'm just going back to our previous conversation where you indicated 
+18 there were times where he periodically would raise a military solution to things like 
+19 border enforcement or logistics support for COVID relief or things that were happening 
+20 exclusively domestically. 
+21 A Well, again, relevant to January 6th, 2021, and civil unrest in June 2020, that 
+22 tended to be the case, with regard to my experience in June 2020, that the President was 
+23 inclined to use the military. 
+24 Q Yeah. Yeah, I guess I'm just talking more broadly about whether or not you 
+25 had concerns, based on not just what happened in June of 2020 and leading up to  9 
+1 January 6th, about the President's sort of perception of the appropriate role of the 
+2 military in domestic affairs. 
+3 Mr. Richards. So, -if I could just interject here. 
+4 I just want to be clear about what our conversations with White House counsel 
+5 regarding executive privilege were, and that was based on the expectation that this 
+6 interview be about the summer June 2020 civil unrest and lessons learned from that and 
+7 actions taken specific to that. 
+8 So I just want to be clear that, as far as going beyond that scope, we have not 
+9 engaged any coordination with the White House counsel's office regarding any potential 
+10 assertion of privilege. So I just want to be clear that that, those issues, have not --we 
+11 will have to defer on as far as specific Presidential conversations beyond June summer 
+12 2020 civil unrest issues. 
+13 Over. 
+14 Yeah. And to be clear, Ed, I'm not looking to develop 
+15 conversations about border security or COVID. I'm sort of laying a foundation for 
+16 discussions about the appropriateness of the use of military resources for particular tasks 
+17 that informs the summer 2020 response and very relevant to the preparations for 
+18 January 6th. 
+19 Mr. Richards. Understood. Thank you. 
+20 And just if we could keep it specific to the June events, I think that's the safest 
+21 area [inaudible]. 
+22 Over. 
+23 
+24 Q Okay. All right. Well, let's talk about the summer protests then, Dr. 
+25 Esper.  10 
+1 Just by way of context, the murder of George Floyd occurred on May the 25th of 
+2 2020. 
+3 On May the 28th, the Minnesota National Guard was activated. Governor Tim 
+4 Walz in Minnesota activated it. 
+5 Then, on May the 29th, Friday, President Trump tweeted about "thugs" in 
+6 Minnesota and warns, "When the looting starts, the shooting starts," and the protests 
+7 turned violent in Minnesota. 
+8 On May the 30th, there were protests that spread around the country and 
+9 continued into May the 31st. 
+10 And then on June the 1st, that's when I want to start asking you about your 
+11 specific involvement, on June the 1st. 
+12 When did you first talk to President Trump about the potential use of military 
+13 assets in response to the summer protests around the country in the wake of the murder 
+14 of George Floyd? 
+15 A On the day of June 1st, my recollection of the first time that this was 
+16 discussed was in an Oval Office meeting with him that morning. 
+17 Q Okay. Tell us, if you could, about the conversation that you had with 
+18 President Trump on June the 1st? 
+19 A Relevant with regard to January 6th, 2021, the President's inclination was to 
+20 deploy up to 10,000 troops, Active-Duty forces, to the Capitol to quell the protests. 
+21 Q Okay. Did you have a reaction to that, Dr. Esper, when the President raised 
+22 the potential deployment of Active-Duty troops to quell the protests? 
+23 A Yes. My reaction was that Active-Duty forces are not the means by which 
+24 this should be addressed. My view was that this is a law enforcement action and that 
+25 law enforcement should lead, and that if there's any use of the military, it should be the  11 
+1 National Guard in support of the law enforcement, the D.C. Metro Police in particular. 
+2 Q I see. Okay. 
+3 How did the President react when you conveyed this, the National Guard and 
+4 domestic law enforcement are the right forces to respond to the unrest around the 
+5 country? 
+6 A I think he and I, along with Attorney General Barr alongside me, went back 
+7 and forth on multiple times on this issue until we were able to persuade him that the use 
+8 of law enforcement was the best way forward, supported by National Guard that would 
+9 be --that would come from both D.C. and from outside of Washington, D.C. 
+10 
+11 Q 
+A Tell us who else was present for the conversation. 
+I recall, obviously, the President, myself, Attorney General Barr, General 
+12 Milley, and the Vice President. There were others present, but I just don't recall who 
+13 they were. 
+Q I see. 14 
+15 And of the folks that you just named, Dr. Esper, was everyone else in the room 
+16 supportive of the position you took? In other words, there isn't yet a predicate for the 
+17 deployment of Active-Duty troops, this is a National Guard and law enforcement matter. 
+19 
+20 
+21 
+23 Milley. A 
+Q 
+A 
+Q 
+A 
+Q That was the position taken by myself, Attorney General Barr, and General 
+All right. And the three of you were unified in that position? 
+And did all three of you convey that view, consistent view, to the President? 
+How about the Vice President, did he have a position, or was he just 
+25 evaluating the information you provided?  1 
+2 A 
+Q 12 
+I don't recall him speaking on this matter during that meeting. 
+Okay. Was there specific discussion during that meeting about the 
+3 Insurrection Act? 
+4 
+5 A 
+Q Yes, the Insurrection Act did come up during the discussion. 
+Tell us who brought it up and what was --tell us more about the discussion 
+6 specifically about that provision of law. 
+7 A I cannot recall exactly who brought it up when, but I know that the 
+8 discussion was about --and it could have been that Attorney General Barr and I both 
+9 raised it or discussed it at various points --that if there was a use of the Active-Duty 
+10 military, it would require invocation of the Insurrection Act to deploy them into the 
+11 District of Columbia. 
+12 And I had tried to make --address the distinctions between the various authorities 
+13 and capabilities between Active-Duty forces and National Guard forces. 
+14 Q Yeah. Did General Barr have some experience, prior experience with the 
+15 Insurrection Act from his prior service as Attorney General that he conveyed during that 
+16 meeting? 
+17 A I have --I don't recall. But I do know that he did based on my 
+18 understanding of his previous tenure in government during the 1992 Los Angeles riots. 
+19 Q Okay. So he had some direct experience about sort of the conditions that 
+20 would justify the invocation of the Insurrection Act? 
+21 
+22 A 
+Q That was my sense, yes. 
+All right. How about General Milley, what was his position on this, the 
+23 Insurrection Act specifically? 
+24 A General Milley supported my position as my senior adviser and also 
+25 recommended that law enforcement be the lead and that if there was a need for  13 
+1 additional support, if there was insufficient law enforcement, then that should come from 
+2 National Guard troops as I had proposed in the meeting. 
+3 Q Yeah. And I appreciate that, Dr. Esper, and I understand that was the 
+4 consistent position. 
+5 But maybe take a step back and just sort of explain, if you can, for us, for a lay 
+6 audience, why that's important or why, in your view, it's appropriate for National Guard 
+7 and domestic law enforcement to respond in a domestic mass demonstration versus 
+8 Active-Duty troops, just as a matter policy-wise, that that is the right response. 
+9 A I think there are a number of reasons. I likely won't get them exactly right. 
+10 But it's fair to say that they, obviously, operate under different authorities, whether 
+11 they're under Federal control, under invocation of the Insurrection Act, and there are 
+12 scenarios in which that happens, or if they're under State control in which that happens. 
+13 Secondly, they are --"they" being the National Guard --are trained in this mission 
+14 and have more experience in this mission than would Active-Duty forces. 
+15 And, thirdly, I always like to add that typically the National Guard is employed in 
+16 the community in which they live and, therefore, have a better understanding of the 
+17 community and what is happening at the time. So it makes them better attuned to 
+18 what is happening in the area in which they are operating. 
+19 Q I see. So fair to say a unit like the 82nd Airborne, they're warfighters, they 
+20 are trained for a very different mission than the National Guard, who are equipped and 
+21 trained to respond to situations like a mass demonstration? 
+22 
+23 A 
+Q Yes. 
+Sort of the right tool for the job is the Guard, not a warfighting unit like the 
+24 82nd Airborne? 
+25 A Yes.  14 
+1 Q I see. Okay. 
+2 And the National Guard, do they generally around the country train for this kind of 
+3 response working with domestic law enforcement to deploy during the middle of a sort of 
+4 free speech demonstration activity? 
+5 A Well, again, if I want to answer as accurately as possible, I'd have to go back 
+6 and understand what the training plans of all these various Guard units across the United 
+7 States and the territories are. 
+8 But generally, yes, the Guard trains on this as what we call a mission-essential task 
+9 to deal with civil unrest or other type of activities. 
+10 But, again, I would defer to the State, the Adjutant Generals or the head of the 
+11 National Guard, to give you a more complete response. 
+12 Q Yeah, I understand. 
+13 So what kinds of conditions, in your view, would have to exist hypothetically to 
+14 justify the invocation of the Insurrection Act and the deployment of an Active-Duty unit in 
+15 the middle of a domestic disturbance? 
+16 A Well, I think it would be --you know, a lot of is speculation. It's situational 
+17 dependent. 
+18 As I recall, I believe, in the 1992 Los Angeles riots, the use of outside National 
+19 Guard was requested by the Governor. So that is one scenario. 
+20 Again, I think, as I said during my public statement on June 3rd before the Nation, 
+21 that it would have to be a very dire and urgent situation that would justify deploying 
+22 Active-Duty forces to supplement law enforcement. 
+23 Q And, in your view, there was not a sufficiently dire, urgent situation existing 
+24 in the summer of 2020 in Washington or elsewhere that would justify the invocation of 
+25 the Insurrection Act?  1 
+2 A 
+Q That's correct. 
+Okay. 
+3 I want to call your attention to, I believe, a call that you had with the Nation's 
+4 Governors on that very same day, June the 1st? 
+5 Do you recall participating in a call that the President convened for all of the 15 
+6 Nation's Governors to discuss the unrest that was beginning to occur around the country? 
+7 
+8 A 
+Q I do. 
+Was that before or after this meeting in the Oval Office at which you 
+9 discussed with the President the Insurrection Act? 
+10 A That was immediately after the meeting in the Oval Office on the morning of 
+11 Monday, June 1st. 
+12 
+13 Q 
+A Okay. Who was present for the call with you in the White House? 
+Well, there were --of the persons that I can recall, again, clearly the 
+14 President, the Attorney General, myself, and General Milley. There were numerous 
+15 other persons in the room, but I just cannot recall who the others were. 
+16 
+17 
+18 
+19 Q 
+A 
+Q 
+A All right. And who spoke during the call, if you remember? 
+The President, the Attorney General, myself, and General Milley. 
+Okay. 
+And, of course, the Governors who were on the line spoke. Several 
+20 Governors spoke as well. 
+21 Q Do you remember anything in particular that the President said? I assume 
+22 he opened the call. 
+23 A He did. I think, you know, we both have the transcript, and so it's all 
+24 accurate. At least the one I sent you, I believe, is the most accurate accounting of that 
+25 conversation.  16 
+1 Q Okay. Good. Well, let's turn to it. It's exhibit No. 3, and I think we can 
+2 actually share it on the screen. And I don't want to go through the whole thing with you 
+3 but just a couple of things. 
+4 In the very beginning it looks like President Trump did open the call, and he 
+5 indicated at the very to, "It shouldn't be hard to take care of it. We're going to take care 
+6 of it," speaking about response to the violence. "And we've got a number of people 
+7 here that you'll be seeing. 
+8 "General Milley is here, who's head of Joint Chief of Staff, a fighter, a warrior, had 
+9 a lot of victories and no losses. And he hates to see the way it's being handled in the 
+10 various States. And I just put him in charge." 
+11 Do you recall the President at the beginning of the call saying that General Milley 
+12 was in charge? 
+13 
+14 A 
+Q Yes, I do. 
+And how did General Milley react, either in real time or tell you later that he 
+15 interpreted that or his reaction to that statement? 
+16 A Well, this matter came up in the Oval Office meeting just prior to this call 
+17 with the Governors. General Milley said in response to the President that he is not in 
+18 charge, he has no command authority, he is an adviser. I agreed with him and 
+19 supported his statement because it is accurate under the law. 
+20 And so at the conclusion of the Oval Office meeting, the President actually put 
+21 Attorney General Barr in charge of this matter. So we thought we had clarified it and 
+22 concluded it properly upon departure from the Oval Office that morning. 
+23 Q I see. So before the call, there's a discussion in the Oval Office about who's 
+24 in charge. The consensus seems to you to be it's Attorney General Barr, given that it'll 
+25 be largely domestic law enforcement. Vet on the call, the President says, I've just put  1 General Milley in charge, in contrast to that understanding? 
+2 
+3 A 
+Q Yes, that's what happened. 
+Okay. And just explain to us, why is it that General Milley doesn't have 
+4 command authority? What in terms of the chain of command --you called him an 
+5 adviser. Explain that to us. 
+6 A Well, we would have to dig into the law, the exact text of the law. 17 
+7 But under the law --it may be Goldwater-Nichols --but the Chairman of the Joint 
+8 Chiefs of Staff is identified as a senior adviser to the Secretary of Defense, to the 
+9 President of the United States, and also to the National Security Council. 
+10 And it may be as explicit to say that he has no command authority, but he is able 
+11 to communicate direction from me to the chain of command. Again, the Chairman of 
+12 the Joint Chiefs of Staff is not in the chain of command. 
+13 Q Understood. And Attorney General Barr, who is the Attorney General of 
+14 the United States, does he have supervisory authority over all of the Federal law 
+15 enforcement agencies within the Department of Justice? 
+16 A Under the law, I don't know, but I would presume that he has authorities 
+17 over law enforcement to some degree. 
+18 
+19 Q Yes. Okay. 
+Now, when you had your opportunity to speak, Dr. Esper, just tell us generally 
+20 what was your intention. What message you were trying to convey when the 
+21 conversation turned to you? 
+22 A And just for context, help me understand the angle here with regard to 
+23 January 6th, 2021. 
+24 Q Well, all of this, this whole line about the summer of 2020, is important 
+25 because, in a very similar preparation for what everyone understood to be a mass  18 
+1 demonstration event, the lessons learned, particularly the lessons learned or not learned 
+2 by the President and others close to him, directly inform the events of January 6th. 
+3 So the questions about what happened in the summer with respect to the 
+4 demonstration events then, the use of the Guard, the potential use of Active-Duty forces 
+5 bear upon the preparation and response at the Capitol on January 6th. 
+6 A Can you be more specific in terms of what you're asking me to answer then 
+7 in that context? 
+8 Q I'm just asking you about when you were called upon in the meeting with the 
+9 Governors and you have a chance to convey to them, they all command National Guard 
+10 units in their States, what was your message? I mean, we can go right to the transcript, 
+11 but I just wanted your general sense of your intention when you had your opportunity to 
+12 address the Governors. 
+13 A Right. My attention was that, obviously, law enforcement should lead, but 
+14 that they all had more than enough --most of them, many of them had enough National 
+15 Guard under their control within their States available to support law enforcement in 
+16 their States if they felt that was necessary. 
+17 And I encouraged them to use their National Guard if that was the case, and, of 
+18 course, offered whatever support that we could help from the Department of Defense, 
+19 and actually cited the performance of Governor Walz, I recall, from Minnesota, who had 
+20 actually employed his Guard and was able to calm the situation so that peaceful 
+21 protesters can express their concerns and dissatisfaction without being --without their 
+22 lives and property being risked in the process. 
+23 
+24 
+25 Q Understood. 
+Page 4,-ifyou can scroll down. 
+It looks at 14:03 of the call is when Dr. Esper first begins speaking. So the  19 
+1 transcript here, it's really the second paragraph that I wanted to read. 
+2 "And so at my urging, I agree, we need to dominate the battlespace. You have 
+3 deep resources in the Guard. I stand ready, the Chairman stands ready, and the head of 
+4 the National Guard stands ready to fully support you in terms of helping mobilize the 
+5 Guard in doing what they need to do. 
+6 "Again, most of the Guard has not been called up. There's only a few States --I 
+7 count two States where more than 1,000 troops have been called up. I think the sooner 
+8 that you mass and dominate the battlespace, the quicker this dissipates and we can get 
+9 back to the right normal." 
+10 So your reference to dominate the battlespace, tell us more what you meant by 
+11 that. 
+12 A "Dominate the battlespace" is a common phrase within the Pentagon. It's 
+13 a phrase we use often. It's about the three-dimensional geographical boundaries in 
+14 which a military unit operates. 
+15 As you'll see, if you look at General Milley's comments, going down another 10 or 
+16 15 minutes, General Milley also uses the phrase "dominate the battlespace" and other 
+17 terms that I use as well. So it's a very common phrase. 
+18 Obviously, in retrospect, it was not the appropriate --it was not appropriate to 
+19 bring military lexicon into this context, and it was something that I regretted. 
+20 But, nonetheless, it's about, again, understanding the three-dimensional box in 
+21 which you employ a military force. 
+22 Q Understood. And it sounds like very clearly, you even say, at my urging, 
+23 hey, Governors, you have this tool at your disposal, the National Guard, that is the 
+24 appropriate place to find help and support, and we will do --we at DOD will do all we can 
+25 to support you if you choose to activate your Guard.  1 
+2 That's essentially your bottom line message? 
+A Yes, because my sense was that if they were unable to get control of the 
+3 streets with law enforcement, they had their own resources available to them, the 
+4 National Guard, that that would be a far better way forward than the President 
+5 considering invocation of the Insurrection Act and either trying to deploy Guard from 
+6 other States or, worse, trying to deploy Active-Duty forces into a State. 
+7 And so I was trying to urge them to consider using their own Guard so that we 
+8 could avoid that situation. 
+9 
+10 Q Yep. I see Ms. Lofgren has just joined us as well. 
+Now, you're anticipating my very next question, Dr. Esper. It sounds like this 20 
+11 direct urging to the Governors that they consider deployment of their respective National 
+12 Guards is entirely consistent with the advice you had given the President in the Oval 
+13 Office about the appropriate use of the Guard, not appropriate at this point to have 
+14 Active-Duty troops. 
+15 Is that fair to say? 
+16 A That's correct. Consistency is important. And I'm, again, familiar with 
+17 what I believed, given my time from West Point through my many years in the military 
+18 and then my multiple assignments at the Pentagon, what the appropriate role of the 
+19 military is when it comes to civilian --support the civilian authorities and the proper use 
+20 of the Armed Forces. 
+21 Q Right. And was it your hope at this point, Dr. Esper, that if the Governors 
+22 did take your good advice and deploy their Guard units that the situation would stabilize 
+23 and then obviate the discussion or the need to continue to talk about the Insurrection Act 
+24 or the deployment of troops? 
+25 A Well, yes. My hope was, first and foremost, that they could do that  21 
+1 through the use of law enforcement only. And as we would often discuss internally, law 
+2 enforcement meant, you know, local, county, and State law enforcement and, if need be, 
+3 if additional law enforcement was necessary, then preferably call upon Federal law 
+4 enforcement. My view was that the military should be last in line, and last in the end of 
+5 that line should be Active-Duty military. 
+6 So the bottom line was I was urging them, as best I could, given the context of just 
+7 coming out of the meeting with the President in the Oval Office with regard to this topic, 
+8 that they would call up additional law enforcement or, if need be, their own National 
+9 Guard so we could avoid anything that might suggest the need for invocation of the 
+10 Insurrection Act and deployment of either Guard or, worse yet, again, Active-Duty forces 
+11 into a State. 
+12 Q Yep. Understood. So there's sort of a cascade of potential responses that 
+13 start with local police, that move on to State, to Federal law enforcement, all civilian. 
+14 Then we get to the National Guard if the situation demands it. And only 
+15 thereafter, in an extreme situation, would there be a predicate for Active-Duty troops to 
+16 respond in a domestic disturbance situation, is generally the sort of spectrum what you 
+17 believe was appropriate? 
+18 A That is typically how we discussed it, both internally and with the President 
+19 and other members of the Cabinet. 
+20 Q Okay. So at the end of the Oval Office meeting and the phone call, was it 
+21 your understanding that the issue was at least temporarily resolved, that the President 
+22 had not invoked the Insurrection Act or made any order with respect to Active-Duty 
+23 troops, or was it still unresolved? 
+24 A There was no immediate decision to invoke the Insurrection Act, although I 
+25 felt that the issue had --was hanging heavily in the air, in the sense that if we were  22 
+1 unable to get sufficient Guard into the city by the evening, and if the law enforcement 
+2 under Attorney General Barr's direction was unable to get sufficient law enforcement into 
+3 the city by the evening, and if the protests continued and violence erupted like it had in 
+4 the previous nights, that we could find ourselves back in the Oval Office and faced with 
+5 another consideration of invocation of the Insurrection Act to call up additional forces. 
+6 
+7 
+8 Q I see. 
+I see Mrs. Luria has joined us as well? 
+So it sounds like the resolution of your conversation with the President was sort of 
+9 situational? You convinced him that at the moment there wasn't the predicate to 
+10 invoke the act but that it was going to be an ongoing fluid situation and conditions would 
+11 dictate that decision? 
+12 A I think Attorney General Barr and I were successful in convincing him that 
+13 Attorney General Barr could call up sufficient law enforcement, numbering up to 5,000 
+14 folks, and that I could do the same with regard to the Guard, the combination of D.C. 
+15 National Guard and out-of-State National Guard, to match, if need be, the Attorney 
+16 General's number of folks, and that would be sufficient to keep the peace, if you will, in 
+17 D.C. for that evening and for any subsequent evenings. 
+18 And so my immediate task after the call with the Governors was to get quickly 
+19 back to the Pentagon, begin working with the head of the National Guard, and begin 
+20 reaching out to Governors to get Guard units into D.C. for the evening. 
+21 Q I understand. Okay. 
+22 So you're focused not just on the nationwide protests in various cities, 
+23 Minneapolis included, but a very specific situation in Washington, D.C., around Lafayette 
+24 Park? 
+25 A Well, we're focused on D.C. at this point.  23 
+1 Q Okay. And it sounds like their numbers suggested in this conversation or 
+2 these conversations on June 1st, 5,000 was the number that Attorney General Barr 
+3 indicated, the number of law enforcement that he believed could be deployed, and the 
+4 equal number of National Guard troops, both the D.C. Guard and some other States, in 
+5 your view, could also be brought to bear on the situation in Washington, D.C.? 
+A Yes. 6 
+7 Q Okay. So did you take steps then to essentially mobilize those 5,000 Guard 
+8 troops in the wake of those discussions with the President? 
+9 A Yes. Well, we already had several hundred D.C. National Guardsmen 
+10 deployed on the streets of D.C. in support of Metro PD, I think, as I recall. So the key 
+11 was to call up the remainder of those troops. 
+12 And then, of course, with the aid of General Lengyel, the head of the National 
+13 Guard, I began reaching out to the Governors who were --of neighboring States. So 
+14 Virginia, Maryland, Pennsylvania, New York. I had made phone calls to three of those. 
+15 I did not end up calling New York because it was my understanding that they were 
+16 deploying Guard to assist already. 
+17 Q All right. So the D.C. National Guard --in which I believe you served 
+18 yourself at some point. Is that right, Dr. Esper? 
+19 
+20 A I did, that's correct. 
+Q They have a limited number. What is it, around a thousand guardsmen 
+21 that are available max at D.C. National Guard? 
+22 
+23 
+24 
+25 A I think it's 1,200 personnel, roughly. 
+Q Okay. 
+A You would have to get the actual numbers from the commander. 
+Q Yeah. So it was important --it was necessary then to hit the 5,000 target  24 
+1 for other States to --for Governors in other States to deploy their Guards to support the 
+2 D.C. Guard at Lafayette Square? Is that right? 
+3 A Yes. If in support to law enforcement, Attorney General Barr thought he 
+4 needed up to 5,000, we would have to go outside of D.C. to mobilize those numbers. 
+5 Q I see. 
+6 And was the decision to actually mobilize them because there was a necessity or 
+7 to have them available if needed? 
+8 A No. The decision was made to mobilize --to ask that the Governors 
+9 mobilize elements of their Guard and to deploy them to D.C. to support law enforcement. 
+10 
+11 Q I see. Okay. 
+And then did that happen? Were you successful in getting those Governors in 
+12 other States to mobilize the Guard and get those guardsmen to D.C.? 
+13 A It depends. We had --I had different responses from different States. 
+14 But I think, at the end of the day, we were successful in getting a sufficient number of 
+15 troops, National Guard troops, in D.C. in enough time to support law enforcement. 
+16 Q I see. 
+17 So did you take any steps at this time to prepare to move the 82nd Airborne from 
+18 where they're stationed closer to Washington? 
+19 A Again, I'm just trying to understand the relevance here to January 6th, 2021, 
+20 because my understanding is that no Active-Duty troops, et cetera, were involved in 
+21 January 6th, 2021. 
+22 Q No, they weren't, exactly, Dr. Esper. But, again, the preparations that you 
+23 took and the discussions you had and the efforts you took to placate the President in the 
+24 summer directly inform decisions made on January 6th. 
+25 So the way in which you managed his persistent desire in the face of your advice  25 
+1 that the Insurrection Act wasn't appropriate is directly relevant to the issues we're 
+2 examining. 
+3 A Yeah. So if you can give me some more information, because, obviously, I 
+4 wasn't there on January 6th. You made --you alluded to decisions that President Trump 
+5 made. If you could help me, I can sharpen my responses and maybe help you better. 
+6 Q Well, my understanding is that you took action to actually move the 82nd 
+7 Airborne closer to the city to essentially placate the President, to stall him, to let him 
+8 know that you were actually taking some step in the hope that it would buy time and 
+9 stabilize the situation with the Guard and law enforcement. It was a management, in 
+10 the midst of your discussions with him, about the use of Active-Duty troops in the city. 
+11 Is that accurate? 
+12 
+13 
+14 A 
+Q 
+A That's generally accurate. 
+Tell us more specifically how you did that. 
+Well, I directed General Milley, after we left the Governors call, to begin 
+15 moving those forces to bases outside of D.C. and that they were not to make any further 
+16 movement without my personal explicit permission --or authorization, I should say. 
+17 And that included --that was, you know, the 82nd Airborne and the alerting of the 3rd 
+18 Infantry at Fort Myer. 
+19 Q Okay. And was that, Dr. Esper, motivated by the discussion you had had 
+20 with the President earlier or meant to be a demonstration to him that you were acting 
+21 upon or preparing for something that he wanted to do, despite the fact that it was 
+22 against your advice? 
+23 A I --there reached --there came a point in the White House --in the Oval 
+24 Office discussion that I felt that we were on the precipice of the President ordering 
+25 Active-Duty troops into the District of Columbia to quell the protests.  26 
+1 And so my proposal was to begin immediately deploying National Guard troops 
+2 and, if necessary, I could --I would move the 82nd outside the city in case we were 
+3 unable to get the Guard there in time. 
+4 I thought that move would obviate his decision or a decision by him to actually 
+5 order the deployment of Active-Duty forces into the city. 
+6 And so that proposal worked and we were able to avoid a worse situation. 
+7 Q I see. Did you convey to him the fact that the 82nd Airborne had been 
+8 moved to Fort Belvoir in the event that they were needed? 
+9 A I don't recall doing that. Like I said, once I left the Governors call on 
+10 June 1st, I returned to the Pentagon and don't recall having other conversations with the 
+11 President after that with regard to the movement of forces. 
+12 Q Okay. That was my next question. 
+13 Did you ever have any further discussions after that June 1st meeting in the Oval 
+14 Office with the President about the deployment of Active-Duty troops in the summer 
+15 protests? And I mean across the country. Did it come up again in discussions with 
+16 him? 
+17 
+18 A 
+Q I don't recall so. 
+Okay. Now --and you indicated, I believe, just in response to my previous 
+19 question, that you placed a condition on the troops that were moved to Fort Belvoir that 
+20 they not be deployed without your personal approval. Is that right? 
+21 A That's correct. 
+22 Q Why did you add that particular condition of your personal approval before 
+23 they could be moved? 
+24 A Because I was aware of the gravity of such a movement, and I wanted to 
+25 make sure that authority to do that resided with me and not with a lower-level  27 
+1 commander or anybody else. 
+2 
+3 
+4 Q 
+A 
+Q Okay. 
+That was one thing I did not want to happen. 
+And it didn't happen, correct? They never were deployed, they stayed at 
+5 Belvoir, and the situation was stabilized by the combination of the law enforcement and 
+6 the National Guard troops? 
+7 A It did not happen. And as soon as I felt that I could, I began the 
+8 redeployment of Active-Duty forces. 
+9 Q Let's talk about later on in the evening of June 1st, the 6 o'clock walk that 
+10 you took with some others, with the President and others, to Lafayette Square. 
+11 Do you recall the circumstances that led to you being with the President and 
+12 General Milley in Lafayette Square that evening? 
+13 A Yeah. With regard to timeline, it did not happen at 6 o'clock. I was en 
+14 route to the FBI command post. 
+15 At around 6:20 or so, I got a call that the President wanted an update on the 
+16 employment of forces to support law enforcement that evening in the city. General 
+17 Milley was already downtown at the FBI command post and was en route back to the 
+18 White House, I was told. 
+19 So I immediately had my vehicle turned around, and I went back to the White 
+20 House, arriving sometime, I don't know, around 6:30 p.m. or so. 
+21 Q Okay. And what was your understanding as to why you were needed at the 
+22 White House at 6:30 or so that evening? 
+23 A I was told that General Milley and I were supposed to update the President 
+24 on the plans to deploy or to use forces that evening in the city to support law 
+25 enforcement, consistent with the discussion earlier in the day.  28 
+1 Q I see. So you expected a continuation of the discussion you'd had in the 
+2 Oval Office that morning about security in the district that day? 
+3 
+4 
+5 A 
+Q 
+A Yes. 
+What happened when you arrived? 
+When I arrived, there was --I went into the outer office --what's called the 
+6 outer Oval, which is where the President's assistants sit and handle, you know, his 
+7 calendars, et cetera. There was a large gathering of people. 
+8 And I immediately inquired as to, when does the meeting begin? Somebody 
+9 spoke up and said, "There is no meeting." I said, "Well, if that's the case, then I'm 
+10 returning back out to --return back to the FBI command post to prepare for the evening." 
+11 And at that point, since I was already there, somebody said, "No, don't do that. 
+12 The President wants you --wants you to join him to go check out the damage at the 
+13 church in Lafayette Park." 
+14 Q Okay. So did you then proceed to walk toward the church with the 
+15 President? 
+16 A Well, some time passed, in which case I did some other work, if you will, 
+17 talking to others in the room. 
+18 Eventually, I guess the President was doing a press conference, it concluded, we 
+19 were asked to line up and then join him in the room that faces Lafayette Park in the 
+20 White House. 
+21 
+22 Q 
+A What happened next? 
+The President greeted us. I asked him, "Where are we going?" something 
+23 like that, or, "What are we doing? Where are we going?" He didn't respond. He 
+24 turned and began walking across --walking out off the Portico toward Lafayette Park. 
+25 Q Did you follow?  29 
+1 A We were told to follow the President at a distance, "we" being myself, 
+2 Attorney General Barr, and General Milley. 
+Told by whom? 3 
+4 Q 
+A I can't recall. It was probably somebody from the communications team or 
+5 something like that. 
+6 
+7 Q I see. Okay. 
+So walk us forward. Just describe for us what occurred as you walked toward 
+8 Lafayette Park. 
+9 A Well, you know, obviously, we walked on the --I think it's a gravel road, if 
+10 you will, toward the exterior fence of the White House. And once we emerged from the 
+11 White House we were greeted by a throng of reporters and others in the park. And I 
+12 think that was our first sense that something was amiss with regard to this checking out 
+13 the damage at the church in Lafayette Park. 
+14 Q Yeah. Did you feel like that was inappropriate, that the presence of the 
+15 press or that something was amiss? Tell us more specifically what was, in your view, 
+16 amiss and what troubled you about what was occurring. 
+17 A I thought it was inappropriate that I was there, and I know that General 
+18 Milley felt the same. 
+19 
+20 Q 
+A Why? 
+Because this was a domestic law enforcement action, and the presence of a 
+21 senior --the senior military officer and the Secretary of Defense is, I think, inappropriate 
+22 in that context. It was particularly so for General Milley, being a uniformed officer. 
+23 For me, I'm a political appointee, so there are times at which I have to be 
+24 discerning with regard to where I involve myself. My aim was always to remain 
+25 apolitical. But in this context I felt that it was inappropriate for me to be there.  Q I see. 1 
+2 So where did you go? Just tell us how the event unfolded and ultimately 
+3 concluded. 
+4 A Well, we wrapped our --we wound our way through Lafayette Park, 
+5 eventually ending at the road opposite the church. The throng stopped there. 30 
+6 President Trump stepped forward across the street. And that's when, you know, 
+7 he took those photos with regard to him holding the Bible and said a few words to the 
+8 press. 
+9 I was not there in the front. I was moving toward the back, actually, of those 
+10 gathered. 
+11 
+12 
+13 Q Purposely, so that you would not be --
+A Yes, I was trying to avoid the situation. 
+Q Understood. 
+14 And then at that point walked back to the White House and the crowd dispersed 
+15 and you eventually did get a chance to do what you were there to do and meet with 
+16 members of the National Guard? 
+17 A Well, as soon as we walked out of the gate, I had actually determined before 
+18 I actually left the White House, the Oval Office, that if there was going to be a walk to the 
+19 park, I wanted to at least go see the National Guardsmen and talk to them and make sure 
+20 they were prepared for the evening, get a sense of how they were feeling about their 
+21 mission, so forth and so on. So as we walked through the park, I tried to locate them 
+22 visually and was unable to. 
+23 After the President raised the Bible and spoke to the group and we began the walk 
+24 back, I actually peeled off from the throng and tried to move westward in the park to find 
+25 the National Guard again and was unable to locate them. Before I was concerned I  31 
+1 might not be able to make my way back into the White House compound, so I had to 
+2 quickly rejoin the group. 
+3 Q Okay. And then did you actually get back to the White House compound 
+4 before you departed? 
+I did. 5 
+6 A 
+Q Okay. Now, after this occurred, Dr. Esper, did you feel the need to issue an 
+7 apology or to clarify that the military should not have a role in domestic law 
+8 enforcement? 
+9 A At that point in time, I felt the important thing was to get to the FBI 
+10 command post and prepare for the evening and make sure that we were in a position to 
+11 support law enforcement that evening given what was --given what had happened that 
+12 day and what was expected that night. 
+13 Q Okay. So is it fair to say that over the next couple of days the situation was 
+14 stabilized, with the combination of law enforcement and the National Guard, and by June 
+15 the 3rd, a couple of days later, things were, again, generally stabilized? 
+16 A So later that night on June 1st, I had been out on the streets by myself, with 
+17 Attorney General Barr and with General Milley at different moments, checking on the 
+18 troops, talking to them, assessing the situation, making sure that everybody understood 
+19 their mission and was set for the evening. 
+20 I returned to the FBI command post later that night, roughly around 11 p.m., and 
+21 had the chance to sit down with my team and discuss what was happening. It was our 
+22 first chance to really step back and assess the situation as a team. 
+23 At that point in time I realized, upon the advice of my staff, that it was important 
+24 to send a message to the force, with regard to DOD support to civilian law enforcement, 
+25 what it meant, to talk about our oath to the Constitution.  32 
+1 So I asked my head of public affairs that evening to immediately return home to 
+2 begin drafting a message to the Department that would go out the next day. I wanted 
+3 to get it out before most of our forces in the United States left home the next day. 
+4 And so he returned home, he began crafting, and then the next morning I 
+5 reviewed a draft. And then that afternoon, after lunch, the memorandum was issued to 
+6 all DOD personnel. 
+7 If you don't have a copy, I'd like to submit it for the record. 
+8 Q Please, yeah. 
+9 First of all, tell us why you felt it was important, Dr. Esper, to issue a memorandum 
+10 to the joint force. 
+11 A I thought it was important to make sure, given a combination of what was 
+12 being reported in the media, what was being seen, the optics of the situation, that I issue 
+13 a very, very clear statement from the civilian --senior civilian head of the Department 
+14 about what the role was in the military with regard to support to civil authorities, our 
+15 oath to the Constitution, and the importance we place in the proper civil-military affairs. 
+16 So in five paragraphs I laid this out. I would say the most important paragraph I'll 
+17 read to you briefly. 
+18 
+19 Q 
+A Please, please. 
+In the third paragraph I say, quote, "Department of Defense personnel have 
+20 taken an oath to defend the Constitution of the United States. I, myself, have taken it 
+21 many times in my military and civilian careers and believe strongly in it. 
+22 "As part of that oath, we commit to protecting the American people's right to 
+23 freedom of speech and to peaceful assembly. I, like you, am steadfast in my belief that 
+24 Americans who are frustrated, angry, and seeking to be heard must be ensured that 
+25 opportunity. And like you, I am committed to upholding the rule of law and protecting  33 
+1 life and liberty so that the violent actions of a few do not undermine the rights and 
+2 freedoms of law-abiding citizens." 
+3 And then I, in the final paragraph, I remind everybody of the importance of being 
+4 apolitical. 
+5 I wanted to send that message out to send, again, a clear message from the 
+6 Department's senior civilian about our role. And importantly as well, I wanted to send 
+7 out the first message to set the tone and tenor so that General Milley, my service 
+8 secretaries, and my service chiefs could send out a cascading series of letters and 
+9 messages to the field as well reinforcing this message. 
+10 I wanted to go first so that if there was any fallout it would be --it would rest on 
+11 my back and not theirs. 
+12 And so, again, I directed that message. It came out the next day. I think 
+13 General Milley's came out later, after mine, if not the day after that. And my 
+14 understanding is that others sent out messages following that as well. 
+15 
+16 Q I understand. 
+You mentioned the potential fallout. When you issued that memorandum to the 
+17 joint force, did you expect that there would be fallout or that the President, in particular, 
+18 would be critical of that statement or might have a negative reaction? 
+19 
+20 A 
+Q I estimated that that could be the case, yes. 
+Tell us more. Why? What informed your sense that he might have a 
+21 negative reaction? 
+22 A It was just my sense, from having worked with him at that point for nearly a 
+23 year and hearing his views with regard to the employment of the military in situations like 
+24 this, and it was just my sense, given my experience, that that might strike him as 
+25 inappropriate or maybe undermining his message or his approach toward dealing with  34 
+1 protests in the streets. 
+2 But I thought it was more important that I send a clear message to the 
+3 Department with regard to where I stood and what our responsibilities were both to the 
+4 Constitution, given our oath, and at least certainly for the military, for those uniformed 
+5 personnel, as a member of the profession of arms. 
+6 Q Yeah. Did then you get any pushback or reaction from the President after 
+7 you issued the memorandum? 
+8 
+9 A 
+Q Not that was conveyed to me. 
+Okay. Did you at any point --I know not in that memo, but sometime soon 
+10 thereafter --publicly provide your perspective on the appropriateness of the Insurrection 
+11 Act in situations like the one at Lafayette Square? 
+12 
+13 A 
+Q I'm sorry, I didn't understand the question. 
+Well, just 2 days later there was a press conference in which you talked a 
+14 little bit about the situations that would justify the invocation of the Insurrection Act. 
+15 Do you recall that press event where you talked about the Insurrection Act? 
+16 A Well, yes, most notably. On June 2nd, as turmoil continued in the country 
+17 and talk of the invocation of the Insurrection Act continued, I became very 
+18 concerned --also as protests and unrest continued across the country in, I think, 
+19 hundreds of cities --that the Republic, if you will, was getting a little wobbly, as I would 
+20 say. 
+21 And I felt the need to get out there and send a clear message with regard to 
+22 where I stood on the issue of invocation of the Insurrection Act and, further, with regard 
+23 to where I stood on a variety of issues, from the tragic, awful murder of George Floyd to a 
+24 variety of things. 
+25 And my sense was I wanted to make that statement in the hopes that it would  35 
+1 stabilize the situation across the country and that we could turn the temperature down 
+2 somewhat. 
+3 Associated with this was a plan to begin some de-escalatory actions to signal to 
+4 the American people that DOD, at least, was trying to dial things back and, again, stabilize 
+5 the situation so that we could have a more rational approach to it. 
+6 Q And what form did that take, your effort to deescalate, to clarify your 
+7 comments on the Insurrection Act? Was that in not the memo, but in a press statement 
+8 that you gave on June the 3rd? 
+9 A I gave a live --made a live statement before the country from the Pentagon 
+10 on the morning of June 3rd. And, obviously, you have the transcript, so --
+11 
+12 Q 
+A Yeah. 
+That was the approach I decided to take so that my words would be clear 
+13 and clearly coming from me with regard to my view on these matters. 
+14 Q Yeah. And just reading from the transcript, Dr. Esper, of your comments 
+15 from the Pentagon on June the 3rd, you said, "I've always believed and continue to 
+16 believe that the National Guard is best suited for performing domestic support to civil 
+17 authorities in these situations, in support of local law enforcement. I say this not only as 
+18 Secretary of Defense, but also as a former soldier and a former member of the National 
+19 Guard. 
+20 "The option to use Active-Duty forces in a law enforcement role should only be 
+21 used as a matter of last resort and only in the most urgent and dire of situations. We 
+22 are not in one of those situations now. I do not support invoking the Insurrection Act." 
+23 And I believe is, yeah, putting that up on the screen. 
+24 So it sounds like, Dr. Esper, you very intentionally wanted to make clear to the 
+25 Nation that we were not in the summer of 2020, in Washington or elsewhere, in a  36 
+1 situation, a dire situation in which the Insurrection Act would have been appropriate. Is 
+2 that right? 
+3 
+4 
+5 
+6 
+7 A 
+Q 
+A 
+Q 
+A That's correct. 
+And did this statement then prompt a negative reaction from the President? 
+Yes, it did. 
+Tell us more about what was conveyed to you by him or others on his behalf. 
+I was immediately summoned over to the White House to appear before the 
+8 President and to discuss this, my statement, with him. 
+9 
+10 Q 
+A Tell us about that conversation. What did he say? 
+It was a very direct conversation between him and me. And he was quite 
+11 upset and yelling. And I tried to respond to all his questions and point out what I said 
+12 and did not say, et cetera, reminding him that my position remained unchanged from 
+13 where it was on Monday and that I stood by what I said at the podium just a half hour 
+14 earlier. 
+15 Q Okay. Do you remember anything in particular that he said? What 
+16 specifically made him angry? Was it the timing or the statement being not cleared, or 
+17 was it the underlying position that you expressed? 
+18 A I think it was a number of things. I think the most memorable was that he 
+19 thought that I took away his authority, that I was acting as President and that I took away 
+20 his authority to invoke the Insurrection Act. 
+21 Q I see. And what did you say in response, Dr. Esper, in the face of that 
+22 reprimand? 
+23 A I can't recall the timing. As you all know, I have a memoir coming out that, 
+24 given the time to think through it, I was able to catalog in detail as best as I could recall. 
+25 But at one point we had a disagreement about what I said. And so I pulled out a  37 
+1 copy of my transcript and put it on the table and pushed it over to him to show him 
+2 exactly what I said. 
+3 And then at another point, again, he asserted that I took away his ability to invoke 
+4 the Insurrection Act, which legally I did not, but I was not inclined to disabuse him of that 
+5 notion given where things stood.  1 
+2 [4:05 p.m.] 
+3 
+4 Q I see. His interpretation was that you had essentially prevented him then 
+5 from thereafter invoking it given the position you took in this public statement? 
+6 
+7 A 
+Q Yes. 
+Okay. Now, after this difficult conversation with the President, did he 
+8 continue between then and the end of your service as Secretary of Defense to raise the 38 
+9 Insurrection Act or the use --possible use --of Active-Duty troops in domestic disturbance 
+10 situations? Did it come up again? 
+11 A It came up at least a few times throughout the summer with regard to 
+12 deployment of the Guard to other cities, such as Portland and Seattle. 
+13 I don't recall talk of the Active-Duty deployment because I think I was successful in 
+14 ending that inclination on June 3rd. 
+15 But, obviously, with regard to the deployment of National Guard troops to Seattle 
+16 and Portland, would likely require invocation of the Insurrection Act, because you might 
+17 be ordering the deployment of Guard from one State into another State without the 
+18 Governors' permission on either end. 
+19 Q I see. So in the context of continuing unrest in Portland and Seattle, the 
+20 use of other Guard assets would have required invocation of the act, and that was 
+21 something discussed with the President? 
+22 A Well, again, I --you need to get the lawyers in here who understand the law 
+23 very well. But my recollection is that you have to have the consent of both States' 
+24 Governors to deploy the Guard, or you have to invoke the Insurrection Act. 
+25 Q Right. Fair to say, Dr. Esper, that your position on the possible invocation  1 of the act never wavered, you never reached a point where conditions in your view rose 
+2 to the level where it would be appropriate to invoke the act throughout the rest of your 
+3 term as SecDef? 
+That's correct. 
+And you conveyed that consistently to the President? 
+That's correct. 39 
+4 
+5 
+6 
+7 A 
+Q 
+A 
+Q Did he continually push back or challenge that or raise again the prospect of 
+8 the potential invocation of the act? 
+9 A He continued through the summer of 2020 to push for, at times, the 
+10 deployment of National Guard troops into cities such as Portland and Seattle --those are 
+11 the two notable --to --again, to address the protesters. 
+12 Q Yeah. And much like Lafayette Square, did it ever become necessary to do 
+13 that or were the combination of law enforcement --civilian law enforcement and the 
+14 State National Guard troops able to quell the violence and stabilize those situations 
+15 ultimately? 
+16 A I never thought so. I think --I thought that Department of Homeland 
+17 Security did a good job, maybe at times supported by DOJ. I just can't recall. But I 
+18 thought Federal law enforcement did a good job in terms of defending. 
+19 And, of course, again, the law is important here, but at least for the deployment of 
+20 Guard, it is limited to the defense of Federal persons, property, and functions, as I recall. 
+21 And I think that Federal law enforcement arrived in places like Portland, for sure, 
+22 and maybe Seattle, to do those things. And so there was, again, never a need. I'm not 
+23 even sure that the Governors called up their own Guard to support in those cities. 
+24 Q It was strictly the Federal law enforcement or State, local, Federal law 
+25 enforcement agents that were able to stabilize those situations?  40 
+1 A Yes, and that is the appropriate response, to use law enforcement. And, 
+2 again, as I had said to you all today, and I had said multiple times in the past, that it 
+3 should be --it should work its way from the lowest level up in terms of using law 
+4 enforcement. 
+5 Q Yep. Understood. So let me just finish my portion before I ask. 
+6 -to have a few more questions. 
+7 Did this in part lead to your termination as SecDef later that year in November, 
+8 this dispute that you had, an ongoing dispute with the President about his power under 
+9 the Insurrection Act? 
+10 A I suspect it was one of several things and maybe the most notable of those 
+11 things. 
+12 Q Let's just talk briefly about your termination. How were you notified about 
+13 it? And what, if any, explanation were you given? 
+14 A I think this is outside the scope of what we agreed to, but I'll deviate for a 
+15 moment because it's a very simple answer. 
+16 I was informed by Chief of Staff Mark Meadows on the --around lunchtime on 
+17 November 9th. And his basic message was something along the lines that I was being 
+18 terminated because I was insufficiently loyal or not loyal to the President. And I 
+19 responded that my oath was to the Constitution and not to the President. 
+20 
+21 
+22 
+23 
+24 Q I understand. 
+All right. Thank you, Dr. Esper. 
+I think has a few more? 
+Q Hi, Dr. Esper. I just want to talk briefly. And I'm cognizant of time, and 
+25 I've also reviewed the testimony you provided to the House Armed Services Committee  41 
+1 about the events of the summer. 
+2 And I want to talk --ask you to just explain briefly, if you could, about some of the 
+3 lessons learned that you spoke about then, starting with that the troops should only be 
+4 used as a last resort in direct civilian law enforcement roles. 
+5 Obviously, that wasn't a lesson learned from that summer, in particular, but how 
+6 did that play out during the summer? 
+7 A You're right, that wasn't a lesson learned. I think that was a rule of thumb 
+8 that I took into all these discussions, as did General Milley. And that continued to be the 
+9 push that we would have, is that you should exhaust your law enforcement resources first 
+10 before calling up the military, any parts of the military. 
+11 Q It sounds like you had multiple conversations with the former President 
+12 about that topic, that the military's a secondary role, particularly, for domestic civil 
+13 disturbance protests. Did he ever seem to understand that concept? 
+14 A I don't think he ever embraced it because we would, at subsequent 
+15 meetings, come back with his inclination to use, again, the military first, the Guard later. 
+16 Q Did he understand the difference between the Active-Duty military versus 
+17 the National Guard, as you described it? 
+18 A I don't know. A lot of people don't understand the differences between 
+19 Active Duty, National Guard, and Federal Reserves. It's a little complicated. But I'm 
+20 not sure. I would be speculating. 
+21 Q You also spoke about that the police --there was an issue with law 
+22 enforcement not wanting distinct uniforms during that summer versus when the military 
+23 is present. And that was one of the issues that came out from the summer. Do you 
+24 remember that? 
+25 A Yes, we learned a few things that I think caused confusion, certainly, in the  42 
+1 minds of some in the media and certainly as a result in the minds of Americans. 
+2 The images of law enforcement using shields that said military police or in some 
+3 cases law enforcement wearing uniforms that were kind of a green fatigue or camouflage 
+4 confused people and led many to believe that the National Guard had been deployed 
+5 against protesters in Lafayette Park, which was not the case. 
+6 And it led to some other allegations, that the Guard employed PepperBalls and 
+7 tear gas and other things that just were not accurate based on the reporting given to me 
+8 within days by Major General Walker, the commander of the D.C. National Guard, and 
+9 Secretary of the Army McCarthy. 
+10 So I had directed Secretary McCarthy within days to conduct what we call an 
+11 after-action review in the Army to get to the bottom line about lessons learned from the 
+12 events of the week of June 1st. And I told him that once he had done that, I wanted him 
+13 to sit down with law enforcement and do the same. I mentioned this to Bill Barr, and I 
+14 told him I wanted to do this, and he agreed. 
+15 And so I left that task to Secretary McCarthy to begin accumulating lessons like the 
+16 two that you mentioned so that we could do better the next time. 
+17 Q Right. I think one I didn't mention was about the equipment being lent to 
+18 civilian law enforcement that was labeled military. You alluded to that as well. And I 
+19 think you described in the hearings that the National Guard cross-leveled its riot shield. 
+20 Are you familiar with that testimony? 
+21 A The report I had heard within days of Lafayette Park actions on June 1st was 
+22 that some members of law enforcement who were going to be facing the protesters in 
+23 the park had no --didn't have shields. And so our servicemembers, the National Guard, 
+24 lent them their shields. They were going to be staying behind, I guess, guarding, again, 
+25 Federal property.  43 
+1 So they lent them their shields, which I understand why they did it. It was good 
+2 to share the commitment of protective equipment, if you will. But now you had civilian 
+3 law enforcement carrying around shields that said military police, and that confused the 
+4 situation with regard to who was doing what on the ground in Lafayette Park. 
+5 Q And is it fair to say that left a visual that the National Guard was in charge of 
+6 that civil disturbance protest that was not accurate? 
+7 A I don't know if it was --I don't know if it left the impression that they were in 
+8 charge, but it certainly left the impression that they were participating. And, again, both 
+9 would be inaccurate based on reports given to me not long thereafter by General Walker 
+10 and Secretary McCarthy. 
+11 And I believe that I testified to this. And I also believe that the DOD IG report 
+12 that you all sent me affirmed it as well. 
+13 Q One of the lessons learned that Secretary McCarthy told us, told the 
+14 committee about, was that from the summer it was clear that because he and General 
+15 Walker were collated with each other, that there was a lot of verbal back and forth 
+16 between them, and that kind of sped up the response time. 
+17 Whereas, and I'll quote what he said, that, "What we learned in the process was 
+18 we were not capturing a lot of the information in writing in the orders process, which is 
+19 fundamental because of the stress of the situation and the speed of the situation." 
+20 General Piatt also told the committee that, "From the summer the breakdown 
+21 showed that one of the lessons we learned is we do not have clear, established 
+22 operational procedures for use of the National Guard soldiers in civil disturbance." 
+23 Is that an accurate assessment by both General Piatt and Secretary McCarthy that 
+24 you agree with? 
+25 A I don't know. They never conveyed that to me, that communications or  44 
+1 lack of written orders was an issue. So I don't want to speculate on it. 
+2 Q Did you feel that there was --did you get more involved in the request for 
+3 the D.C. National Guard before the time --before you left? 
+4 A I was not involved beforehand. Typically, that went --as I recall, I think it 
+5 came into the Department and would go straight to the Secretary of the Army as the 
+6 designated civilian lead. 
+7 I think the only further involvement I had --and, of course, a lot of this discussion 
+8 ended after the summer --was to adopt our lessons learned from the events of June 1st 
+9 and make sure that we didn't repeat them. 
+10 So we talked about, for example, not sharing shields unless they were --the 
+11 markings were removed or covered, things like that. I made the request of law 
+12 enforcement, the Acting Secretary of DHS, in particular, to make sure his people were not 
+13 using military-style uniforms. 
+14 So we tried to implement the lessons learned from the summer to make sure that 
+15 should this arise any time in the future that we would be in a better situation, if you will. 
+16 
+17 Q 
+A And was that memorialized in some way? 
+You know, I can't recall. I know we discussed it in the meeting a week or 
+18 two after. But I can't recall how it was memorialized or if it was memorialized. 
+19 Q I think General Milley told the committee that he along with you contributed 
+20 to writing some of the lessons learned in terms of --in the form of a letter of some sort. 
+21 Do you remember discussing that with General Milley in terms of writing down 
+22 what occurred over the summer and making sure it didn't happen again? 
+23 A I don't recall physically writing a letter or a memo. I do recall discussing 
+24 these things in a larger meeting with --I think General Milley was there. I know 
+25 Secretary McCarthy was there. I know General Walker was there and others. And this  45 
+1 was a week or 2 --like I said, sometime within the first 2 weeks, I want to say, of the 
+2 events of June 1st. And we discussed these things, again, uniforms, shields, things like 
+3 that. 
+4 Q I just want to show you briefly exhibit 4. If we can bring that up. And this 
+5 appears to be --it was an attachment to exhibit 11, which was a November 3rd email. 
+6 You're not on that email. However, I just want to pull it up. 
+7 And this is a memo that's directed for the Secretary of Army, which broadly 
+8 discusses some of the issues that we've discussed. 
+9 Do you remember seeing this memo in this form? 
+10 
+11 A 
+Q I don't. 
+Okay. Do you remember kind of discussing some of these concepts, 
+12 though, in terms of the last paragraph itself? "My expectation is that the D.C. National 
+13 Guard will only be employed as a last resort, and, if so, will be clearly marked and/or 
+14 distinguished from law enforcement entities." 
+15 A Well, again, I don't recall this memo. I don't know --I see that it was sent 
+16 to the Secretary of the Army. I don't know who it was sent from. And so I don't recall 
+17 a specific paragraph. 
+18 I will say, though, that the thrust of the last paragraph is consistent with what I've 
+19 been telling you all, that my view was that the military should be the last --should be at 
+20 the back of the queue, behind law enforcement, and that at the front of the military 
+21 queue should be the National Guard and in the rear of the military queue should be 
+22 Active-Duty forces. 
+23 So that is consistent. And as I told you, I thought it was very important as a 
+24 lesson learned from June 1st that the military be distinguished from law enforcement and 
+25 that the way to do that was to get law enforcement to use nonmilitary style uniforms.  46 
+1 And I guess in some cases, if we could clearly identify our own folks, that that would be a 
+2 good thing, too. 
+3 Q And just so I'm clear, was there ever any such guidance issued to the D.C. 
+4 National Guard, regardless of whether you've seen this memo or not, that memorialized 
+5 these lessons that you just talked about? 
+6 A I don't know. I would not have issued that to the D.C. Guard. I would 
+7 have given guidance to Secretary McCarthy to give that guidance to the D.C. Guard. But 
+8 I never did that I can recall. 
+9 Q Was any guidance issued to the Secretary of the Army about employment 
+10 guidance for the D.C. National Guard in your --
+11 
+12 A 
+Q I know I gave --go ahead. I'm sorry. 
+Before the summer events, did any such guidance exist for the Secretary of 
+13 the Army issued by the Secretary of Defense? 
+14 
+15 
+16 A 
+Q 
+A Prior to June 1st? 
+Correct. 
+Not by me, and I'm not sure that there were any standing orders either. 
+17 Not that I recall. 
+18 Q Okay. We're wrapping up, Dr. Esper. I just have one question about the 
+19 summer events. 
+20 Were you aware of an effort by the White House to federalize the Metropolitan 
+21 Police Department? 
+22 
+23 A 
+Q No. 
+And were you aware that the Joint Chief, General Milley's office, was kind of 
+24 tracking the violence and monitoring it across the country and were receiving daily data 
+25 reports?  47 
+1 A Yes. I know General Milley kind of carried these stats around with him on a 
+2 daily basis. 
+3 I tended to get reports from my --up from my Assistant Secretary for Homeland 
+4 Defense Ken Rapuano. He was --and to be clear, because this was often the question, it 
+5 was not any information that was gathered by the military, as I was told, because --but it 
+6 was information conveyed to him from, I think, either DHS, DOJ, or both. 
+7 Q Right. And it showed kind of these three or four cities where there was 
+8 rioting, but nothing nationwide that would have been the predicate for the Insurrection 
+9 Act. That was General Milley's general substance to us. 
+10 
+11 Do you agree with that? 
+A I think we tried to track and understand what was happening in all the cities, 
+12 at least the major cities across the United States, in terms of how people were protesting, 
+13 how violent was it, or was it not. 
+14 And, again, it was not --my understanding was it was law enforcement 
+15 information, that's who was --that was who was collecting it and providing it. 
+16 Q Right, I understand that, that it was law enforcement. The information 
+17 provided, however, didn't show anything that would have triggered, in your mind or 
+18 General Milley's mind, the need for the Insurrection Act? 
+19 
+20 A 
+Q No. Again, I never felt the need to invoke the Insurrection Act. 
+And just in terms of the discussions that you had after June 1st events with 
+21 Secretary McCarthy, General Walker, and General Milley, with just in looking back now, 
+22 was it your intent for the Secretary of the Army or the Secretary of Defense to be more 
+23 involved in the deployment of the D.C. National Guard? 
+24 
+25 A Let me answer this a few ways. 
+I think given what happened the week of June 1st and some of the events that  48 
+1 happened --so we, for example, we were surprised that a helicopter was used on the 
+2 evening of June 1st. And within an hour of being informed, I immediately directed an 
+3 investigation. We were later surprised that another National Guard aircraft was used 
+4 and conducted another investigation. 
+5 So I think there were a number of things that surprised us during the course of the 
+6 week of June 1st that prompted us to get more involved in these types of deployments. 
+7 And so we took a more active --I certainly did. I know Secretary McCarthy did. 
+8 And I think the thing is this was a unique event. It's fair to say protests and civil 
+9 unrest like this probably hadn't happened in decades, a couple generations. And so we 
+10 were no longer dealing with the normal requests that would come through the system for 
+11 additional National Guard support for a July 4th celebration or a National Guard traffic 
+12 control support for a parade, or something like that. 
+13 We were in a completely new situation now. And I think, as a result, we all took 
+14 a more active interest in what was happening down to the tactical level to make sure that 
+15 we were, again, abiding by kind of the core principles of civil-military relations, the 
+16 military support to civilian authorities, et cetera, et cetera. 
+17 Q It's fair to say there was more scrutiny involved in some of the requests for 
+18 the D.C. National Guard? 
+19 
+20 A Yes. 
+Let me turn it over to see if any of our members have any 
+21 questions. I see Mrs. Luria is on. I know Ms. Lofgren was on earlier. 
+22 
+23 
+24 
+25 Anyone else have any? 
+Mr. Kinzinger. No questions -­
+Mr. Kinzinger? 
+Mr. Kinzinger. No questions here.  1 
+2 Okay. Thanks. 
+Mrs. Luria. This is Elaine. No questions right now. I just want to say thank 
+3 you to the Secretary for joining our conversation. 
+4 49 
+5 Q Dr. Esper, the only other question I have, just looking back over my notes, is 
+6 just to briefly go back to the discussions you had with President Trump around the June 
+7 events. 
+8 Did he ever during those discussions talk about his desire to look tough or the 
+9 desire for how the deployment of troops would --the message it would send, or the 
+10 optics, or the sort of look that it would convey? Was that part of his --sort of his 
+11 discussion or his case, so to speak, for using Active-Duty troops? 
+12 A If memory serves me correct, on --at the June 1st meeting he thought that 
+13 what was happening in the country with regard to the civil unrest made the United States 
+14 look weak, made him look weak. There was talk along those --rhetoric along those 
+15 lines. 
+16 I think, again, you have the transcript there. I think he said similar things in the 
+17 call with the Governors that same day. 
+18 Q Yeah, he does. Exactly. And I'm trying to get a sense --and I don't want 
+19 to you to speculate --but whether his point or in the discussion was motivated more by 
+20 looking strong versus tactically what would be the best solution to safely quell the 
+21 violence, if you have a sense as to which of those priorities, whether they conflicted, or 
+22 what he mentioned as his reason for wanting the Active-Duty troops. 
+23 A Yeah, I don't want to speculate as to why he leaned toward Active-Duty, and 
+24 if not Active-Duty, then the military Guard. There could be a number of explanations, 
+25 that maybe he thought that that would be a more effective force. I just don't know  50 
+1 which of those that I would --it would be, again, speculation. 
+2 Q Yeah. No, again, I don't want you to speculate. I'm just really asking what 
+3 he said. Did he say, "We have look strong, this looks terrible, we look weak"? It 
+4 sounds like both from the call with the Governors and from your recollection of the 
+5 conversation in the Oval Office that how things looked was part of the conversation. 
+6 A Well, yes, as I said, he thought that we looked weak abroad. And I think in 
+7 the call with the Governors he expressed that he looked or that the --he and the 
+8 Governors looked weak or the Governors looked weak by not responding more forcefully 
+9 to the protests. 
+10 
+11 
+12 Q 
+Q Yeah. Okay. All right. 
+Just one more question along that line. 
+13 Along with the conversations about the Insurrection Act, it was reported that 
+14 several high-level Pentagon officials threatened to resign if the President did invoke the 
+15 Insurrection Act. 
+16 
+17 Are you familiar with that? Was that ever communicated to the President? 
+A I don't recall that at all, frankly. I'd love to know who you heard that from, 
+18 but I just don't recall that. 
+19 
+20 Q 
+A Oh, it was in The New York Times. I didn't hear it. 
+Well, there was, as I said, there was a lot of inaccurate or incomplete 
+21 reporting that was going on during that timeframe. And so, you know, as you'll see in 
+22 my transcript of June 3rd, I think in the first paragraph I say there's been some reporting, 
+23 some good, some bad. 
+24 And another reason why I wanted to give the press conference on June 3rd was to 
+25 clarify some things that were in the press that just simply were not accurate. And so I  51 
+1 tried to address them as well. 
+2 So I appreciate you conveying the source, but I just don't recall anybody --I don't 
+3 recall it ever being reported, and I don't recall it ever being talked about within the 
+4 Pentagon. 
+5 Q And, ultimately, do you believe that the 5,000 National Guard that ultimately 
+6 came for the summer protests, did that prevent the President from invoking the 
+7 Insurrection Act once he saw that presence in the District? 
+8 A So I'll give a long-winded answer. I think that, first of all, I think there is 
+9 credit due to Attorney General Barr for pulling in a lot of law enforcement folks to be 
+10 there on the scene in D.C. on June 1st and getting them there in a timely manner. 
+11 You know, whether or not the additional forces provided by the D.C. Guard and 
+12 others was needed, I don't know. But needless to say, we did not have violence the 
+13 evening of June 1st or June 2nd like we had in the previous nights. 
+14 As you probably know, there were National Guardsmen injured, there were Secret 
+15 Service injured, there were Park Police injured, there was a lot of destruction going on. 
+16 So we did not see the level of violence the evening of June 1st that we had in the 
+17 previous nights. 
+18 So I think the proposal to --that Bill Barr and I put forward, that he call up law 
+19 enforcement and I would call in Guard, was successful in tamping the violence down. 
+20 But it was certainly successful in terms of obviating the President's inclination to or desire 
+21 to deploy Active-Duty troops into the city, which, again, I was opposed to for the reasons I 
+22 stated. 
+23 
+24 Q Dr. Esper, is there anything else that you think is relevant? Is there 
+25 anything that we haven't asked you that --I appreciated your opening statement. But  52 
+1 upon reflection and our conversation, anything else you think we should know, the 
+2 committee should know? 
+3 A I think with regard to January 6th, 2021, again, it was a tragic day. It was 
+4 terrible. What we saw, what we witnessed, you know, I made a statement that 
+5 afternoon about these things that if you don't have for the record we can share with you 
+6 for the record, probably my first public statement since leaving office. 
+7 But, anyways, I don't think I have anything further to add at this point in time. 
+8 Q You did issue a series of tweets that afternoon, and I'll just read them into 
+9 the record. 
+10 You say, "As this transition plays out over the next 2 weeks, I am confident the 
+11 U.S. military will stay out of politics and remain true to its sworn oath to support and 
+12 defend the Constitution and the American people as the most trusted and respected 
+13 institution in the country." 
+14 You say, "This must end now for the good of the Republic. I commend 
+15 congressional leaders for meeting tonight to complete their constitutional task of 
+16 counting the electoral college votes that will affirm Joe Biden as the next President of the 
+17 United States. 
+18 "This afternoon's assault on the Capitol was appalling and un-American. This is 
+19 not how citizens of the world's greatest and oldest democracy behave. The 
+20 perpetrators who committed this illegal act were inspired by partisan misinformation and 
+21 patently false claims about the election." 
+22 It's a series of three tweets that I think I read out of order. But is that what you 
+23 recall, Dr. Esper, is the statement that you just referenced that you issued on 
+24 January 6th? 
+25 A Yes. That is.  53 
+1 Q And consistent, I take it, still with your views on the events at the Capitol 
+2 that day. 
+A Yes. It is. 3 
+4 All right. Well, we really appreciate your willingness to speak with 
+5 us. Again, you did this voluntarily and took time to provide this useful information. So 
+6 thank you very much. 
+7 Thank you, Mr. Richards, for your help as well. 
+8 
+9 
+10 
+11 
+12 Mr. Richards. Thank you. 
+Dr. Esper. Thank you all very much as well. 
+All right. Thank you. Have a good afternoon. 
+Dr. Esper. You, too. Goodbye. 
+[Whereupon, at 4:33 p.m., the interview was concluded.]  1 
+2 
+3 Certificate of Deponent/Interviewee 
+4 I have read the foregoing __ pages, which contain the correct transcript of the 
+5 answers made by me to the questions therein recorded. 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 Witness Name 
+Date 54 

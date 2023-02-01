@@ -1,0 +1,335 @@
+Statement of 
+Catherine A. Sanderson, PhD 
+Poler Family Professor and Chair of Psychology 
+Amherst College 
+to the 
+United States House of Representatives 
+Select Committee to Investigate the January 6th Attack on the United States Capitol 
+on 
+The Role of Psychological Factors in Contributing to the Events of January 6, 2021 
+Submitted on June 3, 2022 
+1  My name is Catherine Sanderson, and I am the Poler Family Professor and Chair of Psychology 
+at Amherst College in Massachusetts. Throughout my career-as a doctoral student at Princeton 
+University in the 1990s and as a professor at Amherst College for 25 years-my research has 
+focused on the influence of social norms, the unwritten rules that shape our behavior. My book, 
+Why We Act: Turning Bystanders Into Moral Rebels (published in 2020 by the Harvard 
+University Press) describes the power of various psychological factors in leading otherwise good 
+people to engage in problematic behavior, and will serve as the basis for this summary. In 
+particular, I will describe key findings from empirical research in psychology and neuroscience 
+regarding the role of shared identity in group settings, the role of leaders in directly and 
+indirectly prompting such behavior, and the power of gradual escalation in perpetuating 
+problematic behavior. In each case, I will first describe general findings from scientific literature 
+and then describe explicitly how these factors likely contributed to the events of January 6, 2021. 
+Shared Identity in Group Settings 
+One of the most consistent findings in the empirical research in psychology is that people will do 
+things in a group setting that they would never do on their own. Real world examples of bad 
+behavior in group settings are abundant from crowds celebrating lynchings of African Americans 
+to college students subjecting their peers to vicious fraternity hazing to sports fans rioting after 
+their team wins ( or loses) a championship. 
+What is it about being in a group that leads people to do things they would never do on their 
+own? One explanation is that people in a group believe they won't be held responsible for their 
+actions because they are anonymous. The frequency and severity of aggressive and offensive 
+behavior is greater if people are wearing a mask or hood or operating in the dark, even if they 
+aren't in a group. As the psychologist Philip Zimbardo found, college students who were asked 
+to deliver electric shocks to another student (thinking that they were participating in a study of 
+creativity) delivered significantly longer-and thus more painful-shocks when they were 
+wearing hoods to hide their identity than when they were not. 1 The same phenomenon has been 
+observed outside the lab. For example, an analysis of violence in Northern Ireland by Andrew 
+Silke at the University of Leicester found that people wearing disguises-masks, hoods, or other 
+clothing to obscure their faces-engaged in more acts of vandalism, harmed more people, and 
+inflicted more serious physical injuries. 2 
+Groups may also facilitate bad behavior because they create what is called "deindividuation"­
+the loss of sense of oneself as an individual. When people lose touch with their own moral 
+standards and forget who they really are, which often happens in a pack, the normal constraints 
+against deviant behavior are removed -and the larger the crowd, the worse the behavior. An 
+analysis of lynch mob behavior occurring in Georgia between 1882 and 1926 by Andrew Ritchey 
+1 P. G. Zimbardo, "The human choice: Individuation, reason, and order vs. deindividuation, 
+impulse, and chaos," in Nebraska Symposium on Motivation, ed. W. J. Arnold and D. Levine, 
+237-307 (Lincoln: University ofNebraska Press, 1969). 
+2 A. Silke, "Deindividuation, anonymity, and violence: Findings from Northern Ireland," Journal 
+of Social Psychology 143 (2003): 493-499. 
+2  and Barry Ruback at Pennsylvania State University found that although all of the lynchings 
+resulted in death, larger crowd sizes predicted increases in violence, such as burning, hanging, 
+and/ or beating the victim. 3 
+Recent breakthroughs in neuroscience provide valuable insight into how group settings increase 
+the likelihood of bad behavior by examining patterns of brain activation when people are alone 
+versus in a group. One study by researchers at MIT found that people do in fact think less about 
+themselves when they are in a group than when they are alone -again, as measured by specific 
+patterns of brain activation.4 Most importantly, people who show lower levels of self-referential 
+thinking are more likely to act in ways that hurt other people, and this tendency is especially 
+pronounced when people are in groups that are directly competing with one another. As noted by 
+Rebecca Saxe, one of the researchers involved in this study, "people's priorities change when 
+there is an 'us' and a 'them."' 
+Unfortunately, the events of January 6th were in many ways a perfect storm of what empirical 
+psychology research reveals contributes to problematic group behavior: the group was large and 
+many people wore masks, fostering a sense of anonymity. Others wore hats or shirts or carried 
+flags, all of which served to create a sense of shared identity: this attire wasn't random, but rather 
+was intentionally chosen to foster a common identity (e.g., Trump, MAGA, Stop the Steal, etc.). 
+These factors all increased the likelihood of problematic behavior, because people lose a sense of 
+who they are and their distinct identity. 
+The Role of Leaders in Prompting Group Behavior 
+One of the most famous research studies demonstrating the power of leaders to prompt good 
+people to engage in harmful actions was conducted by Stanley Milgram at Yale University. 5 This 
+study was designed to test whether people would inflict pain on others if ordered to do so by an 
+authority figure, with the intention of understanding the psychological processes that had 
+buttressed the Nazi Holocaust, when millions of innocent victims were murdered by people who 
+claimed that they were simply obeying orders. In a series of experiments, Milgram brought men 
+into his lab at Yale to participate in what was supposedly a study on the impact of punishment on 
+the speed of learning, but in reality was designed to test whether people would be willing to obey 
+orders to shock an innocent victim, if ordered to do so by an authority. 
+The study participant was told to start by giving the learner the lowest level of shock (15 volts) 
+and to increase the shock level each time the learner made a mistake. At each shock level, the 
+learner responded in a standard way. At the 75-volt level, he began to cry out in pain, and by 150 
+volts he asked to be let out of the experiment and began to claim that his heart was bothering 
+3 A. J. Ritchey and R. B. Ruback, "Predicting lynching atrocity: The situational norms of 
+lynchings in Georgia," Personality and Social Psychology Bulletin 44, no. 5 (2018): 619-637. 
+4 M. Cikara, A. C. Jenkins, N. Dufour, and R. Saxe, "Reduced self-referential neural response 
+during intergroup competition predicts competitor harm," Neurolmage 96 (2014): 36-43. 
+5 S. Milgram, "Behavioral study of obedience," Journal of Abnormal and Social Psychology 67, 
+no. 4 (1963): 371-378. 
+3  him. If the teacher hesitated or turned to the experimenter in bewilderment asking if he could 
+stop, he received one of four prompts that prodded him to continue: "Please continue," "The 
+experiment requires that you continue," "It is absolutely essential that you continue," or "You 
+have no other choice but to continue." The experimenter kept providing these prompts until the 
+teacher refused to continue or reached the highest level ( 450 volts, which was marked "XXX 
+dangerous"). 
+Much to Milgram's surprise, the majority of the study participants-65 percent-were willing to 
+give a person whom they believed to be an innocent participant the maximum level of electric 
+shocks. Many people were dismayed by this extremely high rate of obedience, including the 
+psychiatrists Milgram had consulted before the experiment, who had predicted that 
+approximately 1 percent of the participants would follow through to the very end. Although the 
+Milgram study was conducted more than fifty years ago, similar experiments recently conducted 
+in both Poland and the United States have found similarly high rates of compliance.6 
+Our willingness to harm others when we are following the instructions of an authority figure is 
+also shown in studies that more clearly mimic real-world situations. Researchers in one study 
+asked participants to read various test questions to a supposed job applicant, who was actually an 
+accomplice.7 The applicant was always played by the same person-a well-dressed man about 
+thirty years old. The researchers told the participants that they were interested in examining how 
+job applicants would react under pressure, so they wanted them to harass the applicant by 
+making statements that progressed in offensiveness, including, "If you continue like this, you 
+will fail," and "This job is much too difficult for you." As the "interview" continued, the 
+applicant pleaded with them to stop, then refused to tolerate the abuse and showed signs of 
+tension, and eventually stopped answering the questions in despair. In the control condition, in 
+which there was no authority figure urging them to continue, none of the participants got through 
+all fifteen of the statements. But when the experimenter prodded them along, 92 percent went all 
+the way through the list. 
+What explains this tendency to obey an authority figure's orders even if it means harming an 
+innocent person? One central factor is the authority figure's willingness to assume responsibility 
+for any negative outcomes. This allows the person who is engaging in the bad behavior to feel 
+absolved of wrong-doing. The tendency to seek absolution on that basis can be found repeatedly 
+in real-world situations, from the American soldiers who abused prisoners at Abu Ghraib in Iraq 
+to business executives engaging in corporate fraud. Moreover, experimental research 
+demonstrates that people who feel less responsible for committing harmful acts are more willing 
+to do so. Participants in a replication of the Milgram study who were made to feel more 
+6 J.M. Burger, "Replicating Milgram: Would people still obey today?" American Psychologist 
+64 (2009): 1-11; D. Dolinski, T. Grzyb, M. Folwarczny, P. Grzybala, K. Krzyszycha, K. 
+Martynowska, and J. Trojanowski, "Would you deliver an electric shock in 2015? Obedience in 
+the experimental paradigm developed by Stanley Milgram in the 50 years following the original 
+studies," Social Psychological and Personality Science 8, no. 8 (2017): 927-933. 
+7 W. H. Meeus and Q. A. Raaijmakers, "Administrative obedience: Carrying out orders to use 
+psychological-administrative violence," European Journal of Social Psychology 16 ( 1986): 311-
+324. 
+4  responsible for inflicting harm-by being told explicitly that they were responsible for the well­
+being of the learner- stopped the procedure significantly earlier. 8 People who feel more 
+responsible for hurting someone have also been found to be better able to resist explicit 
+instructions to do so. A detailed analysis of the utterances of participants in one of the recent 
+replications of the Milgram study revealed that those who expressed a sense that they were 
+responsible for their actions were more likely to resist the orders and stop delivering shocks.9 
+These findings also help explain the events of January 6, 2021. For years Trump had, with some 
+regularity, encouraged his supporters to engage in violence and had specifically offered to take 
+responsibility for any consequences. For example, at a campaign rally on February 1, 2016 in 
+Cedar Rapids, Iowa, after being warned that some protestors might throw tomatoes, Trump told 
+the crowd, "If you see somebody getting ready to throw a tomato, knock the crap out of them, 
+would you? Seriously. Just knock the hell out of them. I promise you, I will pay for the legal 
+fees. I promise. There won't be so much of them because the courts agree with us." He also 
+praised his supporters for engaging in violence on other occasions, including those who 
+confronted Black Lives Matter protestors in Portland, Oregon as well as Kyle Rittenhouse, who 
+shot three protestors (killing two of them) in Kenosha, Wisconsin. Similarly, in the weeks and 
+months leading up to January 6th, Trump repeatedly claimed- by tweet and in rallies -that he 
+had in fact won, and that it was essential to "stop the steal." 
+On the day of January 6th, his instructions became even clearer. He started that day with a tweet 
+calling for Republicans to fight, followed by tweets instructing Republican leaders to block 
+Congress from certifying Biden's victory. At noon on January 6th, Trump spoke at length (70 
+minutes) about the supposed election steal, providing specific (false) statistics to support his 
+claims. He told the crowd, "We will never give up. We will never concede," "We fight like hell. 
+And if you don't fight like hell, you're not going to have a country anymore," "When you catch 
+somebody in a fraud, you're allowed to go by very different rules," and, "I know that everyone 
+here will soon be marching over to the Capitol building to peacefully and patriotically make your 
+voices heard." When members of his crowd chanted "Fight for Trump," he responded positively 
+with "thank you," clearly conveying that he was in fact endorsing a fight. After Pence released a 
+statement describing his role in overseeing, not overturning, the count, Trump tweeted that Pence 
+"didn't have the courage to do what should have been done." All of these statements by Trump 
+provide clear directions to his followers about what the right course of action should be, and thus 
+made it easier for people to feel less responsible for their actions in storming the Capitol. 
+The Power of Identification with Leaders 
+Although people are more inclined to engage in problematic behavior if they can blame someone 
+on for their actions, researchers have also found that people sometimes come to identify with 
+8 H. A. Tilker, "Socially responsible behavior as a function of observer responsibility and victim 
+feedback," Journal of Personality and Social Psychology 14, no. 2 ( 1970): 95-100. 
+9 J. M. Burger, Z. M. Girgis, and C. C. Manning, "In their own words: Explaining obedience to 
+authority through an examination of participants' comments," Social Psychological and 
+Personality Science 2 (2011): 460-466. 
+5  those who are giving the orders, at which point they may be choosing willingly to engage in bad 
+behavior. This explanation provides insight into some of the factors that led to the devastating 
+effectiveness of the policies of the Nazis. People were not simply begrudgingly or numbly 
+following orders; in many instances they embraced the broader social vision and mission of 
+fascism. They identified with the dangers that Hitler was articulating, shared his muscular 
+patriotism and nostalgia for a simpler past, embraced his hatred of outsiders, and bought into his 
+vision of a racially pure society. Similarly, and as historian Heather Cox Richardson describes in 
+The Death of Reconstruction: Race, Labor, and Politics in the Post-Civil War North, 1886-1901, 
+during reconstruction wealthy white Americans were often quite adept at inspiring like-minded 
+lower income whites to actually carry out aggressive and at times lethal acts against Black 
+Americans, while simultaneously being able to maintain plausible deniability for their own role 
+in perpetuating violence.10 This tendency to identify with those giving the orders is especially 
+common in the case of charismatic religious or political leaders. 
+In one study, researchers at the University of St. Andrews and the University of Exeter measured 
+how identifying with a person giving orders affected people's actions.11 They recruited people to 
+read about the Milgram study and its variants and to evaluate how much they thought the 
+participants in those studies would have identified with the "experimenter" (who was giving the 
+orders), or with the "learner" (who was receiving the shocks). These variations tweaked the 
+procedure in small but important ways. In one, the experimenter gave the orders to deliver 
+shocks by phone instead of in person. In another, the experiment was run not at prestigious Yale 
+University but at an office building in Bridgeport, Connecticut. The researchers then examined 
+how these different variations shifted participants' identification in different ways -whether they 
+would identify more with the experimenter and the scientific community or the learner -and 
+how identification predicted the participants' willingness to obey or resist the orders. 
+Did identification influence obedience? In a word, yes. The variations that pushed participants to 
+identify with the experimenter-and to see their actions as making a valuable contribution to the 
+pursuit of scientific knowledge-led them to follow the orders to deliver shocks far longer. 
+These findings suggest that people may engage in harmful behavior when they are following 
+orders not simply because they feel absolved of responsibility but because they come to believe 
+that their actions are serving a worthy purpose. 
+This explanation for problematic behavior seems particularly apt in terms of explaining the 
+events of January 6th. Trump had spoken for years -starting with his announcement of his run 
+for the presidency in June of 2015 -about the differences between "us" and "them," with "them" 
+being various different groups (Mexicans, immigrants, Muslims, Democrats, Chinese people, 
+elites, Black Lives Matter protesters, etc.). Trump had also regularly conveyed his concerns that 
+both he and his supporters had been unfairly disadvantaged by various other people, from claims 
+prior to the 2016 election that he wouldn't accept a victory by Clinton (and his continual claims 
+10 Richardson, Heather Cox. The Death of Reconstruction: Race, Labor, and Politics in the Post-Civil 
+War North, 1865-1901. Harvard University Press, 2001. https://doi.org/10.2307/j.ctvlkwxg15. 
+11 S. D. Reicher, S. A. Haslam, and J. R. Smith, "Working toward the experimenter: 
+reconceptualizing obedience within the Milgram paradigm as identification-based followership," 
+Perspectives on Psychological Science 7, no. 4 (2012): 315-324. 
+6  of voter fraud and "millions of illegal immigrants" voting, even for an election he actually won) 
+to claims that people of color and immigrants have "stolen" jobs and other benefits from (white) 
+Americans. This us versus them mentality created a sense within his supporters that their actions 
+on January 6th were rectifying long-standing and on-going unfairness within a corrupt system. 
+The Role of Gradual Escalation 
+One final factor that helps explain people's problematic behavior in group settings is the role of 
+gradual escalation in fostering such behavior. In many cases, people start by engaging in a 
+relatively small -but wrong -act, and may explain this small act away by seeing it as not such a 
+big deal. However, once you take a small step in the wrong direction, it becomes hard to change 
+course. Why? Once you've engaged in even a small wrong act, you need to justify having done 
+so while still maintaining a positive view of yourself ( as we all like to do). And then, when the 
+harm escalates, it's hard to change course without explaining one's prior behavior. This 
+phenomenon of gradual escalation -the so-called slippery slope -therefore explains why getting 
+away with minor problematic acts makes you more likely to later embark on bigger, more serious 
+transgressions. 
+The power of gradual escalation helps to explain why most participants in the Milgram study 
+fully followed the orders of the authority figure to deliver dangerous shocks to an innocent 
+person, which started with the delivery of only a very small -15 volt -shock. Most people 
+initially felt fine about obeying the experimenter's request; after all, they believed they were 
+doing so in the interest of important scientific research. But this gradual escalation of intensity 
+meant that they had no easy way to justify a decision to stop giving shocks later on, as the 
+intensity of the shock escalated into increasingly dangerous territory. Once one heads down the 
+road of giving that first shock, it becomes very hard psychologically to extricate oneself. 
+To test whether engaging in small acts of dishonesty makes people more likely to engage in 
+larger ones later, researchers at the University of North Carolina at Chapel Hill conducted a 
+study in which they asked college students to complete a series of 19 math problems.12 Some 
+students always received $2.50 for each correct answer, others receive no money for a right 
+answer on the first two trials but would receive $2.50 for each correct answer on the third trial, 
+and still others (those in the gradual escalation group) were told they would earn 25 cents for 
+each correct answer on the first trial, $1.00 for each correct answer on the second trial, and $2.50 
+for each correct answer on the third trial. The researchers then measured how much students in 
+each group cheated, by taking more money than they were in fact owed. As predicted, people in 
+the third group, with the gradual increase in reward, cheated the most-at double the rate of 
+those in groups one and two. For people in the third group, the initial lie was very minor-they 
+only received a quarter for lying, so it didn't seem like a big deal. And once they had lied on the 
+first trial, it was easier to continue doing so on subsequent trials in which the rewards for doing 
+so were greater. 
+12D. T. Welsh, L. D. Ordonez, D. G. Snyder, and M. S. Christian, "The slippery slope: How 
+small ethical transgressions pave the way for larger future transgressions," Journal of Applied 
+Psychology 100, no. 1 (2015): 114-127. 
+7  Real world examples of the power of gradual escalation are numerous. Fraternity initiation 
+procedures also often follow this pattern of gradually escalating demands: small orders, such as 
+running errands or cleaning someone's car, are followed by more severe ones, such as forced 
+drinking or even physical beatings. Similarly, cases of corporate fraud often begin with small 
+acts of unethical behavior leading to more substantial-and criminal-ones. Executives who 
+have been found guilty of accounting fraud often describe a series of steps that led to the fraud, 
+and they often can't recall exactly when their bad actions began.13 Here's how one former chief 
+financial officer described it: "Crime starts small, it progresses very slowly. First you work off 
+the books. Some people say it's not a crime, okay, we'll rationalize it and say it's not a crime." 
+And once you start down this path of bad behavior, it's really hard to pull yourself out. "It may 
+seem like it's ... it's, you know, trivial or benign or whatever the term you want to use, when 
+you first cross the line, " said one former administrative officer, "but all you have to do is put 
+your toe across the line ... then you're in, and once you're in, you're in." Other types of bad 
+behavior-from academic cheating to sexual harassment-often play out in precisely the same 
+way. The phenomenon is often referred to as the "boiling frog effect," a reference to the (false) 
+belief that a frog dropped into boiling water will immediately jump out, whereas one that is 
+dropped into lukewarm water that is slowly brought to a boil will stay put, as it fails to recognize 
+the gradual increase in temperature-until it is too late. 
+Another factor that helps explain why engaging in small transgressions makes it easier for people 
+to engage in larger ones is that over time people adapt to problematic behavior over time. People 
+initially experience unpleasant physiological arousal when they engage in problematic 
+behavior-because they do recognize that it's wrong-but over time, they adapt and no longer 
+experience such a reaction. For example, people show lower levels of activation in the 
+amygdala-a part of the brain that processes emotion-after repeatedly seeing negative images 
+( of violence, death, anger, and so on).14 Research in neuroscience also demonstrates that 
+engaging in problematic behavior desensitize our brains to the negative emotions that typically 
+occur when we do something we know is wrong-which, in tum, makes it easier to engage in 
+bad behavior in the future.15 This research shows that if-for whatever reason-a person takes a 
+small step in the wrong direction, it can lead to bigger and bigger steps in the same direction. 
+These findings of course also help explain the events of January 6th. Prior to January 6th, far-right 
+protestors had already planned and, in some cases, carried out attacks on lawmakers. In April of 
+2020, protesters with rifles entered the Michigan State Capitol building to demand an end to the 
+restrictions Governor Gretchen Whitmer had put in place to reduce the spread of COVID. In 
+October of 2020, members of a militia group plotted to kidnap Governor Gretchen Whitmer, 
+following Trump's public denouncements of various restrictions she'd implemented to reduce 
+13 I. Suh, J. T. Sweeney, K. Linke, and J. Wall, "Boiling the frog slowly: The immersion of C­
+suite financial executives into fraud," Journal of Business Ethics (July 2018): 1-29. 
+14 B. T. Denny, J. Fan, X. Liu, S. Guerreri, S. J. Mayson, L. Rimsky, et al., "Insula-amygdala 
+functional connectivity is correlated with habituation to repeated negative images," Social 
+Cognitive and Affective Neuroscience 9 no. 11 (2014): 1660-1667. 
+15 N. Garrett, S. C. Lazzaro, D. Ariely, and T. Sharot, "The brain adapts to dishonesty," Nature 
+Neuroscience 19 (2016): 1727-1732. 
+8  the spread of COVID, including his tweet in August to "Liberate Michigan." In December of 
+2020, protestors stormed a meeting at the Oregon State Capitol, insisting that lawmakers remove 
+covid-related restrictions. These protestors chanted "let us in" and "arrest Kate Brown" (the 
+governor of Oregon), shattered glass doors into the Capitol, and carried firearms and bear spray 
+(and sprayed officers who intervened with various chemical agents). These examples all 
+illustrate that protestors were practicing for an eventual attack on the United States Capitol -if 
+necessary -and their behavior modeled and likely inspired other like-minded supporters to 
+attend the rally on January 6th. 
+Trump himself had previewed his goal for January 6th in the weeks leading up to this event. On 
+December 19th, he had promoted this event several times by Tweet, including, "Big protest in 
+D.C. on Jan. 6. Be there, will be wild!" This description clearly conveys that his intent is not for 
+a peaceful protest, but rather will involve some type of chaotic and extreme (potentially 
+unlawful) behavior. Not surprisingly, his supporters understood his intent and responded 
+accordingly. On January 1st, one of his supporters tweeted "The calvary [sic] is coming, Mr. 
+President!", which Trump endorsed with a tweet describing that response as "A great honor!" In 
+sum, the events of January 6th didn't start that day: Trump laid the groundwork for those events 
+weeks before, and his supporters planned, practiced, and prepared accordingly. 
+Conclusions 
+In sum, empirical research in psychology clearly illustrates the role of numerous factors in 
+contributing to the events of January 6th, including the anonymity provided in a group setting, the 
+role of gradual escalation of problematic behavior, and the power of leaders to both reduce 
+feelings of responsibility and inspire followers to act. Although my background is psychology, 
+and thus I've focused specifically on summarizing the relevant scientific research in explaining 
+the events of that day (and the days leading up to that day), similar factors help explain perhaps 
+the most major event in our nation's history: the Civil War. 
+After President Lincoln's election in 1960, seven Southern states declared secession from the 
+United States in the following months and several other states contemplated such a move, mov 
+motivated by a fear that slavery in the South would be abolished. Although Lincoln initially took 
+no action against the secessionists, he also refused to surrender federal property in these states to 
+the "Confederate States of America," eventually leading Confederate President Jefferson Davis 
+to give orders to fire on Fort Sumter, and thus starting the Civil War. In this case, as was the case 
+on January 6th, different constituencies within the United States recognized- and followed 
+orders from -different leaders. 
+Did President Trump give a direct order to his supporters to storm the Capitol and hang his Vice 
+President? No. But when someone as powerful as the President of the United States tells a large 
+group of his supporters -who he knows are unhappy, weapons-brandishing, and action-oriented 
+-to "fight like hell," his supporters understand his implicit instruction. And I think the former 
+president knew that, counted on it, and -at least in the privacy of the White House -celebrated 
+as they stormed the Capitol on his behalf. 
+9 

@@ -1,0 +1,45 @@
+1. The conclusions in the Allied Security Operations Group (ASOG) Antrim Michigan Forensics 
+Report (the ASOG Report) are suspect because they describe voting products and software 
+versions that Antrim County does not use and otherwise rely on thin or mischaracterized 
+evidence. 
+a. Software Version. The ASOG report inaccurately describes the operating system, 
+antivirus, and security updates (i.e., WSUS version) for the Antrim County voting system 
+as being out of date. However, Antrim County uses Dominion Voting System's (DVS) 
+Democracy Suite (D-Suite) 5.5 voting system1 as it was certified by the United States 
+(U.S.) Election Assistance Commission (EAC) on September 14, 2018. 2 The D-Suite 5.5 
+system was up to date for the version certified by the EAC. 
+b. Adjudication Claims. The ASOG report claims that there was an issue with the 
+adjudication application software in EMS are a red herring. Antrim County does not use 
+the adjudication software application in question, and does not have compatible 
+systems. 
+c. Forensic Logs. The ASOG report also claims impropriety due to a lack of adjudication 
+forensic logs. However, because, as noted above, Antrim County does not use the 
+adjudication software, the lack of related logs is expected. 
+d. High Error Rate. The ASOG report suggests that scanned ballots that were designated, 
+or alerted, for further review is evidence of an abnormally high "error rate." This is 
+generalization is not supported. When hand-marked paper ballots are scanned by a 
+machine, the machine will alert election officials to things like write-in voting, damaged 
+ballots, overvotes, undervotes, and stray marks. The screenshots of logs and file settings 
+shown in the ASOG report only appear to be evidence of situations where the machine 
+performed the intended processes based on the configuration settings. 
+e. Ranked Choice Voting. The ASOG report inaccurately suggests that Ranked Choice 
+Voting may have been enabled on the D-Suite voting system. However, the version of 
+the D-Suite voting system used by Antrim County (v. 5.5) does not support ranked 
+choice voting. The ASOG report actually provides a screenshot of a different D-Suite 
+version (v. 5.11). 
+2. The ASOG report demonstrates key misunderstandings about the current voting system 
+certification process to the US EAC's Voluntary Voting System Guidelines,3 and suggests some 
+non-existent provisions within the Help America Vote Act. 
+3. The conclusions in the ASOG report do not appear to be supported by the recent hand recount 
+in Antrim County Michigan. Voters in Antrim County voted on paper ballots, and by court order 
+those ballots were reviewed and recounted, by hand. Independent of the D-Suite voting 
+system, the hand recount appears to have returned consistent results.4 
+1 The D-Suite 5.5 voting system is comprised of multiple software, hardware, and firmware components. The back­
+end computer server system, known as the Election Management System (EMS), is a suite of multiple independent 
+software applications. Antrim County only uses a subset of the EMS software applications. 
+2 https://www.eac.gov/sites/default/files/voting_system/files/DSuite55_CertConf_Scope%28FINAL%29.pdf (last 
+accessed on December 15, 2020) 
+3 https://www.eac.gov/sites/default/files/eac_assets/1/28/VVSG.1.0_Volume_1.PDF (last accessed on December 
+15, 2020) 
+4 Hendrickson, Clara and Paul Egan, "Antrim County hand tally affirms certified election results." Detroit Free Press. 
+Dec. 17, 2020. 

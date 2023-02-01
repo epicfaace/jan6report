@@ -1,0 +1,128 @@
+VP-R0000107_0001 
+(2021-079) 
+OFFICE OF THE VICE PRESIDENT 
+Information Memorandum 
+TO: 
+FROM: VICE PRESIDENT PENCE 
+GREGORY JACOB, COUNSEL TO THE VICE PRESIDENT 
+Gregory.F.Jacob@ovp.eop.gov 
+202-881-9069 
+SUBJECT: ANALYSIS OF PROFESSOR EASTMAN'S PROPOSALS 
+DATE: JANUARY 5, 2021 
+Professor Eastman's Proposal 
+Professor John Eastman is the Henry Salvatori Professor of Law & Community Service 
+at Chapman University Fowler School of Law. Professor Eastman proposes that while 
+presiding over the counting of electoral votes at the joint session of Congress on 
+January 6, the Vice President could: 
+1. Skip opening and reading the electoral certificates for any state for which an 
+alternate but uncertified slate of electors has been submitted; 
+2. Save the opening and reading of the electoral certificates for all such states 
+(presently AZ, GA, NM, NV, and PA) until the end of the joint session; and 
+3. At the end of the joint session, direct that the electoral certificates for these states 
+will not be counted until each State's legislature certifies which of the competing 
+slates of electors for the State is true and correct. 
+Professor Eastman does not recommend that the Vice President assert that he has the 
+authority unilaterally to decide which of the competing slates of electors should be 
+counted. He stated that in his view, the imprimatur of approval by a State legislature is 
+important to the legitimacy of counting any slate of electors other than the one initially 
+certified by the State's executive. 
+Legal Analysis 
+Professor Eastman acknowledges that his proposal violates several provisions of 
+statutory law. Specifically, the Electoral Count Act of 1887 provides that: 
+• Electoral vote certificates must be "opened, presented, and acted upon in the 
+alphabetical order of the States, beginning with the letter A." 3 U.S.C. § 15. It 
+further provides that "[n]o votes or papers from any other State shall be acted 
+upon" until any objections "to the votes or papers from any State shall have been 
+Page 1 of 3  VP-R0000107_0002 
+(2021-079) 
+finally disposed of." Id. Professor Eastman instead proposes that no action be 
+taken, and no disposition made, on the competing certificates for the five to 
+seven States with multiple electoral vote submissions. 
+• After each electoral vote certificate is read, "the President of the Senate shall call 
+for objections, if any." 3 U.S.C. § 15. Professor Eastman instead proposes that 
+the Vice President not call for objections with respect to certificates for the five to 
+seven States with multiple electoral vote submissions. This would have the 
+effect of depriving Representatives and Senators of the ability to make objections 
+to the counting of electoral vote certificates, and to debate those objections. 
+• The Electoral Count Act provides that, whether or not any objections have been 
+made, competing slates of electors must be submitted to the Senate and House 
+for debate and disposition. 3 U.S.C. § 15. Professor Eastman's proposal would 
+instead refer competing slates of electors to State legislatures for disposition. 
+• The Electoral Count Act provides that the joint session cannot be dissolved once 
+it begins; that any recess can only be until the next morning (Sunday excepted); 
+and that only five days of such recesses are allowed. 3 U.S.C. § 16. Professor 
+Eastman's proposal, by contrast, contemplate an extended recess of the joint 
+session to allow State legislatures to investigate the election and to vote on 
+which slate of electors to certify. 
+Professor Eastman's proposal is also contradicted by the opinion authored by 
+Republican Supreme Court Justice Joseph Bradley as the deciding vote on the 
+Electoral Commission of 1877. Justice Bradley found that the Vice President cannot 
+decide the validity of electoral votes, and cannot order that investigations into their 
+validity be conducted outside of Congress: 
+But I think the practice of the Government, as well as the 
+true construction of the Constitution, have settled, that the 
+powers of the President of the Senate are merely ministerial, 
+conferred upon him as a matter of convenience, as being the 
+presiding officer of one of the two bodies which are to meet 
+for the counting of the votes and determining the election. 
+He is not invested with any authority for making any 
+investigation outside of the joint meeting of the two Houses. 
+He cannot send for persons or papers. He is utterly without 
+the means or the power to do anything more than to inspect 
+the documents sent to him; and he cannot inspect them until 
+he opens them in the presence of the two Houses. It would 
+seem to be clear, therefore, that if any examination at all is 
+to be gone into, or any judgment is to be exercised in 
+relation to the votes received, it must be performed and 
+exercised by the two Houses. 
+Finally, Professor Eastman's proposal is strongly in tension with the decision handed 
+down yesterday by the District Court for the District of Columbia in the Wisconsin Voters 
+Alliance litigation. Civil Action No. 20-3791. The essence of Professor Eastman's 
+Page 2 of 3  VP-R0000107_0003 
+(2021-079) 
+proposal is that disputes between competing slates of electors should not be referred 
+for decision to the House and the Senate, or determined based on certifications made 
+by State executives. Rather, he contends, they must be referred to and decided by 
+State legislatures. But whereas the former procedures are provided for by the Electoral 
+Count Act, Professor Eastman's proposed course of action has never occurred in the 
+history of the United States. In Bush v, Gore, 531 U.S. 98 (2000), the Supreme Court 
+allowed Florida's electoral vote dispute to be resolved through certification by the State 
+executive. And in Wisconsin Voters Alliance the court held that "[p]laintiffs' theory that 
+[the Electoral Count Act is] unconstitutional and that the Court should instead require 
+state legislatures themselves to certify every Presidential election lies somewhere 
+between a willful misreading of the Constitution and fantasy." Op. 6. 
+Had one or more State legislatures in the seven disputed States certified and submitted 
+a competing slate of electors, a strong argument could be made that such a submission 
+would qualify as a certification by a "State authority" sufficient to trigger the Electoral 
+Count Act's provisions for deciding multiple slate disputes. 3 U.S.C. § 15. A 
+reasonable argument might further be made that when resolving a dispute between 
+competing electoral slates, Article II, Section 1 of the Constitution places a firm thumb 
+on the scale on the side of the State legislature. U.S. CONST, Art.II,§ 1 ("Each State 
+shall appoint, in such Manner as the Legislature thereof may direct, a Number of 
+Electors ... "). Here, however, no State legislature has appointed or certified any 
+alternate slate of electors, and Professor Eastman acknowledges that most Republican 
+legislative majorities in the States have signaled they have no intention of doing so. 
+Professor Eastman acknowledges that if under present circumstances the Vice 
+President attempted to act in accordance with his proposal, the Vice President would 
+immediately be sued for violating numerous provisions of statutory law. That lawsuit 
+would be filed in the U.S. District Court for the District of Columbia, which just issued the 
+Wisconsin Voters Alliance decision rejecting similar arguments that the Electoral Count 
+Act is unconstitutional and that electoral slates must be certified by State legislatures. 
+In light of the unfavorable composition of the D.C. Circuit, it should be assumed the 
+same position would prevail in any appeal. 
+Professor Eastman makes a colorable argument that the political question doctrine 
+might be applied to bar the courts from deciding any lawsuit concerning the counting of 
+electoral votes. That is unlikely to be the outcome in the D.C. Circuit with its present 
+composition, however, and even if it were, it is unclear that any favorable political 
+solution could follow. Professor Eastman acknowledges that majorities in both the 
+House and Senate would oppose his proposed novel procedure, which would deprive 
+them of their present statutory right to object to and debate electoral votes. He further 
+acknowledges that at as of today, no Republican-controlled legislative majority in any 
+disputed States has expressed an intention to designate an alternate slate of electors. 
+Conclusion 
+If the Vice President implemented Professor Eastman's proposal, he would likely lose in 
+court. In a best-case scenario in which the courts refused to get involved, the Vice 
+President would likely find himself in an isolated standoff against both houses of 
+Congress, as well as most or all of the applicable State legislatures, with no neutral 
+arbiter available to break the impasse. 
+Page 3 of 3 

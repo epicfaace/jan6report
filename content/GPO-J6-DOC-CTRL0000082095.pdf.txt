@@ -1,0 +1,785 @@
+Dominion Votin~ Systems Dominion Voting Systems 
+TOPLINES Updated: 11/12/2020 
+• Dominion Voting Systems is a private company originally founded in Canada, but which now has a 
+significant U.S. presence 
+o Dominion has headquarters in Colorado under the subsidiary Dominion Voter Systems, Inc. 
+• Dominion is reportedly 75% owned by private equity firm Staple Street Capital, 12% owned by it's 
+Co-Founder John Poulos, with the remainder owned by other members of the firm's leadership 
+o Prior to its 2018 acquisition by Staple Street, the firm appears to have been 100% owned 
+by its Canadian parent company, and in turn, that firm's leadership 
+• Dominion is the second largest provider of U.S. election systems 
+o Dominion provides election hardware and software in 28 states and Puerto Rico 
+Forei~n Ties/Concerns 
+• Dominion Voting Systems was originally a Canadian company, but now has substantial U.S. 
+operations 
+• Dominion's CEO John Poulos has confirmed that parts of its voting systems are made in China, 
+specifically citing LCD screens and small components like capacitors and resistors 
+• Dominion has used Serbian software developers, and at one point had an office in Serbia 
+• Dominion has been a vendor for elections in The Philippines and Mongolia 
+Political Ties/Connections 
+• Dominion employees have made less than $1,300 in political contributions, but 93% of those 
+contributions have gone to Democratic candidates or committees 
+• Dominion has retained lobbyists from Brownstein Hyatt Farber Schreck, including a pair of former 
+Democratic aides 
+o Brownstein lobbyist Brian McKean previously worked for the Obama campaign and as an 
+aide to Sens. Jeanne Shaheen and Barbara Boxer 
+o Brownstein lobbyist Nadaem Elshami is a former Chief of Staff to Nancy Pelosi 
+• In 2019, Brownstein lobbyists donated to Sen. Mitch McConnell as the Senate was set to consider 
+legislation that would have negatively impacted Dominion and other large voting machine 
+vendors; the legislation as ultimately sidelined 
+• Staple Street Capital board member William E. Kennard was the Obama Administration's 
+Ambassador to the EU 
+Parkinson0388  Updated: 11/12/2020 
+Rumors/False Allegations 
+• Allegations connecting Dominion to Democrats and prominent liberals are based on some real 
+connections, but have been overstated 
+o George Soros does not own Dominion; Mark Malloch-Brown, who is connected to Soros, is 
+the Chairman of Smartmatic, which previously worked with Dominion 
+o Dominion donated between $50,000 and $100,000 to the Clinton Foundation, and was 
+previously a part of a Clinton Foundation commitment to provide election equipment to 
+developing countries 
+o Nancy Pelosi's former Chief of Staff, Brownstein Hyatt Farber Schreck lobbyist Nadeam 
+Elshami, currently lobbies for Dominion 
+o Blum Capital, the firm of Feinstein (D-CA)'s husband Richard Blum is a previous investor in 
+software company Avid Technology which makes election software, but he does not have a 
+"financial relationship" with Dominion 
+• A conspiracy theory claims secret computer programs called "hammer" and "scorecard" have been 
+used to "steal" votes for Biden 
+o Chris Krebs, the head of the U.S. Cybersecurity and Infrastructure Security Agency, said that 
+this theory was "nonsense" 
+o The theory comes from information given by Dennis Montgomery, a former government 
+contractor who allegedly 'conned' the Pentagon into paying millions of dollars for anti­
+terrorism technology that did not work 
+o Associates of Sheriff Joe Arpaio say Montgomery defrauded them by claiming that the 
+"Hammer" software program could show a federal judge was "colluding" against Arpaio 
+o The theory also claims that a company named VR System siphoned votes in battleground 
+states, but VR systems does not make vote-counting machines, and its software was not 
+used in the battleground states were votes were allegedly "stolen" 
+Technical Failures In The 2020 Election 
+• Machines from Dominion Voting Systems did experience technical failures on election night, but 
+these errors were reportedly fixed and did not lead to improper vote counts 
+• Antrim and Oakland Counties in Michigan counties saw tabulation mistakes that were reportedly 
+the result of human error, and the totals were corrected 
+o A third Michigan county -which was not using Dominion -also saw a tabulation error 
+• Georgia experienced problems on election morning with machines made by Knowlnk, a 
+subcontractor of Dominion, in the counties of Morgan and Spalding, which prevented voters from 
+casting ballots 
+o The technology glitch was allegedly due to a software upload the night before the election, 
+but Dominion has disputed that 
+o Election officials extended voting hours and used paper ballots to work around the issue 
+Parkinson0389  Updated: 11/12/2020 
+Prior Instances Of Issues With Dominion's Machines 
+• In 2017 and 2019, hacking conferences were able to successfully hack and exploit vulnerabilities 
+in Dominion voting equipment 
+• In 2013 and 2019, Texas twice rejected Dominion's voting machines due to both "multiple 
+hardware and software issues," with an examiner saying the machines were "fragile and error 
+prone" 
+• In Georgia's 2020 primary elections, Dominion voting machines saw numerous problems, with 
+some being delivered late, some suffering power problems, and other failing to work 
+o Dominion's electronic poll books "were plagued by freezing software and user error" 
+• Nevada's 2018 primary elections saw more than 300 reported errors from Dominion voting 
+machines, including candidates being left off ballots in some instances 
+• In 2018, there were reports that Dominion voting machines had overheated in Palm Beach, 
+Florida 
+• In 2012, Dominion voting machines in Florida awarded two Wellington Village council seats to 
+losing candidates due to the machine being set up incorrectly 
+Potential Security & Vulnerability Issues 
+• Some Dominion voting machines include modems that could potentially connect to the internet, 
+posing a hacking vulnerability 
+o Dominion has modems in their vote tabulators and scanners 
+• The National Institute of Standards and Technology recommend that voting systems do not have 
+wireless connections, since it makes it possible to connect them to external networks 
+Parkinson0390  Updated: 11/12/2020 
+COMPANY PROFILE 
+Dominion Voting Systems Has A Presence In The U.S. And Canada 
+Dominion Voting Systems Was Founded In 2003 According To The Company's Website. (Dominion voting 
+Systems, Accessed 11/12/20) 
+• Dominion Voting Systems, Inc. -A Colorado-Based Subsidiary- Was Formed In 2010. (Colorado 
+Business Entity Search, Colorado Secretary Of State, Accessed 11/12/20) 
+• US Dominion Inc. Was Formed In Delaware In June 2018, Before Its Sale To Staple Street 
+Private Equity Was Announced. (Delaware Department Of State, Accessed 11/12/20) 
+Dominion Voting Systems, Inc. ls Registered In Colorado And Has An Office In Denver. (Colorado Business 
+Entity Search, Colorado Secretary Of State, Accessed 11/12/20; Dominion Voting Systems, Periodic Report, Colorado Secretary Of State, Filed 4/15/20; 
+Dominion Voting Systems, Accessed 11/12/20) 
+• "Dominion Voting Systems, Inc .... Is Wholly Owned Subsidiary Of US Dominion, Inc., Which 
+Is Incorporated Under The Laws Of The State Of Delaware, USA." (Dominion Voting Systems, 12/28/18) 
+• "Dominion Voting System, Inc. Does Not Have Any Subsidiaries." (Dominion Voting Systems, 12/28/18) 
+In 2016, Dominion Said That It Had An Office In Serbia. "One major election technology company, 
+Dominion Voting Systems (DVS), develops its systems in the U.S. and Canada but also has an office in 
+Belgrade, Serbia." (Patrick Thibodeau, "One Election-System Vendor Uses Developers In Serbia," Computerworld , 10/5/16) 
+Company Leadership 
+John Poulos Is The CEO And Co-Founder Of Dominion Voting Systems. "My name is John Poulos, and I 
+am the Chief Executive Officer and co-founder of Dominion Voting Systems. As a U.S.-owned company, we 
+currently provide voting systems and services to jurisdictions across 30 states and Puerto Rico." (John 
+Poulos, Testimony , Committee On House Administration, U.S. House Of Representatives, 1/9 /20) 
+• James Hoover Was A Co-Founder For Dominion Voting Systems. ("Voting Technology Companies in the U.S. -
+Their Histories and Present Contributions," Accesswire , 8/10/17) 
+• Ian Macvicar Was CFO And Executive Chairman From 2006-2018 And Is A Current Board 
+Member. (Ian Macvicar, Linkedin , Accessed 11/12/20) 
+• Nick lkonomakis Is The Vice President Of Engineering At Dominion Voting Systems. (Nick 
+Ikonomakis, Linkedin , Accessed, 11/12/20) 
+• Kay Stimson Is The Vice President Of Government Affairs At Dominion Voting Systems. "Kay 
+Stimson, vice president of Government Affairs at Dominion Voting Systems, told CNN that the 
+situation in Gwinnett County 'does not relate to system software and has had no impact on the 
+accuracy of vote totals or tabulation."' (Justin Gamble And Dianne Gallagher, "Georgia's Gwinnett County Blames Dominion 
+Voting Systems For Day-Long Delay Reporting Results," CNN, 11/6/20) 
+Dominion ls Privately Owned By Its Leadership Team And Private Equity Firm Staple Street 
+Dominion Voting Systems Is Privately Owned And Does Not Publicly Disclose Its Financials. "It's 
+privately held and does not disclose its financials." (Ali Swenson, "Posts Falsify Ties Between Election Tech Firm And Democrats," 
+The Associated Press, 11/10 /20) 
+75.2% Of The Company Is Owned By Private Equity Firm Staple Street Capital, And 12 Percent Is 
+Owned By The Company's Canadian CEO, John Poulos, According To A Letter Dominion Voting 
+Systems Sent To The House Administration Committee Earlier This Year. "But in an April letter 
+responding to a request by the House Committee on Administration, Dominion CEO John Poulos said 
+Dominion is 75.2% owned by the New York-based private equity firm Staple Street Capital and that he, a 
+Parkinson0391  Updated: 11/12/2020 
+Canadian citizen, holds a 12% stake. No other investor owns more than a 5% stake, he said. Staple Street 
+Capital did not return emails and phone calls for this story." (Ali Swenson, "Posts Falsify Ties Between Election Tech Firm And 
+Democrats," The Associated Press, 11/10 /20) 
+• Dominion Also Said It Was 75.2% Owned By Staple Street And 12.4% Owned By Poulos In A 
+2018 Filing With Cook County, Illinois, And That No Other Owner Had A Stake That Was 
+Larger Than 5% Of The Company. ("Cook County Disclosure Of Ownership Interest Statement," Cook County, Illinois, 2018) 
+• The Remaining Shareholders Are All "Dominion Voting Team Members" According To A 
+2019 Answer The Company Submitted To The State Of New Hampshire. ("Response To The State OfNew 
+Hampshire Vote Tabulator Questions," LHS Associates , 4/30/19) 
+~-----+ •------' , \ 
+'Staple Street Capital Management : 
+1290 Avenue of the Americas , 10"' Floor : 
+New York, NY 10104 : 
+L-, 
+I I 
+I I 
+Dominion Voting Team Members : : 
+I I 
+I I 
+I I 
+---------------------~ ' L __ 
+SHAREHOLDERS PARENT COMPANY 
+US Dominion Inc. 
+120 l 18th Street, Suite 210 
+Denver, CO 80202 
+Subsidiary 
+Dominion Voting Systems, Inc. 
+120118th Street, Suite 210 
+Denver, CO 80202 U.S.A. 
+In 2018, Dominion Said It Completed A Deal To Be Acquired By Its Leadership Team And Staple 
+Street Capital. "Dominion Voting Systems ('Dominion Voting') announces that it has been acquired by its 
+management team and Staple Street Capital, a leading New York-based, middle-market private equity 
+firm." (Press Release, "Dominion Voting Systems Acquired By Its Management Team And Staple Street Capital," Dominion Voting Systems, 7 /16/18) 
+• Previously, Dominion Voting Systems Was 100% Owned By Its Canadian Parent, Dominion 
+Voting Systems Corp; That Company Appears To Have Primarily Been Owned By Its 
+Principal Officers. ("Ownership And Control," California Secretary Of State, 9 /19 /14) 
+U.S. PRESENCE 
+As Of 2016, Dominion Was The Second Largest Provider In The U.S. Of Election Hardware And 
+Software. ("The Business Of Voting: Market Structure And Innovation In The Election Technology Industry," Penn Wharton Public Policy Initiative , 
+2016) 
+Parkinson0392  Updated: 11/12/2020 
+Appendix A: Percentage Market Share by Vendor 
+Vendor Registrants Reached % Market Share 
+Election Systems & Software 83,380,867 43.8% 
+Voting Systems 71,006,665 37.3% 
+Hart I nterCivic 20,983,037 11.0% 
+Unisyn Voting Solutions 3,430,900 1.8% 
+MicroVote 3,291,260 1.7% 
+Danaher 2,685,409 1.4% 
+MTS 2,435,360 1.3% 
+IVS 1,336,070 0.7% 
+Five Cedars Group 972,475 0.5% 
+Clear Ballot 623,083 0.3% 
+Dominion Currently Has Provides Election Hardware And Software In 28 States And Puerto 
+Rico 
+, , 
+States 
+Alaska I Louisiana I Pennsylvania 
+Parkinson0393  Updated: 11/12/2020 
+Arizona Michigan Tennessee 
+California Minnesota Texas 
+Colorado Missouri Utah 
+Connecticut Nevada Vermont 
+Florida New Hampshire Virginia 
+Georgia New Jersey Washington 
+Illinois New Mexico Wisconsin 
+Iowa NewYork Puerto Rico 
+Kansas Ohio 
+("About," Dominion Voting Systems, Accessed 11/12/20) 
+FOREIGN TIES 
+Originally A Canadian Company, Dominion ls Now Headquartered In Denver 
+Dominion Was "Originally A Canadian Company" But "Now Has Its Effective Headquarters" In 
+Denver. "Dominion, originally a Canadian company that now has its effective headquarters in Denver, 
+makes machines for voters to cast ballots and for poll workers to count them, as well as software that 
+helps government officials organize and keep track of election results." (Jack Nicas, "No, Dominion Voting Machines Did 
+Not Cause Widespread Voting Problems.," The New York Times, 11/11/20) 
+Dominion Voting Systems Contain Some Chinese Parts And Technology 
+In January 2020, Dominion Voting Systems CEO John Poulos Confirmed That Some Parts Of The 
+Firm's Voting Systems, Including LCD Screens, Are Made In China. DOMINION VOTING SYSTEMS 
+CHAIRMAN JOHN POULOS: "We do have components in our products that come from China. I don't know 
+the exact percentage, but I can get that to the committee through my staff, happy to work with you in 
+getting the exact number. Our products, tabulated products have always been manufactured in the United 
+States. REP. ZOE LOFGREN (D-CA): "Before you go forward, what are the components that come from 
+China?" POULOS: "So, for example, LCD components-the actual glass screen on the interface-down to 
+the chip component level of the capacitors and resistors. Several of those components, to our knowledge, 
+are not even-there's no option for manufacturing of those in the United State. We would welcome 
+guidelines and best practices from the committee and from the federal government in terms of, this is not 
+a problem that is unique election history." (Committee On The House Administration Committee, U.S. House OfRepresentatives, Hearing, 
+1/9/20) 
+Parkinson0394  Click To Watch 
+• Dominion Voting Systems Contain Chinese Technology And Parts. "The infiltration by foreign 
+countries like China into election voting equipment is emerging as a growing concern among 
+vendors, who are actually asking for more federal regulation as they grapple with a lack of 
+domestic suppliers producing critical technologies. Top executives of the three largest voting 
+machine vendors-Hart InterCivic, Dominion Voting Systems and Election Systems & Software­
+told the House Administration Committee Thursday they are hoping for guidance and support 
+from the Department of Homeland Security on how to secure their subcontractors." (Michaela Ross, 
+"Chinese Technology In Voting Machines Seen As Emerging Threat," Bloomberg , 1/9 /20) 
+Dominion Has Used Software Developers In Serbia And At Least Once Had An Office There 
+In 2016, Dominion Said That Some Of Its Software Development Takes Place In Serbia With 
+Serbian Developers, But Strongly Denied That This Had Any Impact On The Integrity Of The Firm's 
+Software. "One major election technology company, Dominion Voting Systems (DVS), develops its 
+systems in the U.S. and Canada but also has an office in Belgrade, Serbia. It was recently advertising 
+openings for four senior software developers in Belgrade. 'Like many of America's largest technology 
+companies --which develop some of the software for their products in places like Asia, India, Ireland and 
+the Mideast --some of our software development is undertaken outside the U.S. and Canada, specifically, 
+in Serbia, where we have conducted operations for 10 years,' said firm spokesman Chris Riggall, in an 
+email. Dominion said it takes measures 'to ensure the accuracy, integrity and security of the software we 
+create for our products.' 'First, all of our software is developed in-house by DVS employees and this work 
+is not outsourced to third parties. Second, we rigorously pre-screen all new hires to identify any potential 
+security concerns among any personnel involved in product development. Third, we conduct extensive 
+internal testing of all new software to evaluate the functionality, accuracy and security of the code 
+designed for our systems,' said Riggall." (Patrick Thibodeau, "One Election-System Vendor Uses Developers In Serbia," Computerworld , 
+10/5/16) 
+In 2016, Dominion Said That It Had An Office In Serbia. "One major election technology company, 
+Dominion Voting Systems (DVS), develops its systems in the U.S. and Canada but also has an office in 
+Belgrade, Serbia." (Patrick Thibodeau, "One Election-System Vendor Uses Developers In Serbia," Computerworld , 10/5/16) 
+Dominion Has Conducted Business In The Philippines And Mongolia 
+"Dominion Voting Systems ... Has Done Business In The Philippines And Mongolia." ("The Business of 
+Voting: Market Structure And Innovation In The Election Technology Industry," Penn Wharton Public Policy Initiative , 2016) 
+Parkinson0395  Updated: 11/12/2020 
+• Dominion Has Provided Ballot Scanning Devices In Mongolia And The Philippines. "The ICP 
+precinct scanner technology proposed has been used globally in nations such as Mongolia and the 
+Philippines. The Mongolian implementation in 2012 for their presidential election cycle involved 
+2,500 devices across a very diverse geography and demographic." ("Uniform Voting System Request For Proposal," 
+Dominion Voting Systems, 2013) 
+• Dominion Has Conducted Business In Mongolia As Recently As 2019. ("Truth In Testimony Disclosure 
+Form," House Committee On Administration , 1/7 /20) 
+POLITICAL TIES & DONATIONS 
+Dominion Employees Have Made Less Than $1,300 In Political Donations, But These Have 
+Predominantly Gone To Democrats 
+Dominion Voting Systems Employees Have Donated A Total Of $1,241.15 To Political Candidates 
+Or Committees. (Federal Election Commission , Accessed 11/12/20) 
+• Of That Amount, $1,155.90 -Or 93 Percent -Went To Democratic Candidates Or 
+Committees. (Federal Election Commission , Accessed 11/12/20) 
+• One Employee Donated A Total Of $86.2 5 To President Trump. (Federal Election Commission , Accessed 
+11/12/20) 
+The Largest Donation Made By A Dominion Employee Was $250, And A Total Of 9 Dominion 
+Employees Have Made Donations. (Federal Election Commission , Accessed 11/12/20) 
+Dominion Hired Brownstein Hyatt Farber Schreck As Their Lobbyists, Including A Pair Of 
+Former Democratic Aides 
+Dominion Voting Systems Hired Brownstein Hyatt Farber Schreck To Lobby For Them Beginning 
+In February Of 2019, Paying Them $270,000 Since Then For Lobbying. (Lobbying Disclosure Act Database, United 
+States Senate, Accessed 11/12/20; Lobbying Disclosure Act Database, United States Senate, Accessed 11/12/20;) 
+• Brownstein Hyatt Farber Schreck Has Continued To Lobby For Dominion Through The Most 
+Recent Quarter On "Issues Related To Election Security." (Lobbying Disclosure Act Database, United States 
+Senate, Accessed 11/12/20) 
+Dominion Voting Systems Retained Brownstein's Brian McKeon As A Lobbyist. ("Client Profile: Dominion 
+Voting Systems," Center For Responsive Politics, Accessed 11/12/20; Catherine Ho, "Shaheen Aide Heads To Lobby Firm With Senate Democrats In Demand 
+On K Street," The Washington Post, 9 /7 /16) 
+• McKeon Was Previously An Aide To Sens. Jeanne Shaheen (D-NH) And Barbara Boxer (D­
+CA), And Also Worked On The Obama Campaign As Its Deputy Director Of Voter Protection. 
+(Catherine Ho, "Shaheen Aide Heads To Lobby Firm With Senate Democrats In Demand On K Street," The Washington Post. 9 /7 /16) 
+Dominion Voting Systems Retained Brownstein's Nadaem Elshami As a Lobbyist. ("Client Profile: Dominion 
+Voting Systems," Center For Responsive Politics, Accessed 11/12/20) 
+• Elshami Is A Former Chief Of Staff For House Speaker Nancy Pelosi (D-CA). ("Nadaem Elshami," center 
+For Responsive Politics, Accessed 11/12/20) 
+Dominion Voting Systems Also Retained Four Other Brownstein Lobbyists. ("Client Profile: Dominion Voting 
+Systems," Center For Responsive Politics, Accessed 11/12/20) 
+Lobbyist Donations 
+Brownstein Lobbyists McKeon And David Cohen Donated To Sen. Mitch McConnell (R-KY) In 2019 
+As The Senate Was Considering Legislation That Would Burden Dominion And Other Large Voting 
+Machine Vendors; The Legislation Was Ultimately Sidelined. "The plans would likely burden the two 
+largest electronic voting machine vendors in the United States, Election Systems & Software and 
+Parkinson0396  Updated: 11/12/2020 
+Dominion Voting Systems, with new regulations and financial burdens. Together, the companies make up 
+about 80 percent of all voting machines used in the country and both have far-reaching lobbying arms in 
+Washington D.C. Many of those lobbyists have contributed to the McConnell campaign, reported Sludge 
+last month, an investigative outlet that focuses on money in politics. Sludge found that Brownstein Hyatt 
+Farber Schreck lobbyist David Cohen, who has worked on behalf of Dominion Voting Systems this year, 
+donated $2,000 to McConnell during this time. Brian Wild, who works with Cohen and has also lobbied 
+Dominion, gave McConnell $1,000." (Nicole Goodkind, "Mitch McConnell Received Donations from Voting Machine Lobbyists Before Blocking 
+Election Security Bills," Newsweek, 7 /26/19) 
+Political Ties 
+William E. Kennard, Former Ambassador To The EU Under The Obama Administration, Sits On 
+The Board Of Staple Street Capital, The Private Equity Firm That Acquired A Controlling Stake In 
+Dominion Voting Systems In 2018. "Mr. Kennard currently is non-executive chairman and co-founder 
+of Velocitas Partners LLC, an asset management firm and is also a member of the Operating Executive 
+Board of Staple Street Capital, a private equity firm. He serves on the boards of directors of AT&T, Inc., 
+MetLife, Inc. and Duke Energy Corporation, and Ford Motor Company. He has served as a director of 
+several public companies including Sprint Corp., FON Group (formerly Sprint Nextel Corp.), The New 
+York Times Company and Dex Media, Inc., as well as a number of private companies. He served as the 
+United States' Ambassador to the European Union from December 2009 to August 2013. As Ambassador, 
+Mr. Kennard worked actively to promote transatlantic trade and investment and to eliminate regulatory 
+barriers to commerce. He was a key force behind President Obama's decision in February 2013 to launch 
+negotiations on the ambitious Transatlantic Trade and Investment Partnership which aims to expand 
+trade and investment across the Atlantic. Before serving as an Ambassador, Mr. Kennard was managing 
+director of the global private equity firm The Carlyle Group from 2001 to 2009 where he led investments 
+in the telecommunications and media sectors." (Press Release, "Biography: William E. Kennard," u.s State Department, Accessed 
+11/12/20; Press Release, "Dominion Voting Systems Acquired By Its Management Team And Staple Street Capital," Dominion Voting Systems Corporation , 
+6/18/18) 
+ALLEGED TIES AND CONSPIRACY THEORIES 
+George Soros 
+Despite Rumors, George Soros Does Not Own A Stake In Dominion, Even Though He Has A Tie To 
+The Firm "One of the rumors traveling on the internet before Election Day was that liberal financier and 
+philanthropist George Soros owned Dominion. He doesn't. There is a link between the two, though." (Fred 
+Lucas, "4 Things To Know About Voting Machine Company That's Causing Stir," The Daily Signal, 11/9 /20) 
+In 2009, Dominion Entered Into A Contract With Smartmatic, Which Builds And Implements 
+Electronic Voting Systems Used In The 2010 Election In The Philippines. "Dominion entered a 2009 
+contract with Smartmatic, which builds and implements electronic voting systems, and provided it with 
+optical scanners used in the 2010 election in the Philippines, Accesswire reported." (Fred Lucas, "4 Things To Know 
+About Voting Machine Company That's Causing Stir," The Daily Signal, 11/9 /20) 
+• Lawsuits In The Philippines Ensued Over Glitches And Allegations Of Fraud After An 
+Independent Review Of The Source Codes Used In The Smartmatic Machines Found 
+Numerous Problems. "Lawsuits in the Philippines ensued over glitches and allegations of fraud. 
+An independent review of the source codes used in the machines found numerous problems. The 
+review said, 'The software inventory provided by Smartmatic is inadequate, ... which brings into 
+question the software credibility."' (Fred Lucas, "4 Things To Know About Voting Machine Company That's Causing Stir," The Daily 
+Signal, 11/9 /20) 
+Smartmatic's Chairman Is A Member Of The British House Of Lords, Mark Malloch Brown, A 
+Former Vice-Chairman Of George Soros' Investment Funds. "Smartmatic's chairman is a member of 
+the British House of Lords, Mark Malloch Brown, a former vice-chairman of George Soros' Investment 
+Parkinson0397  Updated: 11/12/2020 
+Funds, former vice-president at the World Bank, lead international partner at Sawyer Miller, a political 
+consulting firm, and former vice-chair of the World Economic Forum who 'remains deeply involved in 
+international affairs.' The company's reported globalist ties have caused members of the media and 
+government officials to raise questions about its involvement in the U.S. electoral process." (Bethany Blankley, 
+"Officials Raised Concerns For Years About Security Of US Voting Machines, Software Systems," The Center Square, 11/9 /20) 
+• Malloch-Brown, Serves On The Open Society Foundations Global Board -Founded By 
+George Soros, But Smartmatics Is Not Owned By Soros Himself. "While the chairman of 
+SmartMatics and the SGO Group, Mark Malloch-Brown, serves on the Open Society Foundations 
+Global Board --founded by George Soros --SmartMatics is not owned by Soros himself, despite 
+what the post circulating widely on social media suggested." ("Soros Does Not Own Voting Machine Company 
+Smartmatics," The Associated Press, 3/13/20) 
+• Smartmatics' Website Noted That "George Soros Has Never Had Any Ownership Stake Or 
+Involvement With Smartmatic.'' "Q: Does George Soros have any involvement in Smartmatic? A: 
+No. George Soros has never had any ownership stake or involvement with Smartmatic." ("Smartmatic 
+Fact-Checked," Smartmatics , Accessed 11/12/20) 
+Clinton Foundation 
+Dominion Voting (DELIAN Project) Is Listed Among Those Donors Who Have Donated Between 
+$50,000 To $100,000 To The Clinton Foundation. ("Recognizing Our Generous Supporters," Clinton Foundation , Accessed 
+11/12/20) 
+In 2016, The Clinton Foundation Recognized Dominion Voting For Its 2014 Commitment To 
+Expand "Access To Voting Technology" Through "Philanthropic Support" To The Clinton 
+Foundation's DELIAN Project. "In 2014, Dominion Voting committed to providing emerging and post­
+conflict democracies with access to voting technology through its philanthropic support to the DELIAN 
+Project, as many emerging democracies suffer from post-electoral violence due to the delay in the 
+publishing of election results. Over the next three years, Dominion Voting will support election 
+technology pilots with donated Automated Voting Machines (AVM), providing an improved electoral 
+process, and therefore safer elections. As a large number of election staff are women, there will be an 
+emphasis on training women, who will be the first to benefit from the skills transfer training and use of 
+AVMs. It is estimated that 100 women will directly benefit from election technology skills training per 
+pilot election." ("The DELIAN Project: Democracy Through Technology," Clinton Foundation , Accessed 11/12/20) 
+• The DELIAN Project Was Dominion's Commitment To Provide Election Technology To 
+"Emerging And Post-Conflict" Democracies. ("The DELIAN Project: Democracy Through Technology," Clinton Foundation , 
+Accessed 11/12/20) 
+Nancy Pelosi 
+Nadeam Elshami, Former Chief Of Staff For Pelosi, Works For Lobbying Firm Brownstein Hyatt 
+Farber Schreck LLP, Which Was Hired To Represent Dominion. "The company also reported hiring 
+the lobbying firm Vectre Corp. Dominion's first-ever lobbying firm is Brownstein Farber Hyatt & Schreck. 
+Nadeam Elshami, Pelosi's former chief of staff, is one of the lobbyists on the account." (Megan R. Wilson, "Voting 
+Machine Firm Adds Lobbyist Amid Election Hacker Concerns," Bloomberg , 4/1/19) 
+Richard Blum, Senator Dianne Feinstein's (D-CA) Husband 
+Blum Capital, Which Is Owned By Senator Diane Feinstein (D-CA)'s Husband, Richard Blum, Was 
+An Investor In Software Provider Avid Technology, Which Does Provide Election Software, But Not 
+To Dominion. '"Can someone tell me why Democratic Senator Dianne Feinstein's husband, Richard 
+Blum, owns Avid Technologies (which provides the voting machines for our election)?' read an Instagram 
+post viewed nearly 60,000 times. In fact, Avid Technology does not provide election software for 
+Dominion or any other company -nor does Blum's firm currently own a stake in it. 'To officially correct 
+Parkinson0398  Updated: 11/12/2020 
+a misconception that arose on Twitter in the last 24 hours, Avid Technology, Inc. (NASDAQ: AVID) 
+definitively states that we do not develop software for vote counting,' AVID wrote in a statement on 
+Twitter on Saturday. 'Further, while Blum Capital was an investor in our company, it has no holdings 
+today."' (Ali Swenson, "Posts Falsify Ties Between Election Firm And Democrats," Associated Press, 11/10/20) 
+Dominion Voting Systems Has Denied That Blum Has Any Financial Relationship With The 
+Company. "Dominion Voting Systems rebuked claims that the company has a financial relationship with 
+the husband of Sen. Dianne Feinstein and that the company manipulated the results of the 2020 election. 
+'The company has no financial relationship with Mr. Blum,' Kay Stimson, Dominion's vice president of 
+government affairs, told the Dispatch. 'This is a false claim spread on social media."' (Tyler van Dyke, "Dominion 
+Voting Systems Denies Financial Relationship With Dianne Feinstein's Husband," Washington Examiner , 11/11/20) 
+"Hammer And Scorecard" 
+A Conspiracy Theory Claims That Secret Computer Systems Called "Hammer" And "Scorecard" 
+Have Been Used To "Steal" Votes For Biden. "A baseless conspiracy theory claims that secret computer 
+systems called 'Hammer' and 'Scorecard' have been used to 'steal' votes for Biden. This theory relies on 
+false information about voting machines, as well as false claims from a discredited former government 
+contractor. There is no proof that Hammer and Scorecard exist." (Jane Lytvynenko And Craig Silverman, "Here's A Running 
+List Of Debunked Postelection Rumors," BuzzFeed News, 11/9 /20) 
+• The Theory Claims That A "Supercomputer System" Called Hammer Was Being Used In 
+Conjunction With Software Called Scorecard To "Steal" Votes In Multiple Swing States. "The 
+right-wing news site American Report floated the theory on Oct. 31, claiming that a 
+'supercomputer system' called Hammer was being used in conjunction with software called 
+Scorecard to 'steal' votes in multiple swing states. It falsely claimed this same system helped 
+commit voter fraud in 2012. There is zero evidence to back any of this up, but it spread widely, 
+including on FOX News." (Jane Lytvynenko and Craig Silverman, "Here's A Running List Of Debunked Postelection Rumors," BuzzFeed 
+News, 11/9/20) 
+"Chris Krebs, The Head Of The US Cybersecurity And Infrastructure Security Agency, Said On Nov. 
+7 That These Claims Were 'Nonsense."' (Jane Lytvynenko And Craig Silverman, "Here's A Running List OfDebunked Postelection 
+Rumors," BuzzFeed News, 11/9/20) 
+• "'I'm Specifically Referring To The Hammer And Scorecard Nonsense. It's Just That -
+Nonsense. This Is Not A Real Thing, Don't Fall For It And Think 2x Before You Share,' 
+Tweeted Krebs." (Jane Lytvynenko And Craig Silverman, "Here's A Running List Of Debunked Postelection Rumors," BuzzFeed News, 
+11/9/20) 
+Parkinson0399  • ' "\ Chris Krebs #Protect2020 0 
+.Jt .. · 
+'\,1.1( 
+To be crystal clear on + , I'm specifically referring to 
+the Hammer and Scorecard nonsense. It's just that -
+nonsense. This is not a real thing, don't fall for it and 
+think 2x before you share. 
+•;, Chris Krebs #Protect2020O 
+Seeing #disinfo that some isolated voting day issues are tied to some nefarious 
+election hacking and vote manipulation operation. Don't fall for it and think twice 
+before sharing! Check out Rumor Control for more info on the security safeguards 
+built into elections. #Protect2020 
+POST-ELECTION 
+..,Reality: Robust safeguards including canvassing and auditing procedures 
+help ensure the accuracy of official election results. 
+X Rumor: A bad actor could change election resul15 without detection. 
+Gel th@ Facts: Thi! !.Y51.8'n5 and processes U!.~ by l!!lKt:HJfl officials to tabulatl!! votM and cl!!rtify official re!.ults arl!! 
+ptotM.ti!d by "Vat'io~ 5.!lfec:uards that h,@,lp MSUl'I!! the!' auurMy or ell!!ction fi!'SulH. Tl"tM.!!-SAf~rds includ~ ml!!il'!.ul'M 
+th.at M1p @nwrtotilbul.ltiioo systems fu11ct•on M lntenMd,pH)(Kt ap.nst mallcloussoftv.,i!r@ , a,..d l!!nab~ the 
+EW'f)' ~te h;n voling 5-)'5,t.em 5,1re:gu111rdi to ensure-each billot cut in the ele<.tion can be corre<.tly c.ourited. State 
+pr04:edure5 tmet1 include te~ng ,i11nd ce,tihcitlon of voting svsteffl'5, reQ1,11re(I ilVdlliible 101~ 111cl 50ftY11 i;llre chec:b, ~u,ch 
+as logic and accuracy tests, to enwna that ballClts ill'e proper1y counted befo,e electiOn n!sults are made ofhcaal. With 
+tt\d:ie K'Cunfy mcasurn, c-l«bon offio.ali an check to ikkrrrnnc that dC'Vl(CS arc runnmg the:! c.~rt1fied klftwm and 
+func.tloning property. 
+£wry s:Gte .tlso hills ~s iJind p<ocesses to wrify li'Ote tM.l,es before results. ~rf' ott.c1,-1y certified. Stiite processes Include 
+rnbust chain•of autody pmcedUFP!i, ;a11d1tablP lot,:, :! nd ran1Ja!t.-. proa-sli'S. TN' 'r.1!.t maJOrrty Df"WM"es c;nr 1n thil!I; 
+ell!Ction w;ill bl! cas;t on pape-balloti Of 1.J!.ingmachin@'.!. that produc@ a pap,i!!r audit trail, which all(]W for tabulation 
+.wdrts LO bl!! COl'lductoi!'d from the pap@r foK(H'd in the P!l@oflt any iSSUM emef @with th@wtirig syu@m softwa111!!, audit 
+(Chris Krebs, Twitter, 11/7 /20) Updated: 11/12/2020 
+The Hammer And Scorecard Theory Is Based On Claims By Dennis Montgomery, A Former 
+Government Contractor Who Allegedly 'Conned' The Pentagon Into Paying Millions Of Dollars For 
+Anti-Terrorism Technology That Did Not Work." (Jane Lytvynenko And Craig Silverman, "Here's A Running List OfDebunked 
+Postelection Rumors," BuzzFeed News, 11/9/20) 
+• Montgomery Has A Long History Of Making Outlandish Claims That Fail To Come True" 
+Including One Episode At The Height Of The War On Terror During The Bush 
+Administration. '"Montgomery has a long history of making outlandish claims that fail to come 
+true 'Montgomery has a long history of making outlandish claims that fail to come true,' reported 
+Will Sommer of the Daily Beast. 'As an intelligence contractor at the height of the War on Terror, 
+Montgomery was behind what's been called 'one of the most elaborate and dangerous hoaxes in 
+American history,' churning out allegedly fictitious data that once prompted the Bush 
+administration to consider shooting down airplanes."' (Jane Lytvynenko And Craig Silverman, "Here's A Running List Of 
+Debunked Postelection Rumors," BuzzFeed News, 11/9/20) 
+• Montgomery At One Point Claimed The Same Software, "Hammer," Would Enable Sheriff Joe 
+Arpaio To Prove That A Federal Judge Was "Colluding" Against Him, A Claim That Arpaio's 
+Associates Say Was Fake. "Montgomery resurfaced in 2013, as a 'confidential informant' for 
+controversial Arizona Sheriff Joe Arpaio. Arpaio was embroiled in a federal case over his 
+department's treatment of Latino drivers, and furious at the federal judge who had ruled against 
+him. According to reports and court testimony, Montgomery convinced Arpaio that he had a 
+software called 'Hammer' that could prove that the federal judge was colluding against Arpaio 
+with the Justice Department and then-Attorney General Eric Holder. Arpaio bought into 
+Montgomery's claims, even as Arpaio's lawyers and detectives fumed that the 'proof' Montgomery 
+Parkinson0400  Updated: 11/12/2020 
+was providing about the judge was fake. At one point, Arpaio reportedly exploded at his 
+subordinates after they complained that he was wasting money on Montgomery and pointing out 
+the controversy over Montgomery's al Jazeera software. Still, the Maricopa County Sheriff's Office 
+paid Montgomery $120,000 for the data he provided Arpaio in his fight with the judge." cwm Sommer, 
+"Infamous 'Hoax' Artist Behind Trumpworld's New Voter Fraud Claim," Daily Beast, 11/9 /20) 
+The Theory Also Claims A Voting Technology Company Named VR Systems Was Stealing Votes In 
+Florida, Georgia, Texas, Pennsylvania, Wisconsin, Michigan, Nevada And Arizona. The story from 
+the American Report also claimed that a voting technology company named VR Systems was part of the 
+conspiracy. It said that "'SCORECARD is stealing votes in Florida, Georgia, Texas, Pennsylvania, Wisconsin, 
+Michigan, Nevada and Arizona ... In Florida, one of the transfer points is VR Systems Inc, based in 
+Tallahassee." (Jane Lytvynenko And Craig Silverman, "Here's A Running List Of Debunked Postelection Rumors," BuzzFeed News, 11/9/20) 
+• However, VR Systems Does Not Make Vote-Counting Machines, And Its Software Was Not 
+Used In Those States. "But as fact-checker Lead Stories reported, VR Systems does not make 
+vote-counting machines, and its software isn't being used in swing states such as Georgia, 
+Pennsylvania, Wisconsin, Michigan, Arizona, or Nevada." (Jane Lytvynenko And Craig Silverman, "Here's A Running List 
+Of Debunked Postelection Rumors," BuzzFeed News, 11/9 /20) 
+ELECTION DAY PROBLEMS 
+The Dominion Voting System Experienced Technical Failures On Election Night But 
+Reportedly Did Not Lead To Improper Vote Counts 
+Dominion Software Was Used In Two Of The Five Michigan And Georgia Counties That Had 
+Problems On Election Night 2020, And In Each Case The Software Did Not Affect The Final Vote 
+Count. "The Dominion software was used in only two of the five counties that had problems in Michigan 
+and Georgia, and in every instance there was a detailed explanation for what had happened. In all of the 
+cases, software did not affect the vote counts. In the two Michigan counties that had mistakes, the 
+inaccuracies were because of human errors, not software problems, according to the Michigan 
+Department of State, county officials and election-security experts. Only one of the two Michigan counties 
+used Dominion software." (Jack Nicas, "No, Dominion Voting Machines Did Not Cause Widespread Voting Problems.," The New York Times, 
+11/11/20) 
+Two Michigan Counties Had Problems With The Dominion Voting Machines Leading To Inaccurate 
+Results Being Initially Posted 
+Two Michigan Counties -Antrim And Oakland -Saw Tabulation Mistakes, But Both Were A Result 
+Of Human Error. "In the two Michigan counties that had mistakes, the inaccuracies were because of 
+human errors, not software problems, according to the Michigan Department of State, county officials and 
+election-security experts. Only one of the two Michigan counties used Dominion software." (JackNicas, "No, 
+Dominion Voting Machines Did Not Cause Widespread Voting Problems.," The New York Times, 11/11/20) 
+• Antrim County Reported A Sizable Win For Joe Biden On Election Which Was Later 
+Corrected To Donald Trump Winning The County With 56 Percent. "President Donald Trump 
+didn't win Michigan, but he can put a small county in the victory column after an unusual second 
+look at the results. Trump defeated Joe Bid en in Antrim County, getting 56% of the vote, according 
+to revised totals posted Thursday. Republican John James was the favorite in the Senate race. 'It 
+certainly makes a lot more sense with people who are familiar with Antrim County,' said Jeremy 
+Scott, deputy county administrator. Questions were raised after the county first reported a local 
+landslide for Bid en, a Democrat, in an area that usually votes Republican. Officials acknowledged 
+the results seemed 'skewed' and promised a second look. More than 16,000 votes were cast." 
+("Small Michigan County Goes Back To The Win Column For Trump," Associated Press, 11/5/20) 
+Parkinson0401  Updated: 11/12/2020 
+• The Failure In Antrim County Michigan Was Due To A Failure To Update The Software On 
+The Machines. "A failure to properly update software was the reason for a computer glitch that 
+caused massive errors in unofficial election results reported from Antrim county, the Michigan 
+Department of State said late Friday. And a U-M professor of computer science and engineering 
+who specializes in voting systems and securities says it appears the snafu arose from an "unusual 
+sequence of events very unlikely to affect any other jurisdictions." ("Antrim Vote Glitch: Expert Shares How 
+County Mistakenly Flipped From Red To Blue," Detroit Free Press, 11/6/20) 
+• 6,000 Republican Voted Were Initially Counted As Democrat Votes In Antrim County. "A 
+glitch in software used to tabulate ballots in Antrim County, Michigan caused at least 6,000 
+Republican votes to be counted as Democrat, according to Michigan GOP Chairwoman Laura Cox. 
+The miscalculation, Cox said in a press conference, was first reported by a county clerk. A short 
+investigation revealed that 4 7 counties in Michigan may have also suffered from a similar glitch 
+with the same software, which could have caused some red counties to rake in a higher number of 
+Democrat votes than usual." (Jordan Davidson, "Software Glitch In Michigan County Tallied 6,000 Republican Votes As Democrat," 
+The Federalist , 11/6/20) 
+• The Initial Inaccurate County Was Due To Different Ballot Versions Not Being Merged 
+Properly When Tabulated. "County officials correctly loaded the new version onto the scanners 
+for the affected precincts, but left the old version on scanners for precincts where the ballot was 
+not affected by the late change, Halderman said. So although the scanners in the tabulators 
+counted all the votes in each precinct correctly, the different versions of the ballot resulted in 
+problems and erroneous vote totals when the precinct results were combined in the election 
+management system, a separate software package used to manage and consolidate results before 
+they are reported to the state, he said." ("Antrim Vote Glitch: Expert Shares How County Mistakenly Flipped From Red To Blue," 
+Detroit Free Press, 11/6/20) 
+A Third County Had A Tabulation Error, But Was Not Usin~ Dominion Systems 
+Oakland County Wrongly Declared A Commissioners Race By A Small Margin Which Was 
+Retracted After Election Officials Caught The Error. "In Oakland County, Democrat Melanie Hartman 
+was wrongly declared the winner of the commissioner's race by a 104-vote margin. A computer issue at 
+the Rochester Hills clerk's office caused them to double-count some votes. After elections officials caught 
+the error, Republican Adam Kochenderfer was declared the winner with 1,127 more votes than 
+Hartman." (Ashley Nerbovig, "Antrim County Figures Prominently In Election Conspiracy Theory," Detroit Free Press, 11/8/20) 
+• Oakland County Did Not Use Dominion, They Used Another Company Called Hart InterCivic. 
+"Dominion Voting Systems supplied Antrim County's voting software, as well as other counties in 
+Michigan, according to the Michigan Secretary of State's website. The same site showed Oakland 
+County does not use Dominion Voting Systems; it uses a vendor called Hart InterCivic." (Ashley 
+Nerbovig, "Antrim County Figures Prominently In Election Conspiracy Theory," Detroit Free Press, 11/8/20) 
+Two Georgia Counties Experienced Problems With Voting Machines Made By Dominion And 
+Subcontractor Knowlnk 
+"A Technology Glitch That Created Voting Problems In Two Georgia Counties On [Election Day] 
+Was Caused By [Dominion Voting Systems] Uploading An Update To Election Equipment The Night 
+Before, A County Election Supervisor Said." (Kim Zetter, "Georgia County Official, Vendor Disagree On Cause Of Election Day Glitch," 
+Politico, 11/4/20) 
+• State Election Officials And Dominion Voting Systems Acknowledged That A Problem 
+Occurred, But Disputed The Cause Was A Last-Minute Software Update. "State election 
+officials and the vendor that oversees the equipment acknowledged a problem occurred but have 
+Parkinson0402  Updated: 11/12/2020 
+disputed the county election supervisor's explanation, saying no such last-minute update had 
+occurred." (Kim Zetter, "Georgia County Official, Vendor Disagree On Cause Of Election Day Glitch," Politico, 11/4/20) 
+Morgan And Spalding Counties Used Voting Machines Made By Knowlnk, A Subcontractor Of 
+Dominion Voting Systems, Which Prevented Voters From Casting Machine Ballots On Election Day, 
+Causing Poll Workers To Give Out Paper Ballots And Having Superior Court Judge Extend Voting 
+Hours. "The problem initially prevented voters from casting machine ballots on Election Day in Morgan 
+and Spalding counties after the devices used to sign in voters at the polls failed to work, county officials 
+said. Poll workers gave voters paper ballots until a workaround allowed the use of voting machines to 
+resume. In response to the problem, Superior Court Judge W. Fletcher Sams extended voting hours. The 
+counties use voting machines made by Dominion Voting Systems, but the electronic poll books that 
+experienced the glitch were made by Knowink, a subcontractor to Dominion." (Kim Zetter, "Georgia county Official, 
+Vendor Disagree On Cause Of Election Day Glitch," Politico, 11/4/20) 
+Votin~ Machines Experienced A "Glitch" That Prevented Voters From Votin~ 
+Marcia Ridley, Election Supervisor For Spalding County Board Of Elections, Told Politico That 
+Dominion "Uploaded Something" The Night Before "Which Is Not Normal, And Caused A Glitch." 
+"Dominion, which prepares the poll books for counties before elections, 'uploaded something last night, 
+which is not normal, and it caused a glitch,' Marcia Ridley, the elections supervisor at the Spalding County 
+Board of Elections, told POLITICO on Election Day. That glitch prevented poll workers from using the poll 
+books to program smart cards that the voters insert into the voting machines." (Kim Zetter, "Georgia County Official, 
+Vendor Disagree On Cause Of Election Day Glitch," Politico, 11/4/20) 
+• According To Marcia Ridley, A Representative For KnowlnkAnd Dominion Voting Systems, 
+The Problem Was Due To An Upload To The Machines By One Of Their Technicians The 
+Night Before. "Ridley said that a representative from the two companies called her office after 
+poll workers began having problems with the equipment Tuesday morning. The representative 
+said the problem was due to an upload to the machines by one of their technicians overnight, 
+Ridley told POLITICO. 'That is something that they don't ever do. I've never seen them update 
+anything the day before the election,' Ridley said. Ridley said she did not know what the upload 
+contained." (Kim Zetter, "Georgia County Official, Vendor Disagree On Cause Of Election Day Glitch," Politico, 11/4/20) 
+• Both Gabriel Sterling, The Voting System Implementation Manager For The Georgia 
+Secretary Of State, And Dominion, Denied Marcia Ridley's Account And Claimed The Last 
+Update Made Was On October 31st. "Gabriel Sterling, the voting system implementation 
+manager in the Georgia secretary of state's office, later disputed that account, telling reporters on 
+Nov. 9 that the log files for the poll books show that the last update to them before the election had 
+been made on Oct. 31. 'There was nothing that was done to the system after that date,' he said. 
+Dominion, days after the election, also denied Ridley's account. 'We have confirmed that no 
+Dominion company employee contacted the county about a last-minute update to the system,' a 
+Dominion spokesperson said in a statement. 'Therefore, we have alerted the Georgia Secretary of 
+State's office about this matter. The state can confirm that the final update took place on October 
+31st."' (Kim Zetter, "Georgia County Official, Vendor Disagree On Cause Of Election Day Glitch," Politico, 11/4/20) 
+• Ridley Has Continued To Push Her Original Statement And Described Dominion Having 
+Sent Three Technicians To Have Traveled To Three Of Her Precincts To Make Additional 
+Software Updates to Poll Books. "Ridley, when told about the statements from Dominion and the 
+state, did not back down from her original statement. Furthermore, she said that to fix the issue, 
+Dominion sent three technicians on Election Day, who traveled to each precinct in her county to 
+make a second software update to the poll books." (Kim Zetter, "Georgia County Official, Vendor Disagree On Cause Of 
+Election Day Glitch," Politico, 11/4/20) 
+Parkinson0403  Updated: 11/12/2020 
+Jennifer Doran, Elections Director For The Morgan County Board Of Elections And Registration, 
+Said The Issue Stemmed From The Knowlnk Voter Access Cards Used With Dominion Voting 
+Machines, Experienced The Glitch Not Allowing Poll Workers To Encode The Cards Properly. 
+"Jennifer Doran, elections director for the Morgan County Board of Elections and Registration, said the 
+issue was with how the Know Ink poll books encode a voter access card that is used with the Dominion 
+voting machines. When voters sign in at a voting location, poll workers insert a voter access card into the 
+Poll Pad tablet and encode it for that voter. The card is then inserted into voting machines to display the 
+proper ballot for that voter. The glitch apparently prevented poll workers from encoding those cards." 
+(Kim Zetter, "Georgia County Official, Vendor Disagree On Cause Of Election Day Glitch," Politico, 11/4/20) 
+PRIOR PROBLEMS WITH DOMINION'S SOFTWARE/MACHINES 
+Hackers Have Repeatedly Pointed Out Vulnerabilities In Dominion's Systems 
+In July 2017, Hackers At A Hacking Conference Were Able To Exploit Vulnerabilities In A 
+Dominion Ballot Scanner And "Effectively Take Control Of The Machine That Counts Votes." 
+"Hackers were able to use a screwdriver to get inside a ballot-scanning machine similar to what will soon 
+be used across Georgia, allowing them to replace a memory card and effectively take control of the 
+machine that counts votes. That was one of the vulnerabilities found in the Dominion ImageCast Precinct 
+ballot scanners, according to a report Thursday from the DEF CON Voting Machine Hacking Village, a 
+conference in Las Vegas where hackers tinkered last month with voting equipment to expose 
+weaknesses." (Mark Niesse, "Hackers Highlight Vulnerabilities In Vote-Scanning Machines," Government Technology . 9 /27 /19) 
+In August 2019, A Hacking Conference Found U.S. Voting Equipment Including Dominion Systems 
+Were Vulnerable To Hacking, With Many Of The Reported Vulnerabilities Having Been Reported A 
+Decade Earlier. "This year's event allowed hackers to test voting equipment, including e-poll books, 
+optical scan paper voting devices and direct recording electronic voting machines -all certified for use 
+in at least one U.S. voting jurisdiction. 'Voting Village participants were able to find new ways, or replicate 
+previously published methods, of compromising every one of the devices in the room in ways that could 
+alter stored vote tallies, change ballots displayed to voters, or alter the internal software that controls the 
+machines,' the report said. Despite the 'disturbing' findings of the report, the authors wrote that the 
+findings were 'not surprising,' particularly in light of the fact that many of the election equipment cyber 
+vulnerabilities found were 'reported almost a decade earlier.' Equipment that was tested included those 
+made by leading voting machines companies Election Systems and Software (ES&S) and Dominion 
+Systems." (Maggie Miller, "Hacker Conference Report Details Persistent Vulnerabilities To US Voting Systems," The Hill, 9 /26/19) 
+Texas Repeatedly Rejected Dominion's Voting Machines Due To Both Hardware And Software 
+Issues 
+In 2013, And Again In 2019, Texas' Secretary Of State Rejected Dominion's Voting Machines After 
+Discovering "Multiple Hardware And Software Issues." "Texas rejected Dominion's voting machines 
+twice, in 2013 and again in 2019. Two state offices discovered what they called 'multiple hardware and 
+software issues that preclude the Office of the Texas Secretary of State from determining that 
+[Dominion's] Democracy Suite 5.5-A system satisfies each of the voting-system requirements set forth in 
+the Texas Election Code.' In October 2019, the Office of the Texas Secretary of State explained that 
+Dominion didn't meet certification requirements under the Texas election code." (Fred Lucas, "4 Things To Know 
+About Voting Machine Company That's Causing Stir," The Daily Signal, 11/9 /20) 
+One Of The Primary Examiners For The State Of Texas Referred To The Dominion Voting System 
+As "Fragile And Error Prone" Before Rejecting It. "One of the examiners for the state of Texas, which 
+rejected the same Dominion system, referred to it as 'fragile and error prone.' It's first major test of that 
+claim was moved back to May 19, coinciding with the primaries for state offices, and then to June 9. But at 
+Parkinson0404  Updated: 11/12/2020 
+last the examiner's description was born out." (Tom Baxter, "Georgia's New Voting Machines, 'Fragile And Error Prone,' Get Their First 
+Test," Saporta Report, 6/15/20) 
+In 2018, Nevada's Primary Elections Run With Dominion Voting Machines Saw Glitches And 
+Errors 
+In June 2018, The Nevada Primary Elections Were Riddled With Hundreds Of Glitches On The 
+Dominion Voting System, Including Double Voting And Displaying The Wrong Ballots. "For 
+hundreds of Nevada voters and candidates, June's primary election did not go as planned. Officials said 
+then that a spate of well-publicized voting machine problems -including glitches that left some 
+candidates off of ballots or displayed the wrong slate of ballot choices -only affected a small handful of 
+voters. But a Reno Gazette Journal review of public records found more than 300 reported machine 
+malfunctions across the state. More than 100 were recorded in Washoe County alone. Those software 
+hiccups contributed to a double-voting snafu that forced officials to call a rare special election in Clark 
+County. Records reveal they also saw Washoe threatened with at least one election-challenging lawsuit 
+amid widespread reports of candidates being left off the ballot." (James DeHaven, "RGJ Investigates: Nevada's Voting Machine 
+Problems Were Much Bigger Than First Thought," Reno Gazette Tournal, 8/27 /18) 
+• Despite The Problems, Nevada Officials Did Not Abandon The Dominion Voting System. "Yet 
+county officials appear unlikely to abandon Dominion Voting Systems, the Canadian company that 
+makes Nevada's voting machines. Officials in both Clark and Washoe counties, home to the state's 
+two largest population centers, have said they plan to work closely with Dominion to resolve 
+technical issues before November's general election." (James De Haven, "RGJ Investigates: Nevada's Voting Machine 
+Problems Were Much Bigger Than First Thought," Reno Gazette Tournal, 8/27 /18) 
+Georgia Had Problems With System Failures From Their Dominion Machines During Their 
+Primary Election This Year 
+In 2019, The State Of Georgia Named Dominion As The Winning Vendor To Supply Election 
+Systems In The State. "In Georgia, the system's purchase was authorized by the State Legislature in 
+2019 amid heavy lobbying by several vendors, including the winning bidder, Dominion Voting Systems, a 
+Colorado-based company that is one of the nation's largest suppliers of election systems. Georgia had 
+been under pressure to replace its older election machines since 2017, even before widespread claims of 
+voter suppression emerged in the 2018 governor's race." (Nick Corasaniti And Stephanie Saul, "Georgia Havoc Raises New 
+Doubts on Pricey Voting Machines," The New York Times, 6/11/20) 
+During The 2020 Georgia Primary, Dominion's Voting Machines Saw Numerous Problems, With 
+Some Machines Being Delivered Late, Others Blowing Fuses, And Some Failing To Work And 
+Needing A Technician To Fix. "In some cases on Tuesday, the new machines required too much extra 
+power for aging polling locations, blowing fuses and never powering on. In others, workers who were still 
+being trained just days before the election struggled with setup. Some polling places never even received 
+the machines until the morning of the election. Jonathan Banes, who served as a precinct captain at Cross 
+Keys High School in suburban DeKalb County, outside Atlanta, said the voting machines failed to work as 
+workers tried to boot them up beginning at 5:30 a.m. Poll workers ultimately had to call in a technician to 
+fix them. 'I still don't know what it was, whether it was the PIN authorization, the physical card itself 
+which is inserted into the machine to access the admin portal to manage the functions of the device, or 
+what,' Mr. Banes said. The technician who came to the school fixed the problem but never explained what 
+the problem was, he said." (Nick Corasaniti And Stephanie Saul, "Georgia Havoc Raises New Doubts on Pricey Voting Machines," The New York 
+Times, 6/11/20) 
+• The Poll Workers Admitted That They Had Little Training In The Way Of Troubleshooting 
+Scenarios. "Mr. Banes, who is 29, was operating with only four poll workers but should have had 
+a dozen -many of the older workers feared contracting Covid-19 -and only two of those who 
+came had been trained, he said. The training in February 'was more of an introductory course, if 
+Parkinson0405  Updated: 11/12/2020 
+you can call it that,' he said. 'We didn't go into troubleshoot scenarios or how to deal with technical 
+issues like this or have scenarios where voters cast ballots.' An online refresher training was held 
+several weeks ago, he said." (Nick Corasaniti And Stephanie Saul, "Georgia Havoc Raises New Doubts on Pricey Voting Machines," 
+The New York Times, 6/11/20) 
+Dominion's Electronic Poll Books Also Were Plagued With Freezing Software And User Error. "The 
+electronic poll books, also new, were plagued by freezing software and user error. Kay Stimson, the 
+director of government relations for Dominion, said the company would be doing a 'deep dive' into what 
+happened, but maintained that the issues did not involve equipment problems on a large scale." (Nick 
+Corasaniti And Stephanie Saul, "Georgia Havoc Raises New Doubts on Pricey Voting Machines," The New York Times, 6/11/20) 
+• The Problems Involved Difficulties Activating Voter Verification Cards And Software 
+Glitches As Well, An Issue A Princeton Computer Scientist Described As A "Meltdown. "Many 
+of the problems, she said, involved difficulties activating voter verification cards -which are 
+inserted into the machines to start voting. The potential for problems with the new system was 
+somewhat well known from the state's small-scale test in the 2019 elections, when a software 
+glitch in the electronic poll books caused delays in most of the six counties where the testtook 
+place. 'A lot of people saw this coming, this meltdown, months in advance,' said Andrew Appel, a 
+computer scientist at Princeton who studies voting machines." (Nick Corasaniti And Stephanie Saul, "Georgia 
+Havoc Raises New Doubts on Pricey Voting Machines," The New York Times, 6/11/20) 
+In 2018, There Were Reports That Dominion Machines Overheated In Palm Beach, Florida 
+In 2018, Dominion Disputed Reports That Its Machines Overheated In Palm Beach, Florida. "In 
+Palm Beach, the elections supervisor, Ms. Bucher, said the count was eventually reconciled, but it did not 
+matter: The county missed the deadline to submit its numbers. She blamed the machine used, which she 
+said overheated, and she disputed the manufacturer's account that no technicians had been called about 
+what she said had been an overheating problem. 'We have no reports of an overheating system that 
+night,' said Kay Stimson, vice president of government affairs for Dominion Voting, one of two companies 
+certified to provide the ballot counting machines in Florida. 'The motors shipped there to be on hand are 
+still in the box."' (Frances Robles, "Nearly 3,000 Votes Disappeared From Florida's Recount. That's Not Supposed To Happen," The New York Times, 
+11/16/18) 
+In 2012, Dominion Voting Machines Awarded Victories To The Wrong Candidates In Florida 
+In 2012, Dominion Voting Machines Awarded Two Wellington Village Council Seats To Losing 
+Candidates Due To The Machine Being Set Up Incorrectly. "Palm Beach County elections officials 
+could have averted a software glitch that erroneously awarded two Wellington Village Council seats to 
+losing candidates if they had followed the instruction manual, the manufacturer has told state election 
+officials. Supervisor of Elections Susan Bucher vehemently denied the claim. 'I read the reference guide 
+three times yesterday,' she said. 'Nowhere does it tell you to check for this, ever.' Even as the question of 
+who is to blame grew murkier, a clearer picture of the error itself emerged Monday, with the company, 
+Dominion Voting Systems, sending out a national advisory warning election officials how to avoid a 
+similar mistake. In the advisory, Dominion also suggests that the mistake could have been caught before 
+the election had one key test been performed differently." (Adam Playford and Pat Beall, "Read Manuel, Firm Says Of Election 
+Snafu," Sun Sentinel, 4/3/12) 
+SECURITY & VULNERABILITY ISSUES 
+Some Dominion Voting Machines Reportedly Include Modems That Potentially Could Connect 
+To The Internet, A Hacking Vulnerability 
+The Three Largest Voting Manufacturing Companies, Including Dominion, Acknowledged They All 
+Put Modems In Some Of Their Tabulators And Scanners. "The three largest voting manufacturing 
+companies -Election Systems &Software, Dominion Voting Systems and Hart InterCivic -have 
+Parkinson0406  Updated: 11/12/2020 
+acknowledged they all put modems in some of their tabulators and scanners. The reason? So that 
+unofficial election results can more quickly be relayed to the public. Those modems connect to cell phone 
+networks, which, in turn, are connected to the internet." (Kevin Monahan, Cynthia McFadden And Didi Martinez, '"Online And 
+Vulnerable': Experts Find Nearly Three Dozen U.S. Voting Systems Connected To Internet," NBC News, 1/10 /20) 
+• Dominion Refused To Respond To "Numerous Requests From NBC News" Regarding How 
+Many Of Their Tabulators With Modems Were Currently In Use. "NBC News asked the two 
+other major manufacturers how many of their tabulators with modems were currently in use. Hart 
+said that it has approximately 1,600 such tabulators in use in 11 counties in Michigan. Dominion 
+did not respond to numerous requests from NBC News for their sales numbers." (Kevin Monahan. Cynthia 
+McFadden And Didi Martinez, "'Online And Vulnerable': Experts Find Nearly Three Dozen U.S. Voting Systems Connected To Internet," NBC News, 
+1/10/20) 
+• The National Institute Of Standards And Technology Recommended That Voting Systems 
+Should Not Have Wireless Network Connections. "The National Institute of Standards and 
+Technology, which provides cybersecurity frameworks for state and local governments and other 
+organizations, recommends that voting systems should not have wireless network connections." 
+(Kevin Monahan, Cynthia McFadden And Didi Martinez, "'Online And Vulnerable': Experts Find Nearly Three Dozen U.S. Voting Systems Connected 
+To Internet," NBC News. 1/10/20) 
+• Modems Make The Machines Vulnerable To Hacking By Making It Possible To Connect The 
+Machines To External Networks. "With the 2020 presidential election only ten months away, 
+Appel and Skoglund believe all modems can and should be removed from election systems. 
+'Modems in voting machines are a bad idea,' said Appel. 'Those modems that ES&S [ and other 
+manufacturers] are putting in their voting machines are network connections, and that leaves 
+them vulnerable to hacking by anybody who can connect to that network."' (Kevin Monahan. Cynthia 
+McFadden And Didi Martinez, "'Online And Vulnerable': Experts Find Nearly Three Dozen U.S. Voting Systems Connected To Internet," NBC News, 
+1/10/20) 
+Parkinson0407 

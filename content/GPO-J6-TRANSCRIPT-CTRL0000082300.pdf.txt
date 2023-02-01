@@ -1,0 +1,2774 @@
+1 
+2 
+3 
+4 SELECT COMMITTEE TO INVESTIGATE THE 
+5 JANUARY 6TH ATTACK ON THE U.S. CAPITOL, 
+6 U.S. HOUSE OF REPRESENTATIVES, 
+7 WASHINGTON, D.C. 
+8 
+9 
+10 
+11 DEPOSITION OF: SAL GRECO 
+12 
+13 
+14 
+15 Monday, May 16, 2022 
+Washington, D.C. 1 
+16 
+17 
+18 
+19 
+20 The deposition in the above matter was held via Webex, commencing at 1:04 p.m.  1 
+2 Appearances: 
+3 
+4 
+5 For the SELECT COMMITTEE TO INVESTIGATE 
+6 THE JANUARY 6TH ATTACK ON THE U.S. CAPITOL: 
+7 
+8 
+9 
+10 
+11 PROFESSIONAL STAFF MEMBER 
+SENIOR INVESTIGATIVE COUNSEL 
+12 For the COMMITTEE ON HOMELAND SECURITY: 
+13 
+14 
+15 
+16 RESEARCH ASSISTANT 
+RESEARCH ASSISTANT 
+17 
+18 For THE WITNESS: 
+19 
+20 PATRICK PARROTTA 
+21 Law Offices of Patrick Parrotta 
+22 The Professional Arts Building 
+23 1492 Victory Blvd. 
+24 3rd Floor, 
+25 Staten Island, NY 10301 2  1 
+2 
+3 Mr. - It's 1:04 p.m. Let's please go on the record. 
+Good afternoon. This is a deposition conducted by the House Select Committee 
+4 to Investigate the January 6th Attack on the United States Capitol pursuant to House 3 
+5 resolution 503. At this time, I would ask the witness to please state and spell your name 
+6 for the record. 
+7 
+8 The Witness. My name is Salvatore Greco. It's S-a-1-v-a-t-o-r-e and G-r-e-c-o. 
+Mr.- Thank you, Mr. Greco. And thank you for joining us. If you could 
+9 please raise your right hand, the official reporter will swear you in for the deposition. 
+10 The Reporter. Do you solemnly declare and affirm under the penalty of perjury 
+11 that the testimony you are about to give will be the truth, the whole truth, and nothing 
+12 but the truth? 
+The Witness. I do. 13 
+14 Mr. - Mr. Greco, this will be a staff-led deposition, but members of the 
+15 select committee may choose to join and ask questions, but as for now, I anticipate the 
+16 questions will be asked by me, and my name is I'm a senior investigative 
+17 counsel on the staff of the select committee. 
+18 Joining me on Webex are several members of the staff, but no other attorneys. 
+19 At this time, I'll just go through some basic ground rules of the deposition, and the first is 
+20 to say that we'll follow the House's deposition rules, under which you are permitted to 
+21 have an attorney with you. 
+22 Mr. Parrotta, if you could please, just announce yourself and spell your name for 
+23 the record. 
+24 Mr. Parrotta. Good afternoon, everyone. My name is Patrick Parrotta. The 
+25 spelling of my last name is P-a-r-r-o-t-t-a. Good afternoon.  4 
+1 Mr.- Thank you, Mr. Parrotta. 
+2 Now, we provided you, Mr. Greco and Mr. Parrotta, with the House's deposition 
+3 rules as part of the subpoena to Mr. Greco, and under those rules, you would've seen 
+4 that neither committee members nor staff may discuss the substance of your testimony, 
+5 Mr. Greco, that you provide today unless the committee approves release. And we will 
+6 give you an opportunity to review the transcript with your attorney before it is released if 
+7 it is at all, but before we begin, as I said, I'll go over just a few more ground rules. 
+8 As you now have seen, there's an official reporter who's transcribing today's 
+9 discussion. The reporter is also joining us by Webex. Please wait until each question is 
+10 asked before you begin your answer, and I'll wait for you to finish your answer before I 
+11 ask my next question. 
+12 The reporter can't record nonverbal responses, such as shaking your head or 
+13 nodding your head, so it's important to answer each question with a verbal response. 
+14 And, if for whatever reason, we need to have you spell something, it's simply so the 
+15 record is clear. So excuse me on the front end if we have to do that. 
+16 All we're asking is for you to provide complete answers based on your best 
+17 recollection. If the question is not clear, just ask me, and I'll rephrase as best I can. 
+18 And, if you don't know the answer, simply say so. 
+19 Now, you may refuse to answer a question to preserve a privilege recognized by 
+20 the select committee. And, if you refuse to answer a question based on a privilege, 
+21 staff, that is myself, may either seek a ruling from the chairman of the select committee 
+22 on the objection or proceed with the deposition and seek a ruling from the chairman at a 
+23 later date. 
+24 If at whatever time we raise it to the chairman he overrules an objection, you 
+25 would be required to answer the question.  1 I'll also want to remind you as we do all witnesses that it is unlawful to 
+2 deliberately provide false information to Congress. And, since this deposition is under 
+3 oath, providing false information could result in criminal penalties to include for perjury 
+4 and/or providing false statements. 
+5 So is all of that clear on the front end? 
+6 
+7 
+8 
+9 The Witness. Yes. 
+EXAMINATION 
+Q Okay. Now, last week and then before we started the deposition today, 5 
+10 your counsel, Mr. Parrotta, informed me of certain things about your position with regard 
+11 to the subpoena. The first is that you did receive the subpoena and provided certain 
+12 documents. Is that right Mr. Greco? 
+13 
+14 A 
+Q Correct. 
+All right. So what we have in our possession provided by Mr. Parrotta are 
+15 phone records of yours during the months at issue covering roughly November of 2020 to 
+16 January of 2021. Is that right? 
+17 
+18 A 
+Q Correct. 
+Okay. You might need to lean forward and speak up just a bit so we can 
+19 hear you. I also understand from Mr. Parrotta that it's your intention to with regard to 
+20 what I'll call substantive questions about January 6th and the events around it to invoke 
+21 your right not to answer under the Fifth Amendment. Is that generally accurate? 
+22 
+23 A 
+Q Correct. 
+Okay. But be that as it may, we are going to proceed with the questions 
+24 relevant to the select committee's investigation this afternoon with the hope that you will 
+25 answer.  6 
+1 Now, the Fifth Amendment affords a person the right to refuse to answer a 
+2 question if they have a reasonable belief that the answer would tend to incriminate them. 
+3 Do you understand that? 
+4 
+5 A 
+Q Correct. 
+It does not afford a person the right to refuse to answer a question simply 
+6 because they would prefer not to answer it. Do you understand that? 
+7 
+8 A 
+Q Yes. 
+Mr. Greco, regarding the documents, I just want to make sure I understand. 
+9 There were several categories of requests within the subpoena for documents, you know, 
+10 relevant to what the select committee is investigating and, again, appreciating that you 
+11 provided the phone records. 
+12 Did you conduct a search with the assistance of your attorney to see if you had 
+13 any other responsive documents? 
+14 
+15 A 
+Q Yes. 
+Okay. And is it correct that you didn't find anything else responsive other 
+16 than the phone records? 
+17 
+18 A Yes. 
+Mr. Parrotta. Just so there's no ambiguity of the things that we searched for 
+19 you, we only had phone records, correct? 
+20 
+21 
+22 The Witness. Yeah. 
+BYMR.-: 
+Q And I'm not asking about substance, but just as a one aspect would be 
+23 whether or not you looked to see if you had text messages with people such as Roger 
+24 Stone or Kristin Davis, again, not asking substance, but did you check to see if you had any 
+25 of those from the time period we're looking at?  1 
+2 
+3 
+4 A Yes. 
+Q Okay. And so you didn't find anything of that sort? 
+A No, not on my phone, no. 
+Q Okay. So I'll start with what I'll call the background questions, which I 
+5 understand you'll answer, not substantive about the events, but how old are you, Mr. 
+6 Greco? 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 A l'm40. 
+Q And what State do you reside in? 
+A New York. 
+Q How are you employed? 
+A Police officer. 
+Q With what police department? 
+A NYPD. 
+Q How long have you been with NYPD? 
+A Approximately 14 years. 
+Q And the rank --your current rank is officer? 
+A Correct. 
+Q Do you know Roger Stone? 
+A Yes. 
+Q And how long have you known Mr. Stone for? 
+A Since 2018. 
+Q And how did you first meet him in 2018? 
+Mr. Parrotta. Answer those. 
+The Witness. Off of --I actually met him --I spoke to him on lnstagram. He 
+25 actually direct messaged me. 7  1 
+2 
+3 Q 
+A BYMR.-
+What was in response to, or did he say why he was reaching out to you? 
+It was more of --I liked one of his pictures, and I was --there were --I 
+4 might've made a good positive comment on his picture, and then, after a couple of his 
+5 posts, I guess, over a few days, then he just direct messaged me out of nowhere. 
+6 Q And, since 2018 and just at a high level, how would you characterize your 
+7 relationship with Mr. Stone? 
+8 A We're --we're friends. I'm friends with the family, but it's --it's --that's a 
+9 pretty good definition of how our relationship is. 
+10 Q 
+11 his family? 
+12 
+13 
+14 
+15 A 
+Q 
+A 
+Q When you say "friends of the family," are you talking about Mr. Stone and 
+Correct. 
+Now, have you ever worked for Roger Stone? 
+No. 
+Now, it's been reported publicly that, you know, the NYPD initiated 
+16 disciplinary proceedings against you with respect to your having been in Washington, 
+17 D.C., with Mr. Stone on January 5th and 6th of 2021, and the reporting is that the 8 
+18 proceedings were instituted, both because you were alleged to have provided security for 
+19 Mr. Stone and also for associating with Mr. Stone and Kristin Davis, who have previously 
+20 been convicted of felonies. 
+21 So, just as a factual matter, is it right that the disciplinary proceedings were 
+22 instituted by the NYPD? 
+23 Mr. Parrotta. -am I allowed to speak to him one second? 
+24 
+25 Mr. - Absolutely. 
+Mr. Parrotta. Was there a disciplinary proceeding by the NYPD because of your  1 association with Mr. Stone? 
+2 
+3 The Witness. Correct. Yes. 
+BYMR.-
+4 Q Now, it's been reported publicly that you testified during those disciplinary 
+5 proceedings. Is that right as a factual matter that you testified? 
+6 A Yes. 
+7 Q It's also been reported that, during your testimony, you discussed your 
+8 relationship with Mr. Stone. Is that right just as a general matter, how you know him 
+9 and what that's been like over the few years? 
+10 
+11 A Yes. 
+Q It's also been reported that you discussed the events of January 5th and 6th 
+12 of 2021 in Washington, D.C., during your testimony. Is that correct that you did that? 
+13 
+14 
+15 
+16 A Yeah. 
+Mr. Parrotta. Okay. He replied yes. 
+BYMR.-
+Q Okay. If you could say that Mr. Greco, so we could hear. Is that true that 
+17 you testified about that in your testimony? 
+18 
+19 A Yes. 
+Q All right. Now, it's been reported also that, during your testimony about 
+20 the events of January 5th and 6th of 2021, that you swore that you did nothing wrong. 
+21 Is that accurate that that's what you said during your testimony? 
+22 
+23 
+24 
+25 Mr. Parrotta. Hold on just one second. 
+Am I allowed to go on mute one second? 
+Mr.- Sure thing. Let me know when you're ready. 
+[Discussion off the record.] 9  10 
+1 Mr. Parrotta. Mr.- he's not certain if that was a verbatim recital of what 
+2 he said at the hearing. If you want to ask it a little differently or perhaps ask him to 
+3 paraphrase, perhaps, that he did nothing illegal. He testified that he did nothing illegal 
+4 on January 5th and 6th, 2021. 
+5 Mr.- Fair enough. And wasn't trying to imply that. I wasn't there. So 
+6 I'm not trying to do verbatim. But let me ask it in this way. 
+7 Mr. Greco, as Mr. Parrotta helpfully said, I'll ask, during your testimony in the 
+8 disciplinary proceedings, did you testify in sum and substance that you did nothing illegal 
+9 with respect to the events of January 5th and 6th of 2021? 
+10 
+11 
+12 
+13 
+14 
+15 
+16 Mr. Parrotta. Is that accurate? 
+The Witness. Oh, yeah. 
+Mr.- I'm sorry. Could you say that again? 
+The Witness. Yes. 
+Mr. Parrotta. Yes. He replied yes. 
+BYMR.-
+Q And similarly, again, from public reporting, in sum and substance, did you 
+17 testify that, to your knowledge, Roger Stone did nothing illegal in connection with the 
+18 events of January 5th and 6th of 2021? 
+19 
+20 A Yes. 
+Q Now, do you have any reason to believe that you, Sal Greco, are under 
+21 investigation by the FBI or Department of Justice in connection with the January 6th 
+22 attack on the Capitol? 
+23 
+24 
+25 Mr. Parrotta. Just one moment. 
+[Discussion off the record.] 
+Mr. Parrotta. We're ready to proceed.  1 
+2 
+3 
+4 Mr.- If you'd like, I can ask again, Mr. Greco? 
+The Witness. Please. 
+BYMR. 
+Q Do you have any reason to believe personally that you were under 
+5 investigation by the FBI or the Department of Justice in connection with the January 6th 
+6 attack on the Capitol? 
+7 A Well, I had the NYPD proceeding, and then I have this subpoena, so I 
+8 don't --I don't know if there's anything else. 
+9 Q So appreciate that perspective. As I understand it, and correct me if I am 
+10 wrong, the NYPD proceeding is an internal disciplinary proceeding that's not criminal in 
+11 nature. Is that right? 
+12 A Yes. 
+13 Q All right. And, as I'd explained at the outset and you've seen some of the 
+14 subpoena, I work for the House Select Committee to Investigate the January 6th Attack 
+15 on the Capitol, and the purpose of that and the purpose of the committee is to get an 
+16 understanding of the facts and circumstances of the attack in order to make 
+17 recommendations for legislation, rules, or procedures, and otherwise to report to the 
+18 American public what happened that day. 
+19 We don't work with the Department of Justice. We have no prosecutorial 
+20 authority. Do you understand that? 
+21 A Yes. 11 
+22 Q All right. So then I'll just ask, again, and this is just to be clear: As you sit 
+23 there, do you have any reason to believe that you are under investigation by the FBI or 
+24 the Department of Justice in connection with the January 6th attack on the Capitol. 
+25 Mr. Parrotta. Just one moment.  1 
+2 
+3 
+4 
+5 [Discussion off the record.] 
+Mr. Parrotta. He can respond. 
+The Witness. I believe it could be possible. 
+BYMR.-
+Q To your knowledge, do you understand Roger Stone to be under 
+6 investigation by the FBI or Department of Justice in connection with the January 6th 
+7 attack on the Capitol? 
+8 
+9 A That could also be possible. 
+Q Has the FBI or the Department of Justice sought to interview you in 
+10 connection with the investigation of the January 6th attack on the Capitol? 
+11 
+12 A 
+Q No. 
+Now, in connection with the events of January 6th, Roger Stone has 
+13 repeatedly said publicly that, quote, Roger Stone did nothing wrong, close quote. Are 
+14 you aware of that? 
+15 
+16 A Yes. 
+Q To your knowledge, as you said earlier, you testified at your own hearing, 
+17 but I'd just ask you directly, to your knowledge, did Roger Stone do anything wrong in 
+18 connection with the events of January 6th? 
+19 
+20 A 
+Q Not that I know of. 
+It's been reported publicly that Mr. Stone testified on your behalf at the 
+21 NYPD disciplinary hearing. Is that accurate? 
+22 
+23 
+24 
+25 A 
+Q 
+A 
+Q No, he did not testify on my behalf. 
+Did he testify at the hearing? 
+No. 
+Did he come to the hearing any day? 12  A 
+Q Yes. He was at the hearing in the crowd, but not to testify. 
+Oh, I see. Okay. So I guess. 
+Mr. Parrotta. He was in the audience? 
+The Witness. He was in the audience. Sorry. Yes. 13 
+1 
+2 
+3 
+4 
+5 Mr. Parrotta. They call it the trial room at the New York City Police Department 
+6 disciplinary unit, and it's kind of like a courtroom. And is it fair to say he was present 
+7 one day at the trial in the audience section? 
+8 The Witness. Yes. 
+9 Mr. - Now, have you discussed with Mr. Stone the fact that he was 
+10 subpoenaed by the January 6th Select Committee, in other words, the body that I work 
+11 for on the staff? 
+12 
+13 
+14 
+15 Mr. Parrotta. Hold on just one moment, please. 
+[Discussion off the record.] 
+Mr. Parrotta. You can respond. 
+The Witness. I know because it was public. It was public knowledge in, I 
+16 believe, it was December, correct, or January. 
+17 
+18 
+19 Mr. Parrotta. Oh, okay. So you know from public knowledge? 
+The Witness. Yeah. 
+Mr. Okay. But have you discussed with him, Mr. Stone, the fact that he 
+20 was subpoenaed? 
+21 
+22 
+23 
+24 
+25 Mr. Parrotta. Hold on just one second. 
+[Discussion off the record.] 
+The Witness. No. 
+BYMR. 
+Q Do you know from public reporting that Mr. Stone refused to provide  1 documents or answer questions based on an assertion of the Fifth Amendment? 
+2 
+3 A Yes. 
+Q Have you discussed with Mr. Stone the fact that you were subpoenaed by 
+4 the January 6th Select Committee. 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 Mr. Parrotta. Hold on just one moment, please. 
+[Discussion off the record.] 
+Mr. Parrotta. He's ready to continue. 
+Mr.- Go ahead. 
+The Witness. I believe he's aware. 
+BYMR.-
+Q And what makes you say you believe he's aware? 
+A Because I do speak to his daughter. 
+Q 
+A I'm sorry. Say that again. To who? 
+I speak to his daughter. 
+Q Okay. What's his daughter's name? 
+A Adria. 
+Q And you conveyed to her about the fact that you received a subpoena? 
+A Correct. 
+Q And did she convey to you any information from her father, that is Roger 
+20 Stone, in response to the fact that you've been subpoena? 
+21 
+22 
+23 
+24 A Did she tell him? 
+Q Yeah. Do you know if she told him? 
+A 
+Q I'm just assuming that more than likely, yes. 
+Did she tell you anything, anything conveyed from Mr. Stone to you about 
+25 your subpoena? 14  1 
+2 A 
+Q Oh, no. 
+All right. Now, I don't want to know about any conversations with Mr. 
+3 Parrotta, your attorney at all. So, putting that aside, did anyone else tell you to refuse 15 
+4 to answer questions based on the Fifth Amendment to the select committee's questions 
+5 about January 5th and 6th, 2021? 
+6 
+7 
+8 
+9 
+10 
+11 Mr. Parrotta. Just one second. 
+[Discussion off the record.] 
+Mr. Parrotta. We can proceed. 
+The Witness. No. 
+BYMR.-
+Q In the course of your interactions with Mr. Stone, did he ever discuss his 
+12 views with you prior to the 2020 Presidential election about what actions President 
+13 Trump should take with respect to that election? Just generally, did he talk to you about 
+14 that? 
+15 
+16 A 
+Q What do you mean, like, what he says publicly? 
+I'm just asking did Mr. Stone discuss with you his views on actions that 
+17 President Trump should take with respect to the 2020 Presidential election. 
+18 
+19 A 
+Q Other than what he publicly says, we don't discuss, like, matters like that. 
+So, other than what he publicly says, you mean you don't have any private 
+20 conversations with him, again, talking about the 2020 Presidential election and what 
+21 President Trump should do? 
+22 A I believe, up to the run-up of that, he was still facing the --getting commuted 
+23 or pardoned or something like that. So he was more worried about that than, let's say, 
+24 the election. And, you know, the election wasn't until November, right? 
+25 Q That's right. It was November 3rd of 2020.  16 
+1 Prior to that date, did you know Mr. Stone to be undertaking any efforts to 
+2 support President Trump's re-election campaign, prior to November 3rd of 2020? 
+3 A No, he was not --he was not a part of the campaign, or he didn't get paid for 
+4 anything like that that I know of. 
+5 Q And not asking --thank you for that, but put aside being paid for the 
+6 campaign, did you understand him to be doing anything, otherwise, to support President 
+7 Trump's re-election effort in the run-up to the election on November 3rd? 
+8 A I think he --he's supportive of him as his friend, but I don't know of any 
+9 actions or things like that. 
+10 Q Prior to that election day, did you know whether Roger Stone was 
+11 communicating with President Trump about strategy for the election? Did he tell you? 
+12 A From what I --I could tell you, I don't know of any communications other 
+13 than that he was commuted, that he called him, which was public that he called him on 
+14 the phone in July or June, whatever it was, to tell him he commuted his sentence. 
+15 Q Understood. Putting that aside, did you understand Mr. Stone to have 
+16 been in touch with President Trump about the 2020 Presidential election before the 
+17 election? 
+18 
+19 
+20 
+21 
+22 Mr. Parrotta. Just one moment. 
+[Discussion off the record.] 
+The Witness. I don't know any specifics. 
+BYMR.-
+Q Do you know any generalities? Did he tell you that he was, at least, talking 
+23 to President Trump about the election prior to election day? 
+24 
+25 A No. 
+BYMR.-:  1 Q Did you know Mr. Stone to be in contact with anyone in the White House 
+2 about election strategy in the lead up to election day? 
+3 
+4 A 
+Q No. 
+And do you know whether Mr. Stone was communicating with anyone in 
+5 President Trump's re-election campaign about strategy in the lead up to election day? 
+6 
+7 A 
+Q No. 
+Now, it's been publicly reported that, on or about November 5th of 17 
+8 2020 --so that's 2 days after the election --that Mr. Stone relaunched what he called the 
+9 "stop the steal" campaign. Is that accurate, to your knowledge, that he relaunched the 
+10 campaign in the few days after the election? 
+11 A I don't know if it was him that --I don't remember if it was him or if he was a 
+12 part of it. 
+13 Q Well, how about this, Mr. Greco, what do you know about the "stop the 
+14 steal" efforts, so to speak, that Mr. Stone has affiliated himself with? How did that get 
+15 going after the election, and what was Mr. Stone's role with it? 
+16 
+17 
+18 
+19 
+20 
+21 Mr. Parrotta. Just one moment. 
+[Discussion off the record.] 
+Mr. Parrotta. You can re-ask the question, Mr. -
+Mr. - Sure. Thank you. 
+BYMR.-: 
+Q Mr. Greco, just trying to understand, do you know when I use a term "stop 
+22 the steal," what does that mean to you in the context of Roger Stone? What was Mr. 
+23 Stone doing under the moniker "stop the steal"? 
+24 Mr. Parrotta. Hold on. We just discussed it. What do you think Mr. 
+25 Stone's --can I just rephrase the question and see if it's acceptable? What do you  18 
+1 believe was Roger Stone's involvement in the efforts after the election of November 2020 
+2 to be involved with "stop the steal," the so-called "stop the steal," or anything like that? 
+3 The Witness. What I believe, because there was never any direct conversation 
+4 about this, I don't believe he was the person in charge of that campaign. 
+5 BYMR.-
+6 
+7 
+8 
+9 
+10 
+11 Q Okay. Who do you think was? 
+A I believe it's public knowledge. It's actually --I believe Ali is his name. 
+Q Ali Alexander? 
+A That's it. 
+Q All right. Do you know Mr. Alexander? 
+A I don't know him personally. We've only, like, walked past each other I 
+12 would say. 
+13 
+14 
+15 
+16 Q What did you understand his relationship to be with Roger Stone. 
+Mr. Parrotta. If you know? 
+Mr.- Right. 
+The Witness. Maybe a friend or colleague, maybe worked together. I don't 
+17 know. I don't know if they worked together in the past. I've never spoken to Ali. 
+18 
+19 Q BYMR.-: 
+Understood you've not spoken to Mr. Alexander. When did you first 
+20 become aware that Mr. Stone was familiar with Mr. Alexander? 
+21 A Probably either maybe December or November, that there was some kind of 
+22 relationship with. 
+23 
+24 
+25 Q So this is 2020 after the election, is what you're saying? 
+A Correct. 
+Q And you understood, just so I'm clear, Ali Alexander to be at the front of or  1 leading the "stop the steal" effort? 
+2 
+3 A 
+Q From what I understand and believed, yes. 
+Now, did you understand that "stop the steal" was a phrase that Mr. Stone 
+4 himself had coined back in 2016 when President Trump first ran for election? Did you 
+5 know that? 
+6 A I believe --1 believe he was or he conamed it. Might have been someone 
+7 else, too. 19 
+8 Q And the fact that Mr. Alexander after the 2020 election was using the "stop 
+9 the steal" term, did that cause any friction, to your knowledge, with Mr. Stone? 
+10 
+11 A That I don't know. I don't know. 
+Q What did you know, as best you can recall, about Mr. Stone's involvement 
+12 with Mr. Alexander and "stop the steal"? What was Mr. Stone's role? What was he 
+13 generally doing, to your knowledge? 
+14 [Discussion off the record.] 
+15 The Witness. Okay. I know that they're friends, but I don't know the exact 
+16 involvement of what they both --whatever, if they had any business. I don't really get 
+17 into specifics, because I don't --I don't know that other guy. 
+18 BY MR. 
+19 Q That's fine that you don't know Mr. Alexander, and, again, I'm just asking the 
+20 best that you know. What did you understand Mr. Stone himself to be doing in 
+21 connection with the "stop the steal" campaign after the election? 
+22 
+23 A I don't know. 
+Q So it's not something you had discussed with him at all between November 
+24 and January? 
+25 A No, not like in regards to "stop the steal" or I'm not --that's like a political  20 
+1 thing he's doing, if he was involved. And I don't know every little move that he would 
+2 make, say, politically. 
+3 Q And understood you wouldn't know every little move; I'm just asking at 
+4 whatever level you did know, what did you understand Mr. Stone to be doing during that 
+5 time of November 2020 to January of 2021? 
+6 
+7 
+8 Mr. Parrotta. One moment. 
+[Discussion off the record.] 
+The Witness. I know he's an ardent Trump supporter, but I don't know the exact 
+9 specifics. 
+10 BYMR-
+11 Q It's been publicly reported that, on or about November 5th of 2020, Mr. 
+12 Stone made the decision to begin raising money in support of the "stop the steal" 
+13 campaign. Did you understand him to be raising funds for "stop the steal" during this 
+14 time of November 2020 to January of 2021? 
+15 A I read something publicly about this, but I don't remember, again, the 
+16 specifics of that either. 
+17 
+18 
+19 
+20 Mr. Parrotta. Hold on just one moment. 
+[Discussion off the record.] 
+Mr. Parrotta. Go ahead. 
+The Witness. Yeah. I don't know if there were any discussions or what he was 
+21 doing, because we never discussed --like, I never asked or discussed about the whole, 
+22 whatever it was, "stop the steal" or that whole campaign or whatever it was. 
+23 BYMR.-
+24 Q Okay. It's been reported and Mr. Stone has talked about it publicly that, 
+25 during this time period we're looking at, the 3 months, November 2020 to January of  21 
+1 2021, that Mr. Stone was appearing at "stop the steal" rallies. Were you generally 
+2 aware of the fact that he was making appearances at rallies in support of the "stop the 
+3 steal" effort? 
+4 A I do know he does go to the rallies, but I don't know which, you 
+5 know --there's different people there in charge of the rallies. I don't know if it's "stop 
+6 the steal" or whatever it is. 
+7 Q Put aside the events in D.C. on January 5th and 6th of 2021 for now, prior to 
+8 that, did you go with Mr. Stone to any of those rallies, you know, whether "stop the steal" 
+9 or whatever, but in support of the effort to overturn the results of the election? 
+10 
+11 
+12 
+13 A From November? 
+Q Yep, of 2020 through --up to but not at January 5th and 6th of 2021. 
+A I don't believe I was at any --it was any rallies I was at. 
+Q Were you in Washington, D.C., at any point in connection with Mr. Stone in 
+14 December of 2020 that you remember? 
+15 
+16 A Yes. 
+Q All right. And see if this jogs your memory: There was a rally that was 
+17 held in D.C. on December 12th, a Saturday, of 2020, but there's public reporting that Mr. 
+18 Stone was in the city the night of December 11th and spoke to supporters outside a hotel 
+19 that evening. 
+20 Does that sound familiar to you that he was speaking to people from a hotel on a 
+21 Friday night in December of 2020? 
+22 
+23 
+24 
+25 Mr. Parrotta. Just one moment. 
+[Discussion off the record.] 
+Mr. Parrotta. He can answer. 
+The Witness. Yeah. I'll explain this, kind of, almost like when I testified on the  22 
+1 NYPD. On December 11th, there was a thing it was called AMPFest. It was like an 
+2 AMPFest reunion or whatever, like they were honoring the people that spoke for them at 
+3 the AMPFest that was in Florida at some point in 2020. 
+4 So I think it was October. So he --he --he asked me to come, you know, because 
+5 he was going to be there. And, once he was done speaking in a hotel room, there was 
+6 about --you know, he took like six or seven of us decided to go to a cigar bar. From the 
+7 cigar bar, when we left, when you see us --when he's walking to the street, he saw, I 
+8 guess, his friend or something, the guy --like, someone who I think he works for Alex 
+9 Jones or something. He works for lnfoWars. 
+10 So he went up there and says, he said: I'm going to say a couple words. He 
+11 said two words and he left. So it wasn't a rally; it was an impromptu, kind of, like, 
+12 almost a mistake that we just happened to walk through and then he heard his friend on 
+13 the megaphone and we went --and he said two words, and we went back to the hotel, 
+14 and I left. 
+15 Q Just so we're clear for the record, when you say "AMPFest," am I saying that 
+16 right or could you spell it so we know what we're talking about? 
+17 
+18 
+19 
+20 A 
+Q 
+A 
+Q It's A-M-P Fest. 
+And what is AMPFest? 
+It's an event that happens in --happened in October that year. 
+So Mr. Stone was in town in Washington, D.C., on December 11th of 2020 in 
+21 connection with AMPFest? 
+22 A It was something --they were, like, having the people --some of the people 
+23 that spoke at that event come back to speak in, like, a room or something inside of the 
+24 hotel over there. 
+25 Q Were you there when Mr. Stone gave his remarks inside the hotel?  23 
+1 A I was --we were in the hotel, but it was --I don't remember what was --was 
+2 said or whatever there. It was almost --it wasn't too long we were in there either. It 
+3 was a short --short time we were in the room or whatever when he was speaking. 
+4 Because it was a short thing. It was, like --I wasn't really --I didn't know exactly 
+5 about this whole event or whatever was going on, but he just wanted me to come so I 
+6 could've saw him that day. 
+7 Q But, again --but you were there in the hotel room when he gave whatever 
+8 remarks he gave, that is, Mr. Stone? 
+9 A Yeah. I believe it was also --it could have been --it could have been 
+10 recorded. There was cameras. People --people have this footage of it. 
+11 Q Okay. And the substance of his remarks, did it have to do with the election, 
+12 the Presidential election, that is? 
+13 
+14 
+15 A 
+Q 
+A It's so far along; I don't remember. 
+What is AMPFest? 
+AMPFest is like --it's like --it's like an event they have. It was in Florida. 
+16 don't know if it was in Miami or one of those towns. It was, like, 2020. I don't know if 
+17 they have it every year, but I was there --I was --I remember this group of people that 
+18 run it then asked him to come to this thing on December 11th. That's what he was 
+19 there for. 
+20 
+21 
+22 Q 
+A 
+Q But is it political in nature AMPFest? 
+Correct. It's political. 
+Okay. And, again, I'm not asking the particulars, but I mean, it was --the 
+23 talk of the town on December 11th and in political circles about the Presidential election. 
+24 Do you remember that's what Mr. Stone was talking about for however long he was 
+25 speaking in the hotel room?  1 
+2 
+3 
+4 
+5 
+6 
+7 A I don't know the specifics of exactly what he was saying. 
+Q Again, not asking for specifics, but was he talking about the election? 
+Mr. Parrotta. Do you have a recollection of that or --
+The Witness. I don't remember exactly what it was. I wish I could tell you. 
+Mr. Parrotta. Okay. 
+BYMR.-: 
+Q Mr. Greco, did you know that people were in town for a protest the 
+8 following day, December 12th, about the Presidential election? 
+9 A I would believe --what you're telling me now is --I'm remembering that 
+10 there was something the next day. I don't remember, you know, what it was for, 
+11 because I wasn't going to stick around for that. 
+12 Q And why did Mr. Stone ask you to come down to be with him on 
+13 December 11th? Do you know? 
+He wanted, like, to hang out. He wanted me to see him. 24 
+14 
+15 A 
+Q Did it have anything to do with in making sure he was safe in large crowds in 
+16 D.C. on the 11th --
+17 
+18 
+19 
+20 
+21 A No. 
+Q --or to provide him security in any way? 
+Remember, they can't record head shakes or nods. 
+A Oh, sorry. No. 
+Q Okay. Did Mr. Stone, to your knowledge, did he go to the rally in D.C. the 
+22 next day on December 12th? 
+23 A From what I understand, I believe, he left --I left that night, and I believe he 
+24 left either that --early in the morning, because I don't believe he stayed in D.C. that day. 
+25 Q Regarding when you ran into the people that Mr. Stone recognized, see if  1 this rings a bell, was the person you're referring to from lnfoWars is his name Owen 
+2 Shroyer? 
+3 
+4 
+5 
+6 
+7 A Yes. 
+Q And just for the record, that's S-h-r-o-y-e-r. 
+A co-host of Alex Jones on lnfoWars? 
+A Correct. 
+Q What is the nature of Mr. Stone's relationship with Alex Jones from what 
+8 you've observed since 2018? 25 
+9 A He used to --I believe he worked, they worked together, worked for him on 
+10 the show. 
+11 
+12 Q 
+A I think you're talking about Mr. Shroyer and Mr. Jones worked together? 
+No. I think Roger worked with Owen on a show or something up until the 
+13 day when everything infamously happened. 
+14 
+15 Q What day are you talking about, just so I'm clear? 
+A I think after his --the arrest, January 2019. I think right after that I didn't 
+16 see him on the show anymore. 
+17 Q Oh, I see. Okay. So is December --why don't I ask this first: What about 
+18 Mr. Stone's relationship with Alex Jones directly, what did you understand, just based on 
+19 your perspective and knowledge, the nature of the relationship over those several years? 
+20 A I'd say they were colleagues because he worked for him. I don't know how 
+21 many times --I don't know when he would speak to him or anything like that. I don't 
+22 know the specifics of that. 
+23 Q So who worked for whom? You're saying Mr. Stone, he worked for Info 
+24 Wars run by Alex Jones? 
+25 A Correct, up until that point.  26 
+1 Q Okay. So that evening of December 11th, after you left the hotel and you 
+2 were coming back, it's that Mr. Stone saw Owen Shroyer using a megaphone. Is that 
+3 right? 
+4 A Yes. He either saw him or we could hear his voice, because it was him --I 
+5 don't know what he was saying, but he recognized him. 
+6 Q It's also been reported and there's video or footage that, when Mr. Stone 
+7 was in the company of Mr. Shroyer that evening and you, that Enrique Tarrio of the Proud 
+8 Boys was also there. Do you remember that? 
+9 Mr. Parrotta. He can answer that. 
+10 The Witness. What was the question again? 
+11 
+12 Q BYMR.-
+It's been reported and there's footage that Enrique Tarrio of the Proud Boys 
+13 was also there at the same time with Mr. Stone, Mr. Shroyer on that night of 
+14 December 11th of 2020. Do you recall Mr. Tarrio being there? 
+15 A When --when Roger went to go get the megaphone, yes, I believe he was 
+16 either standing behind Owen or next to him or behind that little crowd, that top step, 
+17 wherever that was, he was standing. 
+18 
+19 
+20 
+21 Tarrio? 
+22 
+23 
+24 
+25 Q 
+A 
+Q Did Mr. Stone know Mr. Tarrio prior to that day, to your knowledge? 
+To my knowledge, yes. 
+And what was the nature of the relationship between Mr. Stone and Mr. 
+Mr. Parrotta. Hold on one moment, please. 
+[Discussion off the record.] 
+Mr. Parrotta. We can continue. 
+The Witness. Yeah. I don't know the specifics of their relationship.  BYMR. 
+Did you understand them to be friends? 
+I would say they're friendly. 27 
+1 
+2 
+3 
+4 Q 
+A 
+Q And in what circumstances would you see them together, you know? Prior 
+5 to December of 2020, just on your own observations, how did you come to the view that 
+6 they were friendly? 
+7 A I --he would --the only time you would see this guy is he --obviously, it's 
+8 just like in my trial, same thing. He shows up to events, so that's the nature of seeing 
+9 him. He'll be at the event. I would see him when he comes in at the event, because 
+10 you can't kick people out. 
+11 
+12 
+13 Q 
+A 
+Q The "he" you're talking to is Enrique Tarrio? 
+Correct. 
+Our understanding is that, you know, from the time that Mr. Stone was 
+14 charged back in 2019 that Enrique Tarrio and other Proud Boys would show up to support 
+15 Mr. Stone, you know, whether a court or otherwise. 
+16 Did you have that same understanding based on what you saw? 
+17 
+18 
+19 
+20 
+21 Mr. Parrotta. One moment. 
+[Discussion off the record.] 
+The Witness. They seemed to support him. I just don't know the specifics. 
+BYMR.-: 
+Q It came up in Mr. Stone's case. Were you familiar with the fact that an 
+22 image was posted to Roger Stone's social media with the cross hair over the face of the 
+23 judge overseeing that case? Do you remember? 
+24 
+25 A 
+Q I remember that incident. 
+All right. And, as part of that incident, maybe you remember that Mr.  1 Stone told the court that he used other people to do some of his social media and that 
+2 one of those other people was Enrique Tarrio. Do you remember that? 
+3 
+4 
+5 
+6 
+7 Mr. Parrotta. Hold on one moment. 
+[Discussion off the record.] 
+The Witness. Yeah. I don't know who does his or who did his social media. 
+BYMR.-
+Q Were you aware of the fact that Mr. Stone had said one of the people was 
+8 Enrique Tarrio? 
+Publicly I remember reading about this --this incident. 28 
+9 
+10 A 
+Q And so how would Mr. Stone talk about Mr. Tarrio? Put aside the fact that 
+11 the Proud Boys and Mr. Tarrio would come to events. How would Mr. Stone talk about 
+12 him with you and his views of Mr. Tarrio? 
+13 
+14 
+15 
+16 Mr. Parrotta. One moment, please. 
+[Discussion off the record.] 
+Mr. Parrotta. We can continue. 
+The Witness. Yeah. We didn't really discuss him or the Proud Boys because I'm 
+17 not a fan of, we'll say, of them or, you know, I don't like them, so to speak. So we didn't 
+18 want to --he didn't bring that up around me. 
+19 Q So he had to have known that, so what did you tell him about why you were 
+20 not a fan of the Proud Boys? 
+21 A We don't have the --we'll just say, we don't have the same views nor is it a 
+22 good thing for a law enforcement person to try to be buddy buddies with the Proud Boys 
+23 or any one of these groups. 
+24 
+25 Q Did you --did you share that view with Mr. Stone that --
+Mr. Parrotta. I'm sorry. Hold on.  1 
+2 
+3 [Discussion off the record.] 
+Mr. Parrotta. We can continue. 
+The Witness. Yeah. I always just did my best to avoid this group or these 
+4 people, because I'm not --obviously, I can't stop them publicly if they come to a place. 
+5 When it's public, it's public, but if they're --we didn't discuss them or just, you know --I 
+6 always did my best never to bring them up or talk about them. 
+7 BYMR.-: 
+8 Q What, in particular, gave you concerns about the Proud Boys? Was it 
+9 engaging in violence or something else? 29 
+10 A Probably a little bit --it's just the stigma. Well, I mean, one of their --isn't 
+11 one of their mottos is drinking or something. I don't even drink. 
+12 
+13 Q 
+A So your problem with the Proud Boys is the fact that they would drink? 
+I'm saying that's one of their things, right? That they --it's public that they 
+14 drink a lot or they like to go drinking? 
+15 
+16 
+17 
+18 Mr. Parrotta. Hold on one moment. 
+[Discussion off the record.] 
+Mr. Parrotta. You can continue. 
+The Witness. Yeah, I just don't like a lot of the things they have advocated for or 
+19 have done. 
+20 BY MR. 
+21 
+22 
+23 Q 
+A 
+Q Does that include advocating for and engaging in violence? 
+Yes. 
+Did you share your concern with Mr. Stone that he was associating with 
+24 people who were associated with violence in this way? 
+25 Mr. Parrotta. Hold on one second.  30 
+[Discussion off the record.] 1 
+2 The Witness. It's not my business to tell him who he can or can't associate with, 
+3 if he is going to associate with someone or people. 
+4 BYMR.-
+5 
+6 
+7 Q 
+A 
+Q So, no, you never brought that up with him? 
+Not that I remember. 
+Now, another person who was photographed or filmed as being there the 
+8 night of December 11th of 2020 with Mr. Tarrio was a gentleman named Ethan Nordean, 
+9 also a Proud Boy. Do you know Mr. Nordean or know of him? 
+10 
+11 
+12 
+13 A 
+Q 
+A 
+Q I know of him. 
+And when did you first learn of him? Was it before that night? 
+I believe long before that night. It was some time in 2019. 
+Right. There's a photo, at least, within the press of you being at an event 
+14 where Mr. Nordean is present with other Proud Boys. You familiar with what I'm talking 
+15 
+16 
+17 
+18 
+19 about? 
+them. A 
+Q 
+A 
+Q Yes. 
+Is that where you first met him? 
+That's when I learned about what the Proud Boys --or I was learning about 
+And was that in connection with a demonstration about Mr. Stone's case, or 
+21 was it something else? 
+22 A No. It was just a regular rally. I was --it was some kind of rally that was in 
+23 D.C. or whatever that day. 
+24 Q And so what was the nature of your relationship with Mr. Nordean between 
+25 2019 and then when he was there on December 11th of 2020?  1 
+2 
+3 Mr. Parrotta. Hold on one moment. 
+[Discussion off the record.] 
+The Witness. I met him at that rally 2 years ago. It was an innocuous 
+4 conversation, just trying to find out about this group of people, and that was the gist of 
+5 ever speaking to this guy. 
+6 BY MR. 
+7 
+8 
+9 Q 
+A 
+Q Did you talk to him again the night of December 11th of 2020? 
+No. 
+Did you understand Mr. Stone to be associated with Mr. Nordean, to be 
+10 familiar with him in the same way he was with Mr. Tarrio? 
+11 A From what I --from what I know, I've never seen him speak to this man or 
+12 even look at this guy directly. I don't know about that night. I don't remember --he 
+13 was standing next to him, but I don't know if they spoke, so --
+14 Q There's another Proud Boy by the name of Joseph Biggs who has been 31 
+15 charged with Mr. Nordean and Mr. Tarrio, among others, in connection with January 6th. 
+16 Do you know who Joseph Biggs is or know of him? 
+17 A I know of him. 
+18 
+19 
+20 Q 
+A 
+Q Had you previously run across him as you had Mr. Nordean and Mr. Tarrio? 
+Yes. He also comes to events. 
+Did you understand him to have been a formally an employee of Info Wars, 
+21 the company run by Mr. Alex Jones? 
+22 A Yes. 
+23 Q And what would you say if you knew is the relationship between Mr. Stone 
+24 and Joseph Biggs, if any? 
+25 A I don't know --I don't know if they're friends or --I don't know their  32 
+1 relationship. 
+2 Q Did you yourself have any sort of relationship with Mr. Biggs, friendly or 
+3 professional? 
+4 A If --once again, if they're at an event, when they're there, they're there. 
+5 What are you going to do? 
+6 Q So you would run across him at events, but otherwise you weren't socializing 
+7 or talking with him? 
+8 
+9 A 
+Q No. 
+Now in terms of Mr. Stone's communications, how he would communicate 
+10 with people, not in person, but by phone, does he have any preferred method for 
+11 communication? Does he use encrypted apps like Signal or Telegram, or will he use his 
+12 cell phone and just call people regularly? What do you know about that? 
+13 
+14 
+15 
+16 A 
+Q 
+A 
+Q As far as communicating with people? 
+Yes. 
+There's text messages and I guess calling people. 
+Those are ways to do it. So you yourself when you communicated with Mr. 
+17 Stone, will you just do it through a regular phone if it's by phone, a regular phone call? 
+18 
+19 
+20 
+21 A 
+Q 
+A 
+Q My phone. 
+Yes. 
+So, in the past, that's what I would do. 
+Okay. Would he ever use if you, say, the app Signal, which allows you to 
+22 call through the app but not through over the phone wires. You familiar with that 
+23 capability? 
+24 
+25 A 
+Q Yes. 
+Does Mr. Stone communicate in that way? Has he done that with you  33 
+1 before an app like Signal? 
+Yes. I believe he's either has used it or he might be using it. 2 
+3 A 
+Q Okay. How about in terms of texting or messaging? Did Mr. Stone, when 
+4 it comes to you, would he send you messages through encrypted messaging apps like 
+5 Signal or something similar? 
+6 
+7 
+8 
+9 
+10 Mr. Parrotta. Hold on one moment. 
+[Discussion off the record.] 
+Mr. Parrotta. We can continue. 
+BYMR.-: 
+Q Mr. Greco, did you understand what I was trying to get at, just trying to 
+11 understand his communication methods, Mr. Stone, that is, and when it comes to 
+12 messaging when he would message --just start with you, would he prefer to use an 
+13 encrypted app, or would he use regular text messaging? How did that work? 
+14 
+15 
+16 
+17 A 
+Q 
+A 
+Q He has --he has texted me normal on the phone and also through Signal. 
+Did he ever express to you a preference to do one over the other? 
+No. 
+It's been reported that he had a Telegram chat. Telegram's an app like 
+18 Signal. Are you familiar with Telegram? 
+19 A Yeah, I'm familiar with Telegram. 
+20 Q It's been reported he had and we've seen copies of a Telegram chat called 
+21 "The Friends of Stone." Were you on that chat? 
+22 
+23 A 
+Q On Telegram? 
+Uh-huh. I believe it's Telegram or might be Parler. Do you know what I'm 
+24 talking about? 
+25 A This is news to me if it's Telegram.  Mr. Parrotta. Hold on one moment. 
+[Discussion off the record.] 
+Mr. Parrotta. Can you ask the question again about Telegram,1111? 
+BYMR.-34 
+1 
+2 
+3 
+4 
+5 Q And maybe I'm getting the app wrong. Let me just ask this: Did you know 
+6 Mr. Stone to have a group messaging chat between November of 2020 and January of 
+7 2021 called "The Friends of Stone"? 
+8 
+9 A I know about the group messaging app, yes. 
+Q Okay. And, if I got it wrong, which app did you understand that to have 
+10 been on? 
+11 
+12 
+13 
+14 A I believe it was Signal. 
+Q Okay. Were you a member of that Friends of Stone chat. 
+Mr. Parrotta. Hold on just one second. 
+[Discussion off the record.]  35 
+1 
+2 [2:00 p.m.] 
+Mr. Parrotta. We can continue. 
+BYMR.-3 
+4 
+5 
+6 Q 
+A Okay. Mr. Greco, were you a member of that chat group, Friends of Stone? 
+Yes. I was in the --the Signal --was --the Signal one. 
+7 Q It's been reported that Enrique Tarrio was also a member of Friends of 
+8 Stone. Is that right, to your knowledge? 
+9 A He might have been. I don't remember who's in there or whatever, how 
+10 many people it is. 
+11 
+12 
+13 
+14 
+15 Q So it wouldn't surprise you if Mr. Tarrio was on that? You just don't know? 
+Mr. Parrotta. Hold on one second. 
+[Discussion off the record.] 
+Mr. Parrotta. He can answer. 
+The Witness. Yeah. There could have been any --upwards of 40 or 50 people, 
+16 so I have no idea. I can't remember exactly who it was in there. 
+17 
+18 Q Okay. One other person it's been reported was a member of that chat 
+19 group was a gentleman named Elmer Stewart Rhodes, the founder of the Oath Keepers. 
+20 So I'll start with this: Do you know who Mr. Rhodes is? 
+21 
+22 
+23 
+24 A 
+Q 
+A 
+Q I learned of him after the date of --you know, in January. 
+All right. So this is the guy with the eye patch and wears the cowboy hat? 
+Correct. 
+All right. Did you know prior to the date that we're focused on that 
+25 Mr. Stone was associating with Mr. Rhodes?  1 A From --from my knowledge, I've never heard him bring him up or spoke 
+2 of --or he never --I never heard him say he spoke to him. We'll put it like that. 
+3 Q Did you hear Mr. Stone talk about the Oath Keepers as an organization, 
+4 though, prior to January 6th? 
+5 
+6 A 
+Q No. I didn't hear anything about no Oath Keepers. 
+Now, it's been reported, and there is photos of Mr. Stone having Oath 
+7 Keepers as security at "stop the steal" rallies before January 5th and 6th of 2021. 36 
+8 Were you aware that Oath Keepers were providing security to Mr. Stone for some 
+9 of those rallies? 
+10 
+11 
+12 
+13 
+14 Mr. Parrotta. One moment. 
+[Discussion off the record.] 
+The Witness. I --I didn't know anything about it. 
+BYMR.-: 
+Q All right. And how would you describe that Friends of Stone chat just as a 
+15 general matter? What was the point of it, the one that's on Signal and that you're a 
+16 member of, in the timeframe we're focused on, November of 2020 to January of 2021? 
+17 A It was basically --I think it was more of a who's --people post positive things 
+18 about Roger or anyone who is a Republican, you know, something like that. It was more 
+19 of a --posting things as far as, like --like --how can I --like a positive posting of 
+20 some --of --of him or conservative people online. 
+21 Q So who --and I understand you might not remember everyone who is on 
+22 that chat. Who were the other people that you know were a member of that chat 
+23 during the 3 months we're looking at? 
+24 A That's the thing. I don't --I can't recall, because it's so long ago now, and 
+25 it's so many people.  1 Q How about other people in Mr. Stone's orbit that would work closely with 
+2 him? I mean, are you familiar with Kristin Davis? 
+3 
+4 
+5 
+6 
+7 
+8 
+9 A 
+Q 
+A 
+Q 
+A 
+Q 
+A Yes. Of course, Kristin Davis. I know Kristin. 
+And what is the nature of Ms. Davis' relationship with Mr. Stone? 
+She's his secretary. 
+And has that been true since 2018 when you first met Mr. Stone? 
+From what I understand, yes. 
+How about Jacob Engels, E-n-g-e-1-s? 
+Jacob, I believe, he works on and off for Roger. He doesn't, like, work for 
+10 him every single --I don't know if he does things for him every day, because he also is a 
+11 journalist or --he works for a publication, I believe. 37 
+12 Q Did you know Mr. Engels to be, at least at one time, affiliated with the Proud 
+13 Boys? 
+14 A From what I --from what I understand, much like my trial was when they 
+15 asked me the same thing, I know him to --I believe he --he's written articles about them. 
+16 I don't know him to ever actually be a member of this group, nor does he practice the 
+17 same things or whatever these people believe in or --I believe the guy hasn't even 
+18 received a parking ticket. 
+19 
+20 
+21 
+22 
+23 
+24 to be? 
+25 Q 
+A 
+Q 
+A 
+Q 
+A How about Enrique de la Torre? Do you know Mr. de la Torre? 
+Enrique de la Torre? 
+Correct. Also goes by Enrique Alejandro? Do you know -­
+Yes. I know who Enrique Alejandro is. 
+Okay. And what do you understand Enrique's relationship with Mr. Stone 
+I believe he also --he works --I think he does, like, video stuff maybe for  38 
+1 him. From what I --I mean, that's as much as I can remember. 
+2 Q Now, after December 11th, it was reported that --I think on December 27th, 
+3 Roger Stone met with President Trump at President Trump's golf club in Florida a few 
+4 days after the President had pardoned Mr. Stone. 
+5 Are you aware of the fact the two men saw each other in and around that time? 
+6 
+7 
+8 
+9 
+10 Mr. Parrotta. One moment. 
+[Discussion off the record.] 
+The Witness. Only from the public media. 
+BYMR.-
+Q Did you have any advance knowledge, or did Mr. Stone tell you that he was 
+11 expecting to be pardoned by the President? I think it was on December 23rd, on or 
+12 about. 
+13 A No. Never --never mentioned anything about it --we were --the only 
+14 thing I could say is everybody was hoping and praying that that could happen. 
+15 Q Now, did --did Mr. Stone tell you --from the point of after the election, 
+16 through to January 6th, did you know Mr. Stone to be in touch with President Trump at 
+17 all, just as a general matter, other than seeing the report about that meeting at the golf 
+18 club? 
+19 
+20 
+21 
+22 
+23 A No. 
+Mr. Parrotta. One moment. You can answer. 
+The Witness. No. 
+Q Did you understand during that same time period, Mr. Stone to be in touch 
+24 with anyone at the White House about --and I'm just focused on the election issues. So, 
+25 after the election through January 6th, did you know Mr. Stone to be in touch with  39 
+1 anyone at the White House? 
+2 
+3 A 
+Q No. 
+Did you understand Mr. Stone generally to have any connections at the 
+4 White House other than President Trump? 
+5 A I would be honest. I've never heard him mention anyone from the White 
+6 House or speak to anyone from the White House. Not in front of me, anyway, if there 
+7 was --I don't know the specifics of anything, but --
+8 Q How about President Trump's reelection campaign? Did you know 
+9 Mr. Stone to be in touch with anyone within the campaign after the election and up 
+10 through, say, January 6th? 
+11 
+12 A 
+Q No. Not that I know of. 
+Who, if anyone, within President Trump's orbit did Mr. Stone talk about 
+13 being in touch with that you know of? And I'm using a general term because, if it's not 
+14 the White House or not the campaign, was there anyone else he would talk to you about 
+15 that was close to President Trump that Mr. Stone himself was in contact with? 
+16 
+17 
+18 Mr. Parrotta. One moment. 
+[Discussion off the record.] 
+The Witness. I don't know of anyone that he spoke to around the President 
+19 during this time. 
+20 Mr.- Let me see. Now, I'll just say for the record, I had estimated 1:30, 
+21 Mr. Greco, but that was under the understanding that you were going to, you know, 
+22 invoke as to all the questions. So appreciate you answering. That's the only reason 
+23 why this is taking longer, and --
+24 
+25 The Witness. I apologize. 
+Mr. - Which is not a way to discourage you. I just want to be mindful of  40 
+1 what I had said, so --
+2 BYMR.-
+3 Q It's also --let me ask this: There was public reporting about two Danish 
+4 filmmakers doing a documentary on Mr. Stone and --for several years up through January 
+5 of 2021, following Mr. Stone around at certain points. 
+6 So were you aware of the fact that he had these filmmakers filming him? 
+7 
+8 A Yes. 
+Q And one of the things they filmed was, on November 5th of 2020, Mr. Stone 
+9 talking to General Michael Flynn about "stop the steal." 
+10 Did you know Roger Stone to be friendly with General Flynn. 
+11 
+12 
+13 
+14 Mr. Parrotta. Just one moment. 
+[Discussion off the record.] 
+Mr. Parrotta. We can continue. 
+The Witness. I don't know --I don't know the specifics of --of his relationship, if 
+15 he had one with General Mike Flynn. 
+16 BYMR.-: 
+17 Q Would you know them to at least be in touch with one another, whatever 
+18 the nature of the relationship, that they would communicate with one another? 
+19 A Again, I don't --I don't know the specifics if they did or they didn't. He 
+20 never --I've never discussed Mike Flynn with him. 
+21 Q Now, he --the reporting on the filmmakers shows them having captured 
+22 footage of you and Mr. Stone together at certain points. I'm just asking generally: Is it 
+23 right that they filmed the two of you together, at least at certain points, over the course 
+24 of their work? 
+25 A I believe so, yes.  1 Q I'm going to transition --well, before I get to the days, January 5th and 6th, 
+2 I'll start with this: Did you know a woman named Julie Fancelli prior to those days? 
+3 Were you aware of who that was? 
+4 
+5 
+6 
+7 
+8 A I --Julie Fancelli? 
+Mr. Parrotta. If you don't know, you don't know. 
+The Witness. I don't --I don't recall this. I don't recall the person. 
+BYMR.-
+Q She's been described as the heiress to the family that created the grocery 
+9 store chain Publix, P-u-b-1-i-x. I don't know if that rings a bell for you. 
+10 
+11 
+12 
+13 A I know the store, but I don't know this --
+Mr. Parrotta. Okay. 
+BYMR.-
+Q All right. So did you --I just have to round this out. Do you know --had 
+14 you ever heard Mr. Stone talk about Julie Fancelli prior to January 5th or 6th of 2021 --
+15 
+16 A No. 
+Q --that you know? No. All right. 41 
+17 Now, she's been reported to have been the person who funded much, if not all, of 
+18 the rally that took place at the Ellipse on January 6th of 2021, so I'm just providing that by 
+19 way of background. 
+20 
+21 A Okay. 
+Q Did Mr. Stone ever discuss with you prior to you two being in --to the events 
+22 in D.C. on the 5th and 6th --did he ever discuss with you that he was involved in planning 
+23 for protests or rallies that were going to take place in Washington on the 5th and 6th? 
+24 
+25 A 
+Q No. 
+Do you remember when you first learned that Mr. Stone was planning to  42 
+1 travel to Washington to be there on the 5th and 6th of January of 2021? 
+2 A It's either the last days of December or --I believe it was the last days of 
+3 December. 
+4 Q And what did Mr. Stone tell you about what was going to happen in D.C. and 
+5 why he was going to be there? 
+6 A Originally, he was --he had said that he was --he was asked to speak at 
+7 a --at the event, and we weren't --he wasn't 100 percent sure that this was going 
+8 to --that he was going to go to the event, because it was a little back and forth. So it 
+9 wasn't 100 percent until maybe I knew like --one of the first couple of days in January 
+10 that that was going to happen. 
+11 Q Did Mr. Stone provide you any more color about what the back and forth 
+12 was about and who it was with over whether he would speak? 
+13 
+14 
+15 D.C.? 
+16 
+17 A 
+Q 
+A 
+Q That, no. I don't know the specifics of any of that. 
+Did Mr. Stone say whether or not he was being paid to appear to speak in 
+I don't know any of the specifics of payments. 
+Did Mr. Stone talk about who else might be speaking at the event or events 
+18 that he was aware of? 
+19 A No. I didn't --he didn't tell me anything about who is going to be there or 
+20 anything. I mean, I have no knowledge of any specifics of the --of any of those rallies. 
+21 Q Did you understand that President Trump would be speaking at the event, 
+22 though, at least? 
+23 A The --the event that you're speaking about, I believe, is separate. That was 
+24 the one that was supposed to be at the Ellipse, right? 
+25 Q The President did speak at the Ellipse, yes, on the 6th?  1 
+2 A 
+Q Okay. That --yeah, that's separate. 
+Okay. So what event or events was Mr. Stone talking to you about in the 
+3 lead-up to that day? 
+4 A The --what was that? The one about the January 5th --the original one 
+5 that he actually spoke at. There were two rallies he spoke at that day, and there was 43 
+6 one --the one from the 6th, I believe, was just another rally he was supposed to speak at. 
+7 Q So the ones at the 5th, you talked about two. One was at the Supreme 
+8 Court, and the other was at Freedom Plaza? 
+9 A Correct. 
+10 Q And the one on the 6th, was that supposed to be, you know, near the Capitol 
+11 itself in the afternoon of the 6th? 
+12 A Yeah. There was something --some --some --I don't know exactly where 
+13 it was supposed to be, but I know it was supposed to be a speech given somewhere 
+14 around that --you know, day area. I don't know --you know. 
+15 
+16 Q 
+A I apologize. Go ahead. 
+No, I'm saying I don't know exactly the areas of D.C., so I'm not aware --even 
+17 when I left, I always get lost when I go there. 
+18 Q I feel the same way in New York, so --why was Mr. Stone telling you about 
+19 January 5th and 6th? And maybe the other way to ask this was: Was he asking you to 
+20 come with him to the city for those days? 
+21 A He wanted --he --he wanted me to --you know, he wanted me to be there 
+22 with him, you know, like support him, be his friend. But he just didn't --we just didn't 
+23 know who was going to be at the event. 
+24 Q When you say to support you as a friend --to support Mr. Stone as a friend, 
+25 did he ask you to provide security for him, either or both of those days in January?  Mr. Parrotta. One moment. 
+[Discussion off the record.] 
+Mr. Parrotta. We can proceed. 44 
+1 
+2 
+3 
+4 
+5 
+6 
+7 Mr.- Mr. Greco, do you remember what I was asking when we stopped? 
+The Witness. Yeah. 
+Mr. Parrotta. Refresh our recollection. I forget. Sorry. 
+Mr. - I don't know. You guys seemed to be talking about it, but I'll ask 
+8 again, Mr. Parrotta. 
+9 BYMR.-: 
+10 Q Mr. Greco, did Mr. Stone ask you to --you know, to help provide security for 
+11 him on January 5th and 6th? 
+12 
+13 A No. I was --I was there as his friend, not as security. 
+Q What did you understand about what Mr. Stone's plan was for security on 
+14 those 2 days, if anything? 
+15 
+16 
+17 
+18 A As far as security-wise? 
+Q Correct. 
+A I was --from what I understood, there was supposed to be security there. 
+Q All right. Is that standard for Mr. Stone when he makes public 
+19 appearances, to have some sort of security with him? 
+20 
+21 A It depends if the rally or where it's at and the size of the rally. 
+Q All right. But, for a rally of this sort, with this many people expected to 
+22 come, it was typical for Mr. Stone to have personal security? 
+23 A I would --I would venture to say, with a crowd that would be that big, he 
+24 probably should have a lot of security with him --
+25 Q Okay.  1 
+2 45 
+A --or anybody in general, anybody who is speaking. 
+Q And so, did he talk --did Mr. Stone talk to you at all before January 5th and 
+3 6th about who in particular was going to provide security for him? 
+4 Mr. Parrotta. One moment. 
+5 [Discussion off the record.] 
+6 Mr. Parrotta. _, I think at this point, my client --being that it's leading 
+7 up to, like, January 4th, 5th, and 6th of 2021, from this point on, we're going to be 
+8 asserting the Fifth Amendment. 
+9 Mr.- Okay. Well, then --understand that, Mr. Parrotta. We'll need 
+10 Mr. Greco to say that in response to the question, so I'll just ask again so we have a clear 
+11 record. 
+12 BYMR.-
+13 Q Mr. Greco, did Mr. Stone --prior to January 5th and 6th of 2021, did 
+14 Mr. Stone tell you specifically who was going to provide security for him on those 2 days? 
+15 
+16 
+17 
+18 Mr. Parrotta. Say you're asserting the Fifth. 
+The Witness. I'm asserting the Fifth Amendment. 
+BYMR. 
+Q It's been reported publicly --and I understand that --let me ask this: 
+19 During your disciplinary hearing, did you testify about what you did personally on 
+20 January 5th and 6th in Washington, D.C.? 
+21 [Discussion off the record.] 
+22 
+23 
+24 The Witness. Yes. I believe so. 
+BYMR.-
+Q And it's also been reported that you talked about the fact that, on those 
+25 2 days --that is, January 5th and 6th --that you testified about Roger Stone having  1 security provided by the Oath Keepers. 
+2 Did you testify about that at your hearing? 
+3 
+4 
+5 
+6 
+7 
+8 
+9 Mr. Parrotta. One moment. 
+[Discussion off the record.] 
+Mr. Parrotta. We can proceed. 
+Q 
+A BYMR.-
+Mr. Greco, do you need me to restate the question? 
+No. I believe that the --
+The Witness. What was it? I believe that he had --I believe it was the Oath 
+10 Keepers with security. 
+11 
+12 
+13 
+14 
+15 
+16 Mr. Parrotta. You believe that you testified to -­
+The Witness. That I testified to --
+Mr. Parrotta. At the NYPD trial. 
+The Witness. At the NYPD trial. 
+BYMR.-
+Q Okay. That's all we're trying to ask about, the same stuff you already 46 
+17 testified about, and trying to understand that. So I'll come back to the fact --1 mean, did 
+18 you --when did you learn that Mr. Stone was having Oath Keepers provide security for 
+19 him on January 5th and 6th? When did you first learn that? 
+20 
+21 
+22 Mr. Parrotta. One moment. 
+[Discussion off the record.] 
+Mr. Parrotta. Mr- you know what? Ask the question again. We're 
+23 going to try to get through this, I think. 
+24 Mr- Okay. 
+25 BYMR.- 47 
+1 Q How did you first learn that Mr. Stone was having Oath Keepers provide him 
+2 security on January 5th and 6th, Mr. Greco? 
+3 A I believe it might have been a day or two or somewhere in that range that he 
+4 had told --you know, he said that these guys --this guy or whatever, the Oath Keepers, 
+5 were going to be the security for --for him or the event. 
+6 Q Now, did you know who the Oath Keepers were at that time? From having 
+7 been at other rallies, like where the Proud Boys showed up, were you familiar at least 
+8 with the organization, the Oath Keepers? 
+9 
+10 A To the best of my knowledge, I never heard of who these guys were until --
+Q Okay. How did Mr. Stone say he came to be in touch with them such that 
+11 they'd be providing him security in D.C. on the 5th and 6th? Did he tell you? 
+12 
+13 A 
+Q No. He never --he never went over specifics. 
+Do you remember --now, I know you came --when did you arrive in D.C.? 
+14 Did you come on January 5th? 
+15 
+16 
+17 
+18 
+19 
+20 
+21 A Correct. On the 5th. 
+Q And you ended up staying at The Willard. Is that right? 
+A That's correct. 
+Q And did you leave on the 6th in the afternoon? 
+A I left around --I believe it was 4:45. 
+Q Went back home to New York? 
+A That --well, I --we drove --drove Roger to the airport. And then, from the 
+22 airport, I went home. 
+23 Q Okay. In terms of the Oath Keepers, when did you first personally interact 
+24 with them yourself, the security team that Mr. Stone had? Was it at the Supreme Court 
+25 event on January 5th, or was it before that?  48 
+1 A No. The morning of the 5th. 
+2 Q Okay. And so who did you meet, and how did they get introduced to you? 
+3 How many of them were there? Just how did that work? 
+4 A I met, I believe, with --the guy's name was Josh, was the one that you hear 
+5 about in my trial all the time. I met them somewhere else to --some other location. It 
+6 wasn't where we were at at the hotel. I went to --with him to go to pick up Roger at the 
+7 airport, and were four other --the five people that guarded him that day were the five 
+8 people that were there. 
+9 
+10 
+11 
+12 
+13 Q Okay. How did you first get in touch with Josh? 
+And we'll say his full name is Joshua James. Does that sound right? 
+A 
+Q 
+A Correct. 
+Okay. How did you --who put you in touch with Mr. James? 
+It was --it was Roger gave me a number to call, and said, This is Josh. 
+14 Q And do you remember how he gave you that number? Was it by a text 
+15 message, or was it by messaging app? Did he call you and tell you? 
+16 A I don't know if it was a message or he called or something. I know --I just 
+17 know I have it, that the --the number he said to call. 
+18 
+19 Q 
+A So, do you remember where you met Mr. James to pick him up? 
+Like I said, I don't know D.C. that well. I just know it was another spot in 
+20 D.C. And then from there is where his car was. And then from there is --we went 
+21 straight to the --the airport. 
+22 Q Do you remember the names of the other people --of the five in the security 
+23 detail that you dealt with? 
+24 A No. I don't remember their names at all. I don't even know if I had their 
+25 names, to be honest.  49 
+Q Were any of these guys armed with firearms, to your knowledge? 1 
+2 A To the best of my knowledge --and, trust me, I wanted to see if this was --I 
+3 didn't see any weapons on them. 
+4 
+5 Q 
+A Did you ask them if they were armed at any point during those 2 days? 
+I don't remember asking them. I do remember looking at them to see if I 
+6 see anything on them. 
+7 
+8 
+9 Q And you didn't see anything on them? 
+A 
+Q I didn't see anything that stuck out. The car was clean. His car was clean. 
+Did Mr. James or any of the other four tell you that they had firearms, 
+10 though, even if you didn't see them? 
+11 
+12 A No. I don't remember hearing any --I never heard anything like that. 
+Q And just what was your general impression of Mr. James and the other four 
+13 people in the security detail from your time spent with them over those 2 days? 
+14 
+15 
+16 
+17 
+18 
+19 Mr. Parrotta. Hold on a second. 
+[Discussion off the record.] 
+Mr. Parrotta. Go on. 
+The Witness. They seemed very professional. 
+BYMR-
+Q Did they talk --did any of them talk with you at all about the Presidential 
+20 election, that you recall? 
+21 
+22 A 
+Q I don't remember specifics if there was any small talk, things like that. 
+Did they talk at all about the --at any point about the joint session of 
+23 Congress that was scheduled for January 6th to certify the Presidential election? Did 
+24 that come up at all? 
+25 A No.  1 Q Okay. Did they talk to you about how it is they got hooked up with 
+2 Mr. Stone to provide him security, how that worked? 
+3 
+4 A 
+Q No. I don't remember ever hearing anything like that. 
+Did they discuss whether or not they were being paid for their efforts to 
+5 protect Mr. Stone? 
+6 A I don't --I don't know how they got --if they were getting paid or who was 
+7 paying --I don't know the specifics of the --who is paying who for what around here. 
+8 Q So did you --did the --I guess it would have been the six of you? Is that 
+9 right? The five of them plus you went to pick up Mr. Stone? 
+10 A 
+11 Kristin. Yeah. There was --there was five of them and me to pick up Roger and 
+And did you pick them up --it was from an airport? 
+Yes. 
+Did Ms. Davis and Mr. Stone --did they fly on a private jet? 50 
+12 
+13 
+14 
+15 Q 
+A 
+Q 
+A I don't remember if it was a private jet or a regular --I don't know how --the 
+16 airports, it's different in, like, Newark or whatever airports around here. It's Dulles, or 
+17 whatever it is. It's a different airport. I don't know --
+18 Q Did you pick them up from --did you pick them up from what looked to be a 
+19 small area --like what might be consistent with where private jets arrive at Dulles, or was 
+20 it from the main terminal? Do you remember? 
+21 A I don't remember. It sounded like a regular --you know, this is a 
+22 different --I've never been to this airport before. 
+23 Q Okay. Fair enough. Where did you take Mr. Stone and Ms. Davis after 
+24 you picked them up? 
+25 A We went straight to the hotel.  1 
+2 
+3 Q And that's The Willard? 
+A Correct. 
+Q And who was paying for --do you know who was paying for Mr. Stone's 
+4 room at The Willard? 51 
+5 A I don't know --I don't know the specifics of who's --who paid for the room, 
+6 or if the room was under his name or somebody else paid --that, I don't know. 
+7 Q And so you got back to the hotel. And did the --I'll call them the Oath 
+8 Keepers, the five-security detail. Did they wait there until Mr. Stone left to go to the 
+9 Supreme Court for his first appearance, to your knowledge? 
+10 A You mean, what were the --those Oath Keepers, security guys, what were 
+11 they doing? 
+12 Q Yeah. Did they stay there at the hotel and wait for you all to then go to the 
+13 Supreme Court? 
+14 A Yeah. From --from what I can remember, I just remember them 
+15 being --they were either outside the hotel or in the lobby. 
+16 Q And do you remember what time you all made your way over to the 
+17 Supreme Court, just roughly? 
+18 A I can't remember exact --I don't remember the timing. I remember it was 
+19 in the --it had to be in the afternoon, I'd say. 
+20 
+21 
+22 Q Still light outside? 
+A Yeah. 
+Q All right. And you accompanied Mr. Stone to the Supreme Court with the 
+23 Oath Keepers security? 
+24 
+25 A Yes. 
+Q And then, just generally, at the event, at the Supreme Court, anything out of  52 
+1 the ordinary take place while you were there that you can remember? 
+2 A It was just --basically, it was just people --they were --they seemed very 
+3 happy. They were all asking for autographs from him or whatever and taking pictures. 
+4 Q Was Alex Jones or Owen Shroyer there at that rally that you remember? 
+5 A No, he was not. Not at the first one. 
+6 Q And was Stewart Rhodes --who you now know to be Stewart Rhodes, the 
+7 eye patch, founder of the Oath Keepers --did you see him at that rally? 
+8 
+9 A 
+Q I --I have never seen this guy in person. 
+With regard to the security detail of Oath Keepers, was --was it your 
+10 impression that Joshua James was running the detail, or was it one of the other guys in 
+11 charge, so to speak? 
+12 A From what I --from what I remember, I would believe that Josh was the 
+13 person in charge of the group. 
+14 Q Did you understand Josh to be reporting up to anybody else in the Oath 
+15 Keepers about the work he was doing? 
+16 A Not that I know of. I don't know the specifics about that. 
+17 Q Are you familiar with a gentleman --an African-American gentleman who 
+18 was working with the Oath Keepers who goes by the nickname, or call sign, Whip? Did 
+19 you meet him? 
+20 A You know, on that day, with so many people out there --there is thousands 
+21 of people that came up to all of us, so I don't know --I don't want to say something, and 
+22 then it turns into, you know --
+23 Q I'm just --you know, all we're asking is the best of your recollection. 
+24 understand there is a lot going on, so do you remember meeting a gentleman --his full 
+25 name is Michael Simmons or Michael Greene, but an African-American, goes by Whip,  1 and was working with the Oath Keepers? Do you remember meeting him? 
+2 
+3 
+4 
+5 
+6 
+7 
+8 next? 
+9 
+10 
+11 
+12 A I don't want to say yes or no, because I don't know if he --
+Mr. Parrotta. You don't recall. 
+The Witness. I don't recall. 
+Mr.- Okay. 
+BYMR.-
+Q After Mr. Stone was done speaking at the Supreme Court, where did he go 
+A From the Supreme Court, we went back to the hotel. 
+Q That's The Willard? 
+A Correct. 
+Q All right. And then, between then, when you got back, and the Freedom 
+13 Plaza event, did Mr. Stone go anywhere outside of The Willard Hotel? 
+14 A Not outside --no. We didn't leave the hotel until it was --that rally, the 
+15 next one. 
+16 Q Prior --so, from the time you're back at the hotel and in the next rally, 53 
+17 Freedom Plaza, did Mr. Stone meet with anybody in The Willard Hotel that you know of? 
+18 
+19 
+20 A Yes. 
+Q Who? 
+A Alex Jones and --basically the roomful of people that had --Alex Jones' crew, 
+21 they were --whatever they were filming, he went to his room. 
+22 
+23 Q 
+A Did you go with Mr. Stone to that room? 
+Originally, I did. Then I believe I --I had to go back to my own room for 
+24 something. I needed --I don't know, whatever --maybe to go to the bathroom. I don't 
+25 remember. But then I went back to the room about --whatever it was, 10, 15 minutes  54 
+1 later. 
+2 Q And about how long would you say Mr. Stone was in the room together with 
+3 Mr. Jones and his crew? 
+4 A I can't put a time --I don't know --I don't want to say. It was maybe 
+5 20 minutes or 30 minutes or something like that. It couldn't have been that long. 
+6 Q Just simple question. How did you all know, or how did Mr. Stone know 
+7 that Mr. Jones was there? Do you know how that --they hooked up with each other 
+8 that day? 
+9 
+10 
+11 
+12 
+13 
+14 A 
+Q 
+A 
+Q 
+A 
+Q 
+15 Mr. Stone? 
+A 
+Q 
+A 
+Q That, I don't know. I don't remember that. 
+Was Owen Shroyer in the room with Mr. Jones? 
+Yes. Owen Shroyer was there. 
+Was Jacob Engels in town with you all that day, January 5th? 
+Yes. Jacob was also there. 
+Okay. He was also at the --at the --at Alex Jones' room with you and 
+He came --I believe it was very brief. 
+Ms. Kristin Davis was also in D.C. with you all? 
+Yes. 
+As you said from the airport. That's right. 16 
+17 
+18 
+19 
+20 
+21 
+22 Did she come up to the meeting with Mr. Jones? 
+A No. 
+Q Now, had the two Danish documentarians gotten to the hotel by that point 
+23 that day? 
+24 
+25 Or how about this: When do you first remember seeing them? 
+A I remember seeing them on the --on the morning of the 6th.  1 
+2 
+3 Q 
+A 
+Q Okay. On the morning of the 6th, not before that? 
+I don't remember if they were on the 5th. I don't remember that. 
+Okay. Who else was in the room with Alex Jones, Mr. Shroyer, and his 
+4 crew? Do you remember anybody else in particular? 
+5 A I don't know the names of whoever works for him, but the --obviously, 55 
+6 it's --the guys that work for him were there, and then there was --I guess this is the part 
+7 where --there is a part where General Mike Flynn walks in, because that's when he did 
+8 that interview he was going to do with him. 
+9 And that's when I left and Roger left, and whoever else was, you know --because 
+10 we had a bunch of people with us. Well, he did. And he brought them back to his 
+11 room, and then that's when the other rally was going to start. So we went back to the 
+12 room after that. 
+13 Q I just want to make sure I understand. 
+14 So the group of you were in Mr. Jones' room until General Flynn showed up for his 
+15 interview, and then, at that point, you all left? 
+16 A Well, I had --remember, I went back to my room, and I came back down. 
+17 And then, within a couple of --whatever it was, a few minutes, then we went back to 
+18 Roger's room. 
+19 Q Okay. But it was when Ms. --when General Flynn came in --and I 
+20 understood you left and came back. But, once General Flynn came in, you and 
+21 Mr. Stone --you exited the room and went back? 
+22 
+23 A 
+Q Correct. 
+All right. Why? Did you have to leave? Was there not room enough in 
+24 there for General Flynn, or what was the reason for exiting at that point? 
+25 A I believe --well, you could watch the interview. The interview was actually  56 
+1 on the show, because he was doing the interview in the room. You know, didn't want all 
+2 of us --because there is nowhere to go. It's a suite. It wasn't --you know, it would 
+3 have been crowded in the back of the room. 
+4 Q Did Mr. Stone connect with General Flynn, to your knowledge, at any point 
+5 later that day through the end of the 5th? 
+6 
+7 A 
+Q No. 
+And putting aside the rally at Freedom Plaza, which we'll get to in a minute, 
+8 did Mr. Stone connect with Alex Jones again through the end of January --of the 5th, that 
+9 you know of? 
+10 A That I know of, no. 
+11 
+12 
+13 Q 
+A 
+Q How about Owen Shroyer? Same question. 
+No, not that I know of. 
+Now, at this point on the 5th, were you aware of the fact that Enrique Tarrio 
+14 had been arrested the day before in D.C.? 
+15 A Yeah. It was public knowledge. 
+16 Q Yeah. Did you know Mr. Stone to have reached out to Mr. Tarrio on the 
+17 5th at any point after Mr. Tarrio was released from jail, to talk to him? 
+18 A I wouldn't know from any --I don't know of his communications, if he had 
+19 any with anybody. The specifics, if he --if he asked about him or --I don't know. He 
+20 didn't bring it up. 
+21 Q Did he express any concern to you --that is, Mr. Stone express any concern 
+22 to you about Mr. Tarrio and the fact of the arrest? Did you all discuss it at all? 
+23 A I believe we didn't know --I didn't even know the --I personally didn't know 
+24 the facts. We were waiting for everything to come through, because, you know, when 
+25 you --I know when you --just because someone is under arrest, you need a while to find  1 out exact all the facts, so --I mean, there was still --that case was ongoing, so nobody 
+2 really knew --you only know on, you know, this one's reporting this, that one's 
+3 reporting --because it was online. 
+4 Q But it was a topic of conversation with Mr. Stone about what was going on 
+5 with Mr. Tarrio? 
+6 A No. No. He --he --on --on that day, he was --I think he was more 
+7 concerned about what he wanted to eat at that time coming out of Jones' suite. 
+8 Q We had information that Mr. Stone may have tried to get in touch with 
+9 Mr. Tarrio to talk about whether he could get a pardon or something to that effect. 
+10 Are you aware of any conversations like that? 
+11 
+12 A 
+Q No. Never heard anything like that. 
+All right. So the Freedom Plaza rally, when --did you go with Mr. Stone 
+13 over to that when it was for --time for him to speak? 
+Yes. 57 
+14 
+15 A 
+Q All right. And did the five Oath Keepers that had --you know, Josh and his 
+16 team, did they also accompany you and Mr. Stone to that event? 
+17 
+18 A 
+Q 
+19 you all --
+20 
+21 
+22 
+23 
+24 A 
+Q 
+A 
+Q 
+A Yes. 
+All right. Do you --it was in the evening, right? It was dark outside when 
+Yeah. 
+Is that right? 
+Yeah, it was dark. 
+Do you remember about what time it was? Do you remember? 
+I don't know if it was 6:00, 7:00 --it could have been 8 o'clock, 7:00. It 
+25 was --I can't tell you the exact time. I just remember it was dark, because it's January,  58 
+1 so the sun [inaudible]. 
+2 Q Now, did you all --when you went over, was it --did you spend any time 
+3 listening to other speakers, or you got there, and it was time for Mr. Stone to go on 
+4 stage? 
+5 A There might have been --he --I think he ended that show, right, or 
+6 something like that? 
+7 Q So it was towards --so you don't remember hearing other people speak? It 
+8 was --
+9 A It was --there might have been someone else speaking or --I just don't 
+10 remember who now. There might have been people speaking, but he has to wait until 
+11 he's got to go up there, so he's got to be waiting in that tent or whatever that little room. 
+12 
+13 Q 
+A Okay. Did you see Mr. Jones and Mr. Shroyer there at that time? 
+I don't know if they were --either they might have just spoken, or they had 
+14 already spoken. That part, I don't remember. I don't --I think they were supposed to 
+15 speak. I just don't remember if I was there for that, because, like I said, when I went 
+16 there, somebody else got up and speak. I just don't remember who or what. 
+17 Q So the last time you remember seeing Mr. Jones and Shroyer was the --on 
+18 the 5th when you were up in their room, or did you see them on the 6th? 
+19 A I saw them on the 5th. And, like I said, they might have been on the stage. 
+20 I don't remember, because I --we never got to the stage until the very end. But, on the 
+21 6th, I don't --I did not see either one of those guys. 
+22 Q Okay. So, then, whatever interactions you had with Jones and Mr. Shroyer 
+23 on the 5th in the room and then maybe at the rally or not, did you ever hear them 
+24 discuss, either with you or other people, about what was going to happen on January 6th 
+25 at all? Was that a topic of conversation that you heard them -- 1 
+2 A No. No. Nobody --nobody was talking about anything like that. 
+Q And I don't mean the attack on the Capitol. I just mean generally their 
+3 expectations or what was going to just happen the next day on the 6th? 
+No. 59 
+4 
+5 A 
+Q Is it right that Ali Alexander introduced Mr. Stone before Mr. Stone spoke at 
+6 the Freedom Plaza event? 
+7 A He might have. He might have. I remember him --this is what I mean 
+8 when he --walking by me. That's the one time I remember him just walking by up to --I 
+9 believe to the stage. 
+10 Q Uh-huh. All right. So you don't remember --did you yourself have any 
+11 conversation with Mr. Alexander that you can recall on the 5th or the 6th? 
+12 
+13 A No. 
+Q And did you see Mr. Stone talking with Mr. Alexander that you can 
+14 remember on the 5th? 
+15 A Not that I remember, no. I don't see him on the --I didn't see him until 
+16 when he walked by. Like I said, it was very brief. 
+17 Q So, after the event at Freedom Plaza, was there --well, I should say: During 
+18 Mr. Stone's appearance and while he was there at Freedom Plaza, anything out of the 
+19 ordinary that you observed or heard? 
+20 
+21 A 
+Q 
+22 speaking? No. 
+Did you guys go back to The Willard Hotel after Mr. Stone was done 
+23 
+24 A Correct. 
+Q And understand that Mr. Stone left to go to a hair appointment that evening. 
+25 Is that right?  1 
+2 A 
+Q 60 
+Yes. 
+Right. Between the time of getting back to the hotel from Freedom Plaza 
+3 and leaving to go to the hair appointment, did Mr. Stone go anywhere else outside of the 
+4 hotel that you know of? 
+5 
+6 
+7 right? 
+8 
+9 A No. 
+Q We understand you went with Mr. Stone to his hair appointment. Is that 
+A Yes. 
+Q All right. It was a personal appointment when the shop was already 
+10 closed? 
+11 
+12 A 
+Q Correct. 
+Now, I have to ask: Why did he wait after his first public appearance to get 
+13 his hair done instead of getting it done before his public appearance events of that day? 
+14 Do you know? 
+15 A I have no --I don't know exactly why he would do something like that, but 
+16 that --probably, I would guess --my best guess is the timing was way off. 
+17 Q All right. And, as of --after that hair appointment, where did the --where 
+18 did Mr. Stone go? Did you guys go back to the hotel? 
+19 A He went straight to the hotel, and he went right into his room. I didn't see 
+20 him until the next morning. 
+21 Q How about the Joshua James and the Oath Keepers? Did they come --did 
+22 they come with you to the hair appointment? 
+23 
+24 
+25 A 
+Q 
+A No. 
+Do you know what they were doing the evening of January 5th? 
+I have no idea.  61 
+1 Q They didn't talk to you about where they were going, who they were seeing, 
+2 just anything about what they were up to that night? 
+3 
+4 
+5 at? 
+6 A 
+Q 
+A Nope. 
+Do you know where they were staying? Did they say what hotel they were 
+No. I don't remember where they were staying or where they were going, 
+7 or --I have no idea where those guys were going. 
+8 Q What was the plan, then, for the next day when --you know, you put your 
+9 head on the pillow the night of January 5th. You expected what, in terms of schedule, 
+10 to happen on the 6th, the next day? You were going to go where? Mr. Stone was 
+11 going to go where? Just walk us through what you expected. 
+12 A The issue with the 6th was the Ellipse. You can't get into the Ellipse 
+13 without tickets to that event. And as you could see when I testified, I went with Josh to 
+14 try to get not only my ticket and everyone else's ticket, because that --you can't get in 
+15 without them. The security can't get in without the tickets either. 
+16 So we went on a merry-go-chase from the first entrance, which had a million 
+17 people already lined up, and I was --I didn't want to be there --to go all the way around 
+18 to --the general and the --said VIP, and the VIP said the same thing to us, that you have 
+19 to go up to the general. And that is when we went back to the hotel, and we said, You 
+20 know, this isn't going to happen today. 
+21 Q I understand that's what ended up happening, and I appreciate that. But, 
+22 in terms of the night of the 5th, did you expect for Mr. Stone to be going to the Ellipse 
+23 event the next day, that it would be smooth, he'd be there, and you'd there with him, or 
+24 is that something that you --I'm just trying to get a sense of what you understood was 
+25 going to be happening the next day.  62 
+1 A From what I understood, we were supposed --I --we were supposed to have 
+2 the tickets, so it was supposed to be very smooth, we go right in and whatever. You 
+3 either see the President speak, or --I don't know if he was supposed to speak. I don't 
+4 know the exact specifics of all that, but I was supposed to go in, get the tickets, and we 
+5 were going to just watch --you know, see the President. It wasn't a whole lot. 
+6 Q So did you understand from Mr. Stone, again, talking on January 5th, that 
+7 there was a chance that he might speak at the Ellipse on the next morning, or you didn't 
+8 know one way or the other? 
+9 
+10 A 
+Q 
+11 with Joshua? 
+12 A There --there was never a yes or a no on it. 
+So how did you get the task to go get the tickets the morning of January 6th 
+Because I was --I needed to get a ticket myself, so I think you have to --I 
+13 don't know if you have to ID yourself or whatever it is. He said that if you want to come 
+14 to the --to this thing, you have to go get your own ticket. So you go, and I --if I went 
+15 with him or whatever or someone else, which would be Josh, with security, they can't get 
+16 in without tickets either. That was the purpose of that. Because anybody --anybody 
+17 could have gone with Josh. It's just that there might have been more than one trip if --I 
+18 don't --me personally, then I couldn't go, because I needed that ticket. 
+19 Q Did Mr. Stone ever bring up that he was, you know, communicating with 
+20 some of the rally planners about the event --
+21 
+22 A 
+Q I don't know. 
+--and whether they had tickets for him that you could get more easily? Did 
+23 that come up at all? 
+24 A No. Like I said, all I know is that I had to go into the Ellipse to get the ticket 
+25 for me and anyone else --there was also, you know, other people. So it's like I don't  63 
+1 know how many tickets he was supposed to --I was supposed to get, but I never even got 
+2 that far. Didn't even --didn't get to the front gate. 
+3 Q So did you even get up to ask somebody and say, I'm here to pick up a ticket 
+4 for, you know --
+5 
+6 
+7 A 
+Q 
+A No. 
+For Mr. Stone? 
+No, because I got --no, because I got to the gate, and I asked, Where do you 
+8 go to get into this thing, because it looks --the general admission entrance was packed. 
+9 There was so many people there. And he said, There is only one way in. 
+10 And I said, If I was to go through this thing, it would take 7 hours just to get 
+11 through all these people. I'm not in the mood to --you know, I'm not working today, 
+12 you know, so --you know what I mean? I'm just a regular person here. And, if I can't 
+13 get in, that's it. 
+14 Q So you went back and reported this to Mr. Stone that you couldn't get a 
+15 ticket yourself? 
+16 A Josh told him that it was a bad idea. And, also, I said that not only was this 
+17 not probably going to work today going into the Ellipse, but I wanted to --I didn't want to 
+18 be there anymore at that point. I noticed that it was just too many people. There was 
+19 more people than I could have ever imagined that were going to --it was only like 8:00, 
+20 9:00 in the morning, I'd say, and it was already a crowd of people, much more than I 
+21 would ever expect, you know? 
+22 
+23 
+24 Q 
+A 
+Q Had Mr. Stone asked you to pick up his ticket? 
+Yeah. He said the tickets. He did say tickets for --for everybody. 
+Okay. But, again, specific to him, he was telling you he didn't have a ticket, 
+25 and he needed you to go pick it up?  64 
+1 A He didn't say me --me and Josh, so it was --we had to get the tickets for 
+2 him, Kristin, whoever else --Kristin, me, anyone else that he wanted to bring in there, 
+3 because you can't just walk in. The event itself, without a ticket, from what I 
+4 understand, you can't even get in. 
+5 Q When you reported back to Mr. --you said Josh reported back to Mr. Stone. 
+6 Is that right? 
+7 
+8 
+9 
+10 A 
+Q 
+A 
+Q Yes. Me and Josh went back in the hotel to tell him. 
+All right. So you were there to hear what Josh told Mr. Stone? 
+Correct. 
+All right. And so Mr. --so Josh told Mr. Stone it wasn't --in sum and 
+11 substance, it's not worth going over there? There is too many people, and we don't 
+12 have tickets anyway? 
+13 A Right. The sum and substance is we can't get in because the --you can't 
+14 get the tickets. You can't even get in there. Without admission, they're not going to 
+15 let you up. 
+16 
+17 
+18 
+19 Q What was Mr. Stone's reaction to that? 
+The Reporter. I'm sorry. I missed the last part of that last answer. 
+Mr. Parrotta. Without the tickets, you were saying --
+The Witness. I said without the ticket, you can't enter the Ellipse. You can't go 
+20 to the event. 
+21 BYMR.-
+22 
+23 Q 
+A What was Mr. Stone's reaction to that? 
+He said, Then we'll --we'll just --we're going to stay in the hotel. We're not 
+24 going to go anywhere. 
+25 Q He didn't say anything about having been working with the rally planners,  65 
+1 knowing the woman who was funding the event, nothing along those lines in reaction? 
+2 
+3 A 
+Q I don't know. 
+Express any sort of displeasure with the fact that he couldn't go to the 
+4 events, that --anything along those lines? 
+5 A I can remember, I think, everybody was just a little annoyed of how this 
+6 whole scenario went down, so --I mean, I had my own emotions that I just woke up and 
+7 got --had to go on a merry-go-round, and then, I mean, I feel like a fool. And there is a 
+8 million people there already, so --
+9 Q Okay. Okay. But Mr. Stone, in particular, did he express any specific 
+10 displeasure with what was going on at the Ellipse? 
+11 
+12 A Yeah, not that I recall. 
+Q The reporting on the Danish filmmakers is that they recorded Mr. Stone 
+13 talking with Bernie Kerik in the lobby of The Willard the morning of the 6th, talking about 
+14 the Ellipse event. So I'll start with this: Do you remember seeing Mr. Kerik at The 
+15 Willard on January 6th? 
+16 
+17 
+18 
+19 A Yes. I saw him in the lobby. 
+Q All right. Did you see Mr. Stone talk to Mr. Kerik that morning? 
+A Yeah. I believe he spoke. 
+Q Did they talk --from what you saw yourself, did they talk about the event at 
+20 the Ellipse? 
+21 
+22 
+23 A 
+Q 
+A I don't remember the specifics of what was being discussed. 
+Do you remember generally what they were talking about? 
+I don't know if they was discussing the --what had just transpired or if --or, 
+24 you know, just general greetings, because nobody even knew he was there at the hotel. 
+25 That was a shock to all of us.  66 
+1 Q Well, did you hear Mr. Kerik talk about why he was there once you saw him 
+2 and he was speaking to Mr. Stone? 
+3 
+4 A No. 
+Q The --it's been reported, again, that the documentarians captured 
+5 Mr. Stone --"capture" is the wrong word --filmed Mr. Stone saying something to the 
+6 effect of he felt that people were going to try and embarrass him at the Ellipse event, 
+7 have him go wait in line, and then reject him at the door. 
+8 Do you remember something along those lines that morning? 
+9 
+10 
+11 
+12 A Not --I don't remember him saying this to me or anyone else. 
+Q You don't remember anything like that? 
+A Yeah, I don't recall hearing --overhearing this. 
+Q Okay. Well, whatever it is he might have said, did Mr. Stone actually ever 
+13 go over to the Ellipse to try to get into the event? 
+14 
+15 A Oh, absolutely not. 
+Q So, then, why was he down in the lobby that morning where Mr. Kerik was? 
+16 If he wasn't going to the event, why was he down there? Do you know? 
+17 A When --when Kerik walked by, this was already past the point where I failed 
+18 to get the tickets. So this was after that fact. So the other part that --I also mentioned 
+19 in my own trial is that being in the lobby, they kicked everybody out of the lobby that was 
+20 staying in the hotel. You either had to be in your room or in the lobby, or outside. 
+21 Those were the rules of D.C. that day. 
+22 
+23 
+24 Q Because of COVID? 
+A Correct. 
+Q But why was Mr. Stone downstairs in the lobby if he wasn't going to the 
+25 Ellipse event --just trying to get to that very basic point --to see Mr. Kerik?  Like I said, I don't believe it was to see Kerik. I think, when --
+1 meant he was present and he saw Kerik. I'll hone on that. 67 
+1 
+2 
+3 A 
+Q 
+A I think Kerik walked by. It was just a freak occurrence that he happened to 
+4 walk through in that --and this was after everything that occurred. 
+5 
+6 
+7 Q Mr. Parrotta could ask it better than me, but I'll try again. 
+Mr. Parrotta. Tell me and I'll see what I can do. 
+Mr.- Why Mr. Stone was downstairs at the time. Now, I'm not saying to 
+8 see Mr. Kerik, but why was he even in the lobby if he wasn't going to the Ellipse event? 
+9 
+10 
+11 
+12 
+13 a.m.? 
+14 
+15 
+16 Mr. Parrotta. Just one moment. 
+[Discussion off the record.] 
+Mr. Parrotta. All right. Let's see if we can artfully or factually lay it out. 
+Why was Roger Stone in the lobby of the hotel on January 6th? Is this in the 
+The Witness. This is in the morning. 
+Mr. Parrotta. In the a.m. Why was he there? 
+The Witness. All right. When we --when I went to try to get the tickets with 
+17 Josh and we came back, he was in the lobby with Kristin. Might have been a couple 
+18 other people that was supposed to either speak or be at the other rally. 
+19 And, when we came back and told him everything, he was still in the lobby. And 
+20 that's why you saw Bernie Kerik walk by, is because that was just --happened to be 
+21 the --we didn't know he was in the building. He walked by because he was still in the 
+22 midst of right after that happened that I had reported back that I didn't want to be there 
+23 no more.  68 
+1 
+2 [2:56 p.m.] 
+3 BYMR.-
+4 Q Do you remember who the other people were with Mr. Stone at that time 
+5 who you said were supposed to speak at other rallies? 
+6 A In the lobby I don't remember who exactly those peoples' names. It was so 
+7 long ago now. 
+8 Q Okay. What was the nature of the event Mr. Stone was scheduled to speak 
+9 at in the afternoon of January 6th near the Capitol? Do you know? 
+10 A I don't know the specifics of who it was; I just know that there was supposed 
+11 to be --you know, he was supposed to speak at a rally; I just don't know whose rally it is, 
+12 with names. I'm sorry. It's a different world for me. 
+13 Q So, after Mr. Stone decides not to go to the Ellipse, did he go back up to his 
+14 room, or did he leave the hotel since he couldn't be in the lobby? 
+15 A I believe you saw the famous footage that they took where we were outside 
+16 for, like, not even a couple minutes, and I don't know if somebody wanted to smoke or 
+17 whoever wanted --the real reason is you got kicked out of the lobby; you either had to go 
+18 to the room or go outside. He decided, the couple people, they want to go outside and 
+19 they wanted to get a breath of fresh air or smoke or whatever the cases. And then he 
+20 went back to the --he said just let's watch it on the TV and stay in the room. That's it. 
+21 And that was the gist of everything that happened that morning. 
+22 Q And who was in the room --when you got back up to Mr. Stone's room, I've 
+23 seen photos, but is it right it was you and Ms. Davis and Mr. Stone and maybe a preacher? 
+24 
+25 A 
+Q Mark Burns, Pastor Mark Burns. 
+And then the documentarians were in there, at least, for a little bit of the  69 
+1 time that day. Is that right? 
+2 A Yes. I believe they were filming up to a certain point. They came back. 
+3 They were with us --I believe they were there in the room as well. The shot of us 
+4 outside when you step --we go outside on the front, you actually see the documentarian 
+5 guy outside filming. 
+6 Q So when you got back up to Mr. Stone's room, did you all watch the rally at 
+7 the Ellipse and the President's remarks? 
+8 
+9 A 
+Q Yes. 
+Did Mr. Stone have any reaction or commentary on the President's remarks 
+10 as he was speaking that day that you remember? 
+11 
+12 A 
+Q Not that I remember. 
+How about yourself? Did you have any reaction of what was being said or 
+13 any concern during the President's remarks? 
+14 
+15 A 
+Q No. 
+Was Joshua James and the rest of the security detail from the Oath Keepers, 
+16 were they with you all up in that hotel room during this time? 
+17 
+18 
+19 A 
+Q 
+A No. 
+Where were they, to your knowledge? 
+From what I was led to believe, I believe they were outside the hotel 
+20 because they weren't allowed in the lobby. 
+21 Q And what time had you scheduled to meet up with them to make your way 
+22 to the rally where Mr. Stone was going to speak at the Capitol? 
+23 A The rally, from what I remember, would have been in the afternoon at some 
+24 point. I just don't know the exact time, whatever time was supposed --it was in the 
+25 afternoon, I believe. It would have been well after the speech from the Ellipse.  1 Q And did you watch --up in the hotel room, did you watch the President's 
+2 remarks all the way through to the end? 
+3 
+4 A Yes. 
+Q And then when do you remember first becoming aware that there was 
+5 violence at the Capitol or how you became aware of it, just as best you can recall? 
+6 A It was on television. They started reporting --you started hearing mixed 70 
+7 reports, let's say. There was reports on TV, on the internet, online, there were different 
+8 things. You're hearing all kinds of mixed messages, you know. 
+9 Mr.- If it's okay, if you indulge me, if we could just take a 5-minute break, 
+10 and then I'll try to keep things moving from here, Mr. Greco, and be done before 
+11 4 o'clock, okay? But that I can just have 5 minutes. Is that all right, Patrick? 
+12 
+13 Mr. Parrotta. Yes. 
+Mr- Okay. Great. All right. Just give me a break. I'll turn off my 
+14 camera or not. You can turn off yours, but I'll be back. Okay. 
+15 
+16 
+17 
+18 [Recess.] 
+BYMR.-
+Q Thanks for the indulgence. It's 3:06. We'll go back on the record. 
+And Mr. Greco, we left off when you first learned of violence and you were saying 
+19 you saw it on the TV. And just to kind of level set, at any point from when you saw there 
+20 was violence at the Capitol through the end of the 6th, the January 6th, did you talk to 
+21 Joshua James at all that you remember? 
+22 
+23 
+24 
+25 A At the --when I was driving home. 
+Q All right. I'll get to that at the end. 
+A 
+Q It was late. 
+Fair enough. I'll come back to that then.  1 Did you talk --once you learned there was violence at the Capitol, between then 
+2 and the end of the day, January 6th, did you talk to any other member of that Oath 
+3 Keeper security detail? 
+4 
+5 
+6 
+7 
+8 
+9 
+10 A 
+Q No. 
+So only Joshua. Understood. At the time --
+Mr. Parrotta. Just one second. 
+[Discussion off the record.] 
+Mr. Parrotta. He just wants --can I ask him a question? 
+Mr. - Sure. Sure. 
+Mr. Parrotta. Basically, the only individual you spoke with from the Oath 
+11 Keepers during these 2 or 3 days was the gentleman Joshua? 
+The Witness. Correct. 71 
+12 
+13 Mr. Parrotta. And you never really spoke to anyone else of anything substantive, 
+14 right? 
+15 The Witness. No. 
+16 Mr. Parrotta. Okay. Just go. 
+17 M- Okay. Thank you for that clarification. 
+18 BYMR.-
+19 Q Prior to the attack on the Capitol, Mr. Greco, did you have any reason to 
+20 believe that Joshua or any of the people he was with were going to be going --be 
+21 engaged in any violence that day on the 6th? 
+22 
+23 A 
+Q No. No. 
+Did you have any reason to believe that Mr. Stone thought there was going 
+24 to be violence on January 6th before the violence started? 
+25 A No.  72 
+1 Q To your knowledge, did Mr. Stone have any role in planning or coordinating 
+2 an attack on the Capitol on January 6th? 
+3 
+4 A 
+Q No. 
+So, in terms of watching this on TV as it starts to develop that afternoon of 
+5 the 6th, did you stay with Mr. Stone and Ms. Davis and the pastor in that room that whole 
+6 time before you left for the airport? 
+7 A I was there for a while. I believe I had to go back to my room to get my 
+8 things. So there might have been the small moment where that was going on, but other 
+9 than that, I was there. I was in the room. 
+10 Q In all the time that you were in the room with --in Mr. Stone's room, was he 
+11 in the room? In other words, did he leave at any point, to your knowledge? 
+12 
+13 A 
+Q No. No. 
+And the public reporting on the documentarians is that at some point they 
+14 were outside of the room and weren't let back in Mr. Stone's room because Ms. Davis 
+15 said Mr. Stone was taking a nap. 
+16 Are you familiar with that public reporting and what the documentarians have 
+17 said about that? 
+18 A Yeah. I remember reading that whether it was in the post or something, 
+19 The Washington Post. 
+20 Q Yeah. So I don't have any better way of asking this other than to say, can 
+21 you just help us understand what the situation was with the nap and the 
+22 documentarians? Just what was going on that afternoon? 
+23 A They were --you actually see whatever picture was there, the one you saw 
+24 with him and Pastor Mark Burns, actually, the documentarian guys are actually in the 
+25 room. They were there for quite a while. At certain point, Roger wanted to, I believe,  73 
+1 lay down and take a nap or something. They said he was in his room, and he was laying 
+2 down. So I don't know if it was --I believe --it might have been Kristen told him: Look, 
+3 you guys can just let him sleep because what are you going to do, film him sleeping? 
+4 So that's what the gist of that was. And they did come back, and they filmed 
+5 everything from us when we all left, which you saw we were in the room waiting to --I 
+6 mean, I wanted to leave myself. They filmed that whole part. 
+7 Q So the room itself that Mr. Stone was in, was it a suite so that there was a 
+8 bedroom area and then also like a living room area where you could sit and watch TV? 
+9 
+10 A 
+Q Correct. 
+All right. So, when Ms. Davis said that Mr. Stone wanted to sleep, the 
+11 documentarians left for a while. Is that right? 
+12 
+13 A 
+Q Yes. Yes. 
+All right. Did you stay in the living room area yourself during that time 
+14 when Mr. Stone wanted to sleep? 
+15 
+16 A 
+Q Yeah. I was --1 was in the living room with the TV on the couch. 
+All right. Was Ms. Davis with you or was she --I'm not trying to get 
+17 personal; just trying to figure out where people were. Did Ms. Davis stay with you in the 
+18 living room area, or was she in with Mr. Stone in the bedroom area while he was taking a 
+19 nap? 
+20 A She did the same thing, I believe, which she also stayed with us, but 
+21 then --she was with me, and then she had to go and get her things from her room and 
+22 bring them back in the room. Because if they were going to leave, it was either they 
+23 were going to leave together, whatever, to go on whatever flight it was, or I had to take 
+24 them --because that was basically what the gist of what was going on. 
+25 Q I hear you. When you're getting ready to go, I hear you. But, in terms of  1 when Mr. Stone was in the bedroom and Ms. Davis said he was taking a nap, was she in 
+2 there with him during that time or was she, to your knowledge, in the living room? 
+3 
+4 
+5 
+6 A 
+Q 
+A 
+Q No. She was in the living room. 
+All right. So Mr. Stone was in the bedroom area by himself then? 
+Correct. 
+And do you have any reason --based on what you know, do you know 74 
+7 whether he was talking with people on the phone in that room? Was he quiet? What 
+8 do you know he was doing in there as best you can tell? 
+9 A Best that I could tell you it looked like he was sleeping. 
+10 Q Okay. All right. Now the reporting in the Post is that Mr. Stone had been 
+11 working on potential pardons, Presidential pardons, for people, kind of, in the lead up to 
+12 
+13 that day. 
+A Did you see that? 
+I didn't see any of this. The first I'm learning of this is when they're writing 
+14 these things, because I'm like, when did this happen? 
+15 Q Part of that reporting, though, is that Mr. Stone supposedly had a meeting 
+16 set up at the White House possibly later the day on January 6th to talk about pardons. 
+17 Do you hear anything of the sort on that day or have any reason to think he was going to 
+18 go to the White House that day? 
+19 A No. No way. I didn't hear any of this. I never know any of the specifics. 
+20 You couldn't even get out of the hotel. It would have been a crazy idea. 
+21 Q Now, in relation to when you first saw that violence broke out at the Capitol 
+22 and Mr. Stone going into the room to take a nap, did he go in to take the nap before you 
+23 saw that there was violence, or was it after? Do you remember? 
+24 
+25 A 
+Q No. This was well after. 
+So then, in the time period once you saw the violence has broken out and  75 
+1 when Mr. Stone goes to take a nap, what was the general conversation in the room and, 
+2 particularly, Mr. Stone, his commentary, on what you all were seeing on the screen, his 
+3 reaction? 
+4 A I think everybody was in disbelief and knew this was counterproductive 
+5 to --at least, to Trump and, you know, the next thing --I was more of a how do I --how 
+6 do we go home, because this is --is this going to get worse? And there's a lot of 
+7 questions going on on my end personally. Is it safe to be here? Am I going to --are 
+8 they --are these people going to come in the building? 
+9 I mean, my head was going all over the place. You really still don't know what's 
+10 going on, because you're getting the reports on, I believe, it was Fox or CNN or whatever 
+11 was on TV. And then you see --you're checking the internet. They're saying police 
+12 officers are just saying it's okay. And then see the guy with the crazy horns walking 
+13 around; you're like: What is this, you know? 
+14 So that was what was going on in the room. Really just --it was like the 
+15 confusion that you saw was almost kind of like that was going on in the street was the 
+16 same in the room, because we don't know --do you leave? What happens if we go 
+17 outside; are we going to get jumped? Are they coming in the hotel? 
+18 We were thinking this is counterproductive. And this is all the thoughts in what 
+19 was being said at the time. 
+20 Q When was the decision made that Mr. Stone was not going to go up to the 
+21 event to speak that afternoon at the Capitol? Was it before or after the violence 
+22 started, to your knowledge? 
+23 A I believe once the violence happened, that was it. That was the 
+24 end --nothing was going to happen that day. 
+25 Q Did you have to call Joshua to let him know you wouldn't be going up to the  76 
+1 Capitol since he was supposed to be going with you all to provide security? 
+2 A No. I believe --when there was this --one time I did try to contact him was 
+3 to ask --I wanted to ask him if it was safe for me to leave. I wanted to leave. I don't 
+4 know who was outside the hotel because my car was in the basement. You could leave 
+5 through the back, which I don't have any eyes --because you can only see the side of the 
+6 hotel from the room. 
+7 And I saw, you know, what looked like more than a couple football fields' worth of 
+8 people, and that's kind of not a situation that I'm trained to actually even want to be 
+9 around. So I wanted to leave, but without eyes outside in the front or in the back, I 
+10 didn't know whether I could. So I tried to reach out to him thinking that --but the call 
+11 never even went through. 
+12 So I had no idea what was going on with all that out there. So I had to wait. 
+13 And then eventually I think Roger then said or something: I have a way. We're going 
+14 to go home. 
+15 Q During the time that you were at the hotel before you left to go to the 
+16 airport, do you know who, if anyone, Mr. Stone was in contact with by phone? Was he 
+17 calling anybody? Were people calling him? 
+18 A That I don't know. I don't know if he was calling anybody or if he was 
+19 texting anybody. I don't know. 
+20 Q Do you know whether --again, just to be more particular, any efforts to 
+21 reach anyone at the White House or anyone close to President Trump during that time 
+22 period that afternoon? 
+23 
+24 A 
+Q No. 
+So the arrangements are made, in short, you're able --he's able to get a 
+25 flight arranged, and you drive him and Kristen out to the airport so that he can get on that  77 
+1 flight and fly home to Florida? 
+A Correct. 2 
+3 
+4 
+5 Q All right. And then you make your way back home to New York after that? 
+A Correct. 
+Q You said you talked to Joshua at some point that evening on your way back. 
+6 Is that right? 
+7 
+8 A Correct. Yeah, I think he called me. 
+Q As much as you can remember about that conversation, what was it? 
+9 What did you all discuss? 
+10 A I think it was more of a small talk thing. The thing I remember is that he 
+11 kept clicking off. So people, I guess, his phone, people were calling him. So there was 
+12 a lot of hold on, hold on, hold on, because that was --the gist --the gist of the 
+13 conversation was more of a --like, a good-bye, trying to say good-bye. And I don't know 
+14 exactly what had happened, you know, because I tried to call him, but I was, like: Listen, 
+15 we left. 
+16 Because he was, you know --I think he called to think that we were still there, but 
+17 we weren't. I says: No. I'm going home right now. 
+18 
+19 
+20 Q 
+A 
+Q Did he bring up the fact that he had gone in the Capitol? 
+Not that I remember. I don't remember anything. 
+I would imagine --I'm not trying to be cute, but you would remember if he 
+21 told you he was one of the people who went in the Capitol that day? 
+22 
+23 A Of course. 
+Q Okay. So he didn't bring that up at all? He didn't say where he had gone 
+24 that afternoon or what he had done? 
+25 A I don't remember hearing that.  78 
+1 Q Did he comment on the days' events, say anything about what had 
+2 happened that day? You know, it's a natural point of conversation; people have gone in 
+3 the Capitol. He didn't talk about that at all? 
+4 A Not that I remember. 
+5 Q Did you ask him where he went since he wasn't with you? I mean, since he 
+6 was supposed to have been with you, you didn't ask, "Hey, where did you go?" 
+7 A I think I said --I don't really remember much of this conversation other than 
+8 it being --it was something --it was --the context was brief, but due to the fact that, I 
+9 guess, he was on his phone or people calling him. 
+10 
+11 
+12 
+13 Mr. Parrotta. Hold on a moment. 
+[Discussion off the record.] 
+Mr. Parrotta. Just one moment. Go ahead. 
+The Witness. Yeah. So, I mean, the gist of it more was he just wanted to know 
+14 if Roger was okay, because I believe he was assuming that we were still in the hotel or 
+15 wherever. So once he --once you tell him Roger left and I'm on my way home, that's 
+16 basically the gist of the conversation. 
+17 
+18 
+19 
+20 Q 
+A 
+Q 
+A Did you ever talk to Joshua again after that time? 
+Yes. He called me one other time. 
+And when was that, and can you tell us about that conversation? 
+That was the day that I was interviewed by the NYPD because they were 
+21 conducting their own little investigation, and they wanted to know who I --because I still 
+22 had the number in my phone or whatever when he called me back on the 6th. And I 
+23 said: Oh, well, you can call him. He was the head of the security, not me. 
+24 So he had called me to ask me, basically, says: The NYPD called me, like, they 
+25 asked me about you, like, doing security, which you didn't, and nobody, you know,  79 
+1 whatever else --they asked him something else, but that's all in the --in the --whatever 
+2 was in the --they asked me about, so that was all --that was the gist of that conversation 
+3 as well. 
+4 Q Did you have any --as part of that proceeding, Mr. Greco, did you have any 
+5 text messages with Mr. James, Joshua James, that you gave NYPD that maybe you don't 
+6 any longer have? Did you have anything like that on your phone? 
+7 A If I have the --they wanted --they never asked for the text messages. 
+8 don't think they have them. 
+9 
+10 Q Okay. Had you been texting with Mr. James at all? 
+A Other than the 5th and the 6th, that was the only day, because --and there 
+11 was one line. 
+12 
+13 
+14 Q Do you still have those by chance, even if it's just logistics? 
+A I don't think so. 
+Q Would you mind --can you look after this and I'll follow up with Mr. Parrotta 
+15 just to see, just look in your phone and see if they're still there? 
+16 
+17 A 
+Q Yeah. 
+Do you have your phone on you? Can you just check if it's --if you have 
+18 any there? 
+19 
+20 A If anything, I'll look after this, and I'll reach out to you. 
+Q At the time that Mr. James called to talk to you because of the NYPD 
+21 investigation, were you aware at that point that he had gone in the Capitol? 
+22 A Was it the --that was late in January? You hear different things, but you 
+23 can't put your --you don't know who's who. What you're reading and what you're, you 
+24 know, waiting to see what's being reported, you're hearing different things. So I don't 
+25 know who exactly did what. I don't know if it was him, if it was someone else, it was  80 
+1 other people. People dressed up like this or like that. It's --it's still chaotic at that 
+2 time. 
+3 Q I hear you, but did you ask him at that time you talked to him, "Hey, did you 
+4 go in the Capitol because that could reflect on you, and as the NYPD is looking at this, it's 
+5 natural to want to know, what's the story with you in what you did in case it comes back 
+6 on me and reflects badly on me"? 
+7 A I don't remember discussing if, especially on that phone call. This one 
+8 was --because they had called him, he had just --because he called me to say, you know: 
+9 This guy's calling and what not, and I don't know. They asked me if you did the security. 
+10 Q And you haven't talked to him since that last phone call then about the NYPD 
+11 contact? 
+12 
+13 
+14 
+15 A 
+Q 
+A No. I never --after --after that day, I believe, I blocked his number. 
+Has his legal team reached out to you at all to talk to you about -­
+No. 
+Q All right. Has anybody's legal team of someone who's charged with being 
+16 involved on the January 6th, have they reached out to you about the events of that day? 
+17 
+18 A 
+Q No. 
+Now, have you had --I think it's fair to say pretty quick after January 6th, Mr. 
+19 Stone was publicly saying I or, you know, he did nothing wrong in connection. He was 
+20 out there. Did he express to you a concern that he was going to be accused of having 
+21 had some sort of role in the attack on the Capitol? 
+22 
+23 A No. Never. 
+Q Are you familiar with the fact that he pretty soon after the events of that day 
+24 starting saying Roger Stone did nothing wrong about the attack on the Capitol? Did you 
+25 see that he was saying those sorts of things?  81 
+1 A I believe he's always --he's always said that from the first incident with the 
+2 first thing with the --what was that? When he testified in Congress the first time and 
+3 then the --they raided his house and all of that. He's always said Roger Stone did 
+4 nothing wrong. 
+5 Q He does about that, about that incident for sure where he was accused of 
+6 doing something wrong. I'm interested in why he was saying or he felt the need to say 
+7 Roger Stone did nothing wrong with respect to January 6th? Have you ever had that 
+8 conversation with him? 
+9 A Well, I'd say this: Who was that? One of those papers, ABC or something, 
+10 hit him right away --they were hitting him right away trying to accuse him of being 
+11 involved in it directly. So I believe that's how he started the whole "Roger Stone did 
+12 nothing wrong." 
+13 Q In the footage that was in The Washington Post piece from the 
+14 documentarians about Mr. Stone saying it's time to leave the hotel room on the 6th and 
+15 get out, there's a brief clip, and it seems to be an urgency to him wanting to leave the city 
+16 that afternoon of the 6th. 
+17 What was, as best from your perception, was there an urgency in his actions that 
+18 day to get out of town as soon as possible? 
+19 Mr. Parrotta. Hold on one moment. 
+20 [Discussion off the record.] 
+21 The Witness. Yeah. The best way I could describe it, there was --there 
+22 was --there was a million different people around the hotel and with a million different 
+23 agendas, so I guess the urgency was to: It's not safe to be here. 
+24 I think it's --you know, he wanted to leave as --like I said, I was under the 
+25 impression of what if they actually came to the hotel and did something.  82 
+1 Q Now, the documentarians also recorded, according to The Washington Post, 
+2 that, after January 6th but before President Trump left office, that Mr. Stone was making 
+3 efforts to get a pardon for himself in connection with the 2020 Presidential election. 
+4 Were you aware of that at the time? 
+5 A No. You're telling me something I didn't even know. I didn't even know 
+6 about this. 
+7 Q And, similarly, that potentially seeking a pardon for Mr. Stone's conduct, 
+8 whatever it was in relation to January 6th, were you aware of any effort along those 
+9 lines? 
+10 
+11 A 
+Q No. 
+Just give me one moment. 
+12 Since January 6th, have you talked to Mr. Stone about the fact that his security 
+13 detail, Joshua James and others, went in the Capitol and have been charged with crimes 
+14 in connection with that day? 
+15 
+16 A 
+Q No. 
+He hasn't spoken about it at all with you, the fact that Joshua has been 
+17 charged and has brought a lot of attention on Mr. Stone's connection with Joshua and the 
+18 other Oath Keepers? 
+19 A No, because --I mean, I have my own --the guy's --my trial was basically all 
+20 about the same things. 
+21 Q Well, I would expect, right, it's about the same thing. So it just hasn't been 
+22 something you talked with Mr. Stone about at all in the year and a half since January 6th? 
+23 
+24 
+25 A No. 
+Mr. Parrotta. Just one moment. 
+[Discussion off the record.]  83 
+1 The Witness. Yeah. We --we speak about, like, my issue was with my trial and 
+2 how, you know --how I have all these problems out of nowhere. 
+3 BY MR. 
+4 Q So, just naturally, again, not having been a part of any conversations with 
+5 him that you were, you didn't bring up with him, "Hey, how did you get hooked up with 
+6 these guys and end up doing this and all the ramifications it had for me in my life," has he 
+7 talked to you about that? 
+8 
+9 A 
+Q No. That should be conversation, but no, I haven't had this conversation. 
+How about when it comes to the Proud Boys? Are you aware of the fact 
+10 that many of the Proud Boys have been --many, I should say, many Proud Boys have 
+11 been charged in connection with January 6th? 
+12 
+13 
+14 
+15 A 
+Q 
+A 
+Q Oh, yeah, obviously, now I know they were also involved. 
+To include Enrique Tarrio has now been charged, are you aware of that? 
+I saw that, too. 
+Okay. Have you talked to Mr. Stone at all about the Proud Boys and their 
+16 connection with January 6th, his views on that? 
+17 
+18 A 
+Q No. 
+How about the fact that Enrique Tarrio, specifically someone he was friendly 
+19 with, has been charged in connection with that day? Have you talked to Mr. Stone 
+20 about that? 
+21 A No. 
+22 Q Joseph Biggs and Ethan Nordean, two guys we talked about earlier that you 
+23 knew of, have you talked to Mr. Stone about the fact that they were --that they've been 
+24 charged in connection with January 6th, his views on that? 
+25 A No.  84 
+1 Q Have you had occasion to talk to Owen Shroyer about what happened with 
+2 him and what he did on January 6th? 
+3 A The only time I've spoken to him, I believe, in person would have been 
+4 January --hello, that was basically it. 
+5 Q How about Mr. Alex Jones? Same question. Have you talked to him since 
+6 January 6th? 
+7 
+8 A No. 
+Mr.- All right. Mr. Greco, I think those are all the questions I have. 
+9 just want to say thank you for being willing to talk with us today. Appreciate you 
+10 spending this much time. I might, as I said, have a followup question for Mr. Parrotta, if 
+11 you can just look at your phone for anything in connection with Joshua James or anything 
+12 kind of like that around that time, if you could just do that and let us know, but happy to 
+13 hear back from you all once you've had a chance if there's anything there. 
+14 But, at this point, we're done for today unless you have anything else you think we 
+15 should cover that we haven't covered? 
+16 
+17 Mr. Parrotta. No, thank you. 
+Mr. - Okay. Well, then appreciate your professionalism, both of you, 
+18 and I'll be in touch. 
+19 Take care. 
+20 
+21 
+22 
+23 Mr. Parrotta. Thank you, sir. 
+The Witness. Thank you. 
+Mr. Parrotta. Good day. 
+[Whereupon, at 3:30 p.m., the deposition was conclued.]  1 
+2 
+3 Certificate of Deponent/Interviewee 
+4 I have read the foregoing __ pages, which contain the correct transcript of the 
+5 answers made by me to the questions therein recorded. 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 Witness Name 
+Date 85 

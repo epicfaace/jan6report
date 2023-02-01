@@ -1,0 +1,2928 @@
+1 
+2 
+3 
+4 SELECT COMMITTEE TO INVESTIGATE THE 
+5 JANUARY 6TH ATTACK ON THE U.S. CAPITOL, 
+6 U.S. HOUSE OF REPRESENTATIVES, 
+7 WASHINGTON, D.C. 
+8 
+9 
+10 
+11 DEPOSITION OF: MICHAEL FLYNN 
+12 
+13 
+14 
+15 Thursday, March 10, 2022 
+16 
+17 
+18 
+19 Washington, D.C. 
+20 The deposition in the above matter was held via Webex, commencing at 10:08 
+21 a.m. 
+22 Present: Representatives Lofgren and Cheney. 1  1 
+2 Appearances: 
+3 
+4 
+5 For the SELECT COMMITTEE TO INVESTIGATE 
+6 THE JANUARY 6TH ATTACK ON THE U.S. CAPITOL: 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 INVESTIGATIVE COUNSEL 
+STAFF DIRECTOR 
+STAFF ASSOCIATE 
+, SENIOR INVESTIGATIVE COUNSEL 
+, INVESTIGATIVE COUNSEL 
+SENIOR COUNSELOR TO THE VICE CHAIR 
+, CHIEF CLERK 
+, PROFESSIONAL STAFF MEMBER 
+, PARLIAMENTARIAN 
+, SENIOR TECHNICAL ADVISOR 
+INVESTIGATIVE COUNSEL 
+PROFESSIONAL STAFF MEMBER 
+CHIEF DATA SCIENTIST 2  3 
+1 
+2 For the WITNESS: 
+3 
+4 DAVID A. WARRINGTON, ESQ. 
+5 MICHAEL COLUMBO, ESQ. 
+6 GARY LAWKOWSKI, ESQ. 
+7 ERIN POTTER, LEGAL ASSISTANT 
+8 Dhillon Law Group Inc. 
+9 177 Post Street, Suite 700 
+10 San Francisco, CA 94108  1 
+2 It's 10:08 a.m. on March 10, 2022. And this is a deposition of 
+3 General Michael Flynn, conducted by the House Select Committee to Investigate the 
+4 January 6th Attack on the United States Capitol pursuant to House Resolution 503. 
+5 At this time, I'd like to ask the witness to please state your full name and spell 
+6 your last name for the record. 
+7 
+8 The Witness. Michael Thomas Flynn, F-1-y-n-n. 
+- Thank you, General Flynn. 
+9 And, Counsel, could you please introduce yourself and the others who are joining 
+10 this Webex deposition. 
+11 Mr. Warrington. Yes. David Warrington, counsel for General Flynn. That's 
+12 W-a-r-r-i-n-g-t-o-n. With me by video are my colleagues Michael Columbo, 
+13 C-o-1-u-m-b-o; Gary Lawkowski, L-a-w-k-o-w-s-k-i; and our legal assistant, Erin Potter, 
+14 P-o-t-t-e-r. 
+15 At this time, I'm going to ask that the official reporter swear you in, 
+16 General Flynn. Can you please stand and raise your right hand? 4 
+17 The Reporter. Do you solemnly declare and affirm, under the penalty of perjury, 
+18 that the testimony you are about to give will be the truth, the whole truth, and nothing 
+19 but the truth? 
+20 
+21 
+22 
+23 The Witness. I do. 
+Thank you, 
+Thank you, General Flynn. 
+So this will be a staff-led deposition. And if any members decide to join or ask 
+24 questions, they may do so and will probably do so by turning on their camera, and I'll 
+25 defer to them at that time.  5 
+1 My name is-. I am a senior investigative counsel for the select 
+2 committee. Also in the room today from the committee are 
+3 She's sitting to my left. She's investigative counsel to the committee. To her left is 
+4 _, committee parliamentarian. To my right is who's a 
+5 professional staff member for the committee. 
+6 And as I mentioned before we went on the record, there are a number of folks 
+7 joining from the committee, and you can see them listed on the right-hand side of the 
+8 screen in the Webex platform. 
+9 Also joining us at this time are members of the select committee Zoe Lofgren and 
+10 Liz Cheney. And if other members join, I will try to announce their presence as soon as I 
+11 can note it. 
+12 It's possible that other staff join as well. I do not plan to note their presence, but 
+13 if there's a reason to, I'll do so for you, General Flynn. 
+14 Under the House deposition rules, neither committee members nor staff may 
+15 discuss the substance of your testimony that you provide today unless the committee 
+16 approves its release. 
+17 You and your attorneys will have an opportunity to review the transcript, and I will 
+18 be in touch with Mr. Warrington about that. 
+19 Before we begin, there are a few ground rules I want to make sure you 
+20 understand. 
+21 We do plan to follow the House deposition rules that we provided to your counsel 
+22 previously. Under those rules, counsel for other persons or government agencies may 
+23 not attend, and you are permitted to have your attorneys present. And we've noted 
+24 their presence on the record. 
+25 I will ask that you confirm that no other persons besides your attorneys are  1 attending or plan to attend this deposition today. Is that correct? 
+2 
+3 
+4 Mr. Warrington. Yes, but General Flynn's wife is in the room we're in. 
+Okay. Bear with me for one moment, please, Mr. Warrington. 
+Mr. Warrington. Okay. 
+5 [Discussion off the record.] 6 
+6 Mr. Warrington and General Flynn, unfortunately, under the House 
+7 deposition rules, these are private proceedings and we cannot have your wife join as part 
+8 of the proceeding. 
+9 So I'd ask that you be the only people in the room for the entirety of the 
+10 proceeding. Do you understand that? Is that okay? 
+11 
+12 
+13 
+14 
+15 
+16 Mr. Warrington. Yes. Give us about 2 minutes, okay? 
+Yep. Take your time. 
+[Recess.] 
+All right. Are we prepared to proceed? 
+Mr. Warrington. We are prepared to proceed. 
+All right. Very well. 
+17 And I just ask that you also confirm, as we discussed before we went on the 
+18 record, that you or nobody else is recording this proceeding or otherwise transmitting it 
+19 as we proceed. 
+20 Mr. Warrington. We are not. 
+21 Thank you, Mr. Warrington. 
+22 There is an official court reporter who's transcribing the record of this deposition. 
+23 So, along those lines, please wait until each question is completed before you begin your 
+24 response, General Flynn. And I, likewise, will do my very best to wait for you to finish 
+25 your response until I start my next question.  7 
+1 I'd also note that the court reporter cannot record nonverbal responses, such as 
+2 shaking your head, so it is important that you answer each question with an audible and 
+3 verbal response. 
+4 We do ask that you provide complete answers based on your best recollection. 
+5 If the question that I ask is not clear, please ask for clarification. If you do not know the 
+6 answer, that's perfectly fine. Please say so. But you can only refuse to answer a 
+7 question to preserve a privilege recognized by the select committee. 
+8 If you refuse to answer a question based on a privilege, staff may either proceed 
+9 with the deposition or seek a ruling from the chairman on the objection. And if the 
+10 chairman overrules such an objection, then you will be required to answer the question. 
+11 I also want to remind you that it is unlawful to deliberately provide false 
+12 information to Congress. Since this deposition is under oath and you've now been 
+13 sworn, providing false information could result in criminal penalties for perjury or 
+14 providing false statements. 
+15 Do you understand all the rules that we've just gone over? 
+16 The Witness. I do. 
+17 Thank you, General. 
+18 And, logistically, just please let us know if you at any point need a break, either a 
+19 comfort break or to discuss anything with your attorneys. 
+20 And I'd just note that, in this type of scenario, it's best, if you need to consult with 
+21 your attorney, to shut off your camera, as you just did, and shut off your microphone. 
+22 That way, we won't be able to hear anything that you talk about with Mr. Warrington. 
+23 With that, are you prepared to proceed? 
+24 Mr. Warrington. -let me --I do want to interject with an objection on the 
+25 grounds that, to the extent these rules conflict with constitutional rights of my client, we  8 
+1 would note our objections to that on an ongoing basis, and also to the extent that the 
+2 committee's activities or manner of conduct of this deposition does not comport with this 
+3 House resolution. 
+4 Thank you, Mr. Warrington. 
+5 And it was cutting out just a little bit. I just want to confirm at this point that the 
+6 court reporter was able to understand what Mr. Warrington said. 
+7 [Reporter responds off-mike.] 
+8 Mr. Warrington. All right. Let me try to increase the microphone. Give me a 
+9 second here. 
+Thank you. I appreciate that. 10 
+11 Mr. Warrington. I adjusted the volume on the microphone level to the max. 
+12 How is that? 
+13 We'll proceed. And if the reporter has any issues, I'd just ask that 
+14 they speak up. And we may need to have you repeat any answers that we can't 
+15 understand. 
+16 EXAMINATION 
+17 BY 
+18 Q We're going to show you some documents, General Flynn. We'll pull them 
+19 up. Make sure you can see them on the screen. 
+20 So let's go ahead and pull up exhibit No. 1, please. 
+21 Are you able to see what we've just pulled up as exhibit No. 1, which should be a 
+22 subpoena? 
+23 
+24 A 
+Q Yes. 
+All right. Do you understand, General Flynn, that you're appearing 
+25 pursuant to the subpoena dated November 8, 2021, with the "To Michael Flynn" that's  1 shown as exhibit No. 1 on your screen? 
+2 
+3 
+4 
+5 A Yes. 
+Q And is that you, Michael Flynn, the person who's named in the subpoena? 
+A Yes. 
+Q Okay. 
+6 General Flynn, can you please --I'm going to go through your background, and I'll 
+7 do so in order to not have it go too long, but I understand that you graduated from the 
+8 University of Rhode Island in 1981. Is that correct? 
+9 
+10 
+11 
+12 A Yes. 
+Q And you were in the Army from approximately 1981 to 2014. Is that right? 
+A Yes. 
+Q You did multiple tours at Fort Bragg with the 82nd Airborne Division, the 
+13 Joint Special Operations Command, and others. Is that right? 
+14 A Yes. 
+15 Q You also served with the 25th Infantry Division at the Schofield Barracks in 
+16 Hawaii. Is that correct? 
+17 A Yes. 
+18 Q You then served as the assistant chief of staff for the, I believe it's the XVIII 
+19 Airborne Corps at Fort Bragg, North Carolina, starting in approximately June 2001? 
+20 
+21 A Yes. 
+Q And then you commanded the 111th Military Intelligence Brigade from June 
+22 2002, roughly, to June 2004, and you were director of intelligence for the Joint Special 
+23 Operations Command from July 2004 to June 2007. Is that correct? 
+24 
+25 A Yes. 
+Q I understand that in June 2007 through July 2008 you served as the director 9  10 
+1 of intelligence at the United States Central Command and as the director of intelligence of 
+2 the Joint Staff from July 2008 to June 2009. Is that correct? 
+3 
+4 A Yes. 
+Q In September 2011, you were promoted, I believe, to lieutenant general and 
+5 assigned as assistant director of national intelligence at ODNI. Is that correct? 
+6 
+7 A Yes. 
+Q And then in April 2012 President Obama nominated you to be the 18th 
+8 Director of the Defense Intelligence Agency, and you took command in approximately July 
+9 2012. Is that also correct? 
+10 
+11 A Yes, I believe so. 
+Q My understanding is you retired from DIA and the Army in August of 2014, 
+12 correct? 
+13 
+14 A I retired in September. 
+Q September, okay. Thank you, General. And, around that time, you 
+15 started or joined the Flynn Intel Group, which is a company that provided intelligence 
+16 services for businesses and governments. Is that right? 
+17 
+18 A Yes. 
+Q I believe in or around February of 2016 you became an advisor to the 2016 
+19 Presidential campaign of Donald Trump. Is that right? 
+20 
+21 A Yes. 
+Q And then in November of 2016 you became a member of the transition team 
+22 for then-President-elect Trump. Is that correct? 
+23 
+24 A Yes. 
+Q And from January 2017 through February 2017 you served as the National 
+25 Security Advisor to President Trump. Is that right?  11 
+Yes. 1 
+2 A 
+Q After you left that, I believe you became chairman of America's Future, Inc., 
+3 which is a 501{c)(3) nonprofit organization. Is that right? 
+4 
+5 
+6 
+7 
+8 
+9 A 
+Q 
+A 
+Q 
+A 
+Q Yeah, but that's just recent --just recently. 
+Okay. But you ultimately did become chairman of America's Future, Inc.? 
+Yes. 
+Roughly when was that? 
+April --roughly April of 2021. 
+And are you also associated with something called The America Project, 
+10 which I believe Mr. Patrick Byrne has a role in? 
+11 
+12 A 
+Q Yes. Yep. 
+Okay. And did both of those, the America's Future, Inc., and The America 
+13 Project, help to fund the Arizona Cyber Ninjas audit in Arizona? 
+14 A If it's okay with the committee, I'm going to claim --at this point, on the 
+15 advice of counsel, I'm going to assert my constitutional privilege under the Fifth 
+16 Amendment and respectfully decline to answer the question. 
+17 Q General Flynn, you have not produced any documents in response to the 
+18 November 8th subpoena that we showed at exhibit No. 1. Why haven't you produced 
+19 any documents to the select committee? 
+20 A On the advice of counsel, I assert my constitutional privilege under the Fifth 
+21 Amendment and respectfully decline to answer the question. 
+22 And if it's okay with the committee, going forward, when I invoke my privilege 
+23 under the Fifth, I can just say "the Fifth," if that's okay. 
+24 Q That's perfectly fine, General Flynn. There may be certain questions where 
+25 I ask you to clarify and announce the full reason, but, yes, that's perfectly fine moving  1 forward, generally. 
+2 Just so I understand, going back to the question I just asked you, is it your 
+3 position --
+4 
+5 Ms. Cheney. -
+--that the act --yes, ma'am? 12 
+6 Ms. Cheney. I'm sorry. We need to take a quick break. Can we take a break, 
+7 please, and we'll be right back, and then I'll reach out to you. 
+8 
+9 
+10 
+11 Certainly. 
+If we could go off the record very briefly. 
+[Recess.] 
+Let's go back on the record. It's 10:38 a.m. on March 10th, and 
+12 we're resuming the deposition of General Michael Flynn. 
+13 I understand you'd like to make a point on the record, Mr. Warrington? 
+14 
+15 Mr. Warrington. Yes,-· Thank you. 
+Just so the committee is aware, we are in court, having filed the challenge, a 
+16 motion to quash the subpoena. We are appearing at this deposition even though the 
+17 case is still pending and that issue has not been decided on. We noticed that this 
+18 hearing was going to go forward anyway, and that's why we're here. 
+19 
+20 
+21 Q Thank you for that. So let's go ahead and proceed. 
+BY 
+General Flynn, did you use a Gmail account or a Proton Mail account for any 
+22 communications related to the 2020 election? 
+23 
+24 
+25 A 
+Q 
+A The Fifth. 
+I'm sorry, could you repeat that? 
+On the advice of counsel, I assert my constitutional privilege under the Fifth  13 
+1 Amendment and respectfully decline to answer the question. 
+2 Q Okay. And that was relatively hard to hear. I did catch it, though. And, 
+3 at this point, I do want to be very clear about the basis for your assertion. 
+4 So, General Flynn, are you invoking your Fifth Amendment rights because a 
+5 truthful answer may tend to incriminate you in a later criminal proceeding? 
+6 Mr. Warrington. Counsel, we are not going to explain the basis for the privilege, 
+7 because the basis for the privilege --explaining the basis of the privilege would defeat the 
+8 purpose of the privilege. 
+9 My understanding of the law, Mr. Warrington, is that a valid Fifth 
+10 Amendment assertion is based on a truthful answer that may tend to incriminate a 
+11 witness in a later criminal proceeding. I don't view that as necessarily admission or 
+12 looking behind the privilege, just ensuring that, in fact, General Flynn is asserting it for the 
+13 valid reason that providing such an answer would tend to incriminate him in a later 
+14 criminal proceeding. 
+15 Mr. Warrington. That's actually a misstatement of the law, Counsel. The Fifth 
+16 Amendment in many court cases has been demonstrated by the court as held that it's 
+17 there to protect the innocent from being ensnared in ambiguous circumstances for many 
+18 reasons. 
+19 But if you want to rely on the fact that General Flynn has read the Fifth 
+20 Amendment and understands the text of the Fifth Amendment and is invoking his 
+21 privilege consistent with that, with the Fifth Amendment, I think that he can answer that 
+22 question. 
+23 I'll just read for you the precise language of the Fifth Amendment. 
+24 It's: "Nor shall any person be compelled in any criminal case to be a witness against 
+25 himself."  Is that the basis for which General Flynn is invoking his Fifth Amendment rights? 
+The Witness. Yeah. Yes. 
+BY 14 
+1 
+2 
+3 
+4 Q Okay. And I may ask you at various points, General Flynn, to acknowledge 
+5 that. But I understand that there are certain questions here to which you are going to 
+6 invoke the Fifth Amendment. 
+7 General Flynn, did you use any other email accounts for any communications 
+8 related to the 2020 election other than Gmail accounts or Proton Mail accounts? 
+9 
+10 A 
+Q The Fifth. 
+Did you send or receive any text messages related to the 2020 election using 
+11 your personal cell phone device? 
+12 
+13 A 
+Q The Fifth. 
+Did you send or receive any messages related to the 2020 election using any 
+14 encrypted messaging applications, such as Signal, WhatsApp, Wickr, or Telegram? 
+15 
+16 A 
+Q The Fifth. 
+Did you maintain any active social media accounts between November 3, 
+17 2020, and January 20, 2021, including on Twitter, Facebook, Parler, lnstagram, or 
+18 Linkedln? 
+19 
+20 A 
+Q The Fifth. 
+Did you send or receive any messages related to the 2020 election through 
+21 social media, such as Twitter, Facebook, Parler, lnstagram, or Linkedln? 
+22 
+23 A 
+Q 
+24 computer? 
+25 A The Fifth. 
+Do you have any documents related to the 2020 election on a personal 
+The Fifth.  1 Q Do you have any hard-copy documents related to the 2020 election in your 
+2 custody, possession, or control? 
+3 
+4 A 
+Q The Fifth. 
+Do you have any documents related to the 2020 election on any computer 
+5 server other than the places we've already asked you about? 
+The Fifth. 15 
+6 
+7 A 
+Q And just so I understand, I'll ask this again: Is it your position that the act of 
+8 producing documents to the committee in response to the subpoena, as opposed to the 
+9 content of the documents themselves, could tend to incriminate you? 
+10 Mr. Warrington. Counsel, I will also note for the record that we have responded 
+11 to the committee's request for documents --
+12 
+13 
+14 I'm sorry, Mr. Warrington, you're cutting out. I can't hear you. 
+Mr. Warrington. Okay. I'll try to get closer. 
+I will also note for the record that we have responded to the committee's request 
+15 for documents with correspondence with our objections to those. I'll offer to work with 
+16 the committee to narrow the scope of the subpoena. And that we have also filed a 
+17 motion to quash that subpoena, which is still pending in the Middle District of Florida. 
+18 
+19 Q And, to be clear, General Flynn, are you also asserting your Fifth Amendment 
+20 rights to not produce documents to the committee pursuant to the subpoena? 
+21 
+22 A 
+Q Yes. 
+And is that because the act of producing documents would be incriminating 
+23 in and of itself? 
+24 Mr. Warrington. Counsel, I think, again, that goes back to a misstatement of the 
+25 case law around the Fifth Amendment, and I don't think you want to ask him for a legal  1 conclusion. And what he's doing is on the advice of counsel. 
+2 
+3 Q BY 
+So let me ask it this way: General Flynn, are you invoking your Fifth 
+4 Amendment because producing --Amendment rights because producing documents 
+5 would implicate your Fifth Amendment privileges, as opposed to the contents of those 
+6 documents themselves? 
+Yes. 16 
+7 
+8 
+9 A 
+Q 
+3,2020? Did you have a role with the Trump reelection campaign prior to November 
+10 
+11 A 
+Q The Fifth. 
+Before election day, did you ever discuss with any elected officials, whether 
+12 at a State, local, or Federal level, regarding anticipated or actual election fraud or foreign 
+13 interference in the 2020 election? 
+14 
+15 A 
+Q The Fifth. 
+General Flynn, did you have a role, whether formal or informal, with the 
+16 Trump reelection campaign after November 3, 2020? 
+17 
+18 A 
+Q The Fifth. 
+Between November 3, 2020, and January 20, 2021, did you ever go to the 
+19 Trump campaign headquarters? 
+20 
+21 A 
+Q The Fifth. 
+Between November 3, 2020, and January 20, 2021, did you ever participate 
+22 in any discussions involving Rudy Giuliani, Sidney Powell, or Jenna Ellis relating to 
+23 potential election fraud or other irregularities in the 2020 election? 
+24 
+25 A 
+Q The Fifth. 
+Between November 3, 2020, and January 20, 2021, did you have any  1 conversations with any White House personnel, including President Trump, relating to 
+2 potential election fraud or other irregularities in the 2020 election? 
+3 
+4 A 
+Q The Fifth. 
+Between November 3, 2020, and January 20, 2021, did you investigate any 
+5 allegations relating to election fraud or other irregularities in the 2020 election? 
+6 
+7 A 
+Q The Fifth. 
+Between November 3, 2020, and January 20, 2021, did you ever see any 
+8 evidence of election fraud or other irregularities relating to the 2020 election? 
+9 
+10 A 
+Q The Fifth. 
+Between November 3, 2020, and January 20, 2021, did you have any 17 
+11 conversations with any local, State, or Federal elected officials regarding election fraud or 
+12 other irregularities in the 2020 Presidential election? 
+13 
+14 A 
+Q The Fifth. 
+Between November 3, 2020, and January 20, 2021, did you have any 
+15 conversations with any officials at the Department of Defense regarding election fraud or 
+16 other irregularities in the 2020 election? 
+17 
+18 A 
+Q The Fifth. 
+Between November 3, 2020, and January 20, 2021, did you have any 
+19 conversations with any officials at the Department of Homeland Security regarding 
+20 election fraud or other irregularities in the 2020 Presidential election? 
+21 
+22 A 
+Q The Fifth. 
+Between November 3, 2020, and January 20, 2021, did you have any 
+23 conversations with any current or former officials at the Department of Justice regarding 
+24 election fraud or other irregularities in the 2020 Presidential election? 
+25 A The Fifth.  18 
+1 Q Between November 3, 2020, and January 20, 2021, did you have any 
+2 conversations with any current or former officials at the Office of the Director of National 
+3 Intelligence regarding election fraud or other irregularities in the 2020 Presidential 
+4 election? 
+5 
+6 
+7 A The Fifth. 
+Q At this point, I'd ask to pull up exhibit No. 2, please. 
+Can you see what we've pulled up there as exhibit No. 2? It's a tweet from the 
+8 account General Flynn, @GenFlynn. Can you see that? 
+9 
+10 A Yes. 
+Q So this is a tweet from November 5, 2020, from an account handle 
+11 @GenFlynn that says, quote, "Calling ALL Republican leaders, MUSTER your courage! 
+12 Time is NOW to speak up & join w/ Patriots across America and back @realDonaldTrump 
+13 our @POTUS, #DefendElectionlntegrity of the most important election in U.S. history. 
+14 #StopTheFraud," end quote. 
+15 Are you the @GenFlynn who sent this tweet on November 5th? 
+16 
+17 A 
+Q Fifth. 
+Is this a Twitter account that you used between November 3, 2020, and 
+18 January 6, 2021? 
+19 
+20 
+21 
+22 
+23 
+24 A The Fifth. 
+Q General Flynn, why did you use the hashtag "StopTheFraud" in this tweet? 
+A The Fifth. 
+Q What fraud were you aware of when you sent this tweet on November 5th? 
+A The Fifth. 
+Q What did you mean, General Flynn, when you wrote that Republican leaders 
+25 need to muster their courage? Muster their courage to do what, General Flynn?  1 
+2 A The Fifth. 
+Q In this tweet, you tagged President Trump's personal and official White 
+3 House Twitter accounts. Did you ever discuss this tweet with President Trump or 
+4 anybody else in the White House? 
+5 
+6 A The Fifth. 
+Q Between November 3, 2020, and January 20, 2021, did President Trump or 
+7 anyone else in the White House ever ask you to post a message on any of your social 
+8 media accounts? 
+A The Fifth. 19 
+9 
+10 Q Between November 3, 2020, and January 20, 2021, did you ever discuss with 
+11 President Trump, anyone else in the White House, or any members of the Trump 
+12 campaign messaging strategies about the 2020 Presidential election? 
+13 
+14 
+15 
+16 
+17 A The Fifth. 
+Q At this point, I'd ask you to pull up exhibit No. 3, please. 
+General Flynn, can you see what we've pulled up as exhibit No. 3? 
+A Yes. 
+Q All right. This is also on November 5th, and you posted a tweet concerning 
+18 mail-in ballots and used the hashtag "StopTheSteal." Why did you use the hashtag 
+19 "StopTheSteal" on November 5th? 
+20 
+21 
+22 
+23 A The Fifth. 
+Q What message were you trying to convey when you tweeted that? 
+A The Fifth. 
+Q As of November 5, 2020, did you think that the election was being stolen 
+24 from Donald Trump, General Flynn? 
+25 A The Fifth.  1 Q In this tweet, you include the Twitter handles for Sidney Powell, Rudy 
+2 Giuliani, and Pam Bondi, among others. 
+3 Who is Sidney Powell? 
+4 
+5 A The Fifth. 
+Q We understand that you worked with Ms. Powell in connection with her 
+6 work related to the 2020 election. Is that true? 
+7 
+8 A The Fifth. 
+Q When did you begin working with Ms. Powell in connection with her work 
+9 relating to the 2020 election? 
+10 
+11 A The Fifth. 
+Q What did you help Ms. Powell with in connection with her work relating to 
+12 the 2020 election? 
+A The Fifth. 20 
+13 
+14 Q Were you ever paid by Ms. Powell or any entities or people associated with 
+15 her in connection with your work related to the 2020 election? 
+16 
+17 
+18 
+19 A The Fifth. 
+Q How much were you paid for that work, General Flynn? 
+A The Fifth. 
+Q Do you have any written agreements with Ms. Powell or any entities or 
+20 people associated with Ms. Powell related to the 2020 election? 
+21 
+22 A The Fifth. 
+Q Are you still working with Ms. Powell or any entities associated with her in 
+23 connection with any work related to the 2020 Presidential election? 
+24 
+25 A The Fifth. 
+Q Who is Rudy Giuliani?  1 
+2 A The Fifth. 
+Q Did you ever work with Mr. Giuliani in connection with his work related to 
+3 the 2020 election? 
+4 
+5 A The Fifth. 
+Q Did you have a written agreement to do any work with Mr. Giuliani in 
+6 relation to the 2020 Presidential election? 
+7 
+8 A The Fifth. 
+Q Why did you direct this message that's shown here using the hashtag 
+9 "StopTheSteal" to Ms. Powell, Mr. Giuliani, and Ms. Bondi? 
+10 
+11 A The Fifth. 
+Q You also directed this at the then-DOJ-spokesperson Kerri Kupec, whose 21 
+12 Twitter handle at the time was @KerriKupecDOJ. Why did you include Ms. Kupec in this 
+13 tweet? 
+14 
+15 A The Fifth. 
+Q Did you ever have any discussions with Mr. Barr, Attorney General --former 
+16 Attorney General, excuse me --or try to contact him in connection with the 2020 
+17 Presidential election? 
+18 
+19 
+20 
+21 
+22 
+23 A The Fifth. 
+Q Okay. 
+If we could pull up exhibit No. 4, please. 
+General Flynn, can you see what's just been brought up as exhibit No. 4? 
+A I can. 
+Q This is a tweet from you on November 9, 2020, where you quote a tweet 
+24 from Ms. Powell where she claims that, quote, "There are EXTRAORDINARY voting 
+25 irregularities. At a minimum, #Pennsylvania, #Michigan, #GEORGIA, #Wisconsin must be  22 
+1 called for #Trump." 
+2 I'll represent to you that later on in Ms. Powell's tweet she says that, quote, 
+3 "There's widespread fraud. The votes cannot be certified. Trump won in a landslide," 
+4 end quote. 
+5 At least as of November 9, 2020, had you seen evidence that there were 
+6 extraordinary voting irregularities in the 2020 election? 
+7 
+8 A The Fifth. 
+Q Did you agree with Ms. Powell that at least as of November 9, 2020, there 
+9 were, quote, "extraordinary voting irregularities" in the 2020 Presidential election? 
+10 
+11 A The Fifth. 
+Q What extraordinary voting irregularities did you have evidence of as of 
+12 November 9, 2020, when you sent this tweet? 
+13 
+14 A The Fifth. 
+Q Had you seen evidence, General Flynn, that suggested to you that 
+15 Pennsylvania, Michigan, Georgia, and Wisconsin must be called for President Trump when 
+16 you sent this tweet? 
+17 
+18 
+19 
+20 A The Fifth. 
+Q What evidence had you seen in those cases --or States? Excuse me. 
+A The Fifth. 
+Q Had you seen evidence that President Trump won the 2020 Presidential 
+21 election in a landslide when you sent this tweet? 
+22 
+23 
+24 
+25 A The Fifth. 
+Q Why did you direct your November 9th tweet at Ms. Sidney Powell? 
+A The Fifth. 
+Q Did you ever discuss this tweet with Ms. Powell, either before you sent it or  1 after? 
+2 
+3 23 
+A The Fifth. 
+Q Did Ms. Powell ever share with you any of the information that she was 
+4 relying on when she tweeted about alleged extraordinary voting irregularities in the 2020 
+5 election? 
+6 
+7 A The Fifth. 
+Q General Flynn, why did you include Mr. Giuliani, Mr. Lin Wood, Senator Cruz, 
+8 Mr. Kerik, and Mr. Binnall in the tweet that you sent and that's shown here? 
+9 
+10 A 
+Q The Fifth. 
+In this tweet, you used the hashtag "FightBack." What did you mean by 
+11 "fight back"? Fight back how, General Flynn? 
+12 A The Fifth. 
+13 Q Mr. Lin Wood has said that shortly after election day you went with 
+14 Ms. Powell to his South Carolina estate, although she may have stayed at one of his 
+15 friend's houses. Is that true, General Flynn? 
+16 
+17 
+18 
+19 A The Fifth. 
+Q When did you go to his estate in November? 
+A The Fifth. 
+Q Mr. Wood has said that Ms. Powell asked him if she could use his property, 
+20 quote, "to do work on the election cases." Is that true? 
+21 
+22 A The Fifth. 
+Q It's been reported that you and others were creating something akin to a 
+23 clearinghouse for election fraud cases at Mr. Wood's estate. Is that true? 
+24 
+25 A The Fifth. 
+Q Who else was at Mr. Wood's estate when you were there besides  1 Ms. Powell? 
+2 
+3 A The Fifth. 
+Q Did you do any work with Mr. Wood in connection with the 2020 
+4 Presidential election? 
+A The Fifth. 24 
+5 
+6 Q What was the nature of your relationship with Mr. Wood in connection with 
+7 the 2020 election? 
+8 
+9 A The Fifth. 
+Q Did you have any sort of written agreement with Mr. Wood relating to your 
+10 work for the 2020 Presidential election? 
+11 
+12 
+13 
+14 A The Fifth. 
+Q How long did you stay at Mr. Wood's estate in November? 
+A The Fifth. 
+Q Were you with Mr. Wood or Ms. Powell in South Carolina when you tweeted 
+15 on November 9th about Dominion voting machines? 
+16 
+17 
+18 
+19 A The Fifth. 
+Q When did you first meet Mr. Lin Wood? 
+A The Fifth. 
+Q Were you at Mr. Wood's estate at any other time between November 3, 
+20 2020, and January 6, 2021? 
+21 A The Fifth. 
+22 Q It's been reported, General Flynn, that you were at Mr. Wood's estate in 
+23 South Carolina around Thanksgiving. Is that correct? 
+24 
+25 A The Fifth. 
+Q And I ask because I'm wondering whether that's the same trip that we had  25 
+1 just been talking about or a different trip to Mr. Wood's estate. Is that a different trip? 
+2 
+3 
+4 
+5 A The Fifth. 
+Q Why were you at Mr. Wood's estate around Thanksgiving? 
+A The Fifth. 
+Q Did you work on anything related to the 2020 election when you were at his 
+6 estate around Thanksgiving? 
+7 
+8 A The Fifth. 
+Q Who else was at Mr. Wood's estate when you were there around 
+9 Thanksgiving? 
+10 
+11 A The Fifth. 
+Q Mr. Wood has said that Ms. Powell and others set up in his living room and 
+12 one of his son's rooms and had computers and whiteboards. He described it as an 
+13 "election central." Does that sound like an accurate characterization of what you saw 
+14 when you were there? 
+15 
+16 A The Fifth. 
+Q Do you have any photos of the whiteboards or anywhere else where folks 
+17 were doing election work at Mr. Wood's estate? 
+18 
+19 A The Fifth. 
+Q Mr. Wood has claimed that Ms. Powell asked him to assist with her election 
+20 investigations, including by making phone calls to individuals she was trying to talk into 
+21 being plaintiffs potentially in Georgia. Do you know whether that is true? 
+22 
+23 A The Fifth. 
+Q General Flynn, did you ever talk anyone into becoming a plaintiff in a lawsuit 
+24 relating to the 2020 election? 
+25 A The Fifth.  26 
+1 Q Did you ever offer any type of assistance, including security protection or 
+2 funding, to any plaintiffs in a lawsuit relating to the 2020 election? 
+The Fifth. 3 
+4 A 
+Q Mr. Wood has claimed that Ms. Powell also talked to him about information 
+5 she had related to Venezuela. Do you know whether that is true? 
+6 
+7 A 
+Q The Fifth. 
+What information did Ms. Powell have related to Venezuela and the 
+8 November 2020 Presidential election? 
+9 
+10 A 
+Q The Fifth. 
+General Flynn, did you ever talk to Ms. Powell regarding whether Dominion 
+11 was created in Venezuela to rig elections for that nation's former President, Hugo Chavez, 
+12 who died in 2013? 
+13 
+14 A 
+Q The Fifth. 
+Did you, General Flynn, ever see evidence that Dominion was created in 
+15 Venezuela to rig elections for Mr. Chavez? 
+16 
+17 A 
+Q The Fifth. 
+Did you ever talk to Ms. Powell regarding whether Smartmatic was a 
+18 Venezuela company under the control of corrupt dictators from socialist countries? 
+19 
+20 A 
+Q The Fifth. 
+Did you ever see any evidence that Smartmatic was a Venezuela company 
+21 under the control of dictators from socialist countries? 
+22 
+23 A 
+Q The Fifth. 
+It's been reported that Seth Keshel was at Mr. Wood's estate, as well, 
+24 around Thanksgiving. Do you know why Mr. Keshel was there? 
+25 A The Fifth.  27 
+1 Q Do you know who invited Mr. Keshel to Mr. Wood's estate around 
+2 Thanksgiving? 
+3 A The Fifth. 
+4 Q I believe Mr. Keshel has claimed that he reached out to you through Linked In 
+5 after the election regarding his concerns about the 2020 Presidential election. Is that 
+6 accurate? 
+7 
+8 
+9 
+10 A The Fifth. 
+Q What were Mr. Keshel's concerns that he raised with you, General Flynn? 
+A The Fifth. 
+Q Mr. Keshel has claimed that, after he reached out to you on Linkedln, you 
+11 and he started collaborating on work related to the 2020 election results. Is that true? 
+12 
+13 A The Fifth. 
+Q What work did you collaborate on with Mr. Keshel relating to the 2020 
+14 election? 
+15 
+16 
+17 
+18 A The Fifth. 
+Q When did you begin working with Mr. Keshel? 
+A The Fifth. 
+Q General Flynn, it's been reported that Mr. Patrick Byrne was also at 
+19 Mr. Wood's estate around this time in November and that he arrived with you. Is that 
+20 true? 
+21 
+22 
+23 
+24 
+25 A The Fifth. 
+Q Why was Mr. Byrne there? 
+A The Fifth. 
+Q Why did you go with Mr. Byrne to Mr. Wood's estate? 
+A The Fifth.  1 
+2 
+3 
+4 
+5 
+6 
+7 Q Did you fly on Mr. Byrne's private plane to get to Mr. Wood's estate? 
+A The Fifth. 
+Q Did anyone else travel with you or Mr. Byrne to Mr. Wood's estate? 
+A The Fifth. 
+Q Who invited Mr. Byrne to Mr. Wood's estate at that time? 
+A The Fifth. 
+Q Did you work with Mr. Byrne in connection with the 2020 Presidential 
+8 election? 
+9 
+10 A The Fifth. 
+Q What's your understanding of Mr. Byrne's involvement in work related to 
+11 the 2020 Presidential election? 
+12 
+13 A The Fifth. 
+Q Do you know whether Mr. Byrne helped fund any of Ms. Powell's lawsuits 
+14 concerning the 2020 Presidential election? 
+15 
+16 A The Fifth. 
+Q Do you know who Ms. Powell's lawsuits concerning the 2020 election --or, 
+17 excuse me, how --let me rephrase that, General Flynn. 
+18 Do you know how Ms. Powell's lawsuits concerning the 2020 election were 
+19 funded? 
+20 
+21 A The Fifth. 
+Q Did you fund any of Ms. Powell's lawsuits concerning the 2020 election, 
+22 either personally or through any entity? 
+A The Fifth. 28 
+23 
+24 Q Mr. Jim Penrose, who has portrayed himself as someone who worked at the 
+25 National Security Agency, was also reportedly at Mr. Wood's estate around this time in  29 
+1 November. Is that true? 
+2 A The Fifth. 
+3 Q Did you see Mr. Penrose there? 
+4 A The Fifth. 
+5 Q Who invited Mr. Penrose? 
+6 A The Fifth. 
+7 Q What's your understanding of why Mr. Penrose was there? 
+8 A The Fifth. 
+9 Q And what's your understanding of Mr. Pen rose's involvement in work related 
+10 to the 2020 Presidential election? 
+11 
+12 A The Fifth. 
+Q Mr. Doug Logan, who is the CEO of the company Cyber Ninjas, was also 
+13 reportedly at Mr. Wood's estate in November 2020. Is that true? 
+14 
+15 
+16 
+17 
+18 
+19 A The Fifth. 
+Q Did you see Mr. Logan there in November 2020? 
+A The Fifth. 
+Q Who invited Mr. Logan to Mr. Wood's estate in November 2020? 
+A The Fifth. 
+Q Did you ever work with Mr. Logan in connection with the 2020 Presidential 
+20 election? 
+21 
+22 A The Fifth. 
+Q And what's your understanding of Mr. Logan's involvement in work related 
+23 to the 2020 election? 
+24 
+25 A The Fifth. 
+Q If we could pull up exhibit No. 5, please.  30 
+General Flynn, can you see what we've pulled up as exhibit No. 5? 
+A I can. 1 
+2 
+3 Q This is a tweet from you on November 11, 2020. You quote-tweet a tweet 
+4 from a user called AOECOIN, who writes: 
+5 "#Breaking #BreakingNews 
+6 "#Dominion instruction manual shows how to: 
+7 "-Hack it's software 
+8 "-Feed it 'test stacks' with only Biden marked 
+9 
+10 
+11 
+12 
+13 
+14 
+15 "-Can those be counted as legitimate results? YES. 
+"-Were they? YES. 
+"-Can Purge ENTIRE BATCHES of #Trump votes. 
+"AND THEY DID ALL OF IT" 
+Who is AOECOIN, General Flynn? 
+A The Fifth. 
+Q Did you know that, at least at the time, AOECOIN purported to be a power 
+16 distribution company based in Cambodia? 
+17 
+18 A The Fifth. 
+Q Did you, General Flynn, ever see any evidence that the Dominion instruction 
+19 manual shows how to hack its software? 
+20 
+21 A The Fifth. 
+Q Did you, General Flynn, ever see any evidence that the Dominion instruction 
+22 manual shows how to feed Dominion machines test stacks with only Biden-marked 
+23 ballots? 
+24 
+25 A The Fifth. 
+Q Did you ever see any evidence that the Dominion voting machines counted  31 
+1 only Biden-marked ballots as showing as legitimate? 
+The Fifth. 2 
+3 A 
+Q Did you ever see any evidence that the Dominion instruction manual shows 
+4 how entire batches of Trump votes can be purged? 
+5 
+6 A 
+Q The Fifth. 
+Did you ever see any evidence that the Dominion voting machines purged 
+7 entire batches of Trump votes? 
+8 
+9 A 
+Q The Fifth. 
+Did you ever see any evidence that Dominion voting machines were 
+10 manipulated in any way to affect the outcome of the 2020 election such that President 
+11 Trump should have won? 
+12 
+13 A 
+Q The Fifth. 
+So, going back to this tweet at exhibit No. 5, you write, quote, "There has 
+14 been a toll of blood & treasure that cost America to maintain our constitutional republic 
+15 for almost 250 years. On this Veterans Day, we cannot allow this sacrifice to go in vain," 
+16 unquote. 
+17 In this tweet, you're invoking conflicts as far back as 1776 in the context of 
+18 commentary related to the 2020 Presidential election. Is that right? 
+19 
+20 A 
+Q The Fifth. 
+What message, General Flynn, were you trying to communicate by invoking 
+21 these conflicts and the related, quote, "toll of blood & treasure," unquote? 
+22 
+23 A 
+Q The Fifth. 
+What did you mean when you wrote that, quote, "we cannot allow this 
+24 sacrifice to go in vain," unquote? 
+25 A The Fifth.  1 Q General Flynn, what action were you recommending that people take in 
+2 relation to the 2020 Presidential election with this tweet at exhibit 5? 
+3 
+4 A 
+Q The Fifth. 
+And are you invoking the Fifth Amendment to that question because a 
+5 truthful answer would be compelling you to be a witness against yourself in a future 
+6 criminal case, General Flynn? 32 
+7 Mr. Warrington. Counsel, I would also note that none of the invocation of or the 
+8 assertion of Fifth Amendment here does anything to constitute a waiver of any other 
+9 applicable constitutional privileges that we assert in our pleadings, which in this case 
+10 would also include the First Amendment. 
+11 
+12 Q So I'll ask you again --and I'm just going to read for you the language of the 
+13 Fifth Amendment: "Nor shall any person be compelled in any criminal case to be a 
+14 witness against himself." 
+15 Is your answer to that question that I just asked you, about actions that you were 
+16 recommending that people take in exhibit No. 5, is that the basis for claiming the Fifth? 
+17 
+18 A 
+Q You'll have to repeat the question, because I missed part of it at the end. 
+Of course. So the question to you, General Flynn, was: What actions 
+19 were you recommending that people take with this tweet that you sent as shown in 
+20 exhibit No. 5? 
+21 
+22 A 
+Q The Fifth. And I was exerting my First Amendment privilege. 
+And are you asserting the Fifth because providing a truthful answer would 
+23 be compelling you to be a witness against yourself in any future criminal case, as that 
+24 language shows up in the Fifth Amendment? 
+25 Mr. Warrington. Counsel, I understand what you're trying to do here, but the  33 
+1 text of the Constitution does not exist in a vacuum. The Fifth Amendment has a much 
+2 broader application, has been well-developed with over 200-plus years of case law. 
+3 He is not a lawyer. He is not a constitutional law professor. So he's asserted 
+4 his Fifth Amendment privilege. I think that's as far as we need to go. 
+5 And I'm just asking if he's doing so based on language in the Fifth 
+6 Amendment of the United States Constitution. 
+7 
+8 Q Is that right, General Flynn? Is that the reason you are invoking your Fifth 
+9 Amendment? 
+10 
+11 
+12 
+13 
+14 A 
+Q 
+A 
+Q 
+A Yes, on the advice of counsel. 
+So yes, General Flynn? 
+On the advice of counsel. 
+On the advice of counsel what, General Flynn? 
+I assert my constitutional privilege under the Fifth Amendment and 
+15 respectfully decline to answer the question. 
+16 
+17 
+18 
+19 
+20 Q All right. 
+If we can pull up exhibit No. 7, please. 
+Can you see exhibit 7 on your screen, General Flynn? 
+A 
+Q Yes. 
+This is a tweet from you on November 12, 2020. You write to follow 
+21 @Raiklin, who is "working to make sense out of this disastrous fraud of an election." 
+22 
+23 
+24 
+25 @Raiklin refers to Ivan Raiklin. Is that right, General Flynn? 
+A 
+Q 
+A The Fifth. 
+How do you know Mr. Raiklin? 
+The Fifth.  1 Q There have been various photos published of you and Mr. Raiklin. Is that 
+2 correct? 
+3 
+4 A The Fifth. 
+Q Do you know how Mr. Raiklin was, using your words, quote, "working to 
+5 make sense out of this disastrous fraud of an election," end quote? 
+6 
+7 
+8 
+9 A The Fifth. 
+Q Did you work with Mr. Raiklin at all in connection with the 2020 election? 
+A The Fifth. 
+Q Did you have any involvement in a memorandum prepared by Mr. Raiklin 34 
+10 which claimed that Vice President Pence was, quote, "prohibited from receiving electoral 
+11 votes from six fraudulently certified States," end quote? 
+12 
+13 A The Fifth. 
+Q Did you, General Flynn, ever advise the President of the United States that 
+14 the Vice President was, quote, prohibited from receiving electoral votes from any States? 
+15 
+16 
+17 A The Fifth. 
+Q If we could pull up exhibit No. 8, please. 
+This is a tweet from you on November 15, 2020, where you write, quote, "Thank 
+18 you @tracybeanz for all you do & @RobertPLewis for your team of professionals. 1st 
+19 Praetorian helps us; they now need our help. Consider donating to support these 
+20 American Patriots," end quote. 
+21 Who is Robert P. Lewis, General Flynn? 
+22 
+23 
+24 
+25 A The Fifth. 
+Q How do you know Robert P. Lewis? 
+A The Fifth. 
+Q What is 1st American --excuse me, 1st Amendment Praetorian, or 1AP?  35 
+1 I'm sorry, let me rephrase that. Who is 1st American Praetorian? 
+A The Fifth. 
+Q When did you first learn about this organization? 
+A The Fifth. 
+Q Are you a member of 1AP, General Flynn? 
+A The Fifth. 
+Q What is the nature of your relationship with Mr. Lewis and 1AP? 
+A The Fifth. 2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 Q Between November 3, 2020, and January 6, 2021, did members of 1AP ever 
+10 provide you with security? 
+11 
+12 A The Fifth. 
+Q How many times between November 3, 2020, and January 6, 2021, did 
+13 members of 1AP provide you with security? 
+14 
+15 
+16 
+17 A 
+Q The --
+I'm sorry. You broke up there, General Flynn. 
+A The Fifth. 
+Q In this tweet, you write to, quote, "consider donating to support these 
+18 American Patriots," end quote. 
+19 How much money have you helped raise for 1AP? 
+20 
+21 
+22 
+23 
+24 
+25 A The Fifth. 
+Q Why did you ask others to consider donating to support 1AP? 
+A The Fifth. 
+Q And why was it important for you to support this organization? 
+A The Fifth. 
+Q On November 25, 2020, you received a pardon from President Trump. Is  1 that correct, General Flynn? 
+2 
+3 A Say the question again. 
+Q Sure. On November 25, 2020, you received a pardon from President 
+4 Trump. Is that correct? 
+5 A That's correct. 
+6 Q Why were you granted a pardon by President Trump? 
+7 A You'd have to ask him. 
+8 Q You don't know why you were granted a pardon from him? 
+9 Mr. Warrington. Counsel, can you clarify the question? Are you asking why 
+10 President Trump gave General Flynn a pardon or why --
+-Yes. 
+BY 36 
+11 
+12 
+13 
+14 
+15 
+16 
+17 Q General Flynn, do you know the reason that President Trump pardoned you? 
+A Because I think he saw my whole case as a travesty of justice. 
+Q Did you ever talk to the President about your pardon? 
+A Clarify that. 
+Q Did you ever talk to President Trump about him deciding to pardon you, 
+18 either before or after the pardon? 
+19 
+20 
+21 
+22 
+23 
+24 
+25 Mr. Warrington. [Inaudible.] 
+- l'msorry? 
+The Witness. Yeah. I mean, I thanked him afterwards. 
+BY 
+Q Could you repeat that? I'm sorry, General Flynn. It was breaking up. 
+A I thanked him afterwards. 
+Q Okay. And when you thanked him, did he tell you why he had pardoned  1 you? 
+2 
+3 
+4 Like I said, it was a travesty of justice. 
+That's what he said to you? 
+I don't recall exactly what he said. 37 
+5 A 
+Q 
+A 
+Q Did he say anything about your work or anticipated work related to the 2020 
+6 election as having anything to do with his decision to pardon you? 
+7 A The Fifth. 
+8 I'm going to stop there a moment to see if anybody, any members 
+9 or anybody else who's joining, has any questions for General Flynn at this time. 
+10 Ms. Cheney. Thank you,1111 I have a couple of questions. 
+11 General Flynn, are you aware that Article II and the 12th Amendment to the 
+12 Constitution govern how our Nation selects its President? 
+13 
+14 The Witness. The Fifth. 
+Ms. Cheney. And are you aware, General Flynn, that Congress doesn't select the 
+15 President, the States do, and every State in our Nation now selects the President through 
+16 a popular vote? 
+17 
+18 The Witness. The Fifth. 
+Ms. Cheney. And are you aware, General Flynn, that every State in our Nation 
+19 identifies the manner in which disputes regarding the election are addressed under State 
+20 law? 
+21 
+22 The Witness. The Fifth. 
+Ms. Cheney. And, in each State, those laws set forth a process for challenging an 
+23 election when concerns arise. And that process includes potential recounts or audits; it 
+24 includes an opportunity to litigate disputed issues in court. 
+25 Are you aware that that's our process under the Constitution, General Flynn?  38 
+The Witness. The Fifth. 1 
+2 Ms. Cheney. And are you aware, General Flynn, that when courts have resolved 
+3 any election challenges and when the election result has been certified by the Governor 
+4 of a State, the election's over? 
+5 
+6 
+7 
+8 The Witness. The Fifth. 
+Ms. Cheney. Are you aware, General Flynn, that we are a Nation of laws? 
+The Witness. The Fifth. 
+Ms. Cheney. And, General Flynn, are you aware that that process that I just 
+9 described, where States select the President and States set forth the manner in which any 
+10 disputes regarding the election are resolved and that, when those disputes have been 
+11 litigated and resolved and the election is over, that process is the rule of law? Are you 
+12 aware of that, General Flynn? 
+13 
+14 The Witness. The Fifth. 
+Ms. Cheney. General Flynn, are you aware that, in the 2020 election, the Trump 
+15 campaign and associated entities filed over 60 lawsuits in State and Federal court? 
+16 
+17 The Witness. The Fifth. 
+Ms. Cheney. And are you aware, General Flynn, that in at least 60 of 61 of those 
+18 lawsuits the judges ruled against the Trump campaign? 
+19 
+20 The Witness. The Fifth. 
+Ms. Cheney. And, General Flynn, some have said that the States --that the 
+21 courts did not hear evidence. But are you aware, General Flynn, that in Nevada, for 
+22 example, the judge said, "The Contestants failed to meet their burden to provide credible 
+23 and relevant evidence to substantiate any of the grounds set forth" in which they're 
+24 attempting to contest the November 3, 2020, general election? 
+25 The Witness. The Fifth.  39 
+1 Ms. Cheney. So, General Flynn, are you aware that in multiple of these cases 
+2 judges, including judges appointed by President Trump himself, rejected the Trump 
+3 campaign's claims that there had been fraud in the election? 
+The Witness. The Fifth. 4 
+5 Ms. Cheney. General Flynn --and I ask this with great respect, because I'm very 
+6 aware of the tremendous service that you provided to this Nation, of the service that you 
+7 provided in Iraq, in Afghanistan, around the world, helping identify and hunt down some 
+8 of the most dangerous terrorists who've ever threatened the United States. 
+9 So I wonder, General Flynn, how it could be that you went from that kind of 
+10 service to the Nation to rejecting the rulings of the courts and to urging people to fight 
+11 the rule of law, urging people to take action that was completely unjustified under our 
+12 Constitution. 
+13 Mr. Warrington. I'm going to note an objection for the record to this line of 
+14 questioning as argumentative, but General Flynn can respond. 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 The Witness. I take the Fifth. 
+Ms. Cheney. Thank you. 
+- Thank you, Ms. Cheney. 
+Does anybody else have any questions for the General at this point? 
+Okay. 
+BY 
+Q If you pull up exhibit No. 9, please. 
+General Flynn, can you see what's on the screen as exhibit number 9? 
+A 
+Q I can. 
+On December 4, 2020, you quote-tweeted a tweet from Mark Levin 
+25 regarding a letter from members of the Pennsylvania State legislature that asked  40 
+1 Congress to reject Pennsylvania's electors. In your tweet, you wrote, "This is big and 
+2 how other state legislators across the country should act!", unquote. 
+3 Between November 3, 2020, and January 20, 2021, did you, General Flynn, ever 
+4 contact any State legislators regarding the 2020 Presidential election? 
+5 A The Fifth.  1 
+2 [11:22 p.m.] 
+3 BY 
+4 Q Do you know whether Ms. Sidney Powell ever contacted State legislators 
+5 about the 2020 Presidential election? 
+6 
+7 A The Fifth. 
+Q Do you know if Mr. Giuliani ever contacted any State legislators regarding 
+8 the 2020 election? 
+9 
+10 A The Fifth. 
+Q Between November 3, 2020, and January 20, 2021, did you ever ask any 
+11 State legislators to take any legislative action to change the certified results of the 2020 
+12 Presidential election? 
+13 
+14 A The Fifth. 
+Q In Arizona, Pennsylvania, Georgia, Wisconsin, Michigan, New Mexico, or 41 
+15 Nevada, did you ever ask any State legislators to certify President Trump as the winner of 
+16 the Presidential election in that State? 
+17 
+18 
+19 
+20 
+21 
+22 A The Fifth. 
+Q Do you know if Ms. Powell ever did? 
+A The Fifth. 
+Q Do you know if Mr. Giuliani ever did? 
+A The Fifth. 
+Q Did you ever ask any Governors or secretaries of State to not certify the 
+23 results of their State's election or delay or rescind the certification of their State's 
+24 election? 
+25 A The Fifth.  42 
+Q Do you know if Ms. Powell ever did any of that? 
+A The Fifth. 
+Q Do you know if Mr. Giuliani did any of that? 
+A The Fifth. 
+Q If we could pull up exhibit No. 10, please. 1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 General Flynn, can you see what's shown there as exhibit No. 10 on your screen? 
+A 
+Q I can. 
+In this December 4, 2020, tweet, you say that Mr. Giuliani was, quote, "over 
+9 the target in GA, PA, Ml, AZ, NV & elsewhere. Evidence is overwhelming," end quote. 
+10 At the time of this tweet, General Flynn, December 4, 2020, what evidence were 
+11 you aware of in Georgia that showed that President Trump had won that State? 
+12 
+13 A The Fifth. 
+Q What evidence were you aware of in Pennsylvania that showed that 
+14 President Trump had won Pennsylvania? 
+15 
+16 A The Fifth. 
+Q What evidence were you aware of in Michigan that showed that President 
+17 Trump had won Michigan? 
+18 
+19 A The Fifth. 
+Q What evidence were you aware of in Arizona that President Trump had won 
+20 Arizona? 
+21 
+22 A The Fifth. 
+Q What evidence were you aware of in Nevada that showed President Trump 
+23 had won Nevada? 
+24 
+25 A The Fifth. 
+Q And were you aware of evidence in any other State that showed that  1 President Trump had won that State and not Joe Biden? 
+2 
+3 A The Fifth. 
+Q In his tweets, which you can partially see on exhibit No. 10, Mr. Giuliani 43 
+4 references a, quote, "Bank Heist" tape in Georgia. Do you know what this is a reference 
+5 to? 
+6 
+7 A The Fifth. 
+Q Are you aware that the allegation regarding the tape in Georgia was later 
+8 debunked by election officials? 
+9 
+10 
+11 
+12 
+13 A The Fifth. 
+Q Pull up exhibit No. 11, please. 
+General Flynn, can you see what I'm showing there as exhibit No. 11? 
+A I can see, yeah, the bottom, I guess, the bottom part of it. 
+Q Yeah. So we're focused on the bottom, which is an email dated Friday, 
+14 December 11, 2020, at 3:56 p.m. 
+15 
+16 
+17 A I can see the email. 
+Q Okay. 
+And in that email, it says, "Ric, per our call. This needs to be kept in very tight 
+18 channels. I'd like to determine if this letter is authentic. If it is, we have bigger 
+19 problems than even I can imagine. Thank you. Mike," with the signature box "Michael 
+20 T. Flynn, Lt. Gen., USA (RET)." 
+21 General Flynn, are you the person who sent that email dated December 11, 2020, 
+22 at 3:56 p.m., as shown there in exhibit No. 11? 
+23 
+24 A The Fifth. 
+Q General Flynn, why did you send this email to Mr. Richard Grenell, formerly 
+25 the Acting Director of National Intelligence?  1 
+2 A The Fifth. 
+Q In this email, you reference a phone call with him and say you'd like to 
+3 determine whether the letter that you attached was authentic. Why did you say that, 
+4 General Flynn? 
+5 
+6 
+7 A The Fifth. 
+Q Could you please show exhibit No. 12? 
+Can you see what we're showing up on the screen as exhibit No. 12, which is a 44 
+8 letter with the date November 10, 2020, on it? And it's addressed to Mr. Matt Gorham, 
+9 Assistant Director of Cyber Division, Federal Bureau of Investigation. And if you scroll 
+10 down, it says --there's a signature space for "Christopher C. Krebs, Director, 
+11 Cybersecurity and Infrastructure Security Agency (CISA)." 
+12 Can you see the letter that we've shown as exhibit No. 12? 
+A 13 I can see it. 
+Q Do you know who drafted this letter that's shown as exhibit No. 12, General 
+15 Flynn? 
+16 The Fifth A 
+Q Did you write this letter, General Flynn? 
+18 The Fifth A 
+Q Where did you get this letter in exhibit No. 12 that you later sent to Mr. Rick 
+20 Grenell in the email we just looked at in exhibit No. 11? 
+21 
+22 A The Fifth. 
+Q Is this letter that we're showing here authentic, meaning that Christopher C. 
+23 Krebs from CISA drafted it and intended to send it to the FBI? 
+24 
+25 A The Fifth. 
+Q Did anyone ever represent to you that this letter was authentic?  1 
+2 
+3 
+4 
+5 
+6 A The Fifth. 
+Q Did you ever share this letter with anyone else other than Mr. Grenell? 
+A The Fifth. 
+Q Who did you share it with? 
+A The Fifth. 
+Q In the email, you referenced a phone call with Mr. Grenell. What did you 
+7 talk to him about? 
+8 
+9 
+10 
+11 
+12 A The Fifth. 
+Q All right, if we could please pull up exhibit No. 13. 
+Can you see what we're showing as exhibit No. 13, General Flynn? 
+A I can see it. 
+Q All right. This is a picture of a video of your speech at the December 12, 
+13 2020, Jericho March in Washington, D.C. Do you recall speaking at that event? 
+A The Fifth. 45 
+14 
+15 Q In that speech, you talked about the state of the 2020 election and how the 
+16 courts do not decide who the next President of the United States will be. 
+17 You then said, quote, "Now, I will say that there is a --there are paths. There are 
+18 paths that are still in play. Trust me. I mean, there's a lot of activity that are 
+19 still --that's still playing out," end quote. 
+20 As of December 12, 2020, what paths were you aware of that were still in play 
+21 with respect to the November 2020 Presidential election? 
+22 
+23 A The Fifth. 
+Q And what did you mean when you said there was activity that was, quote, 
+24 "still playing out"? 
+25 A The Fifth.  1 Q General Flynn, was entering the United States Capitol to interrupt the joint 
+2 session of Congress on January the 6th a path that was in play to decide the next 
+3 President of the United States when you gave this speech on December 12th? 
+4 
+5 A The Fifth. 
+Q Later in this speech on December 12th, you repeated that, quote, "the 
+6 courts aren't going to decide who the next President of the United States is going to be. 
+7 We, the people, decide." 46 
+8 General Flynn, if election day had already passed, what did you mean that, quote, 
+9 "we, the people, decide"? 
+10 
+11 A The Fifth. 
+Q Mr. Robert Patrick Lewis has claimed that 1AP provided you with security 
+12 during the Jericho March event in Washington, D.C., on December 1st. Is that true? 
+13 
+14 
+15 March. A The Fifth. 
+Q For the record, I'm sorry, I should've said December 12th for the Jericho 
+16 Is your answer still the same? 
+17 
+18 A The Fifth. Yes. 
+Q Why did 1AP provide you with security on December 12th during the Jericho 
+19 March event? 
+20 
+21 
+22 
+23 A The Fifth. 
+Q What did you hire them to do? 
+A The Fifth. 
+Q And were the people who were hired to protect you on December 12th, 
+24 were they armed? 
+25 A The Fifth.  1 Q Was one of the people who provided you with security services on 
+2 December 12th named Geoffrey Flohr, or Flohr, who was sometimes referred to as 
+3 "Yoda"? 
+4 
+5 A The Fifth. 
+Q Did you or anyone else pay 1AP for their services to you on December 12th 
+6 during the Jericho March? 
+7 
+8 A The Fifth. 
+Q Did you ever discuss with any members of 1AP expectations or plans for 
+9 January 6, 2021? 
+10 
+11 A The Fifth. 
+Q We also understand that members of the Oath Keepers, including Stewart 
+12 Rhodes, joined your protective detail that day on December 12th. Is that true? 
+A The Fifth. 
+Q Did Robert Minuta join your protective detail as well on December 12th? 
+A The Fifth. 47 
+13 
+14 
+15 
+16 
+17 
+18 Q Did you know either Mr. Rhodes or Mr. Minuta at the time, December 12th? 
+A The Fifth. 
+Q That day, Mr. Rhodes urged President Trump to, quote, "wage war" against, 
+19 quote, "traitors at home" by imposing martial law. Specifically, Mr. Rhodes called on 
+20 President Trump to invoke the Insurrection Act to remain in power. 
+21 Were you aware of that, General Flynn? 
+22 
+23 A The Fifth. 
+Q Did you, General Flynn, ever discuss invoking the need to impose martial law 
+24 with Mr. Rhodes? 
+25 A The Fifth.  1 Q Did you ever discuss with any members of the Oath Keepers your 
+2 expectations or plans for January the 6th, 2021? 
+3 
+4 A 
+Q The Fifth. 
+We also understand that members of the group Vets for Trump may have 
+5 provided you with security during the December 12th event. Is that true? 
+6 
+7 A 
+Q The Fifth. 
+Did you ever discuss with any members of Vets for Trumps expectations or 
+8 plans for January 6, 2021? 
+9 
+10 
+11 
+12 
+13 A 
+Q The Fifth. 
+If we could please pull up exhibit No. 14. 
+Can you see exhibit No. 14, General Flynn? 
+A 
+Q Yes, I can see it. 
+And I'll just note, we've been going for about an hour and a half. So if at 48 
+14 any point, General Flynn or Mr. Warrington, if you need a break, please just let us know. 
+15 Okay. So, in exhibit No. 14, on December 18th, you quote-tweeted a tweet from 
+16 Newt Gingrich where he writes, quote, "Leftwing media wont tell you but "Pennsylvania, 
+17 Georgia, Michigan, Wisconsin, Arizona, Nevada, and New Mexico all selected two slates of 
+18 electors: one slate accepts a Democrat victory, but the other slate anticipates a 
+19 turnaround." 
+20 Did you, General Flynn, have any involvement in the meeting and casting of 
+21 purported electoral votes by Republican Party electors in Pennsylvania, Georgia, 
+22 Michigan, Wisconsin, Arizona, or New Mexico on December 14, 2020? 
+23 
+24 A 
+Q The Fifth. 
+Was the first time that you heard of this on December 18th when you posted 
+25 this tweet, or had you heard about it before?  1 
+2 A 
+Q 49 
+The Fifth. 
+Did you know that the Trump campaign helped organize the meeting and 
+3 casting of purported electoral votes by Republican Party electors in those seven States 
+4 that President Trump had actually lost? 
+5 
+6 A 
+Q The Fifth. 
+Do you know why the Trump campaign wanted Republican Party electors to 
+7 meet and cast purported electoral votes by Republican Party electors in those seven 
+8 States that Mr. Trump had lost? 
+9 
+10 A 
+Q The Fifth. 
+Do you know that Joe Biden, Joseph Biden, had been certified as the winner 
+11 of the election in those seven States where Republican Party electors met and cast 
+12 purported electoral votes? 
+13 
+14 A 
+Q The Fifth. 
+Were you aware of a theory that, on January 6th, Vice President Pence had 
+15 the authority to choose which slate of electoral votes to count during the joint session if 
+16 he was presented with more than one slate of electoral college votes from a single State? 
+17 
+18 A 
+Q The Fifth. 
+Did you, General Flynn, ever advise the President of the United States that 
+19 the Vice President should choose to count or not count certain electoral college votes 
+20 during the joint session of Congress on January 6, 2021? 
+21 
+22 A 
+Q The Fifth. 
+Did you, General Flynn, ever advise the President of the United States that 
+23 the Vice President should declare Mr. Trump to be the winner of the 2020 Presidential 
+24 election? 
+25 A The Fifth.  50 
+1 Q Were you aware of a theory on January 6th that the Vice President had the 
+2 authority to delay the counting of electoral votes from certain States and instead ask the 
+3 relevant State legislatures to look into election results? 
+4 
+5 A 
+Q The Fifth. 
+Did you ever discuss that theory about delaying the count of electoral votes 
+6 during the joint session with President Trump? 
+7 
+8 A 
+Q The Fifth. 
+On December 17, 2020, you had an interview with Newsmax host Greg Kelly 
+9 where you claimed that President Trump could, quote, "immediately on his order seize 
+10 every single one of those machines around the country on his order. He could also 
+11 order, within the swing States, if he wanted to, he could take military capabilities and he 
+12 could place them in those States and basically rerun an election in each of those States. 
+13 It's not unprecedented," end quote. 
+14 What were you relying on when you said that President Trump could seize all 
+15 voting machines during that December 17, 2020, interview with Newsmax? 
+16 
+17 A 
+Q The Fifth. 
+Did you, General Flynn, ever tell President Trump or anyone who worked in 
+18 the White House that the President could seize voting machines in connection with the 
+19 2020 Presidential election? 
+20 
+21 A 
+Q The Fifth? 
+What was the basis for your belief that President Trump could take military 
+22 capabilities and rerun the election in swing States? 
+23 
+24 A 
+Q The Fifth. 
+Did you, General Flynn, ever tell President Trump or anyone who worked in 
+25 the White House that President Trump could take military capabilities and rerun the  1 election in swing States? 
+2 
+3 A 
+Q The Fifth. 
+During this interview, you also stated that, quote, "these people out there 
+4 talking about martial law like it's something we've never done. Martial law has been 
+5 instituted 64 times. I'm not calling for that. We have a constitutional process" --and 
+6 go on, "that has to be followed. But I will tell you, I'm a little concerned about Chief 51 
+7 Justice John Roberts at the Supreme Court. We can't fool around with the fabric of the 
+8 Constitution of the United States," end quote. 
+9 Why did you bring up martial law in the context of the 2020 election during that 
+10 December 17th interview with Newsmax? 
+11 
+12 A 
+Q The Fifth. 
+Between November 3, 2020, and January 20, 2021, was martial law ever 
+13 brought up in any conversation that you had with President Trump or anybody else who 
+14 worked in the White House? 
+15 
+16 A 
+Q The Fifth. 
+Did you ever tell President Trump or anyone else who worked in the White 
+17 House that the President could invoke martial law in connection with the 2020 
+18 Presidential election? 
+19 
+20 A 
+Q The Fifth. 
+Did you, General Flynn, ever hear anyone else take the position in a 
+21 conversation with President Trump or anyone else in the White House that martial law 
+22 could be used in connection with the 2020 Presidential election? 
+23 
+24 A 
+Q The Fifth. 
+So, during this same December 17th interview, you also claimed that 
+25 President Trump needed to appoint a special counsel. Did you ever recommend to  1 President Trump that he appoint a special counsel in connection with the 2020 
+2 Presidential election? 
+3 
+4 A The Fifth. 
+Q Did you ever advise President Trump that he should appoint Sidney Powell 
+5 as special counsel for issues related to the November 2020 Presidential election? 
+A The Fifth. 52 
+6 
+7 Q During this interview, you claimed that there had been foreign interference 
+8 in the 2020 election, including from China, likely Russia, likely Iran, and Venezuela, whom 
+9 you claimed participated in the development of voting machines. 
+10 What evidence, General Flynn, did you see that showed that China had interfered 
+11 with the 2020 Presidential election? 
+12 
+13 A The Fifth. 
+Q Did you ever show any purported evidence to President Trump or anyone 
+14 else in the White House that China had interfered in the 2020 Presidential election? 
+15 
+16 A The Fifth. 
+Q And what evidence did you, General Flynn, see that showed that Russia likely 
+17 interfered in the 2020 Presidential election? 
+18 
+19 A The Fifth. 
+Q Did you ever show that evidence to President Trump or anybody else in the 
+20 White House? 
+21 
+22 A The Fifth. 
+Q What evidence, General Flynn, did you see that showed that Iran had likely 
+23 interfered in the 2020 Presidential election? 
+24 
+25 A The Fifth. 
+Q And did you ever show any of that purported evidence about Iran to  53 
+1 President Trump or anyone else in the White House? 
+A The Fifth. 2 
+3 Q What evidence, General Flynn, did you see that showed that Venezuela had 
+4 interfered in the 2020 Presidential election? 
+5 
+6 A The Fifth. 
+Q And did you ever show any purported evidence related to Venezuela to 
+7 President Trump or anybody else who worked in the White House? 
+8 
+9 
+10 A The Fifth. 
+Q If we could please pull up exhibit No. 15. 
+Do you see exhibit No. 15 there? And we could zoom in a little bit to make that a 
+11 little easier to read. 
+12 
+13 A Okay, I see it. 
+Q Okay. 
+14 This is an email from December 16, 2020, from whom I'll represent to you is 
+15 Mr. Philip Waldron to Mr. Bernie Kerik, Katherine Friess, and you. 
+16 Mr. Waldron writes, quote, "Per conversation. This is the final draft document. 
+17 For discussion and coordination. PRE-DECISIONAL," end quote. 
+18 He attaches a document dated December 16th called, quote, "Presidential 
+19 Findings to Preserve, Collect, and Analyze National Security Information Regarding the 
+20 2020 Election." 
+21 If we go down to the next page of this exhibit, I'll show you the top portion of that. 
+22 And that is dated December 16, 2020. And in all capital letters it says, "PRESIDENTIAL 
+23 FINDINGS TO PRESERVE, COLLECT, AND ANALYZE NATIONAL SECURITY INFORMATION 
+24 REGARDING THE 2020 GENERAL ELECTION." 
+25 Did you receive this email and attached document from Mr. Waldron, General  54 
+1 Flynn? 
+2 A The Fifth. 
+3 Q And was this email that you received in fact a followup to a conversation 
+4 that you had had with Mr. Waldron, Mr. Kerik, and Ms. Katherine Friess? 
+A The Fifth. 5 
+6 Q Did you have any involvement in the preparation, drafting, or review of this 
+7 document that's attached and shown here dated December 16, 2020? 
+8 
+9 A The Fifth. 
+Q Mr. Waldron in his email to you and others says, quote, "Per conversation." 
+10 What was the conversation that you had with Mr. Waldron and others about this 
+11 document that's shown here in the exhibit? 
+12 
+13 
+14 
+15 A The Fifth. 
+Q Who is Mr. Waldron, General Flynn? 
+A The Fifth. 
+Q What was the nature of your relationship with Mr. Waldron at this time, in 
+16 December 2020? 
+17 
+18 
+19 
+20 A The Fifth. 
+Q Did you work with Mr. Waldron in connection with the 2020 election? 
+A The Fifth. 
+Q And why was this document that we're looking at in exhibit 15 that was 
+21 attached to the email we just looked at, why was it prepared? 
+22 
+23 
+24 
+25 A The Fifth. 
+Q Who prepared this document? 
+A The Fifth. 
+Q Whose idea was it to draft this document?  55 
+The Fifth. 1 
+2 A 
+Q In the email that this document's attached to, Mr. Waldron said, quote, "For 
+3 discussion and coordination," end quote. Who was it that needed to be part of the 
+4 coordination as it related to this document? 
+5 
+6 A 
+Q The Fifth. 
+So this document here that's on page 2 of exhibit No. 15 has been referred 
+7 to as a draft executive order. Is that your understanding of what this document was 
+8 meant to be? 
+9 
+10 A 
+Q The Fifth. 
+This document refers to National Security Presidential Memorandum 21, 
+11 which is, as I understand it, a classified document that is not public. Do you know who 
+12 included the reference to that Presidential Memorandum 21? 
+13 
+14 A 
+Q The Fifth. 
+Who decided which authorities to cite in this draft executive order dated 
+15 December 16, 2020? 
+16 A The Fifth. 
+17 Q And did you, General Flynn, contribute to any portion of this document 
+18 dated December 16, 2020? 
+19 A The Fifth. 
+20 Q If we scroll down to page 3 of exhibit No. 15, which is page 2 of this draft 
+21 executive order, at the bottom, it says, "Effective immediately, the Secretary of Defense 
+22 shall seize, collect, retain and analyze all machines, equipment," and so forth. 
+23 So this document, if enacted, would give the Secretary of Defense the ability to 
+24 seize all voting machines. Did you think that the Secretary of Defense had the ability to 
+25 seize all voting machines by virtue of the authorities referenced in this document?  1 
+2 A 
+Q The Fifth. 
+Why, in particular, was the Secretary of Defense the person or the position 
+3 cited in this document? 
+4 
+5 
+6 
+7 A 
+Q 
+A 
+Q The Fifth. 
+General Flynn, why did all voting machines need to be seized? 
+The Fifth. 
+What information did you and others included in the email transmitting in 
+8 this document think that seizing voting machines would yield? 
+9 
+10 A 
+Q The Fifth. 
+If we go to page 4 of this exhibit No. 15, which is page 3 of this draft 
+11 executive order, in particular we're going to look at number 7. It discusses the 
+12 "appointment of a Special Prosecutor to oversee this operation and institute all criminal 
+13 and civil proceedings as appropriate based on the evidence collected and provided all 
+14 resources necessary to carry out her duties consistent with federal laws and the 
+15 Constitution." 
+16 Was the special prosecutor contemplated in this document Ms. Sidney Powell? 
+17 
+18 A 
+Q The Fifth. 
+Did you ever ask the President of the United States to sign this draft 
+19 executive order dated December 16, 2020, and attached to the email in exhibit 15? 
+20 
+21 A 
+Q The Fifth. 
+Are you aware of anyone who asked the President of the United States to 
+22 sign this draft executive order? 
+23 A The Fifth. 
+24 Q If we go to page 5 of this exhibit, which follows the draft executive order, 
+25 there's another email dated December 16, 2020, at 5:50 p.m. 56  1 
+2 
+3 
+4 
+5 Can you see that on the screen, General Flynn? 
+A I can. Yeah, I can. 
+Q And that says it's from Is that you, General Flynn? 
+A The Fifth. 
+Q The subject of this is "Re: Findings_Draft. PRE-DECISIONAL," and it's 57 
+6 dated December 16, 2020, at 5:50 p.m., and it's to redacted addresses but "bernardkerik" 
+7 and "kfriess." 
+8 In the email, you write, "I reviewed. Fix the spelling error in the title. Ensure it 
+9 gets a legal review, but this is ready to go from my standpoint. Thanks for getting the 
+10 key points in. FLYNN." And then, "Sent from II 
+11 What were the key points in this draft document attached to the email that you 
+12 sent, General Flynn? 
+13 
+14 A The Fifth. 
+Q You write, "Ensure it gets a legal review." Who was going to be providing 
+15 the legal review that you wanted to ensure? 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 A The Fifth. 
+Q Did anyone ever provide a legal review of this document? 
+A The Fifth. 
+Q You write, "It's ready to go from my standpoint." Ready to go where? 
+A The Fifth. 
+Q Was this document intended to go to President Trump? 
+A The Fifth. 
+Q And what was Ms. Friess's contribution to this document? Did she help 
+24 draft or revise it? 
+25 A The Fifth.  58 
+Q Did she help review it? 
+A The Fifth. 
+Q Did she provide a legal opinion about the draft document? 
+A The Fifth. 1 
+2 
+3 
+4 
+5 Q If we go to page 6 of this exhibit, exhibit No. 15, this is another email. And 
+6 can you see what we're showing as page 6, General Flynn? 
+7 
+8 A Looks like the same thing. 
+Q Okay. Well, I'll show you, this one is from "p," and initials in the bottom of 
+9 the email are "PW." 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 A I see that. 
+Q You can see that? 
+A It starts with "Final draft finding"; is that right? 
+Q That's correct, General. 
+A Okay. Okay. 
+Mr. Warrington. ., I'm sorry. I just want to get the number straight. 
+I'm sorry? 
+Mr. Warrington. Is this a different exhibit or number? I just want to get the 
+18 number straight. 
+19 It is not, Mr. Warrington. It's the same exhibit, different page. 
+20 We're now on page 6 of exhibit No. 15. 
+21 
+22 
+23 Mr. Warrington. Thank you. 
+BY 
+Q Okay. So this is from "p," who I'll represent to you we understand to be 
+24 Phil Waldron. The subject is "Fw: Finding Docs," date, December 17, 2020, at 8:46 
+25 a.m., and to a series of redacted email addresses but "bernardkerik" and "kfriess."  59 
+1 The body reads, "Final draft finding --includes DHS switch language as well as 
+2 Foreign interference expansion and warrant issuance language. PW. Sent from 
+mobile." 3 
+4 
+5 
+6 
+7 And that was a response --or a forward, rather, of an original message that's 
+shown just below it from December 17, 2020, at 8:44 a.m. from Russell Ramsland, which 
+had an empty message but several documents attached. 
+And if you could scroll down just a bit, we can show you those attached 
+8 documents. One is called "publickey." One is "Findings FINAL." One is "Foreign 
+9 Election lnterfer ... vl.pdf." 
+10 General Flynn, who is Russell Ramsland? 
+11 
+12 
+13 
+14 
+15 
+16 A 
+Q 
+A 
+Q 
+A 
+Q The Fifth. 
+What's the nature of your relationship with Russell Ramsland? 
+The Fifth. 
+I'm sorry. I couldn't hear you on that one, General Flynn. 
+The Fifth,. 
+Thank you. 
+17 Did you work with Mr. Ramsland in connection with the 2020 Presidential 
+18 election? 
+19 
+20 A 
+Q The Fifth. 
+In his email, Mr. Waldron writes, "Final draft finding --including DHS switch 
+21 language as well as Foreign interference expansion and warrant issuance language." 
+22 Do you know why the December 16th "Presidential Findings" document that we 
+23 just discussed was revised so that the authority to seize voting machines would be 
+24 granted to the Secretary of the Department of Homeland Security rather than the 
+25 Department of Defense?  1 
+2 A The Fifth. 
+Q And if we go to page 7, same exhibit, No. 15, this is another document that 
+3 says "PRESIDENTIAL FINDINGS TO SEIZE, COLLECT, PRESERVE AND ANALYZE NATIONAL 
+4 SECURITY INFORMATION REGARDING THE 2020 GENERAL ELECTION," but this is dated 
+5 December the 17th, 2020, not December the 16th, as we looked at just a moment ago. 
+6 Have you reviewed this document that's shown on page 7 of exhibit 15? 
+7 
+8 
+9 
+10 A The Fifth. 
+Q Did you contribute to any portion of this document? 
+A The Fifth. 
+Q If we go to page 9 of this exhibit, which is the third page of this draft 
+11 document dated December 17th, and we look at specifically number 8, the paragraph 
+12 that's numbered 8, this, again, references a special prosecutor who would be given "all 
+13 resources necessary to carry out her duties consistent with federal laws and the 
+14 Constitution." 
+15 Was the special prosecutor contemplated in this document Ms. Sidney Powell? 
+A The Fifth. 60 
+16 
+17 Q Do you know whether either of these draft documents, the one that's dated 
+18 December 16th or December 17th that we just looked at and that are included in exhibit 
+19 No. 15, were ever signed by President Trump? 
+20 
+21 A The Fifth. 
+Q If we can go to exhibit No. 16, please. 
+22 Can you see the document that we've just pulled up, General Flynn, as exhibit No. 
+23 16? 
+24 
+25 A "TALKING POINTS & OUTLINE"? 
+Q That's correct.  1 
+2 A Yes. 
+Q Okay. So this is an outline and talking points relating to Executive Order 
+3 13848 in connection with the 2020 Presidential election. 
+4 Have you seen this document before? 
+5 
+6 
+7 
+8 
+9 A The Fifth. 
+Q Do you know who drafted this document? 
+A The Fifth. 
+Q Do you know if Emily Newman had any role in drafting this document? 
+A The Fifth. 61 
+10 Q How about Katherine Friess? Do you know if she had a role in drafting this 
+11 document? 
+12 
+13 
+14 
+15 A The Fifth. 
+Q Did you, General Flynn, contribute to any portion of this document? 
+A The Fifth. 
+Q Did you ever discuss Executive Order 13848 with President Trump related to 
+16 the November 2020 Presidential election? 
+17 
+18 
+19 A The Fifth. 
+Q Okay. 
+You can take that down. Thank you. 
+20 I want to draw your attention to a December 18th meeting at the White House. 
+21 Were you at the White House on December 18, 2020? 
+22 
+23 
+24 
+25 A The Fifth. 
+Q What time did you get to the White House on December 18th? 
+A The Fifth. 
+Q Did you arrive at the White House with anyone?  1 
+2 A The Fifth. 
+Q We understand that you arrived with Mr. Byrne and Ms. Powell. Is that 
+3 accurate? 
+4 
+5 A The Fifth. 
+Q Why were you with Mr. Byrne and Ms. Powell on December 18th at the 
+6 White House? 
+7 
+8 A The Fifth. 
+Q Robert Patrick Lewis has claimed that he provided security and drove you 
+9 and Ms. Powell to the White House that day. Is that true? 
+A The Fifth. 62 
+10 
+11 Q Why did Mr. Robert Patrick Lewis provide security to you and Ms. Powell, if 
+12 at all? 
+13 A The Fifth. 
+14 Q And did Mr. Lewis go inside the White House with you and Ms. Powell? 
+15 A The Fifth. 
+16 Q Was Mr. Lewis paid in connection with services that he provided to you or 
+17 anybody else on December 18, 2020, that you're aware of? 
+18 
+19 A The Fifth. 
+Q We understand that Mr. Byrne, through someone named Patrick Weaver 
+20 and someone else named Garrett Ziegler, helped get you, Ms. Powell, and himself into 
+21 the White House for this meeting. Is that true? 
+22 
+23 A 
+Q The Fifth. 
+Mr. Garrett Ziegler worked at the White House as Peter Navarro's aide. Is 
+24 that right? Is that your understanding as well? 
+25 A The Fifth.  1 
+2 
+3 Q At the time of this meeting, did you know Mr. Ziegler? 
+A The Fifth. 
+Q How about Patrick Weaver? Did you know him? 
+4 A The Fifth. 
+5 Q Do you know how Mr. Byrne knew either Mr. Weaver or Mr. Ziegler? 
+6 A The Fifth. 
+7 Q Who did you meet with when you were at the White House on December 
+8 18, 2020? 
+9 A The Fifth. 
+10 Q In a meeting that you participated in at the White House on December 18, 63 
+11 2020, did President Trump, representatives from the White House Counsel's Office, Mark 
+12 Meadows, and Robert O'Brien also participate? 
+13 
+14 A The Fifth. 
+Q During the meeting on December 18th, did non-White-House personnel also 
+15 attend, including Mr. Byrne, Ms. Powell, Mr. Giuliani, Emily Newman, and Matt Morgan? 
+16 
+17 
+18 2020? 
+19 
+20 A The Fifth. 
+Q What was discussed during this meeting, General Flynn, on December 18, 
+A The Fifth. 
+Q So it's been reported that, during this meeting, Ms. Powell talked about 
+21 Dominion voting machines and made various election fraud claims that involved foreign 
+22 countries such as Venezuela, Iran, and China. Is that accurate? 
+23 
+24 
+25 A The Fifth. 
+Q What was President Trump's response to Ms. Powell's claims? 
+A The Fifth.  1 Q Did White House Counsel say anything in response to the claims that Ms. 
+2 Powell made about voting machines and election interference from foreign countries? 
+3 
+4 A 
+Q The Fifth. 
+It's been reported that Ms. Powell proposed declaring a national security 
+5 emergency during this meeting. Is that accurate? 
+6 
+7 A 
+Q The Fifth. 
+What was President Trump's response to Ms. Powell's proposal about 
+8 declaring a national security emergency? 
+9 
+10 A 
+Q The Fifth. 
+Did the White House Counsel say anything about the proposal to declare a 
+11 national security emergency? 
+12 
+13 A 
+Q The Fifth. 
+Did anyone other than Ms. Powell propose declaring a national security 
+14 emergency during this meeting on December 18th? 
+The Fifth. 64 
+15 
+16 A 
+Q It's also been reported that Ms. Powell proposed invoking martial law during 
+17 this meeting related to the November 2020 Presidential election. Is that accurate? 
+18 
+19 A 
+Q The Fifth. 
+What was President Trump's response to Ms. Powell's proposal about 
+20 invoking martial law? 
+21 
+22 
+23 
+24 
+25 law? A 
+Q 
+A 
+Q The Fifth. 
+Did White House Counsel say anything in response to these suggestions? 
+The Fifth. 
+Did anybody else who participated in that meeting propose invoking martial  1 
+2 A 
+Q The Fifth. 
+We understand that, during this meeting, President Trump may have told 
+3 White House lawyers Eric Herschmann and Pat Cipollone that they weren't offering him 
+4 any solutions but that Ms. Powell and others were, so why not try what Ms. Powell and 
+5 others were proposing. Is that accurate? 
+6 
+7 A 
+Q The Fifth. 
+We understand that Sidney Powell wanted to be appointed as a special 65 
+8 counsel to investigate election fraud claims and that President Trump told Mr. Meadows 
+9 to prepare, quote, "the forms," unquote, relating to that appointment. Is that accurate? 
+10 
+11 A 
+Q The Fifth. 
+And during that meeting, did you, General Flynn, recommend that Ms. 
+12 Powell be appointed as special counsel? 
+13 
+14 
+15 know? 
+16 
+17 A 
+Q 
+A 
+Q The Fifth. 
+Why wasn't Sidney Powell ever appointed as special counsel, so far as you 
+The Fifth. 
+Were either of the "Presidential Findings" documents dated December 16th 
+18 or dated December 17th that we just discussed and that are shown in exhibit 15, were 
+19 those discussed with the President during this meeting on December 18th at the White 
+20 House? 
+21 
+22 A 
+Q The Fifth. 
+Aside from those two documents, were any other documents shown or 
+23 discussed with President Trump during the December 18th meeting at the White House? 
+24 
+25 A 
+Q The Fifth. 
+Were you or anybody else given any instructions with respect to the  66 
+1 November 2020 Presidential election during this meeting on December 18th at the White 
+2 House? 
+3 
+4 A The Fifth. 
+Q And, during this meeting, did you make any additional plans for 
+5 conversations with President Trump as followup to what had been discussed during the 
+6 meeting on December 18th? 
+7 
+8 A The Fifth. 
+Q If we could pull up exhibit No. 18, please. 
+9 And before we get to that, aside from the meeting on December 18, 2020, that 
+10 we've just been discussing, did you have any other meetings at the White House with 
+11 President Trump or anybody who worked at the White House? 
+12 
+13 
+14 A The Fifth. 
+Q Okay. 
+So exhibit No. 18, we'll show you that. It's titled "Counter-Election Fraud 
+15 NSPM-13 Request, December 18, 2020," "Page 1 of 3." The "TO:" line is blank. The 
+16 "FROM:" line is also blank. And the date is December 18, 2020. 
+17 Was this document ever discussed during the December 18th meeting at the 
+18 White House? 
+19 
+20 
+21 
+22 
+23 
+24 A The Fifth. 
+Q Have you ever seen this document before, General Flynn? 
+A The Fifth. 
+Q Do you know who drafted this document? 
+A The Fifth. 
+Q In the first line there, it said, "A group of former DoD and IC analysts 
+25 collected, analyzed, and organized into a work product substantial evidence suggesting  67 
+1 foreign involvement in both the violent 'Color Revolution' the U.S. is presently undergoing 
+2 and specifically the 2020 Election fraud and their involvement in altering the vote counts 
+3 in the 2020 Election." And it goes on. 
+4 Do you know who the DOD and IC analysts are that are referenced in exhibit No. 
+5 18? 
+6 
+7 A 
+Q The Fifth. 
+This document mentions running targeted inquiries of NSA raw signals to 
+8 pursue "suspected foreign interference of the 2020 election vote count manipulation." 
+9 Did you ever discuss with President Trump running targeted inquiries of NSA raw 
+10 signals data? 
+11 
+12 A 
+Q The Fifth. 
+Do you know whether anybody discussed with President Trump running 
+13 targeted inquiries of NSA raw signals data related to the November 2020 Presidential 
+14 election? 
+15 
+16 A 
+Q The Fifth. 
+If you scroll down to the bottom of the first page of this exhibit, exhibit No. 
+17 18, it shows a point of contact for legal and execution logistics, "Frank Colon, Senior Legal 
+18 Counsel, Cyber Operations, U.S. Army, INSCOM." And then it has aredacted@mail.mil 
+19 email address. 
+20 Do you know who Frank Colon is? 
+21 
+22 A 
+Q The Fifth. 
+Did you ever do any work with Frank Colon in connection with the 2020 
+23 Presidential election? 
+24 
+25 A 
+Q The Fifth. 
+If we can go to exhibit No. 19, please.  1 
+2 
+3 
+4 Can you see what we've pulled up as exhibit No. 19, General Flynn? 
+A I see an email and the "From:" line is "OmniTen." Is that right? 
+Q Yep, that's the one, General Flynn. 
+So this is an email from Mr. Waldron to Mr. Mark Meadows, President Trump's 
+5 chief of staff at the time. And he attached what he called a "National Asset Tasking 
+6 request" to support Executive Order 13848. 68 
+7 If we can go to page 2 of this same document, exhibit No. 19, there's a document 
+8 dated December 21, 2020, and it says, "Priority Intelligence Requirements And Requests 
+9 for Information." 
+10 Have you ever seen or viewed this document? 
+11 
+12 
+13 
+14 
+15 
+16 A 
+Q 
+A 
+Q 
+A 
+Q The Fifth. 
+Do you know who drafted this document? 
+The Fifth. 
+Did you contribute to any portion of this document? 
+The Fifth. 
+Do you know whether this document in exhibit No. 19 was ever discussed 
+17 with President Trump? 
+18 
+19 
+20 
+21 A 
+Q 
+A 
+Q The Fifth. 
+Do you know why this document was prepared? 
+The Fifth. 
+Do you know anything about the meeting that Mr. Waldron references in his 
+22 cover email to Mr. Meadows, where he said, "Reference our conversation in your office 
+23 yesterday afternoon"? 
+24 
+25 A 
+Q Did you just jump back to another exhibit or what? 
+This is the transmittal email for that document. And so the question is:  69 
+1 Do you know anything about the meeting that Mr. Waldron references in this cover email 
+2 to Mr. Meadows? 
+3 
+4 
+5 
+6 
+7 
+8 
+9 A The Fifth. 
+Q You can take that down. Thank you. 
+Do you know Ezra Cohen or Ezra Cohen-Watnick, as he's sometimes called? 
+A The Fifth. 
+Q How do you know Mr. Cohen? 
+A The Fifth. 
+Q After you left the Trump administration, did you continue to interact with 
+10 Mr. Cohen? 
+11 
+12 A The Fifth. 
+Q We understand that you contacted Mr. Cohen in early December 2020. 
+13 Why did you contact him in early December 2020? 
+14 
+15 A The Fifth. 
+Q In your phone call with Mr. Cohen, did you tell him that he needed to return 
+16 to the United States from his trip abroad because, quote, "something's about to happen," 
+17 unquote? 
+18 
+19 A The Fifth. 
+Q What was about to happen when you said "something's about to happen" to 
+20 Mr. Cohen? 
+21 
+22 
+23 
+24 
+25 A The Fifth. 
+Q Was something going to happen about the 2020 Presidential election? 
+A The Fifth. 
+Q Why did you want Mr. Cohen to come back from his trip? 
+A The Fifth.  1 
+2 
+3 Q How did you think that Mr. Cohen could assist? 
+A The Fifth. 
+Q In your phone call with Mr. Cohen in early December of 2020, did you say 
+4 anything else? 
+5 
+6 
+7 else? 
+8 
+9 
+10 
+11 A The Fifth. 
+Q Besides coming back from his trip, did you ask Mr. Cohen to do anything 
+A The Fifth. 
+Q And what was Mr. Cohen's response or reaction to what you asked of him? 
+A The Fifth. 
+Q Did you contact someone else at ODNI to get a hold of Mr. Cohen for that 
+12 phone call? 
+A The Fifth. 
+Q Who at ODNI did you contact to get a hold of Mr. Cohen? 
+A The Fifth. 
+Q Did you feel comfortable calling Mr. Cohen directly? 
+A The Fifth. 
+Q And how long did this call in early December of 2020 with Mr. Cohen last? 
+A The Fifth. 
+Q Did anyone ask you to make this call to Mr. Cohen? 
+A The Fifth. 70 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 Q Did you call Mr. Cohen a second time in December 2020, after the call we've 
+23 just been discussing? 
+24 
+25 A The Fifth. 
+Q When exactly did you call him the second time?  71 
+A The Fifth. 
+Q And why did you call Mr. Cohen a second time in December? 
+A The Fifth. 1 
+2 
+3 
+4 Q Was this second call with Mr. Cohen after the December 18th meeting at the 
+5 White House with President Trump that we discussed earlier? 
+6 
+7 A The Fifth. 
+Q And during this second phone call with Mr. Cohen, did you tell him that, 
+8 quote, "we need to have the military take over the election and redo the election," 
+9 unquote, or something like that? 
+10 
+11 A The Fifth. 
+Q Did you say anything to the effect of getting the military involved in the 2020 
+12 Presidential election? 
+13 
+14 
+15 
+16 A The Fifth. 
+Q How did you think Mr. Cohen could assist with that? 
+A The Fifth. 
+Q Did you call Mr. Cohen a quitter during this second phone call in December 
+17 of 2020? 
+18 
+19 A The Fifth. 
+Q Did you say anything else to Mr. Cohen during that second phone call in 
+20 December? 
+21 
+22 A The Fifth. 
+Q What was his response, meaning Mr. Cohen's response, or reaction, to what 
+23 you said to him during this call? 
+24 
+25 A The Fifth. 
+Q How long did this second call last with Mr. Cohen?  1 
+2 
+3 
+4 A The Fifth. 
+Q Did anyone ask you to make the call to Mr. Cohen a second time? 
+A The Fifth. 
+Q Do you know anything about Ms. Sidney Powell's phone call to Mr. Cohen 
+5 about Gina Haspel in December of 2020? 
+A The Fifth. 72 
+6 
+7 Q Do you know why Ms. Powell apparently believed that Ms. Haspel had been 
+8 injured in Germany while trying to protect a voting server? 
+9 
+10 A The Fifth. 
+Q Do you know why Ms. Powell asked Mr. Cohen to send a special operations 
+11 team to get Ms. Haspel in Germany? 
+12 
+13 A The Fifth. 
+Q Do you know how Mr. Cohen responded to Ms. Powell's claims regarding 
+14 Ms. Haspel? 
+15 
+16 A The Fifth. 
+Q We understand that around December 2020 you contacted Mr. Anthony 
+17 Tata from the Department of Defense regarding the 2020 election. Is that true? 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 A The Fifth. 
+Q Why did you contact Mr. Tata? 
+A The Fifth. 
+Q How many times did you contact him? 
+A The Fifth. 
+Q What did you discuss with Mr. Tata? 
+A The Fifth. 
+Q Did you ever talk to Mr. Tata about military involvement in the 2020  73 
+1 Presidential election? 
+A The Fifth. 
+Q Did you ever talk to Mr. Tata about rerunning the 2020 election? 
+A The Fifth. 2 
+3 
+4 
+5 Q And did you ever talk to Mr. Tata about potential executive orders that could 
+6 be enacted regarding the 2020 Presidential election? 
+7 A The Fifth. 
+8 I'm going to stop there and see if anybody has any questions about 
+9 anything we've covered with General Flynn so far. 
+10 Okay. 
+11 BY 
+12 Q General Flynn, we understand that you were at the Trump International 
+13 Hotel in Washington, D.C., on January 5, 2021. 
+14 When you were at the Trump Hotel on January 5th, did you talk to any State 
+15 legislators or Members of Congress regarding the 2020 election or the joint session of 
+16 Congress on January 6, 2021? 
+17 
+18 A Repeat that question. 
+Q Yep. When you were at the Trump Hotel on January 5th, did you talk to 
+19 any State legislators or Members of Congress regarding the 2020 election or the joint 
+20 session of Congress on January the 6th? 
+21 
+22 A The Fifth. 
+Q On January 5th, before you spoke at a rally in Washington, D.C., you had an 
+23 in-person interview with Alex Jones. Do you recall that interview? 
+24 
+25 A The Fifth. 
+Q During that interview, you said that your message to the American people  74 
+1 was that, quote, "the truth is going to come out. Donald Trump will continue to be the 
+2 President of the United States for the next 4 years. There's no doubt in my mind," end 
+3 quote. 
+4 General Flynn, why there was no doubt in your mind as of January 5, 2021, that 
+5 Donald Trump would continue to be President of the United States? 
+6 
+7 A 
+Q The Fifth. 
+You also claimed during this interview that between November 4th and 
+8 November 7th or 8th, quote, "they started to stuff the ballot boxes," end quote. Who 
+9 started to stuff the ballot boxes around that time? 
+10 
+11 A 
+Q The Fifth. 
+And what evidence were you relying on to claim that ballot boxes were 
+12 stuffed between November 3rd and November 8th? 
+13 
+14 A 
+Q The Fifth. 
+You also claimed that the, quote, "Democratic machine," unquote, 
+15 manipulated the algorithm in the voting machines used in the 2020 election. What 
+16 evidence do you have to back up that claim that you made on January 5th? 
+17 
+18 A 
+Q The Fifth. 
+During this interview, you claimed that China, Serbia, Italy, Spain, and 
+19 Germany interfered in the 2020 election. What evidence did you have to support the 
+20 claim that any of those countries had interfered in the 2020 Presidential election? 
+21 
+22 A 
+Q The Fifth. 
+Do you have any evidence at all that any of those countries changed the 
+23 election result in favor of Joe Biden instead of Donald Trump? 
+24 
+25 A 
+Q The Fifth. 
+During that interview, you also promoted Ms. Powell's organization,  75 
+1 Defending the Republic. What was your involvement in Defending the Republic at that 
+2 time? 
+3 
+4 
+5 for? 
+6 
+7 
+8 
+9 A The Fifth. 
+Q What was your understanding of what Defending the Republic raised money 
+A The Fifth. 
+Q Did you have any say in how money was spent? 
+A The Fifth. 
+Q This January 5th interview with Mr. Jones was filmed at the Willard Hotel in 
+10 Washington, D.C. Is that right? 
+11 
+12 A The Fifth. 
+Q We understand that Mr. Jones was staying at the Willard Hotel on January 
+13 5th. Where did you stay that night in Washington, D.C.? 
+14 A The Fifth. 
+15 Q Did you stay at the Willard Hotel between November 3, 2020, and January 
+16 20, 2021? 
+17 A The Fifth. 
+18 Q If we can go to exhibit No. 20, please. 
+19 
+20 
+21 Can you see what we're pulling up now as exhibit No. 20, General Flynn? 
+A I see it. 
+Q Okay. And that shows a picture of you, I believe it's a Parler post as well, 
+22 with someone named Roger Stone. 
+23 So, on January 5th, Mr. Roger Stone posted a picture of you and him on Parler. 
+24 Our understanding was that this photo was taken around the time that you were 
+25 interviewing with Mr. Jones at the Willard Hotel.  1 
+2 
+3 What did you talk to Mr. Stone about on January 5, 2021? 
+A The Fifth. 
+Q Did you talk about January 6, 2021, with Mr. Stone when you saw him on 
+4 January the 5th? 
+5 
+6 A The Fifth. 
+Q You can take that down. Thank you. 
+7 During the evening of January 5, 2021, you spoke at a rally in Washington, D.C., 
+8 where you had a message for Members of Congress to, quote, "get some," unquote, 
+9 moral fiber that night if they were feeling weak, because the next day, on January 6th, 
+10 quote, "we, the people," end quote, would be here and would "not stand for a lie." 
+11 What did you mean that "we, the people," would be here and would "not stand 
+12 for a lie," when you said that on January 5, 2021? 
+13 
+14 A The Fifth. 
+Q As you gave that speech during the evening of January the 5th, were you 
+15 planning to go to the Capitol the next day, on January 6, 2021? 
+A The Fifth. 76 
+16 
+17 Q And as you stood there that day, on January the 5th, 2021, were you aware 
+18 of any plans for anyone to go into the Capitol on January 6th to disrupt the joint session 
+19 of Congress? 
+20 
+21 A The Fifth. 
+- If we could take just a 5-minute break and then resume, is that okay 
+22 with you, General Flynn and Mr. Warrington? 
+23 
+24 
+25 Mr. Warrington. Yes. 
+The Witness. Yes. 
+Okay. Thank you. Then we'll go off the record for about 5  77 
+1 minutes. 
+2 [Recess.]  78 
+1 [12:28 p.m.] 
+2 - Let's go back on the record. It's 12:28 p.m. on March 10th, and 
+3 we are resuming the deposition of General Michael Flynn. 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 2021? Q General Flynn, what were your expectations for January 6, 2021? 
+A The Fifth. 
+Q Did you say the Fifth? I'm sorry, General Flynn. 
+A Yes. Yes, -the Fifth. 
+Q Thank you. 
+Were you aware of any plans of violence on January 6th in Washington, D.C.? 
+A 
+Q 
+A 
+Q 
+A 
+Q 
+A 
+Q 
+A 
+Q 
+A 
+Q 
+A 
+Q The Fifth. 
+Where were you on January 6, 2021? 
+The Fifth. 
+Did you go to the rally on the Ellipse on January 6, 2021? 
+The Fifth. 
+Did you hear the President's speech at the rally on the Ellipse on January 6, 
+The Fifth. 
+Did you go to the Capitol on January 6, 2021? 
+The Fifth. 
+When did you learn that the Capitol had been breached on January 6, 2021? 
+The Fifth. 
+And how did you learn that the Capitol had been breached? 
+The Fifth. 
+Do you know anyone who went to the Capitol on January 6, 2021?  1 
+2 A The Fifth. 
+Q General Flynn, did you talk to any members of the Oath Keepers, Proud 
+3 Boys, or 1AP on January 6, 2021? 
+A The Fifth. 79 
+4 
+5 Q Did you help in any way any Oath Keepers, Proud Boys, or 1AP'ers enter the 
+6 Capitol on January 6, 2021? 
+7 
+8 
+9 A 
+Q The Fifth. 
+I'm going to show you exhibit 21. And this is three pages of photos. 
+Can you see the photo that we've pulled up on page 1 of exhibit 21? 
+10 A I can. 
+11 Q General Flynn, I understand that's you who's speaking in the foreground of 
+12 that picture. And to your immediate right, there's an individual with a beard and a tan 
+13 hat. Can you see that person? 
+14 
+15 A I can see people in that --
+Q Can you see the person --and we'll zoom in just a little bit for you. Can you 
+16 see the person in the tan hat with a beard who's looking down, in the center of that 
+17 picture, to your right? 
+18 
+19 A I can see that person. 
+Q Okay. Do you recognize the person that's shown there with the beard and 
+20 the tan hat who's looking down? 
+21 
+22 A The Fifth. 
+Q Do you recognize that person as Geoffrey Flohr, or Flohr, with call sign 
+23 "Yoda"? 
+24 
+25 A The Fifth. 
+Q Did he or anybody else provide security to you on January 5th or January 6th  80 
+1 in Washington, D.C.? 
+A The Fifth. 2 
+3 Q And did anyone who provided security to you on January 5th or January 6th 
+4 in Washington, D.C., including Mr. Flohr or other 1AP'ers, enter the Capitol Building 
+5 during the attack on January 6, 2021? 
+6 
+7 A The Fifth. 
+Q General Flynn, did anyone who provided security to you, including Mr. Flohr 
+8 or other 1AP'ers, communicate with other people who breached the Capitol Building 
+9 during the January 6th attack on the Capitol in order to assist them? 
+10 
+11 A The Fifth. 
+Q Did you speak with Mr. Flohr, call sign "Yoda," while he was near but outside 
+12 of the Capitol during the afternoon of January 6, 2021? 
+13 
+14 A 
+Q The Fifth. 
+If we can go to page 3 of exhibit No. 21, please. We can zoom in on the 
+15 person at the end of the red arrow there, wearing a tan hat, who looks to have a beard. 
+16 Do you recognize the person there at the end of the red arrow with the hat who 
+17 appears to be on a phone as Mr. Geoffrey Flohr, call sign "Yoda"? 
+18 
+19 A The Fifth. 
+Q You can take that down. Thank you. 
+20 Before 1:00 p.m. on January 6, 2021, did you know that any person planned to 
+21 enter the Capitol on January 6th to disrupt the joint session of Congress? 
+22 
+23 A The Fifth. 
+Q General Flynn, did you ever encourage anyone to enter the Capitol on 
+24 January 6, 2021, in order to disrupt the joint session of Congress? 
+25 A The Fifth.  81 
+1 Q General Flynn, did you direct anyone to enter the Capitol Building to disrupt 
+2 the joint session of Congress on January 6, 2021? 
+3 
+4 A The Fifth. 
+Q General Flynn, did you ever encourage or direct anyone to enter the Capitol 
+5 on January 6, 2021, in order to ensure that Donald Trump won a second term in office? 
+6 A The Fifth. 
+7 Q On January 8, 2021, Alex Jones claimed that you talked to President Trump 
+8 every day. Is that true? 
+9 A The Fifth. 
+10 Q Did you, General Flynn, talk to President Trump at any point on January 6, 
+11 2021? 
+12 
+13 
+14 2021? 
+15 A The Fifth. 
+Q Have you ever talked to President Trump about the events of January 6, 
+A The Fifth. 
+16 - At this point, I'm going to pause and see if anybody else has any 
+17 questions for General Flynn on the topic we've just covered. 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 Ms. Cheney. I do,■ 
+General Flynn, do you believe the violence on January 6th was justified? 
+Mr. Warrington. Can we have a minute? 
+Ms. Cheney. Yes. 
+[Discussion off the record.] 
+Mr. Warrington. All right. We're back. 
+Congresswoman Cheney, could you repeat the question, please? 
+Ms. Cheney. Yes.  82 
+General Flynn, do you believe the violence on January 6th was justified? 1 
+2 Mr. Warrington. Can I get clarification, is that a moral question or are you asking 
+3 a legal question? 
+4 Ms. Cheney. I'm asking both. 
+5 The Witness. The Fifth. 
+6 Ms. Cheney. Do you believe the violence on January 6th was justified morally? 
+7 The Witness. Take the Fifth. 
+8 Ms. Cheney. Do you believe the violence on January 6th was justified legally? 
+9 The Witness. Fifth. 
+10 Ms. Cheney. General Flynn, do you believe in the peaceful transition of power in 
+11 the United States of America? 
+12 
+13 The Witness. The Fifth. 
+Ms. Cheney. General Flynn, do you agree with President Trump when he says 
+14 that November 3rd was the insurrection? 
+15 
+16 
+17 The Witness. The Fifth. 
+Ms. Cheney. Thank you. 
+Mr. Warrington. I'll just note my objection for the record to this line of 
+18 questioning as argumentative. 
+19 
+20 Ms. Cheney. Sorry, I couldn't catch what you said, Counsel. 
+Mr. Warrington. I'll just note for the record that my objection to the line of 
+21 questioning is that it was argumentative. 
+22 
+23 
+24 
+25 Ms. Cheney. Thank you. 
+I'll see if anybody else has any questions? 
+Okay. 
+BY  83 
+1 Q General Flynn, do you know why general counsel and former interim 
+2 president of the Oath Keepers Kellye So Re lie has claimed with respect to January 6th, 
+3 quote, "Aall paths lead to Flynn. He's the one who is the puppet handler for everything. 
+4 He was moving all the pieces," end quote? 
+5 
+6 A The Fifth. 
+Q What other militia-type groups did you coordinate with for security or for 
+7 any other purpose in connection with the December 14, 2020, Jericho March in D.C. or 
+8 the events in D.C. on January 5 and 6, 2021? 
+9 
+10 A The Fifth. 
+Q Did you coordinate with any leaders or members of the Proud Boys, for 
+11 security or for any other purpose, in connection with the December 14, 2020, Jericho 
+12 March in D.C. or the events in D.C. on January 5th and 6th of 2021? 
+13 
+14 A 
+Q The Fifth. 
+I'm sorry. And, to be clear, for the record, the Jericho March I just 
+15 referenced was December 12th of 2020. 
+16 Did that change any of your answers, General Flynn? 
+17 
+18 A Repeat the question. 
+Q Sure. The questions that I just asked were: What other militia-type 
+19 groups did you coordinate with for security or for any other purpose in connection with 
+20 the December 12, 2020, Jericho March in D.C. or the events in D.C. on January 5 and 6, 
+21 2021? 
+22 
+23 A The Fifth. 
+Q And to clarify the following question: Did you coordinate with any leaders 
+24 or members of the Proud Boys, for security or for any other purpose, in connection with 
+25 the December 12th Jericho March in D.C. or the events in D.C. on January 5 and 6, 2021?  1 
+2 A 
+Q 84 
+The Fifth. 
+In July 2020, you posted a clip to Twitter in which you recited an oath of 
+3 office, and, after finishing the oath, you said, quote, "Where we go one, we go all," end 
+4 quote. 
+5 What does the phrase "Where we go one, we go all" mean to you, General Flynn? 
+6 
+7 A 
+Q The Fifth. 
+Were you aware at that time that the phrase is associated with the QAnon 
+8 movement, or a movement that's been loosely termed the "QAnon movement"? 
+9 
+10 
+11 
+12 A 
+Q 
+A 
+Q The Fifth. 
+And why did you say that phrase in the video that you posted? 
+The Fifth. 
+Are you personally aware of any efforts in the QAnon community of efforts 
+13 to overturn the results of the 2020 Presidential election? 
+14 
+15 A 
+Q The Fifth. 
+Are you personally aware, General Flynn, of any efforts in the QAnon 
+16 community to prevent or delay the joint session of Congress from certifying Joe Biden as 
+17 President on January 6, 2021? 
+18 
+19 A 
+Q The Fifth. 
+In May 2021, you were asked by someone at a conference, "I want to know 
+20 why what happened in Myanmar can't happen here." You replied, quote, "No reason. 
+21 I mean, it should happen here. No reason. That's right," end quote. 
+22 Do you, General Flynn, support the violent overthrow of the United States 
+23 Government along the lines of what happened last year in Myanmar? 
+24 
+25 A The Fifth. 
+I'll pause there and see if anybody in the room or on the Webex  1 have any additional questions for Mr. Flynn --or, General Flynn. Excuse me. 
+2 
+3 
+4 Okay. 
+BY 
+Q So, General Flynn, just a few wrap-up questions. 
+5 Have you talked to anybody about the November 8th subpoena from the select 
+6 committee other than your attorneys? 
+A The Fifth. 85 
+7 
+8 Q Has anybody affected or influenced your testimony today or the documents 
+9 that you could provide to the select committee other than discussions that you may have 
+10 had with your attorneys? 
+11 
+12 A The Fifth. 
+Q Have you talked to former President Trump about your appearance or 
+13 testimony here today? 
+14 
+15 A The Fifth. 
+Q Have you talked to anybody who we've referenced throughout today's 
+16 proceedings about your testimony here today, including but not limited to Sidney Powell, 
+17 Phil Waldron, Russ Ramsland, Ivan Raiklin, and others? 
+18 
+19 
+20 A The Fifth. 
+- Okay. And I'll stop there. 
+I see, Ms. Cheney, that you had briefly turned on your camera. I don't know if 
+21 you have anything else. 
+22 Ms. Cheney. Thanks, 1111 
+23 General Flynn, I just wanted to go through a list of individuals and ask if you have 
+24 spoken to any of these people since the election. 
+25 Elmer Stewart Rhodes?  1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 The Witness. The Fifth. 
+Ms. Cheney. Edward Vallejo? 
+The Witness. The Fifth. 
+Ms. Cheney. Have you spoken with Thomas Caldwell? 
+The Witness. The Fifth. 
+Ms. Cheney. General Flynn, have you spoken to Joseph Hackett? 
+The Witness. The Fifth. 
+Ms. Cheney. General Flynn, between election day and January 6th, did you 
+9 speak with Kenneth Harrelson? 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 The Witness. The Fifth. 
+Ms. Cheney. Have you spoken to Joshua James? 
+The Witness. The Fifth. 
+Ms. Cheney. General Flynn, have you spoken to Kelly Meggs? 
+The Witness. The Fifth. 
+Ms. Cheney. Have you spoken to Roberto Minuta? 
+The Witness. The Fifth. 
+Ms. Cheney. General Flynn, have you spoken with David Moerschel? 
+The Witness. The Fifth. 
+Ms. Cheney. Have you spoken with Brian Ulrich? 
+The Witness. The Fifth. 
+Ms. Cheney. Have you spoken with Jessica Watkins? 
+The Witness. The Fifth. 
+Ms. Cheney. Those were Oath Keepers who recently have been charged with 
+24 seditious conspiracy. 86 
+25 I wonder --the following individuals have been charged with conspiracy. They're  1 members of the Proud Boys. 
+2 Have you spoken with Enrique Tarrio? 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 The Witness. The Fifth. 
+Ms. Cheney. General Flynn, have you spoken with Ethan Nordean? 
+The Witness. The Fifth. 
+Ms. Cheney. Have you spoken with Joseph Biggs? 
+The Witness. The Fifth. 
+Ms. Cheney. Have you spoken with Charles Donohoe? 
+The Witness. The Fifth. 
+Ms. Cheney. Dominic Pezzola? 
+The Witness. The Fifth. 
+Ms. Cheney. Thank you. 
+- Thank you, Ms. Cheney. 
+I don't believe there are any other questions at this time, General Flynn. We 
+15 certainly appreciate your time today. 87 
+16 And, at this point, we are going to go off the record, but the deposition will remain 
+17 open, subject to the call of the chair--excuse me. We're recessing subject to the call of 
+18 the chair, to be specific. 
+19 Mr. Warrington. And, for the record, let me note our objection to that, and we 
+20 consider the matter closed, but I understand your position. 
+21 Okay. Do you mind repeating that? I'm sorry. It was kind of 
+22 cutting out, Mr. Warrington. 
+23 Mr. Warrington. Yeah. We object to the continuing nature of the deposition, 
+24 as we consider the matter closed. But we understand the committee's position. 
+25 - Thank you. All right.  88 
+1 And we'll go off the record. 
+2 [Whereupon, at 12:46 p.m., the deposition was recessed, subject to the call of the 
+3 chair.]  1 
+2 
+3 Certificate of Deponent/Interviewee 
+4 I have read the foregoing __ pages, which contain the correct transcript of the 
+5 answers made by me to the questions therein recorded. 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 Witness Name 
+Date 89 

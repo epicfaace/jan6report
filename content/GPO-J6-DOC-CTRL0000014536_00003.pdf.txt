@@ -1,0 +1,524 @@
+12/20/2020 
+PA 
+1 
+THAN VOTERS WHO VOTED 
+TERS: PEOPLE IN SURE MORE THAN ONCE 
+►E)O PLE: SAME NAME & DOB BUT DIFFERENT ID # 
+• DUPLICATE BALLOTS: REQUESTED AND RETURNED 
+2 
+Document ID: 0.7.2774.172122-000002 
+H CO R-Pre-Certification Events-06032021-000004  3 
+Official C ummory Results Reports 
+(64 of 67 Counties) 
+4 
+Document ID: 0.7.2774.172122-000002 
+H CO R-Pre-Certification Events-06032021-000005 DDl.ll•'-~Cl.­
+_,._lfJ.lrwt,.,,..~""' 
+ut•~.-...--0,., ---TOTA&. ~ M'fttN~-=-
+'11..19/ 141.1" l'N.11• 1.tH 
+~m/ .,,.. ..,. 
+.,.,/ ... "" 
+,., .. ,. 
+\~I 'MS tt 
+ht,1JD M• M7VI 14.Uf 
+IJ?hlU-,J OFFICIAL RESULTS 
+Allegheny County 12/20/2020 
+2  5 
+6 VOTERS WHO VO 
+Official County FVE files direct! 
+DATA PA Full Voter Export 
+kl provided by 25 Pa.Cs. Sec:boo 1404(bXI) (re' 
+Regulations at 4 Pa. CO!le SectJon 184.14(b) (rela 
+wlll provide the Full Voter Expon List 10 requeslols 
+This Ve<slon ol tile PubliC lnformallcn USI IS a lu I 
+folloW11l) flelc:ts: vote< ID l'llmller name sex, dale 
+dale status lasl changed, party, res1deolral a<tte 
+distn<:1s m l'.hich Ille voter voles (i.e., 
+date the YOter's record was last ch 
+• To of all votes counted for Biden, Trump, 
+es 
+ber of ballots cast in the county 
+■ Over-Votes -Ba ots cast with more than one selection for President 
+allots cast with no selection made for President 
+Ballots cast with one write in vote for President 
+■ Totat.:: oters SURE -Total number of voters in the FVE who voted in 
+the 2020 General Election 11/3/2020 (files updated 12/14/2020) 
+■ Voter Deficit-Difference between the Total Ballots Cast 
+and Total Voters recorded as voting on l l /3/2020 in SURE 
+Document ID: 0.7.2774.172122-000002 
+H CO R-Pre-Certification Events-06032021-000006 12/20/2020 
+3  7 
+8 N 
+TOTAL VOTES 0 TOTAL TOTAL OVER& 
+3MAJOR T WRITE IN VOTES FOR UNDER VOTER 
+CANDIDATES E PRESIDENT VOTES CAST DEFICIT 
+DOS DATA COUNTY DATA 
+2,434 6 2440 
+SAMPLE COUNTY DAT 
+Cameron County has a vot 
+were 5 more ballots cast tha VE for 
+TIMELI 
+• Seer 
+ce Cameron 
+0, 
+r the De artment Of State Certifies 
+Presidential Election Results 
+11/24/2020 o. I = Menu 
+Harrisburg, PA-rollowing certifications of the president al vote subm tied by a'l 67 
+counties lat• Monda\, Secretary of Stat• Kathy Boockvar today certified the resu ts or the 
+No,cmber 3 election In Pennsylvania for president and vice president of the United States. 
+Shortlyttlereafter, as required by federal 1a111, Governor Tom Wolf signed the Certificate of 
+Ascertainment for the slate of electors for Joseph R. B1den as president and Karrala D. 
+Harris as vice president orthe United States The cert llcate was suomltted to the Archlv!SI 
+or the United States 
+Document ID: 0.7.2774.172122-000002 
+HCOR-Pre-CertificationEvents-06032021-000007 12/20/2020 
+4  9 
+10 INTERIM REPORT TOTALS AS OF 12-20-2020 
+• Report contains full data from 64 counties 
+• Write In Votes and Over/Undervotes wer 
+available for all counties. Updates pendin 
+• Data is not included for over/under ~I 
+ballots cast for the following coun · , 
+Crawford & Sullivan 
+• 24 of 67 Counties had vot 
+match the Department o 
+OVER& 
+SOR UNDER 
+DENT VOTES 
+COUNTY DATA TOTAL 
+BALLOTS 
+CAST 
+6,962,607 TOTAL TOTAL 
+VOTER VOTER 
+DEFICIT SURPLUS 
+FVE 
+6,760,230 -205,122 2,53 
+Using sources and data described in the previous slides, 
+there is a VOTER DEFICIT in Pennsylvania. 205,122 more votes 
+were counted than total number of voters who voted. 
+Document ID: 0.7.2774.172122-000002 
+H CO R-Pre-Certification Events-06032021-000008 12/20/2020 
+5  11 
+12 SURE IS THE OFFICIAL VOTER RECORD IN PA 
+• If SURE data was correct, the election could not be certified 
+due to the discrepancies . 
+• If SURE data was incorrect , the election could not be certified 
+due to discrepancies. 
+By Statute, the SURE System 
+Pennsylvania. This record includes the date 
+voters who voted in the General Election on 
+6,760,230. Secretary of State Boockvar certifi ti , 915 2 
+for just the three major candidates. Thelt lone is 
+of 155,053 voters. 
+This does not include · 
+which all in 
+more voters than votes 
+rmal variance. This is a result 
+ding: 
+nal Ballots 
+• llots Received after 8pm on Election Day 
+llots 
+j. allots with no Signature 
+The expectation would be that every county would have some votes 
+that were not counted. In PA, only 18 counties reported a voter surplus. 
+Despite the fact that every county had some ballots that were rejected. 
+Document ID: 0.7.2774.172122-000002 
+H CO R-Pre-Certification Events-06032021-000009 12/20/2020 
+6  N 
+COUNTY TOTAL VOTES O TOTAL 3MAIOR T WIITEIN CANDIDAlES E 
+DOS DATA 
+ADAMS 56,540 174 
+ALLEGHENY 719,733 2,767 
+ARMSTRONG 36,370 55 
+BEAVER 94,122 275 
+BEDFORD 27 574 0 
+BERKS 205 540 584 
+BLAIR 63,59S 153 
+BRADFORD 30,159 60 
+BUCKS 396,234 1,057 
+BUnER 113,305 . 349 
+CAMBRIA 70,574 177 
+CAMERON 2434 6 
+CARBON 33 629 . 38 
+CENTRE 77,493 398 
+13 
+87 
+98 
+592 
+533 
+1,075 
+16,906 40 
+137,083 347 
+62,139 91 « FOREST Z,646 8 
+FRANKLIN 80,783 242 
+FULTON 7,977 13 
+GREENE 17,669 0 
+14 
+Document ID: 0.7.2774.172122-000002 
+HCOR-Pre-CertificationEvents-06032021-000010 12/20/2020 
+TOTAL OVER& TOTAL 
+VOTES FOR UNDER BALLOTS VOTER 
+PRESIDENT VOlES CAST SURPLUS 
+COUNTY DATA 
+56,809 121 56,930 77 
+724,800 1,920 726,720 
+36,426 45 36,471 
+94,397 248 
+27,610 67 
+206,124 1,452 
+63,748 141 
+30,232 
+397,291 
+111,309 15 
+70,751 20,937 
+2,440 5 
+37 
+766 
+TOTAL TOTAL TOTAL 
+UNDfR !!ALLOTS VOTER VOTER 
+VOTES CAST DEFICIT SURPLUS 
+833 316,586 -3,043 
+39,496 114 39,610 -3&3 
+17,661 55 17,716 -738 
+31,258 187 31,445 36 
+42,104 
+142,187 545 142,732 113 
+147,901 487 148,388 149,096 708 
+328,329 1,821 3 0,150 326,142 -4,008 
+16,946 89 17,035 17,077 42 
+137,491 453 137,944 138,240 296 
+62,258 117 62,375 61,952 423 
+2,621 10 2,631 2,666 35 
+81,025 183 81,208 81,143 -65 
+7,990 44 8,034 8,016 -18 
+17,669 0 17,776 17,760 ·16 
+7  HUNTINGDON 
+INOIANA 
+JEFFERSON 
+JUNIATA 
+LACKAWANNA 
+LANCASTER 
+LAWRENCE 
+LEBANON 
+LEHIGH 
+LUZERNE 
+LYCOMING 
+McKEAN 
+MERCER 
+MIFFLIN 
+MONROE 
+MONTGOMERY 
+MONTOUR 
+15 
+« WASHINGTON 
+WAYNE 
+WESTMORELAND 
+WYOMING 
+YORK 
+16 AL VOTES 
+MAJOR 
+DIDATES 
+22,792 
+41,198 
+22,824 
+12,045 
+115,410 
+280,239 
+46,076 
+71,652 
+184,713 
+153,321 
+59,254 
+19,466 
+57,954 
+21,502 
+83,829 
+510,157 
+9,771 
+20,115 
+26,S28 
+20,650 
+111,478 
+28,089 
+204,697 
+14,858 
+238,471 N 
+0 
+T 
+E TOTAL 
+WRITEIN 
+51 
+91 
+39 
+29 
+285 
+1,136 
+111 
+206 
+563 
+99 
+143 
+44 
+163 
+45 
+205 
+0 
+46 
+152 
+41 
+83 
+3 
+61 
+77 
+73 
+56 
+278 
+58 
+486 
+42 
+582 
+Document ID: 0.7.2774.172122-000002 
+HCOR-Pre-CertificationEvents-06032021 -000011 TOTAL 
+VOTES FOR 
+PRESIDENT 
+22,843 
+41,289 
+22,800 
+12,072 
+115,695 
+281,375 
+46187 
+71858 
+185,655 
+153,499 
+59,397 
+19,510 
+58,117 
+21,547 
+82,484 
+743,966 
+32,616 
+9,085 
+69,672 
+19,181 
+40,626 
+3,598 
+21,325 
+21,126 
+20,192 
+26,601 
+20,345 
+118,756 
+28,147 
+205,330 
+14,900 
+239,052 12/20/2020 
+OVER& TOTAL 
+UNDER BALLOTS 
+VOTES CAST 
+63 22,906 
+140 41,429 
+51 n,851 
+36 12,108 
+338 116,033 
+1163 282 538 
+132 
+202 
+572 
+635 
+84 
+88 
+13 
+65 
+212 
+5,311 
+2 
+TOTAL TOTAL TOTAL 
+UNDER BALLOTS VOTER VOTER 
+VOTES CAST DEFICIT SURPLUS 
+762 172,161 -199 
+209 42,592 42,408 -184 
+S4 24,782 24,894 112 
+5351 749,317 719 024 30,293 
+127 32,743 32,645 98 
+3 9,088 9,119 31 
+1,237 70,909 70,974 65 
+57 19,238 19,237 -1 
+90 40,716 40738 22 
+3,613 
+118 21,443 21,536 93 
+81 21,207 21,115 -92 
+80 20,272 20,221 -51 
+52 26,653 26608 45 
+129 20,474 21,012 538 
+383 119,139 117,156 -1,983 
+88 28,235 28,231 -4 
+758 206,088 202,143 ·3,945 
+38 14 938 14 982 44 
+613 239,665 238,877 788 
+8  17 RELIABILITY OF DATA FROM DEPARTMENT OF STATE 
+Candidate 
+Blden 
+Jorgensen 
+Trump 
+Write In 
+... A)11,t1 .......... JI --.... 1.-m Totals 
+r-., ... ,.,.1 ,_,,,,.. --·-
+• Source: https:/ /www.electionretums .pa.gov/ Beclon Mal Provisional MalhTotal Day 
+J.«)9341 1995691 53168 3458200 
+53318 24783 1277 
+2731230 595538 50874 
+0 0 0 
+4193889 2616012 105319 
+The DOS Doto is not usi ~ e 
+formulas to populot . 
+by the mathematical 
+dashboard. Cerlfled 
+tors 
+Mal Prowlonol Moth Total Celffled Dllerence Becton 
+• f.1ectors la Oemocrat,c Party canodates Joseph Kamala 0. Harns-J, 
+• Electors fa Republican Party canddates Dol'lald J Michael A. Pence l 
+• Electors fa llbtrtar n Party candidates Jo »rge"lse emy Spike Cohen 79. 1995691 53168 3458200 3458229 
+24783 1277 79378 79300 
+595538 50874 3377642 3377674 
+0 0 0 0 
+2616012 105319 6915220 6915283 
+Due to mathematical 
+errors, the Secretary of 
+State actually certified 
+the incorrect number 
+of electors 
+Source: https://www.medio.po.gov/poges/Stote-detai ls.aspx?newsid =435 
+18 
+Document ID: 0.7.2774.172122-000002 
+HCOR-Pre-Certif icationEvents-06032021-000012 29 
+2 
+32 
+0 
+63 12/20/2020 
+9  19 
+20 n 1v s 1n 
+Both IDs Shown as Vote 
+, A QUERY OF ALL RECORDS WHERE 
+ME AND DATE OF BIRTH MATCHED 
+HERE B CORDED A VOTE ON 11/3/2020 -
+PRODUCE~ 4241 RECORDS . THESE RECORDS WARRANT 
+JilON TO DETERMINE HOW MANY PEOPLE VOTED TWO 
+OR MOR TIMES. 
+*THESE RECORDS HAVE BEEN REFERRED TO LAW ENFORCEMENT FOR INVESTIGATION 
+Document ID: 0.7.2774.172122-000002 
+HCOR-Pre-CertificationEvents-06032021-000013 12/20/2020 
+10  21 
+22 Requested & Returned 
+T APPLICATIONS 
+re inundated with duplicate 
+o review each new application 
+t call about whether to send a 
+g of the excess mailed ballots. 
+"Overall: on out of every ffve requests for moil boHots is being rejected in Pennsylvania . An 
+estimate ':208,000 Pennsylvania voters sent in the spumed requests, some submitting them 
+multiple times. ,A/though the state's email rejecting the requests descnbes them as 
+duplicates, it doesn't explain why, prompting some people to reapply. ProPublica and The 
+lnquireridentiffed hundreds of voters who submitted three or more duplicate applications, · 
+one voter appears to hove subrritted I I duplicates . " 
+Documen t ID: 0.7.2774.172122-000002 
+HCOR-Pre-Certification Events-06032021-000014 12/20/2020 
+11  12/20/2020 
+10/16/20 Soorco: Do-ntolSIIN DUPLICATE APPLICATIONS ., ToalMII 
+County ·-· Duplcala 
+243<1 --1~ -•od hqunaltjeci.d 
+ADAMS 9.695 2.001 EL< 7.075 412 MONTOUR 2.292 
+ERIE 26685 4 163 NORTHAMPTON ,2.26' 6.a.50 ,.,. -ALLEGHENY 190,557 49,025 
+ARMSTRONG 3,996 1.3-17 FAYEOE 1,595 l,ll!O NORTHUMBERLANI 5,696 ~-. .. 
+BEAVER 16,893 5.362 FOREST s,1 ,1 PERRY 3,304 l'f 5,5 ~ ~ 
+BECFORD 2,906 :!!< fRAtJ<LIN 1,1611 l,0-43 PHll.ADElPHIA Zl:l.594 H 48J27 \\ 
+BERICS 42,084 7,544 FULTON 90A 138 PIKE MO!l "-1.039 " BLAIR 9,578 2,993 GREENE 2.318 311 POllER 862A "l\U~ 
+BRADfORD 3,948 SXl HUNTINGDON 1,674 200 SCHUYLKlll 6.-.. , 
+BUCKS 104,236 21,607 INDl-"NA 8.678 SNYDER ~ .. 433 
+JEfffRSUN 1.66' 71Y SOMERSET ... ~ 90 ii' 359 BI/TLER 16,718 "4,-468 JUNIAIA 1.116 231 SULIIVAN ,_ -,., C'i CAMBRIA 8,865 1.292 LAC(AWANN A 14.748 7.19' SUSQUEHANNAAo ~ 2. ,.,. l," 392 CAMERON 310 9B 
+t~~E: -l3.245 8,164 
+IC:Alnlr N 5 670 I 011 7,379 1,113 TIOGA ,,_ -1 .... ~ liNloo ... T"" 1.7 3,1 3 CENTRE 17,952 3."83 LEMNON 1340:\ ?705 
+CHESTER 88,238 2A,433 lEHIGH VEN,\NC ~ AKI -•6.091 9.1?9 WARREN ........ , __ 32 ... ,. -~ ,,..LARION 2265 354 LUZERNE 28.on 11.234 ~-INGlON ~ 21,821 CLEARAELD 4,894 f!fJ7 LYCOMING 7,62' 1,128 ~4.~ 
+CLINTON 2,229 3l2 Mcie!.~ ~ "°" WATN"" ~ 5.154 ,.,_ 634 -
+3-0 100 ..--..i.2.871 v 
+COlUMBIA 5,264 IH3 MERCER 7.668 ~ WESJMnn-1.AHD' 
+CRAWFORD 6,584 182 Ml~l1UN 21,4j,J 3,661 '-WYOMING ?31•--
+CUMBERI.Al'O 31,206 5,703 MONROE l36,7~ 32,,0,:,, 1 YORK •2.617 "' 10.ffi 
+DAUPHN 32,778 7,247 MONlGCMERY 1,975 ·~ -TOTAL A 336001 
+DEIAWARE 71,523 15.779 MONIOU~ 7.m ?43 "" ..... ~ of 10/16/2020 
+Department of State released data show:t~~~ mber ©'cote MIB 
+Applications that had been rejected <i;S=o OL 1/2020. 
+DOS did not release the number of~ upli~ates th~~ pproved & mailed. 
+..... ~ A 
+23 
+24 '<'-~' 
+EXA UNTY DUPLICATES 
+• L ,637 registered voters. 
+• anon had already received 
+ballot applications. 
+ficials had to review and 
+pplication to determine if a second 
+mail i t should be mailed 
+80ij du licate ballots were sent to voters in Lebanon 
+County. 
+• The location of the additional 804 mail in ballots is 
+unknown. 
+Document ID: 0.7.2774.172122-000002 
+HCOR-Pre-Certif icationEvents-06032021-000015 !~ 
+12  25 
+26 ecap 
+ATE GRANTED 
+TO THIRD PARTY ENTITIES 
+ss to SURE using Web API 
+Party Entities authority to use Web 
+est Mail In Ballots 
+• Ille ~ Use of Voter Registration Data -posting 
+on the internet 
+Document ID: 0.7.2774.172122-000002 
+HCOR-Pre-CertificationEvents-06032021-000016 12/20/2020 
+13  27 
+28 CHAPTER 183. ESTABLISHMENT , IMPLEMENTATION AND 
+ADMINISTRATION OF THE STATEWIDE UNIFORM REGISTRY OF ELECT 
+(SURE System) 
+4 Pa. Code§ 183.14. Public information lists 
+(i) Within 10 days of receiving a written request accompan ied fiy t e ayment 
+of the cost of reproduct ion and postage, the Department o a e, 1ssion will 
+distribute the public information list to any registrant in this C m ea/th t. r a 
+reasonab le fee, determined by the office providing the opi 
+section 1404/c)( I) of the act (relating to public informatio ~ts} 
+(;) The Department and a commission will suppl¼ ·n 
+paper copy or in an electronic format. 
+(k) The /isl may nof be published on fhe lnfemef. 
+nclude Mail-In Ballot Requests 
+On M issued an update to the PA OVR Web 
+A t update. they reveal that Posting Entities 
+rity to allow the use of their apps to not only 
+to add them to permanent mail-in list. 
+voters to receive a ballot In the mall and it does not require an excuse to vote. 
+o Is requesting a mall-in ballot may also request to be added to a permanent mail-In voter 
+erw se known as an annual mall-In ballot request. If they opt for the permanent option, they will 
+lots automatically for the remainder of the calendar year for eligible elections. Then, they will be 
+this request each year from the county election office to continue to receive ballots for eligible 
+The process begins with the voter electing to submit a mall-In ballot application. Once their appllcat on Is 
+completed, process d and approv d by the county, the voter will be b gin to recelv thelr ballots via the address 
+fj pennsylvania 
+ODWnMEH'TOfS,ATt Page 14 
+Document ID: 0.7.2774.172122-000002 
+HC0R-Pre-CertificationEvents-06032021-000017 12/20/2020 
+14  29 Voter data State\ ··d ALL
+67 up to date: 
+0• ~~~~~ • te~~~o~te:_1_1~·\:;\~'e~b~===~~~ ;:;;;;;;:;-;;:::=:--------
+<0,nO, o d "mb,<2 1010 = 
+Tile \'otesP.\. P ated with 2020 ls lightly dillcorn darn for l\laUP lrimary results 
+t t . e1·tnt th ' ' -n Ballot ·r a t" Dt"pt " E " an 'ote1·\Veb. atu 
+There I s datt" is da . v _ epnrate ""Intl ') labt"ls 111~d oumy (required) ~te on \'ote p ti t"llt to p1intt"1 ,ourC n" ed"d ·• t"Ol' 
+sername (1101 email ad'd,· '"" ~,m,-----:;i ""' ootoo ,,;, D Pass ess) ___ ...:..__....:'..!~ _ ept file 
+f Login) 
+For or 
+audidate or D emco 
+t ues1 a VoterWeb 
+Account 
+,·oterweb.org ddre 
+Document ID: 0.7.2774 1 HCOR-Pre- · 72122-000002 CertIfIcation E vents-06032021 -000018 12/20/2020 
+15 

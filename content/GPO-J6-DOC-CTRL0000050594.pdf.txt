@@ -1,0 +1,181 @@
+079P-R0000698_0001 
+(2021-079) 
+OFFICE OF THE VICE PRESIDENT 
+Information Memorandum 
+TO: 
+FROM: VICE PRESIDENT PENCE 
+GREGORY JACOB, COUNSEL TO THE VICE PRESIDENT 
+Gregory.F.Jacob@ovp.eop.gov 
+202-881-9069 
+SUBJECT: JANUARY 6 FLOW CHART OF LEGAL PROVISIONS 
+DATE: JANUARY 2, 2021 
+Article II, Section 1 of the Constitution provides: 
+"Each State shall appoint, in such Manner as the Legislature thereof may direct, a 
+Number of Electors, equal to the whole Number of Senators and Representatives to 
+which the State may be entitled in the Congress .... " 
+This clause is widely understood to give State legislatures primacy in determining State 
+electors. State legislatures may directly designate electors (which last occurred in 
+1876), or they may through laws enacted prior to Election Day provide for the choice of 
+electors through the popular vote. Some Supreme Court Justices have suggested this 
+clause provides a legal basis for federal courts to invalidate attempts by rogue State 
+executives to depart from the plain terms of State election laws. 
+The original language of Article II, Section 1 further provided: 
+"Electors shall meet in their respective States, and vote by Ballot for two Persons .... 
+And they shall make a List of all the Persons voted for, and of the Number of Votes for 
+each; which List they shall sign and certify, and transmit sealed to the Seat of the 
+Government of the United States, directed to the President of the Senate. The 
+President of the Senate shall, in the Presence of the Senate and the House of 
+Representatives, open all the Certificates, and the Votes shall then be counted." 
+The Twelfth Amendment (1804) responded to the Jefferson/Burr dispute of 1800 
+by requiring separate votes for President and Vice President, but it otherwise 
+incorporated without change Article ll's language about counting electoral votes: 
+"Electors shall meet in their respective States, and vote by Ballot for President and Vice 
+President ... [a]nd they shall make distinct lists of all persons voted for as President, 
+and of all persons voted for as Vice-President, and of the number of votes for each; 
+which lists they shall sign and certify, and transmit sealed to the Seat of the 
+Government of the United States, directed to the President of the Senate. The 
+President of the Senate shall, in the Presence of the Senate and the House of 
+Representatives, open all the Certificates, and the Votes shall then be counted." 
+Page 1 of 5  079P-R0000698_0002 
+(2021-079) 
+In 1876, three different States submitted multiple slates of electors, provoking a 
+constitutional crisis. 
+In 1876, three states (Florida, Louisiana, and South Carolina) returned two or more 
+slates of electors amidst allegations of fraud and malfeasance, and a fourth state 
+(Oregon) had the validity of one of its electors challenged. Republican Rutherford 
+Hayes needed every one of the 20 disputed electoral votes in order to achieve a razor­
+thin 185-184 electoral vote win over Democrat Samuel Tilden. 
+A politically divided House and Senate, presided over by a Republican Vice President, 
+were unable to agree on a procedure for resolving the dispute, resulting in a significant 
+constitutional crisis. A statute was passed on January 29, 1877 creating a 15-member 
+Electoral Commission to decide the electoral disputes. The Commission consisted of 
+five Democrat Members of the House, five Republican Senators, and five Supreme 
+Court Justices (two Democrats and three Republicans). Through a series of party-line 
+8-7 votes, all 20 electors were awarded to Hayes, who thus became President. 
+Enacted ten years later, the Electoral Count Act of 1887 provided for the first time 
+a specific statutory process for counting electoral votes, and for determining 
+objections. 
+For present purposes, the most important provisions of the Electoral Count Act are as 
+follows: 
+• 3 U.S.C. § 5 (the "Safe Harbor" provision): If a State provides "by laws enacted 
+prior to [Election Day] for its final determination of any controversy or contest 
+concerning the appointment of ... electors of such State, by judicial or other 
+methods or procedures, and such determination shall have been made at least 
+six days before the time fixed for the meeting of the electors, 1 such determination 
+... shall be conclusive, and shall govern in the counting of the electoral votes as 
+provided in the Constitution, and as hereinafter regulated, so far as the 
+ascertainment of the electors appointed by such State is concerned." 
+• 3 U.S.C. § 6 (the "certificate of ascertainment" provision): "It shall be the duty of 
+the executive of each State, as soon as practicable after the conclusion of the 
+appointment of the electors in such State by the final ascertainment, under and in 
+pursuance of the laws of such State providing for such ascertainment, to 
+communicate by registered mail under the seal of the State to the Archivist of the 
+United States a certificate of such ascertainment of the electors appointed .... " 
+• 3 U.S.C. § 15-18 (these provisions, which govern the counting of electoral votes 
+and the resolution of disputes, are set forth below in the order of expected 
+chronological events, rather than in the order that the relevant text appears within 
+the statute): 
+1 In the 2020 election, all 50 States and the District of Columbia provided certificates of 
+ascertainment for their electors on or before December 8, which was six days before the 
+electors voted on December 14. All thus qualified for the Section 5 safe harbor. 
+Page 2 of 5  079P-R0000698_0003 
+(2021-079) 
+Basic Rules of the Joint Session 
+o "The Senate and House of Representatives shall meet in the Hall of 
+the House of Representatives at the hour of 1 o'clock in the afternoon on 
+that day, and the President of the Senate shall be their presiding officer." 
+o "Such joint meeting shall not be dissolved until the count of electoral votes 
+shall be completed and the result declared; and no recess shall be taken 
+unless a question shall have arisen in regard to counting any such votes, 
+or otherwise under this subchapter, in which case it shall be competent for 
+either House, acting separately, in the manner hereinbefore provided, to 
+direct a recess of such House not beyond the next calendar day, Sunday 
+excepted, at the hour of 10 o'clock in the forenoon. But if the counting of 
+the electoral votes and the declaration of the result shall not have been 
+completed before the fifth calendar day next after such first meeting of the 
+two Houses, no further or other recess shall be taken by either House." (3 
+U.S.C. § 16) 
+o "While the two Houses shall be in meeting as provided in this chapter, the 
+President of the Senate shall have power to preserve order; and no 
+debate shall be allowed and no question shall be put by the presiding 
+officer except to either House on a motion to withdraw." (3 U.S.C. § 18) 
+o "Two tellers shall be previously appointed on the part of the Senate and 
+two on the part of the House of Representatives, to whom shall be 
+handed, as they are opened by the President of the Senate, all the 
+certificates and papers purporting to be certificates of the electoral votes, 
+which certificates and papers shall be opened, presented, and acted upon 
+in the alphabetical order of the States, beginning with the letter A." 
+Procedures for Resolving Objections to Validity 
+o "Upon such reading of any such certificate or paper, the President of 
+the Senate shall call for objections, if any. Every objection shall be made 
+in writing, and shall state clearly and concisely, and without argument, the 
+ground thereof, and shall be signed by at least one Senator and one 
+Member of the House of Representatives before the same shall be 
+received. 
+o "No votes or papers from any other State shall be acted upon until the 
+objections previously made to the votes or papers from any State shall 
+have been finally disposed of." 
+o "When all objections so made to any vote or paper from a State shall have 
+been received and read, the Senate shall thereupon withdraw, and such 
+objections shall be submitted to the Senate for its decision; and the 
+Speaker of the House of Representatives shall, in like manner, submit 
+such objections to the House of Representatives for its decision." 
+Page 3 of 5  079P-R0000698_0004 
+(2021-079) 
+o "When the two Houses separate to decide upon an objection that may 
+have been made to the counting of any electoral vote or votes from any 
+State, or other question arising in the matter, each Senator and 
+Representative may speak to such objection or question five minutes, and 
+not more than once; but after such debate shall have lasted two hours it 
+shall be the duty of the presiding officer of each House to put the main 
+question without further debate." (3 U.S.C. § 17) 
+o In deciding upon objections, "no electoral vote or votes from 
+any State which shall have been regularly given by electors whose 
+appointment has been lawfully certified to according to section 6 of this 
+title from which but one return has been received shall be rejected, but the 
+two Houses concurrently may reject the vote or votes when they agree 
+that such vote or votes have not been so regularly given by electors 
+whose appointment has been so certified." 
+o "When the two Houses have voted, they shall immediately again meet, 
+and the presiding officer shall then announce the decision of the questions 
+submitted." 
+Procedures for Choosing Between Competing Slates 
+o "If more than one return or paper purporting to be a return from 
+§. State shall have been received by the President of the Senate, those 
+votes, and those only, shall be counted which shall have been regularly 
+given by the electors who are shown by the determination mentioned 
+in section 5 of this title to have been appointed, if the determination in said 
+section provided for shall have been made .... " 
+o "[B]ut in case there shall arise the question which of two or more of 
+such State authorities determining what electors have been appointed, as 
+mentioned in section 5 of this title, is the lawful tribunal of such State, the 
+votes regularly given of those electors, and those only, of such State shall 
+be counted whose title as electors the two Houses, acting separately, shall 
+concurrently decide is supported by the decision of such State so 
+authorized by its law; 
+o "[l]f there shall have been no such determination of the question in 
+the State aforesaid, then those votes, and those only, shall be counted 
+which the two Houses shall concurrently decide were cast by lawful 
+electors appointed in accordance with the laws of the State, unless the 
+two Houses, acting separately, shall concurrently decide such votes not to 
+be the lawful votes of the legally appointed electors of such State." 
+o "But if the two Houses shall disagree in respect of the counting of such 
+votes, then, and in that case, the votes of the electors whose appointment 
+shall have been certified by the executive of the State, under the seal 
+thereof, shall be counted. 
+Page 4 of 5  079P-R0000698_0005 
+(2021-079) 
+o "When the two Houses have voted, they shall immediately again meet, 
+and the presiding officer shall then announce the decision of the questions 
+submitted." 
+Announcement of the Final State of the Vote 
+o "[S]aid tellers, having then read the same in the presence and hearing of 
+the two Houses, shall make a list of the votes as they shall appear from 
+the said certificates; and the votes having been ascertained and counted 
+according to the rules in this subchapter provided, the result of the same 
+shall be delivered to the President of the Senate, who shall thereupon 
+announce the state of the vote, which announcement shall be deemed a 
+sufficient declaration of the persons, if any, elected President and Vice 
+President of the United States, and, together with a list of the votes, be 
+entered on the Journals of the two Houses." 
+Page 5 of 5 

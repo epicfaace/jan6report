@@ -1,0 +1,27 @@
+The Allied Security Operations Group Antrim Michigan Forensics Report draws conclusions from thin 
+evidence and descriptions of software Antrim County does not own, for versions of the software that 
+are not compatible with the version of the voting system Antrim County owns and would require 
+hardware Antrim County does not have. 
+• Claims of impropriety through software adjudication in the Election Management Software are 
+not relevant, as Antrim County does not use the software application in question, and does not 
+have compatible systems, mainly the for this adjudication software, mainly the lmageCast 
+Central Tabulator. 
+• Implications that a lack of forensic logs for processes that Antrim County does not and cannot 
+use are evidence of an untrustworthy process are unsupportable. If Antrim Co does not and 
+cannot use software Adjudication, the lack of digital logs for software adjudication is to be 
+expected. 
+• Suggesting that scanned ballots that were designated, or alerted, for further review is evidence 
+of an abnormally high "error rate" is false and misleading. When hand-marked paper ballots are 
+scanned by a machine, the machine will alert election officials to things like write-in voting, 
+damaged ballots, overvotes, undervotes, and stray marks. 
+• Speculation of that any findings reflect that Ranked Choice Voting may have been enabled is not 
+supportable when the systems in question in Antrim County, Dominion Voting System's (DVS) 
+Democracy Suite (D-Suite) 5.5 do not have that Ranked Choice Voting capability- the 
+screenshot provided is for D-Suite 5.11. 
+The report also demonstrates a callous misunderstanding of the actual current voting system 
+certification process to the US Election Assistance Commission's Voluntary Voting System Guidelines, a 
+misunderstanding of elections infrastructure as critical infrastructure, and posits non-existent provisions 
+within the Help America Vote Act. 
+Most importantly, voters in Antrim County, Michigan, voted on paper ballots. Those records are being 
+reviewed and recounted, by hand. This verification, independent of the software and hardware systems 
+in question, will be most indicative of the trustworthiness of the systems. 

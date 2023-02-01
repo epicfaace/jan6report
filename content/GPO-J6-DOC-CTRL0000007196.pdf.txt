@@ -1,0 +1,771 @@
+CUI // FOR COMMITTEE USE ONLY 
+REPORT OF U.S. ARMY OPERATIONS 
+ON JANUARY 6, 2021 
+Headquarters, Department of the Army 
+March 18, 2021 
+CUI // FOR COMMITTEE USE ONLY 
+FOR HOUSE COMMITTEE USE ONLY -PRODUCTION 1 -000017  CUI // FOR COMMITTEE USE ONLY 
+REPORT OF U.S. ARMY OPERATIONS ON JANUARY 6, 2021 
+1. Introduction. The purpose of this report is to describe and explain the actions taken by 
+officials in the Army in response to the attack on the U.S. Capitol on January 6, 2021. This 
+paper discusses the Army's actions, from receipt of the Mayor of the District of Columbia's 
+request for National Guard support on December 31, 2020, through January 6, 2021. A 
+detailed timeline of the Army's actions is included at Enclosure 2. 
+2. Background. 
+a. Role of Military/NG in Domestic Law Enforcement. Since before the American 
+Revolution, there has been a healthy skepticism of using military forces for domestic law 
+enforcement, the origins of which can be traced to the nation's founding documents. The 
+Constitution reflects American disfavor of standing armies and thus purposely divides the 
+power to command, regulate, and fund the military between the executive and legislative 
+branches of government. One purpose of this bifurcation of authority is ensuring that the 
+military itself does not become so powerful that it can threaten the ideals of the country 
+itself. Nowhere can this potential power be more felt-or potentially abused-than in 
+domestic law enforcement. In response to such abuses in the Southern states after the 
+Civil War, and to address concerns military leaders had regarding the use of their forces for 
+law enforcement missions, Congress passed the Posse Comitatus Act (PCA) in 1878.1 The 
+PCA prohibits direct involvement by Regular Army and Air Force personnel in civilian law 
+enforcement activities, but the PCA does not apply to National Guard forces under the 
+command and control of their States, whether in a State Active Duty or a Title 32 status.2 
+b. Chain of Command for DCNG. As provided in D.C. Code§ 4-409, the President is 
+the Commander-in-Chief of the District of Columbia National Guard (DCNG); but through 
+Executive Order 11485, dated 1 October 1969, he authorized and directed the Secretary of 
+Defense (SecDef) to "supervise, administer and control" the DCNG. By memorandum 
+dated 10 October 1969, SecDef directed the Secretary of the Army (SecArmy) to act for him 
+in matters related to the District of Columbia (D.C.) Army National Guard, and directed 
+SecArmy "to command, through the Commanding General of the National Guard, all 
+operations of the Army and Air National Guard elements," and "after consultation with 
+[SecDef] and subject to the direction of the President as Commander-in-Chief, and in 
+accordance with the Interdepartmental Action Plan for Civil Disturbance, may order out the 
+National Guard under Title 39 of the District of Columbia Code to aid the civil authorities of 
+the District of Columbia." The President appoints and commissions the Commanding 
+General (CG) of the DCNG, and may remove the CG from office at any time.3 
+1 18 U.S.C. § 1385 (2012), Use of the Army and Air Force as a Posse Comitatus. Although amended 
+several times over the years, the current text remains largely unchanged today: "Whoever, except in 
+cases and under circumstances expressly authorized by the Constitution or Act of Congress, willfully uses 
+any part of the Army or the Air Force as a posse comitatus or otherwise to execute the laws shall be fined 
+under this title or imprisoned not more than two years, or both." 
+2 Department of Defense Instruction (DoDI) 3025.21, Defense Support of Civilian Law Enforcement 
+Agencies, Incorporating Change 1, Effective Feb. 8, 2019, Encl. 3, para 2.b. 
+3 D.C. Code§ 49-301 (a). Of note,§ 49-301 (c) contemplates that the President may detail any officer of 
+the Armed Forces of the United States, serving on active duty, as the CG of the DCNG. 
+1 
+FOR HOUSE COMMITTEE USE ONLY -PRODUCTION 1 -000018  CUI // FOR COMMITTEE USE ONLY 
+REPORT OF U.S. ARMY OPERATIONS ON JANUARY 6, 2021 
+c. Requests for Assistance for DCNG Support. SecDef's 1969 memorandum 
+provides SecArmy authority only to approve requests for assistance (RFA) from the civil 
+authorities of the District of Columbia. This process has become known as the "Seven Step 
+Process," and entails (1) civil authorities make the request to DCNG; (2) DCNG submits the 
+request to SecArmy; (3) SecArmy consults with SecDef, with DoD OGC conducting a legal 
+review; (4) SecArmy consults with the Deputy U.S. Attorney General (DAG); (5) DAG 
+advises SecArmy; (6) SecArmy approves request with parameters; and (7) CG, DCNG 
+informs requester of the approved support. Under DoD Directive 3025.18 (Defense Support 
+of Civil Authorities), and other laws, directives, and instructions, only SecDef has authority 
+to approve RFAs from federal agencies. In accordance with (IAW) DoDD 3025.18, para 
+4.e., all RFAs shall be evaluated for: 
+• Legality (compliance with laws); 
+• Lethality (potential use of lethal force by or against DoD Forces); 
+• Risk (safety of DoD Forces); 
+• Cost (including the source of funding and the effect on the DoD budget); 
+• Appropriateness (whether providing the requested support is in the interest of DoD); 
+• Readiness (impact on DoD's ability to perform its other primary missions). 
+In addition to being the approval authority for RFAs from federal agencies, under DoD 
+policy, only the SecDef (with Presidential authorization) may approve requests from civil 
+authorities for DoD assistance in responding to civil disturbances.4 
+d. Lessons Learned from Civil Disturbances in D.C. in June 2020. The Army's 
+preparations for the events of January 6 were informed by the considerable scrutiny 
+received after the federal response to protests in summer 2020.5 
+(1) On July 9, 2020, then-SecDef Esper and the Chairman of the Joint Chiefs of Staff 
+(CJCS) testified before the House Armed Services Committee regarding the DoD 
+authorities related to civilian law enforcement, the role of the military, the rights of citizens to 
+protest, and the military's involvement during the protests around the country. They 
+identified several lessons learned, including that troops should be used only as a last resort 
+in direct civilian law enforcement roles; police should wear distinct uniform colors during 
+protests when the military is present; and the military must be careful about lending out 
+equipment to civilian law enforcement that is labeled "military." 
+4 See DoDD 3025.18, para. 4.1.(1 ). The only exception to the SecDef approving DoD responses to civil 
+disturbances is when a federal commander exercises Emergency Authority, which is only permitted when 
+it is impossible to reach the President for approval. On 6 January, Emergency Authority was not available 
+to the CG, DCNG because it was not impossible to reach the President and the President has delegated 
+command and control of the DCNG to the SecDef. Moreover, when the CG notified the SecArmy of the 
+US Capitol Police's request for DCNG support, SecArmy replied that he needed to obtain SecDef 
+approval. 
+5 See, e.g., Peter Hermann, Spencer S. Hsu, & Ellen Nakashima, Humvees, helicopters and the National 
+Guard: D.C. officials push back on show of federal force on city streets, Wash. Post, (June 4, 2020 7:58 
+PM), https://www.washingtonpost.com/local/public-safety/humvees-helicopters-and-the-national-guard-
+d c-offi ci a ls-pus h-b a ck-on-show-of-fed era l-force-on-city-streets/2020/06/04/235f03 2c-a5c6-11 e a-b4 73-
+04905 b 1 af82b_story.html. 
+2 
+FOR HOUSE COMMITTEE USE ONLY -PRODUCTION 1 -000019  CUI // FOR COMMITTEE USE ONLY 
+REPORT OF U.S. ARMY OPERATIONS ON JANUARY 6, 2021 
+(2) After the June 2020 civil disturbance, SecDef and SecArmy determined that any 
+future requests from civil authorities for DCNG support during planned protests required 
+thorough scrutiny by both of them to ensure that the use of the National Guard was 
+necessary; and that if so, the mission was narrowly tailored and appropriate for military 
+forces. The SecArmy was particularly troubled with the imprudent use of helicopters by the 
+DCNG near crowds of protestors, and was very concerned for the safety of NG personnel 
+after six NG members were seriously injured during the June 2020 protests. SecDef and 
+SecArmy determined that they would provide carefully crafted employment guidance to 
+ensure that the DCNG stayed within the parameters of its approved mission and used the 
+minimum force possible to execute the mission. In August 2020, in anticipation of large 
+First Amendment demonstrations, SecArmy directed the CG, DCNG to invite DC and 
+federal law enforcement agencies to conduct a table-top exercise (TTX) at the DCNG 
+Armory to ensure proper interagency coordination and rehearsals were conducted prior to 
+the scheduled demonstrations. 
+(3) Later in the fall of 2020, concerns related to the role of the military in the 
+transition of government after the November election prompted the CJCS to declare publicly 
+that "In the event of a dispute over some aspect of the elections, by law, U.S. courts and the 
+U.S. Congress are required to resolve any disputes, not the U.S. military. I foresee no role 
+for the U.S. armed forces in this process." In this vein, SecDef declined to approve a 
+request from the U.S. Park Police (USPP) for a 150-member DCNG response force from 
+November 1-8, 2020, the purpose of which was to provide support to the USPP during 
+planned demonstrations surrounding Election Day. 
+3. Setting the Stage for January 6, 2021. 
+a. Mayor of DC Request/ DC Homeland Security and Emergency Management 
+Agency (HSEMA) Request. On December 31, 2020, Mayor Bowser requested DCNG 
+support of both the Metropolitan Police Department (MPD) and the DC Fire and Emergency 
+Medical Services (FEMS) during planned First Amendment demonstrations on January 5-6. 
+The Mayor explicitly directed that "no DCNG personnel shall be armed during this mission, 
+and at no time, will DCNG personnel or assets be engaged in domestic surveillance, 
+searches, or seizures of US persons." Later that day, the Director of HSEMA requested six 
+crowd management teams to manage crowds at specified Metro stations and a team to 
+assist at 30 designated traffic posts. HSEMA requested personnel from 0730 to 2400 on 
+January 5 and 6, and specified that they were to be equipped with visibility vests and lighted 
+wands. HSEMA also requested support from the Civil Support Team (CST) to conduct five 
+tasks from 0730 January 5 through 0700 hours on January 7. The Director of HSEMA 
+reiterated that no DCNG personnel would be armed. 
+b. DCNG Mission Analysis. On January 1, 2021, the Joint Staff of the DCNG provided 
+the CG, DCNG a mission analysis of HSEMA's request. The analysis identified that 250 
+Guardsmen could execute the mission, and "additional support, if required, is postured with 
+100 Guardsmen on 3-hour response and 250 Guardsmen on 6-hour response." DCNG 
+briefing slides, dated December 31, 2020, showed 350 Guardsmen were required for the 
+support to DC civil authorities. If additional forces were needed, the slides stated that an 
+additional 100 Guardsmen could be available in three hours, 250 more could be available 
+3 
+FOR HOUSE COMMITTEE USE ONLY -PRODUCTION 1 -000020  CUI // FOR COMMITTEE USE ONLY 
+REPORT OF U.S. ARMY OPERATIONS ON JANUARY 6, 2021 
+within six hours, and 350 more could be available in 12 hours under the CG's selective 
+encampment order. The slides also stated that the DCNG would place liaison teams at the 
+MPD Emergency Operations Center (EOC), and would designate additional liaison teams if 
+needed to monitor activity at other D.C. or federal agencies. 
+c. Approved Support to D.C. With the lessons from June and the cautions on military 
+involvement in the election at the forefront of his mind, SecArmy carefully reviewed the 
+HSEMA request and the DCNG mission analysis. After several days of discussions about 
+potential requests to support the security of the Capitol, on January 4, 2021, SecArmy 
+formally notified SecDef of the HSEMA request for DCNG support. He stated that 340 total 
+personnel would support the request: 90 personnel (180 total/2 shifts) at traffic control 
+points (TCPs) in non-tactical vehicles (NTVs); 24 personnel (48 total/2 shifts) for Metro 
+station support; 20 personnel for CST support; a Quick Reaction Force (QRF) of 40 
+personnel staged at Joint Base Andrews (JBA); and internal command and control (C2) and 
+support staff of 52 personnel. 
+SecArmy recommended SecDef approval of HSEMA's request if three conditions for 
+support were met: (1) establishment of a lead federal agency, other than DoD, to enable 
+enhanced coordination of all entities; (2) the estimated numbers for the demonstrations 
+exceed the local and federal agencies' ability to address the risk; and (3) all other federal 
+agencies have exhausted their assets to support the events. SecArmy also noted that he 
+had directed MG Walker, the CG, DCNG, that: (1) he should prepare to recall the DCNG to 
+support the event, (2) the DCNG should be postured to provide the requested support in the 
+event that it was approved, and (3) the DCNG was not authorized to perform any additional 
+tasks or duties not authorized in the SecArmy's letter to SecDef. As required by Executive 
+Order 11485, SecArmy also formally coordinated the support with the DAG on January 4, 
+2021 .6 By memorandum of January 4, 2021, Acting SecDef authorized SecArmy to 
+approve support to D.C. and provided explicit employment guidance for the DCNG. 
+d. SecDef's Employment Guidance to SecArmy. Acting SecDef's employment 
+guidance of January 4, 2021 imposed the following restrictions requiring personal approval 
+by the Acting SecDef: 
+• to be issued weapons, ammunition, bayonets, batons, or ballistic protection 
+equipment such as helmets and body armor; 
+• to interact physically with protestors, except when necessary in self-defense or 
+defense of others, consistent with the DCNG Rules for the Use of Force; 
+• to employ any riot control agents; 
+• to share equipment with law enforcement authorities; 
+• to use intelligence, surveillance, and reconnaissance (ISR) assets or to conduct ISR 
+or Incident, Awareness, and Assessment Activities; 
+• to employ helicopters or any other air assets; 
+• to conduct searches, seizures, arrests, or other similar direct law enforcement 
+activity; or 
+6 This letter informed the DAG of the nature of HSEMA's requested support, the plan to provide support, 
+and the limitations on the DCNG in providing the support. 
+4 
+FOR HOUSE COMMITTEE USE ONLY -PRODUCTION 1 -000021  CUI // FOR COMMITTEE USE ONLY 
+REPORT OF U.S. ARMY OPERATIONS ON JANUARY 6, 2021 
+• to seek support from any non-DCNG National Guard units. 
+Additionally, Acting SecDef noted that at all times, the DCNG would remain under the 
+operational and administrative command and control of the CG of the DCNG. He also 
+directed SecArmy to employ the QRF only as a last resort and in response to a request 
+from an appropriate civil authority; and that if the QRF was employed, DCNG personnel 
+would be clearly marked and/or distinguished from civilian law enforcement personnel. 
+SecArmy was directed to notify SecDef immediately if he authorized employment of the 
+QRF. It was clear from the SecDef's letter that authority to employ the QRF was withheld to 
+the SecArmy. 
+e. SecArmy's Employment Guidance to CG, DCNG. SecArmy's written employment 
+guidance to the CG, DCNG, dated January 5, 2021, approved the support outlined in his 
+January 4, 2021 memorandum to SecDef and restated the employment guidance from 
+SecDef. SecArmy also stated: 
+DCNG Soldiers have the inherent right to self-defense. DCNG Soldiers will 
+store their helmets and body armor within vehicles or buildings in close 
+proximity to their positions. In the event of an elevation of the threat requiring 
+immediate donning of this equipment for self-defense, DCNG leadership will 
+immediately notify the Secretary of Army. 
+SecArmy provided further guidance on the QRF: 
+I withhold authority to approve employment of the DCNG Quick Reaction 
+Force (QRF) and will do so only as a last resort, in response to a request 
+from an appropriate civil authority. I will require a concept of operation prior to 
+authorizing employment of the QRF. If the QRF is employed, DCNG 
+personnel will be clearly marked and/or distinguished from civilian law 
+enforcement personnel. You will notify me immediately of any requests for 
+QRF employment. 
+SecArmy imposed the requirement for a concept of operations before employment of the 
+QRF because of concerns with how the DCNG used helicopters, including medical 
+evacuation helicopters, during the June 2020 civil disturbances. During a January 4, 2021 
+backbrief from MG Walker to SecArmy, MG Walker briefed the commitment criteria for 
+employment of the QRF and expressed no concerns with the guidance for the use of the 
+QRF. When asked by SecArmy if MG Walker had everything he needed, MG Walker 
+replied, "yes." 
+f. Other Notable Factors. 
+(1) On January 3, during an interagency meeting hosted by the White House, the 
+Department of Justice (DOJ) was designated as the lead federal agency for the planned 
+First Amendment demonstrations on January 5-6. However, unlike in June 2020, the lead 
+federal agency did not establish and man an integrated command post, nor did it take an 
+active role in coordinating with MPD or federal law enforcement agencies. A member of the 
+5 
+FOR HOUSE COMMITTEE USE ONLY -PRODUCTION 1 -000022  CUI // FOR COMMITTEE USE ONLY 
+REPORT OF U.S. ARMY OPERATIONS ON JANUARY 6, 2021 
+Office of the Secretary of Defense reached out to federal law enforcement agencies on 
+January 3rd and 4th to ask if they anticipated any need for DoD support. Those agencies, 
+including the U.S. Capitol Police (USCP), uniformly stated they did not need, and did not 
+anticipate needing, support from the DCNG. 
+(2) The Fiscal Year (FY) 2021 National Defense Authorization Act imposed a new 
+requirement for DoD personnel supporting a law enforcement response, specifically 
+requiring that personnel visibly display their name (or other identifying characteristics).7 
+This legislation was a direct result of Congressional concern about the use of the NG and 
+federal law enforcement in response to the nationwide protests in 2020. On January 5, 
+2021, Senator Christopher Murphy (D-CT) wrote to the Acting Attorney General, the Acting 
+Secretary of Defense, and the Secretary of the Army highlighting this new requirement, 
+stating, "The legislation enacted into law last week ensures that no administration has the 
+authority to deploy unidentifiable law enforcement or members of the armed forces in 
+response to a civil disturbance. We must all ensure the safety of Americans who gather to 
+peacefully exercise their constitutional rights ... " Although not reflected anywhere in writing, 
+the DCNG provided numerous assurances that personnel would be properly identified and 
+that the CST personnel, who would not be expected to perform law enforcement, would 
+wear their usual subdued civilian "uniforms." 
+(3) On January 5, 2021, Mayor Bowser also sent a letter to the Acting U.S. Attorney 
+General, Acting SecDef, and SecArmy. In that letter, she stated that the MPD was 
+prepared for the week's First Amendment activities, and had "coordinated with its federal 
+partners-all of whom regularly have uniformed personnel protecting federal assets in the 
+District of Columbia." The letter emphasized the importance of coordination of any 
+additional assets with the D.C. government, and "discourage[d] any additional employment 
+without immediate notification to, and consultation with, MPD if such plans are underway." 
+Finally, the letter noted, "MPD is well trained and prepared to lead the law enforcement, 
+coordination and response to allow for the peaceful demonstration of First Amendment 
+rights in the District of Columbia." 
+4. Response on January 6. 
+a. Posture of the DCNG on January 6. Subsequent to the HSEMA request, the 
+DCNG's own mission analysis, and the approvals of the Acting SecDef and SecArmy; at 
+approximately 0700 on January 6, 90 Guardsmen were on duty, partnered with MPD at 30 
+different TCPs; 24 Guardsmen were at 6 different Metro stations; 20 CST personnel were 
+on duty; 40 personnel were with the QRF at JBA; and 52 personnel were performing C2 and 
+support. The QRF was prepared only to provide back-up for Guardsmen at TCPs and 
+Metro stations. Thus, the total number of requested and approved personnel on duty at 
+1300 on January 6 to respond to a crisis was approximately 154 personnel (90 TCP 
+personnel, plus 24 Metro station personnel, plus 40 QRF personnel). These 154 personnel 
+were distributed between at least 37 different locations, with the QRF approximately 12 
+miles away at JBA. No personnel, including the QRF, were armed with lethal weapons, and 
+7 William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021, H.R. 6395, 116 
+Cong.§ 1064 (2020). 
+6 
+FOR HOUSE COMMITTEE USE ONLY -PRODUCTION 1 -000023  CUI // FOR COMMITTEE USE ONLY 
+REPORT OF U.S. ARMY OPERATIONS ON JANUARY 6, 2021 
+none of the TCP or Metro station personnel had any equipment beyond their helmets and 
+ballistic vests stored in their NTVs. The DCNG had night shift personnel who were at home 
+or in hotels asleep, and 100 personnel were on 3-hour recall, 250 personnel on 6-hour 
+recall, and 350 personnel on 12-hour recall. The DCNG was prepared to provide the limited 
+support requested by HSEMA and nothing more. 
+b. Calls for Assistance. In this section, after each stated time stamp, a cumulative 
+expired time is stated, with the request at 1349 being treated as 0:00. According to 
+timelines, at 1326 [-0:23], the USCP ordered the evacuation of the Capitol. Enclosure 2 is 
+the entire Army timeline from December 31, 2020 through January 6, 2021. 
+• 1349 [0:00], USCP Chief Sund communicated a request to MG Walker for immediate 
+assistance. 
+• 1412 [+0:23], Rioters break a window on the northwest side of the Capitol and the 
+first rioter enters the Capitol through the broken window, opening a door for others. 
+• 1414 [ +0:25], Federal Protective Service officers report that the Capitol has been 
+breached. 
+• 1420 [+0:31], The House adjourns and begins to evacuate. 
+• 1420 [+0:31], As the Director of the Army Staff (DAS), L TG Piatt entered SecArmy's 
+office to render a report of suspicious packages found in D.C., SecArmy received a 
+panicked phone call from the DCNG. During this call, SecArmy was informed of 
+multiple explosions in the city. In order to understand the situation, SecArmy made 
+several attempts to elicit additional information from the DCNG. Secretary McCarthy 
+then asked the DCNG to establish a conference call between the USCP, MPD, and 
+DCNG to help the Secretary better understand the situation on the Capitol grounds. 
+• ~1425 [0:36], SecArmy joined a conference call with MG Walker; Chief Contee, 
+MPD; Mayor Bowser; Chief Sund, USCP; and the Executive Officer to SecArmy. 
+L TG Piatt; Ms. Michelle Pearce, Acting Army General Counsel; and BG LaNeve, 
+Director of Operations, Readiness, and Mobilization (OD); joined the call in 
+SecArmy's office. After hearing a frantic request for assistance, SecArmy asked MG 
+Walker how quickly the 40-member QRF could respond; MG Walker stated the QRF 
+could be ready to move in 20 minutes. SecArmy directed MG Walker to prepare to 
+move the QRF to the Capitol Building and support the USCP, but to remain at the 
+Armory until he confirmed approval from Acting SecDef. 
+• ~1430 [+0:41], At this point, now understanding the gravity of the situation and 
+knowing that he did not have authority to approve the request to provide DCNG 
+personnel for a civil disturbance operation (COO) or to support a federal agency, 
+SecArmy directed L TG Piatt to take over the conference call. Sec Army then, along 
+with Chief of Staff of the Army (CSA) and BG LaNeve, sprinted to Acting SecDef's 
+office to brief the situation to Acting SecDef and CJCS, and request that Acting 
+SecDef approve the request for DCNG assistance. 
+o After SecArmy departed, L TG Piatt informed the participants on the call that 
+SecArmy had left to meet with Acting SecDef to gain approval to support the 
+USCP. The conference call continued and was at times difficult to follow, as 
+7 
+FOR HOUSE COMMITTEE USE ONLY -PRODUCTION 1 -000024  CUI // FOR COMMITTEE USE ONLY 
+REPORT OF U.S. ARMY OPERATIONS ON JANUARY 6, 2021 
+multiple participants spoke over one another. Chief Sund again requested 
+immediate assistance. L TG Piatt calmly stated that the Army needed help 
+understanding the situation and needed to clarify what specific task(s) the USCP 
+wanted DCNG to perform. Rather than responding, the USCP and MPD 
+leadership repeatedly asked for the Guard to move immediately. L TG Piatt 
+cautioned that the National Guard was trained for crowd control, not clearing 
+buildings; and suggested that law enforcement and the FBI reaction forces may 
+be a better option for clearing the Capitol Building. L TG Piatt expressed concern 
+about Army Soldiers clearing the Capitol Building, recommending that the 
+National Guard assist with crowd control while law enforcement cleared the 
+Capitol Building. 
+o The Mayor and Chief Contee interpreted this as a denial of support, and Chief 
+Contee asked L TG Piatt: "for the record, are you denying our request for 
+support?" L TG Piatt immediately responded that the Army was not denying the 
+request for support, that SecArmy was requesting authorization from Acting 
+SecDef, and that SecArmy had directed MG Walker to prepare his QRF to move. 
+L TG Piatt reiterated the need to quickly develop a basic plan before rushing into 
+an unclear and dynamic situation, which included a large number of protestors 
+outside the Capitol Building and another group of violent protestors inside. Chief 
+Contee stated, "you are denying our request and we will go to the media." L TG 
+Piatt stated clearly for the third time that he was not denying their request. Over 
+the course of the call, L TG Piatt stated three times that the Army was not denying 
+the request for support, and explained that the DCNG was preparing to move 
+pending approval from the Acting SecDef. 
+o L TG Piatt continued to ask the Capitol Police to confirm how they intended to 
+employ the QRF, without success. This information was vital in order to provide 
+the QRF leadership a basic order, ensure their understanding of the situation and 
+anticipated tasks, and enable their own hasty planning and preparations. Moving 
+without this basic planning would, at best, have caused additional confusion; and 
+at worst, could have resulted in serious injury to Guardsmen, law enforcement 
+officers, or the peaceful protestors outside the Capitol. At this point, L TG Piatt 
+realized that the USCP's mission had changed: there was no longer a perimeter 
+to secure around the Capitol, and now the mission was to take back the Capitol. 
+o During this discussion, the Army Deputy Chief of Staff, G-3/5/7, L TG Flynn, 
+briefly entered SecArmy's office and heard the ongoing discussion, including 
+L TG Piatt being asked twice if he was denying support to the USCP. After a few 
+minutes, recognizing that he needed to move back to the G-3/5/7 offices to begin 
+planning for the deployment of NG forces to the Capitol, L TG Flynn left 
+SecArmy's office. L TG Flynn moved to CSA's office to call his team to tell them 
+to open a secured video teleconference (SVTC) in order to plan and coordinate 
+the DCNG's response. 
+o At approximately 1445, one of the participants on the call reported that shots 
+were fired inside the Capitol Building. SecArmy's Executive Officer immediately 
+ran to Acting SecDef's office to inform SecArmy. When he returned to 
+SecArmy's office approximately 10 minutes later, the conference call had ended. 
+8 
+FOR HOUSE COMMITTEE USE ONLY -PRODUCTION 1 -000025  CUI // FOR COMMITTEE USE ONLY 
+REPORT OF U.S. ARMY OPERATIONS ON JANUARY 6, 2021 
+The Army Staff and the DCNG had left the conference call and joined a SVTC to 
+discuss the situation and begin planning how to deploy the DCNG to the Capitol. 
+o By approximately 1500, the SVTC was populated with Army Staff members, and 
+the DCNG dialed in shortly afterwards. L TG Flynn opened the session by 
+reiterating that the Army needed to quickly develop a basic plan before rushing 
+into an unclear and dynamic situation that included a large number of protestors 
+outside the Capitol Building and another group of violent protestors inside. This 
+HQDA SVTC stayed open until approximately 2200 on the evening of January 6 
+to support planning for the DCNG's new mission, including securing fencing for 
+the Capitol and planning for incoming NG personnel from surrounding states. 
+• 1500 [+1 :11], SecArmy directed MG Walker to begin to prepare to move all available 
+Guardsmen (approximately 150 personnel) to support the USCP. This meant that 
+MG Walker was to prepare to move personnel back from TCPs and Metro stations; 
+task organize for response; ensure proper equipment was issued; and develop a 
+tactical plan for employment of the DCNG. 
+• 1504 [+1 :15], Acting SecDef approved the activation/mobilization of the full DCNG 
+(1100 total personnel). Immediately upon Acting SecDef's approval, SecArmy 
+directed MG Walker to recall all personnel and to initiate movement to posture forces 
+to support the MPD; SecArmy directed MG Walker to create a hasty plan to employ 
+DCNG personnel and to ensure the Guardsmen were properly equipped for the 
+mission. The DCNG began redeploying all Soldiers from positions at Metro stations 
+and mobilizing all available non-support and non-C2 personnel in preparation for the 
+new mission, including bringing in Guardsmen who were scheduled for the night 
+shift. 
+• 1511 [+1:22], The 40-person QRF departed from JBA to return to the D.C. Armory. 
+• 1519 [ + 1 :30], SecArmy phone call with Senator Schumer and Speaker Pelosi about 
+the nature of Mayor Bowser's request. SecArmy explained Acting SecDef had 
+already approved full DCNG mobilization. 
+• 1526 [ + 1 :37], SecArmy phone call with Mayor Bowser and M PD Chief Contee; he 
+relayed there had been no denial of their request and conveyed Acting SecDef 
+approval of the activation of the full DCNG. 
+c. Re-Missioning the DCNG. At approximately 1548 [ +1 :59], the DCNG had yet to 
+develop a plan for the linkup and employment of DCNG personnel in support of MPD and 
+the USCP, so SecArmy decided to go to MPD Headquarters to personally conduct the 
+coordination with MPD, arriving at 1605, followed by BG LaNeve at 1610. Between 1610 
+and 1630, SecArmy and BG LaNeve developed the plan to employ the DCNG at the 
+Capitol. A critical planning factor was to specify unit-level tasks to employ the DCNG. This 
+is because, unlike most law enforcement agencies, the Army does not respond to crises as 
+individuals, but instead by small units such as squads and platoons. SecArmy and BG 
+LaNeve coordinated with Mayor Bowser, Chief Contee, and the FBI to discuss task and 
+purpose for the DCNG, identify link-up locations, and confirm key leaders at each site. 
+• 1615 [+2:26], SecArmy participated in a phone update with Acting SecDef and 
+CJCS, at which time he received confirmation that there were 25-30,000 protesters. 
+9 
+FOR HOUSE COMMITTEE USE ONLY -PRODUCTION 1 -000026  CUI // FOR COMMITTEE USE ONLY 
+REPORT OF U.S. ARMY OPERATIONS ON JANUARY 6, 2021 
+• 1618 [+2:29]; SecArmy called the Chief, National Guard Bureau (CNGB), to discuss 
+the availability of out-of-state National Guard forces. 
+• 1625 [+2:36]. SecArmy asked BG LaNeve to direct MG Walker to prepare the DCNG 
+(all available personnel) at the Armory to move to the Capitol in anticipation of Acting 
+SecDef authorization to support the USCP. 
+• ~1626 [+2:37], SecArmy called the Deputy Director of the FBI, David Bowditch, to 
+discuss the positioning of the DCNG (DCNG would follow MPD and establish 
+perimeter security); and encouraged the FBI to immediately deploy their tactical 
+teams to the Capitol. 
+• 1632 [+2:43], SecArmy joined phone call with Acting Sec Def and CJCS. SecArmy 
+provided a summary of the plan to deploy, linkup, and employ the DCNG and all 
+additional available forces. Acting SecDef provided verbal authorization to re­
+mission the DCNG to conduct perimeter and clearance operations in support of 
+USCP. SecArmy agreed to provide public notification of support. 
+• 1635 [+2:46], SecArmy notified MG Walker of the approval and authorized the 
+DCNG to depart the Armory for the U.S. Capitol. BG LaNeve provided the link up 
+location and name of the lead law enforcement officer to MG Walker. 
+• 1647 [+2:58], SecArmy conducted a press conference at MPD Headquarters, along 
+with Mayor Bowser and the MPD Chief of Police. At the conference, SecArmy 
+announced the full mobilization of the DCNG. 
+• 1702 [+3:13], 154 DCNG Soldiers in full riot control gear departed the D.C. Armory. 
+• 1720 [+3:31], DCNG Soldiers began arriving at the U.S. Capitol. 
+• 1740 [+3:51], All 154 DCNG Soldiers were in place at the U.S. Capitol, sworn in as 
+U.S. Capitol Special Police officers, and prepared to support operations. 
+• 1814 [+4:25], The USCP, MPD, and DCNG personnel successfully established a 
+perimeter on the west side of the U.S. Capitol. 
+• 1952 [+6:03], SecArmy met with MG Walker; ordered no shift change, and linked up 
+with Deputy Chief Carroll (MPD) to discuss disposition and perimeter expansion until 
+fences were in place. At this time, an additional 150 DCNG personnel were enroute 
+to Capitol. SecArmy ordered MG Walker to start working on force flow for incoming 
+National Guardsmen from outside the District of Columbia. 
+• 2000 [ +6: 11], The USCP declared the Capitol building secure. 
+• 2006 [ +6: 17], The Vice President reopened the Senate. 
+5. Conclusion. 
+On January 6, 2021, the DCNG was postured to conduct a small traffic and crowd 
+control mission in support of MPD and DC FEMS, and had no indication that anything 
+further would be requested of the DCNG. As soon as they were notified of the severity of 
+the situation Capitol, at approximately 1425 hours, Army senior leaders worked relentlessly 
+10 
+FOR HOUSE COMMITTEE USE ONLY -PRODUCTION 1 -000027  CUI // FOR COMMITTEE USE ONLY 
+REPORT OF U.S. ARMY OPERATIONS ON JANUARY 6, 2021 
+to develop an understanding of the situation, plan the new mission of the OCNG-which 
+involved inserting the OCNG into a chaotic and dangerous environment-and gain Acting 
+SecOef approval to conduct COO. This entire process took approximately two hours. 
+The dispersion of 154 unarmed OCNG personnel across 37 different locations 
+separated by at least 12 miles, prepared and equipped only to reinforce law enforcement at 
+mass transit locations and TCPs, made it incredibly difficult to repurpose, reorganize, and 
+deploy those personnel into uncertain and kinetic circumstances. The inability of law 
+enforcement officials to clearly communicate the task for the QRF further delayed planning 
+and executing a faster response from the OCNG. 
+To overcome continued friction in communication and coordination, SecArmy physically 
+moved to the MPO headquarters. Within 30 minutes of SecArmy's arrival at MPO 
+headquarters, Acting SecOef-the only individual with authority to approve the employment 
+of the OCNG to conduct COO in support of the USCP-approved the immediate 
+employment of the OCNG. Because of the unplanned and unrehearsed situation, it took 
+over an hour after Acting SecOef's approval for the OCNG to arrive at the Capitol, link up 
+with the proper coordinating law enforcement officers, become sworn as U.S. Capitol 
+Special Police officers, and begin to conduct operations. In light of the challenges inherent 
+in responding to such unforeseen circumstances, this response time was reasonable. 
+Ultimately, the response by the 154 members of the OCNG is a true testament to Citizen­
+Soldiers, their dedication to duty, and their devotion to accomplishing any mission. 
+11 
+FOR HOUSE COMMITTEE USE ONLY -PRODUCTION 1 -000028  CUI // FOR COMMITTEE USE ONLY 
+REPORT OF U.S. ARMY OPERATIONS ON JANUARY 6, 2021 
+Enclosure 1: References 
+a. Executive Order 11485, "Supervision and Control of the National Guard of the District 
+of Columbia," Oct. 1, 1969. 
+b. Memorandum, Secretary of Defense, subject: Supervision and Control of the 
+National Guard of the District of Columbia, Oct. 10, 1969. 
+c. District of Columbia Code§ 49-103, "Suppression of riots," Dec. 24, 1973, 87 Stat. 
+826, Pub. L. 93-198, title VII,§ 739(d). 
+d. DoD Instruction 3025.21, "Defense Support of Civilian Law Enforcement Agencies," 
+Feb. 27, 2013 (incorporating Change 1, effective Feb. 8, 2019). 
+e. DoD Directive (DoDD) 3025.18, "Defense Support of Civil Authorities," Dec. 29, 2010 
+(Change 2, Mar. 19, 2018). 
+f. Letter from Mayor Muriel Bowser, District of Columbia, to MG William Walker, Dec. 
+31, 2020. 
+g. Letter from Dr. Christopher Rodriguez, Director, Homeland Security and Emergency 
+Management Agency (HSEMA), District of Columbia, to MG William Walker, Dec. 31, 2020. 
+h. Letter from Secretary of the Army to Secretary of Defense, Jan. 4, 2021. 
+i. Acting Secretary of Defense Memorandum for Secretary of the Army, subject: 
+Employment Guidance for the District of Columbia National Guard, Jan. 4, 2021. 
+j. Letter from Secretary of the Army to the Deputy Attorney General, Jan. 4, 2021. 
+k. Letter from Secretary of the Army to MG William Walker, Support to the Civil 
+Authorities of the District of Columbia, Jan. 5, 2021. 
+I. DoD Timeline (Timeline memorializing planning and execution efforts of the 
+Department of Defense to address the Violent Attack at the U.S. Capitol on January 6, 
+2021 ). 
+m. Seven-Step Process for Requests from DC Civil Authorities. 
+n. Modified Seven-Step Process for Requests from Federal Agencies. 
+12 
+FOR HOUSE COMMITTEE USE ONLY -PRODUCTION 1 -000029  CUI // FOR COMMITTEE USE ONLY 
+REPORT OF U.S. ARMY OPERATIONS ON JANUARY 6, 2021 
+Enclosure 2: Army Timeline 
+Response (Timeline): ALL TIMES EST 
+Thursday, December 31, 2020 (New Year's Eve): 
+• Mayor Muriel Bowser and Dr. Christopher Rodriguez, D.C. Director of Homeland Security 
+and Emergency Management Agency, deliver a written request for D.C. National Guard 
+(DCNG) support to D.C. Metro Police Department (MPD) and Fire and Emergency Service. 
+Saturday, January 2, 2021: 
+• The Acting Secretary of Defense (A/SD) confers with the Chairman of the Joint Chiefs of 
+Staff (CJCS) and the Secretary of the Army (SecArmy) on the Mayor's written request. No 
+decision made. 
+Sunday, January 31 2021 : 
+• UNKN: OSD HD&GS confirms with U.S. Capitol Police (USCP) (USCP Protective 
+Services Bureau Commander) that USCP is not requesting DOD support. 
+• 1300: A/SD and CJCS meet with Cabinet Members to discuss DoD support to law 
+enforcement agencies and potential requirements for DoD support; DOJ is designated as 
+the Lead Federal Agency. 
+• 1530: SecArmy Phone Call with MPD Chief. Chief Contee reiterates D.C. government 
+does not want federal forces in DC with long weapons. 
+• 1730: A/SD and CJCS meet with the President. President concurs with activation of the 
+DCNG to support law enforcement. 
+Monday, January 41 2021 : 
+• USCP confirms to OSD there is no requirement for DoD support in a phone call. 
+• A/SD, in consultation with CJCS, SecArmy, and DoD General Counsel (GC), reviews the 
+Department's plan to be prepared to provide support to civil authorities, if asked, and 
+approves activation of 340 members of the DCNG to support Mayor Bowser's request. 
+• Support provided in response to Mayor Bowser's request includes support at: 
+Traffic Control Points: 90 personnel (180 total/2 shifts); Metro station support: 24 personnel 
+(48 total/2 shifts); Weapons of Mass Destruction Civil Support Team: 20 personnel; and 
+Internal Command and Control: 52 personnel. 
+• A/SD also authorizes SecArmy to deploy a Quick Reaction Force (40 personnel staged at 
+Joint Base Andrews) only as a last resort and in response to a request from an appropriate 
+civil authority. 
+• SecArmy sends coordination letter to Deputy Attorney General which explains the 
+requested support and the parameters of the approved DCNG support. 
+• MG William J. Walker, Commanding General of the DCNG, conducts backbrief on mission 
+to SecArmy. MG Walker states he has everything he needs from the SecArmy, and does 
+not question the parameters placed on employing the QRF. MG Walker raises concerns 
+13 
+FOR HOUSE COMMITTEE USE ONLY -PRODUCTION 1 -000030  CUI // FOR COMMITTEE USE ONLY 
+REPORT OF U.S. ARMY OPERATIONS ON JANUARY 6, 2021 
+with Guardsmen deployed to checkpoints not having their helmets or ballistic vests for 
+protection; SecArmy agrees that they should have protective equipment and directs that 
+Guardsmen keep it nearby in vehicles in case it is needed. 
+• SecArmy notifies Mayor Bowser and Chief Contee of A/SD approval. 
+Tuesday, January 5, 2021: 
+• Mayor Bowser delivers a letter addressed to the Acting Attorney General, A/SD, and 
+SecArmy confirming that there are no additional support requirements from the D.C. 
+• DCNG begins to manage traffic control points alongside local law enforcement. 
+Wednesday, January 61 2021: 
+• 1230: Crowds of protestors gather outside the U.S. Capitol building. 
+• 1253: Rioters overwhelm police along the outer perimeter west of the Capitol building, 
+pushing aside temporary fencing. 
+• 1326: USCP orders evacuation of Capitol complex. 
+• 1334: SecArmy phone call with Mayor Bowser in which Mayor Bowser communicates 
+request for additional forces and asks whether USCP has requested National Guard 
+personnel. 
+• 1340: Reports of potential explosive devices at DNC/RNC headquarters. Cannon Building 
+evacuated. 
+• 1349: USCP Chief Sund communicates a request to MG William J. Walker for immediate 
+assistance. 
+• 1410: Chief Sund contacts MG Walker again to request immediate assistance and states 
+200 Guardsmen are needed and to send more if they are available. 
+• 1412: Rioters break a window on the northwest side of the Capitol and the first rioter 
+enters the Capitol through the broken window, opening a door for others. 
+• 1414: Federal Protective Service officers report that the Capitol has been breached. 
+• 1420: The House adjourns and begins to evacuate. 
+• 1420: As the Director of the Army Staff (DAS), L TG Piatt, enters the SecArmy's office to 
+render a report of suspicious packages found in DC, SecArmy receives a panicked phone 
+call the DCNG. During this call, the SecArmy is informed of multiple explosions in the city. 
+In order to understand the situation, SecArmy makes several attempts to elicit additional 
+information from the DCNG. SecArmy asks the DCNG to establish a conference call 
+between the USCP, MPD, and DCNG to help the Secretary better understand the situation 
+on the Capitol grounds. 
+• 1425: SecArmy joins a conference call with MG Walker; Chief Contee, MPD; Mayor 
+Bowser; Chief Sund, USCP; and the Executive Officer to SecArmy. L TG Piatt, DAS; Ms. 
+Michelle Pearce, Acting Army General Counsel; and BG LaNeve, Director of Operations, 
+Readiness, and Mobilization (OD), join the call in SecArmy's office. After hearing a frantic 
+request for assistance, SecArmy asks MG Walker how quickly the 40-member QRF could 
+respond; MG Walker states the QRF could be ready to move in 20 minutes. SecArmy 
+14 
+FOR HOUSE COMMITTEE USE ONLY -PRODUCTION 1 -000031  CUI // FOR COMMITTEE USE ONLY 
+REPORT OF U.S. ARMY OPERATIONS ON JANUARY 6, 2021 
+directs MG Walker to prepare to move the QRF to the Capitol Building and support the 
+USCP, but to remain at the Armory until he confirms approval from the Acting SecDef. 
+• ~1428: SecArmy, CSA, and BG LaNeve depart and go to A/SD's office. 
+• ~1428 until approximately 1450: The conference call continues, and L TG Piatt informs 
+the participants that SecArmy has gone to discuss the situation with the A/SD and seek 
+approval to support the USCP. Chief Sund repeatedly requests immediate assistance; L TG 
+Piatt responds that the Army needs help understanding the situation and clarity on what 
+specific task the USCP wants DCNG to perform. He also cautions that the National Guard 
+is better trained and suited to assist with crowd control while law enforcement clears the 
+Capitol Building. Chief Sund asks "[f]or the record, are you denying our request for 
+support?" a number of times, and at least three times L TG Piatt says no and reiterates that 
+SecArmy is presently requesting A/SD approval of the request. Chief Sund says he needs 
+the National Guard to secure the perimeter of the Capitol; L TG Piatt assesses that the 
+mission has gone beyond support and is now retaking the Capitol. L TG Flynn briefly enters 
+the SecArmy's office and hears the ongoing discussion, including L TG Piatt being asked 
+twice if he was denying support to the USCP. After a few minutes, recognizing that he 
+needs to move back to the G-3/5/7 offices to begin planning for deployment of NG forces to 
+the Capitol, L TG Flynn leaves SecArmy's office. L TG Flynn moves to the Chief of Staff of 
+the Army's office to call his own team to open a secured video teleconference (SVTC) in 
+order to plan and coordinate the DCNG's response. Prior to the end of the call, at 
+approximately 1445, one of the participants in the call reports that shots were fired in the 
+Capitol building. SecArmy's XO departs and goes to inform SecArmy in the A/SD's office. 
+BG LaNeve informs CJCS. 
+• 1429: Media reports Police on Senate Floor shouted "Shots fired. Move away from the 
+doors." 
+• 1430: A/SD, CJCS, SecArmy, and CSA meet to discuss USCP and Mayor Bowser's 
+requests. 
+• 1430 -1630: A/SD, CJCS, SecArmy, and CSA assess the situation, requirements, and 
+options. 
+• 1431: Media reports protestors enter Senate floor. 
+• 1445-2200: L TG Flynn opens a SVTC bridge and coordinates with Army Staff, DCNG, 
+and others to support planning for the DCNG's new mission, including securing fencing for 
+the Capitol and planning for incoming NG personnel from surrounding states. 
+• 1447: Media reports public calls by Speaker of the House for National Guard support to 
+clear the Capitol. 
+• 1500: SecArmy directs MG Walker to begin to prepare to move all available personnel to 
+support the USCP. This meant that MG Walker was to prepare to move personnel back 
+from TCPs and Metro stations; task organize for response; ensure proper equipment is 
+issued; and develop a tactical plan for employment of the DCNG. 
+• 1500: A/SD determines all available forces of the DCNG are required to reinforce MPD 
+and USCP positions to support efforts to reestablish security of the Capitol complex. 
+15 
+FOR HOUSE COMMITTEE USE ONLY -PRODUCTION 1 -000032  CUI // FOR COMMITTEE USE ONLY 
+REPORT OF U.S. ARMY OPERATIONS ON JANUARY 6, 2021 
+• 1504: A/SD, with advice from CJCS, DoD General Counsel, the Chief of the National 
+Guard Bureau (CNGB), SecArmy, and the CSA, provides verbal approval of the full 
+activation/mobilization of the DCNG (1100 total) in support of the MPD. 
+• 1505: Immediately upon A/SD approval, Secretary McCarthy directs MG Walker to recall 
+all personnel and to posture forces to support the MPD. SecArmy further directs MG Walker 
+to create a hasty plan to employ DCNG personnel and to ensure the Guardsmen are 
+properly equipped for the mission. The DCNG begins redeploying all Soldiers from 
+positions at Metro stations and mobilizing all available non-support and non-C2 personnel in 
+preparation for the new mission, including bringing in Guardsmen who were scheduled for 
+the night shift. 
+• 1505: SecArmy provides update to Speaker Pelosi and Senator Schumer. 
+• 1510: Media reports that DoD denied Mayor Bowser's request for more guardsmen. 
+• 1510: SecArmy phone call with Mayor Bowser to inform her of his request for full 
+activation of the DCNG. 
+• 1511: DCNG 40-person QRF departs from Joint Base Andrews to return to the D.C. 
+Armory. 
+• 1518: A/SD, with advice from CJCS, OGC, CNGB, SECARMY, CSA, requests that VA 
+and MD National Guard be on standby. 
+• 1519: SecArmy phone call with Senator Schumer and Speaker Pelosi about the nature of 
+Mayor Bowser's request. SecArmy explains A/SD has already approved full DCNG 
+mobilization. 
+• 1526: SecArmy phone call with Mayor Bowser and MPD police chief. SecArmy relays 
+there has been no denial of their request and conveys A/SD approval of the activation of full 
+DCNG. 
+• 1530: White House announces National Guard is on its way; media reports that one 
+person has been shot in the Capitol and has been moved. 
+• ~1535: DC mayor establishes 6pm curfew. 
+• 1546: CNGB phone call with the Adjutant General (TAG) of Virginia to discuss support in 
+Washington D.C. TAG said Governor had ordered mobilization of forces at 1532. 
+• 1548: SecArmy and small staff depart Pentagon for MPD HQ. 
+• 1555: CNGB phone call with TAG of Maryland to discuss support in Washington D.C. 
+TAG relays the Governor ordered the mobilization of the rapid response force at 1547. 
+• 1600: DoD releases statement on D.C. Guard Mobilization: STATEMENT BY JONATHAN 
+HOFFMAN, CHIEF PENTAGON SPOKESMAN, ON D.C. GUARD MOBILIZATION. 
+• 1605: SecArmy arrives at MPD HQ; BG LaNeve arrives at 1610. 
+• 1608: Phone call between VPOTUS and A/SD and CJCS; A/SD conveys that this is a law 
+enforcement issue and DoD is in a supporting role. 
+• 1610-1630: SecArmy, Mayor Bowser, Chief Contee, and BG La Neve discuss task and 
+purpose for the DCNG, identify linkup locations, and confirm key leaders at each site. 
+16 
+FOR HOUSE COMMITTEE USE ONLY -PRODUCTION 1 -000033  CUI // FOR COMMITTEE USE ONLY 
+REPORT OF U.S. ARMY OPERATIONS ON JANUARY 6, 2021 
+• 1613: USCP indicates intent to request 15-20 Pentagon Force Protection Agency (PFPA) 
+officers under mutual aid agreement. Washington Headquarters Services recalls officers to 
+standby ahead of formal request. 
+• 1615: SecArmy participates in phone update with A/SD and CJCS. Confirms 25,000-
+30,000 protesters. 
+• 1618: A/SD, CJCS, SecArmy, and CNGB discuss availability of National Guard (NG) 
+forces from other States in the region. A/SD gives voice approval for out-of-State NG forces 
+to muster and to be prepared to deploy to D.C. 
+• 1619: A/SD phone call with CJCS and SecArmy. 
+• 1625: SecArmy asks BG LaNeve to direct MG Walker to prepare the DCNG (all available 
+personnel) at the Armory to move to the Capitol in anticipation of authorization to support 
+the USCP. 
+• 1626: SecArmy phone call with Deputy Director of the FBI, David Bowditch, to discuss 
+positioning of DCNG (DCNG will follow MPD and establish perimeter security); SecArmy 
+encourages the FBI to immediately deploy their tactical teams to the Capitol. 
+• 1632: SecArmy joins phone call with A/SD and CJCS. SecArmy provides summary of 
+plan to deploy, linkup, and employ the DCNG and all additional available forces. A/SD 
+provides verbal authorization to re-mission DCNG to conduct perimeter and clearance 
+operations in support of USCP. SecArmy agrees to provide public notification of support. 
+• 1635: SecArmy notifies MG Walker of A/SD's approval and authorizes DCNG to depart 
+the Armory for the U.S. Capitol. BG LaNeve provides MG Walker the linkup point and name 
+and contact information of the officer to whom the DCNG should report. 
+• 1636: Media reports FBI deployment to the Capitol. 
+• 1640: SecArmy phone call with Governor of Maryland. Governor relays he will send 
+Maryland NG troops to D.C., expected to arrive on January 7, 2021. 
+• 1647: D.C. Mayor conducts press conference with SecArmy. 
+• 1648: Upon receipt of the formal request from USCP, A/SD approves and directs 20 
+PFPA officers to support USCP under mutual aid agreement. Officers deploy immediately. 
+• 1652: DOD issues press statement on full activation of D.C. National Guard: 
+STATEMENT BY ACTING SECRETARY MILLER ON FULL ACTIVATION OF D.C. 
+NATIONAL GUARD. 
+• 1702: 154 DCNG depart the D.C. Army in full riot control gear in support of USCP. 
+• 1705: SecArmy phone call with Sen. Schumer. 
+• 1715: SecArmy provides update to A/SD and CJCS via phone call, relaying that 150 
+DCNG personnel are staged to support MPD. 
+• 1720: DCNG begins arriving to the U.S. Capitol with 154 Soldiers. They commence being 
+sworn in as Special Capitol Police. 
+• 1725: A/SD and CJCS call with WH Counsel. DOJ is reaffirmed as the lead federal 
+agency for response coordination. 
+17 
+FOR HOUSE COMMITTEE USE ONLY -PRODUCTION 1 -000034  CUI // FOR COMMITTEE USE ONLY 
+REPORT OF U.S. ARMY OPERATIONS ON JANUARY 6, 2021 
+• 1726: SecArmy requests fences from Department of Homeland Security (OHS) Secretary 
+in order to establish a perimeter around the Capitol. 
+• 1740: All DCNG personnel have arrived and have linked up at tunnel at Capitol 1st and D 
+St. 
+• 1745: A/SD signs formal authorization for out-of-State NG to muster and gives voice 
+approval for their deployment in support of the USCP. 
+• 1800: Cabinet-level interagency sync call convened (APNSA, OHS, DOI, DOJ, FBI, WH 
+Counsel, A/SD, CJCS, SecArmy in attendance). SecArmy provides update: 150 DCNG on 
+site and 150 enroute; 350 FBI on site. He states that the goal is to have the Capitol cleared 
+by 2100. 
+• 1800: Mayor Bowser activates curfew. 
+• 1800: SecArmy's Executive Officer begins coordinating with the USCP and Secret 
+Service to contract fencing for around the Capitol building. 
+• 1814: USCP, MPD, and DCNG (154 Soldiers) successfully establish perimeter on the 
+west side of the U.S. Capitol. 
+• 1829: SecArmy phone call with Deputy Director of the FBI David Bowditch. 
+• 1850: SecArmy phone call with Virginia Governor. 
+• 1915: A/SD, CJCS, SecArmy, A/DAG, and VPOTUS phone call with 
+Pelosi/Schumer/McConnell. 
+• 1936: A/SD provides vocal approval to lease fences in support of the USCP for security of 
+the Capitol building. 
+• 1952: SecArmy meets with MG Walker, orders no shift change, and links up with Deputy 
+Chief Carroll (MPD) to discuss disposition and perimeter expansion until fences are in 
+place. An additional 150 DCNG personnel are enroute to Capitol. SecArmy orders MG 
+Walker to start working on force flow for incoming National Guardsmen from outside the 
+District of Columbia. 
+• 2000: USCP declares Capitol building secure. 
+• 2010: Congress back in session. 
+• 2030: SecArmy and staff depart MPD and return to Pentagon. 
+• 2036: A/SD re-signs 32 U.S.C. § 502(f) authorization in correct format and on correct 
+letterhead. 
+• 2100: Phone call update with SecArmy, CJCS, Chief of the National Guard Bureau 
+(CNGB), A/SD, and MG Walker. Update: 250-270 PAX at Capitol; CJCS says to mobilize all 
+6200 guard personnel. Call participants discuss force flow over the next several days. 
+• 2158: SecArmy meets with DCNG leaders at the D.C. Armory to discuss force flow and 
+30-day mobilization orders. 
+• 2323: E-mail containing OHS Points of Contact for Capitol fence effort is sent to SecArmy 
+to facilitate direct liaison authority for construction scheduled to commence at 0900, 7 
+January 2021/ 
+18 
+FOR HOUSE COMMITTEE USE ONLY -PRODUCTION 1 -000035  CUI // FOR COMMITTEE USE ONLY 
+REPORT OF U.S. ARMY OPERATIONS ON JANUARY 6, 2021 
+• 2345: A/SD and CJCS phone call with SecArmy, CSA, CNGB, CJCS, and CG, DCNG to 
+discuss next operations for the next 24 hours, two planned protests occurring the next day, 
+DCNG support to TCPs, and the Capitol perimeter. 
+Thursday, January 7, 2021: 
+• 0023: SecArmy and staff move to USCP Headquarters to discuss continued DCNG 
+support of the USCP. 
+• 0200: SecArmy phone call with MPD Chief Contee. 
+• 0230: SecArmy and staff return to the Pentagon. 
+19 
+FOR HOUSE COMMITTEE USE ONLY -PRODUCTION 1 -000036 

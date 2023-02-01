@@ -1,0 +1,2308 @@
+1 
+2 
+3 
+4 SELECT COMMITTEE TO INVESTIGATE THE 
+5 JANUARY 6TH ATTACK ON THE U.S. CAPITOL, 
+6 U.S. HOUSE OF REPRESENTATIVES, 
+7 WASHINGTON, D.C. 
+8 
+9 
+10 
+11 INTERVIEW OF: NICHOLAS DECARLO 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 Tuesday, October 4, 2022 
+Washington, D.C. 
+The interview in the above matter was held via Webex, commencing at 4:01 p.m. 1  1 
+2 Appearances: 
+3 
+4 
+5 For the SELECT COMMITTEE TO INVESTIGATE 
+6 THE JANUARY 6TH ATTACK ON THE U.S. CAPITOL: 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 SENIOR ADMINISTRATIVE ASSISTANT 
+INVESTIGATIVE COUNSEL 
+PROFESSIONAL STAFF MEMBER 
+CHIEF CLERK 
+INVESTIGATIVE COUNSEL 
+15 For NICHOLAS DECARLO: 
+16 
+17 ROBERT FEITEL 
+18 1300 Pennsylvania Avenue NW 
+19 Suite 190-515 
+20 Washington, D.C. 20004 2  1 
+2 - Good afternoon. 
+3 This is a transcribed interview of Mr. Nicholas Decarlo, conducted by the House 
+4 Select Committee to Investigate the January 6th Attack on the United States Capitol 
+5 pursuant to House Resolution 503. 
+6 And, at this time, I'd ask the witness to please state your full name and spell your 
+7 last name for the record. 
+8 Mr. Decarlo. Nicholas Joseph Decarlo. Decarlo, D-e-C-a-r-1-o. 
+9 Thank you very much, Mr. Decarlo. 
+10 So this will be a staff-led deposition, and if members join --I don't see any on the 
+11 Webex right now, but if any of them join, they may also ask questions. 
+My name is and I'm an investigative counsel with the select 12 
+13 committee. With me in the room is investigative counsel. And, at 
+14 the time, I do not see any other staff on the Webex, but I will announce them if they join 
+15 as well. 
+16 
+17 And, at this time, could counsel please state your name for the record? Rob? 
+Mr. Feitel. Good afternoon. Robert Feitel. I'm an attorney admitted to 
+18 practice in Washington, D.C., and I'm counsel for Mr. Decarlo. 
+19 Thank you very much. 
+20 So there is an official reporter transcribing the record of this interview, so, Mr. 
+21 Decarlo, please wait until each question is completed before you begin your response, 
+22 and we'll try to wait until your response is complete before we ask our next question. 
+23 The stenographers cannot record us talking over each other, especially in this 
+24 virtual environment, so we'll do our best not to talk over one another. And the court 
+25 reporters also cannot record nonverbal responses, such as shaking your head, so it's 3  4 
+1 important that you answer each question with an audible, verbal response. 
+2 And we ask that you provide complete answers based on your best recollection. 
+3 If the question is not clear --and that can happen --please just ask for clarification. And 
+4 if you do not know the answer, please simply say so. 
+5 Does that all make sense to you? 
+6 
+7 Mr. Decarlo. Yes. 
+All right. And I'm just going to go over a couple more things before 
+8 we begin. 
+9 So, first, it is important that you understand that this interview is voluntary. If at 
+10 any time you would like to stop speaking with us, that is your choice. Similarly, if at any 
+11 point you need to discuss something with your attorney in private, please let us know, 
+12 and we will take a break so you can have that conversation with Mr. Feitel. 
+13 And, second, this interview is not under oath, but, because this is a formal 
+14 congressional investigation, you are obligated under Federal law to tell the truth, the 
+15 same as if you were speaking with the FBI or DOJ. It is unlawful to deliberately provide 
+16 false information to Congress, and, for this interview, providing false statements could 
+17 result in criminal penalties for those false statements. 
+18 Do you understand, Mr. Decarlo? 
+19 Mr. Decarlo. Yes. 
+20 - Thank you. 
+21 Third, you are not obligated to keep the fact of this interview and what we discuss 
+22 confidential. You are free to tell whomever you wish that you met with us, including the 
+23 prosecutor or judge on your case, or you can tell no one at all. That is your decision. 
+24 But, also, it is our House deposition rules that you cannot record this interview. 
+25 So can you please confirm, Mr. Decarlo, that you are not recording this interview?  1 
+2 
+3 Mr. Decarlo. I confirm I'm not recording this interview. 
+Thank you so much. 
+The select committee is separate and independent from the Department of 5 
+4 Justice. We have no involvement with the prosecutions, and the DOJ is not a partner of 
+5 the select committee in its investigation. 
+6 The select committee also is not a party to your criminal case, and it is not 
+7 agreeing to submit anything on your behalf to the judge. Nor can we make any 
+8 representation whether, if you tell the judge you met with us, that the judge will be more 
+9 favorable to you during sentencing. 
+10 And, lastly, we are not going to share the substance of what you said with the 
+11 Department of Justice prior to your sentencing, but there are a couple of possible 
+12 exceptions to our general practice. If you told us about evidence of a crime that we 
+13 thought law enforcement was unaware of or if we had reason to believe that you lied 
+14 during this interview, then we would be obligated to tell the Department of Justice or 
+15 another appropriate law enforcement agency. 
+16 And if you tell the judge that you met with us, just understand that that may 
+17 prompt questions from the judge about what you said and whether it is consistent with 
+18 your prior statements and acceptances of responsibilities, and, if the judge starts asking 
+19 questions, we may get asked to respond and divulge what you said. 
+20 So, all that being said, just, you know, let us know if you need any breaks as we're 
+21 going along, or, as I said, if you'd like to discuss anything with Mr. Feitel, we are happy to 
+22 accommodate that. 
+23 All right. So any questions before we get started on all of that? 
+24 Mr. Decarlo. No. 
+25 Great. Thank you.  1 
+2 
+3 EXAMINATION 
+BY 
+Q So we'll start with just some basic background information, Mr. Decarlo. 
+4 Where did you grow up? 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 A I grew up in Phoenix, Arizona. 
+Q Okay. And how long did you live in Phoenix? 
+A Fifteen years. 
+Q All right. And where do you live now? 
+A Tennessee. 
+Q Okay. Have you lived in Tennessee for most of your adult life, then? 
+A No. No. Before this, I lived in Fort Worth. 
+Q Fort Worth, Texas, correct? 
+A Yes. 
+Q Okay. What is your educational background? 
+A Dropped out of high school. 
+Q Okay. Do you have any military or law enforcement service in your 
+17 background? 
+A No. 
+Q Okay. And are you currently employed? 
+A No. 
+Q Okay. What was your last prior career or job? 6 
+18 
+19 
+20 
+21 
+22 A Last week was when it ended. I've been employed for the last 4 months as 
+23 a service advisor for Christian Brothers Automotive. 
+24 
+25 Q And that's in Tennessee, I assume? 
+A Yes.  1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 Q 
+is that? 
+A 
+Q 
+A 
+Q 
+A 
+Q 
+A 
+Q 
+A 
+Q 
+A 
+Q 
+A 
+Q 
+A 
+Q 
+he goes by? 
+A 
+Q 
+A 
+Q Okay. So what is your --you have a logo on the screen, MT Media. What 
+It's a media brand. 
+What's the --is the name of it "Murder the Media"? 
+Yes. 
+And are you still working with Murder the Media? 
+Yes. 
+What is your role with the organization? 
+I do live shows, occasional posts, and prerecorded content. 
+Okay. And how long have you been with Murder the Media? 
+Three years. Maybe 4 years. 
+Okay. Are you someone who --did you, like, found this company or -­
+Yes. 
+Okay. And with whom? 
+An associate of mine. 
+What's his name? 
+Justin Dunn. 
+Does Justin Dunn have, like, on online handle or some alternate pseudonym 
+Yeah, he has a few of them. 
+Can you name them, please? 
+Off the top of my head, Viii Nomerly. 
+Okay. So, when --
+Can you spell that? 
+- Oh, yeah. Can you spell that, please? 7  1 Mr. Decarlo. V-i-1-1, Nomerly, N-o-m-e-r-1-y. 
+2 - Okay. So I think we'll probably get into some of these chats later, 
+3 but when there's a Viii Nomerly in your chat, you Telegram messages, that is Mr. Justin 
+4 Dunn, correct? 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 Mr. Decarlo. Yes. 
+- Okay. Thank you. 
+Do you receive income from MT Media? 
+Mr. Decarlo. Sometimes, yeah. 
+Give us an --
+Mr. Decarlo. Not much. 
+Give us an approximate, how much you receive per year. 
+Mr. Decarlo. Two grand. 
+Q 
+A 
+Q BY 
+Is that advertisements mostly or donations? 
+Donations. 
+Okay. 
+And just another quick background question. Have you ever worked for any 
+18 government agency --Federal, State, local --in the past? 
+19 
+20 
+21 
+22 
+23 A 
+Q No. 
+All right. Thank you. 
+Now, Mr. Decarlo, are you now or have you ever been a Proud Boy? 
+A 
+Q I was. I stopped associating with them as a group, probably 2019. 
+Okay. Can you --we'll get to why you stopped, but first we're interested, 
+24 were you in a certain chapter of the Proud Boys? 
+25 A I was. 8  1 
+2 
+3 
+4 
+5 
+6 
+7 Q Which one? 
+A DFW. 
+Q What does that stand for? 
+A Dallas-Fort Worth. 
+Q Okay. And did you have a position within the Proud Boys? 
+A I was just kind of there. 
+Q Okay. So then, I guess, tell us a little bit of why you decided to join the 
+8 Proud Boys. 
+9 A It was something totally different when it started. It was just sort of a, you 
+10 know, group of guys who thought similarly who wanted to get out, get away from their 9 
+11 families, you know, for 1 day a month and, you know, just have a couple beers with some 
+12 guys, and that's pretty much it. That's how it started. 
+13 
+14 
+15 Q So when did you join? 
+A March 2017. 
+Q And when you say, like, just guys who thought of, like, going out once a 
+16 month, can you expand on that a little bit? Like, what were you guys gathering to do? 
+17 A Really just, like, build each other up as men, you know? Just, it was a guys' 
+18 club. 
+19 Q And how did you hear about this guys' club? 
+20 A From watching "The Gavin Mcinnes Show." 
+21 Q Okay. 
+22 At the time you were a member of the Proud Boys, can you give us a little sense 
+23 about what the organization was like? Like, what was the structure? Was there a 
+24 structure? You know, just some details about that. 
+25 A I mean, I started --I kind of left after they started adding structure and stuff  10 
+1 to it, but --can you ask the question again? I'm sorry. 
+2 Q Sure. Like, while you were a member of the Proud Boys, you said you were 
+3 part of a chapter. 
+4 
+5 A 
+Q Yeah. 
+So I'm wondering how, like, the chapter, the DFW chapter worked. Was 
+6 there a State chapter? A national chapter? 
+7 
+8 
+9 
+10 
+11 A 
+Q 
+A 
+Q 
+A There were --
+Was there a process --oh, go ahead. 
+Sorry. I didn't mean to cut you off. 
+No, you're fine. We'll start there. 
+There were a few chapters in the State. 
+12 As far as structure within the chapter, I mean, there was a president and a vice 
+13 president, but they really didn't organize anything outside of just, you know, where we'd 
+14 meet up. 
+15 Q 
+16 general? 
+17 
+18 
+19 A 
+Q 
+A Okay. And at these meet-ups, what were the conversation about in 
+Just our lives. 
+Was it very political during the time you were a member? 
+It was a little political, but, I mean, it was --it wasn't --it wasn't, like, our 
+20 main focus of being there. But, yeah, a lot of people did happen to support Trump. 
+21 
+22 time? 
+23 
+24 
+25 Q 
+A 
+Q 
+A Right. But were you going to rallies together for President Trump at the 
+Some would. 
+Okay. 
+Some would. Not all of us.  11 
+1 Q Right. So did the chapter --so, like, would the DFW chapter or another 
+2 chapter that you're aware of organize Proud Boys to go to Trump rallies or other political 
+3 rallies? 
+4 
+5 A 
+Q I mean, as small groups, yeah. 
+And I'm sorry if I'm not being clear. So you mentioned there was a 
+6 president or a vice president. 
+7 
+8 A 
+Q Yeah. 
+I'm wondering if, like, the structure of the Proud Boys, the organization 
+9 itself, would send, like, an email or a text or a Telegram or whatever saying, Hey, guys, 
+10 let's all meet up at this Trump rally, X date, X time? 
+11 A Right. It wouldn't really be like the president organizing the chapter to do 
+12 it. Sometimes it would be, you know, a couple people within the group would just 
+13 decide to go do it. 
+14 
+15 
+16 
+17 
+18 Q Understood. Thank you. 
+And did you know an Enrique Tarrio while you were a member of the Proud Boys? 
+A Loosely. 
+Q 
+A Loosely. Was he chairman while you were a member of the Proud Boys? 
+When they started introducing a chairman and elders, that's when I stopped 
+19 associating with it. 
+20 You said earlier you stopped associating when they started 
+21 bringing in structure, "they" being the Proud Boys, and you just gave an example of 
+22 chairman or elders. What are some other examples of the structure that was being 
+23 brought in when you decided to leave? 
+24 Mr. Decarlo. It got more political. It got more, like --like, okay, so, when I 
+25 joined, it was three general rules. It was, like, venerate the housewife, honor the  12 
+1 entrepreneur --I forget the third one. You know what I mean? It was just sort of, like, 
+2 things we agreed on. 
+3 And then they started adding, I think they called them tenets. And it was, like, 
+4 you know, basically things --they started trying to label everybody in the group as, like, 
+5 "This is everything we stand for, specifically," and I didn't, so --
+6 What triggered --do you know what triggered these changes in 
+7 2019 that you're describing? 
+8 Mr. Decarlo. I think it was e-celebrities just trying to use it to gain attention. 
+9 Do you have a sense of whether it was coming from Mr. Tarrio 
+10 himself or other people down the line who were adding these tenets? 
+11 Mr. Decarlo. I think it was a combination of both. It was people seeing that 
+12 they gained attention by going to rallies and stuff, and they sort of fed on that and added 
+13 structure and, you know, started to organize as a nationwide group places they would go 
+14 to, you know, rallies and whatnot. 
+15 And sorry to be casual about this, but did they just like the fame, 
+16 like, the internet fame from it? 
+17 
+18 
+19 Mr. Decarlo. Yeah. 
+Okay. 
+Mr. Decarlo. No, that's exactly what it is. It's, they saw they got attention, 
+20 they saw they got, you know, on viral videos and everything and --yeah. 
+21 BY 
+22 Q How much of that perceived fame was tied to going to these political rallies 
+23 or becoming a more political organization? 
+24 
+25 A Most of it. Yeah. 
+Q All right. And that was mostly Republican politics?  1 
+2 
+3 
+4 A Yeah. 
+Q Do you think it was more President Trump or the Republican Party larger? 
+A I'd say 50-50. 
+Q Okay. 13 
+5 And I'll ask you, then --you mentioned it a little bit, about the organization 
+6 becoming more political, but can you be more explicit about why you decided to 
+7 disassociate with the Proud Boys in 2019? 
+8 A So, when I joined, like I said, it was sort of a men's group, like, a 
+9 one-night-a-month beer-drinking club with people that just kind of agreed with each 
+10 other on, you know, a lot of things. By the time I left --by the time I left, it seemed 
+11 more like the majority of the people that started to join, they wanted to become political 
+12 activists. And I wasn't really --1 didn't join for that reason. 
+13 Q All right. Did you notice a --how did you notice this besides the tenets? 
+14 Was there a change in, sort of, the conversations that were being had at these meetings 
+15 or through chats? 
+16 A Well, it wasn't the meetings that I would go to. My group was always fairly 
+17 not politically active in that. But, yeah, it was sort of, like --what's the word I'm looking 
+18 for? Like, a shift in the energy, you know? 
+19 
+20 
+21 
+22 
+23 
+24 
+25 Q Gotcha. 
+I'm going to list a couple Proud Boys and ask if you know them. 
+Do you know Ethan Nordean? 
+A Loosely. 
+Q And how do you know him? 
+A I've met him through friends of friends. 
+Q Were these at Proud Boy meet-ups?  1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 A No, they weren't meet-ups. 
+Q So then how did you meet him, or --
+A Like, parties. 
+Q Okay. And were these Proud Boy parties or just regular parties? 
+A Little bit of both. 
+Q Okay. And how many times would you say you've met Mr. Nordean? 
+A Two or three times. 
+Q Okay. And was that in 2020? Earlier than 2020? 
+A Let's see. Once in 2020 and then one or two times before that. 
+Q So were you still going to parties with Proud Boys after you disassociated 
+11 with the organization? 
+12 A I mean, I've made friends in the group, you know. I would still associate 
+13 with those friends. I just didn't feel like being, you know, part of that organization or 
+14 anything. 
+15 
+16 
+17 
+18 
+19 
+20 him? 
+21 
+22 
+23 
+24 Q Right. 
+How about a Joseph Biggs? 
+Q Sorry about that. 
+So I know you just said you knew Mr. Nordean. What was your impression of 
+A I don't know. Just seemed like an average guy. 
+Q Was an elder at that point? 
+A Honestly, I don't recall who was and who wasn't. 
+Q Did he appear to be in any form of leadership within the Proud Boys when 
+25 you met him? 14  1 
+2 
+3 
+4 
+5 A 
+Q 
+A 
+Q 
+A 15 
+I'd say more --
+Or a leader in general? 
+I'd say more influence than leader. 
+Why do you say "influence"? Help us understand that. 
+I mean, there was the chairman, right? Enrique. He would organize 
+6 things. And then, you know, he'd have sort of a close-knit group of people that followed 
+7 him around. 
+8 
+9 
+10 
+11 
+12 
+13 
+14 Q 
+A 
+Q 
+A 
+Q 
+Q So Mr. --
+An entourage. 
+So Mr. Nordean appeared to be in Mr. Tarrio's, kind of, inner circle? 
+Yeah. 
+Okay. 
+BY 
+With Mr. Tarrio being the clear --I guess "leader" is the best word for it. 
+15 But he was above Nordean and sort of influencing Nordean on what to do? 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 A 
+Q Correct. 
+All right. Thank you. 
+And, then, did you ever meet a Joseph Biggs? 
+A 
+Q 
+A 
+Q 
+A Same as Ethan Nordean. Met him a couple times. 
+Okay. And same question about, what was your impression of Mr. Biggs? 
+Pretty much same as Ethan Nordean. Just seemed like an average guy. 
+And were you aware of his position with the Proud Boys when you met him? 
+I was aware he kind of latched on to the group. But I don't think he was 
+24 ever really in it; he was just sort of around it to gain attention. 
+25 Q How did he latch on?  1 A Just start going to, you know, their rallies and whatnot and, you know, be 
+2 part of Enrique's circle. 
+3 Q Okay. But you don't think he was really part of the Proud Boys 
+4 organization; more just he knew Tarrio? 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 A Correct. 
+Q Okay. 
+Do you know a Zachary Rehl --
+A No. 
+Q --R-e-h-1? 
+A I don't. 
+Q Dominic Pezzola, P-e-z-z-o-1-a? 
+A No. 
+Q All right. 
+14 A Charles Donohoe, or "Donohue," depending on how you pronounce it, 
+15 D-o-n-o-h-o-e? 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 A The names sounds familiar, but --might've met him in passing. 
+Q But nothing that you can recollect? 
+A I couldn't even put a face to the name. 
+Q Okay. 
+And, then, how do you know Mr. Nicholas Ochs, O-c-h-s? 
+A Nick Ochs and I --
+Q 
+A "Ochs." Sorry. 
+Yeah. Ochs and I met online. And we had similar interests with running 
+24 media channels and whatnot and kind of became friends from that. 
+25 Q Did you meet online through the Proud Boys? 16  1 
+2 
+3 
+4 17 
+A Yes. 
+Q Is Mr. Ochs a Proud Boy leader from Hawaii? 
+A I don't know if he is still a leader or even still in it, but when we met, yes. 
+And you said "online." What specifically online? How did you 
+5 meet? Like, was it an app --
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 few. Mr. Decarlo. Facebook. Sorry. 
+Facebook? Okay. Thank you. That's all I needed. 
+Mr. Decarlo. Yeah. I wasn't trying to cut you off. 
+No, you didn't. I was rambling. That works. 
+Mr. Decarlo. Okay. 
+Q 
+A 
+Q 
+A 
+Q 
+A 
+Q 
+A 
+Q 
+A 
+Q 
+A 
+Q BY 
+All right. So Facebook. Was this a Proud Boys Facebook, like, group? 
+Yes. 
+Okay. And did he also help start Murder the Media? 
+He sort of joined on later. 
+Did you attend Proud Boy events with Mr. Ochs? 
+No. It was more just parties we hung out at. 
+When he lived in Hawaii, did you go to Hawaii to party -­
+No. 
+--with him? 
+No. 
+Where would you meet up for parties? 
+Uhhh. Trying to remember. Yeah, I don't remember. We've met at a 
+Was it, like, a handful, or was this a common occurrence?  1 A Handful. Small handful. 
+2 Q Were these near where you live in Texas, or were you traveling for these 
+3 parties? I'm just trying to get a sense of, like --
+4 A Traveled. 
+5 
+6 Q Okay. And was it --
+A I don't --I don't recall --I'm sorry. I didn't mean to cut you off again. 
+7 don't recall hanging out with him in Texas. 
+8 Q Okay. But would you say that you hung out with him at Proud Boy --you 
+9 know, either people who were Proud Boys' parties or parties that had some sort of 
+10 connection to Proud Boys? 
+A Some sort of connection. 
+Q Got it. 18 
+11 
+12 
+13 All right. So, even though you left in 2019, moving forward from 2019, were you 
+14 still in any Proud Boys Telegram chats, Signal chats, Facebook groups? You know, keep 
+15 going down the social media/messaging list; were you in any of those moving forward? 
+16 A I'm not allowed on most social media, especially around when I got kicked 
+17 off. I'm sorry. When I left Proud Boys, I was kicked off of most social media. 
+18 I don't recall any groups that I was in associated with Proud Boys. Typically tried 
+19 to stay away from them. 
+20 Q Was this, as soon as 2019 happened you tried to stay away from them? Is 
+21 that what you're saying? 
+22 
+23 A Yeah. I tried to have no online presence with them at all or --you know. 
+Q Okay. So, just to be clear, you were not still in groups where Proud Boys 
+24 were talking about attending rallies or other things after you disassociated in 2019? 
+25 A Not that I recall.  19 
+1 Q Okay. So were you at all aware of Proud Boys' conversations around the 
+2 November 2020 election or thereafter about protesting the November 2020 election? 
+No. 
+Was Mr. Ochs in any of those conversations? 
+Not that I know of. I don't know what conversations he was in. 3 
+4 
+5 
+6 A 
+Q 
+A 
+Q Did he ever talk to you about what the Proud Boys were discussing about the 
+7 November 2020 election? 
+8 A No. 
+9 Q Did you ever hear anything from any other Proud Boys or Mr. Ochs himself 
+10 about January 6, 2021, ahead of time? 
+11 
+12 A 
+Q No. 
+Okay. Did you ever hear about any plans in general from Proud Boys about 
+13 how they were going to protest the 2020 election? 
+14 
+15 
+16 
+17 A 
+Q No. 
+Okay. 
+One second. 
+Okay. Thank you very much, Mr. Decarlo. We are going to move on sort of to 
+18 the lead-up into January 6th and how you ended up going. 
+19 So, you know, you mentioned leaving the Proud Boys because of their political 
+20 activity in 2019. Can you just describe to us a little bit about your level of political 
+21 engagement around the November 2020 election? So, you know, some of months 
+22 leading up to it and sort of right after it. 
+23 A Sure. All of my political engagement that I've taken part in is criticism, 
+24 satire, and making fun of anyone who really takes a left or right stance on anything. And 
+25 that includes leading up to the 2020 election and during the 2020 election, after the 2020  20 
+1 election. 
+2 
+3 
+4 Q 
+A 
+Q So is it fair to say you were paying attention to politics at that time, though? 
+Loosely. What I could bear. 
+And what kind of media were you consuming as a member of a group called 
+5 Murder the Media? 
+6 
+7 A 
+Q Mostly criticizing journalists and their skewed coverage on both sides. 
+So, sorry, were you consuming, like, watching CNN, watching FOX? Were 
+8 you getting most of your news from social media? What was your main source of news 
+9 at this time? 
+10 
+11 A 
+Q Sort of a mix of all of it. 
+Okay. 
+12 And what platforms did you use to --I guess "display" is the wrong word --talk 
+13 about your views on what was happening? 
+14 
+15 
+16 
+17 A 
+Q 
+A 
+Q Olive, when we were allowed on there, and Telegram. 
+What is Olive? 
+Olive is a streaming platform. 
+Is it sort of like Twitch? Forgive my ignorance. 
+18 A No, you're good. Similar to Twitch or VouTube Live, stuff like that. 
+19 Q I honestly did not know VouTube had a live function. -likes to make 
+20 fun of me for being a luddite. Anyway. 
+21 So, Mr. Decarlo, did you personally think the election was stolen from former 
+22 President Trump? 
+23 A I honestly think every election's rigged. I think everybody's sort of put in 
+24 there, no one's really voted for. So --yeah. 
+25 Q Can you expand on that a little bit?  1 A I think if voting meant anything, the powers that be wouldn't let us do it. 
+2 think it's all a show. 
+3 
+4 
+5 Q So who is choosing who wins the elections? 
+A I don't know. 
+Q Well, I'm just wondering because, you know, you're mentioning you think 21 
+6 every election is rigged and if voting really mattered we wouldn't be allowed to do it. So 
+7 who is sort of pulling the strings here to stop our votes from meaning anything? 
+8 A I couldn't tell you specifically. I don't know who. But I'm sure there's 
+9 forces at work. 
+10 
+11 Q And why do you have that belief? 
+A Why do I have that belief? Because politics is divided by left and right, and 
+12 I think the world is much more complicated than that, and there's a purposeful division of 
+13 left and right to keep people divided. 
+14 Q Okay. 
+15 So I guess, then, were you a supporter of President Trump in the lead-up to the 
+16 2020 election? 
+17 
+18 A No. 
+Q Were you paying attention to what President Trump was saying in the 
+19 lead-up to the 2020 election? 
+20 
+21 A Not a lot. 
+Q So none of what he was saying, then, was influencing your beliefs about the 
+22 elections being rigged? 
+23 
+24 
+25 A No. 
+Q All right. 
+Do you have any followup?  1 
+2 
+3 Q No. I'll ask more later. 
+BY-
+Did you attend either the November 14th or December 12th rallies in 
+4 Washington, D.C.? 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 A I didn't. 
+Q All right. 
+Did you attend any Stop the Steal rallies related to January 6th? 
+Mr. Decarlo. Other than January 6th? 
+Yes. 
+Mr. Decarlo. No. 
+Okay. 
+BY 
+Q Were you following the "stop the steal" messaging online in the lead-up to 
+14 January 6th? 
+15 
+16 
+17 A No. 
+Q All right. 
+I'm going to assume this one's a no. Did you participate in any activities to 
+18 contest the 2020 election --you know, gathering affidavits for President Trump's legal 
+19 challenges, raising money, donating money, anything like that? 
+A No. 
+Q Okay. 
+So, I guess, why did you decide to go to Washington, D.C., on January 6th? 22 
+20 
+21 
+22 
+23 A I went out there for some coverage of my channel --for the channel, I mean. 
+24 I went out there to sort of mock people at the rally. It was more to make videos for 
+25 comedic purposes and poke fun.  1 
+2 
+3 
+4 
+5 Q Okay. 
+BY 
+Q When you say "mock people," who were you mocking? 
+A Trump supporters. 
+Q Okay. So, like, for example, in your statement of offense, when it says, in 
+6 your words, you were there in D.C. to "expose those tolerant leftists for their lies and 23 
+7 teach them a lesson they'll never forget; the MAGA train will keep on rolling; Trump 2020, 
+8 baby," that's satire? 
+9 A Sir, if you could see the post that it came from, it's absolutely satire. 
+10 made me and my co-defendant try to sound like "G.I. Joe" characters. All of it was 
+11 satire. 
+12 Q And the satire is making fun of those that were actually there protesting that 
+13 the election had been stolen? 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 A Correct. 
+Q Okay. 
+Is that it? 
+Uh-huh. 
+B~ 
+Q So when did you learn about the January 6th rally? 
+A Two days before, maybe three. 
+Q And how did you find out about it? 
+A I was coming home from a New Year's Eve party, and my co-host, Viii 
+23 Nomerly, was doing a show. I came into the studio, and he said, "Hey, you know, there's 
+24 this rally going on. You should go cover it." I go, "Okay." 
+25 Q Do you remember seeing a tweet that might have become a Facebook post  24 
+1 or circulated on Parler from former President Trump, it's December 19th, and it says, you 
+2 know, come to Washington, D.C., "will be wild," promoting the rally on January 6th? 
+3 
+4 A 
+Q No. 
+Okay. And what did you know about what was happening on January 6th 
+5 when Mr. Dunn asked you to go cover it? 
+6 A I didn't know a lot. I was under the impression, and so was he, that this 
+7 was just going to be a small event, like most --like a lot of the rallies are, with just, I don't 
+8 know, maybe a thousand people, tops, just screaming in megaphones and, you know, 
+9 worshipping Trump. 
+10 
+11 Q 
+A So, if it was going to be a small event, why go? Why cover it? 
+To highlight the --to highlight the whackos in the crowd, the weirdos. 
+12 But you didn't feel the need to go in November or December or 
+13 any other events, so help us understand why January 6th was different. 
+14 Mr. Decarlo. I didn't know any of those events were happening. 
+15 B~ 
+16 
+17 
+18 
+19 Q 
+A 
+Q 
+A Did Mr. Dunn know those events were happening? 
+I don't think so. 
+Did you talk to Mr. Dunn at all about what to expect on January 6th? 
+Nope. We just made assumptions. 
+20 Q Assumptions like what? 
+21 A Like it was going to be a small, you know --a small rally in scale to what it 
+22 actually was. Just your typical political protest. 
+23 
+24 Q Did he use the word "small"? Because nowhere in the advertising for 
+25 January 6th was the word "small" ever used. It was always characterized as the biggest  25 
+1 protest ever. So that seems weird, that it was described as small to you. 
+2 A It wasn't described as small to me. We assumed it was going to be a small 
+3 rally. I, personally --and I don't believe Viii Nomerly did either --see any advertising for 
+4 this event. 
+5 
+6 
+7 Q 
+A 
+Q Did you follow Enrique Tarrio on social media in 2020? 
+Not personally. 
+What do you mean, "not personally"? 
+8 A I run my channel with a few different other people. They might have 
+9 followed his Parler with our channel. But I don't --I don't know. I wasn't really --I'm 
+10 not that big on stuff like Parler or anything. 
+11 Q What about your personal account? Did you follow him on your personal 
+12 account? 
+13 
+14 A I don't recall. I haven't touched it in years. 
+BY 
+15 Q So I know you're saying that you expected it to be --well, now I'm making 
+16 assumptions. Your lawyer produced to us, sort of, the contents of your cell phone that 
+17 the government took as part of its criminal investigation, and we have a text message 
+18 conversation with somebody named, I think it's just "Lucas," but the name is "Lu," space, 
+19 ca pita I "C," -a-s. 
+20 And on January 5th --we'll just call him "Lucas" --he says, "Stay safe, bro. Nick is 
+21 on his way out there. I gave him something to keep him safe." 
+22 And then you respond, "Yeah. I'm only going to travel in herd. Nick's got some 
+23 magazines I'm going to duct tape to myself. I'll probably grab some other stuff 
+24 tomorrow. Not sure what all I can bring on a plane." 
+25 So these are from January 5th.  1 
+2 A 
+Q Yeah. 
+Before I ask who Lucas is, how does that messaging sort of jibe with what 
+3 you are telling us about expecting a small --
+I --
+--for lack of a better word -­
+Sorry. 26 
+4 
+5 
+6 
+7 
+8 A 
+Q 
+A 
+Q 
+A --for lack of a better word, kind of BS rally that you were going to go cover? 
+I don't know if you've seen videos on YouTube of other small rallies that 
+9 have been covered, but there have been antifa presence there, there have been 
+10 dangerous people at a lot of these things. Especially when mentally unhinged people 
+11 know you're recording them, it make them uncomfortable. It can make them attack 
+12 you. 
+13 So that's all it was. Just keeping --the comment about the magazines was just, 
+14 you know, in case one of those people, a mentally unhinged person, tried to attack me. 
+15 
+16 Q 
+A Well, I guess, how would a magazine help you? 
+Honestly, I don't know. I didn't do it. I heard it was, like, some kind of 
+17 prison trick to stop from getting stabbed. I didn't do it, but --
+18 
+19 
+20 
+21 
+22 
+23 Q 
+A 
+Q 
+A 
+Q 
+A Okay. You meant --do you mean, like, Sports Illustrated magazines? 
+Yes. 
+Okay. 
+Ohhh. Now I --
+Do you want to give a clarification? 
+Okay. Yeah, no, that --yeah. All right. That concern makes sense now. 
+24 Yeah, no. Like, monthly subscription magazines. 
+25 Mr. Feitel. Mr. Decarlo, not to interrupt, did you intend to use the magazines for  1 self-protection in the event that someone tried to stab you? 
+2 
+3 
+4 Mr. Decarlo. Yeah. There was -­
+Mr. Feitel. Or that was the thought? 
+Mr. Decarlo. That was the thought. I could duct tape some sort of an 
+5 improvised stab-proof vest in case, you know, some lunatic tried to, you know, shiv me 
+6 from behind for recording them. 
+7 
+Q Well, that is --yeah. That is a clarification. 
+So who is Lucas? And tell me if I'm just not pronouncing this name correctly. 27 
+8 
+9 
+10 A Yeah, I believe it's "Lucas." I don't know if even that's his real name. He's 
+11 just someone who's followed my channel. And he, you know, talks to Nick Ochs on line, 
+12 too, as far as I'm aware. 
+13 
+14 
+15 
+16 Q 
+A 
+Q Do you know if he's friends with Mr. Ochs? 
+I would imagine, to a degree. 
+Okay. 
+And, later on in this text message, Lucas says, "But also stay with the boys. 
+17 Safety in numbers." And you say, "For sure. Always traveling in herd. However, 
+18 Lucas, I have a job to do. I gotta stop this steal." 
+19 So, first, then, "also stay with the boys" and you say "for sure," is that in reference 
+20 to the Proud Boys? 
+21 A No. In reference to "the boys" was --the original plan, January 5th, was: 
+22 Milo Yiannopoulos was going to attend this event. Nick Ochs worked for him. And we 
+23 were going to sort of follow his entourage to try to, you know, interview bigger names, 
+24 Milo included. 
+25 Q Okay. And have you met Mr. Yiannopoulos?  1 
+2 A 
+Q No. 
+But you did mention "I gotta stop this steal." So when did you become of 
+3 the phrase "stop the steal"? 28 
+4 A I was aware it was called the "Stop the Steal rally," but that's all I knew about 
+5 it. I mean, there's --
+6 
+7 
+8 
+9 Q What is --
+A I'm sorry. 
+Q 
+A No, no. Keep going. Keep going. 
+Oh, no, I was just going to say, like, there's other rallies that have been, like, 
+10 "End Domestic Terrorism rally," and it's like, that's still a thing. You know what I mean? 
+11 So I figured it was just going to be sort of this. Like, they're gonna shout, "Stop the 
+12 steal," and that's all that's gonna happen. 
+13 Q Yeah. What did "stop the steal" mean to you as of January 3rd, 4th, 5th 
+14 when you learned about this January 6th rally? 
+15 A The phrase "stop the steal" was in reference to the, quote/unquote, stolen 
+16 election. 
+17 Q Right. So, then, what did you think people were gathering in Washington, 
+18 D.C., on January 6th to do? 
+19 
+20 
+21 
+22 A Scream and holler and worship Trump, I guess, and --yeah. 
+Q And what did you hope to --
+A That --
+Q Right. But if they're going to stop the steal, did you have any sense of what 
+23 they were hoping all of that shouting would accomplish? 
+24 A No, I didn't think anything like what happened would happen. Like I said, 
+25 there have been other rallies, like "End Child Abuse rally," but children are still abused.  29 
+1 You know what I mean? Nothing's done about it except people shout and wave signs. 
+2 I figured it was just going to be shouting, waving signs, and --you know. 
+3 Q Were you aware that Congress was meeting to certify the electoral vote for 
+4 President Joe Biden on January 6th? 
+5 
+6 A 
+Q I don't remember. 
+Were you aware that Vice President Pence had a role, a ceremonial role, in 
+7 that certification? 
+8 A I don't remember when I learned that, to be --I don't remember if I was 
+9 aware of that before or after. 
+10 
+11 Q Okay. 
+And so, I guess, then, were you --how did you plan so quickly for this trip? Did 
+12 you fund raise for it? Did you pay out of pocket? Who were you planning to travel 
+13 with? If you want to just give a quick little rundown of all that. 
+14 A Sure. 
+15 Part of it, a small amount, was fund raised over a day, I believe, roughly 150 bucks. 
+16 I think it covered one way of travel. One of you quoted my ridiculous fundraiser that 
+17 was, you know, targeted at my audience. It was all just for laughs. And the rest was 
+18 out of pocket. 
+19 And I planned on meeting up with Ochs, sharing a hotel room, and then going 
+20 there the next day. 
+21 
+22 D.C.? 
+23 
+24 Q 
+A 
+Q Did Mr. Ochs have any plans to meet up with Proud Boys in Washington, 
+I'm not sure. 
+Did you have any plans to meet up with any of your friends who were Proud 
+25 Boys while you were in Washington, D.C.?  30 
+1 A I think I expected to see some people I knew that were in it there at the rally, 
+2 but I don't recall actually meeting or planning to meet with anybody. 
+3 Why did you believe you would see some people that you 
+4 knew --I'm assuming Proud Boys that you knew? 
+5 Mr. Decarlo. Because when I've seen video of these rallies, I always recognize, 
+6 you know, one or two people. 
+7 BY 
+8 Q Did you talk to any of the --any of your friends about whether they would 
+9 attend? 
+10 
+11 A I think I asked some people if they were going to be there. 
+Q Well, did this include people like Ethan Nordean or Joseph Biggs or any other 
+12 Proud Boys? 
+13 A It wasn't with who you mentioned. Some of them I asked if they were 
+14 gonna be there might have been Proud Boys. But, again, I don't recall who I asked or 
+15 didn't ask. 
+16 Q And did they relay to you any of the plans of the Proud Boys group more 
+17 largely on January 6th? 
+18 
+19 
+20 A No. 
+Q Okay. 
+So you were planning to meet Mr. Ochs there. Were you planning to meet up 
+21 with anybody else besides Mr. Ochs and Mr. Viannopoulos? 
+A I don't remember. No, I don't think so. 22 
+23 - Do you have any followup? I'm going to go through a couple 
+24 names.  1 
+2 
+3 - Allright. 
+B~ 
+Q So we also got a production of one of your Murder the Media, I think it's a 
+4 Telegram chat. So I'm going to ask about a couple of people in there. 
+5 
+6 
+7 
+8 
+9 
+10 
+11 Who is Bennet Chapman, B-e-n-n-e-t, C-h-a-p-m-a-n? 
+A I wouldn't call him a friend, necessarily, but someone I know from DFW. 
+Q Okay. So he is a Proud Boy? 
+A I don't know if --
+Q Oh, sorry. 
+A --he still is, but he was. 
+Q I should not have made that assumption. Were you using "DFW" as the 
+12 Proud Boys chapter or just the Dallas-Fort Worth area? 
+13 A I was using it as the Dallas-Fort Worth area. I probably should've just said 
+14 "Dallas," but --yeah. 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 Q Okay. And did you meet Mr. Chapman through the Proud Boys? 
+A I did. 
+Q Do you remember what you talked about ahead of January 6th? 
+A I don't remember. 
+Q Do you know if Mr. Chapman went to Washington, D.C., on January 6th? 
+A I believe he did. 
+Q Did you meet up with him? 
+A No. 
+Q Okay. 
+And who is Chris Gambino, G-a-m-b-i-n-o? 
+A He's someone I know from Texas. 31  32 
+Q Is he a Proud Boy? 
+A I don't know if he still is or isn't. 
+Q So at one time he was a Proud Boy? 
+A Yes. 1 
+2 
+3 
+4 
+5 Q All right. And do you know if he attended the rally in Washington, D.C., on 
+6 January 6th? 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 A If he did, I never heard about it and never saw him there. 
+Q Okay. 
+And who is Rory, R-o-r-y, Reddington, R-e-d-d-i-n-g-t-o-n? 
+A A friend of mine. 
+Q Is this another Proud Boys friend? 
+A He was at one point. 
+Q Okay. 
+And, in the conversations we have, after January 6th it seems he tried to put you 
+15 in touch with someone named Augustus lnvictus. Do you know who Mr. --and I'll spell 
+16 that. A-u-g-u-s-t-u-s, 1-n-v-i-c-t-u-s. 
+17 
+18 
+19 Did you ever talk to or meet Mr. lnvictus? 
+A Spoke with him on the phone. 
+Q Okay. Not getting into any possible attorney-client-privilege stuff, do you 
+20 know anything else about Mr. lnvictus other than that conversation? 
+21 
+22 A I know he's an attorney. 
+Q All right. But you don't know if he was also in Washington, D.C., on 
+23 January 6th? 
+24 
+25 A I have no idea. 
+Q Got it.  1 And, then, who calls himself "Mccrum" --M, lowercase C, capital C, -r-u-m --in 
+2 your Murder the Media group chat? 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 A A friend of mine. 
+Q What's his name? 
+A Mccrum. 
+Q Is that his last name? First name? 
+A That's his last name. 
+Q And what's his first name? 
+A Jason. 
+Q And what is his involvement with Murder the Media? 
+A He does videos with us. 
+Q Okay. 
+A Sometimes. 
+Q Just without, like, going quote by quote in the chat, it seems he was a 33 
+15 little --was pretty sympathetic to what was happening on January 6th and expressed his 
+16 desire to be there. So there seemed to be a lot of positive talk around what happened 
+17 that day. 
+18 Were people in this group chat, you know, proud of what happened on 
+19 January 6th? 
+20 
+21 
+22 
+23 
+24 A I'm not sure. I don't pay attention to my chat that often. 
+Q Okay. How well do you know Mccrum? 
+A A good friend of mine. 
+Q Would you say that he wanted to be in Washington, D.C., on January 6th? 
+A I'm --I think he exprec---wow, I can't talk. I think he expressed interest 
+25 before it happened.  1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 Q Okay. Is Mr. Mccrum a Proud Boy? 
+A No. 
+Q Okay. 
+Just a couple more. Sorry. 
+Pierce Benefield, P-i-e-r-c-e, B-e-n-e-f-i-e-1-d, who is he? 
+A Oh. Oh, sorry, you were asking who he was. 
+Q Yes. Sorry. 
+A He was a former Proud Boy, and he did a podcast on my channel. 
+Q Was he a Georgia Proud Boy leader? 
+A I don't know if he was a leader, but I know he was in that. 
+Q Do you know when he left? 
+A 
+Q I don't. I don't remember. 
+Before or after January 6th? I could've just asked that. I'm sorry. 
+A Before, I believe. 
+Q Okay. 
+And then the last, there's a person, Zumbo Fieri, Z-u-m-b-o, capital F-i-e-r-i. 
+A The name sounds familiar, but I don't know who that is. 
+Q Okay. 
+So we talked a little bit about you wearing, you know, magazines to protect 34 
+20 against stabbing. Were you aware --were you concerned about any other violence that 
+21 day, you know, from Proud Boys or other people, besides what you were worried about 
+22 with the people in the crowd? 
+23 A All I knew of was the possibility of, you know, agitated unhinged people 
+24 being there. 
+25 Q Okay.  35 
+1 So, on the night of January 5th, Nick Ochs texted your Murder the Media chat and 
+2 said, "Tomorrow's gonna be fine, whatever the case. We'll figure it out." I think you 
+3 were talking about where you were going to stay, or the group was. 
+4 "Not to be lazy, but we are both gonna wanna shower and maybe nap before 
+5 the," in all caps, "NIGHT VIOLENCE." 
+6 Do you know what Mr. Ochs was expecting? 
+7 A No. I know he was probably more aware of what the rally was supposed to 
+8 be, but I --no. 
+9 Do you recall if Mr. Ochs had a relationship with Mr. Tarrio or Mr. 
+10 Nordean or any of the elders we talked about earlier? 
+11 Mr. Decarlo. I don't --I don't know what his relationship was with them --
+12 Do you recall --
+13 
+14 
+15 Mr. Decarlo. --other than --
+I'm sorry. Keep going. 
+Mr. Decarlo. Sorry. Other than Proud Boys. 
+16 Do you recall him ever --like, was he still in communication with 
+17 them? 
+18 
+19 
+20 Mr. Decarlo. He might've been. It didn't come up, though. 
+BY 
+Q All right. One reason we're asking is, also on January 5th, Mr. Dunn, I 
+21 guess, added you in the chat and said, "Enrique is supposedly banned from D.C." --I 
+22 suppose that's Mr. Tarrio --"but y'all are in Virginia. You might try to hang out and 
+23 stream a little with him tonight to help get eyes on us tomorrow." 
+24 So did you have or did Mr. Ochs have enough of a relationship with Mr. Tarrio to 
+25 get him on one of your streams?  36 
+1 A I mean, I probably had enough of a relationship. Like I said, I loosely knew 
+2 him. But, you know, I wouldn't call him a friend or anything. 
+3 
+4 
+5 
+6 
+7 Q So, I guess, yeah, let's back up a little bit. How did you know Mr. Tarrio? 
+A Same way I met Ochs, a Facebook group. 
+Q And did you meet him at parties in person ever? 
+A Once. 
+Q Okay. Were you in contact with Mr. Tarrio around January 6th through 
+8 Telegram chats, whatever? 
+9 
+10 
+11 
+12 
+13 A Yeah. We would share each other's posts --
+Q Is that the only --
+A --to try to --
+Q Is that the only way you two were in touch? 
+A I mean, we'd call each other about, you know, talking about our channels 
+14 and boosting each other's numbers and everything. 
+15 
+16 Q 
+A How often were you calling Mr. Tarrio? 
+I want to say, like, once every few weeks. But, you know, when I would try 
+17 to contact him, he typically wouldn't answer, so I'd just keep calling him. 
+18 And were you in any Telegram group chats with Mr. Tarrio? 
+19 Mr. Decarlo. I believe he was in mine. But typically his stuff was all patriotic 
+20 stuff, and I --you know, political stuff, I mean. I didn't care to be in any of those chats. 
+21 
+22 
+23 
+24 
+25 So were you in the Ministry of Self-Defense? 
+Mr. Decarlo. No. 
+BY-
+Q Which chat of yours was he in? 
+A Murder the Media.  1 
+2 
+3 Q What was his handle? 
+A I don't remember. 
+Q Okay. Did you try to call Mr. Tarrio ahead of January 6th to set up a 
+4 livestream? 
+5 A I do remember trying to call him and see if he would do some kind of 
+6 recording with me. 
+7 
+8 Q Did you get him on the phone? 
+A Yes. 37  1 
+2 [5:00 p.m.] 
+3 BY-
+4 
+5 Q And can you describe that conversation for us? 
+A I mean, it would just, you know, be a very loose description now. 
+6 Essentially, you know, Hey, I heard you got kicked out of D.C. Want to talk about it on 
+7 video? 
+8 And he said, Yeah. 38 
+9 Q It was that short? Were there any more details? Did you ask him where 
+10 he was, what he was doing, why he got kicked out? 
+11 A I asked --I'm sorry. I did ask him where he was. He was too far out of the 
+12 way. We never made it happen. 
+13 Q Okay. Did he talk to you --did he talk at all about January 6th during this 
+14 conversation? 
+15 A No. No, he just --he mentioned he's kicked out of D.C. so he can't attend 
+16 the protest. 
+17 
+18 Q 
+A Did he say that he wanted to attend? 
+No. I mean, I would imagine he was there, so --you know, he flew out to 
+19 D.C. I would imagine he wanted to be there, but he didn't tell me, hey, I want to be in 
+20 D.C. right now. 
+21 Q Did he say he'd be paying attention to what the Proud Boys were doing on 
+22 January 6th? 
+23 
+24 
+25 A It wasn't talked about. 
+Q How would you describe sort of his demeanor in this phone call? 
+A A little aggravated.  1 
+2 
+3 Q Sort of mad that he wasn't there or aggravated about the situation? 
+A Aggravated at the situation that got him kicked out. 
+Q And I'm guessing this call was on January 5th. Were you already in D.C. 
+4 when you made the call or in the D.C. area? 
+5 A Honestly, I don't remember where exactly --I was in the area. I can't tell 
+6 you if I was in D.C. or not when I actually called him. 
+7 
+8 
+9 Q All right. But do you think it was January 5th then when you called him? 
+A Probably. 
+One second. 
+Q Going back, are you familiar with a group called the Oath Keepers? 39 
+10 
+11 
+12 A I mean, I knew of their existence. I know they were kind of Proud Boys. It 
+13 was starting to seem like it was taking a turn towards that sort of group. And that's all I 
+14 knew about Oath Keepers. 
+15 Q When did you think that the Proud Boys were starting to take a turn towards 
+16 the Oath Keepers group? 
+17 
+18 A When I quit. 
+Q Okay. So in that 2019 range when there were more rules and things of that 
+19 nature? 
+20 
+21 A Yes. 
+Q So it felt like the Proud Boys at that point was moving from like this drinking 
+22 club you described to more like a militia? 
+23 
+24 A 
+Q Maybe militia is a bit heavy of a word, but something close to that, yeah. 
+Did you ever hear any other Proud Boys talking about the Oath Keepers or 
+25 anything like that?  1 
+2 
+3 
+4 A Typically, they made fun of them. 
+Q Made fun of them how? 
+A I don't know. Called them nerds and stuff, larpers, stuff like that. 
+Q So, I guess, help me understand then, if they make fun of them for being 
+5 nerds and larpers, then why was the organization of Proud Boys kind of moving in that 
+6 direction of the Oath Keepers? 
+7 
+8 
+9 
+10 A They thought they were better than them. 
+Q The Proud Boys thought they were better than the Oath Keepers? 
+A Yeah. 
+Q Okay. And did they see a space that the Oath Keepers kind of operate in, 
+11 the Proud Boys thought they could operate in that space? 
+12 
+13 A I mean, I guess if by space you mean like rallies, yeah. 
+Q And what within the rallies did the Proud Boys think they could do that the 
+14 Oath Keepers were currently doing? Like protection? 
+A Protection for speakers, shouting at protesters, stuff like that. 
+Q Did you ever hear Mr. Tarrio talk about this? 
+A Talk about --40 
+15 
+16 
+17 
+18 Q Like getting more involved in this space of protection at rallies, things of that 
+19 nature. 
+20 A I mean, he was making it pretty obvious that's where the direction was 
+21 going. I don't recall him saying it verbatim. But, yeah, it was pretty obvious --
+22 
+23 
+24 
+25 Q 
+A 
+Q 
+A Do you recall --
+--the direction it was taking. Sorry. 
+Do you recall Mr. Tarrio having a relationship with any Oath Keepers? 
+No.  41 
+1 Q Do you recall any Proud Boys that you know having a relationship with the 
+2 Oath Keepers? 
+No. 3 
+4 A 
+Q And I want to go to another big just overarching theme. I think earlier you 
+5 said something about you were going on January 6th, and I think you were making fun of 
+6 folks because people would say --praise Trump, I think was the word you used. 
+7 Do you think a lot of the people came to D.C. on January 6th because of Donald 
+8 Trump? 
+9 
+10 
+11 to D.C. 
+12 A 
+Q 
+A Yes. 
+Explain. Help us understand that, like, why people, in your opinion, came 
+I mean, the same reason they go to any of these rightwing protests. 
+13 just --I figured they were going to, you know --I don't know --go there as just a rightwing 
+14 protest in support of Trump. 
+15 
+16 Q 
+A Do you think they were inspired to come here because of President Trump? 
+Yeah. I mean, he says a lot of things. He has over, you know, the past, 
+17 what, 7 years now. But, yeah, inspires people to go to these events. 
+18 
+19 
+20 
+21 Q 
+A 
+Q Including the Proud Boys? 
+Yeah. 
+B 
+I guess going off that a little bit, when you're talking about the Proud Boys 
+22 making fun of the Oath Keepers as nerds, was it your sense that the Proud Boys didn't 
+23 think the Oath Keepers were --I don't know. Violence is the wrong word --but willing to 
+24 use force strong enough, you know, out there on the streets? 
+25 A No. I think the general consensus of the group was that the Oath Keepers  42 
+1 were kind of like role-playing as a militia. 
+2 
+3 Q And then what were the Proud Boys doing differently? 
+A Not much. Not much. They were --yeah. I mean, are you talking about 
+4 when I was a member or just in general? 
+5 
+6 Q Yeah, while you were there at the end. 
+A Yeah. No, they were pretty much doing the same thing, saying they're 
+7 saving America by waving signs and screaming at people. 
+8 Q Was it your sense, though, that the Proud Boys were, after you left, kind of 
+9 looking for a fight? 
+10 A Yeah. 
+11 Q And that fight would be with people who did not support President Trump, 
+12 who did not support conservative rightwing causes? 
+13 
+14 A Sure. Yeah. 
+Q All right. Speaking of the connection between Mr. Tarrio and the Oath 
+15 Keepers, so on January 5th, this was reported in the news. It's come out that Mr. Tarrio 
+16 and Mr. Stewart Rhodes, who's the leader of the Oath Keepers, and some other people, 
+17 met in the basement of a --sorry --in the garage of a hotel on January 5th. 
+18 So did Mr. Tarrio mention anything about that meeting at all in your phone call 
+19 with him? 
+A No. 20 
+21 Q Okay. And just out of curiosity, what phone number did you use to call Mr. 
+22 Tarrio, if you can recall? 
+23 A Man, I don't recall. I know that he had a regular phone number I used. 
+24 couldn't tell you that off the top of my head, and I think I had to get a different phone 
+25 from him. I think he had to get a burner or something. So it was -- 43 
+Q So how did you find out how to contact him after he got out of jail? 
+A I don't remember who --wait. After --oh, you mean after --
+Q January 5th. So he goes to --
+Right. 1 
+2 
+3 
+4 
+5 A 
+Q He goes to jail --or he gets arrested on the 4th, gets out on the 5th and, like 
+6 you said, he had to leave D.C. 
+7 
+8 
+9 him? 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 A Right. 
+Q They took his phone. So how did you figure out how to get in touch with 
+A Someone had contacted me with his number. I don't remember who. 
+Q Out of the blue or somebody you reached out to? 
+BY 
+Q Was it a woman named Amy Harris? 
+A I don't think so. That name doesn't sound familiar. 
+Q Was it Jeremy Bertino? 
+A No. 
+Q Do you know Bertino? 
+A I've met him once. 
+19 Okay. 
+20 Did Mr. Dunn help you get this contact with Mr. Tarrio or did Mr. 
+21 Ochs? 
+22 Mr. Decarlo. It might have been Ochs. I don't remember, though. I just 
+23 remember it was given to me. 
+24 You are pretty confident that Mr. Tarrio got a new burner phone 
+25 to call you up that evening on January 5th?  44 
+1 Mr. Decarlo. I use the term "burner" as just a temporary phone. I think 
+2 something had happened to his other phone. 
+3 Yes. 
+Mr. Decarlo. Yeah. So it was a different number. 
+Okay. 
+BY 
+And it wasn't Telegram; it was an actual phone? 4 
+5 
+6 
+7 
+8 Q 
+A Oh, man. I'm pretty sure it was another phone. I'm pretty sure I called a 
+9 number. 
+10 Q Great. Thanks. 
+11 And to move backwards a little bit, have you heard of, like, it's sort of an ideology, 
+12 sometimes an organization, Three Percenters? 
+13 
+14 
+15 
+16 A 
+Q 
+A 
+Q I've heard of them, yeah. 
+Do you know of any Proud Boys who identified as Three Percenters? 
+Not personally. I believe some of them did. 
+And you believe some --was Three Percenters something that Proud Boys 
+17 started talking about a lot, as far as you're aware, or identifying as? 
+18 A I think it would probably be the other way around. I think Three Percenters 
+19 became Proud Boys, not Proud Boys became the other. I don't know. 
+20 
+21 
+22 Q 
+A 
+Q When --
+Not as a group, just individuals would sometimes become Proud Boys. 
+And did this start at the same sort of moment when you were leaving, when 
+23 the Proud Boys were getting more political? Did you notice more Three Percenters 
+24 becoming at that time? 
+25 A Yes.  45 
+1 Q How about --are you aware of President Trump's comment during a debate 
+2 with now President Joe Biden in September of 2020 where President Trump was asked 
+3 about the Proud Boys, and he said, "stand back and stand by"? Are you aware of that? 
+4 
+5 A Yeah. 
+Q Is it your impression that after President Trump said, "stand back and stand 
+6 by," that increasing numbers of people who identified as Three Percenters started joining 
+7 the Proud Boys? 
+8 
+9 
+10 
+11 
+12 
+13 A 
+Q 
+A 
+Q 
+A Probably. Any --
+BY 
+How did that comment --sorry. Keep going. 
+I'm really not trying to interrupt you every time you talk. 
+It's because we're virtual. It happens all the time. No worries. 
+Okay. I was just going to say, I was just going to add, anytime Proud Boys 
+14 came up in news or viral videos, there would be a surge of people joining. 
+15 Q I want to go back to that "stand back stand by" from President Trump, 
+16 though. Do you remember what kind of impact it might have had on the Proud Boys, 
+17 like what you might have heard? 
+18 A Yeah. 
+19 
+20 Q What did you hear? 
+A I heard a lot of them feel like that was Trump starting to get them ready for 
+21 some kind of action. I don't think that's what it was intended to be, hearing his quote 
+22 myself, but I think that's how a lot of them took it. 
+23 Q Right. That's how they interpreted the "stand back and stand by" from 
+24 President Trump on that night, though, right? 
+25 A I believe so, yeah.  1 
+2 Q And you heard this from more than one Proud Boy, it sounds like? 
+A It was more, like, when I'd be making fun of them with another friend and 46 
+3 go, "Can you believe, you know, these goofballs think that the President is telling them to 
+4 get ready for some kind of action?" 
+5 
+6 Q Was it your impression, though, that after the "stand back and stand by" 
+7 comment, that the Proud Boys started internally preparing for some sort of action to help 
+8 President Trump? 
+9 
+10 
+11 A No. 
+Q Okay. 
+A No. I think it was all just internet --is "bolstering" the right word? Like, 
+12 just --I don't know. I can't find the right word for it. You know, like just, check it out. 
+13 President's calling on me. Like, something like that. 
+14 Q Okay. All right. Do you need a break, Mr. Decarlo? We've been going 
+15 for about an hour and 15 minutes, so we're not that far from being done. But if you 
+16 want a break, we can take 5 minutes. 
+17 A Why don't we take 5 minutes to hit my vape and get a drink. Would that 
+18 be all right? 
+19 
+20 
+21 
+22 
+23 
+24 
+25 Q Yeah. Sure. Why don't we come back on at 5:18-ish? Does that work? 
+A Yeah. 
+- All right. We'll take a quick recess. Thank you. 
+[Recess.] 
+- We'll go back on the record at 5:19. 
+BY 
+Q So, Mr. Decarlo, why don't you just give us a brief overview of what you did  47 
+1 on January 6th, and then we'll get into more specifics after you tell us. 
+2 A Brief overview. Talking about everything leading up to it or just when I was 
+3 there? 
+4 
+5 
+6 
+7 Q 
+A 
+Q 
+A The day of. While you were there the day of. 
+The day of? 
+Yes. 
+Me and Ochs took an Uber to the Washington Monument. Started 
+8 recording. I started getting into character and everything and interviewed a few 
+9 different people, just people there. 
+10 And then I believe we were trying to find some internet influencer. Couldn't find 
+11 them. So then we found out Trump was starting to make a speech, so we attempted to 
+12 get in the crowd, get a good, you know, camera angle of it. 
+13 When it was over, we noticed people starting to walk down the road. I don't 
+14 remember which road it was, but I later found out it was the road to the actual Capitol 
+15 Building. 
+16 We got there, realized it might be getting a little dangerous getting this close with 
+17 our cameras, but we did anyway. We wanted good footage, and we've seen other, you 
+18 know, street journalists do similar, so --
+19 Q All right. Why don't we pause there, and we'll go back to the beginning, 
+20 and then we'll get to the Capitol a little more. 
+21 So you interviewed a couple of people. What were they talking about on the 
+22 morning of January 6th? 
+23 A The ones I really remember was a couple of elderly Chinese ladies, and they 
+24 were just talking about really being there to support everyone. And they were handing 
+25 out like small gifts of money to everyone there. And that's what I remember from that  48 
+1 conversation. 
+2 Q Was anyone that you were talking to discussing what was going to happen in 
+3 Congress that afternoon, the certification of the vote for President Biden? 
+4 
+5 A 
+Q Not that I remember. 
+And you mentioned that you tried to listen to President Trump's speech. 
+6 Were you listening from the Washington Monument area or did you go to the Ellipse like 
+7 in front of the stage? 
+8 A So there was --kind of hard to tell; there was so many people there. We 
+9 just kind of wedged our way into a crowd, and it was in some kind of yard. I guess it was 
+10 between the stage and the monument. 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 crowd. Q 
+A 
+Q 
+A 
+Q 
+A 
+Q Okay. And could you hear the speech? 
+Faintly. 
+Were you --
+1 couldn't really --I'm sorry. 
+No. Go ahead. 
+I was just saying I couldn't really make out a lot of what he was saying in the 
+All right. Well, what were people around you saying in general? Were 
+19 they talking about --were they chanting things like "stop the steal"? Were they talking 
+20 about Vice President Pence? Were they talking about Members of Congress, anything 
+21 like that? 
+22 A I think some people shouted --I'm not sure if I should use the word in this 
+23 recording --F Pence, you know, calling him traitor, and just like a lot of shouting, you 
+24 know, a lot of the phrases, like MAGA and stuff like that. 
+25 Q Were they shouting, "Fuck Pence. Mike Pence, you're a traitor," during  49 
+1 President Trump's speech? 
+I think so, during the speech. 2 
+3 A 
+Q Okay. And do you recall if they started shouting that after President Trump 
+4 mentioned Vice President Pence's name in his speech? 
+5 A I apologize. I'm going to have to --I've got to unplug my Alexa. Sorry. 
+6 Can you just give me one second? 
+7 
+8 
+9 
+10 
+11 
+12 
+13 - Okay. We're going to recess in place. 
+Mr. Decarlo. Sorry. 
+- You're good. 
+[Discussion off the record.] 
+- We'll go back on the record then. 
+B~ 
+Q So I asked if you heard people saying fuck Mike Pence or Vice President 
+14 Pence is a traitor after President Trump had invoked Vice President Pence's name during 
+15 his speech. 
+16 
+17 
+18 
+19 A 
+Q 
+A 
+Q I didn't hear what Trump said, so --
+Okay. 
+I really couldn't hear anything what was going on with him on the stage. 
+Okay. And did anything else that the crowd was saying stick out in your 
+20 mind, besides the chanting about Vice President Pence? 
+21 
+22 A 
+Q No. 
+Okay. So then why did you join the crowd as they were walking down the 
+23 road to the Capitol? 
+24 A Me and Ochs were there to record people, and that's where people were 
+25 going.  1 
+2 Q Was anybody explaining to you why they were heading to the Capitol? 
+A Nope. Some people were chanting different things. I was on video 50 
+3 chanting, making fun of them as we walked up. 
+4 
+5 Q Chants such as --
+A The one I remember chanting was "Where do we piss? Where do we piss?" 
+6 Because we couldn't find any rest rooms there. 
+7 
+8 
+9 
+10 
+11 Q What was the crowd chanting, though? 
+A Don't remember. 
+Q Okay. Did you meet up with any Proud Boys that morning? 
+A 
+Q No, I don't think so. 
+Did Mr. Ochs ever talk about a Proud Boys gathering at the Washington 
+12 Monument that morning? 
+13 
+14 A It was discussed, but we didn't see anybody there. 
+Q Was he hoping to meet up with the Proud Boys at the Washington 
+15 Monument? 
+16 
+17 
+18 
+19 A I believe to interview. 
+Q But you didn't end up interviewing any Proud Boys that morning? 
+A I don't remember interviewing any of them. 
+Q And how would you describe the crowd as you were marching to the 
+20 Capitol? 
+21 
+22 
+23 A It was just foot traffic. It didn't seem violent or anything. 
+Q All right. Did you stay for all of President Trump's speech before you left? 
+A From what I remember, yeah. Like I said, it was hard to tell when he 
+24 started and stopped talking. It was hard to really make out anything he was saying or if 
+25 he was talking. I'm -- 1 
+2 
+3 Q So you didn't hear --
+A I'm sorry. 
+Q You didn't hear him say, you know, let's --You're going to be walking down 
+4 Pennsylvania Avenue. I'm going to be walking, marching with you, anything like that? 
+5 
+6 A 
+Q No, I didn't hear that. 
+Did anyone in the crowd express their view that they were going to the 
+7 Capitol because President Trump told them to? 
+A Like to the building itself or just D.C. in general? 
+Q The building itself. 
+A I don't remember. 
+BY 51 
+8 
+9 
+10 
+11 
+12 Q Were you aware there was going to be demonstrations at the Capitol too on 
+13 January 6th? 
+14 
+15 
+16 
+17 A Like before it was happening? 
+Q Yes. 
+A No. 
+Q When did you become aware that there was going to be demonstrations at 
+18 the Capitol? 
+19 
+20 A When we started walking up to it. 
+Q Why did you start walking? Did you become aware when Donald Trump 
+21 said it during his speech or did someone else tell you? 
+22 A I started walking because I saw a crowd of people walking down the road. 
+23 And I go, All right, well, something's going on over here. So we just kind of walked with 
+24 them and recorded. 
+25 Q And when you arrived at the Capitol Grounds, so it's sort of, you know, the  1 Peace Monument and beyond it, did you know --did you have a sense that you guys 
+2 weren't supposed to be walking where you were? 
+3 
+4 A 
+Q A little bit, yeah. 
+Was that because you saw, you know, fences on the ground or saw 
+5 flash-bangs going off, anything like that? 
+We saw a fence on the ground, yeah. 
+And what did you think about that? 52 
+6 
+7 
+8 A 
+Q 
+A We thought we --you know, something's going on on the other side of this. 
+9 We better --we better go record it, see what's happening. 
+10 Q So according to your statement of facts, when you stepped on the grounds, 
+11 you said basically that you were there to "stop the steal" or that you patriots were there 
+12 to "stop the steal." Do you remember that? 
+13 
+14 
+15 A 
+Q 
+A I remember saying things in sort of a character for entertainment value. 
+Why did you say patriots and "stop the steal" as a character then? 
+It goes all the way back to the fund raiser I did where I mockingly presented 
+16 myself as a GI Joe-type figure. 
+17 Q Did you understand at that time what --did your view of what "stop the 
+18 steal" meant sort of change as you're getting closer to the Capitol? 
+19 
+20 A 
+Q No. It didn't really hit until I was in the crowd. 
+So in your statement of offense, paragraph 10, you said at the time --well, 
+21 Mr. Ochs says, "The steal is, in fact, right here, and we are going to stop it." 
+22 And you said, "This is where they're going to steal it, and they called on us. They 
+23 called on us to stop it. We are putting an end to it. They said calling all patriots." 
+24 
+25 And who is the "they" in that sentence that you're referencing? 
+A America.  53 
+1 Q Was it your view that America called people to "stop the steal" or President 
+2 Trump called people to "stop the steal"? 
+3 A It was my view, in a satirical sort of laughing, comedic sense, that Trump 
+4 supporters believed that it's their duty as Americans to "stop the steal," and I was sort of 
+5 saying it as a character. 
+6 Q Right. And so as playing that character, were you playing up the idea that 
+7 President Trump called these, quote/unquote, patriots to "stop the steal" on January 6th? 
+8 A I have some sort of loose awareness that, like, things he says at, you know, 
+9 speeches and whatnot, rally people. So I don't --I don't recall hearing him say, 
+10 march --anything like, march to the Capitol. We're going to "stop the steal" physically 
+11 right now. 
+12 Q Okay. Well, then, you mentioned when you got into the crowd, is 
+13 that --when you said your sort of view of the crowd changed, was that inside or was that 
+14 when you were outside the Capitol in the crowd? 
+15 A I apologize. There was several crowds. So it was the crowd after crossing 
+16 the fallen fence. So the tight-packed crowd of people standing shouting at, I guess it 
+17 would be the base of the Capitol Building in front of the scaffolding. 
+18 Q Yeah. So you were on the west side where the inauguration platform was 
+19 being constructed? Does that sound right? 
+20 
+21 A 
+Q Yes. 
+All right. So explain why your view about sort of "stop the steal" or what 
+22 was happening changed as you got into this part of the crowd. 
+23 A It wasn't immediately when I got into the crowd. I still figured it was just 
+24 going to be a bunch of people shouting like they do, as I've seen from recordings of a lot 
+25 of these similar events. It wasn't until the police started throwing flash-bangs and  54 
+1 macing and pepper spraying the crowd and whatnot that I kind of --I could feel the 
+2 energy of the crowd sort of turn. 
+3 Q And describe, then, what was that energy? How did it turn? What did it 
+4 become? 
+5 A It turned into anger, that a lot of people who typically support the police are 
+6 being attacked by the police for protesting. 
+7 
+8 
+9 Q 
+A 
+Q And what was your view that the crowd was going to do in response? 
+I had no idea what they were going to do in response until it all happened. 
+Okay. What were you --do you remember what you were hearing in the 
+10 crowd, what you were seeing while this was happening? 
+11 A A lot of people yelling "traitors" at the D.C. cops. I saw three or four old 
+12 women get hit in the face with flash-bangs. I don't know if that's the right term for it 
+13 but, you know, what they throw for crowd control, grenades, big flash, loud noise. 
+14 People getting maced and pepper-balled. 
+15 
+16 Q 
+A And why did you think the cops were reacting that way? 
+I think it was some sort of sad attempt by the police to deter them, to get 
+17 them away from the Capitol. 
+18 Q Why do you say sad attempt? 
+19 A Because I think when people are voicing their concerns and protesting and 
+20 you want them to calm down so you throw explosives and irritants at them, I think it has 
+21 an opposite effect. 
+22 Q Was it your view or is it your view that the crowd had a right to be where it 
+23 was and doing what it was doing? 
+24 
+25 A 
+Q To some degree, I feel they had the right to be there, to protest. 
+Do you think that the police generally --actually, we'll just move on.  55 
+1 What else were you hearing? You mentioned what you were seeing with like 
+2 people getting hit with flash-bangs, some pepper spray happening. 
+3 Were you hearing people chant anything besides "traitors"? You mentioned the 
+4 Mike Pence chants earlier. Anything like that? 
+5 A I mean, maybe they were shouting, you know, fuck the police, stuff like that. 
+6 It was mostly just calling the cops traitors, from what I remember. 
+7 Q Okay. So according to your statement of offense, you started 
+8 climbing --you and Mr. Ochs started climbing up the stairs outside of the Capitol to the 
+9 upper part of the west side around 2:12, and then you entered at 2:23 through what are 
+10 called the Senate wing doors. And that is actually about 10 minutes after the first 
+11 breach of those doors happened. So I'm just wondering if you could describe what you 
+12 were seeing as you were walking through those doors. 
+13 
+14 
+15 
+16 
+17 A 
+Q 
+A 
+Q 
+A As I walked through the doors? 
+Yeah. 
+So like post climbing the steps? 
+Yeah. 
+Walked through the doors. I saw people pretty much walking in one 
+18 direction, and that was when you walk in to the right, and we noticed a lot of people 
+19 gathering in one large circular room at the end of that hallway. We kind of stood 
+20 around and recorded for a bit, then followed them where they were going. 
+21 Q And was there anything while you were walking up the stairs that sticks out 
+22 in your mind, anything people were saying or doing? 
+23 
+24 
+25 A 
+Q 
+A Most people were saying, "This is crazy." 
+This is crazy, yet we're going to keep going forward? 
+I don't know what they were thinking, but I think people were --I think  1 everybody was sort of shocked that what was happening was happening. 
+2 Q So why did you keep going towards --
+3 
+4 
+5 
+6 A 
+Q 
+A 
+Q Recording --
+--and into the Capitol? 
+Didn't mean to cut you off. Sorry. I kept going to record. 
+Okay. And I assume, you know, you saw the broken glass. You had 
+7 already mentioned that the police were fighting back. 
+8 At the time, were you thinking I should not be going into the Capitol? 56 
+9 A At the time, I thought there might be some kind of possibility of flack, like a 
+10 trespassing ticket, because I had seen --I had seen, you know, a ton of people go in. 
+11 had seen cops standing down. Before I went in through the doors, I saw probably 60 to 
+12 80 Capitol cops just standing around with their hands in their pockets, not even 
+13 confronting any of the crowd or trying to stop them. They were just sort of --you know, 
+14 they looked bored, just standing there. So I didn't think it was really that big a deal that 
+15 I, myself, was in there. 
+16 Q What did you think about the fact that the door had been broken down and 
+17 that the windows had been broken? 
+18 
+19 A 
+Q I think it was sort of like --I was just filming an event that was happening. 
+Sure. But as you're filming the event, it must have made some impression 
+20 on you. So what was your impression of seeing, you know, windows of the Capitol, door 
+21 to the Capitol busted in, you know, alarms blaring? What was that kind of impression? 
+22 A My impression --honestly, my only impression was like, holy cow, this 
+23 is --this is happening right now. Something crazy's going on, and I'm going to be one 
+24 of --you know, one of the people that records it from while it's happening. 
+25 Q And according to your statement of offense, paragraph 14, you know, you  1 and Mr. Ochs go into the Crypt. You're smoking some cigarettes, posting to social 
+2 media, and you yell, "Where's Nancy? Where are you at, Nancy?" 
+3 
+4 I'm assuming you meant Speaker Pelosi. Why did you shout that? 
+A I shouted that mostly in jest because I heard other people shouting it. It 
+5 was more of like a shock thing. It's like, you know, whoa, where's Nancy; like, they're 
+6 yelling that. 57 
+7 Q And did you get a sense or have any idea why --you know, what the people 
+8 were doing shouting "Where's Nancy?" 
+9 A I would imagine they were angry with Nancy Pelosi and they wanted to find 
+10 her office. 
+11 
+12 
+13 Q And what did you think of that possibility? 
+A I mean, I think it'd be crazy if they found Nancy. 
+Q Was it going through your head at all that the possibility of this angry group 
+14 of people shouting "Where's Nancy?" could possibly find the Speaker of the House? 
+15 
+16 A No. 
+Q Were you aware that Congress was even in the building that day certifying 
+17 the vote as this was happening? 
+18 A I was under the thought that they were long gone by the time we were even 
+19 inside of the Capitol. 
+20 
+21 
+22 Q What gave you that impression? 
+A Because there was a crowd of about 100,000 angry Trump supporters in D.C. 
+Q Right. But --in D.C. or at the Capitol? I mean, Congress can do its work 
+23 when people are in the city. 
+24 A I would say probably I was feeling maybe they weren't even there by the 
+25 time people were getting into it. I mean, the crowd was at the base of the Capitol for a  58 
+1 while, from what I remember. 
+2 Q So you expected that the people left --that the Members of Congress left 
+3 probably --why --because they felt threatened or any other reason? 
+4 A I mean, they probably felt threatened. 
+5 Q All right. So after you're in the Crypt and you shout "Where's Nancy?", you 
+6 headed towards the Capitol Visitors Center, according to your statement of offense, and 
+7 you were actually near a Proud Boy named William Chrestman, C-h-r-e-s-t-m-a-n. 
+8 Do you know Mr. Chrestman? 
+9 A The only thing I know him from is my summary or my --the Federal 
+10 document I believe you're quoting. Never met him. I only know his name just from it 
+11 being mentioned in this case. 
+12 Q Okay. And as you're watching him and another individual wedge --these 
+13 are crash doors, like garage doors, that close off areas. They're wedging them open with 
+14 trash cans and other objects, what was going through your head? 
+15 A I was laughing at the irony of the situation. I saw somebody with a Blue 
+16 Lives Matter flag wedging it into a security door, like probably the police force. 
+17 Someone was wedging a Blue Lives Matter flag into a security door, kind of ironic. 
+18 Q Ironic because you imagined that the person holding the Blue Lives Matter 
+19 flag was going after police? 
+20 A Not going after police, just rejecting --you know, the Blue Lives Matter 
+21 crowd, they're all about, you know, respecting the cops. I would imagine it was a cop 
+22 that was lowering that door, and somebody with a flag that represents respect cops is 
+23 disrespecting cops with it. 
+24 Q Got it. And then after that, it looks like around 2:42, you actually met up 
+25 with some Proud Boys --Ethan Nordean, who we mentioned; Paul Rae, R-a-e; and then  59 
+1 maybe another individual --and you kind of --you guys all --you and Mr. Ochs sort of 
+2 hugged in there. Were you surprised to see Mr. Nordean and Mr. Rae? 
+3 A I was. I mean, I was surprised to see them in that moment. I figured, you 
+4 know, being an event that Proud Boys are probably going to be at, I would run into them 
+5 at some point. It was more of just a shock I saw him there at that point. 
+6 
+7 Q 
+A Did you guys talk about anything when you met up? 
+We mostly just said, you know, like, Wow, this is crazy. This is crazy. 
+8 What's going on? 
+9 
+10 
+11 
+12 Q 
+A Did Mr. Nordean seem --how did --describe, like, his emotional state. 
+Shocked. Excited, but shocked. 
+Q Was he --did he seem celebratory? 
+A Maybe a little, but more shocked, more --yeah. I mean, it was crazy what 
+13 was going on. 
+14 
+15 Q 
+A Did you --
+That's pretty much all we talked about too. It's just like, Wow, can you 
+16 believe what's happening is happening? So --
+17 
+18 
+19 
+20 
+21 
+22 
+23 Q Were there a lot of other Proud Boys around you guys at this time? 
+A Didn't recognize anybody except for those two. 
+Q And how do you know Mr. Rae? 
+A I had loosely met him with Rufio. 
+- Okay. Anyfollowup? 
+Q I'm guessing then you yelled "Nancy's office" while you were in there in the 
+24 same spirit as you did in the Crypt? 
+25 A Yes.  1 Q All right. Did you stay with Mr. Nordean and the other Proud Boys after 
+2 that encounter? 
+3 
+4 A Loosely, but we got separated shortly after. 
+Q Okay. So did you have any conversations with them later in the day or 
+5 thereafter about what happened on January 6th? 
+6 
+7 A No. 
+Q All right. So you never discussed with Mr. Nordean the lead-up to 
+8 January 6th and what he was doing before he got into the Rotunda? 
+9 
+10 A I don't believe so. I don't remember anything like that. 
+Q Same question for Mr. Rae or any of the other individuals, Proud Boys you 
+11 met in the Rotunda? 
+A No. 60 
+12 
+13 Q Okay. So after that, you and Mr. Ochs sort of head towards what's known 
+14 as the Chestnut-Gibson Memorial Door. According to your statement of offense, 
+15 paragraph 18, you wrote "Murder the Media" on a door. Can you explain why that 
+16 happened? 
+17 
+18 
+19 A It was sort of a --supposed to be like publicity for my channel. 
+Q Yeah. 
+A Similar to how you'd see lnstagram handles being written on like streetlights 
+20 and stuff like that or power boxes. 
+21 Q Is there any difference in your mind between the inside of the United States 
+22 Capitol and a power box on the street? 
+23 
+24 
+25 A I believe they're government property. That was the mentality. 
+Q All right. So there's no --I guess you don't have --that's all right. 
+After that, you rummaged through a Capitol Police duffel bag and took some  61 
+1 flexi-cuffs. Why did you take those? 
+2 A I figured it'd be a cheap souvenir. 
+3 Q Was there anything else in the bag, though, that you thought about taking 
+4 and decided on the flexi-cuffs? 
+5 A There were like a bunch of ticket books. There was the marker that I wrote 
+6 on the door with. That's it. 
+7 
+8 
+9 Q 
+A 
+Q Okay. I'm guessing you didn't try to use those flexi-cuffs on January 6th? 
+No. 
+All right. So outside the Capitol on January 6th, you and Mr. Ochs did a live 
+10 stream. Mr. Ochs says, quote, "we have some good news. We have now just peeked 
+11 through this window, and on the television the headline reads that Congress stops the 
+12 vote when we stormed the Capitol. And as we've been saying all day, we came here to 
+13 'stop the steal."' 
+14 You interjected, "We did it." 
+15 And Mr. Ochs replied, "We were being sarcastic, but we didn't know we were 
+16 actually going to." 
+17 
+18 
+19 And then you asked, "Wait. You were being sarcastic." 
+At that time, how did you understand the phrase "stop the steal"? 
+A At that time how did I understand the phrase? Stopping the steal of the 
+20 election, that's how I understood it. 
+21 Q You were --it was your view that the people who stormed the Capitol that 
+22 day had prevented the certification of the vote? 
+23 A It was more my view that they did. And when I said I did it, it was more of 
+24 the satire, the crass satire I use on my channel whenever I'm on video. 
+25 Q You say, "You're welcome, America" --I'm sorry. Mr. Ochs said, "You're  62 
+1 welcome, America." 
+2 And you replied, "We did our job. We did our job." 
+3 And then I know --and I've watched some of your later live streams from that 
+4 night and the 7th, and sort of the theme was that, you know, America, thank me for 
+5 stopping the steal. Mr. Ochs and I did it. 
+6 Why did think America would want to thank the people who were there to "stop 
+7 the steal"? 
+8 
+9 
+10 A 
+Q 
+A Why would I think America would want to thank the people that were there? 
+Yeah. 
+When I was saying for America to thank me, again, it was more a satire sort 
+11 of thing, almost a character of myself that I was playing. 
+12 Q Okay. So you also posed for a photo with a Jacob Chansley outside of the 
+13 Capitol. He's also been called Q Shaman, you know, the very famous picture of the guy 
+14 with the horns. 
+15 Had you ever met Mr. Chansley before January 6th? 
+16 
+17 A 
+Q That was literally the only time I've ever met him. 
+Okay. So was it your view just --there were people calling Mr. Chansley 
+18 antifa that day. Was it your view that antifa was primarily responsible for storming the 
+19 Capitol or was it mostly Trump supporters? 
+20 A I'll say this, whoever was doing it, whoever all was doing it were dressed like 
+21 Trump supporters. 
+22 
+23 
+24 - Okay. One second. BY-
+Q So after January 6th, when did you go back to Texas, or wherever you were 
+25 going back?  1 
+2 A I'm pretty sure it was the 7th. 
+Q Okay. Were you in touch with any Proud Boys about January 6th, other 
+3 than Mr. Ochs? 
+I don't think so. 63 
+4 
+5 A 
+Q Did Mr. Ochs ever relay to you what the Proud Boys were saying about what 
+6 happened on January 6th? 
+7 A No. After we separated, we weren't in contact, I don't think. And part of 
+8 that was because he got detained like right when he got off the plane in Hawaii. 
+9 Q Yeah. Were you paying attention --excuse me. Were you paying 
+10 attention at all to Mr. Tarrio's social media posts on January 6th, the night of, the next 
+11 day, January 7th? 
+12 
+13 A No, I don't think so. 
+Q Well, you said you often, like, reposted each other's stuff. So did you see 
+14 on Parler a message that he posted that sort of implied that the Proud Boys had --you 
+15 know, were responsible for what happened on January 6th? 
+16 A So I didn't see that. I didn't really man --I didn't manage our Parler account 
+17 at all. That wasn't me who paid attention to any of that. 
+Q 
+A 
+Q 
+A Did you ever talk to Mr. Tarrio after January 6th on the phone? 
+I might have. I talked to a lot of people. 
+Do you remember talking to Mr. Tarrio about January 6th? 
+Might have asked him for a good attorney. 18 
+19 
+20 
+21 
+22 Q All right. Did you talk to him about your experience? Did he talk to you 
+23 about what he was seeing? Did he talk to you about the Proud Boys more generally on 
+24 January 6th? 
+25 A Not that I remember.  64 
+1 Q So on January 12th in one of your chats, you said, "Vo, Trump, toss us some 
+2 pardons quick." 
+3 Why were you --what prompted you to make that comment? 
+4 
+5 A Not wanting to be in trouble with the Federal Government. 
+- Okay. So this might be a better question for Mr. Feitel. But can 
+6 you just describe the current state of your current criminal --or Mr. DeCarlo's criminal 
+7 case? 
+8 Mr. Feitel. Certainly. Mr. Decarlo entered a plea of guilty, I think, to count 2 of 
+9 the indictment against him, which was to the crime of conspir --no. He pied to the 
+10 substantive count of obstruction of a congressional proceeding, a violation of 18 U.S.C. 
+11 1512, subsection C, I believe. At the time of sentencing, the government will --has 
+12 agreed to dismiss all the other counts. And we have sentencing set for, I think, the 3rd 
+13 of December in this case. 
+14 - Great. Thank you very much. 
+15 
+16 
+17 So, Mr. Decarlo, we're going to conclude, unless -­
+No. 
+- So as part of that plea, has Mr. Decarlo --has he sat down for 
+18 interviews with the FBI or U.S. Attorney's Office? 
+19 Mr. Feitel. The U.S. Attorney's Office did not --they had originally wanted Mr. 
+20 Decarlo to do that as a condition of extending the plea offer, and then later, after some 
+21 litigation in the case and things had progressed, they simply said it wasn't necessary any 
+22 longer. So Mr. Decarlo has not sat down and talked with the prosecutors on this case. 
+23 
+24 You [inaudible] with the FBI, though, right? 
+Mr. Feitel. Mr. Decarlo, I think at the time of his arrest, he voluntarily provided 
+25 access to his cell phone, but I don't believe he's given an interview to law enforcement.  1 
+2 
+3 Got it. Okay. That's good. Thanks for the clarification. 
+BY 
+Q So, Mr. Decarlo, looking back today, how do you view what happened on 65 
+4 January 6th? 
+5 
+6 
+7 A How do I view what happened? 
+Q Yes. 
+A Like my opinion of everything that went down? It shouldn't have 
+8 happened. 
+9 BY 
+10 Q What role, if any, did President Trump play in what happened on 
+11 January 6th? 
+12 A Probably inspired a bunch of people to do it and then kind of left 
+13 them --kind of abandoned them. 
+14 Q And, again, when you're saying inspired a bunch of people and abandoned 
+15 them, this includes some of the folks you were with, like the Proud Boys, correct? 
+16 A Yeah. I mean, I would imagine they went there, you know, inspired by 
+17 what Trump said, you know, to support him. And then I'm not saying what they did was 
+18 supporting him or not, but they probably thought they were supporting him. And, you 
+19 know, after they did all that, he kind of --seems like he abandoned them. 
+20 
+21 Q 
+A Help us understand that. Why does it seem like he abandoned them? 
+I think if a President tells a supporter to come here and, you know, support 
+22 me at the Capitol and "stop the steal," and then they make an effort to do so and he 
+23 doesn't pardon them, that kind of seems like --kind of seems like, you know, President 
+24 abandoned them. 
+25 So it's your view that President Trump sort of called these people to  66 
+1 Washington, D.C., and, therefore, should have been helping out the people who did his 
+2 bidding with a pardon? 
+3 Mr. Decarlo. Kind of. I mean, you know, if a sitting President tells you to rally 
+4 and protest and you do that, yeah. 
+5 And does that mean you assign some responsibility for what 
+6 happened on January 6th to President Trump? 
+7 Mr. Decarlo. Sure. 
+8 - I think we don't have any other questions. 
+9 Is there anything, Mr. Decarlo or Mr. Feitel, you want to put on the record before 
+10 we adjourn for the day? 
+Mr. Feitel. Nicholas, is there anything you want to say? 
+Mr. Decarlo. No. I'm good. 
+Mr. Feitel. No. I think we'll leave the record as it stands then. 11 
+12 
+13 
+14 - Okay. Well, then, subject to the call of the chair, we'll adjourn this 
+15 interview as of 5:58 p.m. 
+16 We're off the record. 
+17 [Whereupon, at 5:58 p.m., the interview was adjourned, subject to the call of the 
+18 chair.]  1 
+2 
+3 Certificate of Deponent/Interviewee 
+4 I have read the foregoing __ pages, which contain the correct transcript of the 
+5 answers made by me to the questions therein recorded. 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 Witness Name 
+Date 67 

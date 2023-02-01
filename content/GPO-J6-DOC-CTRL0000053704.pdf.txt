@@ -1,0 +1,652 @@
+076P-R000001368_00001 
+Allied Security Operations Group 
+Antrim Michigan Forensics Report 
+REVISED PRELIMINARY SUMMARY, v2 
+Report Date 12/13/2020 
+Client: Bill Bailey 
+Attorney: Matthew DePerno 
+A. WHOWEARE 
+1. My name is Russell James Ramsland, Jr., and I am a resident of Dallas County, 
+Texas. I hold an MBA from Harvard University, and a political science degree 
+from Duke University. I have worked with the National Aeronautics and Space 
+Administration (NASA) and the Massachusetts Institute of Technology (MIT), 
+among other organizations, and have run businesses all over the world, many of 
+which are highly technical in nature. I have served on technical government 
+panels. 
+2. I am part of the management team of Allied Security Operations Group, LLC, 
+(ASOG). ASOG is a group of globally engaged professionals who come from 
+various disciplines to include Department of Defense, Secret Service, 
+Department of Homeland Security, and the Central Intelligence Agency. It 
+provides a range of security services, but has a particular emphasis on 
+cybersecurity, open source investigation and penetration testing of networks. We 
+employ a wide variety of cyber and cyber forensic analysts. We have patents 
+pending in a variety of applications from novel network security applications to 
+SCADA (Supervisory Control and Data Acquisition) protection and safe browsing 
+solutions for the dark and deep web. For this report, I have relied on these 
+experts and resources. 
+B. PURPOSE AND PRELIMINARY CONCLUSIONS 
+1. The purpose of this forensic audit is to test the integrity of Dominion Voting 
+System in how it performed in Antrim County, Michigan for the 2020 election. 
+2. We conclude that the Dominion Voting System is intentionally and purposefully 
+designed with inherent errors to create systemic fraud and influence election 
+results. The system intentionally generates an enormously high number of ballot 
+errors. The electronic ballots are then transferred for adjudication. The intentional 
+errors lead to bulk adjudication of ballots with no oversight, no transparency, and 
+no audit trail. This leads to voter or election fraud. Based on our study, we 
+conclude that The Dominion Voting System should not be used in Michigan. We 
+further conclude that the results of Antrim County should not have been certified. 
+1  076P-R000001368_00002 
+3. The following is a breakdown of the votes tabulated for the 2020 election in 
+Antrim County, showing different dates for the tabulation of the same votes. 
+Total TOTAL 
+Date Registered Votes Biden Trump Third Write-In VOTES 
+Voters Cast Party for 
+President 
+Nov 3 22,082 16,047 7,769 4,509 145 14 12,423 
+Nov 5 22,082 18,059 7,289 9,783 255 20 17,327 
+Nov 21 22,082 16,044 5,960 9,748 241 23 15,949 
+4. 
+5. 
+6. 
+7. 
+8. The Antrim County Clerk and Secretary of State Jocelyn Benson have stated that 
+the election night error (detailed above by the vote "flip" from Trump to Biden, 
+was the result of human error caused by the failure to update the Mancelona 
+Township tabulator prior to election night for a down ballot race. We disagree and 
+conclude that the vote flip occurred because of machine error built into the voting 
+software designed to create error. 
+Secretary of State Jocelyn Benson's statement on November 6, 2020 that "[t]the 
+correct results always were and continue to be reflected on the tabulator totals 
+tape .... " was false. 
+The allowable election error rate established by the Federal Election Commission 
+guidelines is of 1 in 250,000 ballots (.0008%). We observed an error rate of 
+68.05%. This demonstrated a significant and fatal error in security and election 
+integrity. 
+The results of the Antrim County 2020 election are not certifiable. This is a result 
+of machine and/or software error, not human error. 
+The tabulation log for the forensic examination of the server for Antrim County 
+from December 6, 2020consists of 15,676 individual events, of which 10,667 or 
+68.05% of the events were recorded errors. These errors resulted in overall 
+tabulation errors or ballots being sent to adjudication. This high error rates proves 
+the Dominion Voting System is flawed and does not meet state or federal 
+election laws. 
+9. These errors occurred after The Antrim County Clerk provided a re-provisioned 
+CF card with uploaded software for the Central Lake Precinct on November 6, 
+2020. This means the statement by Secretary Benson was false. The Dominion 
+Voting System produced systemic errors and high error rates both prior to the 
+update and after the update; meaning the update (or lack of update) is not the 
+cause of errors. 
+2  076P-R000001368_00003 
+10. In Central Lake Township there were 1,222 ballots reversed out of 1,491 total 
+ballots cast, resulting in an 81.96% rejection rate. All reversed ballots are sent to 
+adjudication for a decision by election personnel. 
+11. It is critical to understand that the Dominion system classifies ballots into two 
+categories, 1) normal ballots and 2) adjudicated ballots. Ballots sent to 
+adjudication can be altered by administrators, and adjudication files can be 
+moved between different Results Tally and Reporting (RTR) terminals with no 
+audit trail of which administrator actually adjudicates (i.e. votes) the ballot batch. 
+This demonstrated a significant and fatal error in security and election integrity 
+because it provides no meaningful observation of the adjudication process or 
+audit trail of which administrator actually adjudicated the ballots. 
+12. A staggering number of votes required adjudication. This was a 2020 issue not 
+seen in previous election cycles still stored on the server. This is caused by 
+intentional errors in the system. The intentional errors lead to bulk adjudication of 
+ballots with no oversight, no transparency or audit trail. Our examination of the 
+server logs indicates that this high error rate was incongruent with patterns from 
+previous years. The statement attributing these issues to human error is not 
+consistent with the forensic evaluation, which points more correctly to systemic 
+machine and/or software errors. The systemic errors are intentionally designed to 
+create errors in order to push a high volume of ballots to bulk adjudication. 
+13. The linked video demonstrates how to cheat at adjudication: 
+https://mobile.twitter.com/KanekoaTheGreat/status/1336888454538428418 
+14. Antrim County failed to properly update its system. A purposeful lack of providing 
+basic computer security updates in the system software and hardware 
+demonstrates incompetence, gross negligence, bad faith, and/or willful non­
+compliance in providing the fundamental system security required by federal and 
+state law. There is no way this election management system could have passed 
+tests or have been legally certified to conduct the 2020 elections in Michigan 
+under the current laws. According to the National Conference of State 
+Legislatures -Michigan requires full compliance with federal standards as 
+determined by a federally accredited voting system laboratory. 
+15. Significantly, the computer system shows vote adjudication logs for prior years; 
+but all adjudication log entries for the 2020 election cycle are missing. The 
+adjudication process is the simplest way to manually manipulate votes. The lack 
+of records prevents any form of audit accountability, and their conspicuous 
+absence is extremely suspicious since the files exist for previous years using the 
+same software. Removal of these files violates state law and prevents a 
+meaningful audit, even if the Secretary wanted to conduct an audit. We must 
+conclude that the 2020 election cycle records have been manually removed. 
+3  076P-R000001368_00004 
+16. Likewise, all server security logs prior to 11 :03 pm on November 4, 2020 are 
+missing. This means that all security logs for the day after the election, on 
+election day, and prior to election day are gone. Security logs are very important 
+to an audit trail, forensics, and for detecting advanced persistent threats and 
+outside attacks, especially on systems with outdated system files. These logs 
+would contain domain controls, authentication failures, error codes, times users 
+logged on and off, network connections to file servers between file accesses, 
+internet connections, times, and data transfers. Other server logs before 
+November 4, 2020 are present; therefore, there is no reasonable explanation for 
+the security logs to be missing. 
+17. On November 21, 2020, an unauthorized user unsuccessfully attempted to zero 
+out election results. This demonstrates additional tampering with data. 
+18. The Election Event Designer Log shows that Dominion lmageCast Precinct 
+Cards were programmed with new ballot programming on 10/23/2020 and then 
+again after the election on 11/05/2020. These system changes affect how ballots 
+are read and tabulated, and our examination demonstrated a significant change 
+in voter results using the two different programs. In accordance with the Help 
+America Vote Act, this violates the 90-day Safe Harbor Period which prohibits 
+changes to election systems, registries, hardware/software updates without 
+undergoing re-certification. According to the National Conference of State 
+Legislatures -Michigan requires full compliance with federal standards as 
+determined by a federally accredited voting system laboratory. 
+19. The only reason to change software after the election would be to obfuscate 
+evidence of fraud and/or to correct program errors that would de-certify the 
+election. Our findings show that the Central Lake Township tabulator tape totals 
+were significantly altered by utilizing two different program versions (10/23/2020 
+and 11/05/2020), both of which were software changes during an election which 
+violates election law, and not just human error associated with the Dominion 
+Election Management System. This is clear evidence of software generated 
+movement of votes. The claims made on the Office of the Secretary of State 
+website are false. 
+20. The Dominion lmageCast Precinct (ICP) machines have the ability to be 
+connected to the internet (see Image 11 ). By connecting a network scanner to 
+the ethernet port on the ICP machine and creating Packet Capture logs from the 
+machines we examined show the ability to connect to the network, Application 
+Programming Interface (API) (a data exchange between two different systems) 
+calls and web (http) connections to the Election Management System server. 
+Best practice is to disable the network interface card to avoid connection to the 
+internet. This demonstrated a significant and fatal error in security and election 
+integrity. Because certain files have been deleted, we have not yet found origin 
+or destination; but our research continues. 
+4  076P-R000001368_00005 
+21. Because the intentional high error rate generates large numbers of ballots to be 
+adjudicated by election personnel, we must deduce that bulk adjudication 
+occurred. However, because files and adjudication logs are missing, we have not 
+yet determined where the bulk adjudication occurred or who was responsible for 
+it. Our research continues. 
+22. Research is ongoing. However, based on the preliminary results, we conclude 
+that the errors are so significant that they call into question the integrity and 
+legitimacy of the results in the Antrim County 2020 election to the point that the 
+results are not certifiable. Because the same machines and software are used in 
+48 other counties in Michigan, this casts doubt on the integrity of the entire 
+election in the state of Michigan. 
+23. DNI Responsibilities: President Obama signed Executive Order on National 
+Critical Infrastructure on 6 January 2017, stating in Section 1. Cybersecurity of 
+Federal Networks, "The Executive Branch operates its information technology 
+(IT) on behalf of the American people. The President will hold heads of executive 
+departments and agencies (agency heads) accountable for managing 
+cybersecurity risk to their enterprises. In addition, because risk management 
+decisions made by agency heads can affect the risk to the executive branch as a 
+whole, and to national security, it is also the policy of the United States to 
+manage cybersecurity risk as an executive branch enterprise." President 
+Obama's EO further stated, effective immediately, each agency head shall use 
+The Framework for Improving Critical Infrastructure Cybersecurity (the 
+Framework) developed by the National Institute of Standards and Technology." 
+Support to Critical Infrastructure at Greatest Risk. The Secretary of Homeland 
+Security, in coordination with the Secretary of Defense, the Attorney General, the 
+Director of National Intelligence, the Director of the Federal Bureau of 
+Investigation, the heads of appropriate sector-specific agencies, as defined in 
+Presidential Policy Directive 21 of February 12, 2013 (Critical Infrastructure 
+Security and Resilience) (sector-specific agencies), and all other appropriate 
+agency heads, as identified by the Secretary of Homeland Security, shall: (i) 
+identify authorities and capabilities that agencies could employ to support the 
+cybersecurity efforts of critical infrastructure entities identified pursuant to section 
+9 of Executive Order 13636 of February 12, 2013 (Improving Critical 
+Infrastructure Cybersecurity), to be at greatest risk of attacks that could 
+reasonably result in catastrophic regional or national effects on public health or 
+safety, economic security, or national security (section 9 entities); 
+This is a national security imperative. In July 2018, President Trump 
+strengthened President Obama's Executive Order to include requirements 
+to ensure US election systems, processes, and its people were not 
+manipulated by foreign meddling, either through electronic or systemic 
+manipulation, social media, or physical changes made in hardware, 
+software, or supporting systems. The 2018 Executive Order. Accordingly, I 
+hereby order: 
+5  076P-R000001368_00006 
+Section 1. (a) Not later than 45 days after the conclusion of a United States 
+election, the Director of National Intelligence, in consultation with the heads of 
+any other appropriate executive departments and agencies (agencies), shall 
+conduct an assessment of any information indicating that a foreign government, 
+or any person acting as an agent of or on behalf of a foreign government, has 
+acted with the intent or purpose of interfering in that election. The assessment 
+shall identify, to the maximum extent ascertainable, the nature of any foreign 
+interference and any methods employed to execute it, the persons involved, and 
+the foreign government or governments that authorized, directed, sponsored, or 
+supported it. The Director of National Intelligence shall deliver this assessment 
+and appropriate supporting information to the President, the Secretary of State, 
+the Secretary of the Treasury, the Secretary of Defense, the Attorney General, 
+and the Secretary of Homeland Security. 
+We recommend that an independent group should be empaneled to determine 
+the extent of the adjudication errors throughout the State of Michigan. This is a 
+national security issue. 
+24. Michigan resident Gustavo Delfino, a former professor of mathematics in 
+Venezuela and alumni of University of Michigan, offered a compelling affidavit 
+[Exhibit 21 recognizing the inherent vulnerabilities in the SmartMatic electronic 
+voting machines (software which was since incorporated into Dominion Voting 
+Systems) during the 2004 national referendum in Venezuela (see attached 
+declaration). After 4 years of research and 3 years of undergoing intensive peer 
+review, Professor Delfino's paper was published in the highly respected 
+"Statistical Science" journal, November 2011 issue (Volume 26, Number 4) with 
+title "Analysis of the 2004 Venezuela Referendum: The Official Results Versus 
+the Petition Signatures." The intensive study used multiple mathematical 
+approaches to ascertain the voting results found in the 2004 Venezuelan 
+referendum. Delfino and his research partners discovered not only the algorithm 
+used to manipulate the results, but also the precise location in the election 
+processing sequence where vulnerability in machine processing would provide 
+such an opportunity. According to Prof Delfino, the magnitude of the difference 
+between the official and the true result in Venezuela estimated at 1,370,000 
+votes. Our investigation into the error rates and results of the Antrim County 
+voting tally reflect the same tactics, which have also been reported in other 
+Michigan counties as well. This demonstrates a national security issue. 
+C. PROCESS 
+We visited Antrim County twice: November 27, 2020 and December 6, 2020. 
+On November 27, 2020, we visited Central Lake Township, Star Township, and 
+Mancelona Township. We examined the Dominion Voting Systems tabulators 
+and tabulator roles. 
+6  076P-R000001368_00007 
+On December 6, 2020, we visited the Antrim County Clerk's office. We inspected 
+and performed forensic duplication of the following: 
+1. Antrim County Election Management Server running Dominion 
+Democracy Suite 5.5.3-002; 
+2. Compact Flash cards used by the local precincts in their Dominion 
+lmageCast Precinct; 
+3. USB memory sticks used by the Dominion VAT (Voter Assist 
+Terminals); and 
+4. USB memory sticks used for the Poll Book. 
+Dominion voting system is a Canadian owned company with global subsidiaries. 
+It is owned by Staple Street Capital which is in turn owned by UBS Securities 
+LLC, of which 3 out of their 7 board members are Chinese nationals. The 
+Dominion software is licensed from Smartmatic which is a Venezuelan owned 
+and controlled company. Dominion Server locations have been determined to be 
+in Serbia, Canada, the US, Spain and Germany. 
+D. CENTRAL LAKE TOWNSHIP 
+1. On November 27, 2020, part of our forensics team visited the Central Lake 
+Township in Michigan to inspect the Dominion lmageCast Precint for possible 
+hardware issues on behalf of a local lawsuit filed by Michigan attorney Matthew 
+DePerno on behalf of William Bailey. In our conversations with the clerk of 
+Central Lake Township Ms. Judith L. Kosloski, she presented to us "two 
+separate paper totals tape" from Tabulator ID 2. 
+• One dated "Poll Opened Nov. 03/2020 06:38:48" (Roll 1 ); 
+• Another dated "Poll Opened Nov.06/2020 09:21 :58" (Roll 2). 
+2. We were then told by Ms. Kosloski that on November 5, 2020, Ms. Kosloski 
+was notified by Connie Wing of the County Clerk's Office and asked to bring the 
+tabulator and ballots to the County Clerk's office for re-tabulation. They ran the 
+ballots and printed "Roll 2". She noticed a difference in the votes and brought it 
+up to the clerk, but canvasing still occurred, and her objections were not 
+addressed. 
+3. Our team analyzed both rolls and compared the results. Roll 1 had 1,494 total 
+votes and Roll 2 had 1,491 votes (Roll 2 had 3 less ballots because 3 ballots 
+were damaged in the process.) 
+4. "Statement of Votes Cast from Antrim" shows that only 1,491 votes were 
+counted, and the 3 ballots that were damaged were not entered into final results. 
+7  076P-R000001368_00008 
+5. Ms. Kosloski stated that she and her assistant manually refilled out the three 
+ballots, curing them, and ran them through the ballot counting system -but the 
+final numbers do not reflect the inclusion of those 3 damaged ballots. 
+6. This is the most preliminary report of serious election fraud indicators. In 
+comparing the numbers on both rolls, we estimate 1,474 votes changed 
+across the two rolls, between the first and the second time the exact same ballots 
+were run through the County Clerk's vote counting machine -which is almost the 
+same number of voters that voted in total. 
+• 7 42 votes were added to School Board Member for Central lake 
+Schools (3) 
+• 657 votes were removed from School Board Member for Ellsworth 
+Schools (2) 
+• 7 votes were added to the total for State Proposal 20-1 (1) and out of 
+those there were 611 votes moved between the Yes and No Categories. 
+7. There were incremental changes throughout the rolls with some significant 
+adjustments between the 2 rolls that were reviewed. This demonstrates 
+conclusively that votes can be and were changed during the second machine 
+count after the software update. That should be impossible especially at such a 
+high percentage to total votes cast. 
+8. For the School Board Member for Central lake Schools (3) [Image 1] there 
+were 742 votes added to this vote total. Since multiple people were elected, this 
+did not change the result of both candidates being elected, but one does see a 
+change in who had most votes. If it were a single-person election this would 
+have changed the outcome and demonstrates conclusively that votes can be and 
+were changed during the second machine counting. That should be impossible. 
+[Image 1]: 
+8  076P-R000001368_00009 
+9. For the School Board Member for Ellsworth Schools (2) [Image 2] 
+• Shows 657 votes being removed from this election. 
+• In this case, only 3 people who were eligible to vote actually voted. 
+Since there were 2 votes allowed for each voter to cast. 
+• The recount correctly shows 6 votes. 
+But on election night, there was a major calculation issue: 
+[Image 2]: 
+Schee i tb .. t.-.::,. ··. 
+for F j i S;}<i(/ U'i 
+10. In State Proposal 20-1 (1), [Image 3] there is a major change in votes in this 
+category. 
+• There were 774 votes for YES during the election, to 1,083 votes 
+for YES on the recount a change of 309 votes. 
+• 7 votes were added to the total for State Proposal 20-1 (1) out of 
+those there were 611 votes moved between the Yes and No Categories. 
+[Image 3]: 
+9  076P-R000001368_00010 
+11. State Proposal 20-1 (1) is a fairly technical and complicated proposed 
+amendment to the Michigan Constitution to change the disposition and allowable 
+uses of future revenue generated from oil and gas bonuses, rentals and royalties 
+from state-owned land. Information about the proposal: 
+https:/ /crcmich .org/publications/statewide-ballot- proposal-20-1-michigan-natural­
+resources-trust-fund 
+12. A Proposed Initiated Ordinance to Authorize One (1) Marihuana (sic) Retailer 
+Establishment Within the Village of Central lake (1). [Image 4] 
+• On election night, it was a tie vote. 
+• Then, on the rerun of ballots 3 ballots were destroyed, but only one vote 
+changed on the totals to allow the proposal to pass. 
+When 3 ballots were not counted and programming change on the 
+tabulator was installed the proposal passed with 1 vote being removed from 
+the No vote. 
+[Image 4]: 
+10  076P-R000001368_00011 
+13. On Sunday December 6, 2020, our forensics team visited the Antrim County 
+Clerk. There were two USB memory sticks used, one contained the software 
+package used to tabulate election results on November 3, 2020, and the other 
+was programmed on November 6, 2020 with a different software package which 
+yielded significantly different voting outcomes. The election data package is used 
+by the Dominion Democracy Suite software & election management system 
+software to upload programming information onto the Compact Flash Cards for 
+the Dominion lmageCast Precinct to enable it to calculate ballot totals. 
+14. This software programming should be standard across all voting machines 
+systems for the duration of the entire election if accurate tabulation is the 
+expected outcome as required by US Election Law. This intentional difference in 
+software programming is a design feature to alter election outcomes. 
+15. The election day outcomes were calculated using the original software 
+programming on November 3, 2020. On November 5, 2020 the township clerk 
+was asked to re-run the Central Lake Township ballots and was given no 
+explanation for this unusual request. On November 6, 2020 the Antrim County 
+Clerk, Sheryl Guy issued the second version of software to re-run the same 
+Central Lake Township ballots and oversaw the process. This resulted in greater 
+than a 60% change in voting results, inexplicably impacting every single election 
+contest in a township with less than 1500 voters. These errors far exceed the 
+ballot error rate standard of 1 in 250,000 ballots (.0008%) as required by federal 
+election law. 
+• The original election programming files are last dated 09/25/2020 1 :24pm 
+• The updated election data package files are last dated 10/22/2020 10:27 am. 
+11  076P-R000001368_00012 
+16. As the tabulator tape totals prove, there were large numbers of votes switched 
+from the November 3, 2020 tape to the November 6, 2020 tape. This was solely 
+based on using different software versions of the operating program to calculate 
+votes, not tabulate votes. This is evidenced by using same the Dominion System 
+with two different software program versions contained on the two different USB 
+Memory Devices. 
+17. The Help America Vote Act, Safe Harbor provides a 90-day period prior to 
+elections where no changes can be made to election systems. To make changes 
+would require recertification of the entire system for use in the election. The 
+Dominion User Guide prescribes the proper procedure to test machines with test 
+ballots to compare the results to validate machine functionality to determine if the 
+Dominion lmageCast Precinct was programmed correctly. If this occurred a 
+ballot misconfiguration would have been identified. Once the software was 
+updated to the 10/22/2020 software the test ballots should have been re-run to 
+validate the vote totals to confirm the machine was configured correctly. 
+18. The November 6, 2020 note from The Office of the Secretary of State Jocelyn 
+Benson states: "The correct results always were and continue to be reflected on 
+the tabulator totals tape and on the ballots themselves. Even if the error in the 
+reported unofficial results had not been quickly noticed, it would have been 
+identified during the county canvass. Boards of County Canvassers, which are 
+composed of 2 Democrats and 2 Republicans, review the printed totals tape from 
+each tabulator during the canvass to verify the reported vote totals are correct." 
+• Source: https://www.michigan.gov/sos/0,4670-7-127-1640 9i 50-544676-­
+,00.htrn! 
+19. The Secretary of State Jocelyn Benson's statement is false. Our findings show 
+that the tabulator tape totals were significantly altered by utilization of two 
+different program versions, and not just the Dominion Election Management 
+System. This is the opposite of the claim that the Office of the Secretary of 
+State made on its website. The fact that these significant errors were not caught 
+in ballot testing and not caught by the local county clerk shows that there are 
+major inherent built-in vulnerabilities and process flaws in the Dominion 
+Election Management System, and that other townships/precincts and the 
+entire election have been affected. 
+20. On Sunday December 6, 2020, our forensics team visited the Antrim County 
+Clerk office to perform forensic duplication of the Antrim County Election 
+Management Server running Dominion Democracy Suite 5.5.3-002. 
+21. Forensic copies of the Compact Flash cards used by the local precincts in their 
+Dominion lmageCast Precinct were inspected, USB memory sticks used by 
+the Dominion VAT (Voter Assist Terminals) and the USB memory sticks used 
+for the Poll Book were forensically duplicated. 
+12  076P-R000001368_00013 
+22. We have been told that the ballot design and configuration for the Dominion 
+lmageCast Precinct and VAT were provided by ElectionSource.com which is 
+which is owned by MC&E, Inc of Grand Rapids, Ml. 
+E. MANCELONA TOWNSHIP 
+1. In Mancelona township, problems with software versions were also known to 
+have been present. Mancelona elections officials understood that ballot 
+processing issued were not accurate and used the second version of software to 
+process votes on 4 November, again an election de-certifying event, as no 
+changes to the election system are authorized by law in the 90 days preceding 
+elections without re-certification. 
+2. Once the 10/22/2020 software update was performed on the Dominion 
+lmageCast Precinct the test ballot process should have been performed to 
+validate the programming. There is no indication that this procedure was 
+performed. 
+F. ANTRIM COUNTY CLERK'S OFFICE 
+1. Pursuant to a court ordered inspection, we participated in an onsite collection 
+effort at the Antrim County Clerk's office on December 6, 2020. [Image 5]: 
+Among other items forensically collected, the Antrim County Election 
+Management Server (EMS) with Democracy Suite was forensically collected. 
+[Images 6 and 7]. 
+13  076P-R000001368_00014 
+The EMS (Election Management Server) was a: 
+Dell Precision Tower 3420. 
+Service Tag: 6NB0KH2 
+The EMS contained 2 hard drives in a RAID-1 configuration. That is the 2 drives 
+redundantly stored the same information and the server could continue to 
+operate if either of the 2 hard drives failed. The EMS was booted via the Linux 
+Boot USB memory sticks and both hard drives were forensically imaged. 
+At the onset of the collection process we observed that the initial program thumb 
+drive was not secured in the vault with the CF cards and other thumbdrives. We 
+watched as the County employees, including Clerk Sheryl Guy searched 
+throughout the office for the missing thumb drive. Eventually they found the 
+missing thumb drive in an unsecured and unlocked desk drawer along with 
+multiple other random thumb drives. This demonstrated a significant and fatal 
+error in security and election integrity. 
+G. FORENSIC COLLECTION 
+We used a built for purpose Linux Boot USB memory stick to boot the EMS in a 
+forensically sound mode. We then used Ewfacquire to make a forensic image of 
+the 2 independent internal hard drives. 
+Ewfacquire created an E01 file format forensic image with built-in integrity 
+verification via MD5 hash. 
+We used Ewfverify to verify the forensic image acquired was a true and accurate 
+copy of the original disk. That was done for both forensic images. 
+H. ANALYSIS TOOLS 
+14  076P-R000001368_00015 
+X-Ways Forensics: We used X-Ways Forensics, a commercial Computer 
+Forensic tool, to verify the image was useable and full disk encryption was not in 
+use. In particular we confirmed that Bit locker was not in use on the EMS. 
+Other tools used: PassMark -OSForensics, Truxton -Forensics, Cellebrite -
+Physical Analyzer, Blackbag-Blacklight Forensic Software, Microsoft SQL Server 
+Management Studio, Virtual Box, and miscellaneous other tools and scripts. 
+I. SERVER OVERVIEW AND SUMMARY 
+1. Our initial audit on the computer running the Democracy Suite Software showed 
+that standard computer security best practices were not applied. These 
+minimum-security standards are outlined the 2002 HAVA, and FEC Voting 
+System Standards -it did not even meet the minimum standards required of a 
+government desktop computer. 
+2. The election data software package USB drives (November 2020 election, and 
+November 2020 election updated) are secured with bitlocker encryption software, 
+but they were not stored securely on-site. At the time of our forensic examination, 
+the election data package files were already moved to an unsecure desktop 
+computer and were residing on an unencrypted hard drive. This demonstrated a 
+significant and fatal error in security and election integrity. Key Findings on 
+Desktop and Server Configuration: -There were multiple Microsoft security 
+updates as well as Microsoft SQL Server updates which should have been 
+deployed, however there is no evidence that these security patches were ever 
+installed. As described below, many of the software packages were out of date 
+and vulnerable to various methods of attack. 
+a) Computer initial configuration on 10/03/2018 13:08:11 :911 
+b) Computer final configuration of server software on 4/10/2019 
+c) Hard Drive not Encrypted at Rest 
+d) Microsoft SQL Server Database not protected with password. 
+e) Democracy Suite Ad min Passwords are reused and share passwords. 
+f) Antivirus is 4.5 years outdated 
+g) Windows updates are 3.86 years out of date. 
+h) When computer was last configured on 04/10/2019 the windows updates 
+were 2.11 years out of date. 
+i) User of computer uses a Super User Account. 
+15  076P-R000001368_00016 
+3. The hard drive was not encrypted at rest -which means that if hard drives are 
+removed or initially booted off an external USB drive the files are susceptible to 
+manipulation directly. An attacker is able to mount the hard drive because it is 
+unencrypted, allowing for the manipulation and replacement of any file on the 
+system. 
+4. The Microsoft SQL Server database files were not properly secured to allow 
+modifications of the database files. 
+5. The Democracy Suite Software user account logins and passwords are stored in 
+the unsecured database tables and the multiple Election System Administrator 
+accounts share the same password, which means that there are no audit trails 
+for vote changes, deletions, blank ballot voting, or batch vote alterations or 
+adjudication. 
+6. Antivirus definition is 1666 days old on 12/11/2020. Antrim County updates its 
+system with USB drives. USB drives are the most common vectors for injecting 
+malware into computer systems. The failure to properly update the antivirus 
+definition drastically increases the harm cause by malware from other machines 
+being transmitted to the voting system. 
+7. Windows Server Update Services (WSUS) Offline Update is used to enable 
+updates the computer -which is a package of files normally downloaded from 
+the internet but compiled into a program to put on a USB drive to manually 
+update server systems. 
+8. Failure to properly update the voting system demonstrates a significant and fatal 
+error in security and election integrity. 
+9. There are 15 additional updates that should have been installed on the server to 
+adhere to Microsoft Standards to fix known vulnerabilities. For the 4/10/2019 
+install, the most updated version of the update files would have been 03/13/2019 
+which is 11.6.1 which is 15 updates newer than 10.9.1 
+This means the updates installed were 2 years, 1 month, 13 days behind 
+the most current update at the time. This includes security updates and 
+fixes. This demonstrated a significant and fatal error in security and 
+election integrity. 
+• Wed 04/10/2019 10:34:33.14 -Info: Starting WSUS Offline Update (v. 
+10.9.1) 
+• Wed 04/10/2019 10:34:33.14 Info: Used path 
+"D:\WSUSOFFLINE1091_2012R2_W10\cmd\" on EMSSERVER (user: 
+EMSADMIN) 
+• Wed 04/10/2019 10:34:35.55 -Info: Medium build date: 03/10/2019 
+16  076P-R000001368_00017 
+• Found on c:\Windows\wsusofflineupdate.txt 
+• *WSUS Offline Update (v.10.9.1) was created on 01/29/2017 
+*WSUS information found here https://down!oad.wsusoffline.net/ 
+10. Super User Administrator account is the primary account used to operate the 
+Dominion Election Management System which is a major security risk. The 
+user logged in has the ability to make major changes to the system and install 
+software which means that there is no oversight to ensure appropriate 
+management controls -i.e. anyone who has access to the shared administrator 
+user names and passwords can make significant changes to the entire voting 
+system. The shared usernames and passwords mean that these changes can 
+be made in an anonymous fashion with no tracking or attribution. 
+J. ERROR RATES 
+1. We reviewed the Tabulation logs in their entirety for 11/6/2020. The election logs 
+for Antrim County consist of 15,676 total lines or events. 
+• Of the 15,676 there were a total of 10,667 critical errors/warnings or a 
+68.05% error rate. 
+• Most of the errors were related to configuration errors that could result in 
+overall tabulation errors or adjudication. These 11/6/2020 tabulation totals 
+were used as the official results. 
+2. For examples, there were 1,222 ballots reversed out of 1,491 total ballots cast, 
+thus resulting in an 81.96% rejection rate. Some of which were reversed due to 
+"Ballot's size exceeds maximum expected ballot size". 
+• According to the NCSL, Michigan requires testing by a federally accredited 
+laboratory for voting systems. In section 4.1.1 of the Voluntary Voting 
+Systems Guidelines (WSG) Accuracy Requirements a. All systems shall 
+achieve a report total error rate of no more than one in 125,000. 
+• https://www.eac.gov/sites/default/files/eac assets/1/28NVSG.1.1.V 
+OL.1.FINAL 1.pdf 
+• In section 4.1.3.2 Memory Stability of the WSG it states that Memory 
+devices used to retain election management data shall have 
+demonstrated error free data retention for a period of 22 months. 
+• In section 4.1.6.1 Paper-based System Processing Requirements sub­
+section a. of the WSG it states "The ability of the system to produce and 
+receive electronic signals from the scanning of the ballot, perform logical 
+and numerical operations upon these data, and reproduce the contents of 
+memory when required shall be sufficiently free of error to enable 
+17  076P-R000001368_00018 
+satisfaction of the system-level accuracy requirement indicated in 
+Subsection 4.1.1." 
+• These are not human errors; this is definitively related to the software and 
+software configurations resulting in error rates far beyond the thresholds 
+listed in the guidelines. 
+3. A high "error rate" in the election software (in this case 68.05%) reflects an 
+algorithm used that will weight one candidate greater than another (for instance, 
+weight a specific candidate at a 2/3 to approximately 1/3 ratio). In the logs we 
+identified that the RCV or Ranked Choice Voting Algorithm was enabled (see 
+image below from the Dominion manual). This allows the user to apply a 
+weighted numerical value to candidates and change the overall result. The 
+declaration of winners can be done on a basis of points, not votes. [Image 8]: 
+choice voting results are evaluated on a district per district basis and each 
+district has a set number of points (1.00). Elimination and declaration of 
+winners is done on basis of points, not votes. 
+Figure 11-3: RCV Profile screen 
+4. The Dominion software configuration logs in the Divert Options, shows that all 
+write-in ballots were flagged to be diverted automatically for adjudication. This 
+means that all write-in ballots were sent for "adjudication" by a poll worker or 
+election official to process the ballot based on voter "intent". Adjudication files 
+allow a computer operator to decide to whom to award those votes (or to trash 
+them). 
+5. In the logs all but two of the Override Options were enabled on these machines, 
+thus allowing any operator to change those votes. [Image 9]: 
+18  076P-R000001368_00019 
+6. 
+7. In the logs all but two of the Override Options were enabled on these machines, 
+thus allowing any operator to change those votes. This gives the system 
+operators carte blanche to adjudicate ballots, in this case 81.96% of the total cast 
+ballots with no audit trail or oversight. [Image 1 O]: 
+On 12/8/2020 Microsoft issued 58 security patches across 1 O+ products, some of 
+which were used for the election software machine, server and programs. Of the 
+58 security fixes 22, were patches to remote code execution (RCE) 
+vulnerabilities. [Image 11 ]: 
+19  076P-R000001368_00020 
+:::;.::,.-::,v, ·S::l :(•:::::.<:.:,-~· -:)~h->:i 
+le-.:~.» ·.: ,·,·h··-•.~ 
+~•~-:~ _:.~ ~:•;:'.:"?-:~{'. ~cu:~s. 
+_.':,A~·:~:~i.;,n 
+~.u,r, ,: '3i!~;:~:<r,c91:3::'!C: ~~~;,/4,:o::,;::":~ 
+>·l,,;,-,f'•·xu,~·· ·:•: l:3>:-:l:fi;:, ~:'!~:-::~~ 1:::im 
+!','Y,~~i~:P(' 1/:;;)"};:: »'f~:": ~ :fx1i~>": 
+i:::,:~:~i,::-
+8. We reviewed the Election Management System logs (Emslogger) in their 
+entirety from 9/19/2020 through 11/21/2020 for the Project: Antrim November 
+2020. There were configuration errors throughout the set-up, election and 
+tabulation of results. The last error for Central Lake Township, Precinct 1 
+occurred on 11/21/2020 at 14:35:11 System.Xml.XmlException 
+System.Xml.XmlException: The'' character, hexadecimal value 0x20, cannot be 
+included in a name. Bottom line is that this is a calibration that rejects the vote 
+(see picture below). [Image 12]: 
+20  076P-R000001368_00021 
+Notably 42 minutes earlier on Nov 21 2020 at 13:53:09 a user attempted to 
+zero out election results. ld:3168 Emslogger -There is no permission to {0} 
+-Project: User: Thread: 189. This is direct proof of an attempt to tamper 
+with evidence. 
+9. The Election Event Designer Log shows that Dominion lmageCast Precinct 
+Cards were programmed with updated new programming on 10/23/2020 and 
+again after the election on 11/05/2020. As previously mentioned, this violates the 
+HAVA safe harbor period. 
+Source: C:\Program Files\Dominion Voting Systems\Election Event 
+Designer\Log\lnfo.txt 
+• Dominion lmagecast Precinct Cards Programmed with 9/25/2020 
+programming on 09/29/2020, 09/30/2020, and 10/12/2020. 
+• Dominion lmagecast Precinct Cards Programmed with New Ballot 
+Programming dated 10/22/2020 on 10/23/2020 and after the election on 
+11/05/2020 
+Excerpt from 2020-11-05 showing "ProgramMemoryCard" commands. 
+21  076P-R000001368_00022 
+10. Analysis is ongoing and updated findings will be submitted as soon as possible. 
+A summary of the information collected is provided below. 
+10112/07/20 18:52:301 Indexing completed at Mon Dec 7 18:52:30 2020 
+12112/07/20 18:52:301 INDEX SUMMARY 
+12112/07/20 18:52:301 Files indexed: 159312 
+22  076P-R000001368_00023 
+12112/07/20 18:52:301 Files skipped: 64799 
+12112/07/20 18:52:301 Files filtered: 0 
+12112/07/20 18:52:301 Emails indexed: 0 
+12112/07/20 18:52:301 Unique words found: 5325413 
+12112/07/20 18:52:301 Variant words found: 3597634 
+12112/07/20 18:52:301 Total words found: 239446085 
+12112/07/20 18:52:301 Avg. unique words per page: 33.43 
+12112/07/20 18:52:301 Avg. words per page: 1503 
+12112/07/20 18:52:301 Peak physical memory used: 2949 MB 
+12112/07/20 18:52:301 Peak virtual memory used: 8784 MB 
+12112/07/20 18:52:301 Errors: 10149 
+12112/07/20 18:52:301 Total bytes scanned/downloaded: 1919289906 
+Dated: December 13, 2020 
+Russell Ramsland 
+23 

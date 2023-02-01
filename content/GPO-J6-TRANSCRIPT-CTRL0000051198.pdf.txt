@@ -1,0 +1,1432 @@
+1 
+2 
+3 
+4 SELECT COMMITTEE TO INVESTIGATE THE 
+5 JANUARY 6TH ATTACK ON THE U.S. CAPITOL, 
+6 U.S. HOUSE OF REPRESENTATIVES, 
+7 WASHINGTON, D.C. 
+8 
+9 
+10 
+11 DEPOSITION OF: ZAC MARTIN 
+12 
+13 
+14 
+15 Wednesday, March 9, 2022 
+16 
+17 
+18 
+19 Washington, D.C. 
+20 The deposition in the above matter was held via Webex, commencing at 12:36 
+21 p.m. 1  1 
+2 Appearances: 
+3 
+4 
+5 For the SELECT COMMITTEE TO INVESTIGATE 
+6 THE JANUARY 6TH ATTACK ON THE U.S. CAPITOL: 
+7 
+8 
+9 
+10 
+11 
+12 
+13 , STAFF ASSOCIATE 
+INVESTIGATIVE COUNSEL 
+CHIEF CLERK 
+, INVESTIGATIVE COUNSEL 
+14 For THE WITNESS: 
+15 
+16 Taylan Sumners 
+17 Teresa Funk 2  1 
+2 
+3 - So we'll go on the record at 12:36 p.m. 
+Good afternoon --or good morning. This is a transcribed interview of Zachary 
+4 Martin conducted by the House Select Committee to Investigate the January 6th Attack 
+5 on the United States Capitol pursuant to House resolution 503. 
+6 At this time, I'd ask the witness to please state your full name and spell your last 
+7 name for the record. 
+8 
+9 
+10 Mr. Martin. Zachary Martin, M-a-r-t-i-n. 
+Thank you. And hello, Ms. Sumners. 
+Ms. Sumners. Hi. I have a couple of questions. We have a few more people 3 
+11 on here from last time and it looks maybe some court reporters, so I'm just wanting to get 
+12 an idea of who we've got. There's a few more than with the Quicks, so I just want to 
+13 make sure I understand who everybody is and everything like that, if that's all right. 
+14 •■■• Sure. 
+15 So everyone --it's the same number of attorneys as last time, me 
+16 and - And rather than us taking notes, we just have a stenographer here that 
+17 will be taking down the statements from Mr. Martin here today. Same procedures, 
+18 nothing is being shared outside of the committee, not working with DOJ or anything like 
+19 that, except for the two exceptions that will go through. But this is just an 
+20 efficiency measure that we've been taking on the committee to make sure we're 
+21 accurately capturing what the witnesses are saying. 
+22 
+23 Ms. Sumners. And that's --but you guys didn't do that in the Quicks one, right? 
+I don't believe so. I can't remember actually. We've been 
+24 doing it for most of them, but I'm not sure. 
+25 Ms. Sumners. Okay. I think you guys just took notes in that one. Give me just  1 one second to get settled and talk to him really quick. 
+2 So we'll take a quick recess then at 12:37. 
+3 [Recess.] 
+4 
+5 Okay. So we can go back on the record at 12:42 p.m. Eastern Time. 
+Okay. So this will be a staff-led interview, and members may join, although I 
+6 don't see any on the call right now, but if they were to join, they are also able to ask 
+7 questions. 
+8 
+9 
+10 
+11 
+12 But I am an investigative counsel, and in the room with me today is 
+investigative counsel. 
+So at this time, could counsel please state your name for the record. 
+Ms. Sumners. Taylan Sumners. 
+- Thank you. And can you just confirm, just in case your paralegal 
+13 said anything on the record, that her name is Teresa Funk? 
+14 
+15 
+16 Ms. Sumners. Yes. 
+- Thank you very much. 
+There's an official reporter transcribing the record of this interview. Please wait 
+17 until each question is completed before you begin your response, and we will try to wait 
+18 until your response is complete before we ask our next question. The stenographer 4 
+19 cannot record nonverbal responses, such as shaking your head, so it is important that you 
+20 answer each question with an audible verbal response. And if I see you shaking your 
+21 head or nodding, I'll just note for the record and we'll keep going. 
+22 So we ask that you provide complete answers based on your best recollection. If 
+23 the question is not clear, just please ask for clarification. If you do not know the answer, 
+24 just simply say so. 
+25 So I'm going to go through a couple of important things about this transcribed  5 
+1 interview. First, it's important that you understand that this interview is voluntary. If 
+2 at any time you would like to stop speaking with us, that is your choice. Similarly, if at 
+3 any point you need to discuss something with your attorney in private, please let us know 
+4 and we will take a break so you can have that opportunity. 
+5 Second, this interview is not under oath, but because this is a formal congressional 
+6 investigation, you are obligated under Federal law to tell the truth, the same as if you 
+7 were speaking with the FBI or the Department of Justice. It is unlawful to deliberately 
+8 provide false information to Congress. And for this interview, providing false 
+9 information could result in criminal penalties for false statements. 
+10 Do you understand that, Mr. Martin? 
+11 
+12 
+13 Mr. Martin. Yes, I do. 
+- Thank you very much. 
+Third, you are not obligated to keep the fact of this interview and what we discuss 
+14 confidential. You are free to tell whomever you wish that you met with us, including the 
+15 prosecutor or judge in your case, or you can tell no one at all. That's really up to you. 
+16 Fourth, the select committee is separate and independent from the Department 
+17 of Justice. We have no involvement with the prosecutions, and DOJ is not a partner 
+18 with the select committee in its investigation. The select committee also is not a party 
+19 to your criminal case, and we are --it is not agreeing to submit anything on your behalf to 
+20 the judge, nor can we make any representation whether if you tell the judge that you met 
+21 with us, that the judge will be more favorable to you during sentencing. 
+22 Fifth, we have agreed with your attorney not to share the substance of what you 
+23 say with the Department of Justice prior to your sentencing. But there are two possible 
+24 exceptions: If you told us about evidence of a crime that we thought law enforcement 
+25 was unaware of or, if we had reason to believe you lied during this interview, then we  6 
+1 would be obligated to tell DOJ or another appropriate law enforcement agency. 
+2 And if you tell the judge that you met with us, please understand that may prompt 
+3 questions from the judge about what you said and whether it is consistent with your prior 
+4 statements and acceptance of responsibility. And if the judge starts asking questions, 
+5 we may get asked to respond and divulge what you said. 
+6 Logistically, you know, if you need any breaks or if you need to speak with 
+7 Ms. Sumners about something, just let us know, happy to take a pause and move on from 
+8 there. 
+9 And just to reiterate because is also on the call, if both of us start 
+10 asking a question at the same time, or if a member joins and multiple people are asking 
+11 and you can't hear us for whatever reason, just say so. We'll stop. I'll repeat the 
+12 question. And if you don't understand, please just ask me to clarify because that 
+13 happens from time to time. 
+14 Does that all make sense? 
+15 
+16 
+17 
+18 
+19 Mr. Martin. Yep. 
+- Okay. Thank you. 
+EXAMINATION 
+BY 
+Q So let's start with a little bit of your background. How old are you, 
+20 Mr. Martin? 
+21 A I was born in 1976, so 47, 45? I don't know. I'm bad with numbers, but, 
+22 yeah, I was born in 1976. 
+23 
+24 
+25 Q 
+A 
+Q What month and what date in 1976? 
+February 18th. 
+Okay. So 46 then. Where do you currently live?  1 
+2 
+3 
+4 A I live in --I have a Rogersville, Missouri address. I live in rural Rogersville. 
+Q Okay. And have you --how long have you lived there? 
+A 16 years. 
+Q Okay. Where did you grow up before --or where did you live before that? 
+5 I'm sorry. 7 
+6 A Before that I was kind of traveling around in an RV. I kind of like lived in an 
+7 RV and just moved from place to place. My oldest daughter is 16 years old today 
+8 actually, and that's when we --when I --when we were pregnant with my first kid we 
+9 moved to Rogersville, and actually, like, bought a house and, you know, settled down. 
+10 So before that I --I traveled. I went from --I mean, I lived out in California for a while. 
+11 I lived in Colorado for a while. 
+12 
+13 
+14 
+15 
+16 
+17 Q Okay. 
+A Yeah, just kind of traveled around in an RV basically. 
+Q Thank you. And happy birthday to your daughter. 
+A Thanks. 
+Q So, well, what is your educational background? 
+A I don't really have any college --I don't have any college education. I have 
+18 a GED, and that's really the, I mean, the extent of it. You know, I have some --I've done 
+19 a lot of --I've had a lot of different jobs, so, I mean, I consider that part of my education --
+20 
+21 
+22 
+23 Q Okay. 
+A --but, yeah, that's --basically GED and that's about it. 
+Q So what is your current job? 
+A My current job is I'm --I have an event property. I do like weddings and 
+24 events, festivals, gatherings, school dances, you know. I have a barn and we do --we 
+25 host whatever kind of stuff they do there. I also have a disc golf course out there.  8 
+1 That's just basically a, you know --it's a donation thing. It's a private course, but, you 
+2 know, it's not really part of the business, but people come out and play and if they want 
+3 to donate something they can, so --
+4 Q It sounds like your daughter will have a lot of fun places to have our 16th 
+5 birthday party. 
+6 A Oh, yeah. Yeah. She's got --well, they're going to Eureka Springs for 
+7 the --for her, I guess, birthday weekend, so that's going to be cool. 
+8 Q Well, thank you for that background information. We'll move on now to 
+9 talk about the lead-up to January 6th. So this is going to be --these next set of 
+10 questions are just to orient you to like President --former President Trump's first term, so 
+11 really 2016 when he gets elected until before the November 2020 election. So in that 
+12 timeframe, what would you say your level of political engagement was? 
+13 A Well, the first full year of Trump's --I actually voted for Obama. My 
+14 mom --my mom was still alive. You know, she was --my mom was hard-core 
+15 Republican, conservative, whatever. And so I was like --I was the opposite. And so 
+16 this was like before, you know, like basically 2016 when all that was going down. I was 
+17 totally against Trump. I --1 did not --1 was like everybody else. I, you know, you know, 
+18 whatever, just I was like everybody else. I didn't like him. 
+19 And then, you know, I mean, I didn't like him for a long time and it took me a while 
+20 to actually like --the whole Russian collusion thing and all that, I started watching some of 
+21 that and started paying attention to it, and it just kind of like --it was just annoying and it 
+22 just seemed like something was off and, you know, so I just decided to give Trump a 
+23 chance and actually listen to him. 
+24 This was probably like a year or so into his --I believe it might have been like his 
+25 first --maybe the second State of the Union, but that's what I listened to. And after I  9 
+1 listened to that, I was like --I was like, I kind of think this guy actually cares about this 
+2 country. I started to change my opinion. 
+3 And then once I realized that --what had actually been happening, that everybody 
+4 had been lying about everything, at least in my opinion, I mean, it just --it just put me in a 
+5 political --you know, it just --it motivated me to sort of, you know, stand for what I now 
+6 believed in, which was, you know, our country. And I was actually proud of America and 
+7 I was proud to be American, versus before, I was like the exact opposite. Really, I was 
+8 like arguing with people, you know. I'd go out and like argue with people, and so --
+9 Q Thank you, Mr. Martin. I appreciate the background on the political views, 
+10 but --so the specific question was more about how engaged you were. So I'll try to take 
+11 what I get --what I'm gathering, it sounds like you got more politically engaged as 
+12 President Trump's term wore on? 
+13 A Yeah, absolutely. Like as soon as I went to --I mean, as soon as I switched 
+14 sides, I guess, I was pretty heavily --I was a lot heavier politically engaged for sure. 
+15 Q Okay. Thank you very much. So how --I heard you mention listening to 
+16 President Trump's State of the Union, so direct source. Were you also watching any 
+17 news at the time? 
+18 A No, you know, I really didn't pay a whole lot of attention to the news at the 
+19 time, but it was all over with the, you know, with the whole Russian collusion thing. And 
+20 so, I mean, I couldn't help, because everywhere I went and everywhere, it was just like 
+21 that's what they were talking about. So I wasn't really --I didn't really watch a whole lot 
+22 of news. 
+23 Q Okay. What would you say your primary source of political information 
+24 was? 
+25 A I mean, before --before that, before I switched sides, I mean, I would have  10 
+1 to say it would have to be the news, it would have to be television and like NPR, you 
+2 know, radio, NPR, BBC. I listened to NPR a lot back then, so, I mean, a lot, you know, of 
+3 that. I wasn't a big TV person, but I listened to the radio quite a bit. 
+4 Q And after you, for lack of a better phrase, switched sides or began to support 
+5 President Trump, did you continue to listen to NPR or did you listen to other radio? 
+6 A Yeah, I pretty much --I pretty much got the --I got the clue. I figured out 
+7 that the mainstream media was pretty much not trustworthy at that point in time, so, I 
+8 mean, that included the radio and everything. So I started to look for other sources of 
+9 news. 
+10 Q Okay. And did you look --I'm going to rattle off some websites, and I'm 
+11 basically just going to ask for each one if that's where you went to find political news. 
+12 So did you go to Facebook? 
+13 
+14 
+15 A Yep, I was definitely on Facebook. 
+Q Okay. Parler? 
+A I was on barely, hardly. I mean, Parler didn't work out very well, I don't 
+16 think, so --but, yeah, not very much. 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 Q 
+A Reddit? 
+No. 
+Q All right. Snapchat? 
+A No. 
+Q Telegram? 
+A Not --not until just like the last --just recently, you know, not that long ago. 
+Q So not during the time period we --
+A Yeah. Yeah. 
+Q Twitter?  11 
+1 A I mean, I really --I mean, it was pretty much just Facebook honestly. Like 
+2 Twitter, no. I mean, I think I --I don't remember when I started to get on Twitter, but, I 
+3 mean, I wasn't on it very much. 
+4 Q So fair to say Twitter, you might have had an account but you didn't really 
+5 use it? 
+6 A Yeah, and I definitely never posted anything. If I used it, it was just to, like, 
+7 read, you know, get information. 
+8 
+9 
+10 
+11 Q 
+A 
+Q 
+A Sure. And only a couple more. The Donald.Win? 
+No, no. 
+How about 4chan? 
+I wasn't aware of 4chan. I never really got on there. I mean, I saw posts 
+12 from 4chan, you know, from like people that would make, you know, YouTube videos 
+13 back then before they got banned from YouTube, but yeah. So, I mean, I was aware of 
+14 4chan, but I never physically personally got on 4chan. 
+15 
+16 Q 
+A So did you see 4chan things on YouTube? 
+I saw people like, you know --you're probably talking about, you know --I'm 
+17 sure you're talking about the Q posts and that kind of thing. So there was people that 
+18 were, you know, going through that and they were talking about that kind of stuff on 
+19 YouTube, you know. And they were just sort of decoding what does this mean, you 
+20 know, what --you know, so, yeah. 
+21 
+22 Q 
+A So did you use Facebook and YouTube more than these other sites? 
+Yeah, definitely --basically that's it. I mean, Facebook was it. I mean, so 
+23 that was --that was pretty much my main thing, but --
+24 Q And were you searching --actively searching out news or did it come 
+25 through to you, you know, on the news feed?  12 
+1 A Well, no, I mean, I wasn't really actively searching. I didn't mostly just 
+2 because of the links, you know, just type of stuff I was looking at, it kind of just came to 
+3 me basically. And I wasn't --I mean, I didn't really have a whole lot of different news 
+4 sources. I'm just trying to remember, like, who I listened to back then, because, I mean, 
+5 it's changed now. 
+6 But, I mean, there was a few different, you know, IPOT, I-P-O-T, 1776, a couple 
+7 different --you know, there were VouTubers back then, and they were --you know, they 
+8 just basically did investigative stories, you know, and put a bunch of stuff together, and 
+9 then put their thing out, and was, like, this is what we think, and almost all those people 
+10 were very do your own research, you know, Don't take my word for it, you know, 
+11 make --the whole thing about all this was teaching us to do our own research and to not 
+12 take your word for it. 
+13 So, I mean, I would Google stuff, you know, but I really, you know, I basically just 
+14 talked to other people physically like, you know, whether through Facebook or, you 
+15 know, usually just local, local people from around here, you know. 
+16 Q Got it. And do you remember any of the other names of the channels or 
+17 the people? 
+18 A Sure. My favorite ones back then, I mean, I love Amazing Polly. She 
+19 was --she's really cool. 
+20 
+21 Q 
+A Is that P-a-u-1-i-e? 
+P --no, P-o-1-1-y, Amazing Polly, yeah. Actually, who was back then? 
+22 Those were my --I mean, I don't know. I'll come up with some other ones. 
+23 
+24 
+25 Q Sure. 
+A I can't think of them right now, but --
+Q That's okay.  A I can give you the list of the ones I currently listen to, if you want. 1 
+2 Q We'll get there, but thank you. So did you follow President Trump on 
+3 Face book? 13 
+4 A Yeah, I mean, I would say, I mean, if he --1 don't really remember him being 
+5 very active on Facebook, like actual --actually President Trump. But I was definitely 
+6 along --you know, I followed people, and I was --I would join a group that was supporting 
+7 of Trump for sure. 
+8 Q Okay. So let's move a little bit to after the election. So immediately after 
+9 the November 2020 election, did you believe that the election had been stolen? 
+10 
+11 
+12 
+13 but --
+14 A Yes, yes, I did. 
+Q And what gave you --what made you believe that? 
+A Well, I don't know how to put all --I mean, that's a big --there's a lot to that, 
+Q Well, let's start with like who were you following that gave you information 
+15 to believe that the election had been stolen? 
+16 A Well, okay, for one thing, I mean, it was plainly obvious to me that, you 
+17 know, Biden didn't campaign, and if he did campaign, like I don't think anybody showed 
+18 up. And if Trump threw a rally, it was like hundreds of thousands of people. So like 
+19 that --that right there was like night and day for me. It's like, there's no way. 
+20 I mean, Biden had lost. He had run for President two previous times and not 
+21 made it, but then this time he magically got more votes in the history of America? 
+22 mean, nothing made sense to me. Nothing made sense. It was just all to me plainly 
+23 obvious that, you know, the bellwether counties, I mean, that's never happened. 
+24 Nobody's ever won that many bellwether counties and lost the election before. There's 
+25 so many different things, I mean, I could just go on and on about that. I mean, that's  14 
+1 why I didn't think that the election was legit. 
+2 Q So you had --fair to say you had strong views about it. And it sounds like, 
+3 and correct me if I'm wrong, so were some of these ideas percolating before the 2020 
+4 election? 
+5 A I mean, I pretty much assumed that like Trump was going to win for sure, 
+6 yeah. I mean, I thought he was going to win. I think everybody thought he was going 
+7 to win. There was no possible way that Biden was going to win the election, so, yeah, I 
+8 mean, those ideas were definitely percolating before that. 
+9 Q Do you remember seeing messages by former President Trump or people in 
+10 groups that you were in talking about these ideas that you're mentioning, you know, 
+11 Bide n's not campaigning or Trump's rallies have hundreds of thousands of people, were 
+12 you seeing on that online beforehand? 
+13 A Yeah, that's all over --yeah, that was all over, you know, he wasn't 
+14 campaigning. I mean, he was hiding in his basement, yeah. 
+15 Q Did you ever --
+16 A I don't know. I mean, it was everywhere. I mean, that was just --I mean, 
+17 that was in my sleep so, you know, it's like that was just common knowledge. 
+18 Q So you mentioned earlier that --and I think this might be --you were 
+19 referencing Q that taught you to do your own research. Did you ever check the veracity 
+20 of those claims? 
+21 
+22 A 
+Q The veracity of what claims? 
+That Biden didn't campaign and that President Trump had hundreds of 
+23 thousands of people at his rallies? 
+24 A I mean, I don't --I don't know if I understand that question, but, no, I 
+25 never --I mean, I didn't need to check --I didn't need to check that out. I mean, that  15 
+1 was just --that was just right in my --I mean, that was just obvious. That wasn't 
+2 anything I needed to research. I mean, that was --I mean, yeah. I didn't check the 
+3 veracity of the claims. I don't know about the claims, what claims you're talking about, 
+4 but --
+5 
+6 
+7 or --
+8 Q 
+A 
+Q Well, I'm just saying --
+If you're talking about Q posts that claimed that he wasn't doing his research 
+No, no, Mr. Martin. I'm just saying you stated these, what you call to be 
+9 facts. So I was asking you if you verified them in any way? 
+10 A No, no, I didn't --that's just my opinion. I didn't --I'm saying my opinion 
+11 and I believe that everybody else's opinion probably too, at least in my realm of people, 
+12 was that Biden was not campaigning and that he couldn't draw a crowd even if he wanted 
+13 to. Even if he was campaigning, it was like a bunch of empty circles in a basketball 
+14 court. 
+15 Q So given your strong views about the election, following the election and 
+16 before January 6th, did you participate in any sort of rallies or any sort of, you know, 
+17 political activity that alleged --about alleged voter fraud? 
+18 
+19 
+20 A 
+Q 
+A No. No, I didn't. 
+No. Were you participating in on line chats or groups? 
+No. Basically all I did was Facebook, you know, and I would just --I would 
+21 find stuff, and I would repost it basically on Facebook, so, you know, basically arguing 
+22 with a bunch of my old friends that I used to have that --before I switched sides, you 
+23 know. Like they're calling me racist and meth head and all kinds of stuff. I mean, I was 
+24 just trying to convince --to show people what I thought was actually happening, what I 
+25 thought was the truth. And that's basically --and it was all on Facebook. I really didn't  1 go anywhere else besides Facebook at the time. 
+2 
+3 Q And at the time, was Q still an active community? 
+A Yeah, yeah, yeah. I mean, they stopped --I think they stopped like, you 16 
+4 know, before the 2020 election. I don't remember exactly when the post stopped going, 
+5 but it seems like almost up until before --right, you know, the election. 
+6 Q Great. And I know you said you didn't attend any political rallies, so just for 
+7 the record, that you did not attend the November 14, 2020, or December 12, 2020, rallies 
+8 in Washington, D.C. to --
+9 
+10 
+11 
+12 A No, I did not. 
+Q Okay. Do you remember hearing about those rallies on Facebook? 
+A 
+Q I don't, actually. 
+Understood. And also between --so after the election and before 
+13 January 6th, did you make any political donations to groups that were challenging the 
+14 2020 election results? 
+15 
+16 
+17 A I did not. 
+Q Great. Thank you very much. 
+And now we're going to move sort of into January 6th. Do you remember really 
+18 like what made you want to go to Washington, D.C.? 
+19 A Not specifically, but, you know, it was just --you know, I just --it --Trump, 
+20 you know, the --everybody was like we've got to go show that we support, you know, 
+21 and just show our faces and, you know, this is a thing. It was --we were called to show 
+22 up and show our support, you know, and just show that we think --oh, sorry --just show 
+23 that we think that, you know, that the election was stolen and, you know, hopefully 
+24 somebody could do something. 
+25 Q So when you say you were called, who called you?  1 A That's just kind of like a --it's a loose term sort of. It was just --we were 
+2 just called as patriots to show up and show our support. I mean, I --it's a loose term. 
+3 don't know specifically who called, you know, but like there's a movie that was made 
+4 called "The Called," and it was about --it's about, you know, making that trip to D.C. on 
+5 January 6th. 
+6 
+7 
+8 Q Okay. But --
+A 
+Q It's called "The Called," so --
+1 hear you. You mentioned President Trump, were --did his 17 
+9 December 19th tweet calling for people to gather in Washington, D.C. on January 6th for 
+10 a, quote/unquote, "wild protest," did that have any influence on your wanting to go to 
+11 D.C.? 
+12 A I don't --I don't know that it did. I'd say, I mean, it probably did. I mean, 
+13 you know, it's like, I mean, but I --not heavily, no. I mean, I was probably 
+14 already --either --I'd either already made my decision that I wasn't going to go or not, or 
+15 I was. You know, I was or wasn't going to go, but --
+16 
+17 
+18 Q So what --
+A So --
+Q You mentioned called. Why did you think you had to be in D.C. on 
+19 January 6th? 
+20 A Just to show my support as a patriot for America and that I believe that the 
+21 election was, you know --the election was stolen, and I believe that. And I just wanted 
+22 to show that I just want to be a person, a face that was there, standing with all the other 
+23 people that were there saying that, Hey, we're all in this together. We all believe that 
+24 this happened, so --
+25 Q So I'll be more direct. I'm sorry for not being clear. What was special  18 
+1 about the date, January 6th? Like why that date? Why not January 7th or 5th or 4th? 
+2 
+3 A 
+Q Oh, I have no idea. I didn't have anything special about the date. 
+Okay. So what made you realize that January 6th would be the date that 
+4 people would gather in Washington, D.C.? 
+5 A I mean, I was just --this is another thing, it was just common knowledge. 
+6 Everybody --everybody was talking about that this was --are we going to D.C. on the 6th 
+7 or what, you know, this is our last --last chance to do anything, if anything, just show our 
+8 support. I mean --
+9 Q But I think --
+10 
+11 A 
+Q 
+12 support? 
+13 A I don't know why the 6th was the day. I have no idea, but --
+So why did --where did you get the idea it was the last chance to show 
+Because, I mean, the election was, you know --the election had been stolen, 
+14 and we were just called to --I mean, I don't know why it's the last chance or whatever, 
+15 but I just showed up there to show my support, that I believe that the election was 
+16 stolen, and that, you know, we --we're, as people of the United States, we believe this. 
+17 So, I mean, that's --I don't know, man. I don't know how to exactly answer your 
+18 question on that one, but --
+19 Q That's okay if you don't know. So let's talk about the groups that you were 
+20 paying attention to on line at this point. Do you remember which Face book groups you 
+21 were in or actively engaging with? 
+22 A I really wasn't a group person back then. I mean, I was probably --I 
+23 probably followed a couple groups. I don't remember exactly. None of them were big. 
+24 I never met up with any of them. I never really had conversations with them. Basically 
+25 they were just groups that I would like grab memes and information from and, you know,  19 
+1 share it on Facebook. 
+2 I wasn't --I wasn't heavily involved in any political groups or activities. I never 
+3 went to --like I said earlier, I've never went to any kind of group event, rally, or protest or 
+4 anything. I never did that. I basically just stayed on Facebook. I'd get up in the 
+5 morning, I'd go through my Face book, and I would find stuff that I thought was truthful, 
+6 and try and persuade friends of mine that didn't see it to, you know, Hey, this is my --you 
+7 might just question this, you know. But so that really was the extent of my group, you 
+8 know --like I didn't go anywhere beyond Facebook basically. 
+9 Q Got it. Do you remember specific --I'm not a big Facebook user --like 
+10 things like hashtags or big posts that you reposted? 
+11 A No, not really. I really don't remember that stuff. I mean, I'm sorry, I just 
+12 don't. 
+13 Q Do you remember specific accounts? I know you mentioned two earlier. 
+14 Do you remember any others from that time period that you were reposting more often 
+15 than others? 
+16 
+17 
+18 A 
+Q 
+A Man, I'm really thinking hard here. 
+It's okay. 
+Man, I will. I mean, I should be able to remember. I mean, and they're 
+19 just like VouTube people that were, you know --that were just doing stuff, you know, 
+20 putting out little VouTube videos, and I can't --I just can't remember who they were right 
+21 now. 
+22 Q Okay. Well, if they come to you later and you want to let us know, we can 
+23 always talk with you another time about it. 
+24 
+25 A 
+Q Okay. 
+So I guess then, besides President Trump who you say influenced you to  20 
+1 come to D.C., were there any other elected officials that you heard about who wanted 
+2 you to come to Washington, D.C.? 
+No, no, I don't --I don't remember specifically anybody. 3 
+4 A 
+Q Okay. And let me --and I'll just ask this more clearly for the record, did you 
+5 think President Trump wanted patriots to show up in Washington, D.C. on January 6th? 
+6 
+7 
+8 A 
+Q 
+A Yes. 
+And what did you think President Trump wanted the patriots to do? 
+Just show support for America and our freedom and our God-given rights. 
+9 mean, that's what we felt --we felt like our rights were being taken away from us, so --
+10 
+11 Q 
+A Because of the election? 
+That's what he wanted us to do was to show up and show support for 
+12 America and what America stands for, the Constitution, and our rights, and that's --that's 
+13 it. I mean, that's all I knew anyways. 
+14 Q Right. But when you say show support for things that are getting trampled, 
+15 was it the 2020 election that trampled your rights or the Constitution? I'm just trying to 
+16 figure out what --
+17 
+18 A 
+Q Trampled, I don't remember saying trampled anything. 
+Whatever the word you used, you said violated or you wanted to show 
+19 support for rights and the Constitution. 
+20 
+21 
+22 A 
+Q 
+A Okay. 
+But why did you feel the need to show support? 
+Because we felt that our rights were being taken away, our freedoms were 
+23 being taken away. I mean, our election --we believe that the election was stolen, so, 
+24 like, that's why. 
+25 Q Thank you. That was actually --that was my question, so I appreciate the  21 
+1 answer. 
+2 So let's talk about heading to D.C. When did you leave for Washington, D.C.? 
+3 A I believe the 5th, I believe. It might have been the 4th, I think. We drove 
+4 straight there, so --I mean, we didn't stop anywhere, so I think we got there the night of 
+5 the 5th. I think we left like super early in the morning, if I remember right, but I could 
+6 be wrong. I'm actually horrible with time. Time is like --it just doesn't work well. 
+7 Like I just can't remember time very well, but just for future questions. 
+8 
+9 
+10 
+11 
+12 
+13 
+14 Q That's fine. Who did you travel with? 
+A Who did I travel with? 
+Q Yes. 
+A Of course, the Quick brothers and my friend Kari Kelly. 
+Q Is that Stephen and Michael Quick? 
+A Yes. 
+Q Do you remember Kelly ever calling it a caravan that you were driving? 
+15 Did --do you remember Kelly ever calling it a caravan whenever you were driving? 
+16 
+17 A No. No, I don't remember that. 
+Q That's fine. Do you remember where you stayed in Washington, D.C. or if 
+18 you stayed in the District at all? 
+19 A Yeah, we stayed just out of town, you know, maybe 30 minutes away. And 
+20 I don't remember the name of the town, but I --you could probably remind me, and then 
+21 I would remember it. It was a historic town that I found out later. 
+22 Q That's okay. That's totally fine. Just so --in your sense of what would 
+23 happen on January 6th, you arrive on January 5th. Did you think there would be any 
+24 violence on January 6th? 
+25 A No. I mean, I --I didn't. I really wasn't expecting it. I didn't think there  22 
+1 was going to be any violence at all actually. I mean, we didn't know what was going to 
+2 happen, you know. It was going to be a big event. We didn't know if there was going 
+3 to be some sort of, you know, anti-pro --you know, protests against us, but, I mean, 
+4 I --we weren't expecting it. I wasn't worried about it. I wasn't like --I wasn't worried 
+5 about violence in any way. 
+6 Q Did you --so you were paying attention to a lot of Q posts at this time. Do 
+7 you remember seeing any Q posts about violence on January 6th? 
+8 A No. No, I don't remember. I actually don't think there's any Q posts 
+9 about violence anywhere. 
+10 
+11 Q 
+A What about Q posts that talk about a storm coming on January 6th? 
+I don't know. I don't remember specifically. I do know that the word 
+12 "storm" is used in Q posts, but I don't remember specifically anything about January 6th. 
+13 Q So you don't remember a post talking about the importance of January 6th? 
+14 A I don't remember that actually. And I wasn't like a huge --I mean, I didn't, 
+15 like, follow the Q posts like every single day or anything. I mean, I really didn't even 
+16 follow them. I never personally even looked them up. I never got on the board and 
+17 looked at them. I always just would hear about them through, you know, other people 
+18 so --that looked it up and were talking about it. So I'm not like super --I'm not Mister, 
+19 you know, follow the Q thing. I'm not writing a book on it or anything. I don't really 
+20 know a whole much --you know, a bunch about it, but --
+21 
+22 Q 
+A I have to ask, the hat you're wearing, what is it? 
+I believe it's Don Q, and I believe that's Don Quixote. A friend of mine gave 
+23 it to me. He bought it at an antique store, something like that, or like a thrift store or 
+24 something, so --I mean, I don't know. 
+25 Q Okay. Are you aware that the Q on your hat is quite similar to the Q used  23 
+1 in QAnon posts? 
+2 A Well, the Q--Qs are Qs. I mean, so every Q is similar to a Q used in the 
+3 QAnon post, right? 
+Q That's fine. So on January 6th did you attend the rally at the Ellipse? 
+A Yes, yep. 4 
+5 
+6 Ms. Sumners. And could we just take a minute really quick? Sorry. I need to 
+7 run to the restroom. 
+8 
+9 
+10 
+11 
+12 
+13 
+14 Yeah. While go on recess for 5 minutes or so at 1:20 p.m. 
+Ms. Sumners. That's fine. Thank you. 
+- Thanks. 
+[Recess.] 
+BY 
+Q Let's go back on the record at 1:26 p.m. 
+Okay. So I think right before we took a break, Mr. Martin, I was asking if you had 
+15 attended the rally and you said yes. Do you remember what time that you all got there? 
+16 A I mean, not exactly, but I would say it's probably somewhere around like 
+17 9:00 a.m., something like that. 
+18 
+19 
+20 Q So pretty early? 
+A Yeah, pretty early. 
+Q Do you remember Kelly posting at 5:37 a.m., Good morning, America. We 
+21 are leaving our room and headed to the action? 
+22 A I mean, I don't know. I don't know that I remember that specifically. 
+23 mean, you saying that, yes, that does seem like she did post something like that, but I 
+24 don't remember it specifically. 
+25 Q That's fine. But do you have any sense of what she meant by the action?  24 
+1 A I have no idea what, you know. I'm assuming the millions of people that 
+2 were there. I mean, that's some action. 
+3 Q Did you --do you --did you think at the time there were millions of people 
+4 there? 
+5 A I thought there was going to be a whole lot of people there. I didn't know 
+6 how many people were going to be there, but I knew there was going to be a lot of 
+7 people. 
+8 
+9 Q 
+A So what speakers were you excited to see at the rally? 
+I actually don't even --I didn't even look that up. I didn't even know who 
+10 was going to speak honestly. So I guess none of them, besides Trump. I mean, I kind 
+11 of figured Trump was going to --you know, for sure was going to say something and 
+12 then --I mean, I really didn't even look into it honestly. I just --I was just showing up to 
+13 support, you know. 
+14 
+15 
+16 
+17 
+18 Q 
+A 
+Q 
+A 
+Q I guess, but you knew President Trump would speak? 
+Yeah, yep. 
+All right. And did you hear President Trump speak? 
+Yes, yep. 
+Great. Do you remember him saying something, and I'm going to quote 
+19 him here: "And if you don't fight like hell, you're not going to have a country anymore?" 
+20 
+21 
+22 
+23 
+24 A 
+Q 
+A 
+Q 
+A Yeah. Yeah, I remember him saying something like that. 
+Okay. Do you remember how you took it at the time? 
+No, not really. I mean --
+Okay. But at the time --
+1 mean, there was a whole lot of --there was a whole lot going on there. 
+25 Sorry, I didn't mean to interrupt. But, I mean, I don't think he just stopped, you know.  25 
+1 I'm pretty sure that there was --he continued on with the speech and, I mean, so --
+2 Q He did, but I'm asking you about the specific sentence and how you took it to 
+3 mean. So if you remember other things about his speech that influenced how you took 
+4 it to mean, that's all I'm interested in hearing. 
+5 A Right. Well, I mean, you know, I --I assume it meant, you know, we have to 
+6 get out and we have to vote and we have to, you know, show our support for the country, 
+7 yes. That's what fighting means, you know. We've got to go out and lawfully do the 
+8 right thing and show our support. 
+9 
+10 Q 
+A Show your support. Can I ask, show your support for whom? 
+America, the country, our freedom. That's what I'm showing support for. 
+11 It's not a specific person. So Trump --Trump really is not the reason that we were there. 
+12 Trump was the President at the time when the election was stolen, but that's not why we 
+13 were there. We were there for the Constitution. We were there for America. We 
+14 were there for our freedom. We were there for our rights. We were there because 
+15 we believe that the election had been fraud --was fraudulent. 
+16 Q were you going to ask something? 
+17 He answered my question with the last part of his answer. 
+18 That's all. 
+19 BY 
+20 Q Got it. 
+21 So if you weren't exactly there to see President Trump, you were there to protect 
+22 the Constitution, but do you remember President Trump saying anything about Vice 
+23 President Pence? 
+24 A I believe he said something along the lines he has the opportunity to 
+25 probably to do something, you know. He could --you know, I don't remember exactly  26 
+1 specifically what he said, but he did say that, you know, hopefully he does the right thing, 
+2 is what --
+3 
+4 
+5 
+6 thing? 
+7 Q Okay. 
+A --you know. 
+Q And do you remember knowing what President Trump meant by do the right 
+A Not --not really. I really didn't understand how all that worked, but, I 
+8 mean --at the time I didn't --I didn't really know what that meant, no. I'll just leave it at 
+9 that. 
+10 
+11 Q Okay. But --
+A I wasn't 100 percent sure exactly how that process worked as far as, you 
+12 know, what went on. 
+13 Q Would you --were the people around you talking about what Vice President 
+14 Pence could do? 
+15 
+16 A I don't remember that, no. I don't think so. 
+Q You don't remember hearing anything about the certification of the 2020 
+17 election? 
+18 A Right, yeah. I mean, I can --yeah. I mean, I guess he would --he --I don't 
+19 exactly know, but he --I guess he was --had the opportunity to at least put it off for a 
+20 little bit to do some more investigation onto the election. So as far as certifying it that 
+21 day, I guess, yes, that was --I --as far as I understand, that's what I understood at that 
+22 point in time. I --you know. 
+23 Q Okay. Is it --so let me just try to clarify. At the time, it was your 
+24 understanding that Vice President Pence had some authority to delay the certification of 
+25 the 2020 election?  1 
+2 
+3 
+4 
+5 A 
+Q I did think that, yes. 
+Okay. Are you --
+Can I ask a quick follow-up, if you don't mind? 
+-Yeah. 
+What were your views? I guess, how did you view Vice 
+6 President Pence on January 6th? 27 
+7 Mr. Martin. I --I mean, I definitely didn't really --I don't think I trusted him, you 
+8 know, I don't think I trusted him. I didn't --I wasn't sure that he was going to do the 
+9 right thing, so I mean --
+10 BY 
+11 
+12 Q 
+A What in your mind was the right thing? 
+Like I said, I don't really understand the process, so the right thing --I don't 
+13 know exactly what that --how to answer that question. But the right thing would've 
+14 been to, you know, put it off and do some more, you know, like investigations on the 
+15 election. I still --I mean, I still think that there should be more investigation. 
+16 Q So let me ask a follow-up then. Going back to what you said, you were 
+17 there to support the Constitution and you like to investigate and do your own research, 
+18 where were you getting the idea that Vice President Pence had a constitutional power 
+19 and right to delay the certification of the electoral count? 
+20 A I don't actually remember where I got that information. And like I said, I 
+21 don't really know --I didn't really understand the process at the time, so, I mean --
+22 
+23 Q 
+A So let me ask a more direct question. Why did you think that was true? 
+Just because that was what the word around was. That's what people 
+24 were saying, you know. It's like, I don't know. I didn't really look into that. I mean, I 
+25 wasn't expecting --I wasn't expecting anything to happen, honestly. I didn't think it was  28 
+1 going to go through. I really thought that it was all set in stone, that if they were going 
+2 to push it through it was --that's the way it was going to be. 
+3 I didn't think Pence was going to do anything. I didn't think he was going to do 
+4 whatever it is he could do to put it off. So I don't know where I got that information. 
+5 don't know where, you know, where specifically I heard that from, but it was just sort of 
+6 whatever, the word on the street. 
+7 Q But why did you take the word on the street to be true? Is it because it 
+8 came from President Trump's mouth at that time? 
+9 A I actually didn't take it to be true. I honestly didn't understand the whole 
+10 process. I mean, all I --I didn't think anything was going to happen. I didn't think 
+11 Pence was going to do the right thing. I didn't think he was going to do the wrong thing. 
+12 I didn't --I didn't think anything. I was just there to show my support. I thought the 
+13 election was going to get certified just like it was. I didn't think anybody was going to 
+14 stop anything, anything was going to happen. 
+15 Q So were you aware that day when --were you aware --sounds like you were 
+16 aware that the election was getting certified on January 6th? 
+17 A That's what I thought was going to happen. I mean --
+18 Q Was that --and was that a reason you went to D.C. on January 6th to protest 
+19 the certification of the election? 
+20 A No. I just went to show my support for America and just be another 
+21 person, just another human there to show my support for our American freedom. 
+22 That's all, the only reason I went there. 
+23 Q Okay. Do you remember President Trump talking about marching to the 
+24 Capitol during his speech? 
+25 A Yeah. Yeah, he's --yep.  1 
+2 Q 
+A 29 
+And had you planned to march to the Capitol that day? 
+I had not planned to go to the Capitol. We were --we were not --we were 
+3 freezing for one thing. I was --I was freezing. My feet were wet. It was --it was a 
+4 bad --it was really cold. So we were going to leave immediately afterwards. After the 
+5 speech we were going to leave and go back to the hotel room. 
+6 Q All right. And I think, because we talked to the Quicks, can you explain to 
+7 me, then, why you did go to the Capitol? 
+8 A Yes. So like Kari had to go --she had to go to the bathroom at one point. 
+9 And she's like, Well, I'm going to go. And so we were like, Well, we are never going to 
+10 see her again, you know, like because there's a million people here. So she left 
+11 and --but we made a --we talked and we were like, if we get separated after the speech, 
+12 we'll all meet up at the monument, the Washington Monument. 
+13 So we went up there and --after the speech and we waited, and we tried to call 
+14 her, but there was no phone reception. Phones were --her phone was dead. And we 
+15 were up there for a good 45 minutes, and then she finally got her phone charged. And 
+16 she said --she texted and the said she was at the --up towards the Capitol. And she 
+17 said, you know, she's like, it's crazy or whatever up here, and so we're like, Okay, so we'll 
+18 just start heading that way. 
+19 So we started walking that way, and this was a good --a good amount of time 
+20 after Trump was even done with his speech. So we both started walking that way, and 
+21 then we finally get up there, and we meet up with her by a statue, right in front of the 
+22 ponds there. 
+23 Q Okay. So what were you seeing before you met up with her? 
+24 A What was I seeing? We were --I mean, it was actually just --I mean, we 
+25 walked straight up the lawn. We didn't walk up the street. So we walked straight up  30 
+1 the lawn and there was, I mean just --I mean, there was just a ton of people there, just 
+2 patriotic people, I mean, old people, young people. There was no --no violence or 
+3 anything. There was people selling, you know, American flags or, you know, had flags 
+4 and hats and all that kind of stuff. I honestly didn't even see anybody like speaking or 
+5 anything like that on the way there. So it was --
+6 Q Okay. Did you hear anybody talk about the Capitol having been breached 
+7 on your way there? 
+8 A No, I didn't hear anything about the Capitol being breached. Kari said that 
+9 there was tear gas. You know, before we left, she said that there were like --before we 
+10 left to like start heading that way, she said that there was tear gas being, you know, put 
+11 out. So --but that was about all I heard, you know. That was the extent of what I 
+12 heard, and, I mean, I didn't hear about anything, like, I didn't know anybody was inside 
+13 the Capitol or anything like that. 
+14 
+15 Q 
+A What did you take the tear gas to mean? 
+I --that --I don't know. I mean, I have no --I can't answer that question, 
+16 what did it mean? I mean, I don't know. 
+17 Q Did you think there would be --there was any violence happening at the 
+18 time? 
+19 A I mean, I guess --I mean, generally when tear gas is deployed, it's like to 
+20 push a crowd back for, you know, from whatever it is. I don't know. I mean --
+21 
+22 
+23 Q 
+A 
+Q 
+24 anything? 
+25 A Okay. So were you worried as you were walking to the Capitol? 
+Repeat that. 
+Were you worried at all when you were walking to the Capitol about 
+No, I wasn't. I wasn't worried.  1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 Q 
+A Tear gas, possible violence, not a concern? 
+No. No, I'm --
+Ms. Sumners. Do you have a question? 
+Mr. Martin. No, I'm good. I was just -­
+Ms. Sumners. I just want to make sure. 
+Mr. Martin. I mean, no. 
+Ms. Sumners. You're thinking back lots of years. 
+Mr. Martin. Yeah. 
+Ms. Sumners. You don't have a good memory. 
+B 
+Q It's okay. So besides talking to Kelly, were you tracking anything on social 
+12 media as you were walking, talking to other people about what was happening? 
+13 
+14 A 
+Q No, because our phones basically didn't work. 
+Fair enough. So then once you get to the Capitol, did you see like people 
+15 encouraging anyone to go into it? 
+16 A So we got there and met up with Kari, and it was just --I mean, it 31 
+17 was --there was a lot going on. There was people everywhere. There was people, of 
+18 course, you know, up on the --up on the porch area, you know, in front --right in front of 
+19 the Capitol. And there was people --yes, there was lots of people encouraging people 
+20 to go, like move forward, people standing on statues with like bullhorns and, you know, 
+21 just --just really being very pushy, you know, towards --yeah, go up there, you know, get 
+22 up there. Yes, there was definitely people like that.  32 
+1 
+2 [1:42 p.m.] 
+3 BY 
+Q Okay. And how did you end up going into the Capitol? 4 
+5 A Okay. So we were, like, there, and Kari was like --you know, she said it was 
+6 pretty crazy up there. And we were all standing there, like, out, like, pretty far out, like, 
+7 by the pond. 
+8 And I --I mean, my idea was --I was like, I don't want to go. You know, I was like, 
+9 guys, this --I am --I was just shaking my head the whole time, like, man, this does not 
+10 look good. I don't think we should go up there. But then there was --we were just 
+11 like --it was just very, like, serious. 
+12 You know, it was like, well, I mean --you know, we all knew, whatever was going 
+13 on was going to go down in history for something. So --plus, there was all these people, 
+14 instigators, that were, like, pushing us, you know, like, just drilling us, like, you know, over 
+15 and over, like, go up there, go check it out, or whatever. 
+16 So we did. I mean, we started to move forward, like, towards the Capitol, and --I 
+17 mean, the whole time, I was just like, no, I don't --I don't like this. But it took us a long 
+18 time to get there. And then we just slowly --and we walked right up the steps on the --I 
+19 believe it would be the west side. And we walked right up the steps, and, I mean, just 
+20 walked right up. And it was, like, calm. Like, it really --I mean, there was a lot of 
+21 people everywhere, and there was a lot of people, like, chanting stuff, but, overall, it was 
+22 really pretty mellow. It was pretty calm, and it was just --you know, it didn't seem 
+23 violent at all. I didn't see any violence, actually. 
+24 Q Okay. So you say you were --it was calm. Were you in the middle of a big 
+25 crowd?  33 
+1 A Yeah. It was a big crowd, and there was people chanting, and, you know, 
+2 yelling --yelling things. And there was instigators that seemed a little aggressive. But, 
+3 I mean, they were far and few between. There were --you know, they were just here 
+4 and there. 
+5 
+6 Q 
+A Can I ask how you entered the Capitol? 
+So --yeah. So we walked around the left side, went up, and went along the 
+7 back, and pretty much stayed on the left side right there where the doors were open. 
+8 There was two doors that were open. 
+9 And I was --so I walked in. I walked right up to --to it. And it took a while for 
+10 us to get up there. And there was people --there was a guy sitting in the window right 
+11 there to the left of the open doors, sitting in the window with a --I believe he had a 
+12 bullhorn. He might not have had a bullhorn. He might have just been yelling, but he 
+13 was like, everybody --he's like, get in here. He's like, get everybody, get them all in 
+14 here, you know, and, like, trying to round them all up, sitting in the window. 
+15 And then --so we're like right up there in front of it, and so we were, like --Steve 
+16 is in front of me. Steve Quick is in front of me. And he looks in the window. You 
+17 know, he looks in, and then this guy comes up behind him and just, like, lifts his leg, grabs 
+18 his leg and, like, lifts him up and basically lifted it up into the window. I mean, he wasn't 
+19 even, like, really going to, like, do anything. 
+20 But then --and then, after that, the guy --that same guy, like, comes back 
+21 and --so, like, as soon as you get in the window, there was like a wall of police officers, 
+22 like literally, like, 6 --6 to 8 feet from the window. And it was just super crowded. 
+23 So, once Steve was in, like, he couldn't even go in through the window anymore 
+24 because it was so crowded right there. Like, there was no space to even get in. 
+25 Q So, at that point, did you still think it was calm? You're entering the Capitol  34 
+1 through a window. There is a big crowd of people. There is a lot of police officers. Is 
+2 it still calm? 
+3 A Considering the fact that all those people were there, yes. It was --it was, 
+4 like, the --considering the situation, like, there was no --there was literally no violence. 
+5 There was literally --you know, it was just --my --my version of calm is maybe not 
+6 somebody else's version of calm, but considering what was going on, it was 
+7 relatively --like, I wasn't scared for my life or anything. You know, I wasn't like --
+8 Q Okay, but you entered through a broken window. So do you take breaking 
+9 windows to be violent? 
+10 A Well, I actually didn't realize that the window was broken. I thought it was 
+11 open. But, I mean, now that I look back at it, I see that it was broken. But, at the time, 
+12 I thought that it was an open window. 
+13 Q Okay. And you mentioned the wall or a lot of police officers and some 
+14 people chanting. 
+15 Do you remember what they were chanting? 
+16 A They just --you know, it's the same chants that they heard us saying, you 
+17 know, USA, USA. You know, and then there was --there was some other ones that 
+18 were, like, whose House is it? Our House. 
+19 There was --you know --and not --those were the ones that weren't really --I feel 
+20 like there was instigators --there was people in there that were trying to get people 
+21 rowelled up, and I don't feel like that they were --I feel like they were plants. I feel like 
+22 there was people that were in there that were sort of --you know, they were plants in 
+23 there to try to get people rowelled up. I --you know --so --
+24 Q Okay. Do you remember hearing fight for Trump when people were 
+25 pushing up against police officers?  1 A I actually don't remember hearing that. And I don't remember --actually 
+2 remember even seeing people push --being pushed up against police officers. 
+3 
+4 Q 
+A Okay. But why do you think they were plants? 
+Because that's just been kind of a thing that happens. They --they --1 
+5 mean, like, in the past, there has been people that come in, and they are put in to, you 
+6 know, act like they're --they're dressed up like Trump supporters to try to make, you 
+7 know, the Trump supporters or the MAGA movement people look bad. And, I mean, 35 
+8 that's just common --that's just common knowledge. Like, people know that --I mean, 
+9 this does happen. This is a thing. 
+10 So I --they were --they easily stood out to me. I could --I could point out those 
+11 people. I mean, you know, it's like, well, this guy is definitely, you know, not here to 
+12 make us look good, that's for sure. 
+13 Q So, if you knew there were plants in there to make Trump supporters look 
+14 bad, or at least you thought there were plants in there to make Trump supporters look 
+15 bad, why did you still go in? 
+16 A It was a --I mean, it was --it was just a bad decision. I mean, I was --it was 
+17 just a overwhelming moment of everything. It was just --my thought --my thought 
+18 processes were overwhelmed, and I just didn't --I just made a bad decision. 
+19 BY 
+20 
+21 Q 
+A Is it fair to say you didn't know they were plants at the time? 
+No, I didn't know. I didn't know for a fact who or anything was at the time. 
+22 So --I just --you know, I --it was pretty --if I saw somebody being violent --and I think 
+23 any of us that were there that day saw violence or acts of, you know, breaking things or 
+24 something, we would have --we would have put a stop to that. You know, we --we 
+25 were not --we did not want to look bad.  36 
+1 You know, we're not there to cause violence or --or break anything or, you 
+2 know --that wasn't what we were there for --to do. And, if we saw somebody 
+3 doing --doing that, they weren't with us. And that --you know, we would be like, dude, 
+4 you're not with us, so, you know, listen up, dude. And we would probably contact --we 
+5 would ask an officer --if I saw somebody, I would be like, look, this guy is causing 
+6 problems. He needs --he needs to go, you know. 
+7 
+8 
+9 
+10 Q 
+A 
+Q BY 
+Didn't the police tell you to leave, or any of you guys to leave? 
+No. No. 
+You don't remember hearing police officers saying, It's time to go, or, you 
+11 shouldn't be here? Or why did you think there were police there at all if you were 
+12 allowed to be there? 
+13 A Why did I think there was police there? There was --I mean, they were 
+14 dressed --they were --
+15 
+16 
+17 Q 
+A 
+Q No, no. Sorry --I meant, like --
+They might not have been police. I don't know. 
+That's not what my question meant. I'm sorry. 
+18 So you said, if you saw someone doing something wrong, like violence or 
+19 destruction of property, you would have pointed them out to the police, and you would 
+20 have expected the police to take them out. 
+21 A Yeah. 
+22 Q Do you think that the police were there because you were not supposed to 
+23 be in the building? 
+24 A I don't know. I don't know the answer to that question. The police were 
+25 there, I would think, to, you know --to protect the building.  1 I do know this, that, if there was an entryway that they didn't want them to go 
+2 through, the people to go through, then people were not trying to go through. People 
+3 were not going through that, and they weren't --they weren't pushing through it. 
+4 I never saw anybody push through the police. I never saw any kind of violence 
+5 like that. And, honestly, the police were having conversations with everybody. 
+6 mean, a lot of them. A few of them were, you know, quiet, but other ones were, like, 
+7 having a conversation. 
+8 BY 
+9 
+10 
+11 
+12 Q 
+A 
+Q 
+A Just to be clear, how long --how long were you at the Capitol? 
+Inside? 
+Yeah. How long were you inside the Capitol? 
+I mean, I'm estimating, you know, 8 to, like --like 15 minutes tops, but I 
+13 don't think it was that much. Like 8 to 12 minutes. 
+14 Q And, when you say you didn't see anyone pushing through, like, the police 
+15 on January 6th inside the Capitol, you're limiting it to the less than 15 minutes that you 
+16 were inside the Capitol? Is that fair? 
+A Yeah. Yeah. 37 
+17 
+18 Ms. Sumners. Well, I think you guys want to distinguish between the inside and 
+19 outside, because you were outside longer, from what I am understanding, than --I think 
+20 you're talking about before you went in and after you went in. So once you're inside, 
+21 and then if you'll distinguish, just to make it clear, as far as outside, how long, what you 
+22 saw. 
+23 Mr. Martin. I didn't see --I didn't see any police getting --getting pushed 
+24 anywhere actually. I didn't see it inside or outside. 
+25 B~  1 
+2 Q 
+A 38 
+And the tear gas, again, did you see any of that, or --
+1 didn't see tear gas. There was some sort of gas, but it wasn't tear gas. 
+3 There was some sort of smoke --smoke deals going on, but I don't know if they were fake 
+4 tear gas probably for --for the media to get pictures of, or what, but it --it wasn't tear 
+5 gas. I know that, because it didn't affect me in that way. 
+6 Q All right. So let me just ask one last question about being in the Capitol 
+7 since you mentioned that you think there were plants and possibly fake tear gas. 
+8 What gives you the idea that Trump supporters would not be capable of doing any 
+9 of that stuff in the Capitol? 
+10 A Because that would ruin what we stand for. That would absolutely take 
+11 away what we were there to do. And, I mean --
+12 
+13 
+14 
+15 
+16 Q 
+A 
+Q 
+A 
+Q And do you speak -­
+--it totally makes --
+I'm sorry. Do you speak for every Trump supporter? 
+I don't --I don't see how that's possible. 
+Okay. So how can you know that it's impossible for other Trump 
+17 supporters to do things that you yourself didn't want to do? 
+18 A That's just my personal view. That's my personal opinion. I don't --I can't 
+19 speak for anybody else. That's just what I --and what I thought that my fellow 
+20 supporters --and it's not necessarily Trump supporters. I keep saying that, but it 
+21 is --it's --I mean, if you want to call it MAGA or something, I --I don't want to keep saying 
+22 Trump supporters, because it really isn't about Trump. It's not --it's not about Trump. 
+23 We're not --we weren't there because Trump said this or Trump said that. We 
+24 were there because we like our freedom, and we want to keep it. And that's why we 
+25 were there. It's not --it's not about Trump. None of this is about Trump.  39 
+1 Q Well --so you'd said you only --you were only in the building for 8 or so 
+2 minutes. Why did you leave? 
+3 A Because it was like --it was just like, man, I don't like this. Okay. So we 
+4 walked in, and we walked into the big round room, which I guess was the crypt or 
+5 something. I'm not sure what it was, but --but, as soon as we got in there, I just got a 
+6 bad feeling, which is kind of weird not knowing that there was, like, stuff underneath 
+7 there that was weird, you know? 
+8 But I got in there, and I was like, man, I --I looked at Steve, and I was like, man, 
+9 I've got a bad feeling. You know, it's like, I don't --I don't like this at all. And so we 
+10 walked --and walked to the other side of it, and then basically turned around, and then 
+11 walked back out. And that's --so that's all we did. 
+12 Ms. Sumners. And, just to clarify, did you know where you were at at the time? 
+13 Because I know we had this with Steve and Mike. So did you know it was the crypt or 
+14 whatever? 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 Mr. Martin. I had no idea what any room was called. 
+Ms. Sumners. Just stick to --because he asked to your knowledge -­
+Mr. Martin. Yeah, I had no idea. 
+Ms. Sumners. --when you went in, so -­
+Mr. Martin. Right. 
+Ms. Sumners. --take a second. 
+Mr. Martin. I did not know --I was not aware of the names of the rooms. 
+B~ 
+Q No, that's fine. I was just trying to get a sense of why, at the time, you left. 
+24 And it sounds like because you got a bad feeling? 
+25 A Yeah. I just --I just, like, I don't like this, you know? I --one officer did  40 
+1 say --I heard --and, like, over discussion --I heard over my shoulder an officer talking 
+2 about there being blood --you know, blood spilled, or something. 
+3 And so, you know, that probably triggered, like, well --I mean, you know, that 
+4 probably triggered something in me. It was like, well, I don't want to be around any of 
+5 that, you know? 
+6 
+7 Q 
+A But I thought you said it was calm? 
+It was calm. Yeah, it was all pretty calm considering the fact that, you 
+8 know, there was people chanting and people trying to get people rowelled up, yes. 
+9 wasn't afraid for my life or anything. Nobody was being violent. I wasn't scared of --of 
+10 anybody. The cops or the police officers were not being aggressive or anything. It was 
+11 all relatively pretty --you know, considering the circumstances. 
+12 Q Vet you had a bad feeling. So what gave you the bad feeling besides --if 
+13 there is blood, if there is police, I mean, it sounds to me like you got a bad feeling because 
+14 something wasn't right about the situation. 
+15 A Yeah. It was just weird. I mean, it was just very weird. It was just all, 
+16 like, this is weird. The cops are being very nice. They're like, you know, you can go this 
+17 way if you guys want. You know, they're like hand gesturing, just go on over here. 
+18 And it was just, like, really weird. It was just weird. And I couldn't --I couldn't 
+19 put a finger on what was going on, like, what the whole point of all this is. And I --yeah, 
+20 I just got a bad feeling. 
+21 I actually felt like we were set up. I --I --that's really --honestly, I felt like this 
+22 whole thing was a setup, and I totally was a sheep, and I fell for it, and I was in the middle 
+23 of it. And so that was my bad feeling. And so I --that's when we decided to basically 
+24 leave. 
+25 Q Well, why did you live-stream from inside the Capitol?  41 
+1 A I don't know. I just --I just, like --it was like, well, here I am. I mean, I 
+2 don't --I mean, I was just --I didn't feel like it was a --I didn't feel like it was --like I was 
+3 doing anything horrible. I mean, I --I do realize that I made a mistake, and I shouldn't 
+4 have gone in the Capitol. 
+5 But, at the time, I didn't --I mean, like I said, I --I felt pretty calm, you know? It 
+6 was --it was just like, hey, you know --it was like if I was in --on vacation somewhere and 
+7 I did a live stream. I was like, well, here I am. You know, this is what I'm --
+8 
+9 
+10 Q 
+A 
+Q Okay. Hold on. 
+I think that's what I said, too. Like, here I am. I'm in the Capitol, and -­
+Just one second. You said it's like you were on vacation? Do you go on 
+11 vacations where there are people breaking into buildings and blood being spilled and 
+12 police officers everywhere? 
+13 
+14 
+15 A 
+Q I didn't say that. 
+You saw the police. 
+Ms. Sumners. Just one second, because I feel like we're getting a little bit 
+16 cross-examination in here, and I --I just want to --just give us one second, please. 
+17 
+18 
+19 
+20 
+21 Fair. We'll take a break at 1:58. We'll go off record. 
+[Recess.] 
+We'll go back on the record at 2:00. 
+Q And I'm --so I apologize if that came off a little too strongly. I'm just trying 
+22 to get a sense of, you know, what you were feeling at the time and why you were 
+23 live-streaming, and you mentioned --when you said vacation, it did not comport with the 
+24 other things you were mentioning, blood and police. So --
+25 A Probably shouldn't have said that.  42 
+All right. 1 
+2 Q 
+A Actually, I should just rephrase it as it was a moment in history that I was --I 
+3 knew that this was going to be a moment in history, and so I probably just was like --got 
+4 on, and --I --I --that was a dumb thing to do. I --and I never live stream. I --like, 
+5 that's like the only time I ever did it, but, you know, it was --it was --it was dumb, but I 
+6 did it, so --
+7 Q Well, it's a good transition into the last sort of segment of our questions. 
+8 But, before we get there, which is going to be about, like, looking back, I just have one 
+9 quick question for Ms. Sumners. It's probably better if you answer this, but what's the 
+10 current --what is the current status of Mr. Martin's case? 
+11 Ms. Sumners. He has pied guilty, so we're set for --he's the same status as the 
+12 Quick brothers. So they all have sentencing next week, actually. 
+13 - Okay. Thank you. 
+14 BY 
+15 Q All right. Mr. Martin, just a couple more things. 
+16 So you mentioned how, you know, it seemed like, in retrospect, live-streaming is 
+17 always a stupid idea. So I want to ask you a little bit about your thoughts since 
+18 January 6th. So, if you, like, look back on the day, what do you think about January 6th 
+19 now? 
+20 A Well --man, that's just like --I don't even know how to answer that. 
+21 That's --like I --kind of a --there is a wide --a wide range of answers for that. 
+22 I mean, it was definitely a --a moment in history. I still do feel that the election 
+23 was stolen. I --I actually feel that the --that January 6th was --there was a lot of --it 
+24 could have easily possibly been set up to --you know, just to make this --Patriots look 
+25 bad.  43 
+1 I --I mean, I --I regret --I definitely regret going to the Capitol. I wish we would 
+2 have just left, you know? I wish Kari would have, like, met us at the monument and we 
+3 could have just gone. I just wish we could have --you know, I wish I wouldn't have gone 
+4 up to the Capitol. I mean, looking back on it, I still feel, you know --I do feel like we 
+5 were possibly set up. Still, I just --I mean --and --it's really sad. It's a horrible, 
+6 horrible thing that happened, and it really makes me sad. 
+7 So, I mean, I --I just --I just hope that, you know, we --I hope we can all --we can 
+8 fix our election system, and I hope that we can all, you know, keep our freedoms as --so I 
+9 don't know. I don't know how to answer that question. 
+Q That's okay. That was a good answer. 10 
+11 Which part precisely makes you sad? Was it the idea that it was a setup, or is it 
+12 the --the notion of a stolen election? 
+13 A That's all combined into one. I mean, the whole thing was --I mean, with 
+14 the election being stolen and then that --I mean, it's all one big setup. I mean, it's all --I 
+15 really feel that our country has got --you know, has been infiltrated from within, and 
+16 that --and it's pretty scary. 
+17 I just --I just feel like --it's all one big --one big thing right now. You know, I 
+18 mean, it's --it's really just scary for my kids and, you know, my kids' kids for me. 
+19 mean --so --
+20 Q Can I ask you where you are getting your information about that currently? 
+21 A I --it's like common knowledge, so, like, everywhere. I mean, I --I think --I 
+22 think majority of the people in the United States agree with that as well. I --I --that's 
+23 my opinion. Actually, there might be polls on it. I don't know if the polls are factual, 
+24 but I'm --most of the people that I talk to on both sides of the aisle are --they --they 
+25 think that it was --that there has been some fishiness going on.  44 
+1 Q Well I'm not here to debate, so don't take this question as any sort of, like, 
+2 debating your views. I'm just trying to figure out what you're reading or listening to now 
+3 that is giving you the idea now that the 2020 election was stolen. 
+4 A Everything. I mean, there is --I mean, it's just, like, so --I mean, there is so 
+5 much that happened. Like, I mean, at the very beginning of this interview, I mean, you 
+6 asked basically that same question, and --I mean, I could go on forever about why I think 
+7 the election was stolen. 
+8 Q I'm sorry. I didn't mean why you think. I'm asking what are you reading? 
+9 So the sources --a source question. 
+10 A I will --I can give you the names of the videos --the people that put out 
+11 videos that I --that I watch. But, I mean, other than that, I can't give you a specific 
+12 answer on that. You know, like where --what am I reading? You know, I don't go 
+13 read --it's definitely not the mainstream media. I don't --I don't watch any mainstream 
+14 media. I don't listen to any mainstream media unless it's, like, prerecorded, you know, 
+15 like, on somebody's video that's saying, you know --I don't watch FOX News. I don't 
+16 watch --you know, I don't watch any stuff. 
+17 I listen to X22 Report, And We Know, SGT Report, Mel K. You know, I watch The 
+18 Awakening, you know, Clyde Clark and all his stuff. And then, also, you know, I'm on 
+19 True Social. I've got True Social. So I'm on that now. 
+20 Q Can you --sorry. Can you spell the second --I'm sorry I'm making you 
+21 remember a list, but can you --if you remember, can you spell the second and fourth 
+22 sources that you said, the videos? 
+23 
+24 
+25 A 
+Q 
+A So X22. So And We Know. 
+And --
+And We Know. And then the fourth one was --did I --well, did I say Mel K?  1 
+2 
+3 
+4 Q 
+A 
+Q 
+A Yes. That one. 
+Mel K. M-e-1, K. 
+Okay. 
+And these are just --these are just people that do research, you know, just 
+5 about all the --you know, the elites and the --you know, we all --everybody kind of 
+6 knows what's going on with the whole world and who runs all the corporations and the 45 
+7 companies and the whole world, and it's just like, you know --they talk about all kinds of 
+8 stuff. You know, like, you guys --we used to be called conspiracy theorists, you know, 
+9 but now it's kind of being proven true. So we're not really conspiracy theorists 
+10 anymore, but --
+11 Q Okay. So those are the sources. I take it --are those part of the Q 
+12 community, would you say? 
+13 A I mean, I don't know that Q is a community. I mean, I guess there is --you 
+14 know, I --I --I guess. Yeah, some of them, you know. Like, a lot of times they will, like, 
+15 in their videos, they'll go back and they'll go to an old post and sort of see how it relates 
+16 to the current situation that they're reporting on. So, I mean, yeah. 
+17 Q Would --and would you say you are still part of a Q community even if there 
+18 is no more Q drops or Q posts happening? 
+19 A I would say I definitely, you know, pay attention to that kind of stuff, yeah. 
+20 
+21 Q 
+A Do you have --
+It's pretty fascinating. It's really super fascinating stuff. I mean, I 
+22 can't --it's just so fascinating that I can't ignore it, you know? 
+23 Q Right. And, on any of these sources, have they ever discussed reports by all 
+24 the intelligence agencies, by the DOJ, you know, audits by Republican State leaders in 
+25 multiple States that show there was no serious fraud or problems with the 2020 election?  1 
+2 
+3 A 
+Q 
+A 46 
+Have they--
+Have they discussed those? 
+Have they discussed the fact that they --that there was no fraud? I mean, I 
+4 don't think so. I don't think I've ever seen --I mean, other --that's all --that's more of a 
+5 mainstream thing. I mean --
+6 Q So let me take that, then. So those are all government reports. Do you 
+7 take what the government is saying as --do you equate that with mainstream media? 
+8 
+9 
+10 
+11 
+12 
+13 
+14 A Yes. 
+Q So fair to say you've lost faith in government? 
+A I would say so, yes. 
+Q Okay. And that has not changed since January 6th? 
+A 
+Q No. 
+No. Okay. 
+Well, I think we've covered a lot today, so thank you for taking the 
+15 time. Is there anything else that you wanted to say? 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 Ms. Sumners. Just one second. 
+- Sure. Do you want to go off the record or -­
+Ms. Sumners. Yeah, just one second. 
+- Okay. We'll go off the record at 2:10. 
+[Recess.] 
+- We'll go back on at 2:11 p.m. 
+Yeah, Mr. Martin? 
+Mr. Martin. Yeah. I just --yeah. We just --I just want to make it, you know, 
+24 like --you know, I definitely take full responsibility for my actions. I totally am regretful 
+25 for moving --you know, going --going up to the Capitol and going inside the Capitol and  47 
+1 that whole thing. I wish I would have never been part of any of that. 
+2 And, you know, I --I really am truly sorry for the events that did happen that day. 
+3 I don't --I didn't --you know, I'm just sorry for --for the country and just all of us to have 
+4 to, you know, do this. You know, I just --you guys and everything, everybody having to 
+5 do all this stuff that --I mean, it's just --I really am sorry, and I just want you guys to know 
+6 that. 
+7 Well, thank you. 
+8 So I just want to put this on the record, too. 
+9 Thank you for taking the time to talk to us. We --we are here to get all the 
+10 perspectives about January 6th, and it can be somewhat difficult to find people like you 
+11 who are willing to talk to us, so we do very much appreciate it. And we --you know, 
+12 that's something we want all of you all to know. 
+13 We're not --we're not here to pick a side. We're just here to find the facts and 
+14 the circumstances and the causes of January 6th, and then to recommend ways to move 
+15 forward so that something like it doesn't happen again. 
+16 So thank you for taking the time. 
+17 And, Ms. Sumners, unless you have anything else, I can --all right. 
+18 
+19 
+20 
+21 
+22 We will close the record at 2:12 p.m. Thank you. 
+Ms. Sumners. Thank you, guys. Have a good day. 
+Thank you so much. Enjoy the rest of your day. 
+Mr. Martin. Thanks. You, too. 
+[Whereupon, at 2:12 p.m., the interview was concluded.]  1 
+2 
+3 Certificate of Deponent/Interviewee 
+4 I have read the foregoing __ pages, which contain the correct transcript of the 
+5 answers made by me to the questions therein recorded. 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 Witness Name 
+Date 48 

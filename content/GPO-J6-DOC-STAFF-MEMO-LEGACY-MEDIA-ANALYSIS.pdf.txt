@@ -1,0 +1,76 @@
+ 
+ 
+ 
+ 1 
+ MEMORANDUM  
+To:  Members of the Select Committee  
+Fr: Select Committee Data Analysts  
+Re: Legacy Media   
+Dt: December 3, 2022  
+ 
+ 
+Introduction  
+ 
+Cable and broadcast news dominate American news sources. According to a YouGov 
+poll1 broadcast news and cable news are used weekly by 39% of Americans. More Americans 
+are likely to have watched broadcast news or cable news (or interacted with one of these 
+channel’s websites) each week than any other news source including social media, new spapers or 
+their websites, YouTube, podcasts, or other websites.  
+National news sources focused heavily on the 2020 election in the months surrounding it. 
+With national news touching so many Americans and having such potential to impact on 
+Americans’ beliefs and actions, understanding what the national news reported (or didn’t report) 
+and how it was communicated is impactful for understanding the cultural context that allowed 
+the January 6th riots to happen.  
+ 
+Analysis  
+Select Committee data analysts modeled the news between 2020 -11-09, the Monday after 
+the election, through 2021 -01-05, the day before the January 6th riot. The staff gathered 
+transcripts of primetime news programs from three of the major cable news network s: CNN, 
+MSNBC, and Fox News. This only included weeknight programs aired from 6 pm to 10:59 pm 
+ET. Using these transcripts, the staff built a topic model that identified 50 topics .2 This approach 
+used the statistical results of the model to identify broad  trends over time and between networks , 
+then identified top hits by network for each topic and provide d a detailed analysis on how 
+networks differ in their presentation of the news .  
+ 
+1 Linley Sanders, "Trust in Media 2022: Where Americans get their news and who they trust for information," 
+YouGov America, (Apr. 5, 2022), available at https://today.yougov.com/topics/politics/articles -
+reports/2022/04/05/trust -media -2022 -where -americans -get-news -poll.  
+2 Lin Liu, Lin Tang, Wen Dong, Shaowen Yao, and Wei Zhou, "An overview of topic modeling and its current 
+applications in bioinformatics," SpringerPlus, Vol. 5.1, (2016), available at 
+https://springerplus.springeropen.com/articles/10.1186/s400 64-016-3252 -8.   
+ 
+ 
+ 2 
+  
+Findings  
+Overall, findings include:  
+• The election and Covid made up rou ghly 50% of each network’s nightly programming in 
+this time window,  
+• Networks cover the news differently and in statistically different proportions per topic,  
+• Fox News repeatedly hinted or outright claimed that Biden’s election win was 
+illegitimate via vote r fraud or improper ballot counting. Discussions of voting methods 
+directly made up ~50% of Fox News’s election related programming and 10% of their 
+total programming. Fox News continued to suggest there was concern to believe the 
+election was illegitimate , even when the primary topic was not voter fraud or improper 
+voting,  
+• CNN and MSNBC focused their election coverage on Trump’s response to the results, 
+discussing when and if Trump would concede and continually stating that Trump’s 
+claims the election was stolen were baseless. This made up ~40% of these network’s 
+election coverage and 9 -10% of their total programming, and  
+• Fox News spent 15% of its nightly programming addressing Hunter Biden in the weeks 
+following Hunter Biden’s announcement that his tax aff airs were under investigation. Fox 
+News repeatedly hinted that Joe Biden was complicit in Hunter Biden’s potential crimes. 
+In contrast, this was a short news story for CNN and MSNBC only on the day it broke. 
+CNN and MSNBC were explicit that Joe Biden was n ot implicated in any of Hunter 
+Biden’s investigations.  
+ 
+Conclusion  
+This data provided no evidence that the right -wing or left -wing partisan media covered in 
+this report directly incited the January 6th riot. However, Fox News’s repeated claims of voter 
+fraud, illegal vote counting, and general election conspiracy likely contributed to a political 
+environment that allowed conspiracy, hysteria, and extremism to thrive. As the most watched 
+cable news network in America in 2020 with roughly 20 times more hourly  viewers than 
+Newsmax, Fox News’ potential cultural impact is significant.  
+ 
+ 
+ 

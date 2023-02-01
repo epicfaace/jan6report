@@ -1,0 +1,2701 @@
+1 
+2 
+3 
+4 SELECT COMMITTEE TO INVESTIGATE THE 
+5 JANUARY 6TH ATTACK ON THE U.S. CAPITOL, 
+6 U.S. HOUSE OF REPRESENTATIVES, 
+7 WASHINGTON, D.C. 
+8 
+9 
+10 
+11 INTERVIEW OF: JOHN MICHAEL "MICK" MULVANEY 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 Thursday, July 28, 2022 
+Washington, D.C. 
+20 The interview in the above matter was held in Room 5480, O'Neill House Office 
+21 Building, commencing at 2:02 p.m. 
+22 Present: Representatives Luria, Aguilar, Murphy, Cheney, and Kinzinger. 1  1 
+2 Appearances: 
+3 
+4 
+5 For the SELECT COMMITTEE TO INVESTIGATE 
+6 THE JANUARY 6TH ATTACK ON THE U.S. CAPITOL: 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 , STAFF ASSOCIATE 
+INVESTIGATIVE COUNSEL 
+SENIOR COUNSEL 
+SENIOR INVESTIGATIVE COUNSEL 
+, CHIEF INVESTIGATIVE COUNSEL 
+- SENIOR COUNSELOR TO THE VICE CHAIR 
+, CHIEF CLERK 
+INVESTIGATIVE COUNSEL 
+PROFESSIONAL STAFF MEMBER 
+18 For the COMMITTEE ON HOUSE ADMINISTRATION: 
+19 
+20 -COUNSEL 
+21 
+22 For JOHN MICHAEL "MICK" MULVANEY: 
+23 
+24 ROBERT "BOB" DRISCOLL 
+25 MCGLINCHEY STAFFORD PLLC 2  3 
+1 
+2 - All right. Mr. Mulvaney, good afternoon. 
+3 Mr. Mulvaney. Hey,. 
+4 This is a transcribed interview of Mick Mulvaney conducted by the 
+5 House Select Committee to Investigate the January 6th Attack on the United States 
+6 Capitol pursuant to House Resolution 503. 
+7 Mr. Mulvaney, can you please state your full name and spell your last name for 
+8 the record? 
+9 Mr. Mulvaney. My name is John Michael Mulvaney. The last name is M-u-1-v, 
+10 like in Victor, -a-n, like in Nancy, -e-y. 
+11 Great. Welcome. 
+12 And, counsel, could you please identify yourself for the record? 
+13 Mr. Driscoll. Sure. I'm Bob Driscoll from the McGlinchey firm, representing Mr. 
+14 Mulvaney. 
+15 My name is I'm the chief investigative counsel for 
+16 the select committee. With me today are-who is counsel to the vice chair, 
+17 
+18 Ms. Cheney; ■ senior investigative counsel; 
+as an investigative counsel; , professional staff. who is here 
+19 I think we also have the vice chair, Ms. Cheney, and Mrs. Murphy, two members 
+20 of the committee who are both participating virtually. 
+21 Ms. Cheney and Mrs. Murphy, good afternoon. 
+22 Ms. Cheney. Good afternoon, Mick. Thanks for coming. 
+23 Mr. Mulvaney. Hey, Liz. 
+24 So, Mr. Mulvaney, this will be a staff-led interview, but as our 
+25 members are present, they may decide to ask questions and will participate virtually.  4 
+1 There's an official reporter who is transcribing the record of the interview. 
+2 Please wait until each question is asked before you begin your response, and I will try to 
+3 wait until your response before asking you the next question. 
+4 The court reporter cannot record nonverbal responses such as shaking your head, 
+5 so it's important that you answer each question with an audible, verbal response. 
+6 We ask that you provide complete answers based on your best recollection. If 
+7 the question isn't clear, please just ask for clarification, and if you don't know the answer, 
+8 then just say so. 
+9 And although this interview is not under oath, I want to remind you that it is 
+10 unlawful to deliberately provide false information to Congress. This is not something 
+11 specific to you, it's something we tell all witnesses. 
+12 Do you understand all of those guidelines? 
+13 
+14 Mr. Mulvaney. Yes, I do. 
+Okay, great. And if at any time you need a break, just let us know, 
+15 and we're happy to accommodate that. 
+16 EXAMINATION 
+17 
+18 Q So let's start, Mr. Mulvaney, by just clarifying that you're here voluntarily, 
+19 not pursuant to a subpoena or any legal process. Is that right? 
+20 A That's correct. I'm here in response to what I thought was an invitation. 
+21 You asked me to be here, and I'm happy to do it. 
+22 
+23 But, yes, I did not ask to be under subpoena. I'm happy to be here. 
+Q Yeah. And we did invite you and we appreciate your willingness to come 
+24 speak to us. 
+25 When we invited you, we also notified the current White House Counsel's Office  1 of our interest. They have provided what is in your binder as exhibit No. 1. 
+2 It's a letter from Richard Sauber, who is a special counsel to the President, that 
+3 reflects that in the view of the White House, in light of the unique and extraordinary 
+4 nature of the matters under investigation, an assertion of executive privilege is not in the 
+5 national interest and is, therefore, not justified. 
+6 Do you have any questions about the position of the White House with respect to 
+7 executive privilege? 
+8 
+9 A 
+Q I do not. 
+Okay. Can you just give us quickly, Mr. Mulvaney, just a brief overview of 5 
+10 your professional background? I understand you went to Georgetown and UNC. From 
+11 there forward, just sort of walk us through your --
+12 A Practiced law at a firm in Charlotte, North Carolina, from 1992 to roughly 
+13 1997. Then started my own firm 1997 till probably in the early 2000s, before completely 
+14 stopping the practice of law. 
+15 I also was involved in my family's home building and real estate development 
+16 business. Ultimately, that part of my business got bigger and the law firm got smaller, 
+17 so there's an overlap of a couple of years. 
+18 I stopped practicing law in the early 2000s and was in the real estate and home 
+19 building business until 2008, 2009, during the great financial --during the financial crisis, 
+20 global financial crisis. Was in the restaurant business for a while during that period of 
+21 time. 
+22 Had been elected to the State legislature in 2006, beginning a term in 2007, and 
+23 ultimately ran for Congress in 2010. Joined Congress in 2011. 
+24 Served there until my Senate confirmation for the Director of the Office of 
+25 Management and Budget in February of '17. Served as the Director of the Office of  6 
+1 Management and Budget technically until March, I believe, of 2020. 
+2 During the time that I was serving as Director of the Office of Management and 
+3 Budget, I also served for about a year as the Acting Director of the Consumer Financial 
+4 Protection Bureau. And then I was the acting chief of staff from roughly late December, 
+5 early January '19 --excuse me --'18 into '19, until I was replaced by Mark Meadows. 
+6 I think the announcement was made March 5th, 6th, 7th, or something like that, 
+7 of 2020, at which time I became a special government employee in a role as the 
+8 President's Special Envoy and Ambassador to Northern Ireland. 
+9 I served there. And under the SGE rules, also allowed to have a private life. So I 
+10 went into a small consulting business. And served as the Special Envoy until the --I 
+11 talked to Mike Pompeo the evening of the 6th of January. 
+12 I think I officially tendered my resignation early the next morning or late that 
+13 night. But around the 6th or the 7th of January resigned as Special Envoy and have been 
+14 a private citizen since then. 
+15 Q Got it. And we'll get into that, the circumstances of your resignation, in a 
+16 little while. 
+17 So to be clear, your government service, your most recent government service 
+18 ceased late on January 6th or early January 7th of 2021? 
+19 
+20 
+21 
+22 A 
+Q 
+A 
+Q I believe --that's correct, yes, sir. 
+Okay. 
+2021, that's right, yeah. 
+Yeah. Well, let's talk about that day, about January 6th. Where were you 
+23 during the day on January 6th? 
+24 And I'll note, excuse me, before you answer that, that Mrs. Luria, I believe, 
+25 another member of committee, has joined us remotely.  1 
+2 
+3 
+4 
+5 A You want me to just walk you through the day? 
+Q Yeah. 
+A Would that be the best way? 
+Q Please. 
+A I began the day --I came up, I believe, the night before, for the purpose of 7 
+6 speaking to a group of mostly freshmen Republican Members of Congress on the morning 
+7 of the 6th. I had been invited, I believe, by the chief of staff to Nancy Mace. 
+8 That chief of staff, Dan Hanlon, used to work for me both in Congress and in the 
+9 administration. And I think it was Dan who invited me to come and just sort of give an 
+10 introduction to some new Members of Congress. 
+11 
+12 
+13 
+14 
+15 
+16 Q And that was a scheduled meeting for the morning of the 6th? 
+A It was, 9 o'clock, 10 o'clock in the morning on the 6th. 
+Q Okay. Up on the Hill? 
+A Yeah. It was in the Capitol Visitor Center. 
+Q Okay. 
+A So came in, spoke, hung around for a little bit. There were folks that I had 
+17 known, so it was not just freshmen Members. There were some folks who had been 
+18 there before who I knew, I had been colleagues with. And stuck around for, I don't 
+19 know, an hour or two. 
+20 I then left the building to have lunch with a friend of mine, and had the intention 
+21 of going back to sit on the floor to watch the certification of the vote. But it had been 
+22 such a pain in the ass to get in the building that morning, because I had forgotten my pin, 
+23 that I didn't want to go through that hassle again. So I went home to my condo in D.C. 
+24 to watch the certification online, on streaming. 
+25 Q I see. Okay. Did you --so it sounds like you didn't attend the rally on the  1 Ellipse at which President Trump spoke? 
+2 
+3 
+4 
+5 A 
+Q 
+A 
+Q I did not. 
+Did you watch it on television? 
+I did not. 
+Did you have any sense, in advance of the 6th, as to potential security 
+6 threats or the possibility of violence at the Capitol or elsewhere that day? 
+7 A I did not. I'm not even sure I was aware there was going to be a rally that 
+8 day. So I was not engaged in that, wasn't watching that. 8 
+9 Q Your understanding was that the joint session would proceed much as it had 
+10 historically? 
+11 
+12 A 
+Q That was my impression, yes. 
+All right. Had you heard discussion of--specific discussion of objections 
+13 being made by Members of Congress, or a potentially long, drawn-out joint session? 
+14 A I have no recollection of any sort of awareness that there was going to be a 
+15 challenge. I was going to go sit on the floor and watch it because I thought it would be 
+16 historic. 
+17 There had been some challenges, I think, in '17, some objections and so forth. So 
+18 if someone had told me there was going to be objections, that would not have stood in 
+19 my mind as something that would be outrageous or something that would be unusual, 
+20 because you always get a couple of folks that sort of do stuff that's unusual on that day 
+21 and the day stilled proceeds per usual. 
+22 Q Yeah. Did you have any expectation that the President, himself, might 
+23 come to the Capitol at any point during --before or during the joint session? 
+24 
+25 A 
+Q None whatsoever. 
+Okay. How did you first become aware that there was unrest or violence at  1 the Capitol? 
+2 A I was sitting in my condo watching it online, and James Lankford was 
+3 speaking on the floor of the Senate. That was --I don't remember what point of time 
+4 that was or how long I had been watching. I was doing other work, texting, sending 
+5 emails, and so forth, and sort of had it on in the background. 
+6 
+7 Q 
+A So it was clearly after 1 o'clock when the joint session started? 
+Yeah. James was speaking, I know James. And I wasn't watching, but I 
+8 heard --it might've been Leahy, I can't remember who was the presiding officer at that 
+9 particular day --say, the Senator for Oklahoma will suspend, and then they say the magic 
+10 words to stop the Senate. 
+11 And I knew enough to know that it was very rare to have a Senator interrupted. 
+12 So that's when I started paying attention, and that's when I started actually watching the 
+13 events of the day as opposed to just listening in the background. 
+14 Q I see. So no understanding at all that there was any violence until you 
+15 actually heard the presiding officer interrupt Senator Lankford? 
+A That's correct. 
+All right. Mr. Kinzinger, I believe, has joined us now as well. 
+Ms. Cheney, I see your camera is on. Please go ahead. 
+Ms. Cheney. Thank you,1111 9 
+16 
+17 
+18 
+19 
+20 Mick, I just wanted to ask, so you mentioned that you were speaking to a group of 
+21 freshmen Republicans. Where was that? Where were you speaking to them? 
+22 Mr. Mulvaney. Liz, it was mostly freshmen because I remember there was a 
+23 couple of folks there who might've been in their second term because I knew who they 
+24 were. It was in one of the basement offices at the CVC is my recollection. 
+25 Ms. Cheney. At the Capitol Visitor Center?  10 
+1 Mr. Mulvaney. Yeah, you know the houses that are between the House and the 
+2 Senate, in that maze down there, you can never find the right room? 
+3 Ms. Cheney. Yeah. 
+4 Mr. Mulvaney. Yeah. 
+5 Ms. Cheney. Okay. And then so you were in there. And then you mentioned 
+6 that you left to have lunch with a friend. Who did you go to have lunch with? 
+7 Mr. Mulvaney. I had lunch that day with Eric Blankenstein. Eric had worked 
+8 with me at the CFPB and was also working with me on some side consulting jobs that we 
+9 had. 
+10 Ms. Cheney. Okay. And so you didn't have any conversations with anybody 
+11 that day about the objections or about what was going to happen that day? 
+12 
+13 ma'am. 
+14 
+15 
+16 
+17 Mr. Mulvaney. I don't remember any conversations along those lines, no, 
+Ms. Cheney. All right. Thank you. 
+Mr. Mulvaney. Thank you. 
+Thank you, Ms. Cheney. 
+18 Q So once you noticed on the screen violence, tell me, just sort of walk me 
+19 forward. What, if any, action did you take, who did you reach out to as that violence 
+20 continued to evolve? 
+21 A I will answer the question, but I don't have a specific time line in my head as 
+22 to what went first. 
+23 I know that over the course of the next several hours I had started to engage in a 
+24 text thread with a group of my former colleagues, mostly from the Office of Management 
+25 and Budget.  11 
+1 I had reached out at some point. I believe I tried to call Mark Meadows. 
+2 believe I tried to call Dan Scavino. I know that I texted Mark Meadows. 
+3 And I know that I did something I was not very familiar with, which was I 
+4 tweeted --I had never done a lot of that before --and I tweeted, I think, three or four 
+5 times, and was engaged in sort of that back and forth on a textthread during all of this, 
+6 because I remember running some of my proposed tweet language past my colleagues, 
+7 and then they asked --they gave me advice on how to tweet at somebody, which I had 
+8 never done before. 
+9 So it was --again, I don't have a specific timeline as to what went first, but that's 
+10 what was happening during those several hours that the riots were going on. 
+Q I appreciate that. 11 
+12 You mentioned that you tried to call Mark Meadows and Dan Scavino. Were you 
+13 able to actually reach either of them? 
+14 A 
+15 them. 
+16 Q 
+17 afternoon? 
+18 
+19 
+20 A 
+Q 
+A Yeah, again, my recollection was that I tried. I know that I did not speak to 
+I see. Did you speak to anyone in the White House on the telephone that 
+I don't remember talking to anybody in person at all. 
+Did you try to call anyone else besides Meadows and Scavino? 
+No. The only two people that I would've tried to call at that point I think 
+21 would've been Mark and Dan. Those were my two sort of closest relationships at that 
+22 point. 
+23 
+24 
+25 Q 
+A 
+Q I see. So didn't make any effort to reach the President himself -­
+No. 
+--that afternoon? All right. And you said you had -- 12 
+1 A Well, reach the President. I was told, and understand as I sit here today 
+2 that when you tweet at somebody they sort of --it makes it more likely that they will see 
+3 it. 
+4 So when you say to try and reach the President, yes, I did try and reach the 
+5 President, but it was through Twitter, not through a phone communication. 
+6 Q I see. And we're going to go through your specific tweets in just a little 
+7 while. I'm just trying to get a general sense. 
+8 You said that there were some text threads with some friends or some colleagues 
+9 from 0MB. Do you recall who specifically you were in text communication with that 
+10 afternoon? 
+11 A That group typically would've included Emma Doyle, who worked for me at 
+12 the 0MB and the White House. 
+13 I believe Rob Blair. Again, worked for me at 0MB and the White House. 
+14 John Czwartacki, who had worked for me at 0MB. I don't remember if John for 
+15 worked me in the White House or not. He did work for me at CFPB. 
+16 James Galkowski, who worked for me at 0MB and again in the White House. 
+17 Meghan Burris, who also worked com ms for me at 0MB and then worked in the 
+18 White House, but not directly for me. 
+19 That was --I may have forgotten a couple names, but that's our group. That was 
+20 our --the folks that I would typically communicate with on something like this. 
+21 Q I see. And did any of those individuals, via text or any other means, give 
+22 you information that you didn't have, things that they had heard about action at the 
+23 Capitol or the White House? Or were they like you, just on the outside trying to figure 
+24 out what was going on? 
+25 A My recollection is that none of them were there, for sure, and that we were  13 
+1 all watching it on TV, commenting on how awful it was. 
+2 And then we were talking about, collectively, what I, we, but since I was the senior 
+3 person, what I might be able to do to help, to get involved, to do something. And 
+4 that's --that was the back-and-forth during the several hours. 
+5 Q Understood. You, at some point, and I don't recall how recently this was, 
+6 but you told CBS that on January 6th, quote, "no one would return my calls, no one would 
+7 return my texts. I tweeted at the President of the United States to try and get 
+8 somebody to engage." 
+9 Tell us more what you meant by no one would return your calls and you were 
+10 trying to get somebody to engage? 
+11 A Again, my recollection was that I called Meadows and Scavino. I'm fairly 
+12 certain that neither one of them --I don't remember talking to either one of them. In 
+13 fact, I would say that they didn't call me back, so that's where that statement comes 
+14 from, is that I made those calls and no one returned my calls, so --
+15 
+16 
+17 
+18 Q Okay. 
+with Mr. Meadows. If you turn to exhibit 4, this is actually a printout of all of your texts 
+And there's one specifically at 2:35 p.m. if you look down --
+A 
+Q Where is the time slot? 
+Yeah, the time slot is on the far left. So if you turn, this is actually all the 
+19 way back to --
+20 A Is this the last one? 
+21 Q --the very last entry. Looks like 2:35 p.m. You text Mark, "Mark, he 
+22 needs to stop this now. Can I do anything to help?" 
+23 Do you recall sending that text? And if so, what did you --what was your intent 
+24 at the time? 
+25 A I do recall sending the text, and my intent was to do exactly what it says,  14 
+1 which is that if there's something I can do, let me know. 
+2 I'm not sure what I could've done, but I knew --I know a little bit about how the 
+3 President thinks, and if it was a circumstance where a --if enough voices sort of spoke to 
+4 him on topic X, it might influence his decisionmaking. 
+5 Q In your own head, Mr. Mulvaney, when you were thinking about what you 
+6 might do, were you thinking about what you might do to quell the violence, to influence 
+7 the President of the United States, to do something either publicly or privately? 
+8 Give us a sense as to what sort of options you considered were available to you. 
+9 A I don't know if there were options. I was like so many people, I was 
+10 outraged at what was happening. I wanted it to stop. And I thought the President 
+11 could help make it stop. So that when I said that's why I want to --what can I do to help, 
+12 what can I help do to accomplish that? 
+13 Q Yeah. 
+14 A What does it take to get the President --I think this was --do you have my 
+15 tweets? Is this after my tweets or before or --
+16 Q This is actually, I believe your first tweet is just around the same time. Your 
+17 first tweet is at 2:31, and this is just 4 minutes later. 
+18 
+19 A 
+Q And what did I say? I don't --which number is that, do you know? 
+Yeah. Number 5, exhibit 5, the very next page, is your first tweet, which is, 
+20 "Peaceful protests are one thing, illegally storming the Capitol is another thing entirely. 
+21 The President needs to discourage any violence immediately." 
+22 A So my text to Mark would've been consistent with that, which is, how can I 
+23 help get the President to discourage any violence? 
+24 Q Yeah. Was it your view that at this time, 2, whatever the text was, 2:35, 
+25 that the President wasn't doing enough, had not yet taken action that in your mind was  15 
+1 appropriate? 
+2 A My recollection may be faded with time. I don't think the President had 
+3 taken any steps, at least publicly, by this time. 
+4 Q Right. What he had done just about 10 minutes before this was issued his 
+5 first tweet of the day, which indicated that, "Mike Pence didn't have the courage to do 
+6 what should have been done to protect our country and our Constitution, giving States a 
+7 chance to certify a corrected set of facts, not the fraudulent or inaccurate ones which 
+8 they were asked to previously certify. USA demands the truth." 
+9 Do you recall the President tweeting that Mike Pence didn't have the courage to 
+10 do what needed --what should have been done before you reached out to 
+11 Mr. Meadows? 
+12 A Yeah, I know this might sound surprising to some people. I never follow 
+13 the President on Twitter, even when I worked in the White House. So it's possible that I 
+14 did not see that tweet. 
+15 It may have been that it was reported. I don't remember. But I don't 
+16 remember seeing that tweet directly because I do not follow the President and have 
+17 never followed the President on Twitter. 
+18 Q I see. So it sounds like your outreach to Mark Meadows and your tweet are 
+19 not a direct reaction to the President's tweet but an independent desire to motivate 
+20 some statement. 
+21 A I do not remember the tweet that you just mentioned that the President put 
+22 out influencing my outreach to Mark Meadows. 
+23 Q When you ultimately heard about it, whenever it was, what was your 
+24 reaction to that 2:24 tweet from the President about Mike Pence? 
+25 A Yeah, honestly, I don't remember the first time I heard about that tweet.  16 
+1 It's sort of been reinforced in my head because it's come up several times in this hearing, 
+2 but I don't remember the first time I heard about the tweet. 
+3 Obviously I know about it now, but I do not recall the first time that I was aware 
+4 that that tweet was sent, if it was that day, later that day, was it in the days afterwards, 
+5 or was it at any point between then and the beginning of the hearings. 
+6 Q Okay. I'm going to get to your tweets in just a moment, but before we 
+7 leave outreach efforts, do you recall --besides Meadows and Scavino --did you reach out 
+8 to any members of the President's Cabinet or other officials who, like you, were serving in 
+9 government at the time, during the violence that afternoon? 
+10 A I don't remember reaching out to any member of the Cabinet. I don't recall 
+11 any conversations to anybody else in there or attempts to communicate with anybody 
+12 inside the White House. 
+13 So, no, sir, I don't --I don't have --
+14 
+15 
+16 Q 
+A 
+Q Okay. 
+The ones I remember were the Scavino and Meadows. 
+How about Members of Congress? Called any --tried to reach any of them 
+17 that afternoon? 
+18 
+19 
+20 
+21 A 
+Q 
+A 
+Q No. I don't believe that I did. 
+You must have a lot of friends and former colleagues there. 
+Uh-huh. 
+Did any of them reach out to you, give you a sense of what was going on 
+22 from their perspective? 
+23 A While it was happening, no. I don't remember any conversations with any 
+24 of my colleagues reaching out to me. 
+25 Of course, I was gone out of the White House by then. So if you wanted to get a  17 
+1 message to the President, I wouldn't be first on your list of people to call. 
+Yeah. 2 
+3 Q 
+A And I don't mean to sound insensitive to what was happening, but we didn't 
+4 finish the day. And the day finished --at some point in time towards the end of the riot, 
+5 I believe it was after the President --I believe I was still in Washington when the President 
+6 gave the video speech from the Rose Garden. But there was discussion on the media 
+7 about a curfew going into place. 
+8 
+9 Q 
+A Yeah. 
+I had no interest in being in Washington, D.C., during a curfew, especially if 
+10 there were riots going on. So I immediately got up and went to the airport and went 
+11 home. 
+12 
+13 
+14 
+15 Q 
+A 
+Q 
+A I see. Home in South Carolina? 
+Yes, sir. 
+I see. Tell me how quickly were you able to get out of here? 
+I was ---1 remember I was home in time for dinner, so it would've been 
+16 the type of --there's several flights a day from National to Charlotte. So I got an --I 
+17 called an Uber, went straight to the airport, and got on the next plane home. 
+18 Q I see. Let's go back. I want to get to that point, because there was a 
+19 statement in the Rose Garden, as you said. 
+20 But let's now turn to your specific statements. We just looked at exhibit 5. 
+21 That was your first tweet of the day. 
+22 Just tell me generally at this point, how frequently were you tweeting, or what did 
+23 you use the platform to do before there was a riot at the Capitol? 
+24 A Yeah. I don't remember tweeting much before this. I'm sure I knew how 
+25 to do it, but as with many folks my generation, I was not adept at it. I had a  18 
+1 communications staff at 0MB. 
+2 On the Hill we used Twitter a little bit when I was in Congress. Someone else 
+3 handled that account for me. Same is true at 0MB, and the same is true in the White 
+4 House. 
+5 So this may have been --it was one of the earliest times that I tweeted on my 
+6 own. 
+7 Q I see. When you say you tweeted on your own, it sounds like that you did 
+8 have some discussion with your former colleagues at 0MB. Tell us more about that. 
+9 Were they informing language? Or was it more sort of the threshold question as to 
+10 whether to issue a tweet? 
+11 A No. I cannot remember if I went on there first on my own and did it or if I 
+12 decided to tweet and then ran them by some language or if we were communicating via 
+13 the text thread and, like, "What can I do?" and someone said, "Tweet." I don't 
+14 remember. 
+15 But it was a communal sort of effort, as it would've been when I was at 0MB and 
+16 would've been when I was in the White House. It was I relied on my staff to help me get 
+17 messaging out. The same is true here, even though they were no longer formally my 
+18 staff. 
+19 Q When you say in the tweet, "The President needs to discourage any violence 
+20 immediately," is this an example, Mr. Mulvaney, of what you said before about how 
+21 you're trying to engage him, or he is the audience for this message? 
+22 A Well, I knew that Dan Scavino monitored Twitter. And, again, if you're 
+23 making phone calls and no one's returning them, you try another way to communicate. 
+24 So I was hoping that somebody would see this. And I would hope --was hopeful that it 
+25 would possibly add to a group of voices that might be delivering the same message.  19 
+1 Q I see. So the intention was you add your voice to an urgency that the 
+2 President needs to, as you say, discourage violence immediately. 
+3 A The intention was that Mark Meadows might be able to get my text and walk 
+4 in and say, "Mr. President, I just heard from Mulvaney, and he says you need to do 
+5 something as well." 
+6 Q Understand. Okay. 
+7 Very soon after this tweet, the President --you actually just 2 minutes later, 
+8 exhibit 6, if you turn to your next page, say, "Now is the time for the President to be 
+9 Presidential." 
+10 Tell us what prompted that tweet and what you meant by those words. 
+11 A I know what prompted them. There was an ongoing sort of effort to try 
+12 and encourage the President to act and act appropriately. 
+13 In my mind, what did I mean by being Presidential? Is by doing everything you 
+14 can to stop an attack on the Capitol. 
+15 Q I see. So in your view, being Presidential would've meant actually call for 
+16 rioters to stand down, to leave the Capitol, to cease. 
+17 A That could've been one of several things to do. That would've been a nice 
+18 thing to do. It would've been the right thing to do. 
+19 Q Okay. The President, himself, did subsequently tweet just a few minutes 
+20 later, at 2:38 p.m., "Please support our Capitol Police and law enforcement. They are 
+21 truly on the side of our country. Stay peaceful." 
+22 Did that tweet, in your view, do what it needed to do --discourage violence, get 
+23 people to leave the Capitol? 
+24 
+25 A 
+Q Well, what time is that one? 
+That was at 2:38. And I don't know that you have that as an exhibit.  20 
+1 A I don't see it. That's fine. But is it fair to say that the tweet behind No. 7 
+2 is my next tweet? 
+3 
+4 
+5 Q 
+A 
+Q Yes. 
+Okay. 
+So between yours, "be Presidential," and then your next one, which is at 
+6 3:01, the President essentially says: Support law enforcement and stay peaceful. 
+7 My question is, was that, in your view, sufficient? What was your reaction to 
+8 that statement that the President, himself, made at 2:38 p.m.? 
+9 A Here again I think that my tweet speaks for itself. Given the timeline, it's 
+10 perfectly reasonable to assume that my tweet at 3:01 was somehow in response to the 
+11 President's. I guess if the 2:38 was his only tweet between 2:38 and this --
+12 Q Yes. 
+13 A So it makes sense then that this would be responding to his tweet, saying, 
+14 that's not enough. 
+15 Q Yeah. Exhibit 7 --you're anticipating my next question --is your next tweet, 
+16 Mr. Mulvaney, where you say, "The President's tweet is not enough. He can stop this 
+17 now and needs to do exactly that. Tell these folks to go home." 
+18 Your language is getting sort of more directive and more urgent. Tell us about 
+19 your state of mind at this time, what you're thinking about at 3:01 when you say the 
+20 President's tweet is not enough. 
+21 A Yeah. My state of mind was that, again, I was outraged to see what was 
+22 happening, and I did feel it was in the President's power to stop what was happening and 
+23 that he could do that by going on and telling folks to stop what they were doing. So I 
+24 believed that to be the case, and that's what motivated this tweet. 
+25 Q And much like my question about your previous tweet, Mr. Mulvaney, was  1 this directed at him? Was this an attempt to add your voice to encouraging him to say 
+2 more? 
+3 
+4 A This would've been for an audience of one. 
+I'm not even sure how many Twitter followers I had at that time. It certainly 
+5 wasn't that many. 
+6 
+7 Q Yeah, I understand. 
+All right. Just a few minutes later, if you could keep turning the page, you go 21 
+8 from 3:08 --actually, I'm sorry, an hour later. Your next tweet is at 4:07. And it's, "The 
+9 best thing @RealDonaldTrump could do right now is to address the Nation from the Oval 
+10 Office and condemn the riots. A peaceful transition of power is essential to the country 
+11 and needs to take place on 1/20." 
+12 And you're actually --this is called tagging, where you're actually referencing 
+13 @RealDonaldTrump in your tweet. Tell us both about the language and about the 
+14 decision to include the tag to President Trump. 
+15 A My recollection was that we were still communicating as a group, with my 
+16 former colleagues from 0MB and the White House, and one of them mentioned that if 
+17 we really wanted to make sure that Trump had seen what I was putting out and that it 
+18 would register was to do what you just called tagging. I thought it was tweeting at 
+19 somebody, but the same thing. 
+20 
+21 Q 
+A Yeah. 
+So that would've been based on input I got from that group, because I had 
+22 no idea what that meant or how to do that before that time. 
+23 Q I understand. So the group of 0MB folks with whom you were consulting 
+24 said if you put @RealDonaldTrump in the tweet it's more likely to get his attention or 
+25 more likely to be elevated.  22 
+1 A That's my recollection. And that Dan Scavino --that if the President didn't 
+2 have his phone in his hand, that Dan would either have his phone or Dan would be 
+3 monitoring this account in the ordinary course of business. 
+4 Now, whether or not January 6th was the ordinary course of business and what 
+5 was happening in the building, I have no idea. But the chances of the President seeing 
+6 this would, in my mind, have gone up by taking this step to tag him. 
+7 Q Understood. 
+8 You shift here, Mr. Mulvaney, from, the President needs to issue a forceful 
+9 statement to actually specifically recommending an Oval Office address. 
+10 Tell us what your thinking was about a very specific direction about how he could 
+11 communicate with the Nation. 
+12 A Yeah. That was based on experience. We had had an experience, I think 
+13 it was during the government shutdown, where the President sat down at the Oval Office 
+14 to talk to the camera. And I thought, and the team thought at the time, that he was 
+15 very effective in doing that, one of the times that we thought he looked the most 
+16 Presidential. It was a little more formal, had more of a sense of place and gravity, that if 
+17 you were behind the Resolute Desk looking at the camera, that that would be the most 
+18 Presidential thing you could do. 
+19 So that's why I thought at the time an ordinary statement would not be preferred 
+20 to something that was really the, "Good evening, my fellow Americans, I'm speaking to 
+21 you from the Oval Office," that type of gravity that would come with that. That's what 
+22 my motivation was behind that. 
+23 Q Understood, that a tweet is not as --there's less gravitas or insufficiently 
+24 Presidential compared to an Oval Office address. 
+25 A I think that's fair. It's also a broader audience, right? Because, again, I  23 
+1 didn't follow the President on Twitter. I know my wife didn't follow the President on 
+2 Twitter. I know my parents didn't follow the President on Twitter. And that if the 
+3 whole Nation was watching, tweeting wouldn't speak to as many people as you possibly 
+4 could. 
+5 I knew what the ratings were like when we had Oval Office addresses before, and 
+6 certainly I would think if he had spoken from the desk that day it would've gone out to a 
+7 lot of people. 
+8 Q Yeah. Right around this time, you issued this tweet at 4:07, just a few 
+9 minutes before that, President-elect Biden had come out behind a podium and addressed 
+10 the Nation, and that was broadcast. 
+11 I'm wondering if your recommendation here in the tweet, that there be an Oval 
+12 Office address, was in some way connected to the fact that the President-elect had issued 
+13 a similar sort of video as opposed to a tweet. 
+14 A I don't have any specific recollection of a connection between those two 
+15 things. I don't know --I don't remember Biden seeing it, I'm not saying that I didn't, but 
+16 I don't remember saying, "Oh, Joe Biden did it, he has to do this." 
+17 It was more thinking back to previous times when he'd addressed the Nation in an 
+18 effective manner and how it would've been preferable, in my mind, to go to the Oval 
+19 Office for this statement. 
+20 Q Understand. Also, your language about the violence gets stronger. You 
+21 say it's important for the President to, quote, "condemn the riots," compared to what you 
+22 had said previously, "discourage any violence immediately." 
+23 Is that a reflection, Mr. Mulvaney, of your view that this --the situation had 
+24 escalated, that this was a riot, that this was an increasingly violent and dangerous 
+25 situation at the Capitol?  24 
+1 A I don't remember what the motivation was behind that specific line. I do 
+2 know that it's now 3 hours or so, or 2 hours at least since I've known about the riots. 
+3 And I didn't get the impression, at least from watching TV, that things were getting any 
+4 better. So that may have gone into the thinking behind that part of the tweet. 
+5 Q Okay. So throughout all this period of time, did you get any feedback at all 
+6 from anyone inside the White House, a response from Meadows or Scavino, either a text 
+7 or a call? Or were you continuing to just sort of speak out because of lack of response 
+8 from anyone in the White House? 
+9 
+10 A 
+Q No, I don't remember any response at all from the West Wing. 
+Nobody saying, "Hey, thanks for your message," or, "We're working on it," or 
+11 anything like that? 
+12 A I don't remember any communication from the White House to myself that 
+13 day. 
+14 Q Okay. So about 10 minutes after your tagged tweet, the President does 
+15 post on Twitter this Rose Garden address that you referenced before. And I won't read 
+16 the whole thing to you, but essentially it sort of says, I know your pain, I know your hurt, 
+17 talks about the landslide election that was stolen, and then says, "We have to have peace, 
+18 so go home. We love you. You're very special." 
+19 
+20 Did you see the video when it was posted? It was posted at 4:17 p.m. 
+A I don't remember if I saw the video while it was happening, if I saw the video 
+21 at the airport, or if I saw the video when I got home, but I do remember seeing the video 
+22 that day. 
+23 
+24 
+25 Q 
+A 
+Q What was your reaction whenever you first saw it? 
+I didn't think it was particularly compelling. 
+Why not?  I didn't think it was particularly credible. 
+Tell me more. 25 
+1 
+2 
+3 A 
+Q 
+A I know a little bit how the President operates and thinks and speaks, and the 
+4 line --I remember thinking to myself, the line "We love you" was probably not, in my 
+5 experience --it was a guess but an educated guess --probably not in the text. 
+6 Q Something that he would've likely ad-libbed? 
+7 A That was my --that's my recollection. That was my reaction when I heard 
+8 that line, is that there's no way someone wrote that down for him to say. That's him. 
+9 That's him speaking. 
+10 Q Yeah. And when you say it was not credible, do you mean insincere, that 
+11 he didn't really mean it when he told the people to go home? I don't want to put words 
+12 in your mouth. I'm just curious to hear more what you thought. 
+13 A That would be a fair characterization of my emotional reaction to that 
+14 speech, was that I didn't believe it. 
+15 Q And, Mr. Mulvaney, is that based on your prior experience with him 
+16 yourself? Tell me more of the basis of your view that it was not credible. 
+17 A It's just an understanding of --again, go back to I've seen the President speak 
+18 more than once, and I can sort of tell when he's reading a line and when he's ad-libbing. 
+19 And I got the distinct impression --I could be wrong, I've never seen the text, I don't know 
+20 what was on the teleprompter that day --but my recollection was that the line "We love 
+21 you" was him. 
+22 And my reaction was, no, we don't. We don't love people who riot on the 
+23 Capitol. That was my immediate emotional reaction to his comments. 
+24 Q I appreciate that. Did you talk about that, your reaction, compare it to the 
+25 reaction of others? Were there conversations at any time about the efficacy or sincerity  1 of the President's ultimate video statement that day? 
+2 A I remember talking about it with my family later that evening, but I don't 
+3 remember talking about it with the group or texting and so forth as to whether or not I 
+4 had a reaction to the video that I shared with anybody on my former team. 
+5 Q Okay. And it sounds like --I don't want to belabor this --but you didn't 
+6 have any information about how the video address came to be, who was involved in 
+7 crafting it, or anything like that. 
+8 
+9 A 
+Q 
+10 resignation? 
+11 
+12 
+13 A 
+Q 
+A None. 
+Okay. Now, at what point over the course of the day did you think about 
+I didn't think about resignation till I got home with my family. 
+Okay. What prompted you to think about resignation? 
+Because of COVID, several of the kids -- or it was 
+14 just --it was because of where it fell on the calendar --I have triplets, I have 22-year-old 
+15 triplets who were all in college at the time, and more than one of them was home that 
+16 night for dinner. I can't remember if it was all three of them or if it was just two of 
+17 them, but some of them were there, and we talked about what had happened and we 
+18 talked about how outraged and bothered I was by it. 
+19 And at some point during the conversation --it was a long conversation --one of 26 
+20 my kids asked me what I was going to do about it. And I said, "Really the only thing you 
+21 can do when you're in my position is to resign." And one of them said, "Why don't you 
+22 do that?" And I said, "You know what? That's a good idea." And I went over and I 
+23 started --I think I texted Mike Pompeo that evening. 
+24 
+25 Q 
+A Tell us --
+Mike Pompeo was technically my boss.  27 
+1 Q Yeah. Tell us about that. Was he the first person to whom you reached 
+2 out about the option of resignation? 
+That's my recollection, yes. 3 
+4 
+5 A 
+Q 
+A Once you texted him, did he get back to you? Did you have a conversation? 
+Yeah, I did talk to Mike that night, and Mike said, you know, "Send me a 
+6 statement." 
+7 We did not have a long conversation. I didn't --1 don't remember Mike giving me 
+8 any reaction at all other than, "Mick, send me a statement." 
+9 
+10 
+11 
+12 Q 
+A 
+Q 
+A Did he talk about the possibility of him resigning as well? 
+I don't remember him saying anything about that. 
+Did he say anything about his reaction to the events of the day? 
+No, I don't --what I remember about the phone conversation is, "Mike, I 
+13 have to resign." "Mick, send me a statement." 
+14 I'm sure there was more to the conversation than that, but I don't have specific 
+15 recollection other than those --I know that part happened. 
+16 Q Did he try to talk to you out of it or try to argue, "Hey, you should stay, we 
+17 have a lot to do in the couple of weeks," anything like this? 
+18 
+19 A 
+Q He did not. 
+Okay. Who else did you talk to about your thoughts about resignation 
+20 before it was actually made official, besides Secretary Pompeo? 
+21 A Nobody. Because I went straight from the dinner table to talk to Mike. 
+22 And, again, I can't remember if I sent him --I wrote a handwritten statement of 
+23 resignation, and I scanned it and emailed it to him. I can't remember if I did that that 
+24 night or the next morning. But I didn't talk --I don't remember talking to anybody else 
+25 before that happened.  28 
+1 Q I see. So this wasn't a long, deliberate process where you needed to 
+2 consult with a lot of people? You made up your mind on that conversation with your 
+3 family? 
+4 A My practice, being collaborative with my staff, would have been that at 
+5 some point I would've said either, "Guys, I just did this," or, "I'm going to do this." But I 
+6 don't remember participating in the same type of exchange with them as I had during the 
+7 tweets. 
+8 I did not ask them, that I can recall, "Do you think I should resign?" I made up 
+9 the decision at the dinner table. 
+10 Q Okay. There were a lot of other people who resigned, a couple of members 
+11 of the President's Cabinet. Did you talk to anyone else about his or her parallel 
+12 decisions to yours about resignation? 
+13 
+14 A 
+Q I did not. 
+You wrote an op-ed in USA Today where you explained this. I believe that 
+15 was more recently, in June of this year. You said you resigned because you thought 
+16 Trump failed to be the leader the Nation needed at one of its most critical moments. 
+17 At the time, on January 7th, you tweeted, "We didn't sign up for what you saw 
+18 yesterday. The President has a long list of successes that we can be proud of, but all of 
+19 that went away yesterday." 
+20 Tell us more about --explain more, if you can, those statements that you put in 
+21 that USA Today op-ed. 
+22 A Was one of those a tweet and one of those an op-ed? 
+23 
+24 
+25 Q 
+A 
+Q Yeah. 
+Or which one do you want? 
+Well, the op-ed quotes your tweet.  1 
+2 A 
+Q Okay. 
+It's essentially the President did not do what needed to be done at one of 
+3 the critical moments, he has a long list of accomplishments, but all of that went away 
+4 yesterday. I'm curious for you to tell us more about your views on that. 
+5 A Yeah. I mean, go back to my tweet behind No. 6 at 2:33 about now is the 
+6 time for the President to be Presidential. I thought he failed at doing that. I thought 
+7 he failed at a critical time to be the sort of leader that the Nation needed. 29 
+8 And this was part of my conversation with my family. When you are a relatively 
+9 low-level employee at the time --yes, I had been the chief of staff, I had been in the 
+10 Cabinet and so forth --but at this time I'm a special envoy, so it's not exactly, you know, 
+11 it's not a Cabinet member. 
+12 
+13 Q 
+A Yeah. 
+You know, the way you can articulate your displeasure with the way things 
+14 have gone down is to resign. It was the appropriate step to take. So that's what got 
+15 into that. 
+16 As about his legacy, yeah, I mean, I think I said on television the next morning that 
+17 we had all these successes, had all these policy advances, and you don't get to offset 
+18 great tax policy against a riot. 
+19 
+20 Q 
+A Right. 
+The riot will always be the legacy of the first term of the Trump 
+21 administration. 
+22 Q You did say that the next morning. 
+23 Going back to your resignation, though, Mr. Mulvaney, did you try to reach 
+24 President Trump or Mark Meadows to convey directly to them your decision about 
+25 resignation?  1 
+2 A 
+Q 30 
+I don't remember doing that at all. 
+Do you remember talking to anyone else, officially, besides Secretary 
+3 Pompeo, about your decision? 
+4 A I think I may have sent a text to two other people. One was Elizabeth 
+5 Trudeau, who was the deputy chief of mission, or the charge. I can't remember her title. 
+6 She was our senior staff person in Belfast. 
+7 
+8 Q 
+A I see. 
+And then there was another gentleman, a staffer that I had been assigned at 
+9 the State Department, and I feel awful, but his name escapes me. 
+10 
+11 Q 
+A Yeah. 
+But he had been very helpful to me and had been a good colleague, and I 
+12 wanted him to hear it from me as well. 
+13 So I may have communicated with those two people privately after I had already 
+14 talked to Mike. 
+15 Q Understood. And those are folks with whom you were working on the 
+16 specific Northern Ireland issues, either in country or back here? 
+17 
+18 
+19 A 
+Q That's correct. 
+I see. 
+All right. Let me stop and see if Ms. Cheney or Mrs. Luria or 
+20 Mrs. Murphy have any questions before I proceed on to sort of post-January 6th stuff. 
+21 
+22 
+23 
+24 
+25 Ms. Cheney, anything from you? 
+Ms. Cheney. I don't have anything. Thanks, -
+Okay. Mrs. Luria or Mrs. Murphy? 
+Mrs. Luria. Nothing here. Thanks, -
+Mr.- Okay.  1 
+2 
+3 Q 31 
+Then let's turn to January 7th, because as you said, Mr. Mulvaney, you did 
+4 have--you did some press that day, and I'm just reading a couple of things that you said. 
+5 In an interview with CNBC, you said you had spoken with others who were 
+6 choosing to stay in the administration because they were worried that President Trump 
+7 might put someone worse in. 
+8 When you said that, did you have anything in particular in mind of people that you 
+9 think stayed because of that concern that, hey, if they left, there could be someone worse 
+10 installed in their place? 
+11 A I don't remember who I was referring to in that comment to CNBC. 
+12 remember having that sentiment, but that may be clouded by the fact that during the last 
+13 hearing, or the penultimate hearing that you guys had, there was that comment about, I 
+14 think it was Pat Cipollone who said that if he had left, he was worried about who would 
+15 take his place. 
+16 
+17 Q 
+A Yes. 
+So I don't --I know that's not the first time I've heard that, it's the first time 
+18 I've heard it in my own head. But I don't remember who I was referring to in that 
+19 comment to CNBC. 
+20 Q Okay. You also said, and it may have been in that same interview, that the 
+21 President is not the same as he was 8 months ago. You sort of observed that you think 
+22 there had been a change in President Trump. Tell us more what informed that and what 
+23 you meant by that. 
+24 A I was surprised that --I was stunned by the violence and was stunned by the 
+25 President's apparent indifference to the violence.  32 
+1 My experience with President Trump led me to believe that that was a very, very 
+2 different sort of reaction to the circumstance that I would've expected of him when I was 
+3 the chief of staff. 
+4 The President --and I believe I wrote this in a part of my Wall Street Journal 
+5 piece --I had seen the President have the opportunity to do what people might think to 
+6 be unorthodox things, and after floating an idea or thinking out loud or having a 
+7 conversation, say, "No, I'm not going to do that. That's not Presidential." I had seen 
+8 that more than one time and I believe that to be the case. 
+9 At this time, I had already written the Wall Street Journal thing, right? 
+10 Q I think you had. That was actually prior to January 6th. 
+11 A Yeah. So I think what I wrote in that piece was my recollection of the 
+12 President, which is that he would yell and scream and fight and do whatever, but at the 
+13 end of the day, when push finally came to shove, he would be Presidential because that's 
+14 what I had seen before. 
+15 Now, there's a lot of folks who don't think he was ever Presidential to begin with. 
+16 I disagree with that. 
+17 I had seen him float ideas and shoot ideas down. Again, the President thinks out 
+18 loud sometimes. But I had never seen him actually come close to going through with 
+19 something that even approached what happened on January 6th. 
+20 Q I see. You used the word "indifference," and I'm curious if you could talk 
+21 more about that. Is that based on things that you heard about what he was saying or 
+22 doing on January 6th or just the lack of condemnation or prompt response that you were 
+23 encouraging? 
+24 A -I don't mean to dodge your question, but it's hard for me to say 
+25 because it's a combination of things. It's what I saw on the day, but it's also been  33 
+1 combined now with things that I've seen during the January --during your hearings, right? 
+2 I know a lot more about what was happening now on the day than I did then. But I think 
+3 there's evidence of indifference during my tweet series on the 6th itself. 
+4 
+5 
+6 
+7 Q 
+A 
+Q 
+A Right. 
+So I guess the answer is probably both. 
+Yeah. 
+Again, I'm not trying to be difficult. I'm just not really sure how to answer 
+8 your question best. 
+9 Q No, look, I appreciate the care with which you're approaching the answer, 
+10 because it is hard sometimes to separate personal knowledge from real time to what you 
+11 have heard and read about later. 
+12 "Indifference" is an important word. And beyond what you heard about in the 
+13 hearings, it sounds like you're saying his lack of urgency or response during the day is 
+14 what informs that? 
+15 
+16 A 
+Q I quit because of his lack of urgency of response. 
+Did you --have you heard anything in the weeks and months since from 
+17 others who were involved in those discussions in the White House further evidence of his 
+18 indifference? Talked to the Pat Cipollones or Eric Herschmanns of the world about that? 
+19 A I don't think I've had direct conversations with any of those folks. The 
+20 additional information I have, subsequent to the actual day itself and what I saw and 
+21 experienced firsthand, is what I've seen through these hearings. 
+22 Q How about Mark Meadows, have you talked to him about what happened 
+23 that day? 
+24 A I don't think I have talked to Mark Meadows since long before --well, I may 
+25 have talked to him around the election. I have not talked to Mark in a long time.  34 
+1 I bumped into Mark in the airport a month ago, and he said hello and I said hello, 
+2 and that was the end of it. I have never talked to Mark Meadows about what happened 
+3 on January 6th. 
+4 Q I see. So no substantive discussion with him about his experience that day, 
+5 about his discussions with the President that day? 
+6 A No. Not talked to him, not talked to Pat. I crossed paths a couple times 
+7 with Herschmann, but I don't have a relationship with him. 
+8 
+9 
+10 Q 
+A 
+Q Okay. 
+So, no, I have not talked to anybody, I don't think, who was on the inside. 
+Yeah. Fairly obvious question, but let me ask it anyway. If you were 
+11 White House chief of staff on January 6th, what would you have been doing immediately 
+12 upon the evidence of violence at the Capitol? What would've been your approach, your 
+13 advice, your direction, attempted direction of the President? 
+14 A It would've been the same as the tweets, right? But it would've been in a 
+15 different manner. 
+16 Again, as I mentioned to you, you understand a little bit about how the President 
+17 communicates and how he receives information. What I would've been doing is to try 
+18 and figure out a way to get you and you and you and you --and by "you," I mean Sean 
+19 Hannity and Steve Scalise and Mick Mulvaney and Jared Kushner, and everybody to sort 
+20 of get on the same page of sheet music to sort of present, "I agree with this, 
+21 Mr. President, I agree with this, Mr. President." That's sort of --that would've been how 
+22 I would've --think I would've handled it. 
+23 Q And who would be on the list of people in your experience, Mr. Mulvaney, 
+24 that you think would have credibility with the President, whose views, whose 
+25 perspectives would be influential?  35 
+1 A Pretty much anybody on FOX News, not the least of which would be Sean 
+2 Hannity and Lou Dobbs. 
+3 The family members, especially Don Jr. and lvanka, not to dismiss Eric or Jared and 
+4 that, but I'm just trying to figure out what order that might be in. 
+5 Some of his business friends. Bob Kraft would be on the list. Fred Smith might 
+6 be on the list, the CEO of FedEx. 
+7 Lawmakers that he liked and enjoyed being around, including members of the 
+8 House Freedom Caucus. Kevin McCarthy would be on the list. 
+9 That would sort of be --that's the cast of characters, that's the usual suspects. 
+10 Q So if you wanted the President to do something or take a position, fair to say 
+11 you would try to get some of those influencers or people whose views he valued to 
+12 support your position, to weigh in with the President directly? 
+13 A That's correct. And by the way, and the White House Counsel Office would 
+14 be on that as well. 
+15 Q Okay. Okay. 
+16 Do you recall, either January 7th or anytime thereafter, any discussion with 
+17 anyone about the potential invocation about the 25th Amendment? 
+18 A I don't remember any conversations along those lines. And it wouldn't 
+19 have been appropriate. I wasn't in the Cabinet anymore. 
+20 Q Yeah. But when you, yourself, said, the President is not the same as he was 
+21 8 months ago, did you hear others --that sentiment coming from others, that perhaps 
+22 there was some concern about the President's mental stability? 
+23 
+24 A 
+Q No, I do not remember conversations along those lines. 
+Okay. And I know you weren't involved in them yourself, but did you hear 
+25 that such discussions were going on, not from the press but directly?  36 
+1 A No. 
+2 Q It looks like you spoke with Chris Wallace on January the 10th, just a few 
+3 days after. Wallace asked you if you supported mechanisms to remove President Trump 
+4 from office. You said, "The 25th Amendment is a very clumsy tool, and we've never 
+5 used it under these circumstances." And you added, "I can assure you, there would 
+6 members of both parties who would look at it very, very differently than they did last 
+7 year." 
+8 Again, explain, when you say look at it very differently, both parties look at it very 
+9 differently from last year, what do you mean? 
+10 A Yeah. My recollection is the 25th Amendment had come up in some 
+11 fashion previously, and I can't remember the circumstances under which it was, but that 
+12 is when I had --I believe I was chief of staff at the time. I might've just been at 0MB and 
+13 a curious, sort of interested onlooker. But that's when you sort of educate yourself as to 
+14 what the 25th Amendment was. 
+15 I don't remember, as I sit here, exactly how it works, but I remember thinking to 
+16 myself that could take a while. If you ever needed to use it in general, it's not the type 
+17 of thing that --there's an appeal process. I can't remember exactly how it works out. 
+18 
+19 Q 
+A 
+20 January 6th. 
+21 Q Very clumsy tool. 
+So that was --I had formed that opinion about the 25th Amendment before 
+I see. Now, beyond the 25th Amendment, did you have any discussions 
+22 with anyone about other ways that President Trump's decisionmaking could be 
+23 managed --should be managed or checked between January 6th and January 20th? 
+24 A Other than what? I'm sorry. 
+25 Q Like Secretary Scalia, for example, proposed a Cabinet meeting at which  37 
+1 there would be --the Cabinet's involvement in major decisions would be contemplated or 
+2 would be required. 
+3 
+4 
+5 A 
+Q 
+A I don't remember --
+Any discussion about that? 
+I don't remember any participation or any discussion. But keep in mind, by 
+6 this time, again, not only was I gone from the Cabinet, I was gone from Washington, D.C. 
+7 
+8 
+9 Q 
+A 
+Q You had resigned? 
+So there's no reason for Gene to call me. 
+Okay. All right. 
+10 Now, earlier this year, you have been on CBS pursuant to your work as a 
+11 commentator, and you have said a few things that I want to ask about. 
+12 You said in watching one of the committee's hearings, you said that you texted 
+13 someone who was working in the White House back at the time of January 6th, and you 
+14 said, "You know, if I listen to Cassidy Hutchinson closely, it sounds like Mark was either 
+15 completely incompetent at the job or was having a nervous breakdown." 
+16 And the person with who you were reporting, you're having this text exchange, 
+17 said, "It was a little bit of both." 
+18 Tell us, if you can, who was the person with whom you were having that text 
+19 exchange, and what did you mean by, "It sounds like Mark was either incompetent or was 
+20 having a nervous breakdown." 
+21 A Yeah. It was Alyssa Farah. She has a different last name now, I don't 
+22 know if she's been married, I don't know what her name is. And I would not have 
+23 reached out to Alyssa, so she must've reached out to me on something else. 
+24 It was either during Cassidy's testimony or right after or something like that. 
+25 Maybe she was watching my tweets about Cassidy's testimony.  38 
+1 I have since discovered --I thought Alyssa was still in the White House on 
+2 January 6th. I have since come to learn she left shortly before that. 
+3 But I did ask her, I said, you know, when Cassidy told the story about Mark sitting 
+4 on the sofa, I can visualize that because I don't think Mark moved the sofa from when I 
+5 had it there. I know where the doorway is. I know where Mark would be sitting. 
+6 Q It was your office. 
+7 A It was facing the door. And if my executive assistant, which is essentially, I 
+8 think, the role that she filled --it was --she wasn't John Fleming. I think John was his 
+9 chief deputy, the role that Emma Doyle filled for me. 
+10 But if, you know, if James Galkowski came to my door and said, "Boss, there's riots 
+11 at the Capitol," and then Pat Cipollone came in and said, "Yeah, we've got to do 
+12 something," and I just sat there and texted, that visual made me wonder what was going 
+13 on in Mark's head at the time, and was he completely detached in an unusual way. And 
+14 that's what prompted that exchange with Alyssa. 
+15 Q Yeah. The two options you conveyed to Alyssa are he's either incompetent 
+16 or having a nervous breakdown. Tell me more about what made you think he might be 
+17 incompetent beyond that vignette that Ms. Hutchinson testified about? 
+18 A Not capable of understanding what the job is. There's a reason that the 
+19 White House Counsel is coming to you. There's a reason that your staff is coming to 
+20 you. There's a reason that Sean Hannity is calling you. There's a reason that former 
+21 chiefs of staff are calling you. Because you are the gatekeeper, and if they talk to you, 
+22 it's supposed to be like talking to the President. 
+23 And so that, the fact that he's not doing that, makes you wonder if he understood 
+24 what the job was, at least in that moment. He may have understood it previous, but in 
+25 that moment, he's clearly not playing that role.  39 
+1 As to having a nervous breakdown, that was just the visual I had in my head of 
+2 tweeting while Rome burnt. And I just didn't know --I had no insight as to what was 
+3 going on in Mark's head, so I asked Alyssa because --again, she reached out to me first, I 
+4 believe, because I thought she might have some insight. 
+5 Q I guess my question is, were there other things that you had seen or heard 
+6 about Mr. Meadows' approach to the job that informed your suspicion that, again, either 
+7 he didn't appreciate the gatekeeper role or was having some sort of nervous breakdown? 
+8 Was that a common theme, in other words? 
+9 A There was one other thing that Cassidy said --it was double hearsay, so take 
+10 it for what it's worth --about when --the story she heard from Ornate supposedly 
+11 through Engel about what happened in the limousine right after the rally, that I believe 
+12 Cassidy's testimony was the President was still under the impression that the trip to the 
+13 Capitol was possible because Mark told him so and that Bobby Engel would have more 
+14 information. And then the testimony was that Bobby then said, "Mr. President, we can't 
+15 do this." 
+16 To me, as a former chief of staff, that's a giant red flag, because in my mind I 
+17 interpret that as meaning that Mark didn't have the guts to tell the President no, and that 
+18 everybody in the building knew that the President wasn't going up to the Capitol, and 
+19 that Mark should've been the one to deliver that message and wasn't. 
+20 Q I see. Fair to say that the chief of staff, to be effective, has to be able to tell 
+21 the President no or convey information that will be inconsistent with what he wants? 
+22 
+23 A 
+Q The chief of staff's job is to tell the President things he doesn't like to hear. 
+Right. And did you have --did you suspect that Mr. Meadows was not 
+24 always consistent to that role? 
+25 A During Cassidy's testimony is when that became --I started worrying about  40 
+1 that generally. 
+2 I mean, you always worry about it because it's tough to tell the President of the 
+3 United States things --everybody will tell you that. Every old chief will tell you that. 
+4 And that's what the previous chiefs had told me when I took the job. 
+5 So you always have that general concern. But the two pieces of testimony she 
+6 gave about the texting on the sofa and the exchange in the limousine made me wonder if 
+7 that was being done in this White House. 
+8 Q Understood. Tell me a little bit more about your experience with 
+9 Ms. Hutchinson when she worked with you. 
+10 A Very little. As I think I've tried to say, I don't pretend to know Cassidy very 
+11 well. In fact, I had to ask of my team, I said, "I recognize her. What did she do for us?" 
+12 She was a junior person at the Office of Legislative Affairs. I think she was in 
+13 what we used to call the white glove service or something like that. 
+14 She was in charge of, amongst other things, shepherding dignitaries, including 
+15 Members of Congress, around the White House complex when they came to visit. But I 
+16 didn't have any direct relationship with her. She would have worked for Eric Ueland. 
+17 Q Yeah. You've said a couple of times on television that you believe her, that 
+18 you always felt like she was credible, she was competent, she was someone whose 
+19 capabilities you respected. Just give you a chance to elaborate on that. 
+20 A Sure. I mean, when she started the testimony, you know, again, I was 
+21 going back and forth with my colleagues. And I'm, like, "Who is she again?" And 
+22 somebody says, "Oh, she's such and such. She's at OLA. And she used to work for 
+23 Scalise." I'm like, okay, that's where I could remember her from, because I was in the 
+24 House with Steve. 
+25 So I knew her background was with Steve Scalise, and to me, that's a pretty good  1 track record. I learned during the hearing that she also worked for Ted Cruz. 
+2 
+3 So I had no reason to believe that she was a Democrat plant or a never Trumper. 
+Q Last question along these lines. Another thing you have said is that the 41 
+4 system fell apart under Mark's watch. Again, I'm not sure if that was in --exactly which 
+5 of your appearances on CBS. 
+6 Just wondering what you meant by that, when you said --is that based on what 
+7 Cassidy said about those two vignettes, or is there a broader sort of foundation for your 
+8 statement that the system fell apart under Mark's watch? 
+9 A Cassidy's testimony would be the primary stuff for that, but you guys offered 
+10 a lot of evidence of other things happening that, as a chief of staff, you go, "Oh, shit." 
+11 The meeting with the lawyers in the Yellow Oval that the White House Counsel Office 
+12 didn't know about, that's a sign of a breakdown. 
+13 So I don't remember the other experiences. But generally speaking, every time 
+14 you folks put on another hearing about what's going on in the White House, I'm like, 
+15 that's not how it's supposed to be working. 
+16 Q Yeah. We've put on a lot of evidence over the course of the hearings and 
+17 we've developed a lot of evidence about people that had had increasing access to the 
+18 President, people beyond the White House staff. 
+19 I'm wondering how you managed that when you were chief of staff, sort of the 
+20 gatekeeping role of people from the outside who wanted to talk to the President that you 
+21 may not have thought were helpful. What was your approach to that?  42 
+1 
+2 [3:02 p.m.] 
+3 Mr. Mulvaney. It was difficult. The President did not really want a traditional 
+4 gatekeeper. He did not like --he did not like people being excluded from the Oval 
+5 Office, from a meeting or whatever. He liked big meetings. He liked a variety of 
+6 opinions. When we had the trade meetings, he would have people who were hawkishly, 
+7 you know, protectionist and then free marketers. So he liked that sort of collaborative 
+8 approach. And he didn't like the concept of people being excluded. 
+9 So I found as Chief of Staff it was very difficult for me, not impossible, but difficult 
+10 for me to exclude people who wanted to be --really wanted to be in there. And the way 
+11 I handled it was to try and balance it so that every time I had the protectionist Peter 
+12 Navarro come in to talk about a trade issue, I also got Steve Mnuchin or Gary Cohn or 
+13 Larry Kudlow to sort of balance, so that the President wasn't getting just one side of the 
+14 story. 
+15 
+16 
+17 
+18 Q 
+A 
+Q So not exclude X, include Vas a counterpoint? 
+Correct. 
+I see. All right. A couple of wrap-up questions about January 6th. Have 
+19 you talked to anyone else at any time, between then and now, Mr. Mulvaney, whose 
+20 given you anymore insight about what was going on inside the White House that day? 
+21 
+22 
+23 
+24 A 
+Q 
+A 
+Q That day? 
+Yeah. 
+I'm sorry, ask your question again. 
+Have you talked to --I'm just looking for it now, general conversations that 
+25 you have had about January 6th in the months since then that formed the views that you  1 have expressed today or give you any other insight about it? 
+2 A I had a conversation at some point in the day or week after the riot with 
+3 Kevin McCarthy? 
+4 
+5 Q 
+A Tell us about that conversation. 
+Very similar to what you've heard from other witnesses. That he had 
+6 talked with --1 think --who was it? The Member of Congress from Washington State? 
+7 
+8 
+9 Jaime -­
+Jaime. 
+--Herrera. 43 
+10 Q 
+A 
+Q 
+A Yeah, it was very similar to what Jaime had, the conversation she had retold 
+11 about how we called and asked the President to get them to stop. And the President 
+12 told them something along the lines of, Kevin, maybe these people are just more angry 
+13 about this than you are. Maybe they're more upset. I had a conversation similar to 
+14 that with Kevin in the day to week after the riot. 
+15 Q I want to be clear, Leader McCarthy indicated much like he had to 
+16 Representative Herrera Beutler, that the President made a statement, like, Kevin, maybe 
+17 these people are more certain about the election than you are. 
+18 
+19 
+20 
+21 A 
+Q 
+A 
+Q 
+22 January 6th? 
+23 
+24 
+25 A 
+Q 
+A That is my recollection, yes. 
+Okay. Was that on the phone or in person? 
+That would have been on the phone. 
+All right. And you say within the week of the days immediately after 
+I believe that to the case, yes. 
+Did he call you, or did you call him? 
+I don't know. Kevin and I have a good relationship, and we would speak  44 
+1 regularly. It's not unusual for us to talk. So I do remember it was on the phone, 
+2 though, because I'm pretty sure I was in South Carolina. 
+3 Q Okay. Did you talk to any other Members of Congress about their 
+4 experience on January 6th? 
+5 A I'm sure over the course of the last year and a half, I've talked to my former 
+6 colleagues about it, but I don't have any specific recollection of anything that stands out 
+7 about being unusual or anything different than anything else you've heard. 
+8 Q Okay. How about Mr. Meadows, did you ever talk to him at all in the days 
+9 from then till now? 
+10 A I believe my only interaction with Mark would have been at the security 
+11 checkpoint at National Airport last month. 
+12 Q How about President Trump himself, did you talk to him at all? 
+13 
+14 
+15 A 
+Q 
+A Yes. 
+Yes. 
+Yes. Okay. But your question about the communications with Mark were 
+16 after the riot, correct? 
+17 
+18 Q 
+A Yes. Tell us about the communication you may have had with him before? 
+It's actually got --right shortly after he took over, we had a dinner together 
+19 because it was COVID, and because you had to eat outside at the time in Washington. It 
+20 was sort of hard to keep it private. So we were up on 14th Street someplace. And we 
+21 had been photographed, as you always are in this town. 
+22 Q I see. I appreciate that, Bob. Yeah, no, that's interesting, and I appreciate 
+23 that. But nothing with him since January 6th other than the brief exchange? 
+24 
+25 A 
+Q I don't remember any conversations with him since January 6th. 
+How about the President, have you talked to him about anything since you  1 left, you resigned on January 6th? 
+2 
+3 
+4 Mr. Mulvaney. You okay with me answering that? 
+Mr. Driscoll. Yeah. 
+Mr. Mulvaney. This is going to sound crazy. Do you all know when Phil 
+5 Mickelson won the PGA championship? 
+6 
+7 
+8 Q 
+A Not offhand. 
+Okay. I think it was the summer of 2021. I could be wrong after that. 
+9 That would make it after the riots. 
+Q Okay. 45 
+10 
+11 A And I remember reaching out to him on that occasion to encourage him, not 
+12 only to call Mickelson, because Mickelson was a big fan of his. They played golf 
+13 together. I knew he was going to do that, but I also called Louie Oosthuizen and 
+14 congratulate him on placing second, because Louie was a fan of the President as well and 
+15 had played with him at Mar-a-Lago. 
+16 
+17 Q I see. 
+A So that, I believe, is the only conversation I've had with the President that is 
+18 after January 6th, if that is in fact after January 6th. 
+19 
+20 Q Yeah. 
+A And I believe it is. I think it's summer of 2021 when Mickelson won the 
+21 tournament. 
+22 
+23 
+24 
+25 Q Got it. It sounds like you never talked to the President about January 6th? 
+A I have never talked to the President about January 6th. 
+Q About your resignation or what informed it? 
+A I've never talked to the President about my resignation.  46 
+1 Q Okay. All right. Any other conversation with anyone about January 6th 
+2 that you think is --might be interesting or relevant to us at any point between then and 
+3 now? 
+4 A I can't think of any. And if I had, I probably would have mentioned it in the 
+5 press. So if you have seen my press clippings, you probably got them, but I don't have 
+6 any --I don't have any specific recollection of any meaningful conversations other what I 
+7 probably had with a dozen Members of Congress over, Were you here that day? Where 
+8 were you? Those types of conversations. 
+9 Q Understood? 
+10 A Nothing substantive. 
+11 Q Okay. Let me stoop and see if any of our members have any questions 
+12 before we sort of move on to election-related stuff. Ms. Cheney, I see you 
+13 coming --yeah, please. 
+14 Ms. Cheney. Thank you. I wanted to ask about --you mentioned Sean Hannity 
+15 a couple of times. Can you just give us your sort of assessment about his relationship 
+16 with President Trump and the role that he played in advising the President? 
+17 Mr. Mulvaney. I think it's safe to say, Liz, that he was an informal advisor of the 
+18 President who turned to a lot of, to a variety of sources to get information to help him 
+19 form opinions on policies, and so forth. And I don't think it's any secret to say that he 
+20 watched a good bit of Fox News. He watched a lot of cable news. And that he had a 
+21 close relationship with Hannity, and with Lou Dobbs as well. And that they would be --I 
+22 would consider them to be informal advisors to the President. Just like you and I have 
+23 informal advisors to our congressional offices who really aren't staff, but we appreciate 
+24 their opinions. 
+25 Ms. Cheney. And were there any --would you say the President consulted with  47 
+1 Hannity on a variety of issues or any particular issues? 
+2 Mr. Mulvaney. It would be a variety of issues. You know, what do you think 
+3 about this, Sean? I saw this on your program last night, what do you think about that? 
+4 It wasn't --it wasn't --it wasn't, Oh, today, if we got immigration, I got to talk to Hannity. 
+5 That's not how it worked. It was very informal and free-flowing. 
+6 Ms. Cheney. Okay. And then in terms of other Members of Congress, did you 
+7 talk to Jim Jordan before the 6th, in the days leading up to the 6th? 
+8 Mr. Mulvaney. I do not recall talking to Jimmy at all since probably before the 
+9 election. 
+10 Ms. Cheney. And so when you got up to Washington, did you come up on the 
+11 5th in order to do the Nancy Mace. 
+12 Mr. Mulvaney. That's what I recall. That would be --again, I don't know, and I 
+13 haven't looked at my flight arrangements. If it would make that big a difference, I could 
+14 certainly do that. But my recollection --the tip of my practice is to come up the night 
+15 before these things because I don't like spending a lot of time here. So I come up the 
+16 night before, and so that I can have a morning meeting. I may have come in a day or 
+17 two early. But I think that was a Tuesday. 
+18 A Wednesday. 
+19 Mr. Mulvaney. It was a Wednesday? Yeah, but my recollection is I came up the 
+20 night before. 
+21 Ms. Cheney. Okay. And so, you just don't recall, for example, one of the 
+22 dinners that a number of us frequently have at the Capitol Hill Club, for example, the 
+23 night before? 
+24 
+25 Mr. Mulvaney. Was I at that dinner? 
+Ms. Cheney. No, I was just asking if you recall if you did have dinner at the  48 
+1 Capitol Hill Club the night before. 
+2 Mr. Mulvaney. Liz, I don't remember having dinner the night before. I've had 
+3 dinner there literally 100 times, but I don't --if I do, it doesn't stand out as being unusual 
+4 in any fashion. 
+5 
+6 Ms. Cheney. Okay. 
+Mr. Mulvaney. Would I go to the Capitol Hill Club the night before, the night I 
+7 get in? Yes, especially if I get could get Gowdy to pick up the tab because I think his 
+8 account was still open there at that time. But I don't --if I had been there that night, I 
+9 don't remember anything meaningful happening. 
+10 Ms. Cheney. Okay. And so, again, just no discussions with anybody who was 
+11 involved in the objections the next day? 
+12 Mr. Mulvaney. I don't remember talking to anybody about objections. It 
+13 doesn't stand out in my mind at all. 
+14 
+15 
+16 Ms. Cheney. Okay. Thank you. 
+Mr. Mulvaney. Okay. 
+Thanks, Ms. Cheney. Anyone else on the line? Mrs. Luria or 
+17 Mrs. Murphy? Mrs. Murphy may have dropped off. If not, let me turn to the room. 
+18 Yeah,. go ahead. 
+19 You mentioned you had a conversation with Kevin McCarthy shortly 
+20 after the riot at this point. Aside from his discussion with the President that he relayed 
+21 to you, did he talk to you about his own experience on the 6th at all, what it was like, 
+22 what he or your staff went through? 
+23 Mr. Mulvaney. I remember having a conversation with somebody at some point 
+24 about running through the hallways and so forth, but I don't remember if it was Kevin or 
+25 not.  1 
+2 
+3 
+4 Q 49 
+Okay. Thanks. 
+Dan, how about you? 
+Yeah, just a few names to follow up on the discussions you may have had 
+5 around the time of the 6th or any time after. What about Mr. Scavino, did you ever talk 
+6 to him about January 6th? 
+7 A After? 
+8 
+9 
+10 
+11 Q 
+A 
+Q 
+A Correct. 
+No, I don't think I've talked to Dan since January 6th. 
+How about Representative Scalise? 
+I don't talk to Scalise as much as I talked to McCarthy. I have talked to 
+12 Stevie, but I don't remember a specific conversation with him about his experiences on 
+13 that day. 
+14 Q Okay. And just to back up to the 6th itself, your text message to Mr. 
+15 Meadows on the 6th said that he needs to stop this now, "he" being the President. Your 
+16 tweets talked about the President's needing to discourage violence. You even tweeted 
+17 at the President himself at some point that afternoon. So I guess my question is, why 
+18 did you think the rioters would listen to the President and stop the attack on the Capitol if 
+19 he spoke? 
+20 A Well, I was under the impression those were his folks. I have been to 
+21 Presidential rallies before. I have been to probably more than a dozen Trump rallies. 
+22 Maybe two dozen. I know who goes to those things. Are there some interlopers? 
+23 Yeah. Are there some folks who don't like the President there? Yeah. But 98 percent 
+24 of the folks who are there are there because they're big Trump fans. And I assumed that 
+25 was the same group of people that had come to the rally on the 6th.  1 Q And based on your experience, Chief of Staff within the administration 
+2 seeing those type of rallies and the way the President sent his messages to supporters, 
+3 was it your view then that they would listen, his supporters would listen and stop the 
+4 attack if he, in fact, spoke on the afternoon of the 6th strongly saying to stop? 
+5 A I was under the distinct impression that if he had asked them to stop and 
+6 leave the Capitol, that they would listen to that, yes. I could be wrong about that, but 
+7 that was my experience having seen him interact with his supporters before. 
+8 
+9 
+10 
+11 Q 
+Q Thank you. 
+Sure. Do you have follow-up? 
+Mr. Mulvaney, earlier when we walked you through your tweets, including 50 
+12 tweeting at the President, I think that you said something along the lines that you wanted 
+13 to add your name to the chorus of voices to President Trump, and that was your hope. 
+14 Did you, in fact, know --setting aside what you know now, maybe for our hearings, if 
+15 there were a chorus of voices --
+16 
+17 A 
+Q No. 
+--at President Trump trying to get him to talk down the rioters? 
+18 A No. In fact, one of the things I learned now from the hearings is that many 
+19 of the names that I gave you of people that I would be trying to get to speak to the 
+20 President are people that actually spoke to the President. But I didn't have any 
+21 awareness at the time that anybody else was talking to him. 
+22 Q So it was just an assumption that people would, of course, be trying to get 
+23 the President to do something? 
+24 
+25 A 
+Q An educated guess based upon my experience working in the Oval Office. 
+Okay. Thank you.  51 
+1 All right. We want to move on to just a few things about the 
+2 election. We maybe have 30, 40 minutes left. Do you want to take a break before we 
+3 do that? 
+4 
+5 Mr. Driscoll. We can go. 
+I appreciate that. All right. I'm going to turn to- to 
+6 march you --now we're going to go back in time to right around the election. 
+7 
+8 Q So focusing a little bit more on 2020, were you involved at all in President 
+9 Trump's re-election campaign either before or after Election Day? 
+10 
+11 
+12 Day? 
+13 A 
+Q 
+A Yes, before, and yes, after. 
+Okay. So describe your involvement first before and then after Election 
+Before Election Day, I was the --I guess my title, I had a title, it was the 
+14 Chairman of Catholics for Trump. It sounds a lot more impressive than it is. It was 
+15 mostly me and one other person, and we canvassed --we went up and down the 
+16 Midwest from Pennsylvania all the way through to Minnesota speaking to Catholic groups 
+17 as part of the campaign. 
+18 Q And who did you --did you work with anyone from the campaign in 
+19 connection with that role? 
+20 A Yes, I did. And please don't tell her I can't remember her name because 
+21 she did a really wonderful job, and I have no idea what her name is. 
+22 
+23 Q 
+A Okay. 
+But it was another staffer, I can get that for you folks afterwards. But she 
+24 was the permanent staffer. She worked for the campaign. I believe her salary was 
+25 paid by the campaign. I think her expenses were paid by the campaign. She was  52 
+1 essentially my executive assistant. I was the --I gave the speeches. I showed up for 
+2 the rallies. I asked for money. I encouraged people to vote for President Trump, and 
+3 she did all the real work. 
+4 Q Did you have any involvement in terms of which States to focus on, 
+5 outreach, any specific dates, get any access to early polling, or anything like that? 
+6 A You know, we were left pretty much on our own, but it's not rocket science 
+7 as to where the large Catholic communities are in swing States. So we went to Philly 
+8 and Pittsburgh and Minneapolis and Milwaukee. 
+9 So I don't know if there was --is she coordinated with the campaign on doing that 
+10 or not. She called up and she said, I have set something else up for us next week in 
+11 Milwaukee, can you do it? I would do it. Did we have access to polling? Yeah, I think 
+12 we probably did. Again, she was a paid staffer, I believe. So she would have had 
+13 access to most of the stuff that other staffers had. 
+14 
+15 Q 
+A Did you have the campaign email address? 
+That's a really good question. I don't remember. I'm pretty sure she did. 
+16 I don't remember if I did or not. 
+17 
+18 
+19 Q 
+A 
+Q You might have used her personal email address? 
+Possible. 
+Okay. Do you remember any discussions about mail-in voting or how that 
+20 could affect election night, Election Day? 
+21 A Not really. I mean we --there was --generally speaking, people were 
+22 aware of what was happening in Pennsylvania and other States because of COVID and the 
+23 changing rules, and so forth, but I don't remember ever having any coordinated 
+24 conversations with the campaign hierarchy about how are we going to address this issue. 
+25 I was aware it was an issue, but I don't remember. It didn't factor into what we were  1 doing in the groups we were meeting with. 
+2 
+3 Q 
+A What about just informal conversations, setting aside coordinated? 
+Possible. I mean, I talked with some folks on the campaign from time to 53 
+4 time, but I was not involved in any sort of strategy over how to handle mail-in voting and 
+5 the lack of signatures on voting or drop boxes. That was not in my portfolio. 
+6 Q Do you remember any conversations? It sounds like you have maybe a 
+7 vague recollection. 
+8 A Again, it's a vague recollection because it was being discussed nationally in 
+9 the press at that time because the rules were changing and so forth. I believe there had 
+10 been some lawsuits filed. So, you know, if you read the Drudge report or The Wall 
+11 Street Journal or watch CNBC, there's going to be information about what happening in 
+12 the run-up to the election. It could have been there just as easily from a conversation 
+13 with somebody on the team. 
+14 Q Do you recall if you had any discussions about election night and what 
+15 President Trump should say that night? 
+16 A No. If you're referring to the he is going to declare victory, and everyone 
+17 has said all that, no, I was not --he was not involved in any of those conversations. 
+18 Q So you don't remember hearing anything like, Oh, it looks like we're up, we'll 
+19 just say that we won? 
+20 A No, I never heard that. I thought we were up because I was watching the 
+21 returns come in, and I was, I think, sending out some tweets at the time. But I don't 
+22 remember --I did not --I don't believe I participated in any sort of strategy of how the 
+23 President would handle what was going on. 
+24 
+25 Q 
+A Were you at the White House on election night? 
+No. I was either in Key West, Florida, over my parents' house or in South  54 
+1 Carolina at my home. And I believe I was at my house because I had the television that 
+2 night. 
+3 
+4 Q And I'll just note, I believe Mr. Aguilar has joined us. Welcome, Mr. Aguilar. 
+You mentioned you had a role, it seems like, or involvement in the election, or 
+5 excuse me, President Trump's campaign post-Election Day. Tell us about that. 
+6 A Yeah, it wasn't official. I had started weighing in on some of the issues with 
+7 accounts and the status of the accounting. I remember one State, in particular, I was 
+8 paying attention to, which was Arizona. I had friends there. David Schweikert, he is a 
+9 Member of Congress from there. David and I were texting about the results; texting 
+10 about how they counted votes in Arizona, what the status of the various votes were. 
+11 So I was involved in sort of keeping an eye on what was happening from afar, just 
+12 media reports and whatever I can get from the ground from Mr. Schweikert. I did some 
+13 media, I believe, as a surrogate, as I had done during the run-up to the campaign over, 
+14 you know, how things were going on in Arizona and how accounts weren't finished yet, 
+15 and how the account might break to the point where the President could still win Arizona, 
+16 et cetera. So that was my involvement in the days after the race, after the election. 
+17 Q Were you involved in any campaign calls about strategy for counting other 
+18 States? You mentioned you seem like kind of informal discussions about Arizona? 
+19 A No, I was involved with one --I recall one conversation with the campaign in 
+20 the days after the election. I don't remember exactly when, but I do know that this 
+21 conversation took place when I was in Key West, Florida. So it was not on Election Day. 
+22 At some point afterwards, I went down to Key West to see my parents. And I had a 
+23 phone conversation, it was a surrogate call, with Stepien and Justin Clark. 
+24 
+25 Q 
+A Okay. And tell us what you remember about that call? 
+I had --you guys, I think I've got some of the texts back and forth. And I  55 
+1 can't remember what happened first, the phone conversations or the texts or the 
+2 surrogate call. But if you put them all together, what happened was there was 
+3 discussions at the time --I was out saying I thought we still had a chance in Arizona based 
+4 upon the information I had, and the math of the returns I had seen so far. All of it 
+5 publicly available. You could go to Arizona, the Secretary of State, I think, website, and 
+6 find out how many votes had been counted, what the last tally was they updated a couple 
+7 of times a day, or once a day, at the end of the day. So you could go there and get that 
+8 information. 
+9 I was on TV, I believe, talking about that. And then I had a conversation or text, I 
+10 believe, it was a text exchange that Ronna McDaniel was involved with. And she said 
+11 something to the extent of, We couldn't win Arizona. And that surprised me because I 
+12 was looking at the math, and I thought we had a chance to see Arizona or win Arizona. 
+13 And I was out telling people I thought we could win Arizona. And my recollection is that 
+14 at that time, I reached out to somebody else in the campaign and said, what can you guys 
+15 give me? I'm on TV. If I'm the only one who thinks we can win this, please tell me 
+16 because I don't want to look like an idiot. And somehow I got connected with a 
+17 surrogate call either that day or the next day that Stepien and Clark ran. 
+18 At the call, I talked to them directly before the mass phone call, and they said 
+19 Mick, don't worry. Get on the phone call. We got a lot of great information. I got on 
+20 the phone call. They didn't have anything. And I remember them going through the 
+21 various lawsuits at the time. There was a lot of lawsuits going on at the time. I was 
+22 expecting --I was expecting numbers. I was expecting something as someone who was 
+23 defending the math in Arizona, give me something I can use. You know, give me --don't 
+24 give me platitudes. You know, don't give me, Go team. Give them --there's 274,000 
+25 votes left to count in Wisconsin. There's 165,000 votes left in --we just got past a  56 
+1 motion for summary judgment in this lawsuit and they had none of that. And I 
+2 remember calling them back after the phone conversation. I said, So what you guys are 
+3 telling me is you've got nothing. And I believe it was --there was a pause, and I believe 
+4 it was Stepien who said, well, Mick, thanks for being such a team player. And I recall 
+5 losing my temper with Mr. Stepien. And that was the last time I think we spoke about 
+6 the election. 
+7 Q 
+8 messages --
+9 
+10 A 
+Q So if we can put that conversation in perspective. We had the text 
+Yeah. 
+--I think you're referencing. If you go to tab 4. I believe you can look 
+11 at --it would be around --if you look at November 9th. 
+12 
+13 A 
+Q Uh-huh. 
+You are texting with --it looks like Mark Meadows. And you reference a 
+14 conversation with Ronna McDaniel. It looks like, if you can see that text message, which 
+15 you mention in passing that we couldn't win Arizona, which was entirely different from 
+16 what the campaign is telling people, including me, and what I am telling people. 
+17 
+18 A 
+Q Yeah. 
+If you go to, let's see, exhibit 4-A, which is page 3. You had sent this photo, 
+19 I'll represent to you, of this text message to Mark Meadows the night before 
+20 November 8th? 
+21 
+22 
+23 
+24 
+25 A 
+Q 
+A 
+Q 
+A Can I interrupt you and ask a question? 
+Of course. 
+Is that the --on your exhibit 4-A -­
+Yeah. 
+--is that the attachment to the previous, the first text to Mark Meadows at  1 the top of that page? 
+2 Q That's right. 
+3 
+4 A Okay. I couldn't figure out what that was. 
+Q Okay. So you sent that to him around November, it looks like 
+5 November 8th? 
+6 A At a quarter of 9:00 at night. Okay. And then I followed it. Okay. 
+7 Thank you. That's helpful. 
+8 Q Okay. So why don't you first --how about you explain this, the picture of 
+9 this text message that went to Ronna, someone named Tommy that might be from the 
+10 RNC to Jared Kushner, Bill Stepien, Justin Clark? 
+11 A I think it pretty much speaks for itself. I don't know why I was in a phone 
+12 conversation with them, but apparently I was, or something had happened. And that 57 
+13 was my sentiment, which is why do I feel like I'm the only one who thinks that we can win 
+14 this? 
+15 Q And it makes it seem like everyone other than me thinks we have lost this 
+16 election. So it wasn't just Ronna, it was other individuals as well? 
+17 A That is my recollection. 
+18 
+19 
+20 
+21 Q Okay. So would that have been from surrogate call with --
+A It could have been. 
+Q --Justin Clark? 
+A Again, I don't remember the batting order of what the call came first or if 
+22 this text came first. I honestly don't remember. In my mind, it's all jumbled, but it was 
+23 all --do you have a date for this, by the way? 
+24 
+25 Q So this --
+A 11/8, okay.  58 
+1 Q Yes. This would have been November 8th. And just timeline perspective, 
+2 November 7th was when many media outlets had called the election for Joe Biden? 
+3 A And I also see that the text to Ronna, Tommy, Jared, Bill, and Justin is 8:43, 
+4 and then 5 minutes later I sent it to Meadows. 
+5 
+6 Q 
+A Yes. 
+Okay. 
+7 Q And I know --from the surrogate call, do you recall, was it --which States 
+8 were discussed? You mentioned Arizona. Were there other States that you had that 
+9 you were looking at? 
+10 A No, I don't remember. I remember it was a wide-ranging conversation. 
+11 Because they talked about --there was something truly absurd in Wisconsin that they 
+12 said was going to be the Peace to Resistance. And I remember thinking to myself, that's 
+13 a joke, but I can't remember what it was. It was a --I can't remember. It was 
+14 something --they said something that somebody locally was going to do, I believe, in 
+15 Wisconsin, and that was their ace in the hole. And I was thinking to myself, that's --only 
+16 a child would think that that's actually got a chance of winning. 
+17 If that's our --if that's why you wanted me to tune into this conversation so you 
+18 could reassure me that we really had a chance, you've just failed at doing so. But I 
+19 cannot remember the specifics of what that example was. But to your question, it 
+20 would have been a variety of States. 
+21 
+22 Q 
+A And it sounds --were they just talking litigation strategy during this call? 
+My recollection was it was counting, it was votes uncounted, and lawsuits. 
+23 So the whole panacea of things that you might bring to mind when you are challenging 
+24 elections. 
+25 Q And it sounds like --correct me if I'm wrong --you were also expecting  1 evidence? Is that right? Like some sort of evidence of fraud? 
+2 
+3 A 
+Q I was expecting something more than I got. 
+Okay. To the evidence of fraud point, can you just explain on what you're 
+4 expecting to hear? 
+5 A Well, listen, if you're going to allege fraud, I have run for office four times. 59 
+6 have had lawsuits. I know what happens when machines break. I know what happens 
+7 when doors don't get unlocked at the gym in time. I know what happens when people 
+8 go to the wrong precinct, or if they get the wrong ballot. I know a little bit about this. 
+9 And so, you say you have got --you want to bring a fraud claim, I'm like, Okay, why do 
+10 you think there was fraud? What is the evidence that you think makes your case for 
+11 fraud? And I just --my recollection is that I didn't get any of that on that phone call. 
+12 Q Did you hear them making allegations that, or expressing an intent that they 
+13 were going to bring lawsuits about fraud? 
+14 A My recollection is that by this time there may have been already lawsuits 
+15 filed. And I don't know if they were talking additional lawsuits, or they're talking --they 
+16 could have been talking about both. So I don't have a specific recollection to your 
+17 question. 
+18 
+19 Q 
+A But it sounds like you left the call seeing there's nothing here? 
+I was displeased with the phone call and the lack of specificity that, as a 
+20 surrogate, I needed in order to be able to credibly continue to challenge the outcome of 
+21 the election. 
+22 Q And your impression that there could have been something there, what 
+23 would that have been based off of? 
+24 
+25 A 
+Q The impression --I'm sorry? 
+Your impression --it sounds like you wanted to see there was something  60 
+1 there, why were you waiting if there was evidence of fraud? 
+2 A Well, I would assume that they'd --I had no evidence of fraud. I was sitting 
+3 in South Carolina, right? 
+4 
+5 Q 
+A Right. 
+At this time, I'm probably in Key West, Florida. I assume that people who 
+6 are running the campaign, if they say there's been fraud, or the folks who have the 
+7 evidence of the fraud, I assume that if they think there's still a chance for a recount in 
+8 Arizona, as I did --
+9 
+10 Q 
+A Uh-huh. 
+--they would know how many votes were --they might tell the group, you 
+11 know, we've got 264,000 votes outstanding. If they break away the last 250,000 votes 
+12 went, the President will win. I was expecting something tangible, and I did not get that. 
+13 Q And aside from maybe just people on TV talking, do you remember 
+14 conversations from folks at the campaign or in the White House that there had been, that 
+15 there was fraud in the election? 
+16 A I did not have a lot of exchange with the campaign team. I don't remember 
+17 talking to anybody inside the White House at all. Obviously, I text with Mark. But my 
+18 verbal conversations that I recall, based upon reviewing this stuff, would have been with 
+19 Ronna and Tommy, like you mentioned, and with Stepien. Was it the same phone call? 
+20 It could have been. It could have been a separate phone call. But, no, it wasn't like I 
+21 was talking to them six times a day. It was infrequent communication. 
+22 Q Okay. Do you remember any discussions in this post-Election Day period 
+23 about State legislators or legislatures, like the importance of them in the election and 
+24 potentially changing the outcome? 
+25 A I do not remember anything along those lines.  1 
+2 
+3 
+4 
+5 Q 
+A 
+Q 
+A 
+Q Okay. How about convenient alternate slate of electors? 
+I don't remember that term ever coming up. 
+What about the role of the Vice President? 
+I don't remember that coming up either. 
+Okay. Now, I know you mentioned earlier that you didn't always --you 
+6 weren't very active on Twitter, but I want to just walk through a few of your tweets. If 
+7 you go to exhibit 2. And this would have predated the text messages that we've just 
+8 went through. So this is November 6th, the day before the media outlets called the 
+9 election for Joe Biden. 
+10 
+11 
+12 
+13 
+14 
+15 
+16 A 
+Q 
+A Can I interrupt you for a second? 
+Yes. 
+What day was the election? Was it the 3rd? 
+The 3rd, and this is Friday the 6th. 
+Mr. Mulvaney. Thank you. 
+Q So just a few days later. We need to be calm and take our time with the 
+17 next election, the legal challenge, the country. Please be confident that the winner of 
+18 this election is the real winner. We need to prove that the election wasn't stolen by 61 
+19 anyone. And you tweet a link to Cavuto's website. And I'll represent to you it's just his 
+20 website. I'm guessing you made an appearance, but it doesn't appear there anymore. 
+21 So I couldn't pull that up for you. Do you remember tweeting this message? 
+22 A I don't. I don't deny that it is. It is clearly my account. And I don't have 
+23 any problem with the message. I just don't remember that particular Cavuto 
+24 appearance, and I don't remember sending this tweet. It doesn't bother me. 
+25 Q Can you just explain this tweet a little bit more? What were you thinking at  62 
+1 the time? 
+2 A Again, I think the tweet speaks for itself. I was thinking what was here 
+3 which is that we were a couple days after the election. It was --there was --you know, 
+4 it hadn't been determined yet. And I think this is probably sage advice to be calm and 
+5 take our time. I don't think anybody would disagree with those statements. 
+6 Q Well, I'll focus here on the last sentence --we approve that the election 
+7 wasn't stolen by anyone. So why did you think it was important to prove that the 
+8 election wasn't stolen versus that it was stolen? 
+9 A I think it's --that's a general nature, right? You would always want to know 
+10 no one stole an election. 
+11 
+12 Q 
+A Okay. 
+So I'm not --my guess is, and it's an educated guess, is that this time there 
+13 was some discussion in the ether about whether or not the election was stolen. I was 
+14 probably not the first person to use that word. 
+15 Q From the campaign or anyone else, had you seen evidence or anything that 
+16 suggested to you or seemed persuasive to you that the election could have been 
+17 compromised in any way? 
+18 A At this point, I had not --again, I was focusing on Arizona, which was mostly 
+19 math, and the number of votes that were uncounted. I can't remember when --if I can 
+20 skip ahead, on my text exchange with Mark is the 9th, which is --okay. So at this time, I 
+21 was still under the impression that there were enough votes out in Arizona to change the 
+22 outcome of the election. And so, I was calm, take your time, count the votes, do 
+23 whatever, we'll figure out this sooner or later. 
+24 Q Do you remember any discussions with anyone involved in the campaign 
+25 about messaging about the election, like, what to say about the election?  63 
+1 A I don't have a specific recollection. That's the type of thing that comes up 
+2 in a surrogate call --
+3 Q Okay. 
+4 A --but I don't remember what the specific messaging was, if we discussed it 
+5 that day. But that would be typical for a surrogate call. 
+6 Q Do you remember if anyone ever said you should say that the election had 
+7 been stolen, rigged, compromised, or that Trump was going to have a second term? 
+8 
+9 A 
+Q No, I have no recollection of that, and I don't remember saying that myself. 
+Do you remember having any conversations with anyone in the White 
+10 House, including President Trump who expressed to you that the election had been 
+11 stolen or rigged post-Election Day period? 
+12 
+13 
+14 
+15 A 
+Q 
+A 
+Q No recollection of conversations like that. 
+Okay. Let's go to tab 3 --
+Uh-huh. 
+--exhibit 3. And this is a tweet you sent on November 7th. So the 
+16 day --the end of the media outlet to call the election for Joe Biden. 
+17 
+18 A 
+Q Uh-huh. 
+And you tweeted a link to The Wall Street Journal op-ed and said you 
+19 mentioned a few times today where, you know, among other things, you say the 
+20 President will be presidential if it turns out that he lost. And I'll reference to you this 
+21 isn't the only time in this period that you made comments about this. You predicted 
+22 that, you know, that President Trump's a fighter, but he would --you could guarantee a 
+23 peaceful transfer of power. So I'm just hoping --I know you touched on it a little bit 
+24 today. If you could explain to us a little bit more of your comments in November 2020 
+25 that the President would be presidential and would participate in a peaceful transfer of  64 
+1 power if he were to lose? 
+2 A Yeah, two things: That was my experience, as I mentioned to you. The 
+3 behavior that I saw on January 6th was different from the behavior I saw when I was the 
+4 Chief of Staff. As to the specifics of this article, this was an audience of one. I knew 
+5 how the President digested information. I knew he read the opinion pages of The Wall 
+6 Street Journal. I know he wanted to read them cover to cover. They were one of his 
+7 first things to consume every single day. And I knew that if I wanted to get a message to 
+8 him, this would be a good way to do it, and that's what this was. This was advising the 
+9 President on the proper way to act over the course of the next several weeks. 
+10 Q And why did you feel the need to advise him if you weren't his Chief of Staff 
+11 at the time? 
+12 A Oh, you know, once you've advised a President, it's always nice to think that 
+13 they still listen to you every now and then. 
+14 Q Yeah, I appreciate that. Were you concerned that he wouldn't participate 
+15 in a peaceful transfer of power? I mean, it seems sort of obvious. I don't know if other 
+16 Chiefs of Staff had written op-eds to their Presidents. 
+17 A I was --I was not concerned about violence. I was never concerned about 
+18 violence. I was concerned about the President leaving office in such a fashion that 
+19 would tarnish his legacy. Because his legacy was also mine, and everybody who worked 
+20 for him. And I wanted to make sure that when he left, he didn't ruin the legacy. I was 
+21 very proud of the policies that we had been able to accomplish. And I didn't want the 
+22 President to end up doing something like not meeting Joe Biden when he came into the 
+23 office, or taking all the Ws off the keyboards, like I think the Clintons did back in 2000. 
+24 That type of petty stuff. I didn't want that. I wanted him to go out on a high note. 
+25 And I thought this was the most effective way to deliver that message to him.  65 
+1 Q So why was that your concern? Was there some sort of behavior? 
+2 mean, you've talked a lot about how, you know, you were Chief of Staff, you know him, 
+3 why was that even a thought? 
+4 A The President doesn't like losing. A lot of people don't. And I've never 
+5 been around him when he lost. So --I shouldn't say that. We've lost a bunch of battles 
+6 on the Hill, but he didn't like it. And I was worried that he might not be as gracious in 
+7 departing as he should be. 
+8 Q And do you have a specific example in mind, or had you seen other times 
+9 where he had, you know, lost and acted out in a certain way? 
+10 A No, in fact, my experience was the exact opposite was, as I had mentioned 
+11 to you before, there had been times where we had, we floated ideas that were not 
+12 Presidential, and he said that I don't think that's very Presidential. And I mentioned that 
+13 in the piece. But still, it's tough to lose a Presidential election. It's tough to be a 
+14 one-term President. And to the extent that I might be able to encourage him to see the 
+15 big picture, recognize that even if he lost, he still had a political future, he could run again 
+16 in four years, I still --it struck in my mind Al Gore's speech in 2000 when he finally 
+17 conceded the election. 
+18 I remember saying to myself as I watched that, number one, if he had given that 
+19 speech during the campaign, he probably would have won the election. And, number 
+20 two, by virtue of giving that speech, he is now the leading contender in 2004. If you take 
+21 those types of situations and do them properly, you can actually turn them into a political 
+22 positive. That's what I wanted to see for Trump if he had lost the election. 
+23 Q Did you have a concern that he wasn't getting that kind of advice from his 
+24 advisors at the time? 
+25 A I didn't have insight as to what was going on inside the White House. So  66 
+1 this is just me advising the President the best way I knew how at the time. 
+2 Q So it sounds like, you say didn't predict any sort of violence, but potentially, 
+3 maybe some sort of petty or other lashing out you thought he could participate in if he 
+4 lost the election? 
+5 
+6 
+7 
+8 A 
+Q 
+A 
+Q I was concerned --I'm sorry. Ask your question again. 
+It sounds like you didn't predict violence, right? 
+Correct. 
+You didn't predict January 6th would happen, but you thought potentially he 
+9 could act out another way that would be detrimental to his legacy. Is that fair? 
+10 A I think that's fair, yeah. 
+11 Q So you're relying on here your experience working for him and knowledge of 
+12 his temperament as to the way he thinks, how he takes in information? 
+13 A I think that's fair, yes. 
+14 Q And why --I know you talked about it a little bit, but why provide this advice 
+15 in an op-ed? It's public for everyone to see, right, versus just calling him up on the 
+16 phone, calling outer Oval and having a conversation with him, or meeting him in the Oval 
+17 Office? 
+18 A It's a great question. This carried more weight. It just did. When the 
+19 President saw it in print, it was in The Wall Street Journal, he respected that outlet. It 
+20 carried more weight than a phone call. If he saw it on television for Sean Hannity or Lou 
+21 Dobbs, it carried more weight. So just looking for what I considered to be the most 
+22 effective way to communicate my sentiments. 
+23 
+24 
+25 Q 
+A 
+Q Do you know if President Trump read your op-ed? 
+I do not. 
+Did you ever hear from anyone about your op-ed, anyone from the White  1 House? 
+2 A I don't think so. I don't remember. I don't have a specific of anybody 
+3 calling me and saying thanks for doing that, or I saw this, you're an idiot, or yea, team. 
+4 don't remember any specific recollection. 
+5 Q So you don't remember any reaction from anyone in the White House in 
+6 response to your op-ed? 
+7 
+8 
+9 A 
+Q No. 
+Okay. 
+Before we go on, can we go off the record? 
+[Discussion off the record.] 67 
+10 
+11 
+12 Q We are back on the record. Mr. Mulvaney, I wanted to go back to exhibit 4, 
+13 which are the text messages --
+14 
+15 A 
+Q Uh-huh. 
+--that we have between you and Mr. Meadows. And we touched on this 
+16 briefly. But back to that November 9th text about your exchange with Ronna, you say, 
+17 which was entirely different from what the campaign is telling people, including me and 
+18 what I am telling people. If you could go on that specific statement. Did you think that 
+19 the campaign was misleading the public about the chances of success at the time? 
+20 A I was concerned that --that exactly, again, the text, I think, pretty much 
+21 speaks for itself. That's probably my best reflection, my thinking at the time was that I 
+22 got the impression they knew something I didn't, and I don't like that very much. 
+23 Q Okay. And that something being that there actually weren't --there wasn't 
+24 a great chance of success? 
+25 A Ronna, in passing, mentioned that we couldn't win Arizona. That was news  68 
+1 to me. 
+2 Q Aside from these text messages, do you remember having a separate 
+3 conversation with Mr. Meadows about this? You know, you see a text message 
+4 response specific to Arizona, but do you remember any phone calls? 
+5 A I don't remember any phone calls with Meadows about this. Texting would 
+6 be a more typical way for us to communicate. That's not to say we never spoke on the 
+7 phone but I don't have a recollection of phone conversations. 
+8 Q And why reach out to Mr. Meadows? Do you remember why you 
+9 contacted him about this concern? 
+10 A Yeah, that's a good question. I know, because he wasn't on the call. And I 
+11 knew he was in the White House, so I knew he should have been well-plugged in. And if 
+12 there was something going on, he might be a good person to tell me. And Mark and I 
+13 had a relationship, so it seemed like the appropriate person to reach out to. 
+14 Q Did you have any understanding of how he was involved in President 
+15 Trump's reelection campaign? 
+16 
+17 A 
+Q Not really. 
+Let's go to --let's see page 2 of these messages at the top, November 23rd. 
+18 So a couple of weeks later, and you say, random thought, as to your quiver, executive 
+19 order creating a bipartisan commission on election fraud won't solve the problems now, 
+20 but may, one, prevent them in 2024 and two, who knows, vindicate what he has been 
+21 saying all along. Can you explain your random thought to Mr. Meadows? 
+22 A Yeah, I don't remember where this idea came from. I may have heard of it 
+23 on the internet or in the news, or a friend of mine may have mentioned it to me. I don't 
+24 remember coming up with this one on my own. But I remember thinking to myself, 
+25 Okay, that actually made some sense to the point where I'll reach out to Meadows.  69 
+1 But at this point, I assume the election is lost, and what could the President do to 
+2 try and save face? Could make a bipartisan commission; we do an investigation; might 
+3 vindicate him after the fact; would help him in 2024. You saw the next line that I didn't 
+4 think that Biden would have the courage to undo it anyway. I don't think that he would 
+5 have. How do you undue a bipartisan commission into election integrity? It's the type 
+6 of thing that nobody would get rid of once it exist. So I thought it was a good idea and 
+7 something they should consider. 
+8 Q It sounds like, was this more about saving face? It seems like you haven't 
+9 seen evidence of election fraud. So a commission to investigate it, what would that 
+10 accomplish? 
+11 A 
+12 lawsuits? 
+13 
+14 Q 
+A Keep in mind, at that point, I don't remember when --there were how many 
+Fifty. 
+Fifty-some. I don't know if all the lawsuits were finished at that time. 
+15 don't remember what the status was. 
+16 
+17 Q 
+A Yeah? 
+So, but I remember thinking this was a way out. You saving face is 
+18 one word. You know, you could also look at it as a way to sort of preserve future 
+19 election integrity. You could have a lot of benefits to it. But it seemed to me like an 
+20 intriguing idea that might have some merit. 
+21 Q 
+22 that means? 
+23 
+24 A 
+Q And do you know --you write, prevent them in 2024. Do you know what 
+Well, problems. 
+Okay. So prevent --yeah, so it won't solve the problems now, but may 
+25 prevent problems in 2024. Okay. Then vindicate what he has been saying that the  70 
+1 election had been stolen or --
+2 A Yeah, if it turns out --for example, if you did a bipartisan commission, it 
+3 turns out, yeah, there was --was massive voting harvesting in Georgia, or yes, there was 
+4 massive signature fraud in Pennsylvania that for some reason, the 
+5 committee was --excuse me, the campaign wasn't able to find, but a bipartisan 
+6 committee might. That was my thinking. 
+7 
+8 
+9 Q 
+A 
+Q 
+10 anyone? 
+11 
+12 A 
+Q So, basically, do a downsize? 
+It was a good idea. 
+Okay. Do you know if Mr. Meadows passed on your recommendation to 
+I have no idea. 
+Okay. And I don't know if this helps with your recollection. The day you 
+13 sent this tweet --or excuse me, this text is when GSA ascertained that Biden won, do you 
+14 remember if that had anything to do with you sending this recommendation? 
+15 A No, I have no recommendation of those two things. I remember the 
+16 ascertainment. I remember sending this text, but I don't remember the two things 
+17 being linked. 
+18 Q You said one other thing. You mentioned this commission. Did you --did 
+19 you see that the courts were not adequately addressing, you know, any purported 
+20 election fraud? 
+21 A No. I have faith in the courts. I think if there was a weakness, it was most 
+22 likely on --not on the part of the courts, it would be on the part of the campaign for not 
+23 actually having done the job to preserve the integrity of the elections to begin with. 
+24 When you run an election, when you have your own election, you are responsible for 
+25 making it. That's your duty, especially to your voters, to make sure that there is no  1 misbehaving, that the curtain falls on the campaigns themselves. So I don't think the 
+2 courts had been wrong in any way. I think if there was any fault, it would rely on the 
+3 campaigns. 
+4 
+5 
+6 Q 
+A 
+Q And you had that impression at the time that the campaign -­
+I've always liked that, yeah. 
+Do you remember talking to anyone at the campaign that you didn't think 
+7 that they were doing enough or --
+8 A Not anybody at the campaign. I've had conversations with other private 
+9 individuals about who I --how I thought the campaigns failed to preserve the --if there 71 
+10 was --you have a chance in this system to defend yourself. And if you think you've been 
+11 wronged, you go to court, and you have your day in court. That's due process. If you 
+12 get thrown out of court for not having evidence, either that means there was no 
+13 evidence, or there was evidence, and you didn't bring it into court. Those are the two 
+14 ways I look at it. 
+15 
+16 Q 
+A And do you have a sense of which one it was? What it was --
+No, I honestly don't. There's fraud in every election. There just is. We 
+17 run massive elections with massive number of people voting. It's done largely by 
+18 volunteers in schools, gymnasiums, and churches, and firehouses, right? So it's never 
+19 going to be perfect. But I have no evidence that there was any fraud significant to 
+20 overturn any of the outcomes. 
+21 Q You watched your hearing. You have probably heard testimony from 
+22 others. At a certain point, when they came to conclude that President Trump had lost 
+23 the election, did you come to a similar conclusion in 2020, or maybe it was 2021? 
+24 A Yeah, I don't remember when it was, but, yeah, I had stopped going on TV to 
+25 say that he had won the election. I had stopped going on TV to say that he could win  72 
+1 Arizona. I had stopped sort of being a surrogate for the campaign. I don't remember 
+2 when that was to be honest with you. But, yeah, at some point there, I was like, Okay, is 
+3 it over. Time to move on. 
+4 Q So you do not recall what led you to that decision? 
+5 A Not really. 
+6 Q Okay. Do you remember when you started to take any steps towards 
+7 transition or life after the administration? You've heard of people moving or finding a 
+8 new place? 
+9 A Are you talking about me personally? 
+10 Q Yeah, you personally. 
+11 A Well, I had already left, right, because I had left Washington, D.C. in March 
+12 when I left the Chief of Staff's office. 
+13 
+14 Q 
+A Okay. 
+The Special Envoy position is unique. It's not a resident position. You 
+15 don't have an embassy in Belfast because it's not a separate country. The embassy for 
+16 Belfast is in London, cause Belfast is part of the United Kingdom. So there wasn't no 
+17 residence. It wasn't a residence job. Ordinarily, you would travel a good bit back and 
+18 forth, but with COVID, that sort of went away. So I was in South Carolina the whole time 
+19 I was --I think I was in Belfast 4 days. 
+20 Q And part of my ignorance, I just don't know as part of your position as 
+21 Special Envoy, was there a transition? Did you engage in that process? I don't believe 
+22 anyone currently has that position in the Biden administration, so I'm not sure. 
+23 
+24 
+25 A 
+Q 
+A Transition in or out? 
+In. Into the, you know, helping the incoming? 
+Oh, you mean --no, no. Yeah, no, it is unusual position. You are right.  73 
+1 It's not like being Secretary of State where you might do a hand-over. We didn't fill the 
+2 position for 3 years. The Biden administration has not filled the position for the first 2 
+3 years. That's not unusual. 
+4 Q Okay. 
+5 A So I'd actually had talked to Ron Kia in and encouraged him during the 
+6 transition to appoint somebody to my seat, to my position fairly quickly. And then I 
+7 would be happy to help turn it over to them, especially with Bright Zip (ph) which was a 
+8 big deal then and still a big deal now. But they had chosen not to fill the seat. 
+9 
+10 Q 
+A Do you remember when you talked to Mr. Kia in? 
+It would have been during transition. There was a conversation we 
+11 had --there's a --I think I talked to him twice. There was a group phone call with all of 
+12 the old Chiefs of Staff who want to come in and sort of give the new person advice. And 
+13 I participated in that along with John Kelly and Dick Cheney. And then there was a 
+14 separate conversation I had with Mr. Klain about Northern Ireland and about having mass 
+15 on the campus. 
+16 
+17 
+18 Q 
+A 
+Q Do you recall if that was before or after January 6th? 
+I do not. 
+Okay. Do you recall any conversations you had with President Trump or 
+19 anyone else in the White House more generally about the results of the 2020 election? 
+20 A No, I think what you've got is my communication. I would have typically 
+21 done more communication via text than by phone calls. 
+22 Q And it sounds like you didn't have any private conversations with President 
+23 Trump post-Election Day to January 20th? 
+24 A I had a conversation with the President at some point. I believe it was after 
+25 the election. I don't remember if it was before January 6th. I know I was gone from  74 
+1 Washington by the time because I took the call in South Carolina. So it was a chance it 
+2 was before the election. But I know I was in South Carolina when I took the call. The 
+3 President called me and told me he was returning my phone call. I had not called the 
+4 President. Okay? And he said, no, I've got it here. It's an 803 number. I'm looking 
+5 at it. Okay. I had not called the President. 
+6 My recollection is that as the President said, It was great to talk to you. If he 
+7 didn't call, he was like how are you doing? How is that Belfast thing working out? 
+8 guess that was the conversation we had. You know, it was our typical conversation. 
+9 And I remember then reaching out to either Mark or Tony or both of them in an attempt 
+10 to either tell them what had just happened. Very unusual, under those circumstances, 
+11 for that to happen. Guys, either my phone has been hacked and someone is using it to 
+12 call the President or someone's hacked the President's phone. But I needed to let you 
+13 guys know that this just happened. That is a conversation I had with the President that 
+14 might answer your question --that responsive to your question about talking to 
+15 President. But I did not talk to him about the outcome of the election. 
+16 Q 
+17 election? 
+18 
+19 
+20 A 
+Q 
+A Okay. And do you remember him making any offhand comments about the 
+No, I do not. 
+Did you find out if your phone had been hacked. 
+No, in fact I'm not sure I even heard back from anybody on it. But I just 
+21 remember it stood out because it was really, really strange. And when you're in that 
+22 position, you become hypersensitive to those type of things. 
+23 Q It sounds like you were in contact with some folks in the campaign, maybe a 
+24 little bit of people in the White House. Did anyone ever share with you that President 
+25 Trump had ever privately acknowledged that he had lost the election?  1 
+2 
+3 
+4 
+5 A 
+Q 
+A 
+Q 
+A Not the election, but a State. 
+Okay. And which State was that? 
+Arizona. 
+Okay. Who told you that? 
+What's his name? He was our ambassador to Germany and then 
+6 temporary national security advisor. 
+7 
+8 
+9 
+10 
+11 Mr. Driscoll. Mr. Grenell. 
+Mr. Mulvaney. Rick Grenell. 
+Q 
+A Tell us what you remember about that conversation? 
+I had a conversation with Rick Grenell at some point after the election. 75 
+12 don't remember if it was 2 days or 2 months. But we were talking about the President's 
+13 state of mind, and he --my recollection is that he told me that he told the President early 
+14 on in the days after the election that we had really lost Arizona, and that it was his 
+15 impression, as he had articulated to me, that the President wasn't happy about that, but 
+16 grudgingly accepted it. 
+17 
+18 Q 
+A Did he say what that meant, grudgingly accept it? 
+I think my recollection is that Rick laid out for him that Rick had looked at 15 
+19 different ways. That they had sent Rick out, I think, to Arizona to examine, you know, to 
+20 sort of manage the investigation, or whatever they were doing out there. He was the 
+21 President's guy. He was lead on whatever the campaign was doing in Arizona. And 
+22 then he came back and said Mr. President --you know, in fact, I get my recollection is not 
+23 going to be exact terms, was that they did not have anything, and they had, in fact, lost 
+24 Arizona. 
+25 Q And was this a phone call, or in-person conversation text with Mr. Grenell?  76 
+1 A I don't recall. I don't recall. I don't remember why I would have been 
+2 talking to Rick. It could have been face-to-face conversation at the Trump Hotel. Or it 
+3 was either face-to-face or on the phone. It was a conversation. It was not text or an 
+4 email exchange. 
+5 Q And you mentioned that he talked about the President's State of mind. 
+6 What do you remember him saying about President Trump's State of mind? 
+7 A That when Rick told me to the effect of when I told the President he 
+8 grudgingly accepted it. 
+9 Q Anything else? Do you remember about that conversation or his 
+10 impressions of President Trump at the time? 
+11 A Well, no, then he went on to say that the President then got information 
+12 from other people and had changed his mind. 
+13 
+14 Q 
+A Okay. So he had even though he --
+By the time Rick and I were talking, the President was taking --still taking the 
+15 position that Arizona had been stolen. 
+16 Q Okay. Do you know who else President Trump was receiving information 
+17 from? 
+18 A I do not. I assume it's the same cast of characters that you guys have shed 
+19 some light on. 
+20 
+21 
+22 
+23 Q 
+Q Okay. Do you have any questions on that? 
+No. 
+Do you remember any conversations with anyone elsewhere where they 
+24 share their impressions of President Trump in the post-Election Day period? 
+25 A I do not.  77 
+1 Q Did you ever have any conversations with anyone at the White House or 
+2 involved in the campaign where you advised that he should be focusing on legacy versus 
+3 relitigating the election? 
+4 
+5 that? 
+6 
+7 A 
+Q 
+A No. Did I have any conversations with anybody at the White House about 
+Yeah. 
+No. That was just sort of the tenor of my Wall Street Journal piece, but 
+8 that was not coordinated with anybody, and I did not have any conversations like that 
+9 with folks in the White House. 
+10 Q Did you ever advise anyone that you thought that President Trump should 
+11 concede the election? 
+12 
+13 A 
+Q I don't remember articulating that to anybody. 
+Do you remember anyone ever sharing with you that they had advised the 
+14 President that he should concede? 
+15 
+16 A 
+Q I do not. 
+So since January 6th, you have spoken out about your impression of how the 
+17 White House was running, the days and weeks before January 6th, you called it chaos, 
+18 anarchy, a clown show. I think some of this is in response to our hearing, but I'll explore 
+19 that. Then you said with folks like Rudy Giuliani and Lynn Wood and Peter Navarro in 
+20 the Oval Office. Before January 6th, setting aside what you might have heard since 
+21 then, did you have concerns about the quality of advice President Trump was receiving? 
+22 
+23 
+24 A 
+Q 
+A Ever, or in what --
+Just in the --I would say from Election Day to January 6th? 
+Did I have concerns? Yeah, I don't remember articulating them to anybody 
+25 in the White House. I remember seeing Mike Lindell walking out of the front --there  78 
+1 was a picture in the press about him walking out with something about the Insurrection 
+2 Act maybe. I think maybe that wasn't him. That Peter Navarro had written a 36-page 
+3 brief. And that was unsettling to me that those were the folks who were advising the 
+4 President. But I don't remember articulating that to anybody inside the White House. 
+5 Q But at least internally, you did have concerns based off of --it looks --it 
+6 seems like press reports what you were saying was happening in the Oval Office? 
+7 A That was my source of my information. I wasn't talking. Again, I don't --I 
+8 didn't have regular conversations with folks inside the White House. 
+9 Q So what exactly was your concern? You know, if you saw Mike Lindell or 
+10 Peter Navarro's report? 
+11 A Mike Lindell sells pillows. Peter Navarro is a trade advisor. I mean, this is 
+12 the most --this is the single most important election law issue in my adult life probably up 
+13 and including 2000. There are specialists who do this. I know that. Everybody knows 
+14 that. There's hundreds of lawyers, if not more, who make a living specializing in election 
+15 law because we have a lot of lawsuits related to election law. There's folks who were 
+16 really, really good at this. And I didn't see those people going into the White House. 
+17 saw Mike Lindell and Peter Navarro. 
+18 Q It sounds like you hadn't seen, you know, evidence that the election had 
+19 been stolen, but I'm sure that you saw that the President continued to promote that. 
+20 Did you have concerns that he was still saying that election was stolen or rigged? 
+21 A Did I have concerns? Yeah. I thought it was a distraction from the legacy. 
+22 Again, my firsthand information from talking to the campaign team was they did not have 
+23 any evidence. Was it possible they had evidence that I didn't know about at some point 
+24 in time? Yeah, I suppose it was. But what I had based upon my own interaction was 
+25 they didn't have anything.  1 Q But you didn't express this to anyone, at least not anyone in the White 
+2 House or a campaign? 
+3 A I don't remember. Again, I did not have --I was not already in 
+4 communication with anybody in the White House by that time. 
+5 Q How about other administration officials or in the cabinet or otherwise in a 
+6 political appointee? 
+7 A No, not that I recall. 
+8 
+9 
+10 Q Do you have anything on that? 
+No. 
+11 Q So I'll switch gears just to update. Are you familiar with two rallies that 
+12 happened in D.C. before January 6th? There was one on November 14th, and another 
+13 one on December 12th? 
+14 
+15 A 
+Q Not off the top of my head. 
+Okay. So there is an organization called Women for America First. They 79 
+16 listed you as a prospective speaker in documents that they submitted to the National Park 
+17 Service. And I was wondering if you were aware of that? 
+18 
+19 
+20 
+21 
+22 
+23 A 
+Q 
+A 
+Q 
+A 
+Q 
+24 December --
+25 A I wasn't aware of it. I think I can explain this. 
+Okay. 
+Was my niece one of the people involved with Women For America First? 
+She was later for the 5th and the 6th --
+Okay. 
+--was my understanding, but not actually earlier on in November and 
+Okay.  1 
+2 
+3 
+4 Q --at least that was my understanding. 
+A Yeah, because that name rings a bell --that organization rings a bell. 
+Q Okay. 
+A And it wouldn't be unusual for Maggie to fill in the blank and say, I put you 80 
+5 down. Can you speak that day? But I don't remember anybody approaching me about 
+6 speaking at that rally. 
+7 Q Okay. So, no, you don't recall anyone saying, Hey, can you speak at one of 
+8 these rallies? 
+9 
+10 
+11 
+12 
+13 
+14 
+15 A 
+Q 
+A I do not remember being asked to do that. 
+No involvement in the planning or organization of either of those rallies? 
+None whatsoever. 
+Q So you have heard our questions today. Is there anything else --
+Q I have a few follow-ups before we get to that one, if you don't mind. 
+Taking you back to the call you had with Leader McCarthy after January 6th. So 
+16 it's been reported that Leader McCarthy had a call with the President where the President 
+17 accepted some degree of responsibility for January 6th. Do you remember Leader 
+18 McCarthy telling you anything about that, his call with the President following 
+19 January 6th? 
+20 
+21 A I don't remember Kevin telling me about that phone call. 
+Q Okay. You just mentioned Tony Ornate. You mentioned Tony. I assume 
+22 you're talking about Tony Ornate? 
+23 
+24 
+25 A That's correct. 
+Q Have you talked to him since January 6th? 
+A I have not.  1 Q Okay. So he has never reached out to you or told you anything about his 
+2 experiences or anything he saw on January 6th? 
+3 
+4 
+5 A I do not think I talked to Tony since I left Washington. 
+Q Okay. 
+A Excuse me, I should take that back. Again, I think I left him the message 
+6 about the strange phone call, but I don't remember actually talking to him about that. 
+7 Well, maybe I did. Again, texting would have been a more typical way for me to talk. 
+8 But, no, I have not talked to Tony recently. 
+9 Q Okay. Do you remember any texts you had with Tony Ornate and Mark 
+10 Meadows in this post-election November 3rd through January 6th period? 
+11 A Again, I don't remember when I had that strange phone call. But that 
+12 would have been a time that I would have reached out to Tony. 
+Q Okay. Do you remember reaching out to him about anything else? 
+I do not. 81 
+13 
+14 
+15 A 
+Q Peter Navarro, you also just mentioned him, and specifically, the report that 
+16 he wrote on the election. Did you ever learn about why Mr. Navarro was writing the 
+17 report that he was on the election? 
+18 
+19 A 
+Q I do not know why he was. 
+Do you know anything about the process that he went through, or the 
+20 people he worked with filing this report? 
+21 A I do not have any insight to Mr. Navarro's work.  1 
+2 [4:04 p.m.] 
+3 
+4 Q As a former chief of staff in the White House, working for the President of 
+5 the United States, do you have any idea why a trade adviser would be working on an 
+6 election fraud report inside the White House? 
+7 
+8 
+9 I have no idea why Mr. Navarro was involved in this at all. 
+And was Mr. Navarro there when you worked at the White House? 
+He was indeed. 82 
+10 A 
+Q 
+A 
+Q Did his, for lack of a better term, book of business, or responsibilities, include 
+11 anything to do with elections or election fraud or cleaning up elections? 
+12 A It did not. 
+13 Is there anything else we haven't asked about today that you 
+14 think is relevant to our understanding of the 6th or the events surrounding it? 
+15 Mr. Mulvaney. Is that the end of --I'll answer if you ask. Is that the end of your 
+16 prepared stuff? Because I do want to talk to my counsel about one thing --
+17 Yes, please. 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 Mr. Mulvaney. --before I say yes or no to that question. 
+Yes, please. 
+Mr. Mulvaney. So if we could step out for a second. 
+[Recess.] 
+Go back on the record. 
+Mr. Mulvaney. Do you want to ask me the question again? 
+Q Sure. Is there anything else that we haven't asked you about today that  83 
+1 you think is relevant to our understanding of January 6th or the events surrounding it? 
+2 A Maybe. I think you asked me a question, and I answered your question 
+3 specifically, but if you'd asked more generally, I would've given an additional answer. 
+4 You asked me about concerns I had about the President leaving office, and I think 
+5 you limited it in a space of time. 
+6 I had a conversation with Josh Bolten --it's been reported in a book, I have not 
+7 read the book, but I know it's out there someplace --and it's somewhat accurate in that I 
+8 talked to Josh Bolten sometime in the fall of 2020. I believe it was before the election, 
+9 but I'm not entirely sure, okay? And the conversation was about what might happen if 
+10 there was a problem with the transition of authority, transition of power. 
+11 Josh, by the way, was the chief of staff to Bush II. 
+12 One of the --I think in the fall there had been some discussion about a possible tie 
+13 in the electoral college. It comes up from time to time in close elections and so forth. 
+14 And anytime in a close election you worry a little bit about will there be a fight like there 
+15 was in 2000. 
+16 And I remember saying to Josh, "Do you think there would be value in us putting 
+17 together a bipartisan group of former chiefs, not elected officials, so not McConnell and 
+18 Schumer, not McCarthy and Pelosi, but unelected officials from both parties who had 
+19 served several White Houses, who might, if things get --if there are difficulties 
+20 post-election, that might be able to sort of calm things down and be a voice of reason in a 
+21 tumultuous time?" 
+22 Josh agreed to talk about that. He was going to reach out, I believe, to Mack 
+23 Mclarty. I don't remember talking to Mack about this specifically. I had a relationship 
+24 with Mack. He was a good adviser to me. He was the chief of staff to Clinton, I think, 
+25 in the early parts of his tenure.  84 
+1 So there was a concern about possible hiccups in the transition of power. And 
+2 for that reason, I did reach out to Josh. 
+3 I only remember talking to him once, maybe twice, about the topic, and we never 
+4 took it to the point of meeting or developing a plan or doing anything. But we did have 
+5 discussions along those lines. And I did want you to --I didn't want to not be fully 
+6 responsive to your question in case you had limited in time to after the election, and that 
+7 that conversation was before the election. 
+8 Q No, and I appreciate that. Just to ask a follow-up. You said that it seems 
+9 like this was, you said prompted by--if there was a possible tie in the election? 
+10 A It was prompted by a bunch of different things, which is that we knew it was 
+11 going to be close, and we knew things were acrimonious. Even for American politics, 
+12 they were getting acrimonious, right? You'd seen the debates, you understood the level 
+13 of public --vitriol in public discourse, right? And that if you ended up with a situation 
+14 like you had in 2000, would it go as smoothly as it went in 2000? I'm not sure everybody 
+15 would say 2000 was all that smooth. 
+16 So we were --I was just trying to think a couple moves down the chessboard. Is 
+17 there anything we could do now, as a group, on a bipartisan basis, to maybe be a 
+18 resource to help ameliorate that circumstance if it ever arose? 
+19 So it wasn't just a tie, it was just something that was really close. Remember, the 
+20 Clinton team, I don't think, conceded the election in 2016 the night of the election. 
+21 There's a bunch of folks in March --or in the spring of 2017 --who still didn't think 
+22 Trump was validly elected. So I was worried about that general atmosphere and 
+23 environment. 
+24 
+25 Q 
+A Do you remember who reached out to whom? 
+I reached out to Josh.  85 
+1 Q Okay. Around this time, and I don't know if this was contemporaneous or 
+2 before or after, President Trump had been asked multiple times about if he would 
+3 commit to a peaceful transfer of power and kind of, I would say, deferred, didn't quite 
+4 answer the question directly. 
+5 Do you know if that was in any way your thought here? Was that connected in 
+6 any way to his comments about whether or not he would commit to a peaceful transfer 
+7 of power? 
+8 A I remember the comments. I don't remember where they fall on the 
+9 timeline. But it would not be --it's possible that --I remember --I remember exactly 
+10 what you're talking about now. It was possible that I may have seen that and thought, 
+11 okay, maybe it's a good time to talk to Josh. But I couldn't --I don't have a specific 
+12 recollection of where that falls in the timeline. 
+13 Q And do you recall if Mr. Bolten, Josh Bolten, had similar concerns that Joe 
+14 Biden would not participate in some sort of transition or --
+15 A I don't recall Mr. Bolten's reaction other than that he said that he would 
+16 reach out to Mack. 
+17 Q Okay. It sounds like this was --was this just one conversation, or was there 
+18 more than one? 
+19 A It was either one or two. Again, we didn't take it to the next step of 
+20 meeting or developing a strategy or a plan of action. 
+21 
+22 Q 
+A And did you talk to anyone else about this idea? 
+I talked to some of my --the same group of 0MB colleagues, my former 
+23 staffers, and so forth. 
+24 
+25 Q 
+A Do you remember what they said about the idea? 
+I don't. Again, you know, I probably talked to them about it before I talked  86 
+1 to Josh. So, you know, ordinarily when I have a really, really stupid idea, they tell me 
+2 and I forget about it. So my guess is I didn't get much push back. 
+3 Q Do you remember if you talked to Mr. Meadows as he was chief of staff at 
+4 the time? 
+5 A Oh, no, I would not --wouldn't --no, I doubt very seriously I'd talk to Mark 
+6 about that. 
+7 
+8 Q And you'd doubt why? 
+A I didn't talk to Mark much. It's not just --the relationship was not like that. 
+9 Chiefs of staff --I don't remember a former chief of staff ever calling me. I call a former 
+10 chief of staff, and that's how it worked, right? You would call your predecessors for 
+11 advice. But you'd never be a former chief of staff unsolicitly calling a current chief of 
+12 staff and going, "Here's what I think you should do," or, "Here's a question I've got." 
+13 That's just not --that's not the system that I've experienced. 
+14 Q So we talked about your op-ed in November. It sounds like this happened 
+15 before election day. Is this kind of the same thought process, though, again, you had 
+16 concerns that President Trump wouldn't commit to a peaceful transfer of power? 
+17 A If that was the timeline, if the conversation with Josh was before the 
+18 election, which I think that it was, but, again, I'm not a hundred percent sure, it may have 
+19 factored into some of --one of the other reasons to write the op-ed, consistent, though, 
+20 with the same thing about preserving the legacy. 
+21 Q And I know you said you didn't have a fully thought-out plan, but what did 
+22 you think the possibilities could look like, that former chiefs, this bipartisan group, could 
+23 do? 
+24 A Yeah. That if you ended up in a situation like in 2000, where there was a 
+25 flurry of media activity and people wondering, you know, who's going to be the President,  87 
+1 all the instability that comes with an election that's very, very close, or contested, that 
+2 would there be any value to having a Republican and a Democrat chief of staff go on 
+3 television and talk about why we're going to get through this, or, we've been through this 
+4 before, yes, it looks really messy right now, but there's going to be smooth transition, 
+5 we'll work through the court system, just to sort of try and lower the temperature and 
+6 calm things down. 
+7 Q And you might not have thought about this, but as part of this group, would 
+8 any of them --would it involve talking to the principals, meaning, you know, Joe Biden 
+9 and President Trump, right? Because you could go out on TV, but you're not the ones 
+10 participating in the peaceful transfer of power at this point. 
+11 
+12 
+13 A 
+Q 
+A Yeah. Again, I don't --I don't --we didn't formulate a specific plan. 
+Okay. 
+That seems like a reasonable step if you were going to do that. But I don't 
+14 think we ever talked about --at the end we didn't, other than making some vague 
+15 references to television, I don't think we talked about, you know, who would talk to, and 
+16 would it be a campaign adviser, would it be the principal, would it be governors. We 
+17 didn't get to that level. 
+18 Q 
+19 this idea? 
+20 
+21 
+22 
+23 A 
+Q And it sounds like you didn't talk to anyone from the Trump campaign about 
+I did not. 
+Okay. Do you have any? 
+Just a few follow-ups. 
+24 Has anyone reached out to you since January 6th about pardons, either seeking 
+25 pardons, wanting help to get pardons, or just what they were hearing about people  88 
+1 asking for pardons? 
+2 A No. I read the same stuff in the media that you guys did about people who 
+3 were selling pardons or allegedly selling pardons or whatever, and people asking for 
+4 pardons and paying a lot of money and not getting them. 
+5 But I have no firsthand experience with anybody calling me. I don't think 
+6 anybody ever called me about a pardon. If they did, I did not pursue it. I didn't solicit a 
+7 pardon on anybody's behalf. But I don't remember anybody asking me to do so. 
+8 
+9 Q 
+A Okay. 
+And I have no insight into the process other than I knew it was White House 
+10 Counsel and Jared who were heavily involved in the pardons that took place while I was 
+11 chief of staff. 
+12 Q You've been fairly public as the committee's work has been going on and as 
+13 hearings have been going on. Has Mr. Trump or any of his associates, people close to 
+14 him, tried to reach out to you at all about the committee or the committee's work? 
+15 A No. I read a news report that they were fishing around South Carolina, 
+16 trying to find information to undercut my credibility, but I've not had any direct 
+17 communication with anybody from the Trump team. 
+18 Q Okay. And it's been reported --this is related --but it's been reported that 
+19 you were coming in to speak with us. Has anybody, regardless of whether it's 
+20 Mr. Trump or any of his associates, has anybody reached out to you about your testimony 
+21 or you coming into the committee? 
+22 
+23 
+24 
+25 A 
+Q 
+A Anybody? 
+Aside from news reports, people asking? 
+I've had a lot of press inquiries. 
+Yeah, I mean, I talked with my --1 talked with my team about it a little bit last  89 
+1 night. Obviously talked to counsel. 
+2 But, no, no one from the Trump team has reached out to me at all since 
+3 January 6th in general or in the last 24 hours in particular about the testimony here or 
+4 about my reaction to this committee. 
+5 Q Okay. One of the things we talked about obviously is your decision to 
+6 resign. Did you ever hear about any other Trump officials and their contemplating 
+7 whether to resign? 
+8 A Just what I've heard about through your committee work, and what I saw. 
+9 Obviously Betsy resigned and Elaine resigned, and I didn't realize Pottinger resigned that 
+10 day until the committee came up, and a couple other folks. 
+11 But no, I have no specific information aside from what I've seen in the media and 
+12 your reports. 
+13 Q And you've now heard our questions today and you have seen, it sounds like, 
+14 some of our hearings. Is there anybody else that you can think of that we should talk to 
+15 in order to get additional information on these topics? 
+16 
+17 A 
+Q I don't know. I don't know who you've talked to. 
+Sure, yes. Anybody stand out to you as this is somebody you definitely 
+18 want to, regardless of whether you think we --
+19 
+20 
+21 A 
+Q 
+A No, I think you guys have got all the likely suspects, so -­
+Okay. 
+I didn't realize till I sat here today about the conversation I had with Grenell. 
+22 I didn't recall that until we were sitting here. Obviously you're going to reach out to him 
+23 now, I understand that. 
+24 But, no, I mean, you know who the campaign people are. There's no secret 
+25 people in the wings that I know about that you don't know about, I don't think.  1 
+2 
+3 
+4 
+5 
+6 Okay. 
+Okay. That's it from us. 
+Thank you so much, Mr. Mulvaney. 
+Mr. Mulvaney. Thank you all very much. Appreciate it. 
+Off the record. 
+[Whereupon, at 4:17 p.m., the interview was concluded.] 90  1 
+2 
+3 Certificate of Deponent/Interviewee 
+4 I have read the foregoing __ pages, which contain the correct transcript of the 
+5 answers made by me to the questions therein recorded. 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 Witness Name 
+Date 91 

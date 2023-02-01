@@ -1,0 +1,1898 @@
+1 
+2 
+3 
+4 
+5 SELECT COMMITTEE TO INVESTIGATE THE 
+6 JANUARY 6TH ATTACK ON THE U.S. CAPITOL, 
+7 U.S. HOUSE OF REPRESENTATIVES, 
+8 WASHINGTON, D.C. 
+9 
+10 
+11 
+12 CONTINUED INTERVIEW OF: FRANCES HAUGEN 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 Friday, December 17, 2021 
+Washington, D.C. 
+21 The interview in the above matter was held in room 1540A, Longworth House 
+22 Office Building, commencing at 2:02 p.m. 1  1 
+2 Appearances: 
+3 
+4 
+5 
+6 For the SELECT COMMITTEE TO INVESTIGATE 
+7 THE JANUARY 6TH ATTACK ON THE U.S. CAPITOL: 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 SENIOR COUNSEL 
+PROFESSIONAL STAFF MEMBER 
+COUNSEL 
+HIEF CLERK 
+16 For FRANCES HAUGEN: 
+17 
+18 ANDREW PETER BAKAJ, COUNSEL 
+19 LIBBY LIU, CEO, WHISTLEBLOWER AID 2  1 
+2 Good afternoon. This is a continuation of the transcribed 
+3 interview of Frances Haugen, begun on November 22nd, 2021, and conducted by the 
+4 House Select Committee to Investigate the January 6th Attack on the United States 
+5 Capitol, pursuant to House Resolution 503. 
+6 Ms. Haugen, welcome back. 
+7 
+8 
+9 Ms. Haugen. [Inaudible.] 
+This will be another -­
+Sorry. 3 
+10 It's fine. This will be another staff-led interview. As with last 
+11 time, members of the select committee may join later and, of course, may choose also to 
+12 ask questions. 
+13 
+14 
+15 
+16 My name is and I'm an investigative counsel with the select 
+committee. With me today are senior counsel and senior adviser; and 
+professional staff member; and chief clerk. 
+As with last time, I will be asking questions for the staff. You and your attorney 
+17 will have an opportunity to review the transcript. Members can join in at any time, to 
+18 take the lead, ask followup, or ask for clarifications. 
+19 You are permitted to have an attorney present. 
+20 At this time, could counsel please state their name for the record, and, Libby, 
+21 could you also please state your name and affiliation. 
+22 
+23 
+24 Mr. Bakaj. Hello, this is Andrew Bakaj, and I'm counsel for Ms. Haugen. 
+Ms. Liu. This is Libby Liu, L-i-u. I'm the CEO of Whistleblower Aid. 
+So, Frances, just to make things move smoothly, I'm going to 
+25 run through some things that we talked about last time. Please wait until each question  1 is completed before you begin your response, and we will try to wait until your response 
+2 is complete before we ask our next question. 
+3 The stenographer cannot record nonverbal responses, so --such as shaking your 
+4 head, so it's important that you answer each question with an audible verbal response. 
+5 If you need me to repeat a question, let me know. If you need to talk to your 
+6 lawyers, please just say so. If you need a quick break, let us know. 
+7 And if the reporters have any clarifying questions, they may interrupt us to make 
+8 sure they can capture our statements accurately. 
+9 We ask that you provide complete answers based on your best recollection. If a 
+10 question is not clear, please ask for clarification. 
+11 I also want to let you know, remind you, that it's unlawful to deliberately provide 
+12 false information to Congress, even though we're not proceeding under oath today. 
+13 So the plan for today is, we have 2 hours, we'll try to get through as much as we 
+14 can. There may be some cleanup from last time, but we're going to try to turn to some 
+15 new documents. Do you have any questions about that? 
+16 
+17 
+18 Ms. Haugen. No. We're good. 
+BY 
+Q All right. So could we pull up document 19, and I'm going to mark that as 4 
+19 exhibit F, continuing from last time. This is also known as --this is called Carol's Journey 
+20 to QAnon, Frances, if you --
+21 
+22 
+23 
+24 
+25 A 
+Q 
+A 
+Q 
+A Uh-huh, uh-huh, yep. 
+Okay. So did you provide this document to the committee? 
+Yes. 
+And are you familiar with this document? 
+Yes.  1 
+2 Q 
+A So what is your takeaway from the test user account study? 
+So this --this specific study is one of a series of studies, three of which were 
+3 done by the same data scientists. One was done by another group inside Face book 
+4 called Strategic Response, that all found the same pattern repeated, which was that you 
+5 can begin from relatively centrist interests, you know, center left, center right, and if you 
+6 take an account that has no friends, no other interests, and you just click on whatever 
+7 Face book gives you --so you click on the content, you follow the groups, you join the 
+8 groups they suggest, that kind of thing --you end up very rapidly being pushed towards 
+9 extremist content. 
+10 And that's because the system is designed to try to maximize engagement in the 
+11 system, and engagement is defined as, like, likes, comments, reshares, forwarding 
+12 something, like a message to someone else, that kind of thing. 
+13 And Facebook's internal research has shown repeatedly, and external research, 
+14 that it is easier to provoke people to anger than it is to other emotions, and as a result, 
+15 you end up having a selective pressure where more and more extreme content is 
+16 recommended by the system. 
+17 Q And can you just talk briefly about groups you may like and pages you may 
+18 like and how that --how a user might interact with them? 
+19 A Sure. So Face book, in order to --let's imagine a version of Face book that 
+20 didn't have groups and pages. So the content you would see then would be largely --it 5 
+21 would be from your family, friends, people you actually know, but Facebook would not be 
+22 able to generate as long of sessions; like, people wouldn't look at as much content or as 
+23 many ads, and Facebook would make less money. 
+24 So Facebook has to figure out how to get you to express interest in pages --so 
+25 that's pages you might know --and groups. And right now, the heuristics for deciding  6 
+1 what is a high-quality group are very similar to how content is selected. So groups that 
+2 have lots and lots of engagement are considered higher quality groups. 
+3 The only problem with the strategy is, going back as far as at least 2016, there 
+4 have been reports that things like --I think it was the 2016 disclosure said that it was like 
+5 65 percent of people who joined nee-Nazi groups in Germany joined because Facebook 
+6 recommended those groups to them. 
+7 So groups that have more extreme content also, as a general rule, have more 
+8 engagement for similar reasons to what I already talked about, and as a result, there is a 
+9 bias in terms of which groups Face book will promote to people that come from groups 
+10 you should join. 
+11 Q Great. Let's circle back a minute. Do you know if there's a follow-up 
+12 study or a different study that might show a similar result about extremist groups in the 
+13 United States similar to that nee-Nazi study in Germany? 
+14 A Ooh. I know there's a variety of documents that are about how groups' 
+15 recommendations are dangerous, like, they're --I know we have docs that talk about the 
+16 idea that, like, Facebook has a lag between when a group is created and when it can 
+17 actually assess whether or not that group is a safe group or not. And that Facebook 
+18 knew that that was a major security liability, because it allowed, up until, I think pretty 
+19 close to the election, if your group got taken down for being a violent group, you could 
+20 just go create a new group with the same name and the same admins, and that would be 
+21 considered a new group. And you have to go and reaccumulate bad behavior points to 
+22 get taken down. 
+23 There are other documents that show things, like, because there are bad rate 
+24 limits set, so this is, I believe, other documents that you have in the list of enclosures, you 
+25 talk --they talk about how because people could invite so many individuals per day, and  7 
+1 there wasn't good takedown rules for, like, someone might have multiple accounts and 
+2 invite, you know, 2,000 people a day from each of those multiple accounts, very rapidly, 
+3 you can have thousands and thousands of people invited to a group. 
+4 A really important thing for people to be aware of is that you can receive content 
+5 from a group for 30 days after you're invited without having actually accepted the 
+6 invitation. And if you engage in any of that content, it's considered a follow. 
+7 So allowing people to mass invite people is dangerous because it creates an 
+8 avenue where, let's say, they clickbait you into reacting to something or commenting on 
+9 something, now they have successfully gained an avenue to inject content into your news 
+10 feed going forward. 
+11 Q Okay. Let's take --I have a couple followups. Let's take these reverse 
+12 chronological order from when they came up. 
+13 So the fact that if I send someone an invite, they can receive content from that 
+14 group on their news feed, and if they engage, it's a follow, do you know if that continued 
+15 through the election and through the January 6th period? 
+16 A I believe so. We can look through the docs and try to see if it specifically 
+17 discusses that. I am not sure, though. 
+18 Q Okay. Thank you. And you did mention that you think up until close to 
+19 the election, there was a lag between --
+20 A There was --I know there was --
+21 Q --the groups? 
+22 A So I know that I have a doc from August 2020 that talks about that 
+23 phenomena. I am not sure how --and I know --I was in the review meeting where 
+24 taking very aggressive action with regard to that was, like, it was decided it wasn't going 
+25 to be feasible because it would slightly slow down the growth of groups by  8 
+1 like --apparently groups in their first few days are, like, very --like, you want to 
+2 encourage group creators, and the best way to encourage them is by having lots of 
+3 people join the group. 
+4 And --but the --I'm not entirely sure what was done after that. I think there is a 
+5 chance that they may have done something, but I --I only know that secondhand, like, I 
+6 talked to a reporter about it, and he said that something had happened, but I'm not sure 
+7 exactly what. 
+8 
+9 
+10 
+11 
+12 
+13 Q 
+A 
+Q 
+A 
+Q 
+A Okay. And you mentioned three other studies? 
+Uh-huh. 
+I'm sorry. This was a part of a trilogy. 
+Yes. 
+Is one of them --what are the other two? 
+So the other two --so the very first one was out of India. So it's one about 
+14 a person who's expressing interest in kind of BJP topics to demonstrate that it pushes you 
+15 towards, like, ethnic, violence-related content --oh, sorry, yeah. 
+16 
+17 
+18 
+19 Q 
+A 
+Q 
+A What was the acronym? 
+BJP. 
+And that is? 
+It's the --I don't know what the acronym, how it --it's the Hindu Nationalist 
+20 Party in India. 
+21 
+22 
+23 Q 
+A Okay. 
+I don't know what the acronym extrapolates out to. 
+The --the second one --I believe Carol's Journey to QAnon might have been the 
+24 second one, but it might have been the third. The other one is --I think it's like Karen --
+25 Q I think we have that document.  9 
+1 A --Descent Down the Rabbit Hole, something like that, and it basically is 
+2 someone who expresses center left interests and how long does it take them to be shown 
+3 radical content. 
+4 The last one, which was not done by the same person but is the exact same 
+5 methodology, was done as a proactive risk response --like a proactive incident response 
+6 with regard to rumors that people were being shown anorexia-related content after 
+7 expressing interest in like innocuous topics like healthy eating. 
+8 And so, like, it is a --it is a commonly, like, I think it shows a pattern of behavior in 
+9 terms of knowing that this is a technique that can be used to understand the impacts of 
+10 the algorithms. 
+11 
+12 
+13 
+14 
+15 
+16 Q 
+A 
+Q 
+A 
+Q 
+A And you mentioned a review meeting you were in --
+Uh-huh. 
+--talking about the groups and the lag. 
+Uh-huh. 
+Can you talk a little bit more about review meetings? 
+Sure. So there was a meeting called the Civic Integrity Launch Review, and 
+17 the name is a little bit of a misnomer because it also did like project reviews. So, like, if 
+18 you were part way through a project, you might go in there. 
+19 That finding was reviewed at one of these launch review meetings. They 
+20 happened --I think that we had 2 hours' worth of them on Thursdays, once a week. And 
+21 that was --that was where I saw that, where I came in contact with that document. 
+22 All right. It appears someone is waiting in the lobby. 
+23 _, could you look into that? 
+24 We think that someone's just trying to reconnect. So if there is 
+25 someone waiting, if we can check and see if that's Libby, that would be great.  10 
+Thank you. 1 
+2 
+3 Q So let's dig into Carol's Journey into QAnon. So what impact do you read in 
+4 from the paper --
+5 Can we pause for a moment? 
+6 Sure. 
+7 We just had a new member join. Can you confirm your identity, 
+8 please? 
+9 Mr. Bakaj. Yeah, this is Andrew Bakaj. I had to call in because I lost 
+10 connectivity. 
+11 Oh, so it was you and Libby? Okay. Great. Well, thanks, 
+12 Andrew, and we'll wait and see if Libby also joins. 
+13 Sorry,1111 go ahead. 
+14 That's fine. There's someone waiting in the lobby as well, so 
+15 that might be Libby. 
+16 Hi, someone just joined on the phone, we look at it as in the lobby. 
+17 Can you identify yourself, please? 
+18 Ms. Liu. Sure. Can you hear me? This is Libby. I lost internet, so I'm coming 
+19 in via cell phone now. 
+20 Great. It sounds like Andrew, for some reason, also got 
+21 disconnected, but you are both in on the phone now, and we'll keep an eye out if you're 
+22 also trying to connect via the link. But --
+23 
+24 
+25 Mr. Bakaj. Understood. 
+Ms. Liu. Okay. Thanks so much. 
+Mr. Bakaj. Thank you, thank you.  1 
+2 
+3 
+4 
+5 Ms. Liu. Must be a Northern Virginia problem, huh? 
+Thank you. 
+Mr. Bakaj. Must be. 
+Q So when this study was done, did Facebook tend to lead people towards 
+6 more extreme content? 
+7 A Unless significant changes have been made, which I am not aware of, 11 
+8 Facebook would continue to behave in this way, like, going forward. Like, as long as MSI 
+9 and downstream MSI are core parts of the ranking, you would continue to see this 
+10 behavior. 
+11 Q Okay. And if Facebook put in break the glass measures around the 
+12 election, would that have maybe tamped down the severity of this? 
+13 A So I think it's important to remember --yes. So the break the glass 
+14 measures are, like, putting a brake on a car, right? So, you know, if you only put the 
+15 brake on a little bit, the car slows just down a little. If you put a bigger brake on, the car 
+16 slows down more, or it might even stop. 
+17 And the break the glass measures act like --they're intended to be usually kind of 
+18 tactical. So in terms of, you know, being able to identify specific parts of the community 
+19 that are --are potentially in conflict, and the intention is for people to be exposed to less 
+20 harmful content or to have the system be weaponized less. 
+21 Q Okay. So if --there's a period around the election, but people were also 
+22 using Facebook in the period in 2020 when the break the glass measures were not on. 
+23 
+24 A 
+Q Yes. 
+And once people tend to get radicalized or tend to have their Face book 
+25 experience include more radical content, does that tend to persist over time?  12 
+1 A Yes. There's a --a person who might be interesting for you guys to talk to 
+2 is, there's a guy who invented a plug-in called Unfollow, but it's based around --based 
+3 around the idea that, you know, you shouldn't have to give up your Facebook account to 
+4 give up the model that is pushing content at you. 
+5 So he made a Chrome plug-in that allowed you to mass unfollow, like, the groups 
+6 and pages and stuff that you were associated with. And Face book threatened to sue 
+7 him. So even though this was like a voluntary thing, you know, like someone could in 
+8 there and be, like, I just don't want to follow all this stuff, but I don't want to have to sit 
+9 there and click unfollow, like, 500 times. 
+10 This was a sufficient --Facebook viewed this as a sufficient threat that they 
+11 threatened to sue him and made him take it down. 
+12 
+13 
+14 
+15 
+16 Q 
+A And how was it a threat? 
+And that's publicly reported, like, you can --you can find that. 
+Can you say that again? 
+Q 
+A And how was it a threat? 
+So remember how I said before that, like, the world of Facebook where you 
+17 only get content from your family and friends, you don't consume as much content as you 
+18 do in the world as currently constructed by Facebook. And so having people follow less 
+19 things, follow less pages, be members of fewer groups, that directly costs Face book 
+20 money because you spend less time onsite. 
+21 
+22 
+23 Q 
+A 
+Q And just to --just to get some facts in the record -­
+Uh-huh. 
+--on page 15, this document says that in less than a week after opening the 
+24 account, the test account, Facebook recommended an explicit QAnon recommendation, 
+25 and before that, it had recommended implicit QAnon content.  13 
+1 So do you have --we're going to turn to another document, but is there anything 
+2 else you think is important to mention about this document? 
+3 A I think the fact that so rapidly people are exposed to quite extreme 
+4 content --actually, I think there's some really good --one second. I want to pull that 
+5 document up real quick. Because from what I remember of that doc --give me just 2 
+6 seconds. I think there's some recommendations in that doc, if I remember. Or they 
+7 might be in the Karen one. But we'll check one and then we'll look at the other. Next 
+8 point. Oop, oop. Okay. Carol --oh, shoot. Data. All right. I'm almost there. 
+9 Carol. 
+10 Okay. So part of what's interesting about this doc is --and there might be, like I 
+11 was saying, the Karen one might be even better. [Inaudible] high quality. 
+12 So the --the findings at the top of the doc say it took it less than 1 week to get a 
+13 QAnon recommendation, not 15 days. 
+14 
+15 Q 
+A Sorry. That was page 15, less than a week. 
+Okay. I'm sorry. So I think a couple things that are interesting are, like, 
+16 how concentrated the groups' recommendations are. It's like they make a comment 
+17 about how it took very little time for the groups you should join to become completely 
+18 saturated with just political and right-leaning content. 
+19 You know, you could imagine doing a design where you intentionally are trying to 
+20 integrate people into the broader community, and this shows how it's basically just 
+21 optimizing for --in Al systems, there's a concept known as exploit versus explore. So 
+22 this is like a generalized concept around all recommender systems. 
+23 When you are exploiting, you are trying to optimize as much as possible for what 
+24 you already know about someone. And explore is like, oh, let's make sure we expose 
+25 people to more things, because we might be overfocused in. From what this sounds  14 
+1 like, it sounds like they are overoptimized on exploit over explore. 
+2 Low quality --actually, one more thing you guys should pay attention to is on --I 
+3 don't know which page this is. I think it's like page 4. It says, several of the pages and 
+4 groups shared problematic content and had other markers of low quality, violating 
+5 ownership or activity, such as high number of CO deletes --so that's country operation 
+6 deletes --for admins are in pages and groups with overlapping sets of admins. 
+7 So the reason why this is an important phrase, is, if you have overlapping sets of 
+8 admins, it means that you have a coordinated movement going on. So this is a huge 
+9 problem with QAnon, where you had clusters of accounts that were going and being the 
+10 administrators and promoters of groups of pages. 
+11 And so what this is saying is that, you know, the algorithm, once you start falling 
+12 down the rabbit hole, it ends up pushing you into --into like a --into like a kind of an echo 
+13 chamber, that as the next point there says explicitly, that part of the problem with this 
+14 content is that they've gotten coordinated, inauthentic behavior violations, right, where, 
+15 you know, a number of these groups have admins that have already lost other groups for 
+16 coordinated, inauthentic behavior, which is a huge problem. 
+17 So --so what basically this doc says is that Facebook knew they were --they were 
+18 pushing people into groups that had these integrity --known integrity issues. 
+19 
+20 
+21 Q 
+A 
+Q Okay. 
+Interesting. Okay. That's enough. I'll let you climb. Yeah. 
+We're going to move now to document 7, which I'm going to mark as exhibit 
+22 G. This is the Stop the Steal and Patriot Party --
+23 
+24 A 
+Q 
+25 document. Uh-huh. 
+--the Growth and Mitigation of an Adversarial Harmful Movement  1 
+2 
+3 
+4 
+5 A 
+Q 
+A 
+Q 
+A Yep, yep. 
+So first question, you produced this document to the committee? 
+Yes. 
+Yeah. And do you know when it was written? 
+It was written --wait, like, I'm looking at it real close. It would have been 15 
+6 written in March of 2021, or at least last edited March of 2021. 
+7 
+8 
+9 Q 
+A 
+Q And are you familiar with this document? 
+I am. 
+And so what do you think the main takeaways are that the committee 
+10 should know from this document? 
+11 I could ask some specific questions too. 
+12 
+13 
+14 
+15 
+16 
+17 A 
+Q 
+A 
+Q 
+A 
+Q So one --yeah, why don't you ask me some specific questions. 
+Sure. 
+Yeah, good. 
+So let's go page 3. 
+Uh-huh. 
+Well, first of all, let's go to --before we do that, Jeffrey Horwitz and Justin 
+18 Scheck wrote an article called Facebook Increasingly Suppresses Political Movements It 
+19 Deems Dangerous, and I believe they described this as a targeted approach that was 
+20 controversial within Facebook. 
+21 And we can pull up document 9 and mark that as exhibit H. That's the article. 
+22 And if you go to page 4, that's the quote, if you want some context. But I just --
+23 
+24 A 
+Q Yep, yep. 
+--I just wonder if --if you --what your reaction is, and if you agree that this 
+25 was a targeted approach that was controversial within Facebook?  16 
+1 A So this document plus the document on information corridors, which may be 
+2 an exhibit later on --
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 Oh. Did everyone else lose her? 
+Mr. Bakaj. It sounds like it. 
+Frances? 
+Yeah, I lost her too. 
+Okay. We'll wait. 
+Voice. The connectivity on the island has been, you know, shaken. 
+Voice. Sure. 
+Voice. Though it is kind of ironic that we in Northern Virginia apparently this 
+11 entire area has also lost connectivity, so --anyway. 
+12 Bad timing. Would one of you want to just text her and let her 
+13 know that she's talking into the ether if she's talking? 
+14 Voice. Yeah. 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 Voice. Where are the rest of you physically located that you still have internet? 
+I'm in D.C. 
+So am I. 
+D.C. is still good. 
+Let me check. 
+Voice. We are --Northern Virginia is down. 
+Voice. I see Frances has joined from another device. 
+Frances, can you hear us? 
+Mr. Bakaj. I just got a text from her saying she's trying to get back in. 
+Okay, great.  1 Mr. Bakaj. And just to let you know, sometimes she does have connectivity 
+2 issues as well on the island, so she does at times switch from her laptop to her phone 
+3 because her phone is actually I think a little bit more stable. So that could --if you're 
+4 seeing a different device come in, it could be her. 
+5 That's fine. It looks like I see her now, but she might be on a 
+6 different device. 
+7 Frances, can you hear us? 
+8 Voice. For the court reporter, why don't we go off the record until we resolve 
+9 this technical issue. 
+10 Okay. 
+11 [Recess.] 
+Okay. Let's go back on the record. 
+BY 12 
+13 
+14 Q Before there were some connection issues --we're back on the record. 
+15 Before there were some connection issues, I had asked you about whether you agreed 
+16 with the statement that this was a targeted approach that was controversial within 
+17 Face book. 
+18 A So, you know, Facebook had lots and lots of options other than making 
+19 tactical choices to pull Stop the Steal or the Patriot Party off of Face book, right? You 17 
+20 know, they could have chosen lower rate limits for like how many people could be invited 
+21 to groups. They could have changed things about how they recommended groups. 
+22 They could have changed things, like, should you receive content from people before you 
+23 choose to join a group, all these things. 
+24 But because Facebook chose to run the system really, really hot, by the time Stop 
+25 the Steal or the Patriot Party started to become, you know, illicit, real-world violence, like  18 
+1 it induced real-world violence, they didn't have a lot of options other than to remove 
+2 them from the platform. 
+3 One of the things that is more difficult about one of these movements --and 
+4 they're classified as adversarial movements to differentiate between, you know, imagine 
+5 a social movement, you know, is full of authentic actors that are using the platform to 
+6 organize some kind of movement, versus people who are actively trying to get around 
+7 Facebook's safety offenses. 
+8 When you have one of these movements that is actionably weaponizing the 
+9 platform, you have to have more subtle tools for detecting who is driving the movement, 
+10 for being able to see the trends that are, like, the ways that people are recruited or 
+11 activated. 
+12 And what Jeff is referring to here is that they developed technologies, like 
+13 information corridors, for being able to understand who was actively pushing ideas 
+14 through these networks, who were the ones who were causing the networks to grow. 
+15 Because if you can find the, you know, 1 percent of people who are both the recruiters 
+16 and the amplifiers and the people who actually generate the ideas, you can, in a tactical 
+17 way, remove those people from the system or down-ramp them. Presumably, you can 
+18 make it so that just those people can't invite people to groups anymore, or they can invite 
+19 fewer people to groups per day. 
+20 And so I do agree with Jeff's assessment that this is like a targeted intervention, 
+21 like, it's very focused. It's not like just making the system safer. It's choosing to 
+22 remove an actor from the platform after the risk to the company becomes too large. 
+23 Q Thank you. 
+24 Moving back to exhibit G, which is the original document we were talking about, 
+25 the Stop the Steal and Patriot Party doc.  1 
+2 A 
+Q Uh-huh. 
+On page 3 of that, it says, from the earliest groups, we saw high levels of 
+3 hate, V&I, and delegitimization combined with meteoric growth rates. 
+4 So how did Facebook define delegitimization? 19 
+5 A I believe --so there's some interesting documents elsewhere that talk about 
+6 the idea of the emergence of the concept of de legitimization and how, like, it required 
+7 writing policy around. So delegitimization, I believe, refers to saying, like, the election is 
+8 not valid when the election was held in a free and, like, observed manner. And so I 
+9 believe that's what delegitimization is. 
+Q Okay. Thank you. 10 
+11 Moving on to page 20, you mentioned information corridors. What resources 
+12 are necessary to set one up? 
+13 
+14 
+15 A 
+Q 
+A To set up --to be able to discover one or for -­
+Yeah. 
+--like an individual on the platform to be able to, like, build out of an 
+16 information corridor? 
+17 
+18 Q 
+A To be able to discover one. 
+You know, I have not read through this paper in a super close way. I'm 
+19 guessing it requires setting --so if it is anything like a CORGI pipeline, which is --which is 
+20 discussed --I know there's discussions of using systems like CORGI or maybe even using 
+21 parts of CORGI in order to do this --
+22 Q What does CORGI --spelled C-O-R-G-I --what does that stand for, do you 
+23 remember? 
+24 A It's like coordinated something something graph. Like, it's something about 
+25 finding coordination between different entities. I've --I've --I've helped design CORGI  20 
+1 pipelines. I do not know all of the math on, like, how the embeddings work for it, but if 
+2 it's anything like what you do for a CORGI pipeline, you define the kinds of focus you want 
+3 to have in the system. 
+4 So you might say I'm going to look at key words, or I'm going to look at people's 
+5 membership in groups, or I'm going to look at the administrators of groups. And you 
+6 would, once you defined those inputs, you would run a pipeline, and it would probably 
+7 take you a couple of days, I would guess, like maybe a day, maybe 2 days for the system 
+8 to, like, churn through all the data. And then it would give you, I'm guessing, these 
+9 clusters that would allow you to see people who were engaged in certain ways. But I 
+10 have never set up an information corridor pipeline for myself. 
+11 Q Okay. And if we go could two more pages down, please. There. If you 
+12 look in the middle of the page --
+13 A But just for context, I did actively work with the team that developed this. 
+14 So the data scientist that developed this specific thing, she was on the same working 
+15 group with me around adversarial harmful networks. 
+16 Q Okay. So the information corridor on this page is blue, and the sentence 
+17 says, we've also built tools, parentheses, information corridor. 
+18 Is this a tool for detecting an information corridor, is that what you're saying? 
+19 A Yes. So information corridors are like finding who are those people who 
+20 are the ones bringing people into the movement, who are those people pushing the ideas 
+21 and amplifying them. And there's a document on information corridors, which I think 
+22 you have, that details exactly what an information corridor is. 
+23 Q All right. Let's go down two more pages, and then I have some questions 
+24 about what Facebook should have done immediately after banning Stop the Steal. 
+25 On page 22, if you look at the top bullet, it says, there are many lessons --well,  1 before the bullet, it says, "there are many lessons we can take away." And one of the 
+2 bullets is early focus on individual violations made us miss the harm in the broader 
+3 network. 
+4 
+5 
+6 A 
+Q 
+A Uh-huh. 
+What does that mean? 
+So when you --so one challenge of Facebook's integrity --overall integrity 21 
+7 strategy is --and you can see this in things, like, they have established the entire oversight 
+8 board to focus on this --is that they have focused disproportionately on viral pieces of 
+9 misinformation or like viral pieces of hate speech. They have focused on the head, 
+10 instead of focusing on the aggregate volume of the tail. 
+11 So I'll give you an example. When they've gone and studied the relative volume 
+12 of --of viral misinformation versus narrow cast misinformation --so that's where you 
+13 send information targeted at a specific community, at a specific geography, you know, a 
+14 sociographic group --the volume of --of narrow cast misinformation is, I think, two to 
+15 three times larger than the volume of misinformation for viral misinformation. 
+16 But because Facebook's whole moderation strategy is around the idea of like, you 
+17 know, you can't deal with all the content but you can deal with the highest severity 
+18 content, they --I could --I could totally imagine what happened is, there might have 
+19 been, in aggregate, a huge amount of chatter that was being driven by this network. 
+20 Right? So one of the things that's discussed either in this document or in the 
+21 information corridors document, I don't remember which, is they talk about the idea that 
+22 a very small number of people were driving the introduction of these ideas and then like 
+23 cross-feeding it across the network. Or like a very small number of people were inviting 
+24 people into these networks. 
+25 And so in aggregate, you know, you might have hundreds of posts that each get  22 
+1 seen tens of thousands of times, but a post that gets seen tens of thousands of times isn't 
+2 considered important at Face book. Right? It's --you know, if you get seen hundreds 
+3 of thousands of times or millions of time, then you would be important enough. 
+4 And so I can totally imagine a thing where they were focused on, you know, war 
+5 stories getting reported by third-party fact-checking versus was there kind of this large 
+6 diffuse tidal wave of harm. And that's part of why they invented things like the 
+7 information corridors work, is, they wanted to be able to actually be able to identify and 
+8 quantify, like, what is an amorphous set of harm, instead of just like a super viral single 
+9 post. 
+10 Q And the fourth bullet point says: We have little policy around coordinated 
+11 authentic harm. 
+12 
+13 
+14 A 
+Q 
+A Yes. 
+What does that --
+So --so --so at Facebook, because you are required to be --use your real 
+15 name, if they can demonstrate that someone is acting inauthentically, then that is a very 
+16 easy way to bring down a network of actors. So if you can come in there and find a 
+17 network that claims to be moms from Atlanta but everyone's IP address is from Russia, 
+18 you can say, you are clearly acting in inauthentic manner, and you can get taken down. 
+19 But one of the things that was common across Stop the Steal and Patriot Party 
+20 was these were authentic actors, right? They were not misconstruing who they were; 
+21 they were --but they were trying to work around Face book's safety systems. You know, 
+22 they try to have backup groups so that when one group gets taken down, they can fall 
+23 back on another group. They ask people for their email addresses so they can invite 
+24 them to other things. And so that's --and they don't --that was like a major gap in 
+25 Face book's safety strategy, and that was one of the things that our working group was  23 
+1 trying to resolve at the time that I left the company. 
+2 Q And is that related to the --later on this page, it mentions the disaggregating 
+3 harmful networks task force and the adversarial harmful networks policy? 
+4 
+5 A Yes. 
+Q Great. Let's move to document 10, if we don't mind. We're going to call 
+6 that exhibit I. This is the document called February 2020 Civic Integrity Reorg. 
+7 
+8 
+9 
+10 
+11 
+12 
+13 A Okay. 
+Q All right. So did you produce this document to the committee? 
+A Yes. 
+Q And are you familiar with this document? 
+A Yes. 
+Q Do you know what problem this document is meant to be addressing? 
+A So I know what they claimed it was trying to address, which was --I want to 
+14 make sure I have exact --I'm looking at exactly the right thing. Specific integrity, 
+15 specific --
+16 
+17 
+18 of --
+19 
+20 Q We have it up on our screen, but it's --
+A I can't see, like --like, I want to scroll a little further up. And so, like, part 
+Q Okay. 
+A It's interesting, I'm trying to see who wrote it, that kind of thing. I think it's 
+21 by Guy Rosen. Oh, you guys can't see it. 
+22 
+23 
+24 Q We don't see it. 
+A Give me --give me just one quick second. 
+Ah, I got it. Okay. So that's actually by Kashkik Iyer, that notice, and --so it's 
+25 from February 7th, 2020. Oh, this is --actually, this is a slightly different doc. This is  24 
+1 not the one I thought it was. Give me one sec. 
+2 Okay, good. So this is actually an earlier document, I thought. So I --yes. 
+3 So --okay. No, I do know. So this is the reorg that happened right after the --this 
+4 happened right after the Iowa caucuses. 
+5 So I think what was intended to be solved with this --this reorg was, they wanted 
+6 to put a lot more emphasis on like the rapid response pod. So, like, there was a group 
+7 that was like building out the war room software. 
+8 And I remember, coming out of this reorg, that was a much bigger pod. And they 
+9 repositioned some of the remaining pods because, like, the team that I was working on, 
+10 our engineering manager did not have the right skill set for the work that we were doing, 
+11 like, he didn't have like a data or, like, an Al background. 
+12 And so the engineers that I had been working on when this reorg happened got 
+13 moved under a different engineering manager, another team, so that there was 
+14 more --just because, like, there was that misalignment of skills. 
+15 Beyond that, though, I don't know the other reasons for this reorg. 
+16 
+17 
+18 Q 
+A 
+Q Okay. Can we go to page 3? 
+Uh-huh. 
+This has three pillars: the ecosystem pillar, the problem pillar, and the 
+19 crisis pillar. And so can you use this to maybe explain what you were saying so that we 
+20 have a visual? 
+21 A So --so the group that was the working on the, like, war room 
+22 software --so they're called IPOCs, Integrated Product Operation Centers --that would 
+23 have been under the crisis pillar. And then --
+24 
+25 Q 
+A Before you move on with IPOCs, what's an L3 IPOC? 
+I'm guessing that is a level 3 IPOC. I don't --I don't know what the tiering of  25 
+1 the different levels are, though. 
+Okay. Sorry. Carry on. Thank you. 2 
+3 Q 
+A Ah, okay. So I think another part of what was good on this one was, so you 
+4 see the part where it discusses the three infrastructure pods? So CORGI is an 
+5 infrastructure, right, it's like the thing that finds the coordination. Measurement and 
+6 classification was trying to set up common infrastructure for things like hate speech 
+7 classifier, voter disenfranchisement classifier, that kind of thing. And then civic data was 
+8 the group that would ingest external data feeds on things like who are politicians. 
+9 And so all those got moved under ecosystems, it looks like. Beyond that, I don't 
+10 know a lot about this. 
+11 
+12 
+13 Q 
+A 
+Q So, generally, how --
+Do you have any more specific questions? 
+Generally, how were pillars --how were pillars used? What were 
+14 they --what were they? 
+15 A Pillars were just organizational units. So, like, you know I was talking about 
+16 my [inaudible] team, it has become --became segmentation infrastructure. So that 
+17 you've seen other ones that talk about like how misinformation is concentrated in certain 
+18 segments. It's the same kind of thing. 
+19 Pillars just give you a place to have like a home, right? So you might have a 
+20 handful of teams that all are under that pillar, and they might have like a weekly meeting, 
+21 or they might share like an engineering manager. 
+22 Q And if we go back up to 1, I just want to note that it looks like Civic Integrity's 
+23 mission at the time was to strengthen societies by ensuring our platforms are safe and 
+24 trusted for civic engagement. I think that was a question we had last time. Does that 
+25 sound right?  1 
+2 A Yeah. 
+Q Okay. We're going to move on to another document unless you have 
+3 anything you want to pause us on here. 
+A Nope. Nope. 26 
+4 
+5 Q Okay. This is going to be J, and this is document 11, exhibit J. This one is 
+6 called CIPGO Roadmaps and Reviews. 
+7 
+8 A Uh-huh. 
+Q Well, that's actually --that looks like it's the name of the group. On that 
+9 page, it says timeline updated CIPCO, problem roadmap priorities/guidance Hl 2021. 
+10 So did you produce this document to the committee? 
+11 
+12 
+13 A Yes. 
+Q And are you familiar with it? 
+A I am --I know that I've read it at some point. Yeah, I'm just looking at it 
+14 right now. 
+15 Okay. Go. Yep, I'm good. I'm familiar with it, but it's not a thing where like it 
+16 jumps out at me as like a --but, yeah, what are your questions? 
+17 Q So this is December 11th, this is after the reorganization, after the election, 
+18 right? 
+19 A Yes. Yep. 
+20 Q So what is Cl PCO? 
+21 A So I believe CIPCO --so CIPCO, so it's community integrity product, I 
+22 think --community integrity product in country operations, I think. I'm not entirely sure. 
+23 But CIPCO is kind of like the umbrella, like, umbrella org that's over most of the things 
+24 that we would consider integrity. And once Civic Integrity was dissolved, it got folded 
+25 under CIPCO.  27 
+1 Q And if you look at page 8, it looks like there's two kind of documents in this 
+2 one document. So I just want to know how these documents flow together. 
+3 That's --keep going. 
+4 A Yeah. 
+Q This is the next --this is the document I want to ask about --
+A Sure. 
+Q --why there's a format break here. 5 
+6 
+7 
+8 A I'm guessing that's because --let's see. I'm guessing that's because --I bet 
+9 if you go towards the top of that doc, there's probably a link to like the lookback on the 
+10 year. That's my guess. I'm just seeing if I can see if there's an obvious link that links 
+11 the two. 
+12 It may also just be that I didn't split them up where, like, I had one and when I was 
+13 overjoyed putting everything into folders, sometimes things just didn't get split apart. 
+14 But looking at this right now, I'm guessing this is --this is a lookback. 
+15 So within CIPCO, there are different clusters, and this is for the Protecting People 
+16 cluster. Yeah, I think these are not necessarily directly related. I think I just forgot to 
+17 divide them when I was, like, separating out all the documents. 
+18 
+19 
+20 
+21 Q Okay. That's fine. Let's go back up to 1. 
+A 
+Q 
+A Okay. Yep. 
+How were ops requests prioritized? 
+Ah. So ops requests, if I remember correctly, were kind of quantified in the 
+22 number of hours you thought you would need from that team for the quarter or the half. 
+23 Beyond that, I don't know how they were prioritized, like, I don't know who got theirs 
+24 filed and who didn't. 
+25 My understanding is there was a relatively, like --they knew how many total hours  1 they had available to allocate. And part of why they would ask you for like your 
+2 requests early is they could try to lobby to get more capacity that would allow them to 
+3 meet your request, but, like, you didn't know if you were going to get your request. 
+4 Q So these ops resources were working on more than just civic integrity or 
+5 community integrity products? 
+6 
+7 
+8 A 
+Q 
+A Yeah. 
+Okay. 
+Yeah. They probably also had some ops people who were working on 28 
+9 things like account integrity, which is out of a different --a different part of the company. 
+10 But, yeah, ops people can be cross-trained or can be moved into different pods. 
+11 And so part of it is around because they're contractors, like, it's a question of like 
+12 how many people do you hire and like who do you train to do what. 
+13 Q Great. And who decides how many resources went to address --how many 
+14 ops resources went to address which requests? 
+15 
+16 
+17 A 
+Q 
+A Who got to decide? 
+Who decided that? Yeah. 
+I'm guessing --I'm guessing people put in their requests, and then the ops 
+18 team came up with a budget, and then that probably came back to the product teams to 
+19 be like, hey, like, this is --this is what we're going to fund. And then I'm guessing 
+20 probably --like, just if this is anything like other kinds of funding cycles. 
+21 So I never engaged in this process, to be clear, like, I was --my products were too 
+22 early in the life cycle to do them. You --I'm sure there was a way where like if ops did 
+23 not fund your thing but, like, say the VP of --you know, if Guy Rosen said we need 
+24 funding for it, they would probably then go find funding. 
+25 But I don't --I don't know if they had like a formula or if they, like, allocate --I  29 
+1 know that for other things involving limited resources, they would look at like how many 
+2 users of Facebook were in each country, or, like, you know, what was the --the sensitivity 
+3 of that country. 
+4 So, for example, the United States, Facebook would put more resources into 
+5 keeping it safe because, like, the United States could regulate Facebook. So those kinds 
+6 of things came into play. 
+7 Q Okay. Let's move down to page 6, back down to page 6. Yeah. It says, 
+8 What do we expect teams to not trade off to make these investments? And the 
+9 investments are outlined further up. And one of the things that is in this category is 
+10 spikes. It says, We expect teams to be vigilant to spikes in their operational metrics and 
+11 continue to do RCAs to understand metric moves. 
+12 
+13 A 
+Q Uh-huh. 
+What are operational metrics, what is an RCA, and what does it mean to 
+14 understand metric moves? 
+15 A So operational metrics, like, maybe your team is the team responsible for, I 
+16 don't know, civic spam or something, and suddenly you see a spike, you might need to do 
+17 a little fire drill to figure out like is this spike real or is it an error in your logging platform. 
+18 If it is real, what's driving it, and you might need to go address it. 
+19 And, like, what they're saying --I think those things they were talking about 
+20 above --I haven't reread this recently, but I believe the stuff that is above is around 
+21 becoming like more efficient in developing things like Als, like, having more shared 
+22 systems and things like that. 
+23 So saying, you know, you still need to be vigilant to spikes means, like, you need to 
+24 be able to, like, if a crisis happens, you still need to be able to respond to it. You can't 
+25 say I was focused on these other goals because --and so I didn't pay attention to my  1 metrics. 
+And this was December 11th? 
+Yes. 
+And this is CIPGO. Does that include integrity staff? 30 
+2 
+3 
+4 
+5 Q 
+A 
+Q 
+A It would have been the organization that we were under after Civic Integrity 
+6 was dissolved --or the vast majority of us would have been under. 
+7 Q All right. Let's go to page 7. So this is the first 2 weeks of the --of the 
+8 year, and it says roadmapping activities, focus on PSC. 
+9 A Ah. So PSCs are the performance reviews that people do. I don't 
+10 remember what the acronym stands for. But PSCs are, people write peer reviews for 
+11 everybody and do self-reviews, and it takes up quite a big deal of time. I think it takes 
+12 up, like, almost like a full week or maybe even 2 weeks, depending on how many reviews 
+13 you have to write. 
+14 Q And this was designated to be taking place in the week of January 4th to 8th, 
+15 correct? 
+16 A Yes. And for context for people, often people will, like, very actively unplug 
+17 during that period of time. So, like, people in order to, like, be able to get through all 
+18 their reviews they'll, like, you know --back when people --when working from home 
+19 wasn't standard, people might work from home in order to like not be distracted. And 
+20 so people might have been --I can totally imagine people were, like, heads down on 
+21 January 6th, or in the lead-up to it, if they were working on their peer reviews. 
+22 Q And so this gets us a little bit into what we were talking about last time, but 
+23 who should have been pulling people off of those projects to either monitor spikes or 
+24 prepare in other ways for January 6th if they would have seen it coming? 
+25 A So once Samidh was no longer in charge of Civic Integrity, I'm not exactly  31 
+1 sure who that person would have been. I guess Guy Rosen would be --would make 
+2 sense as, like, the logical person. 
+3 Part of what's a little difficult on PSCs is --yes, they have 2 full weeks for PSCs. 
+4 God, I don't even know if people were back from vacation that week, like the Jan. 4th to 
+5 Jan. 6th week. But, yeah, if people were working, like --and part of --part of what's also 
+6 interesting about that in terms of distraction is, the higher up the leadership chain you 
+7 are, the worse your PSCs are because you have more people potentially who you need to 
+8 write reviews for. 
+9 And so that could have been another factor that was distracting in the leadership 
+10 by Facebook, was, it's very possible that whoever would have been the responsible party 
+11 at that point was high enough up that they had a lot of PSCs to deal with. 
+12 Q Are PSCs the kind of thing that can be put off? 
+13 A Anything can be put off, but you would need to have someone who could 
+14 actually like, you know, change that schedule. Because it's --it's administered through 
+15 an application that --and so, like, you know, I'm sure there's a way to like change those 
+16 deadlines. But you would need to have someone who could come in there and say, like, 
+17 we're going to change these deadlines for X, V, Z people. 
+18 Q Okay. We're going to move to the second document in this document. Is 
+19 there anything else about this table that you think is interesting or the document before 
+20 we move? 
+21 
+22 A 
+Q Nothing I can think of. 
+Okay. So going on to page 8, if you look at the first paragraph, it says --this 
+23 is in the H2 2020 overview. It says --
+24 
+25 A 
+Q Uh-huh. 
+--sentence, and second, SME bandwidth was limited.  1 
+2 What is SME bandwidth? 
+A Subject matter expert. So you could imagine --one second. I don't --I 
+3 don't know necessarily what SM Es would be doing in this context. So you could 
+4 imagine --so one of the ways that SM Es were used in Civic Integrity was they had 32 
+5 linguists, for example, who spoke languages that were spoken in the area's countries, and 
+6 they would help classify content. 
+7 So when they say subject matter --SME bandwidth was limited, it might be a thing 
+8 where, like, they didn't have enough people in the problem areas they wanted to be 
+9 focusing on. It might have been that those people were --were busy doing, like, more 
+10 crisis-related activities. I just don't know. 
+11 Q Okay. Let's move to the table starting on page 11 of this document, it's 
+12 called Hl 2021 H2 roadmap table. And there are some sub tables in here, and we're 
+13 going to turn to the one that is violence incitement. So let's go to page 15. 
+14 
+15 A 
+Q Uh-huh. 
+And on --I'm sorry. Let's go to page 18. Oh, I'm sorry. You just started 
+16 scrolling. Let's go back to 15. 
+17 So under violence in segment number 2, it says, preparatory statements. We 
+18 have seen an increase in content calling for civil war and calls to take up arms, particularly 
+19 in the U.S. and in Ethiopia. We plan to do a PPF policy development on this in each one. 
+20 
+21 What does this mean to you? 
+A So in order to like have a new type of content where you would say, like, this 
+22 content is not permitted, you have to go through like a policy development process. 
+23 don't know what the acronym PPF stands for. I could look it up in the docs, but I'm not 
+24 aware of exactly what that statement is. 
+25 Q Okay. And then let's go on to 18. And there we have number 7, calls for  33 
+1 state violence. Implement and operationalize the framework concerning state actors' 
+2 calls for force. Currently awaiting further leadership guidance. Note, OCP are now 
+3 playing a more supportive role here, so the priority is no longer P zero. 
+4 And then in the last column, it says medium, dependent on leadership sign-off. 
+5 What are called for state violence on Facebook? 
+6 A Just to make sure I'm on the --oh, I see it. Are now playing OCP. Calls for 
+7 state violence. Impeachment and operationalize and implement [inaudible] state actors 
+8 concerning [inaudible]. 
+9 So I think --I think this is --it's like when an individual says, you know, there 
+10 should be a coup, right, like, you know, Mike Pence should stop counting votes. I'm not 
+11 saying --or it must be more than that, because calls for state violence would mean like 
+12 shoot the protesters or things like that. I don't know the exact details on it. I didn't 
+13 work on them. 
+14 Q Okay. I don't think there's anything else on this document. Let's move on 
+15 to document 15, which we're going to now call exhibit K. That is called IPOC boot camp 
+16 training. 
+17 Did you produce this document to the committee? 
+18 
+19 
+20 
+21 
+22 A 
+Q 
+A 
+Q 
+A Yes. 
+And are you familiar with this document? 
+Yes. 
+Going on to page 2 --
+What's a little interesting about this document, so if you look on page 1, the 
+23 agenda is dated to January 12th, 2021. And as a general rule, like, when they would 
+24 stand up IPOCs for events, they would staff them up, you know, in advance of a thing, and 
+25 they would do something like hold a training. And so the fact that there's this training  34 
+1 doc that's dated January 12th, I think is very interesting. But I don't know if that has any 
+2 actual significance. It just seems an odd coincidence, but, cool. 
+3 Oh, actually, interesting. There's stuff --there's stuff further down. If you look 
+4 on page 4 --
+5 
+6 Q Yes. 
+A --so they have --yeah, yeah. So it looks like they did do a little bit starting 
+7 on Jan. 4. Interesting. 
+8 Q Where are you seeing that? 
+9 A If you go down to page 4, it says, proactive pod lead daily prioritizations at 
+10 that sync, Jan. 4 through 22. So it looks like they might have started doing a little bit on 
+11 Jan. 4. 
+12 Q And if you look further up, there's a reference to the Capitol 
+13 crisis/inauguration IPOC stand-ups event. 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 that --
+24 
+25 A Okay. One sec. Okay. Yep, I see it. 
+Q There were, I believe, also references in this document to a Georgia IPOC? 
+A Uh-huh. 
+Q So that may have been --
+A For the Georgia runoff elections? 
+Q Let me --let me see if I can find that reference. 
+Oh, yeah, if you go to page 7 --
+A Uh-huh. 
+Q --there's a reference to the Capitol crisis/Georgia runoff standup log. So 
+A Cool. Okay. 
+Q Okay. And if you go --let's go down to page 8 now.  1 
+2 A 
+Q 
+3 Capitol lPOC. Okay. 
+It says that there is a --in the first paragraph, it says there's a Storm the 
+4 A Uh-huh. 35 
+5 
+6 
+7 Q 
+A 
+Q Is it common that there are this many IPOCs going on at the same time or -­
+No. No. 
+--are these all the same kinds of names for the similar IPOC? What --what 
+8 would you --
+9 A I'm guessing they all were being held out of the same --oh, actually, this was 
+10 during COVID, so it would have been distributed. So, no, this is not normal, like, 
+11 generally, there are not this many simultaneous IPOCs. Like, usually there's like an IPOC 
+12 at a time, not multiple ones. If --if one at all. Like, it has to be something big, like the 
+13 German elections or the U.S. elections. 
+14 Q Okay. Do you recall when this picture was taken? Because according to 
+15 page 8, there was still an additional 15 levers in the pipeline. 
+16 A No. Give me one second. I can get that real quick. IPOC training. So I 
+17 photographed this doc on May 16th. So I don't know when it was last edited, unless 
+18 there's a timestamp on the doc. Yes, this was done via Quip, and Quips are a little 
+19 harder because unless there's comments, you don't really get a good timestamp. So, 
+20 unfortunately, I don't --I don't know for sure when this doc was last edited. 
+21 Q Okay. Let's go to page 15, which is the last page, and there's a proactive 
+22 pod prioritization model. 
+23 
+24 
+25 A 
+Q Okay. 
+So just take a look at this. Get familiar with it. 
+When prioritizing information in the matrix, on page 15, it appears that one of the  36 
+1 main things, based on the axes that Facebook was concerned about, was discoverability 
+2 as well as severity. What did discoverability mean? 
+3 A I think discoverability --that's an interesting question. Oh, let me see. 
+4 I'm looking at it. Okay. Discoverability --oh, wow. 
+5 So it looks like discoverability is, like, would the media notice it, right, and like 
+6 would it cause reputational harm? Because one of the axes is, like, little media 
+7 coverage, like, little to no media coverage, you know, unlikely to cause offline harm, 
+8 reputational damage, versus things that are like very discoverable and are severe, which 
+9 is like widespread media coverage. You know, it's --it's easy to like do a search and just 
+10 see the content. 
+11 So you can imagine a thing where, like, a lot of the harm was happening in closed 
+12 groups that were invite-only, and that would be harder to discover, right? Like, if it's an 
+13 issue that isn't in the media already and it's harder to discover it, that would be not 
+14 discoverable, that kind of thing. 
+15 
+16 
+17 Q 
+A 
+Q And as you've called out -­
+Yeah. 
+--I think the fourth bullet in each of these squares has both the likelihood of 
+18 causing offline harm and the amount of reputational damage. 
+19 
+20 
+21 A 
+Q 
+A Yes. 
+What does that tell you, if anything? 
+This is like a common thread across, like, Facebook's integrity actions. Like, 
+22 there's no way that you would put Germany in with like countries that are actively 
+23 engaging in like a civil war, like, ethnic violence, unless a big part of how you're 
+24 prioritizing your resources was around reputational damage. 
+25 I don't have documentation on this. Like, this is just something that I heard in a  37 
+1 meeting. But, like, we were told at some point that the budget for Civic Integrity came 
+2 out of the antitrust budget. Like, there was a feeling that if Facebook really messed up 
+3 the 2020 election, that, like, Facebook could get broken up. 
+4 And so this idea of that, like, what matters more than, like, the actual harm is, like, 
+5 how Face book is blamed for that harm, is like a thing that happens over and over again 
+6 inside the company. 
+7 
+8 Q 
+A And Facebook cares about whether people link it to January 6th? 
+Almost certainly, right, like, Facebook has come out like Bosworth came out 
+9 last week and said stuff about, like, how you can't blame us for misinformation or hate 
+10 speech because, like, people like those things. 
+11 
+12 Q 
+A And what's your reaction to Bosworth's statement? 
+There's a really good tweet by Samidh Chakrabarti, who was the former 
+13 head of Civic Integrity, that he put out right after that, where he has a framework that he 
+14 claims he developed while he was at Face book --I don't know if that's true or not, but it 
+15 seems plausible --where he lays out how do you assign responsibility for actions. And it 
+16 asks questions like, would you have had the same problem over email, would you have 
+17 had the same problem in a paid subscription model, would you have had the same 
+18 problem in, you know --like, in different contexts. And I think he --he does the best 
+19 explanation for why Facebook is responsible. 
+20 Facebook is not like a neutral actor here, right? Like, Facebook knew that it was 
+21 giving the most reach, the most extreme and polarizing content, and didn't do anything 
+22 about it. And they could have been disseminating substantially less misinformation. 
+23 We're talking 20, 30, 50, 60, 70 percent less misinformation for very small tradeoffs with 
+24 profits. We're talking like single-digit tradeoffs to the profits. And so at some point, 
+25 they have to be responsible. Like, Facebook has to take responsibility for the fact that  38 
+1 there was a way worse information environment that was substantially more incendiary 
+2 because Facebook didn't want to give up slivers of profit. Period. 
+3 Q And how much control do you think Facebook has over important parts of 
+4 the information market, I think you called it? Information ecosystem, whatever you 
+5 called it. 
+6 A Yeah. Face book dramatically changes the composition of the ecosystem 
+7 based on product choices. So that's things like --they have a group picker that lets you 
+8 share out to multiple groups simultaneously. And The Washington Post has done some 
+9 really great journalism on detailing why that multi picker is dangerous, right? Because it 
+10 means that you have people now basically acting as --doing the exact same, like, just 
+11 everyday people doing the kinds of activities that used to be, you know, your Russian 
+12 information operations were doing, you know, just spraying and preying out 
+13 misinformation to as many groups as possible. 
+14 And, like, that --that feature Facebook knew was spreading more misinformation, 
+15 and they kept it up because, like, it --it helps with the amount of content in the 
+16 ecosystem, right? People stay on the sites longer. They have more content in their 
+17 feeds. It makes groups grow more quickly. And so it's just one of those things where, 
+18 like, Facebook made choices to trade off safety and profit, and consistently they chose 
+19 profit over safety. 
+20 Q Okay. Unless you have anything else on this document, let's turn to 
+21 document 16. 
+22 
+23 
+24 
+25 A 
+Q 
+A 
+Q Okay. 
+Let's mark this exhibit L. This is called cap rates on group limits. 
+Cool. 
+So did you share this document with the committee?  39 
+Yes. 
+And are you familiar with it? 
+I have read through this before, but I am not super familiar with it. 1 
+2 
+3 
+4 A 
+Q 
+A 
+Q Okay. It looks --would you take a minute just to look through it and see if 
+5 you can tell me what the differences between the new proposed --the new or proposed 
+6 policy --it's not exactly clear to me what's happening --and the policy proposed to be 
+7 deprecated. 
+8 A So it says here IS, so IS is Integrity Science. So at Facebook, there's like 
+9 multiple kinds of data scientists. So there are data scientists that have the title data 
+10 scientists, and one might describe them more accurately as analysts. There are integrity 
+11 scientists who, like, I believe are basically the same thing, only they often work in like very 
+12 narrow scopes, and they have --they're a little bit more full stack. So they often have 
+13 like a little bit more engineering skills or they can set up their own pipelines and stuff. 
+14 And then there are core data scientists, who are much more oriented towards machine 
+15 learning. 
+16 So what this is saying is that during, I'm guessing the election IPOC, given this is 
+17 from December 10th, I'm guessing that Integrity Science came in and said, we need to 
+18 reduce the number of --we need to --they probably put a cap on and said, hey, you can 
+19 only invite this number of friends a day to a group. 
+20 What this is saying, is, hey, like, this is a problem, because we are reducing the 
+21 chance of --of viral new group growth by adding --adding friends. So this is saying they 
+22 want to change that. 
+23 Adding target IDs when they have friended in less than 3 days. Group has 
+24 properties. High admin/sys ratio. United States user level. The rest is similar to the 
+25 previously launched policy. The new policy doesn't consider misinfo --oh, interesting.  40 
+1 So they were moved --so there's --ACDC is like a database of flags. So, like, and 
+2 it's meant so you can begin to accumulate information on entities, be it a person, a group, 
+3 a piece of content. So this flag, misinfo 3PFC active for 90 days, means that that group 
+4 got a third-party fact-checking strike in the last 90 days. 
+5 It might mean more than a certain number of strikes. I just don't know. But it 
+6 means that these groups are actively distributing information that was said to be misinfo 
+7 by the third-party fact-checking. So the policy is, hey, don't let someone invite more 
+8 people if they're adding --so a strategy that gets used is someone will go and friend a 
+9 whole bunch of people, and now that they have friended them, they can invite them to 
+10 their group. 
+11 So they're saying, don't allow them to invite it if they friended in less --they 
+12 friended them less than 3 days ago. And the group has both properties --the admin 
+13 switched --the admins switched in the last week and --and any ad min posts the majority 
+14 of the content to the group on a 1-week basis. 
+15 That's a pretty low bar, by the way. So, like, you could have --so what this is 
+16 looking for is groups where they're kind of like fake pages, right? So, like, a page, there's 
+17 like a single person or like a small group of people who can post content to that page and 
+18 it gets blasted out to people. 
+19 People create groups because there's less integrity work done on them but treat 
+20 them like pages. So they've invited all these people to this group, and then they use it 
+21 to blast out content to those groups. It's specifically applying to users in the United 
+22 States and the user has been adding 30 people per hour. 
+23 The difference between the previous policy launch and the new proposed one is 
+24 that we no longer look for group property. 
+25 Give me one --I want to look something up real quick. Launch cap rate limits.  41 
+1 Launch cap rate --launch cap rate limits. 
+2 Okay. Okay. So it says, the difference between the previous policy launch and 
+3 the new proposed one is that we no longer look for group property, third-party 
+4 fact-checking, or the misinfo thing. Eighty-five percent of the groups for which the users 
+5 would be rate limited by the new policy have --oh, so they're basically saying it doesn't 
+6 matter. Either way, 85 percent of the groups that we're talking about here already have 
+7 that flag. So you're not adding --
+8 Q Okay. 
+9 A --that much by adding that flag. 
+10 
+11 
+12 Q Okay. Let's move to page 2. 
+A Sure, sure. 
+Q The last full sentence says --that's not --well, the last full sentence says, 
+13 since the election/protest-related groups have died down, most of the groups rate limited 
+14 are sales related or holiday parties with spam posts. 
+15 
+16 
+17 A Okay. 
+Q And this is on December 10th. 
+A Uh-huh. So I don't know the exact cadence of like when Stop the Steal 
+18 blew up. So I think it might be a thing of, like, the policy that they were using for those 
+19 rate limits. Like, let's imagine a scenario where the people that you're inviting are all 
+20 your real friends, right? You're inviting like all 3,000 of your real friends. Like, this 
+21 policy wouldn't apply to you, right? Because it's not new people that you've friended; 
+22 it's like your people you actually know. 
+23 Or, flip side, let's imagine you friended them all back in November, you've now 
+24 friended them more than 3 days ago, so the policy wouldn't apply to you. 
+25 So I don't --I don't know --I think they probably weren't thinking broadly enough  42 
+1 when they were looking at this policy. 
+2 Q Okay. Let's move on to document 18. We'll call that exhibit M. This is 
+3 the Sociographic Segments May Be lmpactful for Both Hate Speech and Voter 
+4 Suppression. 
+5 
+6 
+7 
+8 
+9 A 
+Q 
+A 
+Q 
+A Yep. 
+So did you produce this to the committee? 
+I did. 
+And you're familiar with it? 
+Yes. I feel vindicated by this post because --so I helped design and got 
+10 approval to build the segmentation system. And I said the reason why this is important 
+11 is you could use it for all these other harms. And so the fact that if it's impactful for hate 
+12 speech and voter suppression, that is exactly what I said was going to happen, 
+13 but --what's your question? 
+14 
+15 Q 
+A Let's just start with describing a sociographic segment. 
+Sure. So this came about because in October of 2019, they found a Russian 
+16 misinformation operation, an influence operation, that was sending targeted 
+17 misinformation to police officers, to environmental --environmental activists, gay 
+18 activists, African-American activists. And they realized that narrow cast misinformation 
+19 was a problem. 
+20 The only challenge with detecting narrow cast misinformation and, like, why the 
+21 problem was not worked on for the, like --they had known about this problem for like 4 
+22 years and no one had worked on it --was, it's a delicate problem to work on because you 
+23 have to figure out how to divide up the population such that you can see structured 
+24 trends in how information is being distributed. 
+25 But at the same time, people might not agree with the labels that you're trying to  43 
+1 apply to them. And so the solution that we came up with was, instead of having explicit 
+2 labels on people, we would learn communities of people by looking at what groups and 
+3 pages people belonged to and interacted with, and we would make kind of like unnamed 
+4 groups. So we'd give them IDs, instead of saying, like, these are, you know, upper 
+5 middle-class White women who live in the Midwest, right? 
+6 And so as a result it's like more privacy sensitive --it's more privacy sensitive. 
+7 The --so what this doc is talking about is the idea that when you're trying to 
+8 understand --so, like, the thesis that I had was that every integrity harm has an initiator 
+9 and a target. And the people who are the targets of hate speech are nonrandom and 
+10 the people who initiate hate speech are nonrandom. 
+11 And so what this is saying is, in the case of voter suppression, the same thing is 
+12 true, right? The majority of U.S. group posts containing voter suppression over the past 
+13 2 months are creating groups associated with just two sociographic segments. And I'm 
+14 guessing probably the same thing is true for hate speech. 
+15 Q Yeah. On page 2 --
+16 A Uh-huh. 
+17 Q --it says, harm is not equally distributed for hate speech and voter 
+18 interference. And there's a reference later, on page 3, to two of these groups. 
+19 believe this might be under the voter interference. And so this document's what you 
+20 were --what you were explaining? 
+21 
+22 A 
+Q Uh-huh. 
+Okay. And so the two --let's go down to the two segments most likely to 
+23 spread hate speech. 
+24 
+25 A 
+Q Uh-huh. 
+So is it, just as hate speech or voter suppression might be targeted to certain  44 
+1 segments, are certain sociographic segments more valuable to Facebook in that they have 
+2 more MSI, they spend more time on platform, they provide more revenue? Is that 
+3 evenly distributed or is that --
+4 A I would assume it's not, but I don't know that for sure. I know that there 
+5 are traits that correlate with being exposed to misinformation, and some of those are 
+6 things like viewing a lot of content. So I could imagine that some of these groups, if they 
+7 appeal more to, say, people who are socially isolated, or marginalized in some way, those 
+8 are also correlative factors for being exposed to a lot of misinformation. 
+9 I would guess --the way I would probably --there's a document --hey, Libby, has 
+10 the Jan. 6th folks gotten the --there's a COVID --actually, I know we haven't filed this SEC 
+11 disclosure yet, so maybe this is why you guys haven't gotten it. 
+12 
+13 Ms. Liu. Oh, no, yeah, I have not gotten that. 
+Ms. Haugen. There's --there's a really good paper on how for COVID 
+14 misinformation, 80 percent of the COVID misinformation goes to 4 percent of the 
+15 segments. Right? 
+16 Ms. Liu. Okay. 
+17 Ms. Haugen. And for the top --for the top like --and so we can make sure you 
+18 get that doc, just so it gives an illustration of like this concentration --
+19 
+20 
+21 
+22 Ms. Liu. Yes. I'll look for it and provide it to you guys. 
+Ms. Haugen. 
+Q Yeah. And if you look on page 7, it says, the prevalence of --we can see 
+23 that the lower bound Cl --I'm assuming that's confidence interval --for prevalence of 
+24 borderline content in the highest prevalence groups is 200 to 700 times the upper bound 
+25 prevalence of borderline content in the segments experiencing the lowest frequency of  1 borderline hateful content. 
+Yeah. That's amazing. 
+Is that a similar finding? 
+Yeah, totally. Crazy. Not surprised. 
+And so Facebook knows about this? 
+Yeah. 45 
+2 
+3 
+4 
+5 
+6 
+7 A 
+Q 
+A 
+Q 
+A 
+Q Could Facebook use that information to change how people experience the 
+8 platform who are in those segments? 
+9 A Unquestionably. Right? Like, they could go in there and say, like, why is it 
+10 these segments are --are producing so much more hate speech. 
+11 One of the things that's talked about in the COVID doc is they talk about the 
+12 dynamics of the platform and how just from humans being social creatures, how 
+13 choices --how the dynamics of being in these groups leads to concentrate the harms, 
+14 because people get normalized to these behaviors, right, where, like, if someone were to 
+15 step in and say, like, that's hate speech, like, that's not cool, like, they would get mocked 
+16 or kicked out of the group or bullied or that kind of thing. 
+17 And the same thing happens for like vaccine hesitancy content. 
+18 And so, yeah, like Facebook knows that this concentration effect is occurring. 
+19 And I am not aware of --I'm not aware, but I also am not privy to everything of their plans 
+20 for addressing that specific phenomena. 
+21 Q So if a --this might be a phenomena that happens outside of Facebook too, 
+22 but if a group or a group of people have rules or a set of norms that make it so that 
+23 expressing certain views makes it --violates the rules or the norms, that can lead to what 
+24 kind of --what kind of environments can that lead to? 
+25 A So I'll give you like a --to give you a kind of concrete way of thinking about  46 
+1 the harm of the system. So let's imagine you had two groups. So one group was 
+2 healthy about dealing with --dealing with hate speech, right, like, someone who posts 
+3 hate speech gets a warning the first time, gets kicked out of the group the second time. 
+4 Like, that group also likely is not as inflammatory, and so it is also likely viewed, based on 
+5 just pure engagement metrics, as being lower quality than a group that indulges in 
+6 inflammatory rhetoric, right, because inflammatory rhetoric elicits a reaction. 
+7 And so it's not just that, you know, when people are in environments where hate 
+8 speech is tolerated they begin to normalize that as a behavior, it's also a thing where 
+9 Face book will actually give more reach and distribution to that group. Like, they will 
+10 recommend it a joinable group more often. 
+11 And I know that Facebook has some policies against what they consider 
+12 nonrecommendable groups, but, like, the thing that I was discussing earlier about, like, 
+13 the idea that Facebook knew that it's integrity systems took like 2 weeks to catch up, in a 
+14 world where you can invite like hundreds or thousands of people per day per person, and 
+15 you know you're not doing a great job of turning off these like, not actually independent 
+16 accounts, right, someone who has 10 separate accounts, you know, if it takes you 2 
+17 weeks to get identified as being like a bad group and not being recommended, it doesn't 
+18 really matter because you've already --you've already been like promoted as a group to 
+19 join for a while. Right? So, yeah. 
+20 Q And then let's turn to page 4, last thing on this document, this exhibit. So 
+21 in the first paragraph under hate, it says segmentation --this is the second full sentence. 
+22 I'll wait till we're there. Yes. 
+23 Segmentation is, at its core, a way to develop scaled, contextual understanding, 
+24 which should facilitate addressing core challenges such as understanding what slurs are 
+25 used in derogatory versus reclaimed ways, as well as identifying audiences which may be  1 experiencing hate speech disproportionately and whose platform experiences could be 
+2 improved with additional interventions. 
+3 
+4 
+5 A 
+Q 
+A Yes. 
+So this is a powerful tool? 
+Yes, yes. That is exactly the thesis. So I did not write this doc, 47 
+6 but --because I was no longer in charge of this team by the time this doc had happened. 
+7 That is exactly why segmentation is so important, because, like, one of the key problems 
+8 on Facebook is that things like hate speech, you know, in minority communities, if 
+9 someone uses the term that is in the community, is different than when someone outside 
+10 the term uses that hate speech term. 
+11 And so when you begin to be able to have context to add scale, you can be both 
+12 more stringent in cracking down on communities that are actually engaged in hate 
+13 speech, and you can stop overenforcing on, say, minority communities. 
+14 But this could be true for any integrity harm, right? Like, you could imagine 
+15 using this context to be able to come in and say, like, given that this person is from a 
+16 group that generally generates hate speech, that gets directed at people who generally 
+17 receive it but don't generate it, like, that's a really powerful insight for changing your 
+18 priors when you're trying to decide whether or not you need to act. 
+19 So, yeah, like Facebook could do a lot --a lot more with segmentation. I don't 
+20 think they are super interested in it because it would require them to admit they were 
+21 responsible. But it is a very powerful tool that they could do a lot with. 
+22 
+23 move? 
+24 
+25 Q 
+A 
+Q Okay. Do you have anything else on this document, or are we ready to 
+I haven't read through it closely enough recently enough to have -­
+Okay.  1 
+2 A 
+Q --big things for you. 
+Let's go to document 24. We'll call this exhibit N, N as in Nancy. This is 
+3 called Mission Control post Jan. 6 IPOC. So this is where I saw the term L3 IPOC. Did 
+4 you provide this document to the committee? 
+5 A I did. 
+6 Q And are you familiar with this document? 48 
+7 A I have not read through it closely, but I --I don't think I'm very familiar with 
+8 this one. This is like a weekly notes document, so I'm not as aware [inaudible] from the 
+9 small ones. 
+10 Q And so what's Mission Control? 
+11 A So Mission Control, it may have been a thing where they changed the name 
+12 of like the team that was in charge of the IPOCs. I'm not sure. 
+13 Oh, actually, I wonder. So when they did the reorg, I wouldn't be surprised, 
+14 given that the name here is actually Mission Control, colon, response, I wouldn't be 
+15 surprised if there's like a Mission Control, colon, prediction, or something, or like Mission 
+16 Control: Alerting. Like, I wouldn't be surprised if there's different subteams under 
+17 Mission Control. 
+18 But this is Mission Control: Response, and that would make sense for it to have 
+19 the IPOC, which is like the war room under it. 
+20 
+21 4th? 
+22 
+23 Q 
+A 
+Q And this is a --this is a --also it references the IPOC beginning on January 
+Yep. 
+So crisis response levers, in the second bullet, it says, we have prepared 
+24 70-plus crisis response levers. 
+25 A Okay.  49 
+1 Q Do you know what that might be referring to? Do you think it's referring to 
+2 some of the break the glass measures we saw? 
+3 
+4 
+5 A 
+Q 
+A Yeah. Yep. 
+Okay. 
+They have a --they have a database internally that lists all the available 
+6 measures and like tracks details on them, right? So things like, you know, where they're 
+7 being applied, when they were applied, all those things. 
+8 They should have like a library. It's like a specific application that tracks these 
+9 things. And so --just so you guys are aware in case you want to subpoena that. 
+10 Q And it says, respond to multiple spikes in FRX VI, hate speech, voting, and 
+11 harassment, and misinformation. 
+12 
+13 How does Facebook know when there are spikes? Who's tracking that? 
+A Sure. So FRX is, I think, the system that takes in when people report 
+14 content. And so like if you go up to the upper right-hand corner of your post, and you 
+15 say, like, report this as hate speech, FRX, I think, is the system that tracks those reports. 
+16 And so this is saying, the FRX system got a bunch of spikes for V&I, which is 
+17 violence and incitement, hate speech, bullying and harassment, and misinformation. 
+18 They have dashboards that allow them to monitor these things, and I think they also have 
+19 automated alerting that tells you when there's like substantially higher levels than usual. 
+20 Q Let's go to page 2. Thank you. 
+21 This is a reference I was thinking about earlier that mentions the Georgia senate 
+22 runoff elections on January 5th, the Capitol insurrection on January 6th, and the U.S. 
+23 Presidential inauguration on January 20th. 
+24 Do you know --we may have covered this --do you remember --do you know 
+25 who to start --who decides when to start or launch an IPOC?  50 
+1 A So back when Civic Integrity existed, Samidh would have been the person to 
+2 decide. I don't know who would have been the person to decide post Samidh not being 
+3 in charge of Civic Integrity. 
+4 Q Okay. Let's go down to the last page on this document. It says, below is a 
+5 photo we feel perfectly captures our feelings on an unexpected 3 weeks in an L3 IPOC. 
+6 And it has a picture, I'm going to describe, of a slightly grumpy Bernie Sanders sitting at 
+7 the inauguration. It's a kind of famous meme photo. So it says an unexpected 3 weeks 
+8 in an L3 IPOC. 
+9 
+10 
+11 A 
+Q 
+A Uh-huh. 
+What does the "unexpected" tell you? 
+That they started at the last moment, right? Like, that this wasn't a thing 
+12 that is anticipated or that, you know, there wasn't someone monitoring the situation for 
+13 the second half of December and like alerting people and bringing people back early. 
+14 Q Okay. I don't think I have anything else on this. Let's move to document 
+15 31, which we will now call exhibit --
+16 
+17 
+18 A 
+Q 
+A And, actually, I want to flag something just for you guys for context. 
+Yeah. 
+So I worked at --I worked at Google in addition to working at Facebook, and, 
+19 you know --you know, Facebooks might come back and say, like, oh, tech companies, 
+20 like, everyone's out for vacation, like, no one's watching the store, like, this is normal 
+21 practice. 
+22 When I worked on the Google Books class action lawsuit, so this was like the 
+23 largest class action lawsuit in, I think, U.S. history, like --because Google scanned a lot of 
+24 books without asking permission first. 
+25 And we launched our rights claiming center on like the 3rd of January, because  51 
+1 that's when the plaintiffs wanted to launch it, and they didn't want to wait, and it didn't 
+2 matter that like tech people take a lot of vacation over the holidays or whatever. Like, 
+3 we came in over the period from between Christmas and New Year's and, like, we 
+4 shipped that thing on the 3rd of January. Like, it didn't matter. 
+5 And so, like, don't let them use as an excuse that it was the holidays, because they 
+6 could have --they could have done something. It was a thing that could have been 
+7 done. 
+8 
+9 
+10 
+11 Q Wasn't there a lockdown at the end of 2019? 
+A There was a lockdown for all of Q4 of 2019. 
+Q Did that extend into the holidays or no? 
+A I don't think so. I think that ended --I think that would have ended around 
+12 the 17th --like, there was probably some people doing like last touches, but I think it 
+13 pro---that probably would have wrapped up before Christmas. 
+14 
+15 Q Okay. That's fine. Let's move on. 
+So this is document 31, as I said, it's exhibit 0. It's called copy --it's called civics 
+16 forensics. 
+17 
+18 A Uh-huh. 
+Q So this really starts on page 2 and 3. Are you familiar with this --or did you 
+19 provide this document to the committee? 
+20 
+21 
+22 A Yes. 
+Q And are you familiar with this document? 
+A You know, I don't know if I am. Give me just 1 second. Forensics. 
+23 really --I love these chats because I do learn stuff from you guys all the time. Give me 1 
+24 second. Civic forensics. Yeah, I don't think I'm familiar with this. This is a new one to 
+25 me.  1 
+2 
+3 
+4 
+5 
+6 
+7 Q Well, let's go through it. 
+A I haven't read all of them super quick. Yeah. 
+Q So --I'm sorry? 
+A I said have at it. I wish to learn. 
+Q Oh, my audio might be messed up. Can everyone hear me? 
+A Yeah, I can hear you. 
+Q Okay. Good. So it says in the summary, about half of top civic groups 
+8 have been related to D14N. 
+9 
+10 
+11 A 
+Q 
+A Uh-huh. 
+Do you know if that's delegitimization? 
+If it has --if delegitimization has 16 letters in it, then that would be 
+12 delegitimization --delegitimization. 
+13 
+14 Q Okay. 
+A The convention in tech circles is that when you have really long words, 
+15 instead of spelling them, you, like, do the first letter and the last letter and then how 
+16 many letters are in between. 
+17 
+18 Q Okay. We'll count. 
+A So like a classic one is localization, is called Ll0N, right, because there's 10 
+19 letters in between for localization. 
+20 Q Okay. Great. So Facebook has said that they took down this --they 
+21 publicly said that they took down the Stop the Steal group 2 days after the election. 
+22 believe it was on November 5th. But let's take a look at page 4. 
+23 
+24 A Yeah. 
+Q It appears that there are still groups with the words "Stop the Steal" 
+25 operating, and I believe this document is created on or after November 12th --52  1 
+2 
+3 
+4 A Uh-huh. 
+Q --based on the title and the fact that --
+A Yeah. 
+Q --there's four different dates up there with statistics next to them. So 
+5 what are these groups still doing here in this table? 53 
+6 A I don't know. I would guess that they didn't have enough people staffed on 
+7 it and --or like Face book just hadn't taken it down on that date. 
+8 Q Okay. So --and the date that we're looking at for this document is 
+9 November 12th. 
+10 
+11 A Uh-huh. 
+Q So let's go to page 6 now. It says, how top civic groups --I'm sorry --how 
+12 top civic group posts are ranked and feed is very different from how overall group posts 
+13 are ranked and feed. 
+14 Do you know why that is? 
+15 
+16 A That's a great question. Position difference. 
+Okay. So what this is saying is that the factors that are driving that ranking 
+17 are --zooming in --so we have group MSI V2, which, you know, could be just normal MSI, 
+18 but with like a --within groups. 
+19 Clean linear VPVD, not sure, photo click, BVI score. 
+20 So looks like it's overwhelmingly driven by --oh, actually --oh, that's interesting. 
+21 Okay. Yeah, let's walk through this. 
+22 So the title on the slide, as you just said, is how top civic group posts are ranked 
+23 and feed is very different from how overall group posts are ranked and feed. 
+24 And the top factor here is group MSI. 
+25 And the second one, I'm not sure what clean linear VPVD is. It might be  54 
+1 something around, just like how many impressions they've gotten. 
+2 And the third one is photo clicks. 
+3 And --and so what this seems to me is, given the outsize impact of group MSI, 
+4 like, these are posts that elicit strong reactions. They might get lots and lots of 
+5 comments. They might get lots of reactions. They might get lots of reshares. But as 
+6 a result, the MSI component of the score is much, much, much higher. 
+7 And there are lots of things here where like, you know, there are --you can see 
+8 here that there are other things that could be used in the score, but overwhelmingly it's 
+9 being dominated by MSI, which means ability to elicit reactions. 
+10 Q Okay. I don't think we have anything else for this document. Let's run 
+11 through some cleanup from last time, and if we have time, we'll turn to another 
+12 document. 
+13 
+14 A 
+Q Okay. 
+So did Facebook pay any special attention to important accounts, like the 
+15 account of President Trump or other major figures, or things relevant to January 6th? 
+16 A I am not aware of specific actions with regard to January 6th. I know that, 
+17 in general, there is a program called Cross-Check which gives basically a free pass to 
+18 highly influential accounts. 
+19 Because the thing that's really important for people to understand is that content 
+20 gets most of its distribution in the first day or two. And one of the things that we saw 
+21 across the documents around Cross-Check was that overwhelmingly they were having a 
+22 multiday SLA, like, it would take them multiple days to check that content. 
+23 And so you effectively, you know, justice delayed is justice denied in this case. 
+24 So if --if you had prominent accounts that were goading on the Capitol rioters, 
+25 then they would likely have not been held to the same standards as the average people  55 
+1 on the site. 
+2 Q Okay. Thank you. 
+3 Specifically about President Trump, you're not aware of anything additional, aside 
+4 from a --
+5 
+6 
+7 A Yeah. 
+Q --cross-check? 
+Okay. You mentioned that people promoted to run Civic Integrity were folks 
+8 who were successful on the growth team. 
+9 
+10 A 
+Q Uh-huh. 
+Maybe they had an instinct or inclination for growth. Do you have --are 
+11 there particular people who you had in mind when you said that? 
+12 A I'm thinking of, The Wall Street Journal did an analysis on employees at 
+13 Facebook, where they looked at who was promoted and from where, and I believe that 
+14 analysis is referred to publicly. 
+15 
+16 Q Okay. 
+A I think Guy Rosen came from growth, like, the head of Civic lnteg---not Civic 
+17 Integrity --the head of integrity. Like, he originally had a VPN company that did 
+18 basically spyware, and then I believe he was in growth, and then ended up in charge of 
+19 integrity. But you'd have to double-check that. I don't have his, like, CV memorized. 
+20 Q Okay. Let's go back --I don't know if we need to go there, but when we 
+21 were talking last time, we spent a lot of time on exhibit A with the Capitol Protest break 
+22 the glass tables. 
+23 
+24 
+25 A Uh-huh. 
+Q And you mentioned that the notes reflect a 1 p.m. meeting? 
+A Uh-huh.  56 
+1 Q Are you familiar --so what meeting were you talking about, and do you 
+2 know who attended it? 
+3 A I don't know who attended it. All I know is that it says, like, notes from 
+4 1 p.m. meeting, so I assume there was a 1 p.m. meeting. And given, for some of them, 
+5 there are like specific, like, next steps, I'm assuming that was from 1 p.m. that day. 
+6 Q Okay. And then lastly for exhibit C, you mentioned that there was a ticket 
+7 that --or we talked about --there was a ticket where about 7,000 users were suspended. 
+8 Is that a large number of accounts to suspend based on a ticket? 
+9 
+10 
+11 A 
+Q 
+A Not necessarily. 
+Okay. 
+Like, it depends on like what --what does your team do. And often when 
+12 there are new safety systems implanted, your first takedown might be quite large. So 
+13 you might take down, you know, tens of thousands or hundreds of thousands of accounts 
+14 simultaneously. 
+15 Q So I think you answered this a little earlier today, but last time, you said a 
+16 failure to implement the soft action feedbacks that were presented to Mark Zuckerberg in 
+17 exhibit D, which we can go to document exhibit D if you want to look at them, but you 
+18 said a failure to implement these meant that people who never followed the Stop the 
+19 Steal content would have gotten invited to it or shown it. 
+20 Can you --did we talk about that earlier today? Were you discussing something 
+21 else? What --
+22 A So I don't know. We can look at document D again. I'm not sure 
+23 which --which exact document is document D. 
+24 
+25 Q 
+A MZ feedback. We have it up on our screen, if you want. 
+Okay.  1 
+2 Q 
+A It's exhibit D. 
+I know that we talked about things out of there around like MSI. I don't 
+3 know if any of the soft actions in that document would have stopped auto-inserting 
+4 content into people's feeds. 
+5 My understanding, that was just like a characteristic of the group's product and 
+6 not something that was considered for removal by soft actions. But if that is one of 
+7 them, that's a great one. 
+8 Yeah, so the one we talked about before was downstream model 57 
+9 depreciation --or not depreciation --deprecation. And that's the one that says like, you 
+10 know, should we overreward things that are engaged with one hop down. So like if I 
+11 reshare something and one of my friends likes it, should we reward that content. 
+12 Q Okay. Great. Let's move back to the documents which --sorry --or 
+13 continuing with document 12, which we'll mark as P, exhibit P, document 12, political 
+14 influence on content policy. 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 A 
+Q 
+A 
+Q 
+A 
+Q 
+A 
+Q 
+A 
+Q 
+A Ooh, yeah. 
+So did you share this document with the committee? 
+Yes. 
+And are you familiar with this? 
+Yes. 
+All right. Is this a badge note? 
+No, I don't think it's a badge note. 
+Okay. 
+I think it's just like someone reflecting on political influence. 
+This was written in December 2020, and --
+Yes. Yep, yep.  1 Q And it says on page 2 that the influence of public policy is a --the influence 
+2 of the public policy --this is number 3. The influence of a public policy team is a 
+3 common topic of complaint inside the integrity org. 
+4 Is that your experience of the integrity org? 
+5 A Yeah, I would agree with that. 
+6 
+7 
+8 Q 
+A 
+Q Okay. 
+In my personal experience. 
+All right. I'm --okay. Let's move on to page 3, where it says at the top, 
+9 misinformation repeat offender escalations seem to have regularly been influenced by 
+10 input from public policy, exempting publishers on the grounds that they are sensitive or 58 
+11 likely to retaliate. In the U.S., it appears that interventions have been almost exclusively 
+12 on behalf of conservative publishers. 
+13 A I would be unsurprised by that. 
+14 Q Okay. But you don't --do you recall any specific influences where this was 
+15 the case? 
+16 A I know that there are certain, like, you can go through and look at --there's 
+17 certain actions, like the sparing sharing rollback, where --so the sparing sharing was this 
+18 thing that said, given that a disproportionate fraction of all the misinformation is shared 
+19 by people who are hypersharers --so they're people who go and share, you know, 
+20 hundreds of times a day --we should demote content that comes from hypersharers. 
+21 And if you go and read like the political impacts report on that one, there is a 
+22 larger impact on conservatives than --or on conservative sources than liberal sources. 
+23 And, like, there was a lot of dance around things like defensibility, where, like, the reason 
+24 why sparing sharing was rolled back officially was that it was, quote, not defensible. 
+25 Because there was nothing intrinsically wrong, like, you couldn't prove that any given  59 
+1 hypersharer was actually a bad hypersharer. 
+2 And --but, like, I think the real motivation for that policy was that conservative 
+3 outlets were hurt more by it, and therefore it was considered, quote, not defensible. 
+4 But I don't know. Like, I wasn't in those discussions, so I can't like speak broadly 
+5 across it. All I know is there's multiple documents that talk about the idea of, like, of 
+6 rollbacks of things that were accepted as like important tools for keeping people safer on 
+7 Facebook --
+8 
+9 
+10 Q 
+A 
+Q Okay. 
+--because of like --because conservatives were harmed more. 
+Okay. Further on this page, the next bullet, it says, we have made one-off 
+11 carve-outs and misinformation enforcement apparently due to political pressure. 
+12 Is this --
+13 A I would be --I would be unsurprised. I did not personally experience that, 
+14 but I would be unsurprised if that was true. 
+15 Q Yeah. I guess, just let me know if --if you have anything to add to these. 
+16 And then further on this page, after the bold in 4, it says --second full sentence --in 
+17 multiple cases, the final judgment about whether a prominent post violates a certain 
+18 written policy are made by senior executives, sometimes Mark Zuckerberg. 
+19 A I would be unsurprised by that. But I've seen that in multiple other 
+20 documents where it's alluded to, that things have gone --like, for --for --Cross-Check has 
+21 this all the time, where something would be seen as violating and it might get delayed 
+22 even longer, even after it's seen by a person because it needs to get escalated all the way 
+23 up to executives. 
+24 Q And then lastly, further up, it says, public policy usually reviewed algorithm 
+25 changes and that they, quote, typically are interested in the impact on politicians and  1 political media, and they commonly veto launches which have significant negative 
+2 impacts on politically sensitive actors. 
+3 
+4 
+5 A 
+Q 
+A 
+6 you guys? Yeah. Not surprised. 
+All right. Let's go to page 10, where --
+Do you want to --do you want to know who wrote this? Is that useful to 
+Yes. 60 
+7 
+8 Q 
+A Because I'm happy to unblind this one. So Tom Cunningham is a very, very 
+9 good data scientist, and I believe he worked at Facebook for at least --at least like maybe 
+10 4 years, maybe longer. Yeah. So Tom Cunningham, last name, C-u-n-n-i-n-g-h-a-m. 
+11 And he's excellent. He wrote lots and lots of wonderful documents. 
+12 Q Okay. So let's turn to page 10. It says Trump Hate Speech. There have 
+13 been a number of cases where senior executives made the final call about whether a post 
+14 by the U.S. President violated certain rules. Whether or not the post violated the rules 
+15 is unclear to me why executives should be making this decision, rather than content 
+16 policy experts, unless it's due to political considerations. 
+17 So was this widely understood in Facebook that Mark Zuckerberg or other senior 
+18 executives were making the final call? 
+19 A I wouldn't say it was widely known, because I think most people who don't 
+20 work on integrity don't ever think about any of these things. Right? So I think among 
+21 people who were actively working in these problem spaces, it was probably known, but I 
+22 would not say it was widely known across the company. 
+23 Q Okay. So on page 12, it talks about repeat offenders and specifically how 
+24 they were overturned after escalation --the designation was overturned after escalation 
+25 by public policy, including Breitbart, Charlie Kirk, Diamond and Silk and PragerU. Do you  1 remember any of that occurring? 
+2 
+3 A 
+Q I did not work on that, so I'm not aware. 
+Okay. And then up to page 9. Let me find the text. Hold on. 
+4 So it sounds like you would not be surprised to learn that as of November and 61 
+5 December, because, again, this post from Tom Cunningham was on December 11th, you 
+6 would not be surprised to learn that in these ways and maybe others Facebook was 
+7 systematically declining to enforce its content policies against --
+8 
+9 
+10 A 
+Q 
+A Yeah, yeah. I would not be surprised. 
+--against whom? Okay. Against whom? 
+Against people who had political power and particularly, like, because the 
+11 right complains so much more loudly about Facebook than the left, there is substantially 
+12 more sensitivity towards keeping them happy regardless of what the actual, like, factual 
+13 reality is. Like, there's a perception on the right that Conservatives are being singled 
+14 out, and because they have made that so --so visibly known, I think the company is afraid 
+15 of angering them. 
+16 Okay. It's now after 4, so I'm going to read the concluding 
+17 text. 
+18 It's been a long day. I appreciate you being with us and taking the time to 
+19 answer our questions. Some last minute business. If something occurs to you later, 
+20 please reach out to the select committee to correct the record. 
+21 If your counsel has any questions they want to --or statements they want to make 
+22 to clarify anything on the record, we have time for that now. We can speak off the 
+23 record afterwards. 
+24 Counsel? 
+25 Mr. Bakaj. Nothing to add at this time. Thank you, sir.  62 
+1 Okay. You will have an opportunity to review the transcript. 
+2 And if no one else has anything for the record, before we recess this deposition, I 
+3 will say, we are now recessed, subject to the call of the chair, and we will go off the 
+4 record. 
+5 [Whereupon, at 4:03 p.m., the interview was recessed, subject to the call of the 
+6 chair.]  1 
+2 
+3 Certificate of Deponent/Interviewee 
+4 I have read the foregoing __ pages, which contain the correct transcript of the 
+5 answers made by me to the questions therein recorded. 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 Witness Name 
+Date 63 

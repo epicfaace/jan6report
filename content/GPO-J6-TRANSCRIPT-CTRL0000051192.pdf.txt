@@ -1,0 +1,3122 @@
+1 
+2 
+3 
+4 SELECT COMMITTEE TO INVESTIGATE THE 
+5 JANUARY 6TH ATTACK ON THE U.S. CAPITOL, 
+6 U.S. HOUSE OF REPRESENTATIVES, 
+7 WASHINGTON, D.C. 
+8 
+9 
+10 
+11 DEPOSITION OF: MATTHEW THOMAS WALTER 
+12 
+13 
+14 
+15 Wednesday, March 9, 2022 
+Washington, D.C. 1 
+16 
+17 
+18 
+19 
+20 
+21 The deposition in the above matter was held via Webex, commencing at 2:00 p.m. 
+Present: Representative Murphy.  2 
+1 
+2 Appearances: 
+3 
+4 
+5 For the SELECT COMMITTEE TO INVESTIGATE 
+6 THE JANUARY 6TH ATTACK ON THE U.S. CAPITOL: 
+7 
+8 , INVESTIGATIVE COUNSEL 
+9 , STAFF ASSOCIATE 
+10 , PROFESSIONAL STAFF MEMBER 
+11 , INVESTIGATIVE COUNSEL 
+12 CHIEF CLERK 
+13 PROFESSIONAL STAFF MEMBER 
+14 INVESTIGATIVE COUNSEL 
+15 INVESTIGATIVE COUNSEL 
+16 INVESTIGATIVE COUNSEL 
+17 SENIOR INVESTIGATIVE COUNSEL  3 
+1 
+2 Mr.- Then we can go on the record at --go on the record at 2 p.m. 
+3 Good afternoon. This is the deposition of Matthew Walter, conducted by the 
+4 House Select Committee to Investigate the January 6th Attack on the United States 
+5 Capitol pursuant to House Resolution 503. 
+6 This is a staff-led deposition, though members may choose to ask questions. 
+7 At this time, I'd ask the witness to please state your full name and spell your last 
+8 name for the record. 
+9 The Witness. Matthew Thomas Walter, W-a-1-t-e-r. 
+10 Mr.- Great. My name' I'm an investigative counsel with 
+11 the select committee. With me from the select committee staff ar~senior 
+12 investigative counsel; , investigative counsel; and then also 
+13 investigative counsel. 
+14 There are no members present in the room right now, but if anybody else joins, 
+15 including members, I'll make sure to announce them so that you know they're in the 
+16 room. Okay? 
+17 The Witness. Yes, sir. 
+18 Mr. - Under House deposition rules, neither the committee members nor 
+19 staff may discuss the substance of the testimony today, unless the committee approves 
+20 release. And then I'll note that the House rules for this deposition --or under the House 
+21 rules for this deposition, you may have an attorney present, but counsel for other 
+22 individuals or attorneys from government agencies may not be and are, therefore, not 
+23 present. And then I'll just note for the record that you're not represented by counsel 
+24 today. 
+25 I'll also note for the record what has been previously marked as exhibit 1, is the  4 
+1 select committee's February 10th, 2022, subpoena for Mr. Matthew Walter, and then the 
+2 House deposition rules are included in that exhibit. 
+3 As I mentioned earlier, there's an official reporter transcribing what we're saying 
+4 for the record, so please wait until I finish my question before you start your answer. 
+5 It's obviously just hard for the court reporters to transcribe two people at one time, so 
+6 we'll try to make their lives a little bit easier today. Does that make sense? 
+7 
+8 The Witness. Yes, sir. 
+Mr.. Okay. And then kind of along the same lines, they're only able to 
+9 transcribe verbal responses, so a yes or a no. So just avoid head shakes. And I might 
+10 remind you throughout, if I see a head shake, just to use a yes or a no or a verbal 
+11 response. Do you got that? 
+12 
+13 The Witness. Yes, sir. 
+Mr- Okay. And then today, we just ask that you provide complete 
+14 answers based on your best recollection. If a question's not clear, feel free to ask me for 
+15 clarification. And if you just don't know the answer, feel free to say so. 
+16 You may refuse to answer a question to preserve a privilege recognized by the 
+17 select committee. Such privileges include the Fifth Amendment privilege against 
+18 compulsory self-incrimination. If you refuse to answer a question based on a privilege, 
+19 staff may either proceed with the deposition or seek a ruling from the chairman on the 
+20 objection. If the chairman overrules an objection, you're required to answer the 
+21 question. Does that all make sense? 
+22 
+23 The Witness. Yes. 
+M- Okay. I also want to remind you that it's unlawful to deliberately 
+24 provide false information to Congress. This is just a standard warning that we give 
+25 everybody, but, today, providing false information could result in criminal penalties for  1 perjury and/or false statements under 18 U.S.C. 1001. And that law just generally 
+2 makes it illegal to make a false statement to a congressional investigator like myself or 
+3 the other folks that I introduced earlier. 
+4 That being said, I want to make it clear that this is a congressional investigation 
+5 and not a criminal investigation. This proceeding is separate and distinct from any 
+6 criminal proceeding by the Department of Justice. We are not part of the Department 
+7 of Justice. We're not a partner in their activities. We're two separate entities. Does 
+8 that make sense? 
+9 
+10 The Witness. Yes. 
+Mr- And then also, just logistically throughout our conversation, if you 5 
+11 need any breaks, for water or for the bathroom, just let me know. Always happy to take 
+12 a break. I'll attempt to remember to take a break about every hour, but just let me 
+13 know if you need one. 
+14 And then finally, as I said before, other staffers might jump in to ask some 
+15 questions, or members, but for the most part, it'll be me asking a question. Other 
+16 individuals might turn their camera on if they've got a question for you. 
+17 And then lastly, because this is a deposition, you're under oath today --or you will 
+18 be under oath. So could you please raise your right hand to be sworn? 
+The Reporter19 Do you solemnly swear and affirm under the penalty of perjury that the testimony you are 
+20 about to give will be the truth, the whole truth, and nothing but the truth? 
+21 
+22 
+23 
+24 The Witness. Yes. 
+EXAMINATION 
+Q Great. So now that we've got kind of those ground rules set, I just want to 
+25 start with a little bit of information about you. Can you just tell me where you grew up?  1 
+2 A Two places, Salem, Ohio, and Sterling Heights, Michigan. 
+Q Okay. And when did you move to Tennessee? 
+3 A November of 2004. 6 
+4 Q So from Ohio and Michigan, can you --I understand you served some time in 
+5 the military. Is that right? 
+6 A That's correct. 
+7 Q Okay. And then did you go, just explain to me, Ohio, Michigan, to the 
+8 military? What was your path? 
+9 A It was Ohio, Michigan, Ft. Benning, Georgia, Fayetteville, North Carolina, 
+10 back to Ft. Benning, Georgia, intermittently for training and such, then to Tennessee, and 
+11 you've got Afghanistan and Iraq sprinkled in there as well. 
+12 Q Okay. We'll get to that in one second. How about your educational 
+13 background, can you tell me the highest level of education that you've achieved? 
+14 A I think I'm two credits away from a bachelor's degree in hotel management 
+15 and hospitality. It may be a couple more than that, but it's --I'm real close to a 
+16 bachelor's. 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 you in? Q 
+A 
+Q 
+A 
+Q 
+A 
+Q 
+A Okay. Great. Did you enter the military right after high school? 
+Can you say that again, please? You broke up. 
+Did you --did you join the military right after high school? 
+Yes. 
+Okay. Great. And then when you were in the military, which branch were 
+United States Army. 
+Okay. And then within the Army, what was your job or your MOS? 
+I was an entry rifle platoon sergeant and a mortar platoon sergeant, so 11  1 series. Primary MOS 11 Charlie, secondary MOS 11 Bravo. 
+2 Q Okay. And then you mentioned a couple deployments during your time. 
+3 Actually, first, can you tell me just how many years were you in the military? 
+4 
+5 A I'm going to mess this up, but I think it's 13 years, 8 months. I think. 
+Q Okay. And when did you --when did you join the military and when did 
+6 you leave? 
+7 A I joined the military June 22nd, 2001. I got out of the military March 17th, 
+8 2014. 
+9 Q Okay. 
+10 A And then there's --I had like 90 days leave, so my actual out date was about 
+11 90 days after that, but that's the day I signed out. 
+12 Q Okay. Understood. So you mentioned deployments. Can you just 
+13 quickly run me through those, the deployments that you had? 
+14 A I went to Kandahar, Afghanistan, and like that area. Like, we were in the 
+15 Hindu Kush a lot, and that was in --I think it was in 2002, but it might've been early 2003. 
+16 I'm not a hundred --I've got my ERB I could pull up here. 
+17 Q That's okay. Just --just approximate dates is fine. 
+18 A [Inaudible] you know, I know the dates generally are correct. Then later in 
+19 2003, we went to Iraq, we went to Fallujah. Then my next deployment was to the 
+20 Triangle of Death, a little placed called Mahmoudiyah, Vusufiyah, Latifiyah, and that was 
+21 southwest Baghdad. That was in, I think, 2007. 
+22 Then I went to Afghanistan again --no, I went to Iraq again. I went to Taji, Iraq, 
+23 again in 2011-ish, maybe 2009. I don't know. Like, I'm not good with the dates. But 
+24 then finally I end --my last deployment was to Kandahar, Afghanistan, again before 
+25 I --before I got out. 7  1 Q For throughout today, if I ask you a question and you're just kind of 
+2 ballparking a year, that's fine. Just let me know that you're ballparking. And I totally 
+3 understand that some of these dates are hard to recall on the spot. 
+4 And then also, sounds like you had a pretty storied career in the military, so 
+5 thanks very much for your service. 
+6 
+7 A 
+Q Thank you. Wish I could get back in. Can you get me back in? 
+Unfortunately, I can't do that for you. 8 
+8 I wanted to ask just about, when you left the service in 2014, can you tell me what 
+9 your --I understand when people leave, generally you're assessed for disabilities or you're 
+10 given a disability status. Do you have any disabilities from your time in the military? 
+11 A I do, but I don't understand why we need to talk about that. I don't like to 
+12 talk about it, so --like, I will if we need to, but --
+13 
+14 
+15 
+16 Q 
+A No, that's fine. That's fine. Do you --I'll just ask -­
+I'm medically retired from the --oh. 
+I'm actually medically retired from the United States Army. 
+Q Okay. I'll just generally ask if any of your disabilities from your time in the 
+17 military kind of would affect your ability to testify today, either truthfulness or accuracy 
+18 of what you're testifying to? 
+19 
+20 
+21 
+22 
+23 
+24 A I think the only problem we're going to run into is memory. 
+Q Okay. 
+A I think that's the only problem we may run into. 
+Q Understood. 
+A But I'm competent --I'm competent and I'm mentally fit to talk to you. 
+Q Understood. Glad to hear that. Just let me know if you need --you know, 
+25 if you encounter that difficulty and you need a moment just to think about the answer to  1 a question. 
+2 And then how about --so, currently, I take it you reside in Tennessee? 
+3 
+4 
+5 A Yes, sir. 
+Q Okay. And where in Tennessee do you live? 
+A Clarksville, Tennessee, as of right now. I'm kind of mobile right now. 
+6 just sold my home and I bought an RV, and I just been kind of moving around, traveling a 
+7 little bit. 
+8 
+9 
+10 
+11 
+12 
+13 
+14 Q Okay. And how old are you? 
+A 39. No. Yeah, 39. I'll be 40 in September. 
+Q I have a hard time remembering my age at this point as well too. 
+How about, are you --are you currently employed? 
+A No. 
+Q Okay. What did you do after you got out of the military? 
+A Nothing. I did a little bit of utility construction. I mean, I did field lines, 9 
+15 flooders, septic tanks, water, sewer, electric, stuff like that. But then the corona hit, and 
+16 it was more expensive for me to go to work than it was to work, so I just kind of stopped 
+17 doing that. 
+18 Q Okay. Other than that work, have you had any other kind of careers or any 
+19 job since your time in the military? 
+20 A When I was in --when I was in college, I did a little bit of catering, A, for the 
+21 university and, B, on a side gig, but I wouldn't call it a career. It was just kind of a side 
+22 hustle. 
+23 Q How about, what --can you just describe to me what your --what your 
+24 source of income is? 
+25 A I get paid my retirement and my VA disability and Social Security and  10 
+1 combat-related special compensation pay. 
+2 Q And we'll talk about this, obviously, more today, but do you receive any 
+3 income or money from your involvement with the Proud Boys? 
+A No. 4 
+5 Q Okay. So let's talk about --a little bit about when you first joined the Proud 
+6 Boys, what caused you to join. When was it that you joined the Proud Boys? 
+7 A I want to say March 2017 is the first meeting I went to. I think I'd been 
+8 talking to a guy for about a month prior to that and, oddly enough, I was just sitting there 
+9 bored on Facebook one day and this guy said --like, he had a message, he's, like, anybody 
+10 in the area want to join the Proud Boys? And I was like what the Fis that, that sounds 
+11 pretty silly. 
+12 But then I talked to the guy, just to see what it was, and the way it was explained 
+13 to me, it was what I was looking for. Because after I'd left the military, you know, it'd 
+14 been about 3 years, and my friends had either died or left. So I was kind of, I don't 
+15 know, a 32 --33-year-old dude that didn't have any friends. 
+16 So I joined the Proud Boys for the thought that there would be brotherhood and 
+17 camaraderie, kind of like in an infantry unit. And it was my case that that was true. 
+18 Q Was --other than that brotherhood and camaraderie, was there anything 
+19 else going on at the time that kind of spurred your interest in the Proud Boys, like 
+20 politically or just in the world? 
+21 A No. I joined --I joined before the punch heard round the world. So there 
+22 wasn't --there wasn't anything, not that I'm aware of, that they were doing at the time 
+23 that would've sparked my interest into --into the group themselves. 
+24 Q So around March of 2017, when you joined, what were your activities with 
+25 the Proud Boys like?  11 
+1 A We went to this bar one Saturday a month, played beach volleyball, played 
+2 shuffleboard. And that was --that was about it for --my first year, that's about what we 
+3 did. 
+4 Q Did --at that time, did you think that the Proud Boys, the organization and 
+5 most of the members, had any particular ideology? 
+6 A At that time, I will tell you 100 percent honestly, that was the best time for 
+7 the Proud Boys, because there wasn't an ideology. We --I know guys that are my 
+8 friends that have Bernie Sanders tattoos. And I'm sure we've already pulled my voting 
+9 record, so we know what side of the aisle I tend to be on. 
+10 So it was --it was just nice. But also, honestly, we didn't talk about politics at our 
+11 meet-ups. We talked about --we told shitty dad jokes --pardon my language --and, 
+12 like, bad jokes that just were not funny. And then made fun of each other. Like, that 
+13 was it. 
+14 Q You mentioned that some of that changed or the tone of the organization 
+15 changed after the punch heard round the world. Could you just explain for the record 
+16 what that event was and how it changed the organization? 
+17 A It was something up there in the Pacific Northwest, they were just going out 
+18 in the street and fighting people. And then my friend Ethan fortunately, or 
+19 unfortunately, hit somebody and knocked them clean out, and that was the punch heard 
+20 round the world. That was --that's my description of it anyway. 
+21 
+22 
+23 
+24 
+25 Q And Ethan, is that Ethan Nordean? 
+A That would be. 
+Q Okay. And he goes by Rufio also? 
+A 
+Q Yeah. That --I call him Rufio, so, yeah. I think most do. I don't know. 
+Do most --do most Proud Boys have a nickname or an alternative name that  1 they go by? 
+2 A I would say I don't know most guys' real names. So yes. 
+3 
+4 Q 
+A Do you have a nickname that you go by with the Proud Boys? 
+Well, mine kind of fluctuates. Right now --right now, I'm Matthew The 
+5 American Nightmare Walter. Before I was Matthew The People's Chairman Walter. 
+6 And there was something else in between there that I was. But it always involved my 
+7 actual name. 12 
+8 Q Where did the name Matthew The People's Chairman, where did that come 
+9 from? 
+10 A That came --a long time ago, me and my buddy Hank, Enrique Tarrio for the 
+11 record, we decided that we'd get in an on line internet fight and pretend like we hated 
+12 each other so the guys wouldn't fight each other, they'd fight for us, kind of deal. And 
+13 it --it worked --it worked all the way up until today. Oh, actually, it worked --I'm sorry. 
+14 I'm sorry. I'm lying. It worked all the way up until Hank went to jail. And out of 
+15 everybody in the organization, it was me that was there with him, and they were like, 
+16 wait, what? They didn't --a lot of guys are still mad about that, that me and Hank are 
+17 friends. 
+18 Q What is --can you describe just a little more your relationship with --we can 
+19 call him Hank, but Mr. Tarrio? When did you first meet him? 
+20 A There was --sometime in, I think, 2018 in Washington, D.C., is when I met 
+21 him, when the Proud Boys formally said they were going to sue the Southern Poverty Law 
+22 Center for defamation. I was up there with him. That's when I first met him, and 
+23 that's where we kind of connected because both of us were sober. And it's real easy for 
+24 two sober-type guys to gravitate to each other when there's a room full of drunks. You 
+25 know what I'm saying? And you have, like, coherent conversations and stuff.  13 
+1 And then we just kind of --we ran into each other from time to time. We 
+2 sporadically talk on the phone. But that's about the extent of it. Like, I wouldn't say 
+3 we're best friends or anything. We just talk on the phone or, you know, get in the chats 
+4 and BS or whatever. 
+5 
+6 Q 
+A Is --at that time, was he chairman of the Proud Boys, in 2018? 
+I believe that answer is yes. I'm pretty sure the answer is yes. You just 
+7 have to look when Gavin Mcinnes publicly quit, whenever that day was, was the day that 
+8 Enrique Tarrio was kind of sworn in. It was that West Fest. It was that September. It 
+9 would've been that September that he was officially sworn in. So he may not have 
+10 officially been the chairman at that stage in --in life, but that's where --that's where it 
+11 was going to go. 
+12 Q And what's Mr. Tarrio's status as leader or not of the Proud Boys now? Is 
+13 he still the chairman? 
+14 A The chairman was never the leader. That's what --that's the one thing 
+15 that's been gotten so wrong about us, the whole time. The chairman was never, ever 
+16 the leader. He doesn't even have a vote in anything that involves the club, except if 
+17 there's a tiebreaker. He's the person that breaks the tie if there's a tie. That's his only 
+18 vote he ever gets to have. 
+19 Like, Enrique was just very good --he's a --he's got the gift of gab. He 
+20 understands politics, he understands how to talk to people, whereas a lot of other guys 
+21 don't. And he also really didn't have anything to lose, so he could be in --he could be 
+22 the face of the organization and it wasn't going to hurt him. 
+23 Q So understanding sort of that distinction between leader and chairman, is he 
+24 still chairman? 
+25 A I doubt it. Like, I haven't been at anything recently, but I know he's been  14 
+1 removed from everything. I do know that, which that's just --I think that's just standard 
+2 rules for everybody. If your buddies get arrested, get them --you know, get --get as far 
+3 away from him as you can. 
+4 
+5 mean? 
+6 
+7 
+8 Q When you say "removed from everything," what do you --what do you 
+A Like, every --like all the chats, that I'm aware of. 
+Q Okay. 
+A Like, when a guy gets arrested, the standard protocol is bounce him from 
+9 everything until he gets back out, and then he gets to explain what happened. 
+10 Q Understood. That's what I was asking. I was clarifying if you meant 
+11 removed from specific chats. 
+12 And then I'll also note that who's also investigative counsel, has 
+13 joined the Webex meeting. 
+14 Are you still --are you still in touch with Mr. Tarrio? 
+15 
+16 A 
+Q No. He's --isn't he incarcerated? 
+He was recently released, but then also recent, just now, as of yesterday, 
+17 arrested again. 
+18 Were you --
+19 A That he was indicted, yeah. He was indicted or --and picked up yesterday. 
+20 Oddly enough, the night before he got arrested, I --I called him to talk to him about 
+21 something that was in his personal life, something that was going on, that I just wanted to 
+22 discuss with him. And he didn't --he didn't answer, but I know he was --they had a little 
+23 gathering that night down there in Miami. So I think --I think he was just occupied. 
+24 Q Okay. And then I'll also note that Mrs. Murphy has also joined the call and 
+25 is in the Webex.  15 
+1 Do you --do you know, is there --is there somebody else that is acting as 
+2 chairman instead of Enrique? 
+3 A No, there's not. You're going to hear about this person that is the 
+4 chairman, but the guy doesn't exist. Like, it's a --it's a fake name. I'm not going to spill 
+5 the beans on it right now, but it's to throw the media into a frenzy again, that --like, there 
+6 really hasn't been a true leader or anything. Like, you guys think we're so much more 
+7 organized than we actually are. Like, we are not that organized. 
+8 Q Let's talk about that a little bit actually. I just want to understand the 
+9 structure of the Proud Boys. Am I right that there are local chapters, and then, is there 
+10 also a national chapter? 
+11 
+12 
+13 A 
+Q 
+A Not --not that I'm aware of. 
+Okay. 
+It's --it's --every chapter is its own entity, and it was always intended to be 
+14 that way, so that there was --so nobody could ever say there was a national structure. 
+15 
+16 Q 
+A What is the --what is the elders chapter then, can you describe that? 
+I can describe that. It used to be --that used to be the governing body of 
+17 the club, like, and they were --what they were really responsible for was chapter creation 
+18 and that was it. They --and to plan our yearly gathering of everybody. That was all 
+19 the elders existed for, was, if you wanted to be a new chapter, they would vote on it. 
+20 And there were eight of them. That's where Tarrio's one vote, if they ever were split, 
+21 see what I'm saying, that's where the tiebreaker came. 
+22 Q Okay. So there were eight elders plus the chairman, and the chairman is 
+23 the tiebreaking vote. What else --
+24 A But the elders --inside baseball, they don't exist anymore. A lot of them 
+25 left. There haven't been new elections, so to speak. So the club's just kind of running  16 
+1 on cruise control right now, because it's --everybody's terrified, everybody's a Fed, 
+2 everybody's telling. So it's just --it's a strange times. 
+3 Q Is that sort of breakdown of the elder chapter and the current status of the 
+4 Proud Boys because of the events of January 6th, or when did that kind of breakdown 
+5 start to happen? 
+6 A The club has been fighting itself behind closed doors for 3 or 4 years. 
+7 There's been a rift on what we would call the rally guys and the party guys --the guys that 
+8 want to go out and fight for Western civilization, and then the guys that just want to hang 
+9 out, drink beers, and "If you need help building a deck, I'll come over" guys, if that makes 
+10 sense. 
+Q That does make sense. 11 
+12 
+13 
+14 
+15 What is --what is the chapter that you're a member of? 
+A 
+Q 
+A Music City Proud Boys. 
+And is that a specific --cover a specific geographic region or how --
+All of --all of middle Tennessee. So pretty much from Clarksville to about 
+16 Mount Juliet, all the way down to Alabama. 
+17 
+18 Q 
+A And what's your role in that chapter? 
+You could --on paper, they call me the president, but we don't really 
+19 have --my chapter is designed just like Enrique's chapter, where we don't really have a 
+20 leadership structure. The guys that have more time to F around on the internet, they 
+21 tend to --you know, obviously they take a little more responsibility, but there's not a 
+22 pecking order. Like, I can't make you do push-ups at one of my meetings. We just 
+23 hang out. 
+24 
+25 Q 
+A How large is your chapter? 
+Right now, I think we have 25 members, maybe 28. Because I know there's  17 
+1 some guys that are in that aren't in the chats. But we used to be about 70 strong before 
+2 the --we split. 
+3 
+4 Q 
+A Okay. And compared to other chapters, is that big or small? 
+Well, when we were in that 50 range, I'd say 50, I think, is about normal. 
+5 Now, there are some smaller chapters, but --like, typically, in the South, it's hard to get 
+6 Proud Boys because everybody's a Proud Boy. You know, like --so it's just --it's hard to 
+7 recruit in the South. So I think you see the coastal areas with much larger chapter or 
+8 presence or membership numbers just because there's fewer --there's fewer than them 
+9 than there are of others. 
+10 Q Okay. Do you cap out at some point, like if you got much more than you 
+11 said currently 70? 
+12 A No. I don't --I don't --we wouldn't cap out. Like, we just keep getting 
+13 bigger or keep --but it's --I think, for my area, I think it would be very hard to have like a 
+14 hundred dudes. It just --
+15 Q Are there any --oh, sorry. You were breaking up there a little bit. Can 
+16 you just repeat that last part that you said? 
+17 A I just --1 just said that it would be hard for me to get over a hundred just 
+18 because, like, dudes would just hang out with their friends here. And, you know, it's 
+19 hard to recruit people when you have, like, strong --strong ties. Like, the Army base is 
+20 like right beside me right now. Like, A, we can't even talk to those guys because we'll 
+21 end their careers, but, B, they get big groups of 25 hanging out, just as easy as we do, just 
+22 because they have those ties and the camaraderie and stuff. 
+23 Q Understood. Are there any particular chapters that are prominent chapters 
+24 or large chapters or well-known chapters? 
+25 A I think there are many of those.  1 
+2 18 
+Q Okay. 
+A I think each State, I would venture to say, has like their number one chapter, 
+3 you know, what I'm saying, like the one that everybody knows or --or something along 
+4 those lines. 
+5 
+6 
+7 
+8 
+9 
+10 
+11 Q Can I --can I give you a few States and you give me the major chapter? 
+A I probably could. 
+Q Okay. How about Florida? 
+A Right now, Villain City. 
+Q And was that the same for the postelection period 2020 and January 2021? 
+A It would've --I would've called that Vice City. 
+Q Okay. And why --why is Vice City, why was it the prominent organization 
+12 in Florida? 
+13 
+14 
+15 A Because the chairman was in it. 
+Q Okay. And then how about --how about Pennsylvania? 
+A I'd say Philly. I would say Philly. That's the one --those guys went to my 
+16 little brother's wedding in Philadelphia, so I have --I have special ties with those guys. 
+17 
+18 Q And is that the name of the chapter, the Philly chapter? 
+A I think. I don't --it might be Philadelphia, you know, I don't know. But it's 
+19 not something weird. 
+20 Q And let's --let's talk about the postelection period, so November, December 
+21 2020 and January 2021. Who was leading the Philly chapter at that time? Or who was 
+22 the president? 
+23 A I think --that's a good question, but I think --I think for the majority of the 
+24 period it was Zach. 
+25 Q And that's Zach Rehl?  1 A Yes, Zach Rehl. But there was another guy slightly before him, but I can't 
+2 remember his name. And I don't think I ever knew his real name, I just knew his 
+3 internet handle, and it's --it's escaping me right now. 
+4 
+5 
+6 
+7 
+8 Q Okay. It's not Aaron, is it? 
+A No. 
+Q Okay. 
+A I know who that is, but it was not him. 
+Q Okay. And why do you know who Aaron is? Do you know his last name, 
+9 just to make sure we're talking about the same person? 19 
+10 A We are talk --we're talking about the little bald kind that's kind of buff, he's 
+11 Jewish. That's the guy we're talking about, Aaron. But I don't know his last name. 
+12 
+13 
+14 
+15 Q Well, is it a hyphenated Wolman --or Wolkind Whallon? 
+A Yes. Yes. 
+Q Okay. And why do you know Aaron? 
+A Again, Aaron, Zach, and like five other guys came to my little brother's 
+16 wedding. That's where I met them. My brother was having some booking issues and 
+17 needed --needed to fill some seats up so his wedding didn't look empty, so there was 
+18 about 15 of the Philadelphia guys or the North Jersey guys that came in and kind of saved 
+19 the day, and paid like 25 bucks a person to get in and have all they could eat and drink. 
+20 
+21 
+22 
+23 Q Okay. How about North Carolina, is there a particular prominent chapter? 
+A Charlotte. That's what I would say. And --
+Q And who --
+A --it's not --it's not the guy you think it is. It's --1 know his internet 
+24 handle --Bill --he's the --he's the man there. 
+25 Q Bill?  20 
+1 A You're thinking of --yeah. And then there's a [inaudible] chapter. That's 
+2 the one you want me to say, but that's not the prominent one in North Carolina. 
+3 Q I lost the connection there a little bit. Which group or which chapter did 
+4 you say is the other --
+5 
+6 A 
+Q Say that again. 
+I lost the connection there for a little bit. You skipped. And you said 
+7 there's another chapter that we might be thinking of. 
+8 A Yeah. I think --I think you guys, you want me to say Jeremy Bertina's 
+9 chapter, but it's not --that wouldn't --I wouldn't call that the prominent chapter in 
+10 North Carolina. 
+11 
+12 Q Okay. Which chapter is Jeremy Bertina's? 
+A I don't even know. It's somewhere on the coast. He's closer to the water, 
+13 I know that, but I don't know the name of the chapter. 
+14 
+15 
+16 Q Okay. 
+A And he's not the president or anything; he's just in it. 
+Q And then I'll ask you about New York also. How about the prominent 
+17 chapter in New York? 
+18 A I don't know. I like the guys from upstate New York, but that's just because 
+19 they're my friends. But I don't know if there --I don't know if there is a prominent one. 
+20 It used to be the one Gavin was a part of, but I don't even know if those guys still hang 
+21 out. 
+22 Q Is the upstate chapter that you're talking about the Hudson Valley Proud 
+23 Boys? 
+24 A No. No. I know --I know who you're --I know that chapter, now that 
+25 you've said it. It's not those guys. They're --and maybe, like, I'm geographically dumb,  21 
+1 but I think the guys I'm talking about are closer to like Watertown, New York, like up in 
+2 the top. 
+3 Q Okay. Let's take those two groups then. Maybe could you --can you tell 
+4 me who the presidents of those two separate chapters are? Or, actually, sorry, let me 
+5 change that --during the time November, December 2020 and January 2021? 
+6 A But the guy that I know, that I'm talking about, his name is Diogenes of Troy. 
+7 I don't know what that means, and I don't know his real name. 
+8 Q Would it be Deon Seeney (ph)? Does that --or Cheeney (ph), does that ring 
+9 a bell? 
+10 A No. That --that name seems to ring a bell, but that's not --it's not that guy. 
+11 That --that name, I know that name, but I don't know why I know that name. And the 
+12 other guy, I think, is it that Randy guy? Is he the Hudson guy? I don't --like the guy 
+13 that was on Newsmax? 
+14 Q Randy? 
+15 A I don't know --I don't know any --I don't really know any of the presidents 
+16 up there. I've chatted with a couple of them, like, on the internet, like --because 
+17 they --one of them, a guy just moved down here from up there, and we helped him move 
+18 into his house and stuff. So that was the only interaction I ever had with --with New 
+19 York really. Because I'm sure you'd know this, but I don't get along with Gavin Mcinnes, 
+20 so I --I stay out of New York. 
+21 Q Okay. And then how about Utah? I think that's the last State I'm going to 
+22 ask you about. Do you know any of the Utah Proud Boys? 
+23 A Do I? I think I do, but I --I would know them if I saw them, but I don't know 
+24 their names. Like, I would know them by --by their face, and I know that a lot of their 
+25 handles have --have UT in it, so I'm assuming that's Utah, because it's not University of  1 Tennessee. 
+2 
+3 Q 
+A Do you know the name Thad Cisneros? 
+No. No, I don't know that name. 22 
+4 Q And then I'll ask, so for your chapter, are you organized in any way, like, as a 
+5 legal entity? Is it a nonprofit or anything like that? 
+6 A No. We're trying to go that way, but we haven't --we haven't made the 
+7 step, because we wanted to do the nonprofit so we could preserve our logo, we could 
+8 preserve --we could --being a business, you have a lot more power when somebody 
+9 slanders you than --than a normal person. 
+10 Q And then I'll note for the record, that investigative 
+11 counsel with the select committee, has also joined the Webex. 
+12 Do you know --do you know how many Proud Boys there are, or is there any way 
+13 to tell? 
+14 A There's not. I could --like, my ballpark, if I tell you, I'm going to say 
+15 probably 15,000 worldwide. I think if Enrique Tarrio tells you, he's going to WWE you 
+16 and tell you a hundred thousand. But who really knows, you know, because at the end 
+17 of the day, it's guys want to --guys want to fluff their numbers as much as possible. 
+18 There used to be like a census that was done, but when the --when the whole 
+19 everybody's telling and everybody's a cop narrative started to play, the census stopped, 
+20 because guys were less --less likely to give information. 
+21 
+22 
+23 
+24 Q 
+A 
+Q 
+A Do you know when --do you know when the last census was done? 
+I want to say 2018. Not --not --I'm not sure, but I think '18, maybe '19. 
+Okay. And what did --what did the census involve? 
+They just wanted to know how many members you had, of what degree. 
+25 Like, every president had to fire in how many firsts, seconds, thirds. And Tennessee  23 
+1 doesn't recognize a fourth degree. Well, let me rephrase that. Music City doesn't 
+2 recognize a fourth degree Proud Boys so guys don't go looking to get them. 
+3 Q Okay. That's sort of a good transition. Can you describe the four 
+4 levels --or three levels of Proud Boys membership? 
+5 A Yeah. One is --I guess you could call the first degree is an initiate, like he's 
+6 brandnew, and all he had to do is say, I'm a Western chauvinist who refuses to apologize 
+7 for creating the modern world. 
+8 Second degree is now we decided we want you to be part of the club, so we're 
+9 asking you to be a member now. So it's just kind of, I guess, like redoing your marriage 
+10 vows. You're like, hey, you made the cut, dude, like, you passed, you're a standup guy, 
+11 you've showed you'll come to --you'll come to things. 
+12 Then the third degree is, all you got to do is --I can't --I got a suit on --all you got 
+13 to do is get a tattoo. 
+14 And then the fourth degree is, what it was involved --what its origins were, you 
+15 had to suffer through a hardship with the club or help through a hardship. Like disaster 
+16 relief, for example, is how Enrique Tarrio got his fourth degree, helping out in that real 
+17 bad hurricane in Texas. 
+18 But then guys started giving them for getting in fights and stuff, and in my 
+19 opinion --and guys will hate me if they ever hear me say this --I think that's stupid, going 
+20 out and getting into fights. 
+21 
+22 Q 
+A And what --what degree are you? 
+I guess I'm a fourth degree. I've never gotten in a fight, though. I did 
+23 some disaster relief as well. But we don't --like I said, in Music City, we don't recognize 
+24 a fourth degree. So I would tell people that I'm a third-degree Proud Boy. 
+25 Q Okay. When --you know, obviously if you do kind of research on the  24 
+1 internet about the fourth degree, most people say that it's getting into a fight or engaging 
+2 in some sort of violent act. Can you just explain how that --how that came to be or why 
+3 that's the impression? 
+4 A Because of our shock jock mouthpiece, Gavin Mcinnes, went a little rogue 
+5 and said, fight people, that's why, to be a hundred percent honest. I mean, I don't think 
+6 he --I don't think he ever thought --and sure that this is hypothetical --I don't think he 
+7 ever thought it was going to --like, people were going to do it. Like, I don't think he 
+8 thought people were going to get Proud Boy --I think he laughs every time he sees 
+9 somebody with the word Proud Boys tat. He's like, I made you get Proud Boys tattooed 
+10 on you. And in his mind, I think he thinks it's probably funny. 
+11 Q What --you said you got your fourth degree from doing disaster relief. 
+12 What was the disaster relief that you did? 
+13 A Well, I helped out in the floods long ago in Nashville, and anytime --there's 
+14 tornadoes here all the time, and we just go help pick up. 
+15 And then this year, when Waverly flooded, we went and helped --we went and 
+16 removed debris. And then I, myself, went to Kentucky also this year when the 
+17 tornadoes ran through there, because a couple of my friends, their families and stuff, 
+18 were in a bad way. 
+19 Q Okay. And then do you --how about --we can start with your chapter, but 
+20 do you know the breakdown of level ones, twos, and threes in your chapter? 
+21 A Twenty-five second degrees. All --all of them are second degrees. As of 
+22 right now, I'm the only third degree, that I'm aware of, that's still with us. Like, before 
+23 we --like, before it was about 40 second degrees and 5 third degrees, but they kind of 
+24 split because they wanted to --they wanted to fight the world and stuff and I told them 
+25 that was dumb.  25 
+1 Q So do you --is there any accounting of how many third or fourth or second 
+2 degrees there are nationally? 
+3 A I doubt it. I know --I know the guy that would know that, and I don't think 
+4 he knows it, because we --we talk from time --we have --the same questions you just 
+5 asked, like, how many members are there nationwide, I had this with one of the dudes 
+6 the other day. I was like, well, what do you think it is, man? And he was like, I don't 
+7 know, dude, nobody knows. 
+8 Q Do --sorry. Who was the person that you think would know that answer or 
+9 keep those statistics? 
+10 A Harry --I know his first name's Harry, but I don't know his other name --his 
+11 real other name. 
+12 
+13 Q 
+A Does he have a handle or a name with the Proud Boys? 
+I don't know --I'm trying to think what it is. I don't know, because I just see 
+14 him --I just see him as what I have him saved in my phone as. So I don't see his --I don't 
+15 see his handle or whatever. 
+16 Q Okay. We can come back to that. If you remember his name, just let me 
+17 know. 
+18 Do you do --as folks are thinking about joining the Proud Boys, do you do anything 
+19 to vet members? Are there any specific qualifications? 
+20 A Yeah, we --we do --like, me personally, I do a --we were doing a 
+21 TruthFinder background check, because I found it a little more reliable than lntelius. 
+22 And what I'm looking for there is, did you --did you beat the shit out of a woman, did 
+23 you --did you molest or beat a child, or do you have a --an apparent drug problem, is 
+24 what we're really looking for there, anything --a lot of the other stuff, like, if you have a 
+25 criminal record or this or that, that's okay, as long as it's removed from your life, like it's  26 
+1 not a current thing. 
+2 And with an organization about --that's making men better, it's hard to, like, say 
+3 no, like, hey, you can't --you can't join because of --you got a DUI 10 years ago, you 
+4 know. But anything that involves women, children, or narcotics, we --we --I would say 
+5 most chapters try to stay away from. 
+6 Q Okay. Understood. And then I also understand that the organization is 
+7 limited to men, right? Can you explain that? 
+8 A Yeah. It's just like the Masons, just like the Elks. And every time 
+9 we --every time that the Proud Girls or anything tries to start, it just causes problems 
+10 between us, so we just stopped trying to help them out, like, get it off the ground, 
+11 because it's making --when dudes' wives are fighting, that just cause --that causes for 
+12 awkward meetings. 
+13 Q When --when you're looking at members and sort of vetting them for 
+14 admission, do you look at whether or not they're associated with any other --or with any 
+15 groups that you don't want to be affiliated with or extremist groups? 
+16 A Yes. I'm trying to think --because I did leave that out earlier, and I'm glad 
+17 you --I'm glad you reminded me about it. There's actually a list of groups that if you are 
+18 associated with these groups, you are not allowed to be with us. And it's your --your 
+19 White supremacist, your extremist, you know. And if you gave me time, I could give you 
+20 that list, but I'd just have to --I'd just have to find it. It's on my laptop, but --and I think 
+21 it's actually public, because when our bylaws got published on the internet, that list exists 
+22 of who's not allowed to be with us. And I think as a rule --
+23 
+24 Q 
+A Okay. 
+And as a rule of thumb, just to elaborate a little more, the motorcycle clubs. 
+25 We don't like hanging out with the motorcycle clubs because it then --if this guy doesn't  27 
+1 like this guy in different States, then that causes problems too. 
+2 Q You --you mentioned the bylaws. Is it --were the ones that you're talking 
+3 about that were released 2018 bylaws? 
+4 A I think so. And there might be a 2019 update to that. So if that list isn't in 
+5 the 2018, it would be in the 2019. And I thought those were on --on the internet as 
+6 well. 
+7 Q Okay. I know we have and I can pull it up if we want to, but I don't see any 
+8 need to right now. We have the 2018 bylaws that are available. Would you be willing 
+9 to produce to us updated bylaws? 
+10 A Yeah. Whatever the --the most updated ones I have, because they don't 
+11 change very often. It's either --if it's not that 2018 version you have, I'll provide it. 
+12 
+13 Q Okay. Great. I'll remember to --I'll follow up with you then about that. 
+Okay. So I know you said that you're not organized as a nonprofit right now. 
+14 How do you --how do you handle finances for the group? Do you have like a bank out 
+15 for the chapter? 
+16 A We do a lot of ours in --in cash --or like a, you know, those little bank bags, 
+17 those --with the zipper that have --you know what I'm talking about? 
+18 
+19 Q 
+A Yeah. 
+It stays in there. And most of the time the only money we get is --like, we 
+20 were charging dues, and this year, we decided not to do dues, A, because we were going 
+21 to run into an IRS issue if we made too much money, and, B, well, why not just if we need 
+22 money, we'll just do a fund raiser right quick and get the money for what we need and be 
+23 good to go. Because all we were using the dues for was, you showed up to the meet, 
+24 and everybody's first round or two was on the house, or like we'd buy like two large 
+25 pizzas and four buckets of beer or whatever and --so all the dues were going away right  28 
+1 away anyway. So it didn't make sense to be exchanging money. 
+2 Q Were there different levels of dues associated with your level of 
+3 membership or was it the same dues for everybody? 
+4 A No. Everybody paid the same, except for the --the first degrees didn't pay 
+5 while they were waiting for membership. So for 3 months, they never --they didn't pay, 
+6 because it wouldn't be right if, you know, they didn't make it and they were paying 
+7 money in every month. 
+8 Q I know that there's a lot of kind of merch associated with the Proud Boys, 
+9 T-shirts and hats and things. Do --does your chapter sell any of that to raise funds for 
+10 the chapter? 
+11 A We did at one point. We did a huge T-shirt run. I did a T-shirt, just 
+12 because this is on the internet, so I'm sure --there's no reason to lie about it. I did a 
+13 T-shirt for Zach Rehl, to raise funds for him. And we had Music City Proud Boys shirts, 
+14 and on the back it said, Drinking Club With a Patriot Problem, is what our shirts say, and 
+15 Save a Horse, Ride a Proud Boy, is our other shirt. And we have a Jam City Proud Boys 
+16 shirt, which is to --which is to tease our antifa counterparts in Nashville. 
+17 But we haven't --we haven't done a run --we were doing hats too for a little 
+18 while. But now that the guys know where the T-shirt shop is, it's just easier for them to 
+19 go get a shirt they want made. Like, they've got all our designs and stuff, and the 
+20 guy --the guy knows who he's allowed to print them for and who he's not. 
+21 
+22 
+23 
+24 Q 
+A 
+Q 
+A Can you --can you describe that T-shirt shop, what is that? 
+What? 
+Just it's one centralized T-shirt organization for the Proud Boys? 
+No, no, no, no, no, no. This one's in --most guys go to their own place or, 
+25 like, the merch -- 1 
+2 Q 
+A Oh, you mean for your chapter? 
+Yeah, like, the merch peddlers, they'll buy the equipment and shit 
+3 and --sorry for cussing --they'll buy the equipment and make their own stuff. And we 
+4 call them grifters because that's all they're doing is grifting off people. 29 
+5 Q Are there --I know you said that there isn't a national chapter, but are there 
+6 national leaders or nationally prominent members who are also selling merch frequently? 
+7 A Well, I know Tarrio sells merch. I don't know if he does --he hasn't sold it 
+8 in abundance in a --in a while, but I know he --he sells. I don't know of any other --and 
+9 to your first point, no, there is no such thing as national leadership, and, B, I don't keep 
+10 good track of the guys that sell merch. Because I think, you charge me $60 for a hooded 
+11 sweatshirt is bull crap, when I can go --when I can go down the road to my place and get 
+12 it for 25, same thing. So I just --I don't understand it, and I don't really know any of the 
+13 merch --any of the big merch people. I had one guy making us a coin, but that fell 
+14 through. 
+15 Q So I know you had previously mentioned that there's not a national chapter 
+16 or national leadership, but am I right that at some point Enrique Tarrio had --had 
+17 incorporated or created a legal entity for the Proud Boys? Is that right? 
+18 A That's --that's incorrect. You're --you're correct about the legal entity, but 
+19 it was not Enrique Tarrio that created it. It was Gavin's lawyer, J.L. Van Dyke, that 
+20 created it. And I --I hear this dude in Tennessee owns it now. I don't know how true 
+21 that is, but I hear a guy in Tennessee owns it. And nobody --because we let it go. We 
+22 said, owning that's too dangerous. Like, Enrique had the opportunity to buy the LLC, but 
+23 I don't believe he did.  30 
+1 
+2 [2:59 p.m.] 
+3 BYMR-
+4 Q Okay. I'll also note, I don't know if I have yet, that_, also 
+5 investigative counsel for the select committee, has joined the Webex. 
+6 When you collected dues, did you say that was all in cash? 
+A Cash or sometimes guys would send a Cash App. 7 
+8 Q Okay. Other than Cash App, did you use among the Proud Boys any other 
+9 kind of applications like that? 
+10 A I'm sure guys used Venmo. I'm sure some guys used PayPal. Oh, most of 
+11 us aren't allowed to us Venmo or PayPal anymore. But, yeah, I don't know. I know I 
+12 didn't. I used Cash App. 
+13 Q Okay. You mentioned that sometimes you'd do fundraisers for specific 
+14 activities. Did you do any fundraisers around the 2020 election or January 6th? 
+15 A I don't think I did any fundraisers around either. I think --other than what I 
+16 previously said about making Zach Rehl a T-shirt after he was arrested, I do not believe so, 
+17 because that's not my thing. I'm not --I wouldn't raise money for that. I'd rather raise 
+18 money to have a really cool party. 
+19 Q So for travel to Washington, D.C., for the 6th or anything associated with the 
+20 6th, you didn't use Proud Boys money, you used personal money? 
+21 A Yeah. There's no --like, yeah. Now, I do think --I'm trying to think. 
+22 Okay. In between there, just for clarity and honesty, in between December and January 
+23 6th, there was that one where everybody got stabbed, there was a stab fest that went 
+24 down. 
+25 Q December 12th?  1 A We raised money for that. And one of my guys got stabbed. So we did 
+2 use club --we used our money to drive to get him to bring him back home to Nashville, 
+3 because we had to rent an RV and stuff like that so he could lay down on the way back. 
+4 
+5 
+6 Q And that was the December 12th event in D.C.? 
+A Yeah. I wanted to say the 14th, but if you're saying the 12th, I believe it. 
+Q There was --we'll talk about this in a minute. But there was also a 
+7 November 14th rally. 
+A Yeah. I was unable to go to that one, but I'm aware of that one. 31 
+8 
+9 Q When you raised money in December --well, actually, first I should ask who 
+10 was it that was one of your guys that got stabbed? 
+11 
+12 A Todd Gregory. 
+Q And when you raised money for --to go get him from D.C., how did you raise 
+13 the money? 
+14 A We just asked guys inside the chapter, "Hey, has anybody got a couple extra 
+15 bucks to help us go get Todd?" 
+16 
+17 Q Okay. 
+A And for Todd we did a GiveSendGo that got like $107,000. But the club 
+18 never got any of that money. He got all that money. 
+19 Q Okay. So you raised --was it cash that you raised for members to go get 
+20 him? 
+21 A Yeah. We just said, "Hey, anybody that can throw some extra coin to go 
+22 help get Todd, it'd be cool. But we understand it's right around Christmastime, so--" 
+23 Q Okay. Do you. Other that raising money, do you receive funds from any 
+24 person or group to help you finance things? 
+25 A No.  32 
+1 Q No. Okay. Do you know if that's true for other chapters? Have you ever 
+2 heard of individuals or entities that give money to Proud Boys chapters? 
+3 A Not that I'm aware of, because anybody that had money to give away would 
+4 understand that the Proud Boys are Kryptonite and they better stay as far away from 
+5 them as possible. So that was not be a publicly known thing. Like, there's very few 
+6 people in the world that would be stupid enough to do that. 
+7 Q How about before --and I'm basing this on the assumption that you mean 
+8 Kryptonite after January 6th --how about before January 6th or the election, was there 
+9 anybody that you know of that was donating money to the Proud Boys? 
+10 A Not that I know of. And I don't think it was true. We've been Kryptonite 
+11 since way before January 6th. It was actually December --like, November 14th we 
+12 became America's heroes. And then that got messed up, I think you said the date was 
+13 December the 12th. 
+14 And that's why we didn't want to go to January 6th. It was actually put out and 
+15 we were told, it was agreed upon that if you went on January 6th you were not a Proud 
+16 Boy when you got there. You were [inaudible]. Don't wear any stuff, don't wear 
+17 nuthin'. Don't even be [inaudible]. If you're a Proud Boy, you're not to go to January 
+18 6th. Like, you're not --like, they said very specifically, and all the presidents agreed, 
+19 don't wear any Proud Boys gear. If you go you're going there as your own person, not as 
+20 a member of the club. 
+21 Q You mentioned something about on --and maybe I misheard you --but you 
+22 mentioned something about on November 14th becoming America's heroes. What was 
+23 that? Can you explain that? 
+24 A Yeah. Like, I wasn't at that rally, but we saw the press from it. And 
+25 everybody --like, the news we were getting or the headlines were the Proud Boys go to  33 
+1 save the --save the day. They're helping out old women and children get through these 
+2 crowds. This, that, the other thing. And it was probably the best optics we'd ever 
+3 gotten in our --in the history of the organization was that day. And all it took was one 
+4 month later and dudes fightin' normies to change that. 
+5 Q We'll come back and kind of talk about the November and December rallies 
+6 in a second. But just kind of last thing on the finances issue, do you use cryptocurrency 
+7 at all? 
+8 
+9 
+10 A I do. And I wish I didn't. 
+Q Why do you say that? 
+A Because Dogecoin, I need Elon Musk to manipulate the market again. 
+11 Okay? And I know he's wary about that. That's why. Like, I invested in some of that 
+12 stuff. But I don't --like, I'm such a boomer, I don't know how to use it. Like, I don't 
+13 how to buy things with bitcoin. Like, I know on my individual Cash App, when bitcoin 
+14 dips, I'll put, like, $100 in. I think I own like 0.13 of a bitcoin. 
+15 Q So other than personally, do you know if the Proud Boys as an organization 
+16 or chapters use cryptocurrency? 
+17 A No. I don't believe so. I know there are guys that are heavily into it 
+18 personally, and they try to, like, teach other guys how to make money off it. But clubs 
+19 and chapters I don't believe are using it as currency. 
+20 And can I use the restroom real quick? 
+21 Q Sure. Why don't we take a 5-minute break. So it's 3:08, we'll come 
+22 back --let's just come back at 3:15. 
+23 
+24 A Okay. Gotcha. 
+Q And you can go ahead and mute your mike and turn off your camera. And 
+25 we'll go will into recess now.  1 
+2 
+3 [Recess.] 
+BYMR.-
+Q I want to talk a little bit about --you've kind of described a little bit of a 
+4 divide into --and tell me if I'm mischaracterizing this --but kind of two groups in the 34 
+5 Proud Boys. You've described one group as the people that want to fight the world, or I 
+6 think you said maybe defend Western chauvinism, and then another group that is more 
+7 interested in drinking and partying and hanging out. Is that accurate? 
+8 
+9 
+10 
+11 A Yes. Yes, that's accurate. 
+Q And do you see that divide in your own chapter? 
+A Not --we had already split, so we don't see it anymore. 
+Q Okay. Right. Yeah, you mentioned that split. Can you describe that for 
+12 me and when did that happen? 
+13 
+14 A 
+Q March after January 6th, whatever year that was, 2021. 
+Right. Okay. And so I take it that some of the folks, maybe like Todd, who 
+15 was in December 12th, is he in the group that's interested in fighting the world? 
+16 A I don't think those guys still even exist anymore after they split. Like, we 
+17 were the glue holding them together. But when you get --and I've talked to some of 
+18 them recently. And they were like, "Man, I just miss the friendship, I miss this." And I 
+19 go, "It's what it was always about, dude. That's what it was always about." 
+20 And I don't think they hang, I don't think they get together too often anymore, just 
+21 from the rumor mills and, you know, what I hear on the internet. Like, they think the 
+22 Federal Government's sitting outside their houses and shit. They watch too many 
+23 movies. They don't understand, like, they don't sit outside your house, they just go in. 
+24 Like, they come get you when they want to have you. 
+25 Q Can you then kind of just describe for me around the election, 2020, what  35 
+1 was your chapter's involvement in the election or politics around that time? 
+2 A Funny. Funny. Well, my involvement is always high, because I'm a 
+3 shadow man inside a lot of these campaigns. Like I said, I don't need pay. I'll just 
+4 volunteer. I'll help out. I'll put signs in. Just don't ever take a picture of me, because 
+5 I will ruin your political career. 
+6 So I'm real into it, but mainly because I've got two or three friends that ran for 
+7 local offices or that were heavily into campaigns. And I was, like, I'd like to learn how do 
+8 that stuff. Like that seems like I'd be interested in it. 
+9 So to answer the next part of your question, we had a big gathering the night the 
+10 debates were in Nashville. We were hanging out at the one of the rooftop bars 
+11 watching the debate. Excuse me. And Trump was supposed to come to where we 
+12 were. 
+13 He pulled the plug on that, and I think Kimberly Guilfoyle might have showed up, 
+14 but we weren't very interested in hanging out with her. So we just went down the road. 
+15 But as a club, and I may be a traditionalist, we're not supposed to be a political 
+16 organization. So we try to stay --like, when I do my stuff with the Republican Party in 
+17 town, I don't go as a Proud Boy, I go as Matthew Walter. I don't wear any of my stuff. 
+18 Like, they don't know --I try not let people know who I am because I am one Google 
+19 search away from you knowing who I am. 
+20 So I don't know if that answers your question. 
+21 
+22 
+23 
+24 Q Yeah, it does, or it starts to. 
+I want to ask a little bit about the event that you said that President Trump was 
+supposed to be at. That was associated with a debate? Is that what you said? 
+A Yes, sir. There was --when they had the debate in Nashville, I think it was 
+25 at Belmont University, rumor had it Donald J. Trump was supposed to roll into Kid Rock's  36 
+1 Honky Tonk and kind of do some handshaking and hugging and high fivin'. 
+2 And then Kid Rock ended up coming and doing, like, two sets --like, two songs, I'm 
+3 sorry --and he left. And during that time, the bar had to close like 10 because of COVID. 
+4 So it was an early evening. And that was my recollection of that. 
+5 I think that same day there were guys pretending to be us downtown. 
+6 I actually got a phone call from I think Metro Nashville called me and said, "Hey, 
+7 are you guys --your guys are still at where you said you were going to be, right." 
+8 And I go, "Yeah, we are -nobody knows we're here. So we're not causing any 
+9 problems." 
+10 And he said, "Okay. Well, there's rumors you guys are downtown, right outside 
+11 of Belmont." 
+12 And I go, "That ain't us. I don't know who it is, but it is not us." So --
+13 Q How did you learn that President Trump was going to be at, you said, Kid 
+14 Rock's Honky Tonk? 
+15 A I forget how I found it out. It was through the grapevine. We were 
+16 downtown maybe a week or two before and had heard the Secret Service had went into 
+17 Kid Rock's place. So that was --that's what we --we were assuming that it was for 
+18 Trump, because the Secret Service went there. 
+19 Q Okay. Have you during the course of the 2020 election or during the 
+20 Nashville debates, did you ever have any contact with any members of the Trump 
+21 campaign or anybody from --
+22 
+23 
+24 A 
+Q 
+A No. 
+--the White House? 
+I'm sorry for interrupting. No. I didn't have any contact with anybody in 
+25 any campaign at that time, to be completely honest.  1 
+2 37 
+Q Okay. And "any campaign", you mean any Presidential campaign? 
+A Presidential, senatorial, you know, just any of the local stuff too. We didn't 
+3 really participate too heavily that one, because I just was busy in my personal life at the 
+4 time. 
+5 Q Okay. Let's, since we're on the topic of Trump, can I ask you what --would 
+6 you say that most Proud Boys are --and let's focus on the timeframe late 2020, early 
+7 2021--would you say that most Proud Boys are supporters of President Trump? 
+8 
+9 A I would say no. I would answer that question no. 
+Q Okay. Let's talk about then the event at the debate where President Trump 
+10 mentions Proud Boys. I'm sure you're aware of what I'm talking about, the "stand back 
+11 and stand by." 
+12 
+13 A "Stand back and" --yes. Yeah. I'm aware of that comment. 
+Q Okay. Can you just tell me, take me through your experience of hearing 
+14 that, and then what that meant for the Proud Boys? 
+15 A Well, I personally said --let me try and think. When I saw it, because I think 
+16 I was --I think I was actually watching that, and I went, "What's he doing? That's 
+17 suicide. He just killed himself on stage." 
+18 And I don't think he meant to say that. Like, I think he meant to say some other 
+19 things and that just kind of came --kind of like Trump does, he had a Trumpism. It just 
+20 shot out right quick, like, "Stand back, stand by." 
+21 And I do know the internet exploded. And I think personally that was the worst 
+22 thing that ever happened to the Proud Boys, was that moment, because then a lot of 
+23 fringe guys started coming out of the woodwork. They wanted to do joining the Proud 
+24 Boys now too, because they wanted to use our voice that we had to spew their shit. 
+25 Q Other than fringe folks coming in, was there anything that your chapter did  38 
+1 as a reaction to that "stand back or stand by"? Did you get more involved with the 
+2 Trump campaign or anything like that? 
+A No. We didn't. 3 
+4 
+5 
+6 I don't know what's going on with the connection here. Is my connection good? 
+Q 
+A Yep, I can hear you. Can you hear me? 
+I can hear you, but sometimes you're --I got like a spinning circle. But I can 
+7 hear everything you're saying. 
+8 Q Okay. I was just asking if you became more involved with the Trump 
+9 election or candidacy after "stand back" --after the "stand back and stand by" moment? 
+10 A No. I didn't, my chapter didn't. We actually at that time in our lives, we 
+11 had already started kind of going, I guess for lack of better terms, underground. We 
+12 were being --we weren't going out with the shirts on as much or with a bunch of gear. 
+13 We understood it was not a good idea --it's not a good idea to hang out in east 
+14 Nashville with only 15 dudes where everybody hates you. 
+15 So we were kind of, even before that, we were already kind of underground. 
+16 Like, we were having our meets at people's houses or we were going to places we knew 
+17 were absolutely friendly to us, that liked us, that we wouldn't have any problems. 
+18 Because at that time, the country was so toxically divided already that how I 
+19 perceived it was anything we do is going to get blown up to level 10. Like, if we got in a 
+20 bar fight, it would be the worst thing in the history of the world. 
+21 Q You mentioned that a lot of fringe people started to join or started to 
+22 become interested in the Proud Boys after that "stand back and stand by" moment. 
+23 How did your chapter deal with that? 
+24 A We --after "stand back and stand by" we stopped reading the emails for 
+25 almost --was that --that was said in 2020. Am I correct?  1 
+2 Q 
+A September of 20 --September of 2020. Yep. 
+Okay. Yeah. After "stand back, stand by" I don't think I read email for 
+3 almost eight months. We just stayed how we were. But then we started reading the 
+4 emails that we were getting and they were, like, "I want to save America. We can't 39 
+5 stand for this shit. We can't stand for this." A lot of what I would call cringe language 
+6 was in these --and I was just like, "Eh, I don't think we want that guy." 
+7 And we just waited. And then at that eight-month mark, I think I sent maybe 50 
+8 emails out to guys that I thought were decent. And at that point, I want to say the 6th 
+9 had already --like, now people are terrified to join us because they know it will ruin their 
+10 lives again, because the doxxing phase is back. 
+11 We went through that in about 2018 and then it ended. And in 2019, that was 
+12 all --that stopped happening, like, people stopped losing their jobs and stuff, because it 
+13 was just not effective anymore. 
+14 Well, then January 6th happened and we gave them the ammunition to label us as 
+15 violent extremists and get people fired from their jobs again. 
+16 Q Do you know if other chapters kind of reacted in the same way or do you 
+17 think other chapters let a lot of these fringe people in? 
+18 A Well, as previously mentioned, we have the divide. Those chapters --I 
+19 won't say most, I'd say approximately 50 percent of the chapters closed the doors. 
+20 Like, we shut the website down. We shut everything down after --like, leading 
+21 up to January 6th there was nothing that we had public, like for recruiting, so to speak. 
+22 But there were some guys that were still actively recruiting in their local areas, you 
+23 know, and those are the same guys that are wearing, like, body armor to county 
+24 commission meetings and stuff like that. 
+25 Q So I know that Enrique Tarrio has claimed that the membership doubled  40 
+1 after "stand back, stand by." Do you think that's an exaggeration? 
+2 A I would say absolutely it is. And kind of like we said when we were off the 
+3 record when this started, like, every --like, a lot of these public figures inside the club 
+4 have an online persona or a character that they play, when that's actually not --that's not 
+5 them. That's not who they really are or what they really believe. But because the 
+6 media has made me the boogeyman, I have to go the boogeyman in public. Or I can 
+7 exaggerate things. Like, lying to the media is not a crime. 
+8 Q So then, just focusing on that comment by Enrique Tarrio about doubling 
+9 membership, to me that reflects him being satisfied with the membership doubling or 
+10 being okay with the fact that "stand back stand by" brought in new types of folks to the 
+11 Proud Boys. 
+12 
+13 Is that true? And how do you feel about that if that's what happened? 
+A I don't think that's true. I think that was Enrique playing a joke that he 
+14 thought was funny, that may have as of yesterday bit him in the butt. Because some of 
+15 the things that he said --and I don't know what they are, but I just know how he talks on 
+16 the internet --can be seen to make him appear as if he's an extremist. 
+17 But if you actually meet the guy, the real guy, Enrique Tarrio, he's the farthest 
+18 thing from extremist. The guy doesn't drink. Like, he doesn't drink, he doesn't do 
+19 drugs. He's always levelheaded. He's always in control. I don't know why he doesn't 
+20 drink, he's never told me, but I know he doesn't. 
+21 Q You know, you've kind of --I think you've said Enrique maybe isn't extreme 
+22 or isn't what the media makes him out to be, partially because he doesn't drink and 
+23 because he's not involved with drugs. 
+24 Do you think in the Proud Boys folks that do drink or do drugs more often are 
+25 more of the extreme members?  41 
+1 A No, I don't think that to be. I mean, it's a men's drinking club. I don't 
+2 think that that means because they drink or potentially do drugs that that gives them a 
+3 higher chance of being a wackadoo, because, I mean, you joined a men's drinking club. 
+4 So obviously there's going to be people who drink alcohol --unfortunately, like 
+5 me, some of them to excess --and have a good time. But I don't think that necessarily 
+6 makes them like an extremist. 
+7 Q Okay. All right. I want to focus a little bit more kind of on the November, 
+8 December, January timeframe and some more specifics about your club. 
+9 So the first thing I want to ask is, how do you normally communicate with other 
+10 Proud Boys? What are the main either apps or messaging systems you use? 
+11 A I know I use Telegram. We used to use --now, to give you a full picture of 
+12 the timeframe that we're asking about, it used to be Facebook. And then like the third 
+13 wave of the purge happened and none of us are on there anymore. There's like --I'd say 
+14 there's probably 100 Proud Boys left on Facebook. 
+15 I got banned from Facebook and lnstagram for posting photos of my daughter and 
+16 food. That's all I ever talked about on there. 
+17 But back to your question, so then, like, we've tried every --WhatsApp, MeWe, 
+18 Telegram. Like, if there's a social media platform that's not Face book or lnstagram, 
+19 we've tried it. I'm surprised we didn't try to go back to Myspace, to be honest with you. 
+20 Q Okay. So you said you mostly personally used Telegram. Did you all use 
+21 Signal? 
+22 A I didn't use Signal to talk to PBs. I have a couple retired Army buddies that 
+23 that's all they talk with, is Signal. And I guess that's a Special Forces thing. I don't 
+24 know. That's what they said. "This is how we talked when we were overseas, so this is 
+25 how we talk now." So I talk to them on that. And I probably have talked to a Proud  42 
+1 Boy or two on Signal, but I didn't use it exclusively, if that makes sense. 
+2 
+3 Q Yeah. That does. 
+How about --so I know you said everybody was kind of kicked off Facebook. Did 
+4 you use Parler as a substitute for Facebook? 
+5 A Yeah. But then Parler got deleted forever. So every now and again I get 
+6 on there and shoot a parlay or whatever it's call. But, eh, ever since I've been banned 
+7 from the internet I really don't use the social media apps anymore. 
+8 Q During the November, December, and January timeframe were you or Proud 
+9 Boys active or Parler? 
+10 A I'm sure that --I'm sure that's yes. Actually, I know I am, because 
+11 I'm --something the news, the national news put on there was my --all my --now, it 
+12 might have been tweets. I can't remember. It was either Twitter or Parler that I was 
+13 saying that the people's chairman is in the People's House. And they believed --I did 
+14 some photoshopping and they believed I was all the people inside the Capitol at one 
+15 point. 
+16 
+17 
+18 Q 
+A 
+Q Okay. Did you follow Tarrio on Parler? 
+Probably. 
+Okay. How about Reddit, do you use Reddit much with Proud Boys? 
+19 A No. I'm on Reddit. Some crazy lady from Nashville has a thread about 
+20 me, but I don't use --I don't really use that platform. I don't understand how to use it, 
+21 so I don't use it. 
+22 Q Okay. And then let's talk --so in the November and December and January 
+23 timeframe was it common for Proud Boys to provide security at political rallies, so like the 
+24 November 14th rally, the December 12th rally? Were you involved in that at all? 
+25 A I wasn't involved in that. I don't know who was involved in that. But I  43 
+1 think some guys like to be bodyguards without a license and, you know, not knowing 
+2 what they're really doing. So I would say, yes, that probably is true, but I wasn't 
+3 involved in any of that. 
+4 Q Okay. Do you know anybody in particular that you had conversations with 
+5 or talked to about providing security at any of the rallies? 
+6 
+7 
+8 A In that November to January timeframe? 
+Q Yeah. 
+A Not that I can think of. 
+9 Now, to clarify that, though, I probably talked to people that were --that 
+10 did --that wanted to do that stuff, but they didn't --they never would talk to me about 
+11 that, because they knew that wasn't my gimmick, that wasn't how I rolled, that I'd call 
+12 them names and bully them if they asked me to be a part of it. 
+13 
+14 
+15 Q 
+A Did you ever talk to Tarrio about providing security for people at rallies? 
+No. 
+Q Okay. Other than providing security, how about just showing up or being a 
+16 presence at rallies for some particular purpose, do you --did you engage in that? 
+17 A I went to a couple of the Stop the Steals in Nashville just because they were 
+18 big parties. They weren't really --I wouldn't call them political rallies. It was a bunch 
+19 of likeminded people that just got together and listened to some internet celebrities talk 
+20 about like saving America. So I did go to some of those. 
+21 Let's see, I went --I was supposed to go to the November rally, but something 
+22 came up with my kids, so I did not go to that one. I went to the 12th rally, and I went to 
+23 J6. So I attended --those are the things I attended. 
+24 Q Okay. And when you attended those, so I know you weren't providing 
+25 security. Were you there to oppose any particular groups like BLM or antifa?  1 
+2 A I was there for the after-party. 
+Q Okay. Do you remember ever talking to other Proud Boys about antifa or 
+3 BLM presence at those rallies? 
+4 A I'm sure I did talk to them about their presence, because a lot of guys 
+5 respected my prior service, military and stuff like that. 
+6 And they'd ask questions about, like, "Oh, well, where are they at, what are they 
+7 doing?" 
+8 I go, "Who cares. Let's just leave them. If they stay over there and we stay 
+9 over here, there can't ever be a problem." 
+10 So I think I answered your question. 
+Q Yeah, you did. 44 
+11 
+12 So you mentioned that some guys knew not to talk to you about providing security 
+13 or doing that type of work at rallies. Can you just expand on that a little bit for me? 
+14 What was their impression of how you would react? 
+15 A They know I wouldn't like it, that I would say, "You are gay. Like, this is 
+16 dumb. Why are you doing that? Why are you risking everything when you have 
+17 nothing?" 
+18 Like, that's my stance on the rallying and fighting. Like, the rallying, cool. Be 
+19 patriotic, express your First Amendment. Going to intentionally get in fights, that's 
+20 dumb. That's a crime. You know, that's --so they knew that that's how I believed. 
+21 And I'd always tell them, "I've got 49 months in combat and I'm almost 40 years old. I'm 
+22 not gettin' in a fistfight." 
+23 Q Did that --I know we talked about the divide in your personal chapter, but 
+24 did that ever cause any problems with other chapter presidents or more nationally 
+25 prominent people, that your distaste for doing that kind of thing at rallies?  1 A I think at first it did. Like, and I'm talking about in 2018 and '19, people 
+2 were rubbed wrong about it. Then by the time these events came up, they just knew 
+3 that was --they weren't going to change it. That's how I was. And, well, let's just be 
+4 friends. Like, I don't agree with you, you don't agree with me, that doesn't mean we 
+5 can't drink a couple Miller Lites and eat a couple hamburgers together. 
+6 
+7 Q 
+A Did that argument or that difference of opinion come up with Tarrio? 
+I don't think him and I ever talked about it, because we both knew that we 45 
+8 were on polar sides of the fence and that we liked each other. So we just didn't engage 
+9 in that kind of conversation. 
+10 Q Okay. But you would put Tarrio kind of in the group of people who were 
+11 interested in defending Western chauvinism, fighting the world, and performing these 
+12 security and kind of combative roles at the rallies? 
+13 A I think in 2018 I would have put him there. Tarrio began to shift to more 
+14 like the brotherhood above everything else later. Like even before January 6th, he was, 
+15 like, "Eh, I don't know if we should be doing this. Like, this seems like it's gonna to blow 
+16 up." 
+17 So he was kind of shifting, he started to shift his thought process, because I think 
+18 he understood that guys were getting in trouble. And he hates that when guys get in 
+19 trouble. Like, he --I want to say he's remorseful, I don't want to put words in his mouth, 
+20 that he's sorry his friends are in jail right now. And he's trying to --
+21 
+22 Q Well --
+A Before he got picked up the other day he was trying to do everything he 
+23 could to help them, like get money for their legal teams and stuff like that. 
+24 Q What caused the shift or when was the shift that you're talking about for 
+25 Tarrio?  46 
+1 A It's been a slow process since I want to say 2019. But, again, a lot of people 
+2 that just see him on the internet, they don't --they're going to say that I'm incorrect. 
+3 But when you have private conversations or you see him in places where he doesn't have 
+4 to be in character, he was talking about change and about how we can shift the 
+5 organization back to what it used to be, kind of, or what it was designed to be. Let me 
+6 say it that way, not what it used to be, what it was designed to be. 
+7 Q Okay. Let's talk a little bit about the --so you said you did attend the --was 
+8 it the November rally? 
+9 
+10 
+11 A 
+Q 
+A Not November. I attended December. 
+Okay. December. When did you head up for the December rally? 
+I think we got there Friday night. I want to say we left Friday morning. Or 
+12 maybe --or it could have been the same thing but Thursday. I'm not super sure. But it 
+13 was the day --it was the day prior to the rally is when we got there. The night prior, I'm 
+14 sorry. 
+15 
+16 
+17 
+18 
+19 Q 
+A 
+Q 
+A 
+Q Okay. And did you go up with a group from your chapter? 
+Yes. 
+And how big was the group from your chapter? 
+Five or six. It was five or six guys. We rolled up in an RV. 
+At that point the split hadn't happened, I guess, right? So you still had 
+20 some of the guys in your group that were more interested in fighting at the rallies? 
+21 
+22 A 
+Q Yes, sir. 
+Okay. And do you know, did you have any conversations with them, were 
+23 they planning on providing security or doing any of that sort of work at the December 
+24 rally? 
+25 A Not that I'm aware of.  1 
+2 Q 
+A 47 
+Okay. 
+I don't believe we ever talked about anything like that. And I just told 
+3 them, "Hey, stick with me. This is a big event. It's going to be really cool. But we've 
+4 got to remember keep your eye on the prize. Remember, everything we do here is 
+5 going to be heavily scrutinized." 
+6 Q Do you think some of them wouldn't have told you if they were involved in 
+7 some of the group discussion about fighting at the rallies or about opposing antifa? 
+8 A They probably would not have told me. 
+9 Q Okay. And then I know the member of your chapter, Todd, ended up being 
+10 one of the guys that was stabbed at the event. Do you think he was involved in those 
+11 discussions? Or how did that happen? 
+12 A Wrong place, wrong time. Because to explain what happened that night is 
+13 the police had kind of barricaded us in the block where Harry's --the Harrington, the 
+14 hotel and the hamburger joint. We couldn't move. 
+15 So it was starting to turn into the --like, guys were going up to their rooms, 
+16 getting cases. It was turning into a block party is what was happening. And that kid, 
+17 the stabber, they saw him, and some girl went after him. And then he 
+18 started performing the work. 
+19 I would say that's not the first time that young man held a knife or attacked 
+20 somebody with it, because he seemed to be pretty fairly proficient with that. And he 
+21 got Todd under his body armor. 
+22 So it was just wrong place, wrong time. Because Todd and I think Bert, Jeremy 
+23 Bertino, went to defend that girl and they didn't know that that dude had a knife. 
+24 Q And so you said Todd was wearing body armor. Were you wearing body 
+25 armor at that event?  48 
+1 A No. I refuse to wear --I'm the guy wearing the orange shirt in all the 
+2 pictures. I did not have the body armor on. 
+Q Okay. And why did you choose not to wear body armor? 3 
+4 A I wore body armor for 14 years. I don't need to wear it. I said that if they 
+5 get me today and I didn't get got in 49 months fightin' the Taliban, it was my day. They 
+6 were going to get to me anyway. 
+7 Q Did you think, you know, when somebody shows up to a rally like that in 
+8 body armor or looking like that, how do you think that affects kind of their presence at 
+9 the rally or people's mood, or when they see them, or interact with them? 
+10 A I believe that it postures you've immediately escalated force by having body 
+11 armor. So now the threat --your threat level is already up. And some people, you 
+12 know, the people that are on your team, so to speak, they are, "Oh, look at those cool 
+13 guys." And other people are like, "Why are those fat, out of shape, 40-year-old men 
+14 wearing body armor?" 
+15 And then the other party, you know, the people that want to attack those people, 
+16 now they know where they're all at, because they all look the same and they all have 
+17 body armor on. So it's pretty easy to figure that out. 
+18 So I think it changes the threat assessment for everybody involved, is what I --is 
+19 how I would answer that. 
+20 Q Okay. Let's talk a little bit more about kind of the lead-up specifically to 
+21 January 6th, so after the December timeframe. 
+22 When did you first learn that December was going to be --oh sorry, that January 
+23 6th was going to be a big event? 
+24 A I can't answer that truthfully. I'm going to probably say --Trump said 
+25 something, maybe like a week prior. And I would say when he said something, I  1 understood that it was going to be a large event. 
+2 Q Was that --and we can actually pull up exhibit 5, if we want to look at that. 
+3 Was that a tweet from President Trump, do you recall? 
+4 A I don't know if it was a tweet or I don't know if it was --if it was a --I'm 
+5 reading that right now. 
+6 
+7 Q 
+A Yeah. You can take a second just to read that. 
+I don't know if it was a tweet or if it was something he said. Knowing the 
+8 President, I would assume it was a tweet. So I would guess that's correct, that I 
+9 probably saw a tweet. I don't think it would be that one. But --49 
+10 Q So this is a December 19th tweet from President Trump. And I'm just going 
+11 to read the tweet for the record real quick. 
+12 "Peter Navarro releases 36-page report alleging election fraud 'more than 
+13 sufficient' to swing victory to Trump. A great report by Peter. Statistically impossible 
+14 to have lost the 2020 Election." And then this is sort of the relevant part. He says, 
+15 quote, "Big protest in D.C. on January 6th. Be there, will be wild!" 
+16 Do you remember that "will be wild" statement? 
+17 A I've got a hard time remembering what I ate for breakfast yesterday. So 
+18 that probably wouldn't have excited me. 
+19 
+20 Q 
+A Okay. 
+I don't remember the "will be wild" part of that. And I want to say I saw 
+21 something different that was more Trumpy, that was more like 30 characters, that said, 
+22 "Come to D.C.," or something, "I got something big." 
+23 I want to say what got me interested, he said, "I have something very important to 
+24 say on January 6th," or something like that, is what got me interested to be there. 
+25 Q Okay. In the lead-up to January 6th, did you hear about Proud Boys  50 
+1 coordinating with any other groups or making plans for January 6th with any other 
+2 groups? 
+3 A No. What I can tell you is what I heard about Proud Boys is this: Do not 
+4 go to Washington, D.C., wearing a Fred Perry on January 6th. Do not wear any Proud 
+5 Boys merchandise. Do not do anything. You go there, you're going to support the 
+6 President or participate in First Amendment rights, but you are not going there as part of 
+7 the club. 
+8 And it was very adamant that the --and I don't know the guy's name, but that 
+9 local president there in Washington, D.C., was very adamant you will not wear 
+10 shit --pardon my language --you will not wear your dumb shirts or anything like that in 
+11 my area, because it affects me, not you, because you get to go home, I have to stay here. 
+12 Q Okay. I want to ask you about some Parler messages from Tarrio, kind of 
+13 on that same theme, but I think a slightly different message. If we can pull up exhibit 8. 
+14 So this is a post from Enrique Tarrio on December 29th on Parler. And the 
+15 relevant part I'll just read for the record. 
+16 "We will not be wearing our traditional Black and Yellow. We will be incognito 
+17 and will spread across downtown D.C. in smaller teams. And who knows ... we might 
+18 dress in all BLACK for the occasion." 
+19 Do you recall that message from Tarrio? 
+20 A I recall that message. And I think I've got a little --maybe a little bit of 
+21 context for that as well. 
+22 
+23 Q 
+A Okay. 
+"We might dress in all BLACK for the occasion," that was an obvious troll to 
+24 antifa, saying, "Hey, we're going to look like you when we do this," because they got 
+25 exposed for wearing MAGA gear and stuff like that at the rally prior. So he said, "Hey,  51 
+1 we can play that game too." 
+2 I don't know anything about the, "We will not be wearing our traditional Black and 
+3 Yellow. We will be incognito and spread out across downtown in smaller teams." 
+4 think that's internet character talking, because I know very specifically if there was a plan, 
+5 I wasn't involved in it. And I didn't know about it, either. 
+6 
+7 Q 
+A Okay. So --
+[Inaudible] to see anybody except Enrique in D.C. that day. And we were 
+8 going to go up to his hotel room afterwards and just catch up. 
+9 Q Okay. I just want to be clear, because we've got kind of two different 
+10 messages happening. One --and we'll take the D.C. Proud Boy leader first. He said not 
+11 to wear Proud Boy gear in his area or to visibly associate yourself with Proud Boys. Why 
+12 did he say that? 
+13 A Because there was a belief, remember the two sides, there was a belief by 
+14 one side that we shouldn't even be wearing that, the black and yellow, we should not 
+15 wear that because it makes us easily identified. Like, people can spot you out. And 
+16 that shirt had so much --so bad of a stigma almost from its inception that guys were long 
+17 ago wanting to separate themselves from that, from a uniform, that that was not cool. 
+18 And then you had the guys that wore the Hawaiian shirts, and then the Boogaloo 
+19 Boys ruined that for us, because those psychos are weird. 
+20 So I think that answers the question --or the first party of your question. And I 
+21 think there's a second part? 
+22 Q Yeah. And the second part was just it seems like Enrique Tarrio's message 
+23 is different. His seems to be more of a strategic choice about countering or dealing with 
+24 antifa. Is that right? 
+25 A I could agree with what you said there, but I also think we're reading too  52 
+1 much into it, that I don't think he believed that. What he said, I don't think that was the 
+2 truth. I think that's just something that would get him whatever retweet on Parler is 
+3 called and shares in the news media and maybe a couple interviews to do and help build 
+4 his brand. 
+5 Q Okay. But there did end up being people, that Proud Boys dressed in all 
+6 black to --as Tarrio directed, right? 
+7 A If there were, I'm not aware of that. I've seen photos of some of the guys 
+8 that day and I don't remember seeing one in all black. And I could be wrong, but I 
+9 don't personally know that to be true. 
+10 Q Do you remember --I know you're friends with Ethan Nordean. Do you 
+11 remember seeing what he was dressed in? 
+12 A I don't, but I'm going to guess he was wearing a black long sleeve shirt and 
+13 his plate carrier that had a RWDS on it in red. That's just my guess. Maybe a black ball 
+14 cap. 
+15 But that's what he wear --that's his uniform. That's what he wears all the time. 
+16 So I wouldn't say Tarrio directed him. And Enrique Tarrio is not telling Ethan Nordean 
+17 anything, to do anything he doesn't want to. 
+18 Q I think we have --we can just look at what Nordean wore on that day. If 
+19 we can pull up exhibit 19. 
+20 A Yeah. I was close. 
+21 Q Yeah, pretty close. I mean, would you describe that as this looks to be 
+22 what Tarrio directed folks to wear, right? 
+23 A Well, you could say that. Like, I can --I agree with what you're saying, that 
+24 what we just read and what he's wearing is similar, but we can also look at the other 
+25 people behind him and they're not wearing that.  53 
+1 Q Right. Some of what I want to get at and what we'll discuss a little bit is the 
+2 extent to which you think you were in the know on what Tarrio was directing people to 
+3 do or not. 
+4 So I guess I'll just start with a question for the 6th in particular. Do you think that 
+5 you were excluded from some of the plans about --that Tarrio was involved in, or this 
+6 might be an example of wearing all black or trying to be incognito? Would you have 
+7 been left out of conversations about countering antifa or some of the more extremist 
+8 activity? 
+9 A I believe I would have been left out of those conversations. I don't think 
+10 they ever --like, I've never been in a, quote, unquote, planning chat of any type. But I 
+11 also recall seeing the clear message that was being given to the dudes was don't go, don't 
+12 do anything stupid, this. 
+13 Now, then you get those public messages that you just read, but behind closed 
+14 doors, what I saw was a different message. But, again, like you said --like I already 
+15 answered, I probably would not be included in anything that involved, like, being a rally 
+16 boy, because they just wouldn't do that. 
+17 Q Okay. I just want to focus a little bit on who was sending the messages 
+18 about either don't go or don't go as a Proud Boy. You said it was the leader of the D.C. 
+19 chapter? Is that right? 
+20 A He was saying don't wear any colors. Enrique Tarrio was saying the don't 
+21 go or don't go as a Proud Boy. That was Enrique's messaging in public --or, I'm sorry, in 
+22 the private chats, was, "Hey, everybody needs to be real careful here, like, this --you're 
+23 going to get in a lot of trouble if you eff up here," is kind of what Enrique's message was. 
+24 Q Okay. Is there anybody else that you can think of that was sending the 
+25 other message, which was don't go at all, don't go associated as a Proud Boy?  54 
+1 A I would say almost the entire south was probably echoing that message. 
+2 And then some people out in the West Coast, maybe some guys in Arizona were 
+3 probably --I'm just thinking of everybody that's like me and has like similar thoughts as I 
+4 do. And it's pretty much you those people. 
+5 
+6 Q 
+A Okay. 
+It was more, like, I think more of the East Coast guys were real excited to go 
+7 to it. A, probably because it was a lot closer. And a lot of other people were just like, 
+8 "Eh, this has been--we've played our hand here. We don't need to, you know, we don't 
+9 need to do any more." 
+10 
+11 Q 
+A Just a quick question. Is there anybody in the room with you right now? 
+No. There isn't. 
+12 Q Oh, okay. I thought I had seen somebody, somebody else moving. 
+13 Okay. Then I'm going to ask this question, though I take it the answer is probably 
+14 no. 
+15 Did you hear about Proud Boys associating with --we started to talk about this 
+16 question earlier --associating with or making plans to go with any other groups for the 
+17 6th? 
+18 A No. I want to say there was a very public feud on Parler between, I want to 
+19 say, PB and Oath Keepers, or maybe it was the Three Percenters, that there was --we 
+20 didn't like each other. Because, if I remember correctly, there were a couple physical 
+21 altercations in December that they weren't happy about, because they lost those 
+22 altercations. But I don't know exactly if that's correct, but I think I remember that being 
+23 the case.  55 
+1 
+2 [4:07 p.m.] 
+3 BYMR-
+4 Q Okay. I want to talk a little about that public feud versus maybe 
+5 some --some things that were going on in the background that maybe you were privy to 
+6 or not. 
+7 So if we could pull up exhibit 6. 
+8 So I was asking you about alliances between or --or organizing with other groups. 
+9 And so just for the record, and I'll represent to you, this is a Facebook message from Kelly 
+10 Meggs. 
+11 Do you know --does that name mean anything to you? Do you know who Kelly 
+12 Meggs is? 
+13 
+14 A 
+Q It doesn't. 
+Okay. He's an --he's an Oath Keeper from Florida, and this is a private 
+15 message he sent on Facebook on December 19th. And he said: We are all ready for 
+16 the rioters this week. I organized an alliance between Oath Keepers, Florida Three 
+17 Percenters, and Proud Boys. We've decided to work together and shut this shit down. 
+18 
+19 
+20 So I take it you didn't hear any --anything about this alliance between the groups? 
+A 
+Q No. I --I have no idea about any alliance. 
+Okay. Would it be --I remember at the beginning of the deposition, we 
+21 talked about how you and Tarrio are friends, but you kind of had this fake feud online 
+22 because that was a way to, I don't know, diffuse the animosity between different groups 
+23 in the Proud Boys. 
+24 Was it common for there to be staged or fake feuds between members of the 
+25 Proud Boys or between Proud Boys and other organizations?  56 
+1 A No. I --I think that's --that's purely my gimmick or my bit, was --that 
+2 was --that was a creation of me. Just one day, I was sitting there and said, hey, let's 
+3 pretend like we hate each other and see how many people we can trick. And he said, all 
+4 right, I'll do it. 
+5 Q Is that --I mean, so that's one example of it, but is that sort of --and then 
+6 you also talked about people playing certain characters on line. I mean, is that sort of 
+7 misdirection in what you say to the public versus what you're saying in private something 
+8 that you see among the Proud Boys? 
+9 A I would say probably. That is probably true, because a lot of guys don't 
+10 really want people to know what we're doing, and so --so they just stay secret. But me, 
+11 for example, when I had a large social media presence or this or that, let's say I was going 
+12 to Miami, I'd show a flight itinerary, flying to New York, and get people --get people riled 
+13 up thinking I'm going to New York City and then just slide into Miami under the radar 
+14 or --or --so I would say the misdirection is a thing. 
+15 Q Okay. In other --so you said that you weren't part of any planning chats or 
+16 group chats about January 6th. Is that right? 
+17 
+18 A 
+Q 
+19 of chats? 
+20 A Correct. 
+Okay. Did you hear about anybody else being involved in any of those sorts 
+I didn't. I --I --God's honest truth, I didn't think there would be one. 
+21 thought guys were going to honor what we were saying in private and --and not go show 
+22 our asses. 
+23 Q Okay. So does the --does the term "Ministry of Self-Defense" mean 
+24 anything to you, MOSD? 
+25 A The only reason I know about what that is, is I think that chat was mentioned  57 
+1 in Enrique's indictment, perhaps. And I was on the phone with somebody yesterday, 
+2 and he was --I hadn't seen the indictment yet, and he was reading it to me, and I was 
+3 going, this isn't good. 
+4 And I'm trying to think if I ever was in that MOSD, but I don't think I was. Like, I 
+5 was thinking very hardly about that last night, because I figured this question would be 
+6 asked. I don't think I was. I'm pretty sure I wouldn't be, but sometimes chats start as 
+7 one thing and change. So I could've been in that chat before it was named that and 
+8 then left it or they removed me or something like that. 
+9 Q Do you --I know we talked about trying to find some of those chats or 
+10 producing them. Have they been deleted? Why --you said you were trying to 
+11 remember if you were on those chats, but were you --would you be able to just pull up 
+12 your phone and look at Signal or Telegram and see if you were on them? 
+13 A I wouldn't be able to. I think, right now, I'm in like four chats. I got my 
+14 Telegram set up, like, if I don't talk somewhere, it just deletes me from it, it deletes 
+15 my --because I don't want --I don't want to get screen shotted and be put on Twitter 
+16 ever again in my life. So I stay kind of private. And most of the time, to be honest, I 
+17 use my phone to talk to people I want to talk to, instead of, like, Telegram, because I'm an 
+18 adult, and nothing I'm going to say is going to be incriminating or illegal. So I don't really 
+19 have a --a hard time just telling people things. 
+20 Q Did --do you recall around that time, the January 6th timeframe, or right 
+21 after January 6th, deleting any chats? 
+22 A I'm going to say I didn't. I don't know --I wouldn't say, oh, January 6th just 
+23 happened and I deleted a bunch of chats, because I --like what I've said many times 
+24 before, I didn't commit any crimes while I was there, so I didn't really have anything to 
+25 hide. If --if they got my phone, you'd just read a lot of bad jokes.  58 
+1 Q Did --leading into January 6th, we've talked about a couple of the different 
+2 leaders around that you're familiar with, or presidents. So, like, Zach Rehl is one of 
+3 them. Were you in --I'm going to go through a couple different individuals, but did you 
+4 talk with Zach Rehl at all leading into January 6th? 
+5 A Good question. Probably. And if I did, it would've been via text message. 
+6 I probably could look --I probably could find that information, but I may --I'm going to 
+7 say my interaction was, hey, if you're going up for the 6th, I'll probably see you some --I'll 
+8 probably see you there. I'm flying in, blah blah blah, blah blah blah. If I had an 
+9 interaction with him, that would've been it. 
+10 Q Okay. Yeah, I might have you --we don't have to do it right now, but I 
+11 might have you go back and look and if you can see if you have texts with Mr. Rehl. 
+12 How about Ethan Nordean, did you have any conversations with him leading into 
+13 the 6th? 
+14 A I didn't even know he was there until I saw that picture you showed me. 
+15 saw that somewhere on the internet and was, like, oh, he was there? I didn't know. 
+16 
+17 Q 
+A Do you know --do you know Biggs? 
+I do. I have a strange relationship with Biggs. We don't have a --like a 
+18 text messaging relationship. We used to follow each other on Twitter a long time ago, 
+19 and we both were in the 82nd Airborne Division, so that's, like, where our bond is. 
+20 Q Okay. And then, sorry, quickly going back to Nordean and Rehl, are you 
+21 aware of fundraisers that they did for January 6th? Does that ring a bell for you? 
+22 A I want to say --I knew the Philadelphia guys were raising money to buy a 
+23 bus. I don't know if that was pertaining to January 6th, so --but I don't know anything 
+24 about Ethan. 
+25 Q Okay. Let's just to try to refresh your recollection or let me know if this  59 
+1 triggers any memories, but if we could pull up exhibit 16, and then we'll go to page 9. 
+2 So what we're pulling up right now, exhibit 16, is that indictment that we were 
+3 just talking about, the one that came down yesterday involving Enrique Tarrio and other 
+4 Proud Boys, including Nordean and Rehl, and some of the other individuals we've talked 
+5 about. 
+6 
+7 So let's go to page 9. Or actually, it should be paragraph 35. 
+Yeah. Let's see, so paragraph 35, I'll read it for the record: On December 27, 
+8 2020, Nordean created an online crowdfunding campaign that solicited donations for 
+9 protective gear and communications to be used by the Proud Boys on January 6, 2021. 
+10 Nordean shared a link to this crowdsourcing campaign on his social media page and 
+11 encouraged others to share it on their social media pages. 
+12 Does that --does that jog your memory at all? 
+13 A It doesn't. Obviously, because I'm reading this, I believe it's true, but I 
+14 wasn't aware of it. 
+15 
+16 Q 
+A Okay. Did you ever hear of any --
+But I'm going to guess --I'm going to guess that was done on GiveSendGo. 
+17 I think I saw a couple of these on GiveSendGo that were similarly worded to that, but I 
+18 don't --
+19 
+20 
+21 Q 
+A 
+Q Okay. 
+--remember Ethan specifically doing it. 
+Okay. You can pull down the exhibit for now. 
+22 Did --did you hear about anybody else raising money specifically for, as that said, 
+23 protective gear or communications devices? 
+24 A I know I saw some, but I can't remember who it was. Like --and I can't 
+25 remember if it was during your timeframe, like the timeframe we're talking about, or if it  1 was before or after. But I know people were sharing them in chats and so I saw them, 
+2 but I can't remember who --who was doing it. 
+3 Q Did --did you ever talk to anybody about why they were raising money for 
+4 communications devices or protective gear? 
+5 
+6 A 
+Q Probably not. More than likely, no. 
+Okay. Did you ever hear anybody talking about buying, like, radios or 
+7 communications devices like that? 
+8 A I know my --like, some of my guys were like hip into buying some sort of 60 
+9 radios, and I was like, why do we need radios because we got these things? I'm holding 
+10 up my cell phone for the court reporter. Like, these are just as good as radios. And 
+11 they were --something about they could jam. I'm like, well, they can jam your radio 
+12 too. Don't you know anything about communications: Like, they can jam your cell 
+13 phone, they can jam your radio. 
+14 So we know --like, I never bought any. I know one or two dudes that bought 
+15 radios. And the weird part about it is they got --I want to say they got the idea from 
+16 antifa, because that's how antifa was communicating was with little --they look like little 
+17 learn radios that we used to use in the Army. 
+18 
+19 
+20 
+21 
+22 Q 
+A 
+Q 
+A 
+Q Was it --
+1 don't know what the brand of them or anything. 
+BaoFeng, does that sound familiar, BaoFeng radios? 
+That does. 
+Do you know where your other --so I assume you mean other people in the 
+23 Music City chapter. Do you know where they would've gotten the idea or heard the 
+24 message that other Proud Boys were buying these radios? 
+25 A When you --I want to say probably that November rally. That --for some  61 
+1 reason, that's when the --it was trendy to have a radio on your body armor. So I think 
+2 that's --it was more of a "I want to fit in" rather than a "I need this radio to talk." 
+3 Because just from memory, if memory serves me right, them guys trying to use 
+4 those --those radios was a shit show. They didn't know what they were doing. They 
+5 didn't know how to fill them. They didn't --they didn't know how to operate the 
+6 equipment. So the radios, now they just were carrying them around and they weren't 
+7 able to talk on if --and I want to say that was at the December rally that I was at. 
+8 don't --I'm sure radios existed on January 6th, but I didn't see anybody with them. 
+9 Q Okay. Is there anything else like that --so you're talking about how radios 
+10 were used in November and kind of became in style or everybody felt like they wanted to 
+11 get a radio. Were there any other kind of strategies or --or gear or anything that 
+12 happened in the November, December rallies that you saw carry over into the January 
+13 rallies, kind of like those radios? 
+14 A I don't think so. I'm trying to remember when body armor became trendy, 
+15 but I think that was way prior to anything that happened in D.C. 
+16 Q Okay. We just talked about the radios quickly, but when you were in D.C., 
+17 were you involved with anybody trying to program their radios for particular frequencies, 
+18 or do you remember any conversations or meetings about that? 
+19 A I know they were doing it. I wasn't --I wasn't around them, but I'm aware 
+20 that happened. It didn't happen in my room. I don't know --excuse me --I don't know 
+21 where it happened, but just when you're walking around a bunch of dudes, I have --I 
+22 heard, like, hey, we got to --we got to fix these radios tonight or we can't --or we're not 
+23 going to be able to talk. 
+24 And that's when I --that's when I found out they actually had like fills in them and 
+25 stuff. I thought they were just like, you know, talk about radios. Like, I didn't  62 
+1 understand they actually had encryption. I thought that was neat, but I didn't 
+2 understand the purpose for it. 
+3 Q Do you remember, was it guys in your chapter that you heard those 
+4 conversations --were having those conversations? 
+5 A No. Because in my room, we didn't have --we didn't have any radios, 
+6 so --Todd might've. I don't think he did. I think he got his radios after January 6th. 
+7 I --I can't remember, but I don't --there wasn't any talk about filling the radios or this or 
+8 that around me. 
+9 Mr.- Okay. Great. We've been going for about another hour now. 
+10 Why don't we take a quick break. It's 4:22. Let's come back at 4:30. How's that? 
+11 
+12 
+13 
+14 
+15 
+16 The Witness. Got you. 
+Mr- Okay. Great. 
+[Recess.] 
+Mr. - So we're back on the record. 
+BYMR.-
+Q I wanted to ask you about a couple other people that you might've been in 
+17 contact with before January 6th. One of them is Amy Harris. Do you know Amy 
+18 Harris? 
+19 
+20 
+21 her? 
+22 A 
+Q 
+A I do. 
+Okay. And what --what's your relationship with her or how do you know 
+I want to say I met Amy in December at the --at the rally. Enrique 
+23 introduced me to her, and we just kind of maintained conversation. She's actually from 
+24 Clarksville, Tennessee, originally. So that's our odd bond. And every now and again, 
+25 we'll go get lunch or something like that. But all I'm --from what I understand, she's  1 working on writing a book or something --
+2 
+3 
+4 Q 
+A 
+Q Okay. 
+--or maybe perhaps some sort of documentary. 
+Can you --leading into January 6th, were you talking with her at all about 
+5 plans or what January 6th was going to be like? 
+6 A I don't think so. Probably not, because --I think we exchanged phone 
+7 numbers in December. And I can't remember what we talked about, but I don't think 63 
+8 we talked about January 6th. Maybe there was a message exchange where I asked her 
+9 was she going to be there or something along those lines. 
+10 And now that I'm thinking about it --you jogged my memory a little bit --we were 
+11 talking, because she knew when I was flying in, she knew when I was flying out, things of 
+12 that nature, but not --I wouldn't say anything about planning. It was more we were 
+13 giving each other our itineraries. 
+14 Q Okay. Did you ever --had --but other than December and then in January, 
+15 had you met her in person in between? 
+16 A I don't think so, just because the timeline would've been so tight. We 
+17 did --we did have lunch, but I think it was after the 6th. I believe it was after the 6th. 
+18 Q Okay. And then let's talk quickly about coordination with other chapters of 
+19 the Proud Boys. Were you --were you in communication with any other presidents or 
+20 any other chapters about your plans to go to D.C. on the 6th? 
+21 A As previously stated, maybe Zach Rehl --I'm not sure on that --Enrique 
+22 Tarrio. I don't think any --any other people of note that I was in contact with about my 
+23 plans. I was --I was --when Enrique got arrested that first time, I actually was scared 
+24 that they were going to arrest me because I was the orange shirt guy. 
+25 There was folklore on the internet that I was the leader of the Proud Boys because  64 
+1 I had the different clothing on, you know. But --so --to be completely honest and 
+2 truthful, I was terrified, I've been terrified since this morning that I was going to be 
+3 arrested. 
+4 Q When you say --when you're talking about Mr. Tarrio getting arrested the 
+5 first time, you mean January 4th, and the second time was yesterday? 
+6 A Correct. When he got arrested for the --allegedly burning a Black Lives 
+7 Matter flag and having the high-capacity magazine, that arrest. 
+8 Q Okay. Yeah, we're going to talk about that in one second. 
+9 What were --what were your conversations like with Enrique leading up to the 
+10 6th and about plans for the 6th, what were you guys talking about? 
+11 A I don't think we talked a whole lot, but I remember shooting him a text. 
+12 I'm pretty sure I shot him a text where it said, hey, dude, I'll see you this evening, or 
+13 something like --something along those lines. And I forgot that he didn't drink alcohol, 
+14 and I had bought him a Single Barrel Jack Daniels from the airport just as a --a gift, which I 
+15 never was able to give him. But then he --he did tell me, dude, you know I don't drink. 
+16 And I went, I forgot, dude. So that was --that was about the extent of our conversations 
+17 about January 6th. 
+18 Q Okay. Did any other --I'm going to name a couple different organizations 
+19 and groups quickly, and just let me know, one, if they mean anything to you, and, two, if 
+20 you had any communications with them leading into January 6th. The first is an 
+21 organization called Women for America First. 
+22 
+23 A 
+Q I know who they are. I've never spoken with them. 
+Okay. And then there's --there's an individual associated with Women for 
+24 America First named Charles Bowman. Does that name mean anything to you? 
+25 A No.  65 
+1 Q Did --we've talked about Oath Keepers already. Did you ever --were there 
+2 any particular Oath Keepers that you ever met or that you knew personally? 
+3 
+4 A 
+Q I've never met an Oath Keeper, to my knowledge. 
+Okay. How about 1st Amendment Praetorian, does that group name mean 
+5 anything to you? 
+6 
+7 A 
+Q Sounds pretty Nazi, but I don't know anything about them. 
+Okay. And some of these are not --you know, I'm not asking if you're 
+8 associated with them. Some of it also is just, did you hear people talking about these 
+9 groups. 
+10 How about --so I know you said there was an online feud between Proud Boys 
+11 and Three Percenters. Did --did you ever talk to any Three Percenters or hear of 
+12 anybody communicating with Three Percenters? 
+13 A I actually had communication with a couple Three Percenters in Tennessee. 
+14 Don't know what their names are because I forgot. I probably could scroll through my 
+15 phone for 3 days and find it, but I --I wasn't impressed, and they were kind of weird. 
+16 And what I can tell --what I gather about the Tennessee Three Percenters and the Patriot 
+17 movement is they're really divided too. Like, they have their really psychopath guys that 
+18 want to train every day, and then they have their guys that just kind of want to be in a 
+19 men's club and go hunting and fishing together. 
+20 
+21 
+22 Q 
+A 
+Q Do you know, it's a --a Proud Boy named Robert Gieswein? 
+I want to say yes, but I'm not --I'm not sure. 
+Okay. He --there's --there's photos of Robert Gieswein, and he's using 
+23 signals or hand signals that are associated with Three Percenters. So you don't know of 
+24 any overlap between Proud Boys and Three Percenters? 
+25 A I don't --I don't think there --if there is some overlap, there's not a whole  66 
+1 lot, but I'm not aware of it. 
+2 Q Okay. How about any other --any other militia groups that you know of 
+3 anybody coordinating with? 
+4 A I don't think they're coordinating with the militia groups. Like I said before, 
+5 there may be some --some sprinkled overlap, but I would --I would not say that dudes 
+6 are coordinating with those --because those guys, those militia guys kind of rub a lot of 
+7 dudes the wrong way because they have whacky ideas and plans, and that's how you go 
+8 to jail. 
+9 
+10 Q I'll --there's a --actually, if we can pull up exhibit 19 again. 
+This was the photo that we looked at earlier of Nordean, but I'll pull it up for a 
+11 different reason now. If we zoom in a little bit, that guy on the right, he's labeled as 
+12 Birdsong? 
+13 
+14 A Yeah. 
+Q He's associated with a group called the Panhandle Patriots Riding Club. 
+15 Have you ever heard of Birdsong or the Panhandle Patriots Riding Club? 
+16 
+17 
+18 A I have not heard of either. 
+Q Okay. You can pull that one down. 
+All right. And then also sort of in the lead-up to January 6th and any planning or 
+19 preparation, I know you said you talked to Enrique. Did --did you ever hear about him 
+20 talking about the importance of marching on the 6th, like, getting into marching order or 
+21 a marching line? 
+22 
+23 A No. 
+Q Okay. And then did you ever hear --so, actually, let's --I'm going to show 
+24 you a video, if we can pull up exhibit 14. 
+25 And, again, I kind of want to use this to, one, either jog your memory or let me  67 
+1 know if you ever heard of any conversations that sound, you know, sort of like what 
+2 Enrique, and this is Amy Harris, if you recognize her in the video. 
+3 You can go ahead and play the video. 
+4 [Video shown.] 
+5 Mr- Can you hear that? 
+6 The Witness. I can't. 
+7 Mr.- Let's --let's pause that real quick, and if we can turn up the volume, 
+8 and then, Matthew, if you can turn up the volume on your computer. 
+9 
+10 
+11 
+12 
+13 
+14 
+15 The Witness. Okay. I'm up. 
+Mr. - Okay. I think we can --let's try it again. 
+[Video shown.] 
+Q 
+A 
+Q BYMR-
+Okay. So that --I don't know, were you able to hear most of that? 
+Yeah, I think I got most of it. 
+Okay. So one of the things I wanted to ask you about is that Tarrio there 
+16 talks about a meeting that was 2 hours or longer, and where he spent at least half --30 
+17 minutes of that meeting drilling Proud Boys about marching on the 6th. I take it that 
+18 you didn't participate in that meeting. Is that right? 
+19 A No. And I think that --that meeting, just to provide commentary, what is 
+20 Enrique Tarrio going to teach a bunch of combat veterans about marching? Nothing. 
+21 You know, so that --again, I think that was for show. I don't know. Because most of 
+22 those guys that are in your photograph that I know are combat vets, so they served. 
+23 They got a couple years in the armed services. 
+24 Q Does it surprise you that there was this long 2 or 2.5 hour meeting that you 
+25 weren't involved in or didn't know about?  68 
+1 A It doesn't surprise me at all, because I probably was on an airplane, and, 
+2 again, like I --like I keep reiterating, they wouldn't invite me to that. I just show up and 
+3 drink beers and --and have an attractive young lady on my arm that night. That was my 
+4 involvement in the club. 
+5 Q Understood. Okay. We're going to --over the next, you know, 20, 30 
+6 minutes, I'm going to show you some more things that are kind of like this video and that 
+7 are some of the --the chats that we've talked about, like the MOSD chat and that sort of 
+8 thing. 
+9 And so I understand that you weren't on these chats, but what I want to get from 
+10 you is your perspective on those chats and then also whether or not the things that 
+11 Enrique Tarrio's talking about, see if you can add some color to those for me, if you ever 
+12 had conversations like that with him. 
+13 So if we can pull up exhibit 16, and this is the indictment again. And let's go to 
+14 page 11, paragraph 38. 
+15 And at any point, Matthew, if you want to take a second to be able to read what 
+16 we're looking at, I'm going to point out particular parts and you can read them, but just 
+17 let me know if you need more time or want to see something around for context. 
+18 
+19 A 
+Q Yes, sir. 
+So looking at 38, I'll give you one second --or a little bit of time to read 
+20 paragraph 38, and just tell me when you're done. 
+21 
+22 
+23 to that. 
+24 A 
+Q Okay, I've read. 
+And then there's a little bit of paragraph 38 on the next page, if we can scroll 
+Okay. So I just wanted to ask, generally we've talked about Mr. Tarrio's public 
+25 persona, where, you know, you say he might put something out there just to mess with  69 
+1 the media or mess with antifa. But these are chats --private group chats with just Proud 
+2 Boys. This particular chat is called MOSD Prospective Group. And so I just want to get 
+3 your understanding of this or your reaction to it really. 
+4 He specifies we'll have a top-down structure. This was a chat on December 29th, 
+5 and he's talking about a virtual meeting on December 30th. And he describes this 
+6 top-down structure. If that's something you're not comfortable with, then they should 
+7 just not attend the live session. 
+8 What do you think --what's your reaction to these private messages that Tarrio 
+9 was arranging, that I know you weren't involved in, but if you can just respond to those? 
+10 A Okay. Like, my first --my initial knee-jerk reaction to this is it appears as if 
+11 he was trying to establish a command and control, and perhaps if these guys had a, 
+12 quote/unquote, chain of command, that now they would be better managed and it 
+13 wouldn't potentially turn into a shit show, for lack of better terms. They would just be 
+14 more organized. That's my initial knee-jerk reaction to that. 
+15 Q Okay. And then if we can roll down --scroll down to paragraph 41, and I'll 
+16 give you some time to read it. 
+17 
+18 
+19 
+20 A 
+Q 
+A 
+Q Which one? 41? 
+Yep, 41. It's the one that's on the screen right now. 
+Oh, that's the Oath Keeper who'd sent that. 
+Do you know --sorry --do you know that? Or tell me how you know that's 
+21 an Oath Keeper. 
+22 A Apparently, after this, there was some meeting in a garage. This was 
+23 explained to me yesterday as --as I was going through this indictment with a friend of 
+24 mine. He was kind of giving me the --giving me the CliffsNotes of it. And I remember 
+25 this, and he was able to identify who that guy was.  70 
+Q Okay. Would you recognize the name if I told you? 
+A If you said it, I would recognize it. 
+Q Was it Stewart Rhodes? 
+A Stewart Rhodes, that's it, that's right. 
+Q Okay. And is the friend that you were talking to a Proud Boy? 
+A Yes. 1 
+2 
+3 
+4 
+5 
+6 
+7 Q Okay. And did he have --did this person know, like, for a fact that that was 
+8 Stewart Rhodes, or --or he was just speculating? 
+9 A I don't know how he knew. I remember --I remember him telling me about 
+10 it yesterday. And he --what stuck out to me is the nine-page document titled "1776 
+11 Returns." That's --I remembered that from that conversation --
+12 Q Okay. 
+13 A --and the Stewart Rhodes name. 
+14 Q Was --is the person that you had this conversation with somebody that was 
+15 at January 6th? 
+16 
+17 A No. I don't think he's ever went to a rally ever. 
+Q Okay. Did --did he say or have you ever heard of anybody actually having 
+18 this nine-page document, 1776 Returns? 
+19 A No. He was kind of caught in a --like, I don't know how he knew so much 
+20 about it right away, but he was kind of taken aback by it, by the notion that this and the 
+21 potential meeting in a garage occurred. 
+22 Q Okay. Do you --have you ever heard anybody else talk about this 1776 
+23 Returns document? 
+24 
+25 A The first time I heard about it was because of this document. 
+Q Okay.  1 
+2 A 
+Q It was yesterday, is when I heard about it. 
+Okay. Let's --and then I guess I'll just also take kind of your take or your 
+3 reaction to --to this paragraph. Does it surprise you that Tarrio was in communication 
+4 with Oath Keepers and exchanging documents like this? 
+5 
+6 A 
+Q It does, but --it does surprise me. 
+Do --have you --did your friend discuss or have you had any other 
+7 conversations about any other Oath Keepers that you can remember? We mentioned 
+8 Kelly Meggs before. I think you said that name didn't ring a bell, right? 
+Yeah, I don't know that name. 
+Okay. Any other --71 
+9 
+10 
+11 A 
+Q 
+A 1 don't know --the only Oath Keeper I know is that Stewart Rhodes guy, and 
+12 the only reason I know his name is because I heard it yesterday. 
+13 
+14 Q Okay. Okay. We can take the indictment down for a second. 
+Let's talk about your heading up to D.C. for January 6th. Who did you --who did 
+15 you travel with and who did you --or when did you arrive in D.C.? 
+16 A I --I traveled alone. I flew on an airplane to get there, and I think I actually 
+17 landed in D.C., if I'm not mistaken, and I arrived in the neighborhood of noon, in the 
+18 proximity of noon. 
+19 
+20 
+21 
+22 Q 
+A 
+Q 
+A Sorry, on what day? 
+On the day of the 6th. 
+Okay. 
+So I was a little late to the show because there was a flight issue the night 
+23 prior. I was supposed to be there on the evening of the 5th, but I didn't arrive till the 
+24 morning of the 6th. I got there --
+25 Q Oh, sorry, go ahead.  72 
+1 A I got there, I got on the --whatever the little train thing is called --I think it's 
+2 the Amtrak --and I rode --there's a get-off point like by the Marriott, if I'm not mistaken. 
+3 I got out there, linked up with a couple of my buddies, and I was starving, so we went to 
+4 go to the --Harry's to get a burger. 
+5 Q Okay. Let's stop there for a second. Maybe I had misunderstood you or 
+6 misheard you earlier. I thought you had said that you were with Tarrio on the 4th when 
+7 he got arrested or you were with him when he got arrested, did you say? 
+8 
+9 
+10 6th? 
+11 
+12 
+13 
+14 
+15 A No, that's --that's incorrect. 
+Q Oh, okay. Okay. So you arrived then, sorry, you said around noon on the 
+A Yes. 
+Q Okay. And who were the folks that you met around the Marriott? 
+A Dudes from my local chapter. 
+Q Okay. And they had traveled up separately? 
+A Yeah. They --there was like a caravan of tour buses coming from 
+16 Tennessee apparently. They were with that crew. 
+17 Q Okay. But it sounds like you were aware of Tarrio's arrest on the 4th. Did 
+18 that affect your plans at all, or how did that --or tell me how that affected your plans. 
+19 A I almost didn't go because I, again, was terrified to fly into a city that I 
+20 thought was going to arrest me. But then I said, I already paid for the thing and I 
+21 haven't done anything illegal, so I'll just go. So, no, him being arrested really didn't alter 
+22 my plans at all. 
+23 Q Okay. And then for the folks that came up on the caravan of buses that you 
+24 talked about, the tour buses, do you know anything more about that --that group of 
+25 buses? Was it associated with a particular group, or how did that get organized?  73 
+1 A Complicated answer, because there were probably 10 different groups that 
+2 were involved, like --like, there was a church group. There was --there was all sorts of 
+3 people that I would say weren't --weren't there to get violent, that were mainly involved 
+4 in the organization and plan of that. I don't know who actually did plan it. 
+5 Q Okay. So on the --on the day of the 6th, are you aware --it sounds like you 
+6 arrived a little too late, but are you aware of a meeting of Proud Boys at the Washington 
+7 Monument in the morning of the 6th? 
+8 
+9 
+10 A I'm not. 
+Q Okay. 
+A I don't think I'm aware of that, so I'm going to say --I'm going to continue 
+11 with no on that. 
+12 Q Okay. Once you arrived --actually, let's --let me pull up exhibit --if we can 
+13 pull up exhibit 11. 
+14 These are some of the photos I'm sure you've seen that are publicly available and 
+15 on line. 
+16 
+17 A 
+Q Oh, yeah. Yeah, I've seen all those. 
+Is this --is this the group of people that you met up with? Or tell me about 
+18 this photo. 
+19 A The original people I met up with were the gentleman on the left and the 
+20 guy in the black hoodie in the back. And I know Curt from --from here. 
+21 
+22 Q Okay. 
+A But he wasn't at the --the original link-up for the hamburgers. It was just 
+23 the guy in the back and the guy on the left. 
+24 Q Okay. And so that's --and just for the record, in the photo, it's --there's 
+25 three individuals holding up a hand sign, and that's the Proud Boys hand signal, right?  1 
+2 A Yeah. 
+Q Okay. And so there's three of you. Who are the other two that are 
+3 holding --the other two Proud Boys? 
+4 
+5 A I'm --I'm sorry. Which --
+Q Who are the other --the other two that are holding up the hand sign, who 
+6 are they, or what are their names? 
+7 
+8 A 
+Q Do I have to tell you their names? 
+It is a deposition. You're obligated to answer all the questions that I'm 
+9 asking, unless you've got some sort of privilege objection to it. 
+10 So I'll ask you to name them. I will tell you that, based on what you've told us, 
+11 we're unlikely to follow up with these folks, but if you would name them, that would be 
+12 appreciated. 74 
+13 A Brad --Brad --Bradford Lewis is the gentleman on the left. The gentleman 
+14 in the back with the hand sign is Jeffrey Riggs. 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 Q Okay. 
+A And --
+Q And --oh, go ahead. 
+A And the guy with the --the large, huge Black man is Curt Dennis. 
+Q Okay. And you --and you said you know him from D.C.? 
+A I know him from Nashville. 
+Q Oh, from Nashville, okay. 
+So it looks like, from this photo --and obviously we've looked at that other photo 
+23 of Nordean and others marching. But given the time of your arrival on the 6th and this 
+24 photo, it doesn't look like you marched to the Capitol with other Proud Boys, is that right, 
+25 other than these two?  75 
+1 A Correct, yeah. We --we --and I was --I was with Alex Jones also, for --for 
+2 honesty. 
+3 
+4 Q Okay. How did you join up with that group? 
+A We were in that hamburger joint and somebody came in here --came in and 
+5 said, Alex Jones is right around the corner and he's walking to the Capitol. And we were, 
+6 like, let's see what this is about, this should be interesting. So we just kind of joined 
+7 that --that rank and file. 
+8 And I got separated from all these folks while I was at --like, the first time they 
+9 shot the smoke canister, the CS canister at Alex Jones when he was standing up on a table 
+10 or something, trying to disperse the crowd. After that, I didn't see these folks, until this 
+11 picture, again. Because they stayed back, because they had the women and stuff like 
+12 that, and they didn't want to get involved in what was happening next. 
+13 Q Right. Did --1 know you mentioned your fellow chapter member Todd, 
+14 who got stabbed on December 12th, was also in D.C. for January 6th. Did he march 
+15 with --
+16 
+17 
+18 A No. 
+Q Oh, he wasn't? 
+A That's in --he was --he had an open hole in his --in his body that would 
+19 prevent him from traveling or walking at that time. 
+20 Q Okay. I was going to ask about that. I was going to say, that would be a 
+21 quick recovery. 
+22 Okay. Were there any other members of your chapter that did march with that 
+23 larger group of Proud Boys that marched down the Mall towards the Capitol? 
+24 A I don't think any of us marched with a large group of Proud Boys, to my 
+25 knowledge.  76 
+Q Okay. 1 
+2 A If they would've marched with them, they wouldn't have been able to link up 
+3 with me at like 12:30, you know. Does that make sense? 
+4 Q Right, yeah. Understood. So then were there any more members of your 
+5 chapter other than these two there on the 6th? 
+6 A Yes. And I'm --I'm trying to think who, but I'm having a brain flub, because 
+7 a couple of them I had just met that day. Like, they had known other guys, and I had 
+8 met them just that day. So I want to say there were probably four or five more --
+9 
+10 
+11 Q Okay. 
+A --making the total in the neighborhood of 10 probably, counting me. 
+Q Okay. And you all were part of this group that met up around 12:30 and 
+12 separately walked with Alex Jones towards the Capitol, not with a larger group of Proud 
+13 Boys? 
+14 
+15 A Correct, sir. 
+Q Okay. Did --was that planned? Was that intentional? Did you not want 
+16 to walk with the other Proud Boys or --or how did that end up happening? 
+17 A To be completely honest, I think it was a logistical problem, to be completely 
+18 honest, because I believe the buses that they rode in on were a little late to the party, and 
+19 they didn't fully understand how to get to, like, the Harrington. Like, the link-up point 
+20 was always the Harrington for my crew so we could then go all together. 
+21 And my flight was a little late. Their buses were a little far. So I think, to be 
+22 completely honest, it was a logistical issue and kind of, as I previously stated, we weren't 
+23 really there to tear shit up. We were there just to, like, be there together. 
+24 Q Okay. Were you in touch with any of the Proud Boys in the other group, 
+25 like, on the day as you were walking towards the Capitol?  77 
+1 A The only person I talked to that day was --and I don't know his real name, 
+2 but you'll probably know it. Yut Yut was --and it was because Amy Harris lost her cell 
+3 phone. And --
+Okay. 4 
+5 
+6 
+7 Q 
+A 
+Q 
+A --he called me to check that that was hers and see if I knew where she was. 
+Okay. Were you in touch with Amy Harris on the 6th? 
+Sporadically. The plan was for us to meet up together, but we never were 
+8 able because the communication was so bad because there were seven million cell 
+9 phones in a square block. So the cell --the cell phone reception wasn't good enough for 
+10 us to be able to talk. So we didn't link up, but I think we shared a few text messages. 
+11 Q Okay. What did you --what did you guys text about? 
+12 A Hey --probably, hey, where are you. There was probably an exchange of, 
+13 like, this is crazy, something along those lines. 
+14 Q Okay. But you --but that was just by regular text message, not an 
+15 encrypted channel or anything? 
+16 
+17 A 
+Q I'm --I'm pretty sure the answer to that is yes. 
+Okay. Let's look at --well, actually, why don't you just explain to me kind of 
+18 your movements on that day, and we'll go all the way through your experience at the --at 
+19 the Capitol itself. 
+20 So you leave the burger joint, you hear that Alex Jones is marching towards the 
+21 Capitol, and that sounds interesting to you. So your group goes and kind of meshes with 
+22 him. And then what happens? Just take me through your day. 
+23 A I wish we had a map. I used to have a map. But we left the Harrington 
+24 and turned left, went up to whatever the next road is, turned left on that road. I want 
+25 to say 19th Street, maybe, or 9th. I think it was something with a 9 in it. We walked  1 straight down that street. Then there was some sort of like roundabout kind of deal 
+2 before the Capitol that we funneled through. And we were in the grassy field on the 
+3 side of the Capitol that had the scaffolding, that they were --
+4 
+5 
+6 Q 
+A 
+Q Okay. 
+--they were doing some construction or something on. 
+Yeah. On the west side. 
+7 A And I was standing there, and Alex Jones was doing Alex Jones things with 
+8 bullhorns. I can't remember what he was saying. But then they --I started hearing 
+9 maybe some sort of riot control rounds. It sounded like maybe some rubber bullets 78 
+10 were being shot, and I could smell the tear gas in the --in the air. Like, one landed right 
+11 next to us. And I think some flash bangs were being utilized as well. 
+12 So, to my recollection, Alex Jones was yelling on that bullhorn, telling people to 
+13 settle down or Trump was never going to come here and speak, they got to stop this, they 
+14 got to stop, yada yada ya. 
+15 But then we went around the building, like, we went around the left side if you 
+16 were looking straight at that scaffolding --
+17 
+18 Q 
+A Okay. 
+--and we were in that open area in the back. The rumor --the rumor in the 
+19 crowd is that's where Trump was going to talk from, was up there. So we're sitting back 
+20 there, and Alex Jones goes and he's talking to the Capitol Police, and he's saying, hey, if 
+21 you let me up them stairs, I probably can get --I probably can get them down. So 
+22 they --they agreed, and we went up them --Alex Jones' security, some other people, and 
+23 me for some reason, just because I --I thought that would be a good idea, went up the 
+24 left stairway, the one that had been kind of breached. 
+25 We went up there, and Jones, in my opinion, was successful in getting people  79 
+1 down. But I also think that may have created enough space for people to be able to 
+2 move, whereas before you couldn't move. And I think we were up there, and Jones' 
+3 security guy said, Alex, they're going to blame this all on you, we got to get out of here as 
+4 fast as possible. So we started down the stairs. 
+5 At that point, I think I heard about three or four flash bangs go off, and I looked at 
+6 the guy next to me, and said, F this, bullets are coming next. Like, I understand how this 
+7 works, bullets are coming next. And I got out of there, went --if you turn left off them 
+8 stairs, I walked straight through there to a road. There was a bunch of food trucks on a 
+9 road, and I ate the crappiest hamburger I ever had in my life, and linked up with those 
+10 guys, and we started walking back because everybody was getting these text message 
+11 alerts, hey, curfew, curfew. 
+12 And we stopped and took pictures with Lady MAGA on the way out and went 
+13 straight to the buses. And I --I said, hey, guys, can I just ride back with you all? I don't 
+14 really feel like --I don't know how I'm going to be able to get to the airport. 
+15 
+16 
+17 
+18 Q Okay. 
+A And I rode back on the bus. 
+Q Okay. Let's pause there. Just a couple questions about that. 
+So it sounds like at some point, you were pretty close with Alex Jones and his 
+19 security group. How long did you stay with them, if you can guess, at the time? 
+20 
+21 
+22 
+23 
+24 A An hour. 
+Q Okay. 
+A 
+Q 
+A Maybe an hour. An hour at the most, I'll say it that way. 
+Did you --did you talk to his security group? 
+I talk --I remember talking to one of them, saying, man, this is wild, and he 
+25 goes, yeah.  80 
+Q Okay. 
+A He goes, yeah, it is. 1 
+2 
+3 Q You don't know --you don't know who it was that was providing his security, 
+4 like, if it was a particular company or a particular group? 
+5 A They looked like a professional company. It wasn't like dudes on the street. 
+6 It was guys that were paid to --to do security. 
+7 Q Okay. Let's pull up exhibit 12. This is another one of those photos that 
+8 I'm sure you've seen that's publicly available. This one, you're closer to the Capitol, on 
+9 the steps. And is that --that's Alex Jones in the background? 
+10 A Yes. 
+11 Q Okay. And so is this once you've --this is once you've come around to the 
+12 east side of the building, and you guys have gone up the steps? 
+13 A Yeah. That's --the far left steps on the --on the, as I'll keep referring to it, 
+14 the back side of the building. 
+15 
+16 Q The back side? 
+Okay. And at this point, you were separated from your other three friends from 
+17 your chapter? 
+18 
+19 
+20 
+21 
+22 
+23 A 
+Q Correct. 
+Is that right? Okay. 
+At what point did you separate from them? 
+A Remember the --when I talked about the flash bang or the smoke grenade --
+Q Yeah. 
+A --which was on the west side of the building? I don't --I don't remember 
+24 seeing them after that. 
+25 Q Okay.  81 
+1 A And I could've --I could've lost them before there. It might've been in that 
+2 roundabout, but I remember very much so that at that point I looked around to see 
+3 where everybody was, and they were not with me.  82 
+1 
+2 [5:13 p.m.] 
+3 BYMR.-
+4 Q Okay. So I know you mentioned that you were following Enrique Tarrio on 
+5 Parler around this time. Were you checking your phone during the day and looking at 
+6 anybody's tweets or Parler posts? 
+7 A The reception was so poor that nothing was happening. I think I tried to 
+8 look at Parler at one point and it just kept like the spinning wheel of death was 
+9 happening. So I don't think I was able to see anything. 
+10 Q Okay. Did you have any conversations with Tarrio after the 6th, either later 
+11 that day or shortly after? 
+12 A I might have text him that evening --actually, I think I did text him that 
+13 evening, saying, "Hey, I'm out of here. I won't see you this time, buddy. The curfew, 
+14 I don't --I just had to get home." Something along those lines is probably what we said. 
+15 Q Okay. So you, after you leave the Capitol Building --or the steps of the 
+16 Capitol Building --you met back up with your group around the food trucks, went back to 
+17 the bus, and then just took the bus back to Tennessee that night? 
+18 
+19 A Correct, sir. 
+Q Okay. When you got separated from your friends, did they tell you what 
+20 they did instead of following Alex Jones? 
+21 A They --there was --where that picture was taken, the one of us, that's at an 
+22 intersection. And they said they just hung out there. 
+23 Q Okay. Did, other than Tarrio, did you talk to any other Proud Boys either 
+24 that night or shortly after about kind of what happened that day? 
+25 A I think we --the guys on the bus, like, we had a conversation about it. But I  83 
+1 don't think I talked --I don't believe I talked to anybody else, because we were just having 
+2 a good --you know, we were on a luxury coach tour bus. We were just having a good 
+3 time at that point. 
+4 Q Gotcha. Understood. 
+5 Let's talk quickly about --so I want to go through a couple more, now that we've 
+6 kind of gone through your account of the day, I want to look at a little bit more of what 
+7 Tarrio was posting on that day and then some more of the messages in those MOSD chats 
+8 that we talked about, and, again, just sort of to get your reaction. 
+9 I understand you weren't on those messages, but we're just trying to 
+10 understand --part of our mission is just understanding everybody's mindset, what led 
+11 them to do and say these things on the 6th. 
+12 And so, if we could pull up --one second. It's exhibit 15. Sorry, 15, not 16. 
+13 Yes. And then if you can scroll down. Keep scrolling. And stop right there. Hold on 
+14 one second. That will be on page --okay, yeah, if you scroll down a little bit more, the 
+15 next tweet. 
+16 So I'm just going to point a couple of these out and then we'll talk about them. 
+17 So these are Tarrio's posts to Parler on the 6th. So during --and this is from the 
+18 indictment. I'm giving you some times, but this is around 2:30 or so that Tarrio posts, 
+19 "Don't fucking leave." 
+20 And then, if you continue to scroll down. Hold on one second. You can pause 
+21 the scrolling. It's page --let's --I'm going to take a second and find the one that I was 
+22 looking for. We can take this down for one second. 
+23 I can actually just tell you. There's another message from Tarrio that says that 
+24 patriots are in the Rayburn Building. Rayburn is one of the House Office Buildings, not 
+25 the main Capitol Building.  84 
+1 And then I want to go back and think about that 1776 document that we talked 
+2 about, "1776 Returns." And we can pull up the indictment again if you want to. But 
+3 just to remind you, there was talk about occupying certain buildings around the Capitol. 
+4 And then Tarrio posts this message on Parler that says there are patriots in the Rayburn 
+5 Building. 
+6 I mean, after seeing some of the MOSD chats that we looked at, and we can look 
+7 at a few others, and seeing Tarrio's posts on Parler about occupying the Rayburn Building, 
+8 and then his encouraging people to stay at the Capitol on that day, again, I just kind of 
+9 want your reaction and maybe if you can give me insight into what you think Tarrio was 
+10 doing or thinking. 
+11 But it certainly seems like from the MOSD chats that he was organizing a group of 
+12 Proud Boys to march on the Capitol that day and you were left out of those plans. What 
+13 are your thoughts on that? 
+14 A I'm glad I was left out of those plans or there would --I'd be probably sitting 
+15 next to you today, rather than being talked --being allowed to talk to you on the internet. 
+16 But I also think a lot of those parlays or --is it okay if I just refer to them as tweets, 
+17 because --you know, like the Parler stuff? 
+18 Q Sure. Yeah. We'll call them Parler posts, how about that, just so the 
+19 record's clear. 
+20 A A lot of those Parler posts, you're seeing, quote, unquote, the big bad 
+21 boogeyman talking. You're not --you're seeing --you're seeing that character. You're 
+22 seeing that "I'm misleading you" guy. 
+23 Now, with the MOSD chat, I don't know. I don't know what was in those guys' 
+24 heads. I don't know why they would comment or talk about some of the stuff they said, 
+25 because they had to know that was going to get found out. A smart man would know  85 
+1 not to say that via text message, they'd say it with their own mouth or something. 
+2 Q So mostly you just are kind of confused by those and it seems just like a 
+3 stupid thing to do? 
+4 A It --it was --it's an emotional thing. It's a reckless thing. It's not a wise 
+5 thing. Yeah, it's not a wise thing to do that. That's what I believe about that. 
+6 Q Okay. I'm going to ask just a couple quick questions, sort of more 
+7 ideological-based questions or about what your feelings were about the election. And 
+8 then also my colleague,_, who's right here but he'll appear on camera, is going to 
+9 have some similar questions. 
+10 
+11 
+12 Can you hear me? I'm seeing a spinning wheel on your screen? 
+A 
+Q Yeah. I gotcha. 
+Okay. So the first one, the first kind of topic that I just wanted to cover 
+13 quickly is your feelings about the election and election integrity. 
+14 Did you have concerns? I know you said you attended some Stop the Steal rallies 
+15 and then obviously January 6th. What were your feelings about the election? 
+16 A He lost, fair and square, you know. And I think there was a little political 
+17 spin there that first night that was also reckless by media commentators and stuff like 
+18 that, saying, "Oh, they stole this from him." 
+19 Detroit every year, Philadelphia every year it takes them a couple days to do their 
+20 thing. Like those large cities, those are a lot of votes to calculate, tabulate. And I don't 
+21 know, but I think there was a lot more paper involved this year than there normally is. 
+22 So when people actually have to physically count things, it takes longer. 
+23 Q Was that feeling consistent with other Proud Boys or did you feel like other 
+24 Proud Boys had different feelings about the election? 
+25 A I don't think most of them cared. I'll bet half of them didn't vote. But  86 
+1 then there were guys, just like there always are, that are on those fringy like conspiracy 
+2 theories. Those guys, they're always going to exist. But I think once people realized, 
+3 like, hey, there ain't --there's no meat, there's no meat here, there's nothing, there's no 
+4 proof, like, you know. 
+5 And with my attendance to the Stop the Steal rallies, I wasn't going to change the 
+6 outcome of the election. I was going to potentially recruit people or just have a fun 
+7 night drinking out with my friends afterwards. 
+8 
+9 
+10 
+11 Q Gotcha. Okay. 
+if you want to turn on your video. 
+Hold on one second. This should be. There you go. 
+Mr. - Hi, Mr. Walter. Hi, Mr. Walter. I'm right next to- So 
+12 I'm looking up. That's because I'm looking at you. 
+13 Mr._ Actually-and I are going to switch because there are some 
+14 audio problems. 
+15 BY 
+16 
+17 
+18 Q 
+A 
+Q 
+19 to fix it. All right. Is this better? 
+Yes. 
+Good. Well, let me know if the audio gets messed up again and we can try 
+20 So, as- mentioned, I just have a couple of questions to follow up on 
+21 primarily about sort of the party boy/rally boy distinction you were talking about earlier. 
+22 I think just for our purposes it's really helpful for us to understand where the 
+23 Proud Boys were coming from, where folks like Mr. Tarrio, who were more involved in 
+24 some of the chats that- was discussing, might have been coming from on 
+25 January 6th and beforehand.  87 
+1 So I know that will be --might be going back and forth in some of these questions 
+2 to things you talked about already with- but I just wanted to make sure that we 
+3 covered all these bases, closed those loops. 
+4 So if you could just talk a little bit more about how the rally boys and the party 
+5 boys were related in your mind, because, obviously, they're part of the same organization 
+6 and chose to be part of the same organization. So would be curious to hear more about 
+7 that dynamic. 
+8 
+9 A Okay. I'll try to do my best to explain it. 
+I want to say around 2018 there was kind of a divide. There was one of 
+10 evolutions of the club, where that being celebrity security was cool. It was fun and neat 
+11 to do. 
+12 But at the same time, there were guys who thought that the attention would only 
+13 lead to trouble. So that's kind of where this divide started, that, hey, these guys just 
+14 want to be bros, hang out, do cool things in the community, and that's okay. And then 
+15 there was the other guys, typically your coasts, that they wanted to hang out with these 
+16 Ann Coulter, Ben Shapiro types and make a name for themselves. 
+17 So that's in a nutshell the origin of the split and it never came back together. 
+18 I think right now there is another evolution currently happening in the club where 
+19 guys just don't want to be highly visible, where a majority of members don't want to be in 
+20 the news. They don't want to be on Twitter. They don't want to be anywhere. 
+21 Because they realized we've been through this cycle before and we're going through it 
+22 again, so we're not learning, we're just making the same mistakes. 
+23 Q That's really helpful. So this divide back in 2018, 2019, was that within 
+24 chapters or were certain chapters more prone to one side? 
+25 A I think it was more so, like I've said a couple of times, the coastal chapters.  88 
+1 It seemed like they were more into the political aspect of the fraternity. And I think it 
+2 might have been because they were ideologically outnumbered. 
+3 So they had a sense of pride and brotherhood by standing beside each other and 
+4 helping --what they thought was helping, helping their communities and being security 
+5 for folks and such like that. 
+6 Where, as I've previously stated, like the entire South wanted no part of the 
+7 security gigs or the making 50 guys who all wear the same clothes, because in our cities, 
+8 you know, you've got gangs and stuff. Like, when the Bloods or Crips, for lack of better 
+9 terms, when they see a bunch of White dudes wearing a uniform in their area of 
+10 operations, they don't like that. 
+11 Like, we've had members get shot and stuff. Not me personally, but I know of 
+12 members who were shot at for wearing our uniform. Not because they were doing 
+13 anything wrong, but because people didn't understand it was just a group of dudes trying 
+14 to have a night out on the town. 
+15 Q So I guess I'm curious to hear more on your thoughts on the more 
+16 mission-oriented parts of the Proud Boys, understanding that you do not consider 
+17 yourself part of that. 
+18 And one of the things that we've heard from other folks associated with the group 
+19 is this idea of Western chauvinism. And you mentioned Western civilization towards the 
+20 top of your interview with-as sort of a motivating factor for some of the rally 
+21 boys. 
+22 Can you give us your definition of Western chauvinism as you understand it? 
+23 A Now, we have to remember who coined our group with Western 
+24 chauvinism. It was a shock jock in Gavin Mcinnes. And Gavin did his homework, that 
+25 you could read that word chauvinist and think that it meant sexist, or you could read the  89 
+1 secondary definition where it is extremely patriotic. 
+2 He did that on purpose. That's why we wear the --we wear those black shirts, 
+3 because we stole them from a Jamaican skinhead club. Like, that's where the origin of 
+4 the yellow and black Fred Perry comes from. 
+5 Like, a lot of this club, how I like to explain it is we're in a fake club, with fake rules, 
+6 no leadership, that was always designed and built around a joke. As I previously said to 
+7 Mr. Quinn, I think Gavin laughs every time he sees somebody with Proud Boy tattooed on 
+8 him, even though he has it too. He made a bunch of grown men put "boy" on their arm. 
+9 Q Right. So I guess one broader question I have is there are folks who you've 
+10 said are much more involved in this mission of fighting against others. And it seems like 
+11 that idea is shot through some of the other aspects of the organization you've talked 
+12 about. You mentioned the shirt, a drinking club with a patriot problem, and folks who 
+13 have talked about security missions. 
+14 Why be part of an organization that has those elements in it? 
+15 A The answer is tricky. And I think the answer would be similar for a lot of 
+16 guys that you ask this question. 
+17 Yeah, we've gotten a couple black eyes over the years about things that have been 
+18 done publicly. And that stinks. It's horrible. 
+19 But why be part of an organization like this is because that's not what it's 
+20 supposed to be. It's supposed to be a --this club was modeled off --after the Elks 
+21 Lodge, which was a group of actors that could travel all over the country and meet their 
+22 friends, and they had somewhere to stay, they had good entertainment, and they bonded 
+23 with each other. That's what this club's supposed to be about. 
+24 And I think the true problem is we don't have any national leadership structure, 
+25 we don't have anything like that, so guys just do what they want. So one bad apple has  90 
+1 the ability to hurt a lot of good apples. 
+2 Q Yeah. And that idea of the Elk Club resonated with me related to some of 
+3 the other things you said earlier in your interview about traveling to events, including 
+4 January 6th, and some of the Stop the Steal events as well. And you seemed to say you 
+5 were, I think at one point you said, wanted to be there together with other Proud Boys. 
+6 So did you perceive those events not as occasions for political gathering? 
+7 A A lot of guys in the country did those large events like that. They might 
+8 look like one thing. 
+9 But to answer your question, I wasn't there for a political gathering. I was there 
+10 to hang out with my buds, see people I haven't seen in a while, or get to talk to people. 
+11 Unfortunately, on January 6th, I didn't get that opportunity because of how chaotic it 
+12 was. 
+13 Q Right. So this next question is more about your views on what you think 
+14 folks in the Proud Boys who are on the other end of the spectrum might understand. 
+15 And, again, we're kind of just trying to get the clearest picture possible of what happened 
+16 that day. That's why we're asking some of these questions. 
+17 For the rally boys bucket of folks, what do you think are the threats they see in 
+18 society that they need to organize against? 
+19 A I don't know. Like, I wish I was better prepared for that question, because I 
+20 think I could have some things. Like, one, I would say guys think their communities are 
+21 changing or that their bonds, like --I'm just --I'm trying to think how to put these words 
+22 together coherently. 
+23 
+24 Q 
+A Take your time. 
+But it's just I think they just want to help. And they see things happen in 
+25 their communities or in their towns, or Jeff's business down the road is getting shut  91 
+1 down, and they just want to help. They don't know how to do it, but they want to do 
+2 something good. 
+3 And sometimes emotions get involved. And that's when things like January 6th 
+4 happen. January 6th didn't happen because it was a planned, staged, orchestrated 
+5 thing. You've got like 100,000 or however many people were there, people full of 
+6 emotion, and that got in the way of their thinking. So it messed up. That's why they 
+7 messed up. 
+8 But back to your question, it just --I think they want do so much good for their 
+9 community, and then when they start doing it something emotional happens. And 
+10 maybe you lose --maybe somebody loses control, maybe they get in a fight or something 
+11 like that. 
+12 So it turns all the good they did --maybe they did a Toys for Tots thing, but then 
+13 they get in a fight afterwards. All the good they just did now looks bad because all that's 
+14 going to get reported is Proud Boys fighting people, not Proud Boys raised and donated 
+15 $50,000 in toys. 
+16 Q Right. I appreciate that very honest answer. And I was struck by the 
+17 language you used about some members perceiving changes in their community, 
+18 businesses shutting down. Can you talk a little more about some of those changes? 
+19 A I don't have like a clear-cut example. Like just in, like, in my county right 
+20 now, people from primarily California and New York are moving into Montgomery 
+21 County. They're driving the price of housing up, like, so people in this community are 
+22 not going to be able to afford a house here. They're going to have to leave. They're 
+23 going to have to move. 
+24 And some people don't like that or, like, just all the wokism, like, that just hurts. 
+25 I don't understand why we just can't have a conversation instead of, like, be canceling  92 
+1 you. You know? Like, it's changes like that that get into your head and make people 
+2 think with their emotions rather than their brains. 
+3 Q antifa's come up a couple of times in your conversation with Mr. Quinn. 
+4 Where do you think antifa fits into that worry? 
+5 A I don't think too many Proud Boys worry about antifa, because they've been 
+6 pretty silent for about 2 years. They are not doing anything public anymore. They 
+7 wisened up to the game. They understood you guys were coming. So they stopped 
+8 being idiots. 
+9 But I think on an ideological standpoint, those antifa guys are real worried about 
+10 that, because you've got groups of young kids that range from cultural Marxism, to 
+11 anarchy, to socialism. Like, they have so many different cultures inside their thing, it's 
+12 weird. And guys think that these ten groups of kids wearing all black are going to 
+13 somehow magically be able to change American values. 
+14 Q Yeah. So I guess you were saying that, to your recollection, Proud Boys 
+15 weren't talking too much about antifa in the 2020 period and for the period in the 2020 
+16 election, early 2021? 
+17 A antifa was dead in 2020. They didn't exist. Like, they obviously still 
+18 existed, but I always had a theory that they were re branding, because they realized that 
+19 their brand was bad, so that they needed to recreate themselves. Because you don't 
+20 hear from those guys anymore. Like, they even stopped messing with me on the 
+21 internet finally. 
+22 Q I'm just curious you say that, because there's a lot of reference to antifa in 
+23 both the summer of 2020 when there were some of the Black Lives Matter 
+24 protesters --protests, rather. And, you know, we looked at Parler posts from Enrique 
+25 earlier, like he was talking about dressing in all black and kind of appearing more like  93 
+1 antifa. 
+2 So our understanding was that that was seen as a major threat in D.C. in 
+3 December and January period. 
+4 A I'm going to --like, I'll readjust my time line slightly. Maybe 
+5 towards --because there were --they were burning cities down. Like, I was in Nashville 
+6 when they caught the courthouse on fire. But I don't know if that was true antifa. 
+7 Like, I haven't seen the local antifa guy in Nashville, and I used to see him all the 
+8 time. I don't see him anymore. And him and I never had a physical confrontation or 
+9 nothing. We just kind of said, "Hey, we'll stay over here, you guys stay over there. 
+10 Cool. Like, we won't bother y'all, just don't bother us. Let's stop the internet, like stop 
+11 attacking each other on the internet." 
+12 But I guess back to your question, I don't think they were a threat. Now, I also 
+13 had the luxury of living in the South where there's not a huge antifa presence. 
+14 I think, like, they can't even figure out what side of socialism, communism, and 
+15 anarchy they want to be on in Nashville. So they all split up. So that's why I didn't 
+16 perceive them. 
+17 Now, out there in the Pacific Northwest, they probably have an antifa problem out 
+18 there. 
+19 
+20 Q 
+A I was actually going to --go ahead. Go ahead. 
+When you're having a huge rally in Washington, D.C., antifa is going to show 
+21 up to that too. They're not going to show up to Mary's Saddle Club in Clarksville, 
+22 Tennessee. They're not going to do that. 
+23 Q I was going to ask about the Proud Boys rally in August 2019 in Portland, 
+24 Oregon. Were you involved in that at all? 
+25 A I was not. If I'm thinking of the correct rally, they used one of my tricks  94 
+1 there where they made antifa think they were going to plant that flag in the middle of 
+2 town, and then they turned left and went and had a barbecue. 
+3 Q This was the End Domestic Terrorism protest? It was the largest rally of its 
+4 kind at the time? 
+5 A Yeah. And I'm pretty certain the Proud Boys were claiming they were going 
+6 to plant an American flag in the middle of the city they were in. If I'm not mistaken, that 
+7 is true. And then, instead of doing that, they straight up turned left and went to a large, 
+8 like, park where there was security and grills and alcoholic beverages. And they tricked 
+9 the whole world. And I think Mr. Tarrio touted that he made the city of Portland spend, 
+10 like, $1.7 million on police force for nothing. 
+11 Q Yeah. Actually, after that event he made a statement to the mayor saying 
+12 that soon his city would, quote, "run out of money and his counterparts in government 
+13 will no longer take him seriously." Is that the same event you're talking about then? 
+14 
+15 A I believe that --yeah, I think we're on the same page here. 
+Q So I guess at some point there was significant effort by the Proud Boys to 
+16 counter antifa and that was seen as an important animating principle. 
+17 A I would --there was. I think it was more prevalent in, like, 2019 than in 
+18 2020, though, because it was that, quote, unquote, there was a culture war going on, you 
+19 know. 
+20 
+21 Q 
+A Right. 
+The radical left and the radical right were fighting. Even though I don't 
+22 think I'm radical right, but I would say that's how that story would be told on FOX News or 
+23 CNN. 
+24 
+25 Q 
+A In 2020 you're saying? 
+I think more 2019. I don't think as much in 2020. I think antifa were  95 
+1 making more mistakes in 2020 and they overplayed their hand with the taking --what did 
+2 they do, they took that city in the Pacific Northwest and made that like autonomous zone 
+3 or whatever. Then they started burning down cities and started doing goofy stuff. 
+4 I don't think the Proud Boys needed to respond to that, because they were losing 
+5 the war by themselves. So we weren't even focused on them. 
+6 Q Right. So I guess you're talking a lot about the protests after the 
+7 death of --the murder of George Floyd and Breanna Taylor and those protests, that 
+8 timeline, right? 
+9 A I think so, because I think that's when they burned the --and it wasn't BLM 
+10 that did it, it was antifa burned a courthouse for some reason in Nashville, caught it 
+11 on --the historic courthouse, they caught it on fire. 
+12 Q So I guess I'm curious to hear about how you personally and other Proud 
+13 Boys perceived the relationship between BLM and antifa in that summer period? 
+14 
+15 
+16 
+17 
+18 
+19 A Oh, they were fighting each other. 
+Q Okay. Interesting. 
+A They were clashing. 
+Q Could you expand on that? 
+A I just think --I'm trying to remember. 
+were shooting at each other and all sorts of stuff. But I know there in Kentucky they 
+And them BLM people didn't like 
+20 them little White kids telling them how they should feel about Black people and calling 
+21 them racists. They didn't enjoy that. 
+22 And there was a time, a very small period of time that there was an alliance or a, 
+23 quote, unquote, alliance between some BLM and some Proud Boys, because BLM hates 
+24 antifa too. And it was like, "Hey, we won't mess with y'all, don't mess with us. Let's 
+25 just be cool." And I can't remember, like, I know up in the Pacific Northwest they were  1 meeting together and hanging out. 
+The Proud Boys and BLM? 
+Yes. 96 
+2 
+3 
+4 Q 
+A 
+Q Okay. So one question, this is a little bit of a curveball. That was all really 
+5 interesting and helpful background. 
+6 We didn't get to mention this earlier, but did you ever hear any intersection of 
+7 QAnon theories in Proud Boy conversations? 
+8 
+9 
+10 A 
+Q 
+A Sorry. 
+You're good. 
+No. I'm sure they exist, but any time one of those people came into a chat 
+11 or something and they talked about trusting the plan, they'd just get bullied. 
+12 
+13 Q 
+A Okay. 
+That's ridiculous. Donald J. Trump is not Q. He's not tweeting on 4 --or 
+14 he's not sending messages on 4chan about the secrets of the government. 
+15 
+16 Q Well, I'd like to talk a little more about that faith in Donald Trump. And we 
+talked about this a little bit earlier with- But I believe you said that you didn't 
+17 think that most Proud Boys supported President Trump. Is that correct? 
+18 A I'd say maybe 50 percent, maybe, maybe a slight majority supported, like, 
+19 were fervent, like, Trump or bust guys. 
+20 
+21 Q 
+A Do you think that President Trump supported the Proud Boys? 
+Absolutely not. He didn't know who we were when he said our name. 
+22 There's no way he did or he wouldn't have committed political suicide on national TV. 
+23 Q Fair enough. I guess on that note, are there any politicians that the Proud 
+24 Boys discuss besides President Trump who might share lesser chauvinist views or would 
+25 be generally sympathetic to the less fraternity aspects of the organization?  97 
+1 A I don't know a whole lot of guys that just sit around and talk about 
+2 politicians. In my particular chapter, if we're talking about politics, we're probably 
+3 talking about who's running for city council or who's going to be the mayor. 
+4 Because they're all --they all just say the same thing, like --or, I'm sorry. They 
+5 say opposite things, but in the end they just do the same things. The Republican Party 
+6 and the Democrats do the exact same things all the time. They may when they're 
+7 campaigning, they may say they're going to do different things, but that doesn't happen. 
+8 
+9 Q Understood. 
+I just had a couple more questions. I was wondering if we could pull back up 
+10 exhibit 8 quickly. 
+11 So I know we talked about this before and I know you said that --well, I can give 
+12 you a second to read it. 
+13 
+14 A 
+Q All right. I've got it. 
+So I know we talked about this before. And I know you said that sort of 
+15 on line version of Enrique Tarrio is much different than the Tarrio that you know person to 
+16 person. 
+17 But I just wanted to talk through a couple of the statements made in this message 
+18 and just kind of see your reaction, what you think he might mean by that, to better 
+19 understand how you viewed these dynamics. 
+20 And I guess the first thing that stuck out to me is his sort of --right after he quotes 
+21 the links to the Proud Boys tag in the middle of the first paragraph, he makes reference to 
+22 the "globalists dirty work." 
+23 What did you think he meant by that? 
+24 A "Proud Boys you can see real time the media machine do the globalists dirty 
+25 work."  98 
+1 I really don't know. I think what he's trying to say is with the organization, all 
+2 you could see is that they only reported negatively on us. Like, if we did something and 
+3 messed up, it was on all the news channels. Whereas if the other side messed up, it was 
+4 on none of the news channels. So it was the media, the media was turning us all into 
+5 the boogeymen. 
+6 
+7 
+8 Q 
+A 
+Q Right. 
+I think that's the idea behind that, but I don't know. 
+But the use of the term "globalists" and the use of the term "enemy of the 
+9 people" in the next sentence didn't --doesn't strike any alarm bells for you in terms of 
+10 sort of their use there? 
+11 A Because I'm still trying to remember the globalist, you know, what actually 
+12 that entails. And then, "The media is the enemy of the people." 
+13 I don't think the media is the --I personally don't think the media is the enemy of 
+14 the people. But I do think the media has the ability to destroy people and they do it 
+15 without regard. 
+16 
+17 Q Yeah. And I guess --thank you for that. 
+The other point that I thought was interesting was his language that seems quite 
+18 tactical in nature. And, again, this is a public post. But he writes "1,000 boots on the 
+19 ground" in the last --in the second to last line in the first paragraph. He discusses in the 
+20 third paragraph, spreading across downtown D.C. in smaller teams. 
+21 Doesn't that read to you as pretty military-focused language? 
+22 
+23 A 
+Q I mean, yes. 
+All right. So I guess I'm wondering was this language present in some other 
+24 chats that you or posts that you saw before January 6th. 
+25 A Not that I recall.  99 
+1 Q Not really? Yeah. I guess I'm just curious about whether some of the 
+2 social aspects of how you described the 6th and other events were sort of outweighed by 
+3 language like this. But I guess what you're saying is that it really wasn't and you didn't 
+4 take all this particularly seriously? 
+5 A To be honest with you, I don't read everything he posts. Like, a lot of the 
+6 stuff, I'm probably seeing it for the first time right now. 
+7 
+8 Q Okay. That's fair enough. 
+A Just like with this statement, for example, "With the new ability I've 
+9 been" --let me try again. "With the new ability I've being able to put 1,000 boots on the 
+10 ground we outgrew any single hotel." 
+11 So he's saying he's going to bring 1,000 people to Washington, D.C., but then he 
+12 directly contradicts himself in, "We will be incognito and we will spread out across 
+13 downtown D.C. in smaller teams." How can 1,000 people operate in small teams? 
+14 
+15 Q That's a fair point. That's fair. 
+A I mean, I'm not trying to pick apart like the grammar or anything he's saying 
+16 here. But it's a very --to me it's a contradictory statement, because 1,000 people, that's 
+17 like a full brigade combat team. Never in a brigade do you have any elements smaller 
+18 than five moving. So now if you do the math on that, that's 200 small groups of five? 
+19 That probably would not be incognito or inconspicuous. 
+20 Q Well, thank you for all that. I think that we might take --go off the record 
+21 for a few minutes, if that's all right with you. And we're almost done. So I think we'll 
+22 just have one last round of questions and then we can go off the record until 6 o'clock? 
+23 
+24 
+25 A What time is it there? 
+Q Oh, sorry. It's almost 6 o'clock our time, 5:54. 
+A So it would be 5 o'clock my time. I got it.  1 
+2 
+3 
+4 
+5 
+6 100 
+Q 5 o'clock your time. Yeah. All right. Great. Thank you. 
+A Yes, sir. 
+[Recess.] 
+Mr.- All right. Let's go back on the record then at 6:01. 
+BY 
+Q And so, I know that you said --you had said earlier when you were talking to 
+7 -that there was no plan for January 6th, it was a lot of people that came together 
+8 and kind of had some strong emotions and then got taken over by those emotions on the 
+9 day. Is that --that's kind of accurate, that's how you feel about what happened on the 
+10 6th? 
+A In my opinion, if I was an analyst, that's the assertation I would make, yes. 11 
+12 Q Okay. And then I guess do --I want to take 1 or 2 more minutes to go over 
+13 some of the things in the indictment and understand what you think, given the facts that 
+14 we know now about the things Tarrio was saying at the time and other leaders, like Rehl 
+15 and Donohue and Nordean, the people that we've talked about, given the things that 
+16 they were saying, what your understanding of that is. And then also --well, let's just do 
+17 that quickly. 
+18 So if we can pull up exhibit 16 and go to paragraph 49. So I'll give you a second 
+19 to read that. 
+20 And then, for the record, again, exhibit 16 is the indictment of Enrique Tarrio. 
+21 And this paragraph 49 says that, "On January 3rd, as efforts to plan for January 6th 
+22 intensified in the MOSD leadership chat, Tarrio stated in the MOSD Leaders Group that he 
+23 wanted to wait until January 4th to make final plans." 
+24 "In response, at 7:10, PERSON-3 posted a voice note to the MOSD Leaders Group 
+25 in which he stated," and this is a quote, "'I mean the main operating theater should be in  101 
+1 front of the House of Representatives. It should be out in front of the Capitol Building. 
+2 That's where the vote is taking place and all the objections. So we can ignore the rest of 
+3 these stages and all that shit and plan the operations based around the front entrance to 
+4 the Capitol Building. I strongly recommend that you use the National Mall and not 
+5 Pennsylvania Avenue, though. It's wide-open space, you can see everything coming 
+6 from all angles."' 
+7 Rehl responds to the chat, "good start." 
+8 And then, shortly after that, about 26 minutes later, paragraph 50, "January 4th, 
+9 2021, Tarrio posted a voice note to the MOSD Leaders Group at 7:36 in which he stated, 'I 
+10 didn't hear this voice until now, you want to storm the Capitol."' 
+11 I'm going to run through a couple more parts of the indictment quickly. If we can 
+12 go down to 99. 
+13 So this is after Proud Boys have entered the Capitol. 2:38 p.m., Tarrio makes a 
+14 public post on social media that reads, "Don't fucking leave." 
+15 And then at 2:39 Tarrio responds to a question posed by a Proud Boy member. 
+16 And the question is, "Are we a militia yet?" And Tarrio responds, "Yep." And then he 
+17 says, "Make no mistake ... We did this ... " 
+18 So he's watching the events unfold. And there was obviously mention of a plan 
+19 to storm the Capitol before that in fact happens. And then Tarrio says, "Make no 
+20 mistake ... We did this ... " 
+21 I guess, and correct me if I'm wrong, but it sounds like he means Proud Boys or 
+22 people that the Proud Boys are associated with. 
+23 I guess, does this change your perspective a little bit about what was or wasn't 
+24 planned or what other Proud Boys were doing outside of kind of your knowledge? 
+25 A Can you repeat the last part of the question?  102 
+1 Q Yeah. Just does this change --seeing those things, and those posts, and 
+2 understanding the timeline, does that change your perspective about what was being 
+3 planned outside of your knowledge? 
+4 A I would have to assume the answer to that is yes. But especially because 
+5 you have this from a private chat, I think you need to throw the --anything public --I 
+6 wouldn't believe a word of anything he said in public. The private stuff, the one that 
+7 was above these, it said something along the lines: I didn't hear this until just now, so 
+8 you want to storm the Capitol. 
+9 
+10 Q 
+A Right. 
+I'd like to see the response to that, but I don't think it's --I don't think it's in 
+11 this document. But I'd like to --I'd like to see the rest of that conversation. Because 
+12 on its head that one line is very damning, like, "Oh, so you want to storm the Capitol?" 
+13 Like by itself that sucks. But I don't know what was said before or after. 
+14 And as we've discussed multiple times, I wasn't in the planning phase. So I, you 
+15 know, I don't --you know, I don't know any of this. 
+16 Q Yeah. No. Yeah, I understand that. I guess what I'm trying to get at and 
+17 what I want to understand from you is, you know, the folks that are in this chat and that 
+18 were leaders, the name of one of the chats was MOSD Leadership Group, so they were 
+19 leading this larger group of people that were in the Ministry of Self Defense, like Nordean 
+20 and Rehl and Biggs and Tarrio. I mean, correct me if I'm wrong, but even if there is not a 
+21 national chapter, those are leaders of the Proud Boys, right? Influential --
+22 
+23 A 
+Q 
+24 distracted. I'm sorry, I had a text I had to read. It was from my daughter. I apologize. 
+No. That's okay. That's always a good reason to check or to be 
+25 But --so what I was trying to say was, what I really want to understand and what  103 
+1 I'm trying to get at is the folks that were in this chat, and the chat is named a leadership 
+2 chat, MOSD Leadership Group, like Tarrio and Nordean and Biggs, these are --I 
+3 understand there is not a national chapter, but these are leaders of the Proud Boys or 
+4 influential members of the Proud Boys, right? 
+5 A I like the influential part than the leader part. But, yeah, they are --
+6 
+7 
+8 Q 
+A 
+Q Okay. 
+--to have influence. 
+Right. And so I guess at what point, I know you have a different idea about 
+9 what the Proud Boys are or what they should be, but is there a point at which so many 
+10 members of or influential members of the Proud Boys say one thing that that becomes 
+11 what the group is? 
+12 A I think --you saw the other conversations that other influential members are 
+13 saying the opposite, you know, so there's a little tit for tat. But I do agree to your point 
+14 that if all 50 States' presidents said this one thing all day long, it would now be spoken 
+15 into truth. 
+16 Q Yeah. Okay. Then I guess with that understanding, if you could just tell 
+17 me what do you think --you know, we've talked before and you expressed kind of some 
+18 angst and sadness about some of the Proud Boys that are in jail right now. 
+19 And so I kind of wanted to understand, of the people, like the ones we've just 
+20 talked about, that were involved in planning, marching towards the Capitol, and planning 
+21 potentially to enter the Capitol or other buildings around the Capitol, what are your 
+22 feelings about what they did? Was it illegal? Was it --or just tell me what your 
+23 feelings are about those people. 
+24 A I appreciate the question, because it allows me to answer this. I answered 
+25 this for a local news channel that really cut it up, and this gives me the full forum to  104 
+1 answer this correctly. 
+2 I think that everybody that went in the Capitol, I thought that --I thought it was 
+3 neat to see that number of people in one place at one time. I still stand by my 
+4 statement that if you broke in, broke anything, stole anything, or damaged anything, you 
+5 absolutely committed a crime and you have to pay for your --you have to be held 
+6 accountable for your actions. 
+7 But I think also at the same time, like I said previously, I think you had a lot of 
+8 people there playing follow the leader and running on emotions. 
+9 So in my opinion, or in my thought process, like, those people that were stealing 
+10 stuff, they need to be punished to the full letter of the law. People that walked through 
+11 that building, I mean, come on. Like, I didn't do it because, like, I looked at the entrance 
+12 to the Capitol and went: That's a crime to do that. That is definitely illegal to go in 
+13 there, whether it's a misdemeanor or a felony or what. I thought it was a felony to 
+14 walk --to trespass on government property. 
+15 And I don't know what these guys did when they were in there. I don't know 
+16 what Nordean did. I don't know what Biggs did. I don't know what Rehl did. I don't 
+17 know what Yut did. I don't know what they did while they were in there. And so, I 
+18 can't really speak to if I think what should happen to them. 
+19 I know what Nick Ochs and I know what Decarlo did when they were. They 
+20 smoked a cigarette in there and they got charged with felonies for smoking a cigarette. 
+21 know what a couple other people did in there that wasn't malicious. 
+22 But I also saw the videos of that QAnon Shaman running around with a podium or 
+23 something or that one guy with his legs kicked up on Pelosi's desk. That's not 
+24 appropriate. Their offices do not belong to the people. That's like a private space. 
+25 That building --sure, should they not have done it while the Congress was in session?  105 
+1 That probably made this whole thing a lot worse. 
+2 But to finish it, I think people were operating on high emotions and they 
+3 made decisions with their feelings and not with their heads. And I hope it never 
+4 happens again in the United States Capitol, I mean. 
+5 But I don't know what I would suggest the punishment be, because that's not my 
+6 role, you know, that's not my role. I don't know how severe every individual person that 
+7 went in there, their actions were. 
+8 So some shouldn't be punished, some should be punished. And then there's a 
+9 big group of people in between that are questionable. I don't know. 
+10 Q Okay. Yeah, that's helpful. I appreciate that answer. 
+11 The only other thing I wanted to talk about generally is what your view of 
+12 President Trump's role in this event was, and then a little bit about kind of what you think 
+13 of his reaction afterwards and up until now. 
+14 So first of all, I'll just ask, did you hear any of President Trump's speech on the 
+15 6th? 
+16 A I heard bits and pieces of it, because there were, like, speakers set up 
+17 everywhere, so you could kind of hear. But I didn't get to hear a lot of it. Like, I guess I 
+18 was arriving as he was speaking. And there's that something where he said, "Let's 
+19 march to the Capitol peacefully," or something along those lines. I didn't --I was not 
+20 present to hear that. I didn't hear that part. 
+21 Q Okay. I know you also said that you think he lost the election fair and 
+22 square. Obviously, some people there on the 6th didn't think that. They thought that 
+23 the election was stolen. And I think you also said that you heard that President Trump 
+24 told people to march towards the Capitol. And you were also under the impression that 
+25 he might show up at the Capitol and speak there.  106 
+1 So, I guess, what is --do you think that President Trump's words or actions on that 
+2 day led people to go to the Capitol and kind of put them in the position that --or was one 
+3 of the factors that led to what happened at the Capitol? 
+4 A I believe he riled some people up. He may have started that emotional 
+5 response. He got people up in their feelings. But what politician doesn't do that? 
+6 And I think Maxine Waters has said some questionable things. I think they all say 
+7 questionable things because, especially in this weird divisive time, they need clicks on the 
+8 Twitter machine. They need to be cool with the kids and this and that. 
+9 So I guess the long answer of what you're asking is, I think he got people in their 
+10 feelings, but I think at the time he didn't understand that was going to happen. Like he 
+11 wasn't thinking, "Oh, I'm going to say some shit and these people are going to bust some 
+12 doors down and light that place on fire." Like, I don't think he thought that. 
+13 Q What do you think of about once it was clear that people had breached the 
+14 Capitol, obviously, there was a number of hours in between the time the Capitol breach 
+15 started and that President Trump went --sent out that video asking people to leave the 
+16 Capitol, do you think he took too long to do that? 
+17 A I don't know, because I don't know what the SOP is there. I'm imagining 
+18 the Secret Service was taking him down the tunnel and getting him in the safe room. 
+19 I'm surprised they didn't put him up in the air to get him out of there, because Air 
+20 Force One can fly for 24 consecutive hours without taking a break. And that's normally, 
+21 when something bad happens, that's where they put the President, up in the sky, because 
+22 he's got the Air Force up there too. 
+23 So I don't know what the protocols were there. I would have liked to see it come 
+24 a little faster. He could have at least --whoever run --ran his Twitter at the time could 
+25 have at least shot a tweet or something.  107 
+1 But I don't --like, I think my final answer is I can't determine how long it should 
+2 have took him to send a message because I don't know what the protocols are for, "Oh, 
+3 shit, they're storming the Capitol. They might go to the White House next."  108 
+1 
+2 [6:18 p.m.] 
+3 B~ 
+4 
+5 Q Fair enough, yeah. 
+Okay. And then how about just after the 6th, understanding everything that 
+6 unfolded, and, you know, that people have, in fact, been charged, some of them your 
+7 friends, how do you feel about Trump's reaction to that up until today? 
+8 A I wish maybe --maybe --maybe he would've said some more clear things, 
+9 but I understand he's been deleted too. It's hard for him to get his messages out. But I 
+10 wish maybe he would've started to help the healing. But now it seems like we're getting 
+11 ready to ramp up again and we're going to be in --well, I think, we're going to be in a 
+12 similar situation in the next election. There's going to be a lot of hatred towards each 
+13 other in this country again if that man runs for President again. But he's got to do it, 
+14 because he's got to protect his brand, because he was only a one-time President, not a 
+15 two-time --not a two-term. So he --he can't go out losing. 
+16 And I wish the election [inaudible] I wish that would stop, because that's just going 
+17 to get more dangerous too. 
+18 Q Okay. Last --I'll have a couple of technical questions for you at the end, but 
+19 last kind of substantive question is, and we ask a lot of people this, but is there --what 
+20 would you --you noted that the election's coming up and that President Trump might run 
+21 again, and we've spent a lot of today obviously talking about what caused January 6th, 
+22 but what do you think --do you have any ideas about what the fix for that is or what 
+23 should change to prevent January 6th from happening in the future? 
+24 A Barack Obama, I hate to say it like that, but a man of the people, a man who 
+25 isn't divisive, a man that's a bringer-together, like, a slick-talking dude that brings --that  109 
+1 brings the country back together is the only way to ever prevent that again. 
+2 Because let's say Trump wins. Well, then the left's going to be doing that at the 
+3 Capitol. Or let's say Biden runs again. I don't --I don't think it'll happen again because 
+4 I don't think there's a polarizing --there's not a figure polarizing enough who --to create 
+5 the incident again. 
+6 I think maybe --maybe the National Guard should've been there the day before 
+7 instead of hours afterwards. Maybe the local cops, the police presence could've been 
+8 beefed up, because it --it sounded like they didn't have enough anti-riot stuff present at 
+9 the --at what they understood was going to be a riot. 
+10 I'm --I'm going to go on a limb and say those Capitol Police officers ran out 
+11 of --ran out of flash bangs and ran out of CS. And I --I don't know, because to go into 
+12 the strongest country in the world's political house, it --it's just --that shouldn't be 
+13 allowed to happen. That should --you know, someone should've stopped that. 
+14 Q Yeah. Okay. Then last couple of quick questions. Have you --have you 
+15 talked to the FBI at all or DOJ in relation to January 6th? 
+16 
+17 
+18 A 
+Q 
+A I --they have contacted me, and I've spoken with one or two of them. 
+Okay. 
+And it was --it was --they saw the pictures. They wanted to know what 
+19 was real, what wasn't, was I actually in the building, kind of questions. 
+20 
+21 
+22 
+23 Q 
+A 
+Q 
+A Okay. And when was that? 
+I don't know the exact date. It was -­
+Like early 2021? 
+Yeah. It was --it was maybe a month --1 don't know, maybe a month or 
+24 less than a month afterwards. Because they said very specifically that it wasn't very 
+25 hard to find my phone number or my address because it's all over the internet, you know.  110 
+1 Q Yeah. And just a ballpark on the date is fine. 
+2 Did you --did you give them anything, like, produce any documents or give them 
+3 your phone or anything like that? 
+4 
+5 A No. 
+Mr- Okay. All right. Then unless anybody else has anything, anybody 
+6 else that's on the line, I think we're done for today. 
+7 Before we go off the record, I'll just say one more time, thank you very much for 
+8 talking with us. It's been a really enlightening conversation, and we appreciate you 
+9 being really forthcoming and answering all of our questions and helping us understand 
+10 your experience of that day. 
+11 Unless you have anything else, we can --are you good or have anything else you 
+12 want to say? 
+13 The Witness. Well, the only question I have, could you refresh me on, like, what 
+14 did you say in the beginning of this, when we first started, about the transcripts of 
+15 the --of this conversation? 
+16 Mr.- Yeah. So we will not, during the course of the investigation, be 
+17 disclosing what we talked about, staff or members of the committee. There will be 
+18 decisions at the end of the investigation about what transcripts are released and what 
+19 makes it into a report. 
+20 You'll also get a chance to review this transcript, if you want to review it. But, 
+21 essentially, it was just, we're not going to talk about this transcript. And you are free to 
+22 if you want to. You're not bound by any confidentiality or secrecy here, but we won't be 
+23 talking about it. 
+24 
+25 The Witness. Perfect. I'd like nobody to talk about it, so --
+Mr- And then, like I said, once we have the transcript, you'll have an  111 
+1 opportunity to review that if you want to. 
+2 
+3 The Witness. Okay. 
+Mr. Then, with that, I think we can go into recess, and then we're done. 
+4 [Whereupon, at 6:25 p.m., the deposition was recessed, subject to the call of the 
+5 Chair.]  1 
+2 
+3 Certificate of Deponent/Interviewee 
+4 I have read the foregoing __ pages, which contain the correct transcript of the 
+5 answers made by me to the questions therein recorded. 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 Witness Name 
+Date 112 

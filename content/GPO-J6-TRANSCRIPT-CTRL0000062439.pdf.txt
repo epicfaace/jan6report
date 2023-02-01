@@ -1,0 +1,2967 @@
+1 
+2 
+3 
+4 SELECT COMMITTEE TO INVESTIGATE THE 
+5 JANUARY 6TH ATTACK ON THE U.S. CAPITOL, 
+6 U.S. HOUSE OF REPRESENTATIVES, 
+7 WASHINGTON, D.C. 
+8 
+9 
+10 
+11 DEPOSITION OF: DAVID SCOTT KUNTZ 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 Monday, April 11, 2022 
+Washington, D.C. 
+20 The deposition in the above matter was held via Webex, commencing at 10:00 
+21 a.m. 1  1 
+2 Appearances: 
+3 
+4 
+5 For the SELECT COMMITTEE TO INVESTIGATE 
+6 THE JANUARY 6TH ATTACK ON THE U.S. CAPITOL: 
+7 
+8 
+9 
+10 
+11 
+12 
+13 STAFF ASSOCIATE 
+, INVESTIGATIVE COUNSEL 
+CHIEF CLERK 
+INVESTIGATIVE COUNSEL 
+14 For THE WITNESS: 
+15 
+16 CHRIS WIEST 2  3 
+- We are on the record at 10:10 a.m. 1 
+2 
+3 Good morning. This is a deposition of David Scott Kuntz conducted by the House 
+4 Select Committee to Investigate the January 6th Attack on the United States Capitol 
+5 pursuant to House Resolution 503. 
+6 Mr. Kuntz, please state your full name and spell your last name for the record. 
+7 The Witness. David Scott Kuntz, K-u-n-t-z. 
+8 - Thank you very much. Would you please raise your right hand so 
+9 that the court reporter can swear you in. 
+10 The Reporter. Do you solemnly declare and affirm under the penalty of perjury 
+11 that the testimony you are about to give will be the truth, the whole truth, and nothing 
+12 but the truth? 
+13 The Witness. I do. 
+14 - Thank you very much. 
+15 This will be a staff-led deposition and members, of course, may choose to also ask 
+16 questions, although I don't see any with us at the time. 
+17 My name is I'm an investigative counsel with the select committee. 
+18 And on Webex with me is_, also an investigative counsel. He is also remote. 
+19 So if you see his nice-looking face pop up on the screen, he might have a question and I'll 
+20 recognize him. 
+21 And for this deposition, we will follow the House deposition rules that we 
+22 provided to your counsel previously. Under the House deposition rules, you are 
+23 permitted to have an attorney present. 
+24 Mr. Kuntz, at this time, I'm going to ask your counsel to please state his name for 
+25 the record.  1 
+2 Mr. Wiest. Chris Wiest, representing Mr. Kuntz in this matter. 
+- Thank you, Mr. Wiest. 
+3 Under the House deposition rules, neither committee members nor staff may 
+4 discuss the substance of testimony you provide today unless the committee approves 
+5 release. You and your attorney will have an opportunity to review the transcript. But 
+6 before we begin, I'd like to describe a few ground rules. 
+7 There is an official reporter transcribing the record of this deposition. The 
+8 reporter also is joining us by Webex. So please wait until each question is completed 
+9 before you begin your response, and we will try to wait until your response is complete 
+10 before we ask our next question. It's just really hard over virtual for the reporters to 
+11 hear two --or to understand two voices talking at the same time. So I'll do my best and 
+12 please do your best as well. Thank you. 
+13 And the reporter cannot record nonverbal responses such as shaking your head, 
+14 so it is important that you answer each question with an audible verbal response. And 4 
+15 for the benefit of the reporter and the record, there may be times where I spell a name or 
+16 a word that we are using, or I ask that you do the same. 
+17 And we ask that you provide complete answers, based on your best recollection. 
+18 If the question is not clear, which certainly might happen, just please ask me for 
+19 clarification. And if you don't know the answer, please simply say so. 
+20 And just in terms of logistics, if you need a break for comfort or to talk to 
+21 Mr. Beast about anything, just let us know. We'll go, you know, off camera. We'll go 
+22 mute so that you can have whatever time that you need. 
+23 And today, we're going to be showing you some exhibits as we move along, and 
+24 those will be displayed on the screen in front of you. And when we refer you to a 
+25 document, you can take some time to familiarize yourself with it before we discuss it.  1 And just to test out the system here, I'm going to bring up exhibit 1. All right. 
+2 Do you recognize exhibit 1, Mr. Kuntz? 
+3 The Witness. Yes. 
+4 - It's the subpoena and the accompanying documents that the select 
+5 committee issued to you. 
+6 
+7 The Witness. Yes, sir. 
+- Thank you. So during this deposition, you may only refuse to 5 
+8 answer a question --sorry. I am also doing the exhibits, so there might be a little bit of a 
+9 pause as I bring them up and take them down. 
+10 But during this deposition, you may only refuse to answer a question to preserve a 
+11 privilege recognized by the select committee. If you refuse to answer a question based 
+12 on a privilege, staff may either proceed with the deposition or seek a ruling from the 
+13 chairman on the objection. If the chairman overrules such an objection, you are 
+14 required to answer the question. 
+15 And at this time, I would ask Mr. Wiest to please place on the record any 
+16 objections or to make any opening remarks he may have. 
+17 Mr. Wiest. I suspect we may get into objections and privilege issues, you know, 
+18 either --hopefully not anything attorney-client, but possibly Fifth Amendment. We'll 
+19 deal with those as those come up. We do not intend to raise a general objection. 
+20 - I appreciate it. Thank you. 
+21 So I want to remind you, Mr. Kuntz, as we do with all witnesses, that it is unlawful 
+22 to deliberately provide false information to Congress. Since this deposition is under 
+23 oath, providing false information could result in criminal penalties, to include for perjury 
+24 and/or providing false statements. 
+25 Do you understand?  1 
+2 
+3 
+4 
+5 The Witness. Yes, sir. 
+- Thank you very much. 
+EXAMINATION 
+BY-: 
+Q So we'll just start off with some background questions. 
+6 Mr. Kuntz? 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 A Fifty-one. 
+Q And where do you currently live? 
+A In Jeffersonville, Indiana. 
+Q How long have you lived there? 
+A Twenty years, maybe. 
+Q So not your hometown, but sort of your hometown now? 
+A Yeah. 
+Q Okay. Thank you. 
+And what is your current occupation? 
+A I'm not working at this time. 
+Q What did you do before you were not working? 
+A I was a welder in a shipyard. 
+Q Were you ever a law enforcement official? 
+A Yes, sir. 
+Q What type? 
+A Sheriff's deputy. 
+Q Was that also in Indiana? 
+A Yes, sir. 
+Q The same town? 6 
+How old are you,  1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 A 
+Q 
+A 
+Q 
+A 
+Q No. It was in Harrison County. 
+Did you say Carrison, C-a-r-r? 
+No, Harrison, H-a. Yes, sir. 
+Thank you. Were you ever in the military? 
+No, sir. 
+Appreciate it. Thank you. 
+Are you aware of a group known as the Three Percenters? 
+A 
+Q 
+A 
+Q Yes, sir. 
+How did you become aware of them? 
+A few friends. 
+Through some friends. Do you consider yourself a member of any Three 
+12 Percenter group? 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 A 
+Q 
+A 
+Q 
+A 
+Q 
+A 
+Q 
+A 
+Q 
+Okay. 
+A Yes. 
+Which one? 
+Grey Ghost Partisan. 
+Just that one or others? 
+No. We're affiliated with Central Kentucky. 
+What is Central Kentucky? 
+They're a Three Percenter group, too. 
+Okay. So the group name is Central Kentucky Three Percenters? 
+Yes, sir. Sorry about that. 
+Oh, no, that's okay. I was just making sure I didn't miss something. 
+So what drew you to want to be part of the Three Percenters? 
+Just --I don't know. It's been so long since I've done it. I mean, it's --we 
+25 get together, you know, good hangouts in the mountains. You know, we do some 7  8 
+1 shooting, you know, target practice, camping, you know, do a little rappelling, stuff like 
+2 that. 
+3 I mean, it's, you know --it's general stuff and it's just --I've been stuck with it ever 
+4 since. You know, good people. You know, it's just a fun time. You know, we all get 
+5 together and just have a good time. 
+6 Q So it sounds like a bit of --there's some social aspect to it, but what is the 
+7 ideology or the idea of the group? Like, what brings everybody together to be a Three 
+8 Percenter? 
+10 
+11 
+12 
+13 guess. A 
+Q 
+A 
+Q 
+A 
+Q 
+A Everybody has their own --their own opinion about it, of what it's for, I 
+So what does it mean to you, Mr. Kuntz? 
+Is it what now? 
+Sorry. What does a Three Percenter mean to you? 
+As a, I guess, defender of people's rights and the Constitution. 
+And how does a Three Percenter do that? 
+Protect people's rights whenever there's --like if a --like a store or 
+17 something wants us to come down and protect it during riots or something like that, we 
+18 go down there and we protect that store, that property. Just people in general, that 
+19 during the riots that people aren't like beat up or, you know, or serious injuries or 
+20 anything like that. 
+21 
+22 
+23 
+24 Q 
+A 
+Q 
+A And how do you provide --I'm sorry. Go ahead. 
+No, that's it. 
+Okay. And how do you provide that protection? 
+We just show up to make sure everybody's, you know, protected, that 
+25 nothing bad is happening to anybody.  1 
+2 
+3 
+4 Q 
+A 
+Q 
+A When you say you just show up, do you show up in a group? 
+Yes. 
+Okay. And do you bring anything with you? 
+It just depends on the situation that's --that's at hand. If there's a lot 
+5 of --if --like if the rioters have weapons or something like that, then yes, we bring our 
+6 gear with us. 
+7 
+8 Q 
+A And when you say gear, can you describe that for me? 
+Like our --bring our plate carriers, sidearm, our rifles. Just, I guess, normal 
+9 gear, you know, for different situations. Sorry. 
+10 - That's okay. ■■■ l do you have a follow-up? 
+11 - Yes, I have a couple of follow-ups. Thank you, -
+12 BY-: 
+13 Q So mentioned if the rioters have weapons you would bring your 
+14 gear as well. How do you know if the rioters are going to have weapons before you 
+15 attend an event? 
+16 A Well, we see them like on TV or social media and stuff first before --before 
+17 we appear. You know, we want to see how --what they have and how they're acting. 
+18 Q So what indications would tell you it was necessary to bring equipment, 
+19 including sidearms, as you mentioned? 9 
+20 A Like BLM or something like downtown Louisville or something like is the only 
+21 way I can describe it is we know that they have security details with them fully armed as 
+22 well. So we already know this. So we show up for self-defense, but do not engage 
+23 them in any hostile manners or anything. 
+24 BY-
+25 Q Can I ask where you get your intel from?  10 
+1 A Like, social media type stuff. Friends will post it or they'll call and say, Hey, 
+2 you know, this is going on right now, let's go. We're going to go down there for a 
+3 little --you know, and bring your gear. It's just --it's --I don't know. It's just --1 don't 
+4 know. It's really kind of hard to describe. You just see it or somebody calls you or 
+5 something like that. It's --because they don't --I mean, they don't hide it. They show 
+6 it. 
+7 BY-: 
+8 Q So I know you just mentioned going down for self-defense, but obviously, 
+9 you're going down to where the armed groups might be, so you're actively seeking out 
+10 those situations that you mentioned to protect others. But to me, that seems like 
+11 something that law enforcement would be tasked with. 
+12 Why do Three Percenter groups or the Three Percenter group you were involved 
+13 with want to do that when law enforcement, at least in the traditional view, would be 
+14 doing that? 
+15 A We are --we don't go down there to engage them in any --we are 
+16 down --we stand more --okay. Like, for instance, a year and a half, last summer maybe, 
+17 we protected a gas station. You know, we protected the property of a gas station, a 
+18 pawn shop, a couple pawn shops, really, and some hotels in a general area, just to make 
+19 sure that they wasn't burned down, destroyed or any of that type stuff. 
+20 We don't really engage these people, you know, at any point. We have --we did 
+21 one time downtown Louisville, just --you know, just, I don't know, shake them up a little 
+22 bit or something, let them know, Hey, you know, there are other people here. 
+23 
+24 Q 
+A So when you say "shake them up," what do you mean by that? 
+Just to show them that there's other, like, groups that don't want the 
+25 violence and don't want buildings or property destroyed and all that. So we marched in  11 
+1 with them to make sure that there was no trouble. 
+2 And there was no trouble. I mean, there was some words or stuff like that, but I 
+3 think it was a good thing. Nothing happened in Louisville after that, you know. A lot 
+4 of --it mainly has been peaceful-type stuff and it's great. That's what we like to see. 
+5 Q Certainly. So before these kind of events where you'd go down to protect a 
+6 gas station or a shop, would you communicate your intentions to law enforcement or 
+7 have any other kind of coordination with law enforcement? 
+8 
+9 
+10 A 
+Q 
+A They knew we were there, yes. 
+And how would they typically know that? 
+I don't know all the details of it, but I know that somebody was in contact 
+11 with one of the higher-ups down there, letting them know every time that we were there. 
+12 And every time that we were done and we left, we would --that person would inform 
+13 them. Now, what they talked about or anything, I don't know. 
+14 Q Was that something that had been done for many events or was it more 
+15 specifically centered around the summer of 2020, the law enforcement liaison? 
+16 
+17 
+18 A 
+Q 
+A You're talking about like other things going on? 
+Yes. 
+Yeah. We would generally inform any of the, like, sheriff's departments or 
+19 city police that we were --we were going to be there in the events. And they okayed 
+20 and they were with it, never gave us any trouble. We never gave them any trouble. So 
+21 they were okay with it. Always informed when we went in. 
+22 Q And if there was a perceived need to bring weapons or other equipment, 
+23 would you tell the law enforcement that as well? 
+24 
+25 A 
+Q Yes, sir. They were well aware. 
+As far as you knew, there was never any objections lodged by law  12 
+1 enforcement to those activities? 
+2 
+3 A 
+Q No, sir, never. 
+And during the events themselves, did you ever interact with law 
+4 enforcement? 
+5 
+6 A 
+Q Yes. 
+How so? 
+7 A In like your --not general like --like your --like the big city, like Louisville, we 
+8 didn't interact with them. They kind of stayed to theirself, we stayed to ourself, but 
+9 they knew where we was at all times. 
+10 The smaller towns, some of the officers, you know, would come in, you know, and 
+11 say, Hey, how you all doing or something like that. It wasn't nothing like a coordinated 
+12 thing or something, like, I guess. 
+13 
+14 Q 
+A Sure. That makes sense. 
+It was just a Hi, Hey, how you guys doing, you know. That's basically it. 
+15 Q That is helpful. One more question. It's a little broader --before I turn it 
+16 back to-· How did you view the Three Percenters' relationship with law 
+17 enforcement, or your role compared to law enforcement as you attended these events? 
+18 Mr. Wiest. He asked how did you view your role vis-a-vis law enforcement? 
+19 Like, how did you interact with them? What was your role versus theirs? 
+20 The Witness. Oh, you talking about like --like I said, you know, the crowds, you 
+21 know, just to make sure that people kept between both sides. If --like if somebody was 
+22 attacked and, I don't know, if law enforcement wasn't close enough to react, we could 
+23 maybe step in and help, like separate the parties, you know, just to keep the peace 
+24 between --between everybody. 
+25 Because everybody has their own, you know, views of everything. So we don't  13 
+1 judge on their view or our views or anything like that. We just want to make sure that 
+2 everything is peaceful and everybody go about their day. That's what it's all about. 
+3 - Got it. Thank you. I'll turn it back to - but looking forward 
+4 to more questions. 
+5 
+6 
+7 - Thankyou, 
+BY-
+Q So you keep mentioning the "we," which I find interesting. How is the 
+8 group organized? So how --let's start with the Grey Ghost Three Percenters. Was 
+9 there a formal organization? 
+10 A What do you mean a formal organization? Just like --it's just a group of 
+11 guys that --in a group that hang out. 
+12 
+13 Q 
+A How did you join the group? 
+I think I met --don't quote me on this. I'm not really exactly positive, but I 
+14 think it was during an event downtown Louisville that I met with the --I guess he's the 
+15 CO, I guess. I don't call him CO. I just call him a friend. 
+16 Q So there is a leader of this group, someone who calls --does he represent 
+17 himself as the CO? 
+18 
+19 
+20 
+21 
+22 
+23 A Yes. 
+Q And what is his name? 
+A It's Mike Cole. 
+Q Can you spell that? 
+A It's Mike, M-i-k-e, C-o-1-e. 
+Q Thank you. So was there any formal application that you had to do to join 
+24 the group after you met with Mr. Cole? 
+25 A No, sir.  14 
+No dues? 
+No. No, there was nothing like that. 1 
+2 
+3 Q 
+A 
+Q Did you have a weekly meeting or was it just whenever you all wanted to get 
+4 together? 
+5 A It's whenever everybody wants to get together, but we try to do it like once 
+6 a month, just, you know, get together and camp out in the woods or, you know, just 
+7 normal guy stuff, I guess. 
+8 
+9 Q 
+A Did you ever do any trainings together? 
+Yeah. We shot and --you know, shoot and stuff like that. We got targets 
+10 and, you know, stuff like that. We don't do any type of, I don't know, aggressive-type 
+11 training. I mean, we might set up some, you know, thing to walk through or something 
+12 like that, but it's not no aggressive-type stuff. 
+13 Q So I'm going to show you my lack of law enforcement experience. Can you 
+14 explain the difference between the trainings that you did and what you were saying were 
+15 more serious? 
+16 A Normal law enforcement. I was more a Reserve than --I didn't go to the 
+17 Academy, okay. I was more of a Reserve. It was your basic kind of like stuff we do 
+18 now. It's just your normal --your target practice with your right hand and switch to your 
+19 left. It's like move to this to shoot and then move to this area to shoot and then switch 
+20 up type stuff, some hand-to-hand stuff, baton-training, pepper spray-training and 
+21 taser-training stuff. 
+22 
+23 
+24 
+25 Q 
+A 
+Q 
+A Understood. So were you training in military formations at all? 
+On --through law enforcement? 
+Sorry. With the Grey Ghost group. 
+I don't know if you'd call it military. I mean, like if we was going to go down  15 
+1 the street or something like that we would --you know, we'd walk, I don't know, kind of 
+2 staggered. I don't know if you call that military stuff or not. We just staggered up on 
+3 each side of the road. 
+4 Q But in your words and as I take it, you weren't doing sort of advanced, more 
+5 tactical training when you met up. It was more target practice, some hand-to-hand 
+6 stuff, basic walking? 
+7 A Not in our group. You know, we don't do any of that hand-to-hand type 
+8 stuff. That was just law enforcement side. 
+9 
+10 Q 
+A Got it. 
+With, you know, the self-defense class, I think, is what they referred it to. 
+11 But on our side, no, we don't do stuff like that. We just --
+12 
+13 Q 
+A Okay. 
+We get together and camp out in the woods and some target practice, or go 
+14 rappel or something like that. That's --that's about it. 
+15 Q Appreciate it. And how did you communicate about these, you know, 
+16 getting together? Did you use messaging apps? 
+17 
+18 
+19 A 
+Q 
+A Like Telegram or something, they got like a little site. 
+Yes. 
+Get together on --our training on the first of the month or, Hey, we're going 
+20 to do some rappelling this weekend, you all want to come down. Just like that. 
+21 Q So I'm going to pull up exhibit 3, which is something you provided to us. 
+22 Give me one second. Okay. 
+23 
+24 
+25 So this --can you all see exhibit 3? 
+A 
+Q Yes, sir. 
+It looks like a chat labeled Kentucky Horses and Asses with 75 members.  16 
+1 This was a screenshot that you provided to us. Is this the Telegram chat that you used 
+2 with the Grey Ghost group? 
+Yes, sir. 3 
+4 A 
+Q Great. So I'm just going to --I'll pause here and take a little sidetrack for a 
+5 second, and we do this with all witnesses, but we just have to check for the record to 
+6 make --you know, ask you some questions about document production. 
+7 Did you search through your personal email for any responsive documents to the 
+8 subpoena? 
+9 
+10 A 
+Q Yes. 
+Thank you. And you provided the screenshot of the chat. Did you try to 
+11 log back into chat messages? 
+12 
+13 A 
+Q 
+14 responsive? 
+15 
+16 
+17 
+18 A 
+Q 
+A 
+Q What does he mean? 
+Sorry. Did you try to access your chat messages for messages that are 
+Yeah. For this? 
+Yeah. Just in general, for all your documents. 
+Yes. 
+Okay. So in terms of this particular screenshot then, was this just 
+19 something you had on your phone, the screenshot, and you could not access the full 
+20 chat? 
+21 A No, sir. I went back through the phone all the way back. It took me 
+22 like --like 2 hours to get to that point. And that's as far as back as it will let me go. 
+23 
+24 
+25 Q Okay. So all the messages before that were deleted? 
+Mr. Wiest. Do you know the answer to that? 
+BY- 1 
+2 Q 
+A You could not access the messages before this? 
+No. It won't go back any further. That's it. That's as far as back as it 
+3 would let me go. 
+4 Q Understood. Did you try to log onto Telegram on a computer, like a 
+5 personal computer? 
+6 
+7 
+8 A No, just --just my phone. I just used my phone. 
+Q Okay. 
+- Mr. Wiest, we might talk after this about whether that's possible. 17 
+9 know it can be sometimes. I'm not sure in this case it is possible. I'm not representing 
+10 that you were not responsive to the subpoena, but we can talk after if you'd like. Is that 
+11 okay? 
+12 Mr. Wiest. I think we can. I think he has undertaken an exhaustive effort to 
+13 produce documents in part of my instruction, and I don't think there's anything further 
+14 that can be accessed, but we can have a further conversation if you'd like. 
+15 - Yes. And I'd like to reiterate, I am not suggesting that you did not 
+16 do an exhaustive search and that you produced what you had found, but technology can 
+17 be sometimes complicated, so we'll touch base after. 
+18 But thank you very much, Mr. Kuntz. 
+19 
+20 
+21 
+22 group? 
+23 
+24 
+25 The Witness. Yes, sir. 
+Q 
+A 
+Q 
+A BY-
+Besides Telegram, did you use any other chat apps with the Grey Ghost 
+With Grey Ghost? No, I don't think so. 
+No Signal? 
+No. No, I don't think so.  1 
+2 
+3 
+4 
+5 Q 
+A Parler? 
+I don't think so. 
+Q Okay. Zella? 
+A Zella? 
+Mr. Wiest. No, I think he said that you know of. I don't --can you repeat that 
+6 question? 
+7 BY-
+8 Q Yes. Did you use, or do you know if you used any other chat-messaging 
+9 apps like with other members of the Grey Ghost group? 
+10 
+11 A 
+Q Honestly, I don't think so. I don't really remember, but I don't think so. 
+I appreciate it. Did you have a social --was there like a social media page 
+12 for the Grey Ghost group? 18 
+13 A No, just that, what's up there. I mean, it wasn't no --you talking about like 
+14 our own site type thing or --
+15 
+16 
+17 
+18 
+19 Q Yeah. 
+A No. 
+Q Like a Face book page or whatever. 
+A No. I --no. 
+Q Okay. Thank you. You mentioned a Mr. Cole before. Can you tell me a 
+20 little bit more about him. Does he live in Indiana? 
+21 
+22 
+23 
+24 
+25 A No, sir. He lives in Kentucky. 
+Q And do you know what he does for a living? 
+A I think he's retired. 
+Q Did he ever, like, explain to you how he started the Grey Ghost group? 
+A I'm not --I'm not really --I'm not really sure 100 percent how he come up  19 
+1 with that name or whatever, you know, because we were all together, and then I think it 
+2 was just a name that he come up with for us, you know, because we were always hanging 
+3 together. 
+4 Q Oh, so when you mentioned him being the CO, the name Grey Ghost hadn't 
+5 been established yet when you joined? 
+6 
+7 
+8 
+9 A No, I don't think so. 
+Q So why did you call Mike the CO then? 
+A I didn't call him --
+Q Not you, sorry. Why did he call himself the CO before there was the name 
+10 of the Grey Ghost? 
+11 A He was the creator of the Grey Ghost. So, I mean, it's --we --I mean, we 
+12 look at it as, you know, he's the creator of it, so he would be the CO. That's the best I 
+13 can describe it. 
+14 Q So when you met Mr. Cole, did he call himself the CO of, like, a Three 
+15 Percenter group or did that come later? 
+16 
+17 
+18 
+19 
+20 
+21 A Later. 
+Q So that came later? 
+A I think that came much later. 
+Q Do you remember when that was, about when? 
+A No, sir, I do not. 
+Q Totally fine. Thank you. 
+22 Does the Grey Ghost group --I know you mentioned the Central Kentucky Three 
+23 Percenters, but does Grey Ghost ever associate with Oath Keepers? 
+24 
+25 A We --can I take a sec? I mean --
+Q Yes. Do you want a couple minutes to talk to Mr. Wiest?  1 
+2 A Hang on. Yes, sir. 
+- Let's go for a quick recess at 10:40. You should mute and turn off 
+3 your video, though. 
+4 [Recess.] 
+5 
+6 
+7 - We'll go back on the record, 10:42. 
+BY-
+Q I think I had asked you before whether the Grey Ghost Patriot Rangers had 
+8 associated with the Oath Keepers? 
+9 A Yes, sir. Sorry about that. I didn't really understand that. But no, we 
+10 are not affiliated or associated with them in any way. 
+11 Q I appreciate it. Just let me know if you don't understand a question. I'll 
+12 rephrase. 
+13 Did the Grey Ghost Patriot Rangers ever work with the Oath Keepers? 
+14 
+15 
+16 A Yes, we have one time. 
+Q When was that? 
+A It was during an event downtown Louisville when like the gas station, the 20 
+17 pawn shop, taking care of those properties. We were asked to help with manpower to 
+18 protect those properties. And other than that, that's the only time we've ever dealt 
+19 with them. That's the only --
+20 Q How did the Oath Keepers ask you? 
+21 A That I'm not aware of, on how they communicate or anything. I was just 
+22 asked to come down. 
+23 
+24 
+25 Q Who asked you? 
+A I really don't remember. 
+Q But do you remember whether an Oath Keeper asked you directly or an Oath  21 
+1 Keeper asked Mr. Cole to ask the whole group? 
+A They didn't ask me directly, no. 
+Q So they asked Mr. Cole? 
+A I don't know if it was --if it was Cole or not. I don't know, I really don't. 2 
+3 
+4 
+5 Q That's okay. In terms of what happened at Louisville, do you remember the 
+6 Oath Keepers sort of --I don't know a better way to put it --like, kicking out certain 
+7 groups who were trying to provide defense? Like, the Oath Keepers, did they ever try to 
+8 tell certain groups to leave who had come to provide defense? 
+9 
+10 A I don't think so. 
+Q So you didn't see them telling other groups like yourself, other Three 
+11 Percenters or other people who had come to help defend buildings, to get out of 
+12 Louisville? 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 A No, sir. 
+Q Thank you. 
+A Yes, sir. 
+Q And do you personally affiliate with the Oath Keepers? 
+A Do I personally? 
+Q Yes. 
+A No, sir, I do not. 
+Q How about the Proud Boys? 
+A No, sir, I don't. 
+Q Have you heard of a group called the First Amendment Praetorian? 
+A No, I don't think so. 
+Q Okay. Do you associate with other militias --or groups? Sorry, let's just 
+25 say other groups.  1 
+2 
+3 A 
+Q 
+A Like talk to them or whatever? 
+Do you consider yourself to be, you know, a member in other groups? 
+No, not member. I mean, we have conversations, you know, with other 
+4 groups on social media type stuff. It ain't --we're not like a combined, you know, like 
+5 group. It's not nothing like that. 
+6 
+7 
+8 
+9 Q 
+A 
+Q 
+A Which groups do you have conversations with? 
+Just --let's see. Like the Central Kentucky AAF. 
+What does AAF stand for? 
+American Action Force I think is how they put it. Those are basically the 22 
+10 only people I really talk to unless they're like on a --like a chat or something. I mean, it 
+11 ain't --I don't know how --I really don't know how to explain it. 
+12 It's not --it's just on a social plat --you know, where everybody talks. I don't 
+13 really know the names of, you know, if they have groups or, you know, because a lot of 
+14 people, I guess, represent themselves as Three Percenters and, you know, and then not 
+15 be affiliated with the group, I guess the best way to --to describe it. So that's the best 
+16 way I know how to describe it, man. I don't know any other way to say it. 
+17 Q I understand. In terms of your interactions with the American Action 
+18 Force, do you know where they're located? 
+19 
+20 
+21 
+22 
+23 
+24 
+25 A 
+Q 
+A 
+Q 
+A 
+Q 
+A They are Indiana. Indiana -­
+And --oh, go ahead. 
+No, it's just Indiana, Kentucky, I think is how they do it. 
+And they are also a Three Percenter group? 
+Yes, sir. 
+I forgot to ask this, but Central Kentucky is also a Three Percenter, correct? 
+Yes, sir.  23 
+1 Q So the three, those three groups, when you say you talk to them mostly on 
+2 social media or most often on social media, do you all share like a specific chat or is it just 
+3 general conversation? 
+4 A Like they'll have --I don't know. I guess like Kentucky Horses and Asses, 
+5 they --they have their own little like talk thing for their group or something, and 
+6 then --but Central, they're just --they use our platforms, I guess, that Telegram Kentucky 
+7 Horses and Asses. 
+8 
+9 Q 
+A Have you heard of something called Sons of Liberty Reaper Crew? 
+I've heard of Sons of Liberty. Now, as far as who they are or what they're 
+10 with or nothing, no, I do not know them personally. 
+11 
+12 
+13 me. 
+14 Q 
+A 
+Q So do you know who Ellen Ha non is? 
+No, I do not. Not that I am aware of. I don't --the name doesn't recall 
+That's fine. I'll pull up exhibit 2 on page 4. I think Mr. Wiest represented 
+15 to me that you lost access to social media, so we have some of your old posts here and a 
+16 Ms. Ha non on November 10th responded to your post where you say, "Everyone will 
+17 know my name one day, I am the reaper," with what looks to be a Meme called Sons of 
+18 Liberty established 1765, Reaper Crew. What is --
+19 A That's just like a sticker that somebody made up. You know how you can 
+20 go in and bring up different type things. It's not a --it's not a group. It's just a --how 
+21 do you say this? You can go in and there will be, like, different types of reapers in there 
+22 and different sayings and stuff like that. 
+23 
+24 
+25 that is. Q 
+A It's a Meme? 
+Yeah. It's not a --it's not a group or nothing like that. That's not what  1 
+2 
+3 Q 
+A 
+Q So what is the significance of the reaper? 
+It's --I just think it's cool, I mean. 
+Do a lot of people talk together about the reaper? So it seems like 
+4 Ms. Ha non said "Reaper Crew." I mean, is there like a group of people online who all 
+5 associate around the reaper that you know of? 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 rights. A 
+Q No, not that I know of. 
+Great. Just one more question, then I'm going to give it over to-. 
+Would you consider Grey Ghost Kentucky Patriot Rangers to be a militia? 
+A 
+Q 
+A 
+Q 
+A 
+Q 
+A Yeah. 
+And why would you say that they are a militia? 
+That's what my CO calls it. That's the only way I can describe it. 
+So what does a militia mean to you? 
+Just --just like people who guard the Constitution and believe in people's 
+Does being a militia have anything to do with the training that you do? 
+I don't --I don't really know. Like I said, we just get together and, you 
+17 know, just have fun together and just do different things. I mean, that's the way I look 
+18 at it. I don't look at it as --as a militia or whatever. I just see a bunch of guys get 
+19 together and just have fun on the weekends. 
+20 Q Right. But a lot of guys get together a lot of times, and I would hope that 
+21 most Americans want to defend constitutional rights and protect people, but not every 24 
+22 group of people hanging out would call themselves a militia. So I'm wondering why you 
+23 would call the Gray Ghost a militia. 
+24 A I don't call them that. Now, my CO says he's militia. I don't --I've never 
+25 heard him say we're militia, not that I'm aware of. I mean, he always says he's militia.  25 
+1 So, I mean, I don't know. We --I don't --I really don't know why he calls it that. But 
+2 that's just him. 
+3 I'm not saying I've never said it, you know, kidding around or something like that, 
+4 but --you know, to appease him or whatever, but I just don't --I just don't look at it like 
+5 that, I really don't. 
+6 Q Do you think it has to do with, you know, target practice and the other small 
+7 shooting trainings that you all do? 
+8 A Do we consider that? We just do it whenever we show up, just something 
+9 to do. You know, if the wives are there or if kids come, you know, we let them shoot at 
+10 targets and, you know, just --
+11 Q Right, but do you think Mr. Cole uses the term "militia," in part, because of 
+12 those types of trainings? 
+13 A I don't --I don't believe so, but I know he's been in other groups. So maybe 
+14 that's how --why he does --says that, but I really don't know. 
+15 
+16 
+17 
+18 Q 
+A 
+Q I appreciate it. I'm sorry, one second. 
+You're okay. 
+I lost my voice over the weekend. That was fun. 
+Do the Gray Ghost Patriot Rangers, do they --I know I asked about the Oath 
+19 Keepers. Have they ever worked with Proud Boys? 
+20 A I don't think so. I never, I mean, really have worked with them. I mean, 
+21 no, not as far as --are you talking about helping them or --
+22 Q The same way you described working together with the Oath Keepers on 
+23 something, so --
+24 A No. I mean, we've been in the same areas that they've been in. We've 
+25 never actually worked together or anything like that.  26 
+1 Q You didn't communicate ahead of time when you were in the same area as 
+2 them, did you? 
+A What is it? 3 
+4 Q Did you communicate with the Proud Boys ahead of time before you were in 
+5 the same area as them? 
+6 
+7 
+8 
+9 
+10 
+11 
+12 A No. 
+Q And aside from --
+A I never did. 
+Q I'm sorry, what? 
+A I never have. 
+Q That's all you can answer for. Thank you. 
+And in terms of other militias, you talked about the socialization with Central 
+13 Kentucky and the AAF. Did the Grey Ghost militia work with them on anything? 
+14 A Just --I mean, we were together like downtown. I think they might have 
+15 had one or two guys there, you know, just to help out, but that was only for like a night. 
+16 But it's not nothing --I mean, if we ask them for help, Hey, can you come help us with this 
+17 rally or something or, you know, but other than that, no, it's nothing. 
+18 
+19 
+20 
+21 so. 
+22 
+23 
+24 
+25 Q Understood. Thank you. 
+Any other militias that Grey Ghost Patriot Rangers have worked with? 
+A Not that I'm aware of, other than them. I really don't know. I don't think 
+Q Okay. Thank you very much. --- Thank you,_ 
+BY-:  1 
+2 when Q I had a couple of questions to follow up on those points. And I noticed 
+asked you if you were affiliated with the Oath Keepers and the Proud 
+3 Boys, you gave a pretty quick response both times. 
+4 I wonder is there a reason why you aren't associated with the Oath Keepers? 
+5 A Just I have no desire, you know, to be affiliated with them. I mean, I'm 
+6 happy with the guys that I'm around, you know. It's --it's --I have no desire to be with 
+7 Oath Keepers, never have. 27 
+8 Q What do you see as the difference between your organization and the Oath 
+9 Keepers? 
+10 A From what I understand, the Oath Keepers get paid to do events or to 
+11 protect, like, buildings and stuff like that. They get paid for that stuff. We don't. We 
+12 just --I look at us as just a bunch of guys that hang out to have fun on the weekend, one 
+13 weekend a month. 
+14 
+15 Q 
+A Got it. And what about the Proud Boys? 
+I mean, I know they're --honestly, I don't know much about them other than 
+16 I know they show up to a lot of protests and whatever, just stuff I see. I don't know any 
+17 personally. 
+18 Q Do you see any ideological differences between your Three Percenter group 
+19 and the Oath Keepers and the Proud Boys? 
+20 A From what I seen is the PBs are totally different than what we are. They go 
+21 in, I guess, to fight or whatever. The Oath Keepers are for guarding and protecting 
+22 buildings and stuff like that, events that they're paid. 
+23 And we're just, you know, if we're asked to help type. You know, we'll --we'll go 
+24 down and help them, you know, if they ask or somebody asks us to come down, you 
+25 know, but that's the difference I see, is just help, just to help.  1 Q And when you are involved in similar events with these other groups, did 
+2 you see any shared mission or shared vision that you all had as to why you were there? 
+3 A No, I don't think so. It's just --the only thing I can think of is that we're 
+4 there just to keep the peace. Other than that, I mean, that's about the only thing I can 
+5 say. You know, we --I don't know. That's about the best I could say is just to make 
+6 sure the peace was kept and that's it. I mean, it's a good thing. So everybody wants 
+7 peace. 
+8 Q That's helpful. Thank you. 
+9 - Back to you, 
+10 - Thank you, 
+11 BY-
+12 Q So I'm going to move us to talking about specific events, starting in 
+13 November 2020 and moving on through January 2021. For now, we're going to be in 
+14 November of 2020. 
+15 Did you believe that the 2020 election was stolen? 
+16 Mr. Wiest. I'm sorry. Did you ask whether he believes that today or whether 
+17 he believed it --
+18 
+19 - At the time. At the time. 
+The Witness. At that time, I really don't know what I thought, you know, about 
+20 that. I really still don't to this day, I mean, really. 
+21 
+22 Q BY-
+Did you start participating in any rallies about stopping the steal or 
+23 supporting President Trump after the election? 
+24 
+25 A No. Are you talking about being at a rally? 
+Q Yes. 28  29 
+1 A I mean, we was --we was there for the rallies in D.C. Yeah, we were there. 
+2 Q So why did you attend those --we'll start with the November 14th rally. 
+3 Why did you attend that rally? 
+4 A To hear Trump speak. And then, I think there was some other speakers 
+5 there or something that day. I'm not really 100 percent with who was all there, who 
+6 spoke or any of that. 
+7 Q And we're talking about the November 14, 2020, rally. I don't believe 
+8 President Trump --well, actually, I can represent to you President Trump did not speak at 
+9 that rally. Was it your expectation that he would have spoken? 
+10 A I would say probably yes. I mean, I'm not 100 percent sure, but I think I 
+11 thought that he was supposed to speak then. 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 14th? 
+21 
+22 Q Do you remember where you learned about the event? 
+A On social media, I think, is where we --where I seen it at. 
+Q Do you remember if it was a group called Women for America First? 
+A I don't remember. 
+Q That's okay. If you don't remember, you don't remember. 
+Does the name Ali Alexander ring a bell? 
+A 
+Q 
+A 
+Q I don't think so. 
+Do you remember seeing anything that Alex Jones posted about November 
+No, I don't remember that. 
+Do you have any sort of recollection about what you were seeing on social 
+23 media that told you about November 14th? 
+24 
+25 A Honestly, no, I don't. 
+Q Okay.  1 
+2 A I really don't. 
+Q That's completely fine. And you mentioned that "we" went. So did you 
+3 go with other people to the November 14th rally? 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 A Yeah, I went with a friend. 
+Q Is this friend part of the --sorry, go ahead. 
+A Sorry. He drove. 
+Q Was he a member of the Grey Ghost Patriot militia? 
+A Yes. 
+Q And what is his name? 
+A Dan Wire. 
+Q 
+A Dan Wire. Anyone else go with you guys? 
+I don't think so in November. Was it November? I can't remember if it 
+13 was November or December. My --a friend went with me. She's a girl. She went 
+14 with us. Chrissie I think is her name, I think. 
+15 Q So Chrissie either went with you in November or December, you just can't 
+16 remember? 
+A Yeah. 30 
+17 
+18 Q That's okay. Did you coordinate with anyone else besides Dan Wire about 
+19 going to D.C. in November? 
+20 
+21 
+22 A 
+Q 
+A No. 
+Did you meet up with anybody there? 
+No. No, I don't think so. I don't think. I'm not sure what all happened 
+23 on that date. It's been so long. I don't want to say yes, no, this is what or --I 
+24 really --honestly, I do not know. 
+25 Q That's okay. So the questions are to the best of your recollection. And if  1 you can't remember, you can't remember. That's okay. 
+2 
+3 
+4 
+5 
+6 A 
+Q I apologize. 
+Thank you. 
+Did you expect any sort of violence to occur in November 2020 at the rally? 
+A 
+Q No, sir. 
+I'm going to share exhibit 2, page 5, if I do this correctly. So this page has 
+7 two Facebook posts by you. The first is November 10th, and the second is also on 
+8 November 10th. 31 
+9 So it looks like you were posting from Florida with someone named Angry Viking. 
+10 Can you all see that? 
+11 
+12 A 
+Q Yeah. 
+Okay. And somebody named Deep Talker replies to your post, saying: 
+13 "Let me know when you need some real pipe hitting boys." And you reply: "Deep 
+14 Talker, Hell yeah, it's about time to act, buddy." 
+15 What were you referring to there? 
+16 A Honestly, I don't know. It was probably just making fun of him or 
+17 something. It's --I mean, there wasn't nothing, you know --on my side, there was 
+18 nothing meant to be bad about it. I was probably making fun of him or just getting him 
+19 to leave me alone-type post. 
+20 Q Well, you're talking --your post is about --well, Mr. Wire says: "D.C. this 
+21 weekend, you in?" You say, "Dan Wire, you driving?" So it seems Deep Talker might 
+22 be referring to the weekend in Washington, D.C. 
+23 Did you at all expect there to be violence that weekend? 
+24 
+25 A 
+Q No. 
+So do you remember what you did in November in D.C.?  32 
+1 A I mean, the only thing I can think of would be in the crowds, you know, just 
+2 seeing everything. I can't remember if they had a stage or something, a stage set up or 
+3 something or --I don't know. I really don't know. Just in the crowd with everybody 
+4 just walking around. 
+5 
+6 
+7 Q 
+A 
+Q But you weren't there to provide security or anything, right? 
+No, I don't think so. 
+Did you talk to any other members of Three Percenter groups while you 
+8 were in D.C.? 
+9 A I don't --honestly, I don't know who we talked to or who was there. It was 
+10 just chaos, I guess, around with all the people, and I can't remember that kind of stuff. 
+11 Q That's okay. I want to show you exhibit 18, which is a screenshot that you 
+12 provided to us. It looks like someone took a picture of you and then posted. 
+13 
+14 
+15 
+16 A Antifa did. 
+Q So it's antifa. That's them? 
+A Yeah. 
+Q "Chucklefuck on the right in picture 1 had the pliers and flashed the sign 
+17 after Federal police told them to F off." 
+18 Do you know what this person is talking about? 
+19 A I have no idea. I guess he's --what --me, I guess, is that what he's calling 
+20 Chucklefuck? 
+21 
+22 
+23 
+24 
+25 Mr. Wiest. Do you know? 
+The Witness. No, I don't know. I don't know who he's talking about. 
+Q 
+A BY-
+Did you bring pliers to D.C.? 
+Did I bring what?  33 
+1 Q The person's post mentions pliers. It's not clear if he's talking about you or 
+2 another person in the photo. So did you bring pliers to Washington, D.C.? 
+3 A No. No, I didn't have anything on me at all. Just a jacket and a shirt right 
+4 there, my glasses. 
+5 Q Okay. Did that that person, Angry Viking, who you mentioned in the 
+6 previous post, go to Washington, D.C., on November 14th? 
+7 
+8 
+9 
+10 
+11 A No. You're talking about in D.C.? 
+Q Yeah, in D.C. 
+A No. To my knowledge, he wasn't there that I know of. 
+Q Okay. And who is Angry Viking? 
+A Just a nobody guy, maybe. I mean, he's not --I mean, he's nothing, really. 
+12 He just got a bunch of people together, that was it, for a march down in Louisville, and 
+13 one in Florida. And after that, he's just --I don't know what he does. 
+14 Q Understood. So now we're going to talk about that December 12, 2020, 
+15 rally that you remembered earlier. Do you remember how you learned about that 
+16 event in Washington, D.C.? 
+17 A Social media, I do believe.  1 
+2 [11:12 a.m.] 
+3 BY-: 
+4 
+5 
+6 
+7 
+8 
+9 Q Okay. But you can't remember a specific poster, things like that? 
+A 
+Q No. 
+I'm going to show you exhibit 2, page 2. 
+Am I sharing it? Nope. Sorry about that. 
+So you'll see --can you see this, Mr. Kuntz? 
+A Yes. 34 
+10 Q Great. And so this is a Facebook post from you sharing what looks to be a 
+11 flyer for the march for Trump on December 12, 2020. And you say, "This is Reaper. 
+12 We are going." 
+13 Who is the "we"? 
+14 
+15 
+16 A 
+Q 
+A Probably me and Dan. 
+Did you go with anyone else from Grey Ghost? 
+No. I think it was just --it was just me and him that drove together, if that's 
+17 what you're asking. 
+18 
+19 
+20 
+21 
+22 
+23 Q Yeah. Did you meet --
+A Just me and --
+Q Go ahead. 
+A Yeah, it was just me and him. 
+Q Did you meet up with anybody in D.C. that day? 
+A I don't think so. I don't --I don't really know. Let's put it that way. 
+24 really don't know. There was so many people there. 
+25 Q Okay. Do you remember why you decided to go to D.C. for this march?  35 
+A Just to go. That's the best way to describe it. Just to go to see it. 
+Q What was the purpose of seeing it? 1 
+2 
+3 A Well, hopefully the --I guess, see Trump and all the people and --I never --I 
+4 mean, these are the only two times at that point that I had ever been to D.C., and I was 
+5 more amazed with it than I was with anything else. 
+6 Q So this flyer, it says, "#StopTheSteal," "#AuditTheVote," 
+7 "#ElectionlntegrityNOW." 
+8 
+9 
+10 D.C.? 
+11 
+12 so. 
+13 A Uh-huh. 
+Q Were those issues on your mind when you decided to go to Washington, 
+A I don't think so. I mean, I don't --I can't be 100 percent, but I don't think 
+Q So, in this post, a Jason Cum le replies to you, and I can summarize 
+14 that --maybe it's a flippant comment, but saying something like "Trump did not do 
+15 everything he said he would do." And you reply, "I understand but we half to stand 
+16 together to fight this bull shit that is going on buddy." 
+17 So what were you fighting against? 
+18 A To be honest with you, I don't know. I don't know. I don't even 
+19 remember writing that. 
+20 Q You don't remember wanting to stand up against the, you know, 2020 
+21 election results and try to get President Trump another term in office? 
+A No. No, I don't. 22 
+23 Q Was supporting Mr. Trump's efforts to get a second term on your mind at 
+24 the time? 
+25 A Honestly, I don't know what I was thinking, other than --I mean, I  1 remember, you know, D.C., being just amazed with it, because I'd never been there. 
+2 You know, I'd been there in November, but then we was going back again, and I wanted 
+3 to see more of it. I think that was more on my mind than anything. 
+4 
+5 Q Okay. 
+Well, I'm going to show you page 9 of exhibit 2. This is your post from 
+6 November 24th. And you say, "This is Reaper. You all need to join my telegram page 
+7 with other patriots i understand how some feel but if my fb goes down we must stay in 
+8 contact at any cost." 
+9 Do you remember writing this post? 
+10 
+11 
+12 A 
+Q 
+A No. I don't remember writing it. 
+Did you start a Telegram page? 
+I don't personally have a Telegram page. I don't --yeah, I don't think so. 
+13 don't have one. 
+14 Q Well, if we scroll down, it looks like people are sending you messages. 
+15 "Message sent." Ms. Hanan says, "Absolutely." 36 
+16 A What them are --I couldn't tell you what --what that was about that. But I 
+17 don't think personally I ever had a Telegram page, unless it was a site, maybe an old site 
+18 or something I had been on for --people could join or something. I really don't know. 
+19 Q Okay. 
+20 Well, a couple of days before that, on November 22nd, you posted, "This is Reaper 
+21 i need all to message me soi can get you to telegram site so you can talk about patriot 
+22 stuff with other patriots pis and thank you." 
+23 What did you --
+24 
+25 A 
+Q I mean, that could be. 
+What did you mean by "patriot stuff with other patriots"?  1 A Patriot-type people, I guess that's --I don't know. People who wanted to 
+2 talk on social media with other people about what --I guess the events that have 
+3 happened or whatever. 
+4 
+5 
+6 
+7 Q 
+A 
+Q 
+A Well, what do you take the term "patriot" to mean? 
+American people. 
+Is there a specific kind of American person that would be a patriot? 
+No. American people in this country. American people are patriots. 
+8 Everybody's a patriot, in my eyes. Me, you, everybody. 
+9 
+10 
+11 
+12 
+13 
+14 --
+- Thankyou. 
+BY-: 
+Q Mr. Kuntz, I just had a couple followups on those points. 
+Do you think there are Americans who aren't patriots? 
+A I don't know personally. I mean, I don't know any personally, but I guess. 37 
+15 I mean, that's their right, I guess. But I don't look at anybody other than a patriot in this 
+16 country. 
+17 Q showed you some messages that involved antifa earlier. Do you 
+18 believe that individuals involved with antifa are patriots? 
+19 A Yes. Everybody in this country, to me, is a patriot. They have a 
+20 right --they have the same rights as I do, you do, or anybody. 
+21 Q So, when you were going to protect buildings over the summer, over the 
+22 summer of 2020, were you protecting them against individuals who you believed to be 
+23 patriots? 
+24 A Individuals --anybody that was there to destroy that property. Not --my 
+25 belief is all Americans are true patriots in this country. It doesn't matter what, I guess,  38 
+1 their beliefs or my beliefs or whatever, but they're still --they're still Americans. They're 
+2 patriot Americans. 
+3 Q Understood. You spoke earlier about, sometimes we need to bring 
+4 weaponry to defend against other armed groups who had weapons. So I'm curious 
+5 about what you think the purpose of those groups were if they were also patriots. 
+6 A When you know that, like, another group has weapons, and if you --and you 
+7 come in with yours, it's a big deterrent for no violence. They got weapons, we got 
+8 weapons. And it --I've never seen any trouble whatsoever, you know, at either side. 
+9 Q So are there groups that you view as threats to the constitutional order or to 
+10 the United States in general? 
+11 
+12 
+13 A 
+Q 
+A Me personally -­
+Yes. 
+--no. Because I don't --I just --I don't know if I look at things different 
+14 than a lot of people do or whatever, but their side, my side, whoever's side, they're still 
+15 American people, patriots. They have a right to do the things they're doing until they 
+16 start, like, burning down buildings, I guess, or beating people up or something like that, I 
+17 guess. 
+18 Q I guess I'm a little confused, because you have described the Three 
+19 Percenters as standing for the Constitution and wanting to protect individuals. So --
+20 
+21 A 
+Q Protect people's rights. 
+Right. Right. And so the armed groups who are trying to destroy other 
+22 individuals' properties or potentially harm people, what do you think their purpose is? 
+23 A I don't know what their purpose is. I know what my purpose is or what our 
+24 group's are. Okay? If I'm there to protect property, I'm going to defend that property. 
+25 Okay?  1 But anything other than that, than what we are asked to do, the police have to 
+2 handle the other side. We are not police officers. 
+3 
+4 
+5 Q Uh-huh. 
+A We're there to protect the people's stuff, if we are asked. 
+Q Right. And, just to be clear, you didn't expect any individuals who were 
+6 trying to damage other folks' property --you didn't expect them to be in D.C. in the 
+7 December event you're talking about now with-? 
+A No, not that --not that I'm aware of. 
+Q All right, thank you. That was helpful. 
+Sorry for the interruption, 
+- Absolutely fine. 39 
+8 
+9 
+10 
+11 
+12 We've been going for about an hour and 20 minutes or so. Do you need a break, 
+13 Mr. Kuntz? 
+14 
+15 The Witness. Can I go to the bathroom real quick? 
+- Sure. Why don't we just take a 10-minute recess, and we'll come 
+16 back at 11:30 or so. Does that work, Mr. Wiest? 
+17 Mr. Wiest. Yep, that works. 
+18 
+19 
+20 - Great. Thank you. 
+And we'll go off the record. 
+[Recess.]  40 
+- We can go back on the record at 11:34 a.m. 
+BY-1 
+2 
+3 
+4 Q So, Mr. Kuntz, before the break, we had been chatting about some Facebook 
+5 posts from November 2020 where you asked people to join a Telegram page. 
+6 I'm going to bring those back up. And they're exhibit 2. Right now it would be 
+7 page 9. 
+8 Part of what you post is that "if my fb goes down we must stay in contact at any 
+9 cost." Was it safe to say that you were afraid Facebook would take down your profile? 
+10 
+11 
+12 
+13 
+14 
+15 A I mean, by that post, maybe. 
+Q Was it something that you were afraid of quite often in November 2020? 
+A I don't know. I really don't know. 
+Q Was it your common practice to invite people to a Telegram page? 
+A Yeah, I mean, I invite people to them all the time. 
+Q So here, specifically, you say "join my telegram page." So you --what 
+16 Telegram pages were you inviting people to all the time? 
+17 
+18 A Oh. I --I don't know. 
+Q Well, just describe a little bit of the process. If you weren't inviting people 
+19 to your Telegram page, what were you inviting them to do? 
+20 
+21 
+22 
+23 A I guess to join Telegram. 
+Q Just to join Telegram? Or to talk to specific people on Telegram? 
+A I --I --I really don't know. I really don't. 
+Q Well, if we go to page 11 on exhibit 2, you'll see as I start scrolling that there 
+24 are a lot of people who seem to be responding to you. 
+25 For example, Jeffrey Johnson says, "I would like in."  1 
+2 
+3 Ted Jagen, J-a-g-e-n, says, "Hell yea." 
+Rick Adgate: "I'm in Patriot!" 
+David Hughes: "I'm in hands down. But if we keep talking like this we will 
+4 eventually be looked at and maybe looked for." 
+5 Scott Pease says he sent you a message. 41 
+6 "Jeff McIntosh. Douglass county, Oregon 111%. We are on Telegram, and use it 
+7 regularly." 
+8 So do you know who these people are? 
+9 
+10 
+11 
+12 
+13 
+14 A 
+Q 
+A 
+Q 
+A 
+Q No. 
+Did they join your Telegram page? 
+I --I don't know. I really don't. 
+Do you remember getting messages from them about Telegram? 
+No. No, I do not. 
+Let's flip back to page 11. Shannon Marie responds that "I have maybe 3 or 
+15 4 other's in my friends list who would probably be interested. I will work on that today." 
+16 Someone named Karen Delph says, "Are you talking about AV or something else?" 
+17 Shannon Marie says, "Something else, would you like me to send you the link?" And 
+18 eventually you respond, "something else." 
+19 What is "AV"? 
+20 
+21 
+22 
+23 A The only thing I can think of, "AV" is the Angry Viking. 
+Q Was this a Telegram site for Angry Viking? 
+A 
+Q I don't know. I don't remember. 
+It seems you said "something else," so, at that time, what would that else 
+24 have been? 
+25 A Yeah, I don't remember.  1 
+2 
+3 Q 
+A 
+Q Were you often inviting people to Angry Viking's Telegram site? 
+I --I --I don't remember. I really don't. 
+So, for instance, do you know who Jeff McIntosh is, the person who said 
+4 "Douglass county, Oregon 111%"? 
+5 
+6 
+7 
+8 A 
+Q 
+A 
+Q No, I do not. 
+Do you know who Dan Markle is? "I sent a pm but I'm interested." 
+No, I do not. 
+Do you have any idea why all these people are interested in joining this 
+9 Telegram site based on your post? 
+10 
+11 
+12 
+13 
+14 
+15 A 
+Q 
+A 
+Q 
+A 
+Q No, I do not. 
+Do you remember what you talked about on Telegram around this time? 
+No, sir, I do not. 
+Was there ever a discussion about civil war? 
+I --I --I really don't know. 
+Okay. 
+16 Well, if we go to page 19 of this exhibit, this is a post you made on 
+17 November 18th: "I really hope everyone on here has made peace with god and who 
+18 ever and is ready to take back our country because the shit is coming people." 42 
+19 And it looks like you post a link to your Parler account. Do you recognize that as 
+20 a Parler account belonging to you? 
+21 
+22 
+23 
+24 A 
+Q 
+A 
+Q No, I do not. 
+Do you remember using Parler? 
+No, I do not. 
+In the course of providing documents for this deposition, from what you 
+25 responded to me earlier, did you check if you had a Parler account?  1 
+2 A No. I don't --I don't remember ever having one. 
+Q Okay. 43 
+3 And thinking about the December 12, 2020, rally in Washington, D.C., did you talk 
+4 to other groups, like the Proud Boys, before you went? 
+5 
+6 
+7 A No, sir. 
+Q Okay. 
+I want to show you a post that you made on November 24th. It's page 10 of 
+8 exhibit 2. 
+9 "This is Reaper. Washington plaza in Washington DC December 12 is the 
+10 meeting place of patriots and proud boy's are meeting up to counter blm and antifa. It's 
+11 time to show them who owns the street's we are done sitting back." 
+12 Were you talking to Proud Boys about going to the December 12th rally? 
+13 
+14 A 
+Q No, sir. 
+How did you know the Proud Boys would be in Washington, D.C., on 
+15 December 12th? 
+16 
+17 A I don't remember. 
+Q And, back to-questions about patriots, this sentence structure is 
+18 set up so that you're --the "patriots and proud boy's are meeting up to counter blm and 
+19 antifa." So why would that be necessary if BLM and antifa are patriots? 
+20 A I don't know. 
+21 Q What did you expect BLM and antifa to be doing in Washington, D.C., on 
+22 December 12th? 
+23 
+24 
+25 A I don't --I don't know what they'd be doing. Hopefully just nothing. --? 
+- Thankyou.  1 
+2 Q BY-: 
+You said earlier you didn't expect there to be any sort of hostile group 
+3 activity in D.C. in November or December. Do you remember now any mention of 
+4 potentially dangerous groups being there, given this post? 
+5 
+6 A 
+Q No, I do not. 
+So what do you mean when you say "done sitting back"? What kind of 
+7 activity does that imply to you, reading the post? 44 
+8 A I --honestly, I don't remember. I don't remember, you know, saying that or 
+9 anything. I don't know what that could've meant at that time. I don't know. 
+10 
+11 
+12 Q 
+Q Thanks. 
+BY-: 
+Reading it today, though, I think-was trying to get at, what is --how 
+13 do you take this post today? 
+14 
+15 
+16 A 
+Q 
+A Just a rant. Maybe people just --people just to show up for a rally. 
+Why did you feel the need to rant? 
+I mean, I don't know why I ranted that day about that. I mean --I don't 
+17 know. It makes you feel better to get whatever off your chest at that time, I guess. 
+18 Q So we've seen a number of posts, though, where you're mentioning similar 
+19 language about patriots, and I'm trying to --we'll scroll down a little bit here. 
+20 Earlier on November 24th, you said, "This is Reaper i hope all on here are ready to 
+21 go to work if Biden gets in because we all will half to do the right thing in order to save 
+22 this country.once again we shall rise to defend her." 
+23 So there seems to be a common theme of, you know, protecting the country 
+24 against some sort of enemy; it seems like President Biden here. 
+25 So do you remember what you were ranting against at that time in general?  1 
+2 
+3 
+4 
+5 A No, sir, I do not. 
+Q Well, why would people need to rise up to save the country? 
+A I --I really don't know. 
+BY-: 
+Q This post-just showed you was on November 24th, and you say 
+6 there, "if Biden gets in." So, obviously, by that point, the election had been called for 
+7 President Biden a few weeks beforehand. 
+8 Did you believe at the time of this comment that there might be a chance that 
+9 President Biden would not take office? 
+10 
+11 
+12 
+13 
+14 
+15 A I really --I don't --I don't know. I mean, I really don't. 
+Q And --
+A It's --
+Q Go ahead. 
+A It's been so long back, I don't know. 
+Q And returning to -'s question, do you have any sense of what you 
+16 meant by rising to defend our country against, what it seems to be, the threat of the 
+17 President-elect? How else do you read that comment? 
+A No, sir, I do not. 
+Q Okay. 
+BY-: 45 
+18 
+19 
+20 
+21 
+22 Q I'm going to scroll to page 16 and 17, just to try again just for your memory. 
+So, on November 20th, it looks like you posted what I'll call a meme. It says, 
+23 "This is Reaper. Lets see who agrees with this. Are you ready to give up everything to 
+24 do the right thing when the time comes?" That post was at 6:17 p.m. 
+25 And earlier in the day, at 8:10 a.m., you posted, "I abide by the law's of the  46 
+1 constitution not by the law's of a tyrant governor." Someone named Scott Stoebe, 
+2 S-t-o-e-b-e, says, "By the constitution we should of already been hanging motherfuckers," 
+3 and you reply, "agreed brother." 
+4 
+5 How do you take that post? 
+A I --I --I don't know. I mean, at that time --I mean, I don't know what I was 
+6 thinking at that time. 
+7 Q Is there any other way to read you responding to Mr. Stoebe in this way 
+8 other than that you agreed with his point, that people should've been hanging? 
+9 A I don't know --now, we're not like that. We don't go and just hang people. 
+10 I mean, that could --that could mean anything. I mean, I really --I honestly, I don't 
+11 know. 
+12 
+13 
+14 Q So I guess the first question is, do you know Mr. Stoebe? 
+A No, I do not. 
+Q But he has commented on your Facebook posts before? Or --do you 
+15 recognize his name? 
+16 
+17 
+18 
+19 
+20 A No, sir, I do not. 
+Q Okay. So what other meanings could "hanging motherfuckers" have? 
+A 
+Q 
+A That --that's him. That's his, I guess, his belief, his way of talking. 
+But you do say, "agreed brother." So what are you agreeing to? 
+I mean, I don't agree to that. So I don't know what I was thinking at that 
+21 time. I don't know. 
+22 
+23 
+24 
+25 Q At the time, were you worried about the direction of the country? 
+A Nnn---
+Q It's just a --
+A No.  47 
+1 Q Well, just help us out a little bit, Mr. Kuntz, because it's a pretty extreme 
+2 statement. And there's a series of similar posts that evoke --that seem to evoke a sense 
+3 of, like you said, ranting or outrage. So we're just trying to understand what it was that 
+4 was making you angry or upset or concerned at the time. 
+5 A I --I --I really honestly do not know at that time. I don't know what I was 
+6 thinking or even doing that day. 
+7 Q Well, not just that day; in general around this time. Following the 2020 
+8 election and, you know, up through these rallies so far, that's the time period we're 
+9 talking about. Do you think it had anything to do with the 2020 election? 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 about? A 
+Q 
+A 
+Q 
+A 
+Q Do I think? 
+Do you think, yes. 
+I don't know. I don't think so. 
+Do you have reason to believe it was something else that you were angry 
+I --I don't know. 
+Okay. --
+- Sure. 
+BY-: 
+Q So I'm wondering if you can give us any more clarity on who you think Mr. 
+21 Stoebe might have meant when he was talking about, quote/unquote, "motherfuckers" 
+22 who should be hanged. Do you have any recollection of who that is? 
+23 
+24 A 
+Q I --I have no idea. 
+Is this the kind of content that you regularly saw on your Facebook? 
+25 Because, for me, this would stand out in my memory.  48 
+1 A People --people post whatever. I don't --I mean, I can't stop them from 
+2 posting stuff, you know, on what they post on mine or anything. I mean, I --I don't 
+3 know what this was about or anything. I really don't know. 
+4 
+5 Q And so I believe -- ( if you could scroll up just to see the initial post. 
+So this is what the post was about, that it was the laws of the Constitution and not 
+6 a tyrant Governor. Who was the tyrant Governor you're talking about there? 
+7 
+8 A 
+Q I --I would say Andy Beshear. 
+Right. Governor of Kentucky at the time. Why would you have 
+9 characterized him as a tyrant in this post in November 2020? 
+10 A I --like I said, I really don't know. I don't know what was going on at that 
+11 time. 
+12 Q Well, I think one thing that was going on was that the election had happened 
+13 a couple of weeks prior, and President Trump was heavily contesting, as I'm sure you 
+14 remember, his loss. 
+15 So do you think that there was anything that the Governor was doing related to 
+16 those efforts that would've struck your anger? 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 A I really --I really don't know why I posted that. 
+BY-: 
+Q Were you upset about the COVID lockdowns at the time? 
+A Well, yeah. I'm sure everybody was. 
+Q Would that have been a possible reason for this post? 
+A I don't know. I really do not know. 
+BY 
+Q So is it fair to say that the tyrant Governor might be one of the people that 
+25 Mr. Stoebe is referring to in his comment below? That's directly what you were saying,  1 so --
+2 A I honestly do not know why I posted this or what it was about, if I was 
+3 mad or not mad or anything. I really do not know. 
+4 
+5 Q Uh-huh. 
+A That's the best answer that I can give you, is I don't know. 49 
+6 - Well, thinking of that --unless you have anything further on that,. 
+7 ~ 
+8 - Not on this post, no. 
+9 BY-: 
+10 Q So, back to the December 12th rally, do you remember what happened that 
+11 day? 
+12 A December the 12th? 
+13 Q The rally in Washington, D.C. What did you do that day? 
+14 A Walked around with a bunch of people, a few million people, and --I mean, 
+15 that's, I guess, basically about it. 
+16 Q And I know you mentioned earlier that someone named Chrissie might've 
+17 gone with you, along with Dan Wire. Did any other people go with you to Washington, 
+18 D.C., for the December 12th rally? 
+19 
+20 
+21 
+22 A No, not with us. No. 
+Q Were the Grey Ghost Patriot Rangers --did they go as a group? 
+A 
+Q No. No. 
+Did you have any conversations with other Three Percenter groups who 
+23 went to D.C. that day? 
+24 
+25 A Did I? 
+Q Yes.  A 
+Q 
+A 
+Q I don't remember. 
+And you were not there to provide security to anybody? 
+No. 
+Okay. 
+Well, we'll move on to leading up to the January 6th rally. 
+- - if you don't mind, before you go on to that --
+- Oh, sure. Yeah, please. 
+BY-: 50 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 Q I was hoping you could help us understand, Mr. Kuntz, some of your broader 
+10 motivation in this time period. Because I know sometimes it's hard to pin down what 
+11 you were thinking when there's a particular social media post we're putting in front of 
+12 you. Understood that. 
+13 My question then would be, what were some other issues that were animating 
+14 you at the time period we're discussing, late 2020? You mentioned the COVID 
+15 lockdowns as a source of anger for you just a couple minutes ago. Was that animating 
+16 your activities throughout the year? 
+17 A No, I don't think I said that I was angry. I mean, I just said everybody was 
+18 angry at that time. So --
+19 
+20 Q 
+A So were you angry about the COVID lockdowns? 
+Well, as far as I know, everybody, you know, was mad about that, you know, 
+21 being locked down and not being able to do your normal things. I would say people 
+22 were upset. 
+23 Q And were you ever involved in any armed protests or protest activity related 
+24 to the COVID lockdowns? 
+25 A Are you asking if we come out armed against something because of  51 
+1 lockdowns? 
+2 Q No, just if there was --you mentioned sometimes you have to bring arms to 
+3 a protest if you think there are going to be other groups that are armed. And you said 
+4 sometimes you don't go with any gear. So were there ever any activities related to the 
+5 COVID-19 restrictions where you and your organization would appear at an event? 
+6 
+7 
+8 
+9 A 
+Q 
+A 
+Q No, I don't --I don't think so. 
+Okay. How about --oh, go ahead. 
+Oh, that's okay. Go ahead. 
+All right. This is helpful for us just to better understand what was 
+10 motivating you throughout this time period. 
+11 And 2020 was obviously a really tumultuous year for everyone, and another issue 
+12 that came up quite a lot in the middle of the year was the Black Lives Matter protests and 
+13 associated events. So what did you think about those events when they started 
+14 happening in the middle of the year? 
+15 A As long as they were peaceful, I mean, I didn't have any problem --I mean, 
+16 I've talked to a lot of BLM people. You know, good people. They're really good people. 
+17 There are bad apples in, I guess, every bunch, you could say. 
+18 Q 
+19 accomplish? 
+20 
+21 
+22 
+23 A 
+Q 
+A 
+Q So the bad folks in that bunch, what do you think they were trying to 
+I have no idea. I wouldn't even suggest even saying anything on that -­
+Okay. 
+--because I don't --
+In some of the posts that we've looked at, I think just the last post we looked 
+24 at, or two posts ago, there was a reference to BLM and antifa in D.C. 
+25 Did you see antifa involved in the BLM protests earlier in the summer in Kentucky?  1 
+2 
+3 A 
+Q 
+A Did I see them? 
+Uh-huh. Did you think they were --did you think they were involved? 
+Oh. No, I think it was more --well, I really don't know who was there or 52 
+4 who was involved in it, which parties were what. Because there was so much going on 
+5 at that time. 
+Q 
+A More broadly, what do you think of when you think of antifa? 
+I'm trying to answer this. 6 
+7 
+8 I don't know what to think of them. You see so much on social media. So what 
+9 do you believe? Other than --I don't know. I don't know. I don't even want to 
+10 answer that, because I don't know how to answer it. 
+11 Q I guess I'll put a finer point on it. Do you think that antifa represents a 
+12 threat to the Constitution, to the safety of individuals? 
+13 A Again, I really don't know how to even answer that because of the --there's 
+14 so much social media on it that I --I really don't know. 
+15 Q Do you think that people in antifa act patriotically when they are involved in 
+16 protests or riots? 
+17 A I guess there's a general --I mean, from what I see, like I said, there's good, 
+18 there's bad. 
+19 Q So, when you wrote that you needed to show antifa that you owned the 
+20 streets in D.C. in December, was that a reference to the bad parts of antifa? 
+21 A I --I can't answer that, because I don't know why I --that that was posted at 
+22 that time or anything. 
+23 
+24 
+25 Q 
+A Uh-huh. 
+I can't. So I --I don't know. 
+- - back to you.  1 
+2 
+3 
+4 Thank you, Mr. Kuntz. 
+The Witness. Thank you. 
+BY-: 
+Q Mr. Kuntz, were you aware at the time --so now we're going to move past 53 
+5 the December 12th rally into late December 2020 and early January. Were you aware of 
+6 a rally being held in Washington, D.C., on January 6, 2021? 
+7 
+8 
+9 
+10 
+11 
+12 A 
+Q 
+A 
+Q 
+A 
+Q Yes. 
+Do you remember when you learned about it? 
+The social-media-type stuff again, I guess --
+Do you remember --
+--that point. 
+Do you remember a tweet by former President Trump mentioning a wild 
+13 protest in Washington, D.C.? 
+14 
+15 
+16 A 
+Q A wild protest? 
+Yeah. I'll share on my screen with you. One second. This is exhibit 4. 
+So this is a tweet from December 19th in the early morning where Donald Trump 
+17 mentions a report by Peter Navarro, and he says, "Big protest in D.C. on January 6th. Be 
+18 there, will be wild!" 
+19 Do you remember this post? 
+20 
+21 
+22 
+23 
+24 
+25 A 
+Q 
+A 
+Q 
+A 
+Q No, I do not. 
+Do you remember hearing about this post? 
+No, I do not. 
+Did you want --did you end up going to Washington, D.C., on January 6th? 
+Yes. 
+Do you remember when you decided to go to Washington, D.C., on  54 
+1 January 6th? 
+A No, I do not. 2 
+3 Q So this is exhibit 6. I'm not entirely sure what date it was posted. But you 
+4 say, "This is Reaper. Washington D.C. is listing to us we have there attention for the 6th 
+5 and the 20th that the militia groups are coming." 
+6 And it looks like you responded to somebody. And, again, we have an 
+7 incomplete post here. Said, "Va he asked for patriots on the 6th i haven't seen him ask 
+8 for the 20th yet but we are going then." 
+9 Who asked for patriots on the 6th? 
+10 A I don't know exactly who posted stuff, but, I mean --I don't --I don't know. 
+11 I don't even remember --remember that day. 
+12 
+13 
+14 Q Okay. 
+We'll show you exhibit 7. 
+And, I'll be there in a sec. 
+15 So the first page here, as you might have become aware, someone submitted, it 
+16 looks like, an email to the FBI on December 21st, attaching a post that you made. 
+17 
+18 
+19 
+20 
+21 
+22 
+23 And this is the post. I can zoom in a little bit for you. 
+A I'd appreciate it. 
+Q Can you see that? 
+A Uh --
+Q A little more? 
+A Well, no, it needs to go up. Not too much. 
+Q So this post is from you. It says "yesterday" when it was captured, so I'll 
+24 represent to you that yesterday from December 21st when it was sent to the FBI would 
+25 be December 20th.  55 
+1 So, somewhere around December 20th, you post, "This is Reaper. I need a group 
+2 from ohio that is going on tbe 20th to message me pis thank you." 
+3 And in response, a Chuck Waller says, "Are y'all going to answer the Presidents call 
+4 on the 6th?" And you say, "Yep." 
+5 Was it your view that President Trump had called you to Washington, D.C., on 
+6 January 6th? 
+7 
+8 
+9 
+10 A 
+Q 
+A No, not a call. I mean --no, I don't --I don't --I don't think so. 
+How would you take that, your response, then? 
+How do I take that response? 
+Q Yeah. You wrote "yep" in response to Chuck Waller's specific question 
+11 asking if you are going to answer the President's call on the 6th. 
+12 
+13 A 
+Q I --honestly, I don't know what I was thinking that day. I don't know. 
+Do you remember going to Washington, D.C., to see President Trump on 
+14 January 6th? 
+15 
+16 
+17 
+18 A Yes. 
+Q And that is why you went to D.C., to support President Trump, correct? 
+A Yes. 
+Q So do you think President Trump called people to Washington, D.C., on 
+19 January 6th? 
+20 
+21 A I --I don't know. 
+Q Well, we just showed you the tweet where he said, be there, be wild. And 
+22 now someone named --do you know who Chuck Waller is? 
+23 
+24 
+25 A No, I do not. 
+Q And do you know why you were asking for a group from Ohio? 
+A No, I do not.  Q 
+A 
+Q 
+A 
+Q Were you planning anything for January 20th? 
+No, sir. 
+Were you planning on going to Washington, D.C., on January 20th? 
+If it was just, like, a --just another protest rally, maybe. I don't know. 
+Okay. --
+- Thanks, 
+BY-: 56 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 Q So I'm wondering --you said you hadn't been to D.C. before November 20th. 
+10 Is that correct? 
+11 
+12 
+13 
+14 
+15 
+16 A 
+Q 
+A 
+Q 
+A 
+Q From November? 
+You hadn't been to D.C. before this time period, correct? 
+I was there in November and December. 
+Right, but before November, you had never visited beforehand. 
+Oh. No, I'd never --never seen it, never been there, nothing. 
+So why was it important for you to go potentially four times, if you were 
+17 going to go to a protest on the 20th, four times in 4 months --four times in 3 months, 
+18 actually? What was so important that brought you there after so many years where you 
+19 hadn't been once? 
+20 
+21 
+22 A 
+Q 
+A Because I had a chance to go and see it. 
+What was the chance? 
+Going and, you know --and then to be --it was a rally, and he was going and 
+23 asked if I wanted to go. That's the only thing I can think, because I've never seen it. 
+24 Q And why --it seems like from these messages that you were actually trying 
+25 to organize more individuals to go. So I guess I'll ask again: What was so important  57 
+1 about that 3-month period, November 2020 to January 2021, that you wanted to go back 
+2 so many times? 
+3 
+4 A I don't know. 
+Q Well, you said to -that you did think that President Trump wanted 
+5 your support and you went to go see the President, right? 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 A Are you talking about in January? 
+Q Yes. 
+A I don't know what I was thinking at that time. Maybe. 
+Q Well, I think you said earlier that you were going to see the President. 
+A Well, for the rally on J6, yes, just to hear him --his speech. 
+Q Why --were you there to support him? 
+A To support him? 
+Q Uh-huh. 
+A Yes. 
+Q Why do you think he needed your support on January 6th? 
+A I --I don't know. 
+Q Did it have anything to do with his claims that the election was being stolen? 
+A Did --can you say that again? 
+Q Did President Trump's need for support on January 6th have any relationship 
+20 to his claims that the election was being stolen from him? 
+21 
+22 
+23 A 
+Q 
+A I don't know. 
+Did you believe that was the case? 
+I don't know --I don't know how to answer it, because I don't know what I 
+24 was thinking back then, because I don't know. 
+25 Q Uh-huh.  58 
+I don't --you know, I just don't know. 1 
+2 A 
+Q At the time, were you aware that January 6th was the day that the Congress 
+3 was certifying the results of the election? 
+4 
+5 A 
+Q Then, again, I --I don't know. 
+That was a pretty prominent story in the news at the time. As a casual 
+6 observer of the news, did you have any awareness of January 6th's importance in the 
+7 election certification process? 
+8 A Like I said, I don't know what I was thinking there. Personally, I'm not a 
+9 political person, I mean, on that type stuff. I don't keep --
+10 
+11 Q Mr. Kuntz, we're asking all these questions because it's --and I want to move 
+12 on to exhibit 8. We're asking you all these questions because you have made repeated 
+13 posts in the span of 3 months that indicate that you are paying attention, going to rallies, 
+14 supporting President Trump. And it is a little difficult to believe, quite frankly, that you 
+15 don't remember why you posted anything during the time. 
+16 So this is a post by someone named C. James --I might mispronounce the last 
+17 name --Du, D-u, Buisson, B-u-i-s-s-o-n. 
+18 Do you know who this person is? 
+19 
+20 A 
+Q I don't think so. I don't think so. 
+So this person says, "What do you guys think is going to happen Jan. 6th?" 
+21 His post is December 21st. 
+22 And if we go down to page 4 --sorry about that --you reply, "Hell you better be 
+23 ready for it." And someone named Anthony Howard replies, "been ready since 
+24 9/11/2001 brother." 
+25 So what do you need to be ready for on January 6th?  59 
+1 A I don't know. To go? I don't know. I don't know what I was thinking at 
+2 that time. 
+3 Q Were you talking to people in the Grey Ghost Patriot Ranger about 
+4 January 6th? 
+5 
+6 
+7 
+8 A About going. I mean, other than the guy I rode with --me and him talked. 
+Q What did you guys talk about the day? 
+A I don't --I don't know what we talked about. 
+Q Well, this post is 2 days after President Trump says, "Be there, will be wild!" 
+9 And you say, "Hell you better be ready for it" on January 6th. 
+10 What is there to be ready for? 
+11 
+12 
+13 
+14 
+15 A I don't know. 
+Q Do you know who Anthony Howard is? 
+A That name does not ring a bell. 
+Q Okay. 
+We'll go to exhibit 9. On Christmas Eve, December 24th, you post, or 
+16 repost --I'm not sure if this is your own words or somebody else's that you have 
+17 reposted --can you see this, Mr. Kuntz? 
+18 
+19 
+20 
+21 A I mean, I see it there. 
+Q Do you want me to zoom in a little bit? 
+A No, it looks --that's okay. 
+Q So it looks like a letter to Members of Congress. 
+22 "Most of you should be in prison for counterfeiting, fraud, conspiracy, grand theft, 
+23 extortion, criminal invasion of privacy, racketeering, international drug trading, insider 
+24 trading, and more. 
+25 "Your decades of crime transformed our republic from the post revered to the  60 
+1 most feared on earth." 
+2 And we can skip to the last paragraph. 
+3 "You're too late. We The People now have a detailed, long-term plan of action 
+4 that includes taking you out of D.C. forever. Criminals masquerading as public servants, 
+5 YOU ARE GOING DOWN. 
+6 "Signed, We The People." 
+7 Why did you repost this? 
+8 
+9 
+10 
+11 A I --I don't know. 
+Q What's the "detailed, long-term plan of action"? 
+A "Detailed, long-term" --I have no idea. I don't ever remember this post. 
+Q And I don't mean to be insulting about this question, but is there a medical 
+12 reason or other reason that you don't remember what you were thinking during this time 
+13 period? 
+14 
+15 A No. 
+Q There's no dependency on drugs or alcohol that would have impeded your 
+16 memory--
+17 
+18 
+19 
+20 A I don't do --
+Q --during this time? 
+A --drugs, and I'll drink a beer or two occasionally. Other than that, that's it. 
+Q Okay. So you agree, then, that you had your faculties about you when you 
+21 were making these posts? 
+22 
+23 A Well, yeah, I guess so. 
+Q Vet you don't remember what you were thinking, feeling, just anything in 
+24 general about what was going on that would've led you to put these posts on Facebook 
+25 repeatedly.  1 
+2 
+3 A 
+Q 
+A 61 
+No, I do not. 
+Do you know what martial law is, Mr. Kuntz? 
+Vaguely. I'm not --not, like, to the T. I guess something --lockdowns or 
+4 something, I don't know, to that effect. 
+5 Q If I represented to you that martial law is when the government uses the 
+6 military to take over the normal course of society and enforce strict laws in times of, you 
+7 know, unrest or war, does that sound like a decent enough definition of martial law? 
+8 
+9 A Yes. 
+Q So, if we go back to exhibit 2 --oops, sorry --page 6. I'm not entirely sure 
+10 when you posted this, so I'll represent that to you. 
+11 You say, "This is Reaper. What is your answer is it war or marshall law it must be 
+12 one or the other a group has sent demands to the white" --I think a typo, White 
+13 House --"its your choice." 
+14 Why the dichotomy between martial law and war? 
+15 
+16 A 
+Q I don't know why I posted that. 
+If we scroll down one more page, it looks like you repost something from 
+17 Dan Markle, who earlier you said you don't know. "TAKE YOUR PICK .... WILL.IT BE WAR 
+18 OR WILL IT BE MARSHALL LAW IN ORDER TO REFORM BIG BROTHER? THIS IS NOT A 
+19 DRILL!!!! WE THE PEOPLE HAVE CONTACTED THE WHITE HOUSE." 
+20 And you note that the "Gray gost ky Rangers 3% group thats from the we the 
+21 people." 
+22 Do you know what you're talking about here? 
+23 
+24 
+25 A 
+Q 
+A I have no idea. 
+Is Dan Markle a member of the Grey Ghost Kentucky Patriot Rangers? 
+No.  1 Q Did the Grey Ghost Kentucky Patriot Rangers ever submit a petition to the 
+2 White House? 
+3 
+4 A 
+Q Not that I'm aware of. 
+Do you remember signing a petition to the White House calling for the 
+5 invocation of the Insurrection Act? 
+6 
+7 
+8 
+9 A Who, me? 
+Q Yes, you. 
+A Not that I'm aware of. 
+Q So, when you say "thats from the we the people," are you not referencing 
+10 what some people have contacted the White House about? 
+11 
+12 A That's --I --I really don't know or remember anything about that. 
+Q In exhibit 6, which we saw a little earlier, you talk about militia groups 
+13 coming to D.C., you wrote, for the 20th, the 6th, or both. 
+14 Which militia groups were you talking about? 
+15 A I --I do not know. 62  1 
+2 [12:21 p.m.] 
+3 BY-: 
+How did you know militia groups would be there? 
+I don't know. 63 
+4 
+5 
+6 Q 
+A 
+Q Did you see social media posts about militias coming to Washington, D.C., on 
+7 those days? 
+8 
+9 A 
+Q I do not know. I really don't. 
+Exhibit 11 is another post on Facebook: "This is Reaper to all. We will be 
+10 meeting at the Lincoln Memorial 9:30 to start the march to the event at 10:30. This is to 
+11 all groups so we can march in there as one big unit." 
+12 And if we scroll down, someone questions: "At the Lincoln Memorial?" You 
+13 seem to say: "Damn phone LOL." 
+14 
+15 
+16 
+17 
+18 Was that a typo, the Lincoln Memorial? 
+A 
+Q 
+A I don't know. I really don't. 
+Do you believe that this post is about January 6th, being in D.C.? 
+I don't know. 
+Q So you then say: "I cannot say which groups will be there." How did 
+19 you --why did you say that? 
+20 
+21 
+22 
+23 A What, "damn phone"? 
+Q No, "I cannot say which groups will be there." 
+A Oh. I don't know. 
+Q So did you have insider information about groups meeting up that you 
+24 couldn't share with other people? 
+25 A I don't know. I really don't know.  64 
+Q Were you in contact with other militia groups in January of 2021? 
+A Of 2021? 1 
+2 
+3 Q Were you in contact with any other militia groups in January 2021, including 
+4 the Oath Keepers, including groups like the Proud Boys, other Three Percenters? 
+5 
+6 A 
+Q I don't know. 
+I'm just trying to get a sense of --your post said this is so all groups can 
+7 march as one big unit and then you responding to people saying you cannot tell them 
+8 which groups are going to be there. 
+9 Reading that today, would you say that you acted as if you had insider information 
+10 about which groups are gathering in Washington, D.C.? 
+11 
+12 
+13 
+14 A What, by reading this? 
+Q Yes. 
+A I don't know. 
+Q Let's go to exhibit 4, another Facebook post from yourself. Scroll down to 
+15 the end. You make a comment about --and, again, it's not perfectly synced so it's not 
+16 entirely clear what you were replying to, but you say: "Washington Monument on the 
+17 6th at 11." 
+18 Did you plan to meet up with anybody at the Washington Monument at 11 o'clock 
+19 on January 6th? 
+20 
+21 
+22 6th? 
+23 
+24 
+25 A 
+Q 
+A 
+Q 
+A I don't know. 
+Did you end up meeting up with anybody in Washington, D.C., on January 
+I don't think so. 
+Did you march with a group of people in Washington, D.C., on January 6th? 
+I mean, I went with the crowd, if that's what you're talking about, with the  1 crowd people. 
+2 
+3 
+4 Q 
+A 
+Q Did you start at the Washington Monument at 11 o'clock? 
+I do believe so. 
+Do you know --do you remember who was there? Were there people 
+5 dressed in military fatigues, for example? 
+A Oh, God, I don't remember. 
+Q Did you talk to any Oath Keepers while you were there? 65 
+6 
+7 
+8 A I don't remember, because I don't remember that there was so many people 
+9 there. I don't know who I talked to and who I didn't talk to. So I don't know. If I 
+10 knew, I would answer. 
+11 
+12 
+13 
+14 
+15 Q How about Proud Boys? 
+A What did he say? 
+Q What about the Proud Boys? 
+Mr. Wiest. Did you talk to any Proud Boys? 
+The Witness. I don't know, because there was so many people there. I mean, I 
+16 could have. 
+17 BY 
+18 Q To your knowledge, though, you did not --you don't remember speaking to 
+19 any Proud Boys? 
+20 
+21 
+22 
+23 A No, I do not. 
+Q Did you expect any sort of violence in Washington, D.C., on January 6th? 
+A No. 
+Q We'll scroll up to the beginning of this post, and you note --if you need me 
+24 to zoom in a little bit --that it's time for people to start making hard choices. It is time 
+25 to start standing up to the police. We follow the laws but a lot of officers are not. It is  1 time to start standing up against them and fighting back. 
+2 Does that sound like you anticipated violence? 
+3 
+4 A 
+Q No. 
+What would you describe standing up and fighting back against law 
+5 enforcement to be, Mr. Kuntz? 
+6 
+7 
+8 
+9 I don't know what I was thinking at that time. 
+Was it your view that the police were on the side of acting like tyrants? 
+I'm sorry, could you ask that question again? 
+Were the police acting like tyrants? 
+Not --not that I can remember. 66 
+10 
+11 A 
+Q 
+A 
+Q 
+A 
+Q I'll pass it to-in one second, but you see that this name Scott Stoebe 
+12 replies "on board" here. And you represented that you don't know him, but I will ask 
+13 again because his name has appeared again. 
+14 Do you recognize the name Scott Stoebe? 
+15 A No, I do not. 
+16 - Okay,_ 
+17 The Witness. I'm not good with names anyway, but he does not --I do not recall 
+18 him. 
+19 BY-: 
+20 Q 
+21 justified? 
+22 
+23 
+24 
+25 A 
+Q 
+A 
+Q Mr. Kuntz, do you believe that violence against law enforcement is ever 
+Is what now? 
+Do you believe that violence against law enforcement is ever justified? 
+No, there should be no violence against an officer. That's why we got laws. 
+What if those officers are acting like tyrants?  1 
+2 A 
+Q Then they need to be dealt with appropriately. 
+So in this message, are you talking about how to deal with officers 
+3 appropriately if they're acting like tyrants? 
+4 A I --like I said, I don't know because it's been so long since I guess I wrote 
+5 that. So, I mean, I don't wish any harm to anybody. I mean, does that help? That's 
+6 not me. Because I used to be --
+7 Q I'm really more curious about what your intentions were on January 6th. 67 
+8 take that statement, but it seems to me that talking about standing up and fighting back 
+9 against law enforcement is quite a lot different than what you were talking to us earlier 
+10 about coordinating with law enforcement in Louisville over the summer of 2020. 
+11 So why was there a change in how you viewed law enforcement? 
+12 A I don't view it any different. I have the same respect for them as I do the 
+13 ones in Louisville. 
+14 
+15 Q 
+A 
+16 not by us. 
+17 Q Even though you were --
+They have to dealt with with --by their --their higher captains and whoever, 
+But in this message, you say that you have to fight back and stand up to law 
+18 enforcement who are acting like tyrants. 
+19 A Yeah, but that could be, you know, file complaints against them or anything. 
+20 It could mean that. It's not --probably not meant to be towards --any violence towards 
+21 them. I don't take it that way. If you see one doing something wrong then --then go 
+22 file your complaints, your papers, and what you need to do against that officer. 
+23 BY-: 
+24 Q Why don't we scroll down a little bit to page 2 and I'll read a little 
+25 back-and-forth you had with a Jesse Giller who --sorry, it starts here. Yeah. Jesse  68 
+1 Giller says: "Oaths never expire," showing an Oath Keeper patch. "I swear that I will 
+2 support and defend the Constitution of the United States." 
+3 You reply: "We stand together," and a picture of the Grey Ghost Patriot 
+4 Rangers --I'm sorry, Partisan Rangers patch. You ask Jesse: "Yes, sir. Are you going 
+5 to D.C. on the 6th?" Jesse replies: "Yes, we are." And then you ask: "We will be 
+6 there. You all going armed or no?" 
+7 And Jesse replies with advice to take two vehicles, one with arms, one without to 
+8 be ready. And several years ago we went to overthrow Vomit" --not sure who Vomit 
+9 is --but they didn't have enough unity. 
+10 So you reply --we don't know your reply. It doesn't look there. But I think 
+11 -is asking about whether there might have been violence on January 6th towards 
+12 police officers, and you're asking Mr. --or Jesse Giller about going to Washington, D.C., to 
+13 D.C. armed. 
+14 Why would you have wanted or needed to be armed in Washington, D.C.? 
+15 
+16 armed. 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 A 
+Q 
+A 
+Q 
+A I don't know why I was talking to him about that. I know we wasn't going 
+When you say "we," who is "we"? 
+Me and Live Wire. 
+Dan Wire? 
+Dan. 
+- - sorry to interrupt, I just wanted to scroll down. 
+- No, I was going to go there too. So thank you,-. 
+BY-: 
+Q A lot of these posts we're discussing are about coordination, discussion 
+25 between multiple organized groups who are going to attend D.C., the protests in D.C.  69 
+1 So I'm confused, frankly, because if you were planning to file a complaint with an 
+2 officer who was acting like a tyrant, why would that require a convoy of organized groups 
+3 to go to D.C.? 
+4 A I don't know. I don't know how many groups went to D.C. I don't know 
+5 none of that. I don't know who was all there. I know that me and Dan Wire were 
+6 there. Now, with other groups that were there, that I don't know. There was no 
+7 coordinating stuff. 
+8 - I think that's all I have on this post,-. 
+9 - Thank you. 
+10 BY-: 
+11 Q A little further down, in another back-and-forth with Mr. Scott Stoebe, 
+12 Stoebe says: "If we don't win this, this whole world is fucked, guys. This is really for all 
+13 the marbles." You say: "Yes, it is, Scott. If we fail the whole world will fail. They 
+14 are watching and waiting on us to act." 
+15 What kind of action are you talking about? 
+16 
+17 
+18 A At that time, I do not know. 
+Q So this is talking about going to January 6th. Sorry, go ahead. 
+This is talking about going to January 6th. We just saw your back-and-forth with 
+19 a Jesse Giller about whether to go armed and Jesse's response about take one armed car 
+20 and one not. 
+21 And now talking to Mr. Stoebe, who's the person, remember, who said people 
+22 should already be hanging, and you said agreed, that if we fail the whole world --we fail 
+23 the whole world and they're watching and waiting on us. 
+24 Who is waiting on you and to do what? 
+25 A I don't know. I don't --like I said, I don't remember this.  70 
+1 Q So is it your posture then that you don't remember posting any of this stuff 
+2 about heading to January 6th specifically in Washington, D.C.? 
+3 A I mean, I know I was asked to go. It wasn't, I don't know, like I guess a 
+4 planned thing. They just asked someone to go to a rally in D.C., and, okay. 
+5 
+6 
+7 Q And who --it was Dan Wire who asked you? 
+A Dan, yes. 
+Q But you say, Okay. And it looks like, since you've been posting about it 
+8 since December 20th or so, there's a lot of discussion. 
+9 So we're just having a hard time believing that you do not remember what you 
+10 were expecting to do in Washington, D.C., that people were watching and waiting on you 
+11 to act. 
+12 
+13 
+14 
+15 
+16 
+17 A Show up to a Trump rally and walk with the people. 
+Q So how would that fit --
+A There was no violence or anything like that intended. 
+Q What did you mean by "if we fail the whole world"? 
+A I don't know what that --what that means, I really don't. I don't know. 
+Q What outcome were you hoping for on January 6th? What were you 
+18 hoping the protest would accomplish? 
+19 
+20 A I don't know. 
+Q You mentioned that you took part in a march with a large group of people. 
+21 Why were you marching? 
+22 
+23 
+24 
+25 A 
+Q 
+A 
+Q Just following with the people. Just walking with the people. 
+Do you remember what the people were saying? 
+Huh? 
+Do you remember what the people were chanting?  1 
+2 
+3 
+4 A 
+Q 
+A 
+Q Trump. I mean, that's about the extent of it, is Trump things a lot. 
+Do you remember hearing the phrase "stop the steal"? 
+I mean, they could have. I don't know. 
+But you were there to support President Trump, as you said. Was it your 
+5 hope that he would stay in office after January 6th? 
+6 A I'd say I don't know what I was thinking that day, I really don't. I was just 
+7 caught up in the moment with everybody. 
+Do you remember listening to President Trump's speech? 71 
+8 
+9 Q 
+A Yeah. I mean, I was right there, what I could hear of it. I mean, you can't 
+10 really --you couldn't really hear where I was at. I was too far back. You can hear some 
+11 loudspeaker noise-type. 
+12 
+13 
+14 
+15 
+16 Q 
+A 
+Q 
+A 
+Q Do you remember him talking about Vice President Pence? 
+No, I do not, because I couldn't hear him clearly. 
+Do you remember anyone around you talking about Vice President Pence? 
+No, I do not. 
+Were you aware that the day that Vice President Pence, his responsibility 
+17 under the Constitution was to certify the electoral college vote for President Biden? 
+18 
+19 
+20 
+21 
+22 
+23 A 
+Q 
+A 
+Q 
+A 
+Q I don't know. 
+Were you communicating with any groups that day on Zella? 
+I don't know. 
+Do you use Zella? 
+Zella, it's that walkie-talkie thing, ain't it? 
+Yeah. 
+24 A I think we used it one time for a little bit, but I don't think anything even 
+25 worked that day in D.C.  72 
+1 - Mr. Wiest, I know you might enter an objection on these questions so 
+2 feel free to step in. 
+3 BY-: 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 Q Mr. Kuntz, did you march to the Capitol on January 6th? 
+Mr. Wiest. Are you asking about whether or not he -­
+- I will be more precise. 
+BY-: 
+Q Did you march towards the Capitol on January 6th? 
+Mr. Wiest. You can answer that. 
+The Witness. Yes. 
+BY-: 
+Q Do you know if you got onto the Capitol Grounds on January 6th? 
+Mr. Wiest. I'm going to object and instruct the witness not to answer on the 
+14 basis of the Fifth Amendment. 
+15 - Noted for the record. 
+16 BY-: 
+17 Q While you were marching, Mr. Kuntz, do you remember what people were 
+18 saying? 
+19 A No, I do not remember. 
+20 - -doyouhaveanyfollow-up? 
+21 BY 
+22 Q I'm just still kind of struggling to understand your frame of mind while you 
+23 were attending this rally. 
+24 You mentioned in an earlier post we talked about that you wanted to show antifa 
+25 that you owned the streets. Did you view marching after President Trump's speech as a  1 demonstration that you owned the streets? 
+2 A Look, I really don't know what I was thinking that day, you know, I really 
+3 don't. It could have been referring to all the people walking the street. I don't --I 
+4 don't know. 
+5 - That's all I have on this point,-· Thanks. 
+6 - Why don't we take a quick 5-minute recess. I think-and I 
+7 are almost done. We'll just confer quickly and then come back on the record at 12:48. 
+8 
+9 
+10 
+11 
+12 
+13 
+14 Does that work for you, Mr. Kuntz and Mr. Wiest? 
+Mr. Wiest. It does. 
+- All right. We'll go on recess. 
+[Recess.] 
+- We'll go back on the record then at 12:53. 
+BY-: 
+Q Just a few more questions, Mr. Kuntz. 
+15 Generally, are you aware of communications between different militia groups? 
+16 Are there --basically, what I'm asking directly, are there Signal chats, Telegram chats, 
+17 Zella channels that you know of that are broadly encompassing a lot of different militia 
+18 groups across the country? 
+A Yes. I'd say the Telegram is full of them. 73 
+19 
+20 Q Are there specific ones that you can remember on Telegram, like, that would 
+21 have a certain name? 
+22 A No, I do not, I mean, other than, you know, the groups that I've already told 
+23 you. I mean, people really don't talk about their groups a lot, I guess, or post or --their 
+24 names of them. 
+25 Q Was there a group named American Patriots Three Percent?  1 
+2 A 
+Q What is it now? 
+Do you remember if there was a Telegram group or chat titled American 
+3 Patriots Three Percent? 
+4 
+5 A 
+Q AP3? I think there's some on there. 
+And you immediately went to an abbreviation of it. Is that a standard 
+6 group, American Patriots Three Percent? 
+7 
+8 
+9 
+10 that. 
+11 
+12 A 
+Q 
+A 
+Q 
+A I would say yeah. 
+Is it a national organization of some type? 
+I don't know if it's national or if it's just a local group or --or anything like 
+And where did you hear about AP Three Percent? 
+I think I seen them once, or a couple times on --I can't remember if it was 
+13 Face book or Telegram where I seen them on there. 74 
+14 Q Do you remember if they were talking at all about going to Washington, D.C., 
+15 on January 6th? 
+16 A No, sir, I do not. 
+17 Q Do you remember the types of things in general that AP Three Percent 
+18 would talk about? 
+19 
+20 
+21 A 
+Q 
+A No, I do not. 
+Was there a Telegram chat titled "American Militia, the Last Defense"? 
+I don't --I don't want to say yes, but I don't want to say no either, because it 
+22 sounds familiar. 
+23 Q To the best of your recollection, it sounds familiar, you just --you're not sure 
+24 if there was or there wasn't? 
+25 A Yeah.  1 
+2 
+3 
+4 
+5 
+6 Q 
+A 
+Q 
+A 
+Q That's okay. How about a Telegram chat titled "American Civil War 2.0"? 
+American Civil War 2.0? I'm not familiar with that one. 
+Okay. How about "Civil War is Imminent"? 
+I'm not familiar with that one as well. 
+That's fine. 
+In terms of --do you have a sense of why American Militia, the Last Defense 
+7 sounded familiar? Is that phrase, "The Last Defense," something that you saw often 
+8 paired with the word "militia"? 
+9 A I don't know. I really don't know why or why it sounds a little familiar. 
+10 don't know. 
+11 
+12 
+13 
+14 
+15 
+16 Q That's okay. Did you ever use MeWe, the social media site M-e-W-e? 
+Mr. Wiest. MeWe. 
+- MeWe, sorry. 
+The Witness. I don't think so. I mean, I don't think. 
+BY-: 
+Q And in terms specifically and the same kind of question about these 
+17 communication groups, were you aware of any chats or groups that were specific to 
+18 talking about January 6th? 
+19 
+20 A 
+Q No, I don't think so. Are you talking about just in general talking, or -­
+Yes. So not necessarily ones that you were a member of, but were you 
+21 aware of any other chats out there that were titled things like D.C. protest January 6th, 
+22 for example? 
+23 A I mean, I'm not going to say no or say yes where I've seen, you know, stuff 
+24 that --I mean, I think everybody was just posting about rallies. You know, that's 
+25 normally what they do. People will post about stuff, rallies or whatever, ask people if 75  76 
+1 they're going or not going type stuff. 
+2 Q Were they saying other things about January 6th? 
+3 A Not that I can recall. Not that I can remember. 
+4 Q I want to share with you exhibit 17. Can you see that post --or this Meme, 
+5 I should say? Does that --have you seen that before? 
+6 
+7 
+8 
+9 
+10 
+11 Mr. Wiest. Okay. I'm going to object. Have you seen it? Have you not -­
+- Let me rephrase. I'm sorry about that, Mr. Wiest. 
+Q 
+A 
+Q BY-: 
+Do you remember seeing this post before January 6, 2021? 
+I don't think so. 
+Thank you. And our last question before I'll pass it over to-
+12 Does the name 1776 Returns mean anything to you? 
+13 A No. 
+14 Q You've never seen a document with that title? 
+15 
+16 
+17 A I mean, not that I can remember ever seeing. 
+- Thank you. -· 
+- Thankyou, 
+18 BY 
+19 Q Mr. Kuntz, I wanted to ask if you had any more information about events 
+20 following January 6th first? 
+21 So you mentioned this to , but just to reiterate, did you have any 
+22 involvement in the planning of a militia march that was scheduled to occur on January 20, 
+23 2021? 
+24 
+25 A 
+Q No, sir. 
+Were there ever any communications you had with other individuals or  1 groups about going to D.C. on January 20th? 
+2 A I mean, there might have been. I mean --I mean, I can't remember back, 
+3 you know, that far what I talked about, who I talked to or any of that. You know, I 
+4 mean, I really don't know. 
+5 Q Do you recall yourself planning to go to D.C. on January 20th, which was 
+6 Inauguration Day? 
+7 A Probably. I mean, if there was a big --you know, another big event, I 
+8 probably would have went. 
+9 
+10 Q 
+A Why would you want to have gone? 
+Well, just a bunch of patriot people together. I've never seen an 
+11 inauguration. I'd love to have seen it. 
+12 
+13 Q 
+A But you did not go? 
+No, I did not. 
+14 Q So you called --you said, a bunch of patriot people together. It sounded 
+15 like you might have wanted to go to see the inauguration. But on January 20th, 77 
+16 President Biden got inaugurated, and people were there to protest his inauguration, and 
+17 some organized militia groups, as you saw in some of your earlier posts, mentioned going 
+18 there armed. 
+19 So do you take those people to be patriots? 
+20 
+21 A 
+Q To go into an inauguration armed? 
+The people who went there to protest the inauguration of President Biden 
+22 and who were planning to do so with arms. 
+23 A Well, not with the arms part. I know people have the right, you know, to 
+24 protest, to peacefully protest, you know, and to gather. But with arms, no. 
+25 Q So you wouldn't call someone who protested with arms in that specific  78 
+1 setting to be acting patriotically? 
+2 A No, not going there, not like that, not to do harm to anybody. Because if 
+3 I'd have seen any, I'd have probably got a hold of the first police officer. 
+4 Q And you are aware of what happened on January 6th with people who 
+5 entered the Capitol, correct? 
+6 
+7 
+8 
+9 
+10 
+11 day? 
+12 A 
+Q 
+A 
+Q 
+A 
+Q Yeah. Have I seen it? Yes, I've seen the --the stuff out there. 
+Would you say those people acted patriotically? 
+Yeah. I mean --I mean, that's my opinion. 
+I am asking for your opinion. So what about their behavior was patriotic? 
+Now, you're just asking my opinion of what I think of what happened that 
+I'm asking your opinion. You just stated that people who went to the 
+13 Capitol on January 6th were acting patriotically. So I'm asking your opinion. Why is 
+14 that your opinion? 
+15 A From what I seen the most part, yes, there were bad apples in there. You 
+16 know, that's not being patriotic, you know, but there's --like I said, there's bad apples in 
+17 every bunch. 
+18 Q So I think earlier this morning, you answered a question that everybody's a 
+19 patriot when was trying to figure out, you know, why you were saying --posting 
+20 that you were going to counter antifa and BLM. 
+21 So is it then your --what you're saying now that sometimes some people are not 
+22 patriots? 
+23 A Look, I look at all people as patriots, okay, Americans. Yeah, even though 
+24 they do bad things, you know, some of them, they're still a patriotic American that love 
+25 their country. I guess that's the best way to put it.  79 
+1 We're all patriots. We love this country. So you're a patriot. To me, in my 
+2 eyes, you're a patriot. You do something bad, then you pay the price for it. 
+BY-: 3 
+4 Q So can I ask the question another way, Mr. Kuntz: Do you believe that the 
+5 individuals who entered the Capitol on January 6th were justified in doing so? 
+6 
+7 A Do I have to answer that? 
+Mr. Wiest. I'm going to object and instruct the witness not to answer, on the 
+8 basis of the Fifth Amendment. 
+9 
+10 
+11 - Understood. 
+BY-: 
+Q I'll see if I can ask another way that we can avoid the Fifth Amendment 
+12 implication there. 
+13 Would you say that the people who came to Washington, D.C. with plans to storm 
+14 the Capitol to stop the certification of the vote in a less-than-peaceful manner were 
+15 acting patriotically? 
+16 
+17 
+18 
+19 A No, I do not. 
+- Thankyou. -
+- Thankyou,_ 
+BY-: 
+20 Q You mentioned earlier that you think that law enforcement should always be 
+21 respected. What are your thoughts about the law enforcement who were harmed by 
+22 individuals who entered the Capitol on January 6th? 
+23 A That just --to me, that's a sad day. It should not have happened. And I 
+24 feel, I mean, so bad for those people, you know, that had to go through that, and I wish 
+25 that it just --it never happened, that their families and these officers never had to go  80 
+1 through that and will never have to go through that again. 
+2 Q Understood. Do you believe that the law enforcement officers serving at 
+3 the Capitol that day were on the side of the people or were they acting like tyrants? 
+4 Mr. Wiest. I'm going to object to that and instruct the witness not to answer, on 
+5 the basis of the Fifth Amendment. 
+6 BY-: 
+7 Q I guess I could ask a broader question. Why do you think there was conflict 
+8 between police officers and individuals in the crowd on January 6th? 
+9 Mr. Wiest. I'm going to object and instruct the witness not to answer, on the 
+10 basis of the Fifth Amendment. 
+11 BY-: 
+12 Q Let me ask it another way: Individuals who, as-noted, who 
+13 organized to come to D.C. with a plan to storm the Capitol, why do you think they had 
+14 conflict with law enforcement on that day? 
+15 
+16 A 
+Q I have no idea. I don't know. 
+Understood. 
+17 - - I don't have any more on this point, if you want to take 
+18 over. 
+19 - Thank you. 
+20 BY-: 
+21 Q I've got a couple more questions for you. Since January 6, 2021, Mr. Kuntz, 
+22 have you been contacted by law enforcement, either State or Federal, regarding any 
+23 events that happened in Washington, D.C., from November 2020 to January 2021? 
+24 
+25 A Now, is he talking about local or --
+Mr. Wiest. He's asking about anything, including the FBI.  1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 81 
+The Witness. Yes, yes. 
+BY-: 
+Q Which law enforcement? 
+A The FBI. 
+Q And how many times did they contact you? 
+A Three times. 
+Q Did they ask you questions? 
+A Yes, sir. 
+Q Can you describe what those questions were? 
+A Just, you know, was I there on J6. They showed me some pictures of 
+11 people, asked if I had been inside or --that's, I guess, pretty much it. Basic, you know, if 
+12 I knew these people or --you know, I tried to help them out the best that I knew, that I 
+13 could. I answered all their questions, to the best of my knowledge. 
+14 
+15 
+16 
+17 Q Did they ask you about your ties to militia groups? 
+A They asked me if I was in a group, yes. 
+Q Did they ask at all about coordination with other militia groups? 
+A I don't know the exact specifics of questions that he had asked me. So I 
+18 don't want to answer that and be denying or not denying, because I don't remember all 
+19 the questions exactly how he asked them, or even if he asked that question. 
+20 
+21 
+22 Q It's okay if you don't remember. 
+Did you provide materials, documents, or other evidence to the FBI? 
+A No. I mean, they didn't ask for anything. Just asked me questions of stuff 
+23 that they had. 
+24 
+25 Q So they didn't take your phone or your computer or anything like that? 
+A No, sir.  82 
+1 - Well, I don't have any further questions. I'll check with-· 
+2 Do you have anything further? 
+3 - Just a few more questions. 
+4 BY-: 
+Q Thank you for your cooperation today, Mr. Kuntz. 
+A Yes, sir. 
+Q What is your current opinion of President Trump? 5 
+6 
+7 
+8 A My opinion is I'm trying to stay away from the politics side of him and Biden. 
+9 I'm just --I'm trying to ease my way out --away from that stuff. I don't want to get in it. 
+10 You know, whatever happens, that's between him and the Biden administration or 
+11 whatever. I just --I just don't want to get in it. I just try to stay away from it. 
+12 
+13 
+14 Q Why are you motivated to stay away from it? 
+A I guess because I'm tired of hearing about it. 
+Q And is it now your belief that President Biden is the duly elected President of 
+15 the United States? 
+16 
+17 A It's --from what I know and what I have seen, yes. 
+Q What do you think of former President Trump's continuing claims that the 
+18 election was stolen from him? 
+19 A I don't know what to think about that, about any of that stuff, I really don't, 
+20 because you hear so much, and just you get burnout on it, you know. I don't know. 
+21 Q And looking back on the events of late 2020, especially January 6th, do you 
+22 regret going to those events? Do you regret attending the rally on January 6th? 
+23 
+24 
+25 A No. 
+Q Would you do it again? 
+A I mean, from my side of it, yes, I would. I didn't see anything wrong, I  83 
+1 mean. 
+Q Why would you do it again? 
+A Why would I do it again? 2 
+3 
+4 Q Uh-huh. We've talked about a lot of the chaos that happened on that day. 
+5 Why would you do it again? 
+6 A Because I didn't do anything wrong. I didn't see anything wrong with it. 
+7 It's just a bunch of proud patriots rallying, you know. I just --I didn't see anything was 
+8 wrong with it. 
+9 BY-: 
+10 Q Just to follow up, do you think it's patriotic to --I don't know how else to put 
+11 this --to try to stop a duly elected official from taking office? 
+12 
+13 A 
+Q Do I believe somebody should stop that? 
+Do you believe that it's patriotic to stop --to try to stop a duly elected official 
+14 from taking office? 
+15 A Well, if there's a problem, that's why we have the court system to intervene 
+16 and see if there was anything wrong. 
+17 Q Are you aware that as of January 6, 2021, no courts had found anything 
+18 wrong with the 2020 election? Maybe one court had found one small thing, but nothing 
+19 even remotely close to the claims that President Trump was making about the election 
+20 being stolen? 
+21 A You know, like I said before, you hear so much from both sides. Me 
+22 personally, I just --I'm just tired of hearing it. 
+23 Q I understand you're tired of hearing it now, but you mentioned that we have 
+24 courts to decide if there is a dispute or someone wants to dispute someone taking office. 
+25 And I'm representing to you that Federal Courts, I think some State Courts, heard 60-odd  84 
+1 cases brought by President Trump from November until January of --November 2020 to 
+2 January 2021, and none of them corroborated Mr. Trump's claims. 
+3 Were you aware of that at the time? 
+4 A No. 
+5 - Thank you. -
+6 - Thankyou-
+7 BY-: 
+8 Q I guess I have a question related to what-was just asking, which is, 
+9 we talked a lot about patriotism and you said that January 6th was a bunch of patriots 
+10 getting together. 
+11 So do you think that it is patriotic to undermine the peaceful transfer of power? 
+12 A Do I think it's --well, I don't think you should interfere in that at all. Like I 
+13 said, if there's a problem then that's what we have the Supreme Court and stuff to figure 
+14 this stuff out. You know, it's not our job to --to get involved and intervene in that type 
+15 of stuff. I mean, I'm not going to. 
+16 Q So when you were telling others on social media to stand up and fight back, 
+17 that had nothing to do with the transfer of power that was upcoming? 
+18 A The way that I think --I mean, I'm not going to say what I was thinking that 
+19 day, but the way that I feel, no. 
+20 
+21 Q And what if the courts fail to find a problem? What happens then? 
+A Then they're going to have to go back and redo it until they figure out 
+22 what's --what's going on, what is wrong. It's not for us to interfere in that. That's why 
+23 we put the court systems up there. You guys, I mean, that's you all's job. You know, 
+24 figure the stuff out. 
+25 Q Do you believe that the 2020 election was figured out at the end of the day?  85 
+1 A Like I said before, I've seen so much in the media. At this point you don't 
+2 know what to believe of what's going on, you know. I'm just waiting until you all figure 
+3 it out, just like millions of other Americans. 
+4 
+5 - Thank you. That's all I have,-. 
+- Thank you, Mr. Kuntz. I don't have any further questions, and thank 
+6 you for taking the time to speak with us today. 
+7 So unless, Mr. Wiest, do you have anything you want to add? 
+8 Mr. Wiest. Just a clarifying question on the record. You were asked a number 
+9 of questions today about social media posts from over a year ago, et cetera, and your 
+10 response was "I don't know." 
+11 Would it be fair to say that that would be akin to, as you sit here today, you just 
+12 don't remember? 
+13 
+14 
+15 
+16 The Witness. Yes. 
+Mr. Wiest. And that was the only clarification I had for the record. 
+- Understood. Thank you. We will adjourn the record at 1:20 p.m. 
+[Whereupon, at 1:20 p.m., the deposition was concluded.]  1 
+2 
+3 Certificate of Deponent/Interviewee 
+4 I have read the foregoing __ pages, which contain the correct transcript of the 
+5 answers made by me to the questions therein recorded. 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 Witness Name 
+Date 86 

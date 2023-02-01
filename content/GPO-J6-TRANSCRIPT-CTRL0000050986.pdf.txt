@@ -1,0 +1,1751 @@
+1 
+2 
+3 
+4 SELECT COMMITTEE TO INVESTIGATE THE 
+5 JANUARY 6TH ATTACK ON THE U.S. CAPITOL, 
+6 U.S. HOUSE OF REPRESENTATIVES, 
+7 WASHINGTON, D.C. 
+8 
+9 
+10 
+11 INTERVIEW OF: CARLA KRZYWICKI 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 Wednesday, March 2, 2022 
+Washington, D.C. 
+The interview in the above matter was held via Zoom, commencing at 3:01 p.m. 1  1 
+2 Appearances: 
+3 
+4 
+5 For the SELECT COMMITTEE TO INVESTIGATE 
+6 THE JANUARY 6TH ATTACK ON THE U.S. CAPITOL: 
+7 
+8 
+9 
+10 
+11 
+12 SENIOR ADMINISTRATIVE ASSISTANT 
+INVESTIGATIVE COUNSEL 
+INVESTIGATIVE COUNSEL 
+13 For CARLA KRZYWICKI: 
+14 
+15 HEATHER SHANER, ESQ. 
+16 1702 S St. NW 
+17 Washington, D.C. 20009-6116 2  1 
+2 - So we are on the record at 3:01 p.m., and, as you just heard, this is 
+3 now being recorded 
+4 Good afternoon. This is the transcribed interview of Ms. Carla --and, actually, 
+5 can you pronounce your last name for me? I want to make sure I get it right. 
+6 
+7 Ms. Krzywicki. It's "Krzywicki." 
+- Krzywicki. Okay. 
+8 This is a transcribed interview of Ms. Carla Krzywicki, conducted by the House 
+9 Select Committee to Investigate the January 6th Attack on the United States Capitol 
+10 pursuant to House Resolution 503. 
+11 At this time, I'd ask the witness to please state your full name and then spell your 
+12 last name for the record. 
+13 Ms. Krzywicki. Carla Jean Krzywicki, and my last name is spelled K-r-z-y-w-i-c-k-i. 
+14 - Thank you. 
+15 And this will be a staff-led interview. Members of the committee may join at 
+16 some point and ask a question. I don't really expect that to happen, but it's possible. 
+17 And they may also choose to ask questions. 
+18 Speaking, as I introduced myself earlier, is- investigative counsel with 3 
+19 the select committee. And then also in the room today is also investigative 
+20 counsel. 
+21 And then, at this time, counsel, could you please state your name for the record? 
+22 
+23 
+24 Ms. Shaner. Heather Shaner. 
+- Thankyou. 
+So, Carla, there is an official reporter transcribing this interview. Please wait 
+25 until I finish my questions before you start your response, and then I'll also try to wait  4 
+1 until you finish your answer before I start my next question. Because it's obviously hard 
+2 to record two people talking at the same time, so we'll try to be nice to Nicole and Katy 
+3 today. 
+4 And then, also, relatedly, they can't record nonverbal responses, so just make sure 
+5 you use "yes" or "no" instead of, like, a head shake or a nod. Does that make sense? 
+6 
+7 
+8 Ms. Krzywicki. Yes. 
+- Okay. Great. 
+And then we ask that you provide complete answers just to the best of your 
+9 recollection. If the question's not clear, ask me to rephrase it, or you could ask for 
+10 clarification. And then, if you don't know the answer, that's totally fine. Just say, I 
+11 don't know. 
+12 Ms. Krzywicki. Okay. 
+13 - And then I want to just go through kind of a few housekeeping 
+14 matters and, sort of, ground rules. 
+15 So, first, I just want to make sure you understand that this is a voluntary interview. 
+16 If at any time you'd like to stop speaking with us, that's your choice. 
+17 Similarly, at any point if you need to discuss something with your attorney in 
+18 private, just let us know, and we'll be happy to take a break that so you can have that 
+19 conversation with Ms. Shaner. 
+20 Does that make sense? 
+21 
+22 Ms. Krzywicki. Yes. 
+- Okay. Great. 
+23 And then, second, this interview is not under oath, but because you're speaking to 
+24 congressional investigators, you are obligated under Federal law to tell the truth, the 
+25 same as if you were speaking with FBI or DOJ.  1 And so it's deliberately unlawful to provide false information to Congress for this 
+2 interview. Providing false information could result in criminal penalties for false 
+3 statements. 
+4 Does that make sense? 
+5 
+6 
+7 Ms. Krzywicki. Yes. 
+Okay. 
+Third, you are not obligated to keep the fact of this interview or what we discuss 5 
+8 confidential. You're free to tell whomever you may wish that you met with us, and then 
+9 that includes a prosecutor or your judge, or you could tell nobody at all. So that's totally 
+10 your decision. 
+11 And then, fourth, I just want to make sure that you understand that the select 
+12 committee is separate and independent from the Department of Justice. We have no 
+13 involvement with prosecutions, and the DOJ is really not a partner of the select 
+14 committee in this investigation. 
+15 The select committee's not a party to your criminal case and is not agreeing to 
+16 submit anything on your behalf to the judge, nor can we make any representation 
+17 whether, if you tell the judge that you met us, that the judge will be more favorable to 
+18 you during your sentencing. 
+19 Does that make sense? 
+20 Ms. Krzywicki. Yes. 
+21 - Okay. 
+22 And then, fifth, we've agreed with your attorney that we're not going to share 
+23 what you've said with the DOJ prior to your sentencing, but there are a couple possible 
+24 exceptions that we should note just quickly. 
+25 If you told us about evidence of a crime that we thought law enforcement was  6 
+1 unaware of, then that might trigger an obligation to share that information with DOJ. 
+2 Or if we have reason to believe that you told us something that wasn't true during this 
+3 interview, same thing. 
+4 So as long as we stay away from those things, then we're good today. Does that 
+5 make sense? 
+6 Ms. Krzywicki. Yes. 
+7 - Okay. 
+8 Also, I'll just add that, if you tell the judge that you met us, please understand that 
+9 that might prompt questions from the judge about what you said and whether it's 
+10 consistent with your prior statements and acceptance of responsibility, and if the judge 
+11 starts asking questions, we may be asked to respond and divulge what you said during 
+12 this interview. So just a final, kind of, related note. 
+13 And then just as we go through today, I mean, hopefully we can get you out of 
+14 here pretty quickly, but we might go for an hour or two. So if you need a break at some 
+15 point, feel free to just let me know, and we can take that kind of break. Or, like I said, if 
+16 you need to talk to Ms. Shaner for anything, just let us know. 
+17 Ms. Krzywicki. Okay. 
+18 - Does that all sound good? 
+19 
+20 
+21 
+22 
+23 Ms. Krzywicki. Yes. 
+- Okay. Great. 
+EXAMINATION 
+Q Then let's just start with some, sort of, background questions. Can you tell 
+24 me where you are from? 
+25 A Canterbury, Connecticut.  1 
+2 
+3 
+4 Q Okay. And how long have you lived there? 
+A I lived there for about 19 years. 
+Q Okay. And so that's all of your life, pretty much? 
+A Pretty much. And then I moved to Bozrah, Connecticut, as of last 
+5 November. 
+6 Q Okay. Great. 
+7 And then could you just give us a quick run-through of your educational 
+8 background? 
+9 A Sure. I went to school in Canterbury for elementary and middle school. 7 
+10 And then for high school I went to Norwich Technical High School, where I took electrical. 
+11 And then I graduated in 2019, and I started college in 2019. 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 Q Okay. Great. And, then, where are you in college? 
+A I go to Three Rivers Community College, and I haven't gotten a degree yet. 
+Q Okay. Great. What are you studying there? 
+A Psychology. 
+Q Awesome. 
+And let's see. Do you do any other work other than just schoolwork? 
+A 
+Q Like, employment? 
+Like, a side job or anything like that. 
+A No. I'm employed by Wendy's as a manager, and that's the only thing I do. 
+Q Okay. Great. 
+Okay. Let's kind of go back to 2020, a little bit before the general election, in the, 
+23 kind of, October-November timeframe. And I just want to know in general, how would 
+24 you describe your level of political engagement at that time? 
+25 A I would say I didn't know enough about politics to really pick a side, I would  8 
+1 say, so not very well. I wasn't very, like, educated enough to know enough about it. 
+2 Q Okay. And was that sort of the same throughout Trump's Presidency the 
+3 prior 8 years? Would you say you were politically active or just kind of how you 
+4 described? 
+5 A I personally would say that I just wasn't educated enough. I grew up in a 
+6 conservative household, so I was around that, so I would say I wouldn't really know any 
+7 better. 
+8 If I were to say, at the time, I thought more conservative. But once I, like, grew 
+9 up and got into, like, the real world, I realized I'm not really --I was not --I did not know 
+10 enough about politics. 
+Q Okay. 11 
+12 And then I'll note Ms. Shaner corrected me for the record. That is good. It was 
+13 4 years, obviously, not 8. 
+14 Okay. Let's talk a little bit about, kind of, at that time, news sources that you 
+15 would look to. Did you watch any news on TV? 
+16 
+17 
+18 time? 
+19 A 
+Q 
+A Not really. No. 
+Okay. What would you say your main, sort of, sources of news were at that 
+At the time, I was still a teenager, so, like, just social media in general, like, 
+20 Facebook, lnstagram. 
+21 Q Okay. Did you and your mom share a lot of information about news or 
+22 politics at that time? 
+23 A I was raised in her household, so she --she would watch the news. 
+24 wouldn't really pay attention. It would be, like, at dinnertime. That was the only time 
+25 if I did see any news. And it was usually the local news. And she would watch FOX  9 
+1 News. So that's, in my opinion, not necessarily the best at two sides. So that was --so 
+2 sometimes we would talk about, like, what was going on in the world, not necessarily, 
+3 like, here in the United States. 
+4 Q Uh-huh. Gotcha. Okay. Understood. 
+5 
+6 time? 
+7 
+8 
+9 
+10 And how about using social media to get news? Did you do that around that 
+A 
+Q 
+A 
+Q I don't believe so. 
+No? Okay. Like, did you use Facebook? 
+Around --I used Facebook but not necessarily for, like, news purposes. 
+Okay. Gotcha. 
+11 I'm going to run through just a couple kinds of sources, common sources of news 
+12 through social media that people use, and let me know if you used any of these or if you, 
+13 kind of, sought out news about, you know, the election in particular or news in general 
+14 from any of these sources. 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 So we talked about Facebook already. How about Reddit? 
+A 
+Q 
+A 
+Q 
+A 
+Q 
+A 
+Q 
+A 
+Q No. 
+Okay. How about Twitter? Did you use Twitter? 
+I do have Twitter, but I don't use it for news. 
+Okay. How about VouTube? 
+No. 
+No? Okay. And then TikTok? 
+I use TikTok, but it's not --it's definitely not for news. 
+The algorithm isn't giving you news? 
+No. 
+Okay.  10 
+1 So, then, it sounds like in general --and, sorry, not to belabor the point, 
+2 but --there wasn't really any particular source of news that you were looking to, and you 
+3 weren't really, kind of, like, on a day-to-day basis actively seeking out news information. 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 A Correct. 
+Q Okay. 
+Did you follow President Trump on any social media at that time? 
+A 
+Q 
+A 
+Q 
+A I think I might've followed him on Facebook in high school, but, I mean -­
+I'm sorry, what was that last one? It cut out. I didn't hear you. 
+I believe that was all. 
+Facebook and? 
+Maybe Twitter. 
+Q Okay. Gotcha. Sorry, the audio just cut out for a second. I didn't hear 
+13 what you had said. 
+14 Okay. And then do you remember any, kind of, thoughts you had about his 
+15 social media presence or anything? Any particular instances of anything that he said 
+16 that stand out in your mind? 
+17 A Not really. Just that it seemed very silly, some of the things that he would 
+18 say. So he was unfollowed, obviously. 
+19 
+20 Q Yeah. 
+How about right around the general election? Do you remember anything that 
+21 President Trump said that sticks out in your mind that he might've said about the 
+22 election? 
+23 
+24 
+25 A Not that I can remember. 
+Q Okay. 
+All right. We can move on from, kind of, the --oh, -do you have a  1 question? 
+2 - Besides what President Trump might've said, were your friends 
+3 posting things on Facebook related to politics at that time? 
+Ms. Krzywicki. Yes, I had friends that would post about politics. 
+- Did you pay particular attention to it? 11 
+4 
+5 
+6 Ms. Krzywicki. Not really. It was, like, both sides. It was just a broad range of 
+7 all sorts of political things. 
+8 - Okay. Thank you. 
+9 BY-
+10 Q And then I'll just say, you know, we'll have lots of really specific questions, 
+11 obviously, going through this interview today. And, really, our intention just to kind of is 
+12 to understand your mindset going into that day. None of this is to say that anything was 
+13 wrong or right to do, but really we just kind of want your perspective on what brought 
+14 you there and your experience. 
+15 So I hope you don't take our, you know, pointed questions to mean anything other 
+16 than just looking for information. 
+17 
+18 A 
+Q Okay. 
+Let's talk a little bit about, kind of, what you thought of the general 
+19 election --so that's the election in November --and, kind of, how your feelings were 
+20 immediately after. Did you think that the election was stolen from former President 
+21 Trump? 
+22 
+23 A 
+Q 
+24 that feeling? 
+25 A No. 
+Okay. You didn't. Did friends or family that you were speaking to have 
+Some did.  1 
+2 
+3 Q Okay. And then how about your mom? 
+A I can't speak for her, but possibly. 
+Q Or, did you guys have conversations where she said that she thought the 
+4 election had been stolen? 
+5 A No. We didn't really talk politics because sometimes we didn't really see 
+6 eye to eye. So it wasn't something --like, a conversation happened and ended very 
+7 shortly. 
+8 
+9 Q Yeah. Right. Okay. 
+Let's see. Were there any sorts of rallies or, kind of, political events that you 
+10 attended after the general election? 
+11 
+12 
+13 
+14 A I don't believe so. 
+Q Okay. 
+- Can I just ask, - before we keep going? 
+What were those conversations like with your mom? Because I think you 
+15 mentioned earlier that you sort of grew up sometimes watching FOX News. Did the 
+16 tone of them shift around the 2020 election? 12 
+17 Ms. Krzywicki. Kind of. As I grew up, I realized, like, some of the things --like, I 
+18 don't agree with, like, a lot of older generations', like, that kind of mindset, if you 
+19 understand, like, what I'm getting at. Like, just, like, women's rights, gay rights kind of 
+20 things like that where they're more conservative, I'm not. 
+21 So it kind of --like, if I, like, say, like, women's right to choose, like, abortion and 
+22 stuff like that, like, my mom definitely is pro-life, where I'm, like, pro-choice. And just 
+23 conversations like that, it just wasn't worth getting into an argument. 
+24 Okay. And did the 2020 election, did you feel that heated that sort 
+25 of tension up?  1 
+2 
+3 Ms. Krzywicki. Somewhat. Not a big difference. 
+- Okay. Thank you. 
+BY-13 
+4 Q So I know we talked about your political activity, kind of, before the general 
+5 election. I guess I'll just ask more broadly --I know that's --about specific rallies or 
+6 events. But did your political perspective change at all or did you kind of have a 
+7 different thought about politics or the politics that were going on after the general 
+8 election, or kind of the same as before? 
+9 A I would say they somewhat changed just, like, growing up in general, 
+10 because I was really young when that had happened --still am. But definitely growing 
+11 up and realizing a lot more things, I would say they had changed --
+12 Q I think you cut out a little bit at the end. You said "I would say," and then I 
+13 didn't hear what you said. 
+14 
+15 
+16 
+17 A I would say, yes, they have changed slightly. 
+Q Okay. And do you mean after January 6th? I should've been --
+A Yes. 
+Q --more clear. I was kind of focusing on the time between November to 
+18 January 6th. Were you feeling differently after the election? 
+19 A Yes. 
+20 
+21 
+22 
+23 Q Okay. And how did your, kind of, politics change? 
+A I would say I would lean more left now. 
+Q Okay. Gotcha. 
+Let's see. Let's just talk about, kind of, how you ended up in D.C. and what 
+24 brought you there, what factors brought you there. 
+25 Can you just tell me generally --you know, it sounds like you weren't too  14 
+1 politically involved and weren't upset in general about the outcome of the election. So 
+2 what brought you to D.C. on that day? 
+3 A So my mom was supposed to go to see the President speak with her older 
+4 friends. My mom's older; she's 57 now. And her friend are even older. So they were 
+5 going to take, I believe it was a bus trip from Norwich, Connecticut, down to D.C. And 
+6 her friends didn't want to sit on the bus trip for that long, being older, so she had asked 
+7 me if I would go. 
+8 And my mom in 
+9 general. So I had said, well, I hope she's not gonna go alone. And so she had asked me 
+10 if I would go with her, and I said, "Well, we could watch it on TV," kind of thing. But she 
+11 
+12 
+13 
+14 really wanted to go see, since it would be the last time he would speak as President. 
+So I ended up going with her to make sure she would be okay. Because in any 
+kind --she's been to rallies before. She's rallied her whole life. And she'll -
+, so I didn't want that to 
+15 happen. So I pretty much just went with her to make sure she'd be okay. 
+16 Q Understood. 
+17 And what did you think January 6th was going to be like when you were, kind 
+18 of --before you were heading down? What did you think the events were going to be 
+19 like? 
+20 A I thought they'd be, like, just him speaking and it'd be like his typical rallies. 
+21 Like, when I was in high school, my mom had taken me to when he speaks at stadiums 
+22 and places like that. And it's just, like, the atmosphere is all these people getting along 
+23 and cheering him on, listening to him speak. And I thought it would be like that. 
+24 
+25 Q Okay. Great. 
+Sorry, can I pause there?  1 
+2 Q BY-
+Forgive me if I misheard. So you said you went to rallies of President 
+3 Trump earlier with your mom? 
+4 
+5 
+6 
+7 
+8 
+9 A When I was in high school. 
+Q Okay. So when you were in high school. 
+But you said you weren't very politically engaged? 
+A No. I was kind of just, like, brought along. 
+Q Okay. Did you think you supported President Trump at that time? 
+A At the time, yes. 
+Q Okay. Thank you. 
+BY 15 
+10 
+11 
+12 Q And so when was it that --do you know when it was that your mom decided 
+13 to go to the rallies on January 6th? 
+14 
+15 
+16 
+17 A I can't --I can't remember. I'm sorry. 
+Q Okay. And then how far in advance was it that you decided? 
+A I want to say 2 weeks, possibly? 
+Q Okay. Gotcha. 
+18 Do you know how your mom met the group of people that she was going to go on 
+19 the bus with or that you all ended up going on the bus with? 
+20 
+21 
+22 
+23 A I believe it was on Facebook. 
+Q Okay. And were you a member of that Facebook group? 
+A No. 
+Q Okay. Did you ever see or did she ever show --did your mom ever show 
+24 you the Facebook group? 
+25 A No.  16 
+Q Okay. 1 
+2 
+3 
+4 
+5 
+6 
+7 - Did anyone on the bus ever mention what the Facebook group was? 
+Ms. Krzywicki. Not that I can remember. 
+- Does the name "Turning Point" ring a bell? 
+Ms. Krzywicki. No. Sorry. 
+- That's okay. Thanks. 
+- Okay. So, in general, you knew it was a Facebook group, but you 
+8 didn't really know what the group was or, kind of, what the discussion on the Facebook 
+9 group was like. 
+10 
+11 
+12 Ms. Krzywicki. Correct. 
+- Okay. 
+- And then, sorry, one more. Did you guys have to pay for this bus, or 
+13 was it paid for by somebody else? 
+14 
+15 
+16 
+17 
+18 
+19 Ms. Krzywicki. I think my mom had paid someone. 
+- And do you think it was somebody in the Facebook group? 
+Ms. Krzywicki. I think so. I'm not entirely sure. 
+- Okay. Thank you. BY-
+Q And, then, I take it, since you didn't seem particularly interested in the rallies 
+20 yourself, you didn't do any promoting of the events of January 6th or any rallies, did you, 
+21 like, on social media? 
+22 
+23 A 
+Q No. 
+Okay. 
+24 Once you decided to go to D.C. for January 6th, then did you start following any 
+25 accounts or looking up any news about what January 6th would be like?  1 
+2 A Not that I can remember. 
+Q Okay. So really it was just kind of a trip to go down with your mom 
+3 because she might need somebody to kind of assist her medically. 
+4 
+5 
+6 
+7 
+8 media? 
+9 
+10 A Correct. And I didn't want her to go by herself. 
+Q Okay. BY-
+Q Did you have any friends that were talking about January 6th on social 
+A Not leading up to it, no. 
+Q Okay. So no one else that you know of in the area was planning to go on 
+11 this bus? 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 in. A Correct. 
+Q And no one posted that they would also be there in D.C.? 
+A Not up until --oh, sorry. My battery's low. 
+But not up until that. Afterwards, yes, but not leading up to it. 
+Q__Okay. 
+For your battery, do you want to take a minute to plug it in, just in case? 
+A I don't know if my phone will stay --when I get the next warning, I'll plug it 
+Q Okay. 
+I think that's all I have for now, -BY-17 
+20 
+21 
+22 
+23 Q Okay. And, then, I take it the answer is probably "no," but were you aware 
+24 of any other buses or groups or, kind of, yeah, groups of folks that were also travelling to 
+25 Washington, D.C.?  18 
+A Not that I knew of. 
+Q Okay. 1 
+2 
+3 Let's talk about the trip down to D.C. Where did you meet this bus or pick up the 
+4 bus? 
+5 A In Norwich, Connecticut, on the lot right by the Walmart and Big V. 
+6 Q Okay. And then what was the plan for traveling down? You were 
+7 just --oh, what day --sorry --what day was that, that you picked up the bus? 
+8 
+9 A It was early, early in the morning on January 6th. 
+Q Okay. And so can you tell me just kind of what you remember of the plan 
+10 for that day, up to getting to D.C.? 
+11 A I believe it was that we were going to get the bus super-early in the morning, 
+12 and then it would, I believe, along the way in Connecticut pick more people up, and then 
+13 just go straight to Washington. 
+14 
+15 Q Okay. 
+And then how about when you got on the bus? Did you learn anything about, 
+16 kind of, the other people that were on it? Did you learn anything about the Facebook 
+17 group? What was, kind of, the --for lack of a better term, what was the vibe? 
+18 A A lot of people that were, like, really excited to go. 
+19 Q Okay. 
+20 A I recognized one woman. I couldn't place, like, where I knew her from. 
+21 But I didn't really talk to anybody. 
+22 Q Okay. This woman that you thought you might know, did you figure out 
+23 who she was eventually? 
+24 
+25 A I think she might have been one of my teachers in school. 
+Q Okay. So not, like, a celebrity or something. Just -- 1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 19 
+A No. 
+Q --somebody you recognized from around town. Okay. 
+A Yeah. 
+Q Got it. 
+And, then, you didn't know anybody else on the bus other than your mom? 
+A 
+Q Correct, and then the lady who I think was my teacher. 
+Right. Understood. 
+And, then, so what --I understand something happened on the way down. The 
+9 bus driver got lost? Is that what happened? 
+12 
+13 
+14 
+15 
+16 
+17 D.C.? A 
+Q 
+A 
+Q 
+A 
+Q Yes. I believe we got lost in New York. 
+Okay. And so, then, I take it that caused, sort of, some delay in getting into 
+Yes. 
+Okay. So about what time did you end up getting into D.C.? 
+It was after the President had already spoken. 
+Okay. 
+And, then, why don't you just tell me about that? Tell me about arriving in D.C. 
+18 and then how you got off the bus. 
+19 A We had parked. I don't know any of, like, what anything's called there, 
+20 but --
+21 Q Sure. 
+22 A --we had parked. We got off the bus. And then I remember walking to, 
+23 like, a big open field, and there was, like, a statue. And then I believe the Capitol was 
+24 right there in front of us. And then we kind of just made our way up there. 
+25 - Can I backtrack quickly?  20 
+- Sure. 
+BY-1 
+2 
+3 Q So, on the bus, you obviously missed the speech. Were people on the bus 
+4 following it live, like, you know, on their phones? 
+5 Yeah A 
+7 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 saying? Q 
+A 
+Q 
+A 
+Q 
+A 
+Q 
+A 
+Q 
+A 
+Q 
+Q 
+A So were people talking about the speech? 
+Did you hear people talking about going to the Capitol? 
+Not that I can remember. 
+Was anyone talking about Vice President Pence? 
+I don't think so. I can't really remember. 
+Do you have any memory of what people were, like, talking about then? 
+A lot of them were just upset that we weren't there in time. 
+Okay. But they weren't talking specifics about what President Trump was 
+Not that I can remember. 
+Okay. Thank you. 
+BY-
+Do you remember hearing any of the speech while you were on the bus? 
+I believe either my mom had it on her phone or she had me pull it up on my 
+21 phone. But wasn't really paying attention. I was just looking at everything else 
+22 around. 
+23 Q Okay. So you don't really remember any specific parts of the speech or 
+24 anything that President Trump said? 
+25 A No.  21 
+1 Q Okay. Do you remember just, like, a general feeling? Did it make you 
+2 excited? And I'm talking about his speech in particular. Did it make you excited? You 
+3 know, did he convince you about his thoughts on the election? Any thoughts you 
+4 remember about the speech? 
+5 
+6 
+7 A In the nicest way to put it, I didn't really care too much to listen to it. 
+Q Gotcha. Yeah. Understood. 
+Okay. So, then --let's see. So you get off the bus. And then, kind of, what's 
+8 everybody on the bus doing, or what's the general plan from there? 
+9 A I remember everybody getting off the bus and then saying that we were 
+10 going to meet back at a certain point. I don't remember. And then most people 
+11 just --I don't remember, like, watching where everybody went, but they kind of just went. 
+12 I think most of the people started walking towards the Capitol. And some people just 
+13 stayed in, like, the open field area. 
+14 Q Okay. And by "open field area," is that, like, The Mall? Do you know what 
+15 I mean when I say "The Mall"? 
+16 
+17 
+18 A No. I'm sorry. 
+Q Okay. No, that's okay. 
+Okay. And, then, I take it that you and your mother joined some of the people 
+19 that were walking towards the Capitol? 
+20 
+21 A Yes. 
+Q Okay. And what did you think about what you saw around this time? So, 
+22 as you were walking from the bus and then just start to walk towards the Capitol, tell me 
+23 about what you saw. 
+24 A I remember just thinking, wow, this is a lot of people, a lot of people just 
+25 dressed in, like, red, white, and blue or Trump attire, stuff like that.  22 
+1 Q Uh-huh. Okay. And how about people dressed up in, like, military gear? 
+2 Did you see a lot of that? 
+3 A Not necessarily. I do remember seeing some people dressed like that, and I 
+4 thought it was a little weird. 
+5 Q Why did you think it was weird? 
+6 A Just because, like, why would you need to dress up in, like, military gear with 
+7 helmets? Like, that was --what would you --why would you wear that? 
+8 
+9 Q Yeah. Was it, like, sort of surprising to see that? 
+A Kind of, but not really, because I thought maybe some people are just very 
+10 patriotic and wanted to dress like that. I didn't think of what it could've been used for at 
+11 the time. 
+12 
+13 
+14 
+15 Q 
+A Right. Like, at that time, it seemed more of, like, a costume than it was -­
+Yes. 
+Q --anything. Okay. 
+Okay. And then tell me a little about, kind of, as you start to walk closer and 
+16 closer to the Capitol, what's your experience? 
+17 A I remember the closer we got, seeing a lot of people were just, like --it was 
+18 like when you're at a concert and they're, like, packed like sardines kind of thing. And 
+19 then I remember seeing a lot of people waving Trump flags, American flags, a few 
+20 different kinds of flags, not necessarily, like, country type of flags but, like, just wording 
+21 on the flags. 
+Q Right. Right. 22 
+23 And then what did you have with you as you were walking? Did you guys bring 
+24 anything in particular like signs? 
+25 A My mom had a sign. I didn't have a sign. I think I just wore a fanny pack  23 
+1 that had --I wear contacts, so I brought an extra pair --ChapStick, my license, and I think 
+2 my debit card. 
+3 Q Okay. How about, were you wearing, like, a Trump T-shirt, or what 
+4 were --any Trump gear? 
+5 A I believe I had a Trump sweatshirt on underneath my jacket. And I think we 
+6 had bought Trump hats there because it was so cold. 
+7 Q Okay. 
+8 And, then, about how long did it take you to walk from wherever the bus was 
+9 parked to where it started to get crowded, like you were talking about kind of being at a 
+10 concert? 
+11 
+12 A Not very long. I think maybe 15 minutes. 
+Q Okay. And, then, as you're doing that walk, I assume you have --do you 
+13 have a smartphone? 
+14 
+15 A Yes. 
+Q Okay. And were you watching any videos or were you doing anything on 
+16 social media as you were making this walk? 
+17 
+18 A I don't think so. 
+Q Okay. So, then, I take it you weren't, kind of, like, following anybody and 
+19 their activity on the 6th, like, watching livestreams or anything like that? 
+20 
+21 
+22 
+23 
+24 A No. 
+Q Okay. Okay. 
+Okay. And then --- go ahead. BY-
+Q Yeah, I just wanted to ask, how did this --did this feel different than the 
+25 other Trump rallies you had been to?  1 
+2 
+3 
+4 
+5 A Kind of. I could --it felt like a lot of people were more angry at this one. 
+Q Did you hear anyone expressing that anger? 
+A There were a few people yelling the closer that we got. 
+Q Did you hear what they were yelling about? 
+A Not really. There was plenty of people chanting, too, that you couldn't 
+6 really make out what they were yelling. 
+7 Q Did you ever see people dressed in military fatigues or similar attire at 
+8 previous Trump rallies? 
+9 
+10 A 
+Q Not that I can remember. 
+Do you remember why you and your mom decided to follow that crowd 
+11 when you got off the bus? 
+12 
+13 
+14 
+15 
+16 
+17 A Not really. 
+Q So you didn't know --you didn't know where you were going? 
+A I personally didn't. 
+Q Did your mom say, "We're going to walk over to the Capitol"? 
+A 
+Q She didn't say it. I just kind of, like, followed her. 
+Right. But did she seem to --was there any sense to you --like, did you 
+18 have any sense that you were going to the Capitol? 24 
+19 A No, not really. It was kind of, like, a mentality, just follow where everybody 
+20 else is. 
+21 
+22 
+23 Q Okay. Thank you. BY-
+Q Okay. Can you describe to me where you were when it started to get 
+24 crowded like a concert, like you talked about? 
+25 A I think --it was on the --if you were looking at the building, it was on the left  25 
+1 side of where the scaffolding was. 
+2 Q Okay. So you were pretty close to the Capitol Building at that point where 
+3 it started to get really crowded? 
+4 
+5 A Yes. 
+Q Okay. And then why don't you --can you walk me through, kind of, what 
+6 happened once you got to that crowded area? 
+7 A I remember that the closer that we had gotten, I remember just, like, looking 
+8 behind me and seeing so many people. And even if we tried to leave, it was like we 
+9 couldn't, because people, they just wanted to keep pushing forward. 
+10 And then I remember, I think people started throwing, like, water bottles. And 
+11 then there were more police presence on the Capitol. And then I remember a few 
+12 people having, like, a medical emergency that were brought through the crowd. 
+13 And then people started throwing more things. I think it was, like, tear gas being 
+14 thrown into the crowd. And that just made people even more upset. You would think 
+15 that would, like, make people disperse. Instead, people got even more upset, started 
+16 throwing more things. 
+17 I remember being pushed forward and not being able to, like, leave. So me and 
+18 my mom just kept being, like, shoved forward. 
+19 And I remember, like, guards or police officers coming out, dressed in, like --with 
+20 shields and, like, trying to push people back. And me and my mom were kind of stuck, 
+21 not being able to leave, and being pushed forward. 
+22 
+23 Q Okay. 
+Let's go back a little bit. -was asking about why you decided to follow, kind 
+24 of, the crowd. Did you remember your mom ever talking about wanting to go to the 
+25 Capitol or march to the Capitol before you guys arrived in D.C.?  1 
+2 A 
+Q No. 
+Okay. 26 
+3 And then how about, when you got there on the bus and you see people walking 
+4 there, was your mom interested in going to the Capitol, or it just seemed like she was 
+5 following the crowds? 
+6 
+7 
+8 A It seemed like she was just following the crowd. 
+Q Okay. 
+Okay. So, then, you're following the crowd, and it gets more and more crowded, 
+9 and you start to get kind of pushed toward the front. And you mentioned that tear gas 
+10 was coming in too. Were you guys getting exposed to that tear gas? 
+11 A Not initially. When it started to get more hectic, we were. 
+12 Q Okay. And did you try to leave at that point and you just couldn't because 
+13 of the crowd, or what was going on? 
+14 A Yes. We tried to leave, I believe, two or three times, and there were just so 
+15 many people that it was like, you couldn't get through. 
+16 I remember, like, the people that were having medical emergencies, like, the 
+17 people that were carrying them were literally screaming, like, "She's having a heart 
+18 attack, you need to move," and it was just so hard for them to get through. 
+19 
+20 
+21 Q Yeah. 
+What were you and your mom talking about as this all was going on? 
+A I don't think we really talked. I just remember her not letting go of, like, my 
+22 arm or my hand and just watching everybody else. 
+23 Q Yeah. Maybe this sounds like a silly question or too simple of a question, 
+24 but was that scary --
+25 A Yes.  Q 
+A 
+Q 
+mom? 
+A 
+Q --to be in that crowd? 
+Definitely. 
+Yeah. Were you afraid that you were going to get separated from your 
+Yeah. I don't think I ever let go of some part of her. 
+Gotcha. 27 
+1 
+2 
+3 
+4 
+5 
+6 
+7 Okay. So you continued to get pushed closer and closer towards the front. And 
+8 then I think you said you started to see police that were in, kind of, like, gear or riot gear 
+9 that were pushing the crowd back. And you kept getting, kind of, caught in between 
+10 those two groups. 
+11 
+12 What happened then? Kind of, what happened next? 
+A I remember the people --there was probably, like, four lines of people 
+13 between us, but I think I was standing on something, so I could see above. And I 
+14 remember watching people push past them, try to take the shields away. I think it was 
+15 bike racks that were, like, in between, and people were, like, picking them up and trying 
+16 to push them into, like, the guards or police officers. 
+17 BY-
+18 Q Speaking of those bike racks, you said you were getting pushed, right? So 
+19 you couldn't really move. But did you climb up a bike rack? 
+20 
+21 
+22 A Correct. I did. 
+Q So why did you do that? 
+A That was probably after, like, 30 minutes of still pushing, the people pushing 
+23 back. And then, at some point, I remember that the police officers had left or just, like, 
+24 moved down. And people were still, like, upset at that point, that I remember --I'm not 
+25 sure if the bike rack was already put up at this point, but people started to try to climb up  28 
+1 the building. And I remember watching someone get sprayed in the face with 
+2 something as they already made it up the scaffolding. 
+3 And at that point, I think because so many people had already gone up there and 
+4 there were so many people pushing forward, that that's when me and my mom had 
+5 started to just go with the crowd. 
+6 
+7 
+8 
+9 Q Okay. So you felt it was safer to move forward? 
+A Well, we couldn't really turn around. It was just so many people pushing. 
+Q Okay. Did you see an alternate path? 
+A I can't really remember. There were just so --like, if we were to look 
+10 behind us, there were just, as far as the eye could see, just people, like, just a giant 
+11 crowd. 
+12 Q Right. But, you know, even in a giant crowd, sometimes you can push 
+13 through. So I'm just trying to think, what was your sense of what would happen if you 
+14 didn't climb the bike rack? 
+15 
+16 
+17 
+18 
+19 
+20 A I can't really remember right now. I really don't know. 
+Q So was it, you got --was it something like, you were just reacting? 
+A I would say yes. 
+Q Okay. Thank you. BY-
+Q So the crowds continue to push, and you're kind of stuck there for you said 
+21 about 30 minutes, it seemed like? 
+22 
+23 A It seemed like. I'm not sure of an exact time. 
+Q Okay. But, at some point, you see the bike rack. Did you also say, though, 
+24 that you had just seen somebody try to climb up that way and up the scaffolding and then 
+25 they got sprayed?  29 
+1 A I'm not sure if they had climbed up the bike rack, but they had somehow 
+2 made it up to, like, the stairs. 
+3 Q Oh, okay. Okay. So that was a different route. So, on a different route, 
+4 up scaffolding, you saw somebody get sprayed. And then you and your mom saw 
+5 another route that was these bike racks that were stacked up. 
+6 A I think it was the same way, because it was the same area that we had gone. 
+7 I just don't know if they used the bike rack to get up there. 
+8 Q Gotcha. Okay. 
+9 Then, I guess, was it worrying you that you guys were heading towards the place 
+10 that that guy had just been sprayed by police? 
+11 A Yes. I think, because there was so much adrenaline with everyone, that it 
+12 was terrifying, but at the same time, like, you're not really thinking of a whole lot. 
+13 Q Okay. So that looked like, kind of, the easiest route or the only place that 
+14 you could go, I guess. 
+15 And so tell me, kind of, how that happens. You start to climb the bike rack, and 
+16 then what happens? 
+17 A I think my mom had pushed me to get me up first, and then I remember 
+18 waiting and grabbing her hand or something like that to help her up. And then I 
+19 remember going in, like, the scaffolding and up the stairs. And then we were at the very 
+20 top of the stairs. 
+21 And then I remember, like, there was a whole crowd in front of us. And, at that 
+22 point, if it was either --we had gone through a door, and the doors had already been 
+23 opened or broken. And I remember, that's when we had initially gone in. 
+24 Q Okay. So about how long did it take you --once you started climbing the 
+25 bike rack and then get through the scaffolding and go up the stairs, how long did that  1 take you? 
+2 
+3 A 
+Q Not very long. Maybe a minute, 2 minutes. 
+Okay. And do you know about what time it is at this point as you're 
+4 entering those doors? 
+5 
+6 
+7 A 
+Q No. Sorry. I don't know. 
+Okay. 
+You know, I know you had seen the guy get sprayed, and, obviously, there was 30 
+8 tear gas going off. Did you have any sense that you shouldn't be entering those doors? 
+9 Or what did you think as you were going in the doors? 
+10 A I think, in the moment, it was just more scary and adrenaline, than to really 
+11 think about what was going on. 
+12 Q Uh-huh. Gotcha. 
+13 And so you go into the doors. Did you see any fighting or any violence around 
+14 that door area as you were entering? 
+15 A No. I remember that the doors were already opened, and then walking 
+16 inside, and it was just people just walking around, like, just calmly walking. It was very 
+17 surprising. And I remember walking around with my mom just in, like, big open areas, 
+18 seeing people just walk around like it was just a normal day. 
+19 
+20 Q Okay. BY-
+21 Q How did you get into the Capitol, again? Did you go through a window, or 
+22 did you go through the door? 
+23 
+24 
+25 A 
+Q 
+A We went through a door. 
+Through a door? What did the door look like when you got up there? 
+I can't remember. I just remember doors being open and just walking  1 through with my mom. 
+2 
+3 
+4 Q Okay. Did you see broken glass around you? 
+A Not that I can remember. 
+Q So I'll just represent to you that you entered about 9 minutes after the first 
+5 people broke in. So I'm just --what did you see? Did you --in the distance, when 
+6 you're coming up, did you see anything happening? 
+7 A I don't think so. I think that whatever had been broken had already been 
+8 broken, and I didn't see anyone breaking anything. 
+Q Did you notice the mood of the people around the door? 
+A Just very energetic, like, excited. 
+Q So they were jubilant? 
+I'm sorry. I don't even know what that means. 31 
+9 
+10 
+11 
+12 
+13 A 
+Q Excited and happy at the same time. So, like, if you had happiness and was 
+14 excited --excitement it could be either happiness or, like, a combination of those two. 
+15 
+16 
+17 
+18 
+19 
+20 A Yes. 
+Q Okay. 
+Go ahead,_ 
+BY-
+Q How about you? How did you feel at that point? 
+A A little worried. Just not really letting go of my mom or letting her out of 
+21 my sight. And I'm sure she --she was doing the same, I'm sure. 
+22 
+23 
+24 
+25 Q Yeah. Did --
+A I --sorry. 
+Q Sorry. No, you can go ahead. 
+A I was just kind of, like, letting her lead the way, kind of thing, and just going  32 
+1 with the crowd. 
+2 Q Okay. 
+3 What was your --to the extent you could kind of understand it or see it in your 
+4 mother, what was her mood? 
+5 A I'm not quite sure. She usually just has a very serious face, so it's kind of 
+6 hard to tell sometimes. 
+7 Q As you guys are kind of getting pushed towards the building and then come 
+8 up and get to the doors and enter, were you guys joining in any of the chanting and 
+9 cheering that was going on? 
+10 
+11 
+12 
+13 
+14 A 
+Q 
+A 
+Q 
+A I personally wasn't, and I don't think my mom was. 
+Okay. Your mom still had her sign, though, right? 
+Yes. 
+Okay. 
+I remember her saying, though, that she didn't really want to carry it, but she 
+15 was afraid to let it go, because she could see, like, some people just seemed a little too 
+16 crazy, and she didn't want it to be used at some sort of weapon for anyone. So she just 
+17 wanted to, like, hold on to it, keep it close. 
+18 
+19 
+20 
+21 Q Okay. Do you remember her --
+- Can I ask--oh, sorry. Go ahead. BY-
+Q Do you remember her using the sign at all to cheer or was she, like, raising it 
+22 to show people the sign? 
+23 
+24 
+25 A 
+Q Not that I can remember. 
+Okay. 
+Do you know why she --it just seems a little odd that she would bring the sign,  33 
+1 and, obviously, she maybe agreed with whatever was on the sign and wanted to show it 
+2 at that time, but now I understand you're saying that she wasn't really showing the sign 
+3 and, you know, maybe wasn't, like, hoisting it in the air proudly. 
+4 Can you tell me why --how that happened? 
+5 
+6 
+7 A 
+Q 
+A Like, why she brought the sign? 
+Yeah. Why did she bring the sign if she didn't want to use it? 
+I think that she had thought it would be more of like the rallies that we had 
+8 been to previous. And my mom, all throughout her life --like, if her job --like, they 
+9 would go on strike and they'd have rallies and stuff, she's always made signs that have 
+10 just something witty to say on them. So, to me, it wasn't anything that seemed 
+11 different. It was just, that's what she's always done. 
+12 
+13 Q 
+A Understood. 
+I think just because, like, signs --you pay attention to somebody that has a 
+14 sign, and it makes a point. So I think that's why she did it. 
+15 
+16 Q BY-
+Can I return to your point you made about your mom? She was worried 
+17 that if she dropped it, someone could use it as a weapon. But you said everyone 
+18 seemed peaceful. So why did your mom think that? 
+19 A I think up to the point, like, when people were getting tear gassed and angry 
+20 and pushing, like, that part. But not when we had gone into the building at first. It 
+21 was very calm, watching people walk around. Further into it, we realized there were 
+22 some people that were violent. 
+23 
+24 Q 
+A Well, when did you notice that? 
+I remember the first --I think we had --we were passing by a staircase, I 
+25 believe, and I remember hearing a female officer say, there's a shooter, someone's  34 
+1 shooting. And then I remember us trying to leave and watching people, I 
+2 think --because, hearing that, people were, like, pushing people out of the way, trying to 
+3 leave. 
+4 We got closer to the door to leave, and I remember hearing somebody say there 
+5 was a bomb. And I remember, like, me and my mom running back, like, not really 
+6 knowing where to go, didn't know where we were, how to get out, and just people, like, 
+7 just kind of going crazy, hearing that kind of thing, and just everyone for themselves, it 
+8 seemed like. 
+9 
+10 
+11 Q 
+A 
+Q But you didn't hear the shooting; you just heard an officer say it? 
+Correct. 
+Okay. Do you remember if you were in a room with a bunch of statues 
+12 when you heard that? 
+13 A I don't think so. I don't remember seeing statues. 
+14 
+15 
+16 Q 
+A 
+Q Do you remember going downstairs at any point? 
+I don't think I ever went downstairs. 
+So, reading your statement of the offense, which goes along with the guilty 
+17 plea, it doesn't say you were downstairs, but it does say you proceeded into the Capitol 
+18 Crypt. 
+19 So the crypt is --and 1111 can correct me if I'm wrong, but I believe it's a room 
+20 that is circular, with statues sort of around it. Do you remember being in a room like 
+21 that? 
+22 
+23 
+24 
+25 A 
+Q 
+A 
+Q Not really. 
+Do you remember seeing a lot of police officers at any time? 
+Yes. 
+Okay. And what was happening to them?  35 
+1 A I remember they were in a doorway. And I remember me and my mom 
+2 were kind of standing back and, like, watching a crowd of people go up to them and 
+3 saying, like, they wanted to go in. And I remember the police officer saying, if you go 
+4 farther than this, you will be arrested. And I remember me and my mom just standing 
+5 there and watching what was happening. 
+6 And I remember, I think one guy got a little too close, and I can't remember if the 
+7 police officer had pushed him back or what had happened, but I think at some point the 
+8 guy had sprayed the police officer in the face with something. And that's when people 
+9 just --like, the police officer started getting the guy. The people were trying to push 
+10 past the police. 
+11 And, at that point, my mom --since they --it was almost like everyone started 
+12 running. They had knocked into my mom. She had fell down. And that's when we 
+13 tried to get out. And I remember, walking back, that's when we had heard the police 
+14 officer say that someone had been shot. Then trying to leave and hearing, oh, there's a 
+15 bomb. And then just everybody going crazy. 
+16 Q Okay. So it's very fast-paced. But it's fair to say that in around the same 
+17 time period as when you saw people physically and probably violently interacting with the 
+18 police is about when you heard that there was a shooting too? 
+19 
+20 
+21 A About probably 5 minutes after that. 
+Q Okay. And do you remember what was going through your head? 
+A Not really. Just adrenaline, thinking, "Let's leave. We have to leave. 
+22 This is terrifying." 
+23 Q Okay. 
+24 Go ahead, -
+25 - No, I was just actually thinking, how's your battery doing? Do you  1 want to take a couple-minute break, and you can you plug your phone in? 
+2 
+3 Ms. Krzywicki. Yes, please. I was just going to say that. 
+- Okay. Cool. Why don't we take 5 minutes? We'll go off the 
+4 record now, and we'll be back at 4 o'clock. 36 
+5 And you can feel free to mute your video and turn your video off during that time 
+6 if you want to. 
+7 
+8 
+9 Ms. Krzywicki. Okay. Thank you. 
+- Yep. 
+[Recess.]  37 
+1 
+2 [4:03 p.m.] 
+3 - And we're back on the record at 4:03. 
+4 BY 
+5 Q So, Carla, I was just going to try one more time. -had described to 
+6 you the crypt. Do you remember being in a room --it's the room that has all the 
+7 columns. Like, you might've had to, like, go through a couple different columns. Does 
+8 that ring any bells? 
+9 
+10 
+11 A Oh. That sounds more familiar. 
+Q Okay. 
+And so you spent some time there, and you're walking around. What 
+12 eventually --and you might've started to talk about this, but what eventually led you to 
+13 leave the Capitol? 
+14 A Watching the police officers, like, fight with the crowd, and then watching 
+15 the guy pepper spray or whatever he sprayed in the cop's face, and then watching a fight 
+16 break out. My mom had fallen down because someone had, like, knocked into her. 
+17 And then trying to leave and then hearing that somebody had been shot or there was a 
+18 shooting. And then still trying to leave, hearing somebody else say that there's a bomb. 
+19 Just all of those events, trying to leave. 
+20 
+21 
+22 Q Okay. 
+And then tell us about how you ended up leaving or how that worked. 
+A I believe we had left at the same door that we had come in. So we finally 
+23 had made it to the door, and I remember it was very packed, and people weren't really 
+24 moving. And I remember seeing at that point, like, recognizing, like, that the windows 
+25 had been broken and that, just looking around, it just looked horrible. And a lot of  38 
+1 people chanting. 
+2 And, at that point, it wasn't necessarily scary at that point. It seemed fairly 
+3 normal. And I think just everybody else around us, it was --I don't want to say exciting, 
+4 but just the feeling of it was, like, adrenaline, I guess. 
+5 Q How long, looking back, do you think you spent in the building, in the Capitol 
+6 Building? 
+7 A I want to say maybe 30 minutes. I don't really know an exact time. It 
+8 felt --it felt like 30 minutes. 
+9 Q Okay. 
+10 And, then, did you say when you were leaving it looked like it was more crowded 
+11 than when you had first arrived? 
+12 
+13 A Around the Capitol, yes. I didn't really look farther than that. 
+Q Okay. So just around the Capitol? How about inside the Capitol Building, 
+14 like, near the doors that you had entered and exited --
+15 
+16 
+17 
+18 
+19 A Yes. It was a lot more crowded. 
+Q Okay. So more people had started coming in --
+A Yes. 
+Q --during the time that you were there? Okay. 
+And, then, tell us a little bit about trying to leave at that point. Because, 
+20 obviously, you went in the doors because you felt like you couldn't go the other way, but 
+21 now you're exiting the doors. What are you seeing now? 
+22 A As we left --I don't remember there being a ramp. I remember coming 
+23 out, and there was, like, a ramp out the door. And then I remember seeing on the left 
+24 side a line of police officers with, like --with reflective gear on, I think it was. And I don't 
+25 remember any of them talking. They were just very straight-faced. They looked very  39 
+1 scared. 
+2 And I remember --I think we had walked down the stairs and we were walking 
+3 around the building. And I remember, as we left, I remember seeing what looked 
+4 like --I don't know if they were police officers or what they were, but dressed in, like, all 
+5 black, like, riot gear, I want to say it looked like. 
+6 
+7 
+8 
+9 
+10 Q Okay. 
+Go ahead,_ 
+BY-
+Q 
+A I was going to say, at this point, how are you feeling? 
+I think more adrenaline than anything. I wasn't necessarily scared 
+11 anymore. I would say --I don't know if this is the right word to use --excited almost, 
+12 just that we were out and that I could tell there wasn't really any threat anymore. 
+13 
+14 Q At that point, did you feel you had done anything wrong or illegal? 
+A I --not really. I knew that it was wrong, yes. I wasn't sure --because 
+15 in --I had thought that since the doors were open --and this may make me sound very 
+16 stupid, but I thought, with the doors being open and that there were police officers there, 
+17 nobody was really stopping us really. So I thought, oh, we're being let in, in a sense. 
+18 Like, I realize, no, afterwards, thinking that, what were they supposed to do? 
+19 They couldn't just start shooting us. That would --that doesn't happen. So I realize 
+20 that there wasn't much that they could've done. 
+21 
+22 
+23 
+24 
+25 Q And did you end up posting anything to social media when you left? 
+A 
+Q 
+A Yes. I posted on Facebook. 
+Do you remember what you said? 
+Not word for word. And there's a picture of me and my mom. 
+Q All right. Well, I'll read to you --this is from the statement of facts in your  40 
+1 case. So you said --and I'm guessing on the time here. Whoever screenshotted it, I'll 
+2 represent to you, screenshotted it at 1:41 p.m., and the post was 20 hours earlier. So, 
+3 by my rough math, that's somewhere around 5:00 p.m. I don't know exactly what day, 
+4 but I'm assuming around January 6th. 
+5 So you post: "This is history. We do not go burning down your city and stealing 
+6 from your business. We come for the government officials that are ruining our country. 
+7 We go straight to the source. Change needs to happen. That is our house, and you 
+8 work for us." 
+9 So, assuming that's after you left the Capitol, do you remember why you posted 
+10 that? 
+11 A I remember feeling that --excited, in a sense. I think that, like, growing up 
+12 in a conservative household and not really knowing much else at the time, just, like, what 
+13 I had heard and seen --and I remember, when I did watch the news, that I remember 
+14 seeing, like, people around the country burning down businesses, and I remember being, 
+15 like, told or hearing, like, my parents say, like, "Oh, that's no way to get things done." 
+16 And then, ironically, neither is what me and my mom had done, going in and being a part 
+17 of January 6th. 
+18 So I think just --I think, in my head, I had thought, oh, maybe we did something. 
+19 Q I'm interested specifically in the --so you mentioned probably seeing Black 
+20 Lives Matter protests or something else on the news in 2020. Is that what you think you 
+21 were referencing? I don't want to put words in your mouth. 
+22 A Not necessarily Black Lives Matter, no. Because in the previous summer 
+23 before the election, or that year, that summer, me and my boyfriend had actually gone to 
+24 support Black Lives Matter. So not necessarily talking about them, necessarily, no. 
+25 Q But talking about violence associated with protests surrounding Black Lives -- 1 
+2 A 
+Q Yes, the violence associated with it. 
+Right. Okay. I'm sorry. Thank you for clarifying. I didn't want to put 
+3 words in your mouth. 
+4 So, comparing that to the sentence, "We come for the government officials that 41 
+5 are ruining our country," so did you think that what that sentence portrays is better than 
+6 the alternative of burning down a business? 
+7 A I understand now that is a very poor choice of words that can be taken in a 
+8 way different way than I had meant it. In my mind, it was more of, like, protesting, or, 
+9 like, my mom, how she goes and brings signs when she goes to rallies. I was thinking 
+10 more in that sense, rather than what it can be taken as, violence. 
+11 Q So can you just maybe clarify, then, when you said, "We come for the 
+12 government officials," what did you mean? 
+13 A As in, like, protesting. As in, like, go to, like, rallies where people are at, 
+14 like, a capital. Like, I remember, years ago, when me and my mom had gone to Trump 
+15 rallies, there was one in Connecticut at, like, a convention center, where the capital --a 
+16 building like that. And just, like, getting together and, like, holding signs or chanting 
+17 and, like, making a point. Just, like, coming together and showing, like, there's a whole 
+18 bunch of people that feel this way and, like, change needs to happen. 
+19 
+20 
+21 Q 
+A 
+Q It's just a very specific verb, right, "come," after you had just -­
+Yes. 
+--gone into the Capitol. So I'm wondering if anything around you inspired 
+22 you to use that wording instead of the more protest-oriented language you just 
+23 referenced. 
+24 A No. It was just a poor choice of words, not really thinking of what other 
+25 way to necessarily put it.  42 
+1 Q Okay. Was your mom speaking in language like that after you left the 
+2 Capitol? 
+A Not that I can remember. 
+Q Did you hear people chanting, "You work for us," or, "This is our house"? 
+A I remember hearing people chant like that, yes. 
+Q And what did you take that to mean? 3 
+4 
+5 
+6 
+7 A In my mind at the time, I think I thought, well, a government, like, position is 
+8 paid by taxes, and just taking it in a way that people chose --like, they voted on their 
+9 position. So, in my mind, it's like, okay, you do work for us, you were put there by 
+10 people. 
+11 Q Right. But would you agree there's a difference between protest and going 
+12 into the Capitol the way that it happened? 
+13 
+14 
+15 A Yes, definitely. 
+Q Okay. 
+And I'm still trying to square --you said you weren't politically engaged --with this 
+16 post, just because of, you know, the language you used. So --
+17 
+18 
+19 down. 
+20 A Uh-huh. 
+Q --where did those ideas really come from? I'm just trying to nail that 
+A I think the excitement of it. And I can definitely understand where you're 
+21 coming from. It definitely seems like a crazy Trump supporter for sure. I think just the 
+22 excitement of it and the adrenaline and being, like, in the moment and thinking, "Oh, 
+23 wow, maybe we did something here." 
+24 And then, afterwards, when I deleted it, realizing, "Wow, that was such an awful 
+25 decision," and all these things that are happening, like, this --and being considered, like, a  43 
+1 domestic terrorist is not good, not something that I wanted to be seen as. That's for 
+2 sure. 
+3 Q Okay. 
+4 And the picture you posted with --I think it's with your mother --do you 
+5 remember when you took that picture? 
+6 
+7 A 
+Q We were outside --it was --
+You were outside. Yeah, I'll represent it to you, because you don't have it 
+8 in front of you, I just remembered. It's the two of you smiling outside the Capitol. 
+9 There are a couple people on the steps. It's a selfie, it looks like. So I don't know if it 
+10 was before or after. 
+11 A I believe it --I'm not really sure, to be honest with you. I want to say it was 
+12 after. 
+13 Q Okay. So fair to say, then, that at that moment you were somewhat proud 
+14 or happy that you had done it? 
+15 A Not --I wouldn't say proud or happy. Just the adrenaline and excitement 
+16 of it, being like, "Oh, wow, we made it out of there." 
+17 
+18 Q Okay. 
+And then I think-is going to ask a couple of questions about --to explain 
+19 to us how you moved away from that feeling. Because that's actually a very important 
+20 part of the story. 
+21 
+22 
+23 A 
+Q Okay. 
+BY-
+Yeah. Maybe we can finish just by finishing out the day, kind of, what 
+24 happened logistically. And then I'd like to talk a little bit about, kind of, how your 
+25 feelings have changed since then or allow you to explain, kind of, what you think of that  44 
+1 post now and, kind of, what happened on the day. 
+2 A Okay. 
+3 Q So, first, let's just talk about --so you said you head out of the building, and 
+4 you look down the ramp, and there's some of the riot police that are there. And then 
+5 how do you end up leaving the Capitol grounds? 
+6 A I believe we --so we came out the door and down the ramp. And then 
+7 when you're on the flat surface before the stairs, I think we had looked around a little bit, 
+8 and then I think we might've gone down the stairs and walked around the building. And 
+9 I remember walking around and seeing on the other side --not the opposite side, but on 
+10 the next side, if that makes sense --
+11 
+12 Q 
+A Uh-huh. 
+--people at another door. And I think --I remember seeing a guy, he 
+13 looked like he was hanging from something by his hands and trying to kick the other door, 
+14 and people on top of each other trying to get in another door. 
+15 And me and my mom just kept walking, because we were trying to find where our 
+16 bus was going to be to pick us up. 
+17 And I remember walking and then, to the opposite side where we went into the 
+18 Capitol, seeing more what might've been, like, riot police dressed in, like, full gear. And I 
+19 think there might've been others in, like, white --white, like, suits, almost, and then more 
+20 people. 
+21 And I think we started walking away from the Capitol Building into another, like, 
+22 what looked like a field. And I remember looking at the map to see, like, what street 
+23 was in front of us. And I remember walking down the street, and there were a whole 
+24 bunch of people, like, walking away or getting cars or --I remember not seeing many 
+25 vehicles on the road.  45 
+1 And then I remember walking by what --I don't think it --it might've been a shop 
+2 where they have, like, TVs in the window, and seeing the news on, and it was just all over 
+3 each TV. And seeing that there was, like, a lockdown of the city and that I don't think 
+4 vehicles were really allowed. So it made sense why we weren't seeing many vehicles. 
+5 And wondering, is our bus still going to be able to get us? 
+6 And then trying to make phone calls too. I think my mom was trying to call the 
+7 people that might've been in charge of, like, the bus. And having to walk farther down 
+8 to catch the bus. 
+9 And then when we had got to where we were meeting the bus, I remember --I 
+10 think it was --we started talking to other people that were waiting for the same bus. 
+11 And then --
+12 
+13 
+14 Q 
+A Okay. 
+--it took a while for the bus to get there, I remember. 
+And then, once we had got on the bus, I remember we had to wait because one 
+15 of --I think he was an elderly man --he ended up getting lost or stuck there. And so we 
+16 waited a couple extra --I think it might've been, like, an extra 30 minutes to, like, find 
+17 him. 
+18 
+19 
+20 
+21 Q Okay. 
+Do you know about what time it was that you were leaving the Capitol area? 
+A 
+Q I'm not quite sure what time it was. 
+Okay. How about any, kind of, like, timestamps for that afternoon? Do 
+22 you remember a certain time and place at any point, like when you got to the bus? 
+23 
+24 A 
+Q If I had to say, I would --I think maybe 3:00. 
+Okay. And what was happening at 3 o'clock? That's when you were 
+25 leaving the Capitol?  Yes. That's when we were making our way around -­
+Okay. 46 
+1 
+2 
+3 A 
+Q 
+A --and seeing the side of the building where people were still trying to get in, 
+4 and then the opposite side where I saw more police officers and people dressed in, like, 
+5 riot gear, and then making our way to find the bus. 
+6 Q Gotcha. 
+7 And then I know James was trying to figure out around what time you had posted 
+8 the Face book post, and we thought that was close to 5:00. Do you remember when you 
+9 posted that? Like, what time? 
+10 
+11 
+12 
+13 
+14 
+15 A 
+Q 
+A 
+Q 
+A 
+Q I want to say maybe we were on the bus. I'm not exactly sure though. 
+Okay. So sometime after you left the Capitol or perhaps --
+Yes. 
+--on your trip back? 
+Yes. 
+Okay. 
+16 And then you said --you mentioned that, as you were walking away, you started 
+17 to see that what was going on at the Capitol was all over the news and it was kind of a big 
+18 deal. What did you think then, when you started seeing that news? 
+19 A At the time, I didn't really think too much about it. I thought that it was 
+20 very shocking at the time, but not really thinking too much of it. Just really wanting to, 
+21 like, get out of there. 
+22 
+23 
+24 Q 
+A 
+Q What part was shocking? Or what do you mean, it was shocking? 
+Just --I think just seeing it and knowing that I was a part of it. 
+So the fact --it was the fact that it was on the news and was a big deal; that 
+25 was the shocking part?  47 
+A Yes, and that I was right there seeing it myself. 
+Q Right. Okay. 
+BY-1 
+2 
+3 
+4 Q Sorry. I might have messed up the timing. Just to clarify, so you say you 
+5 were getting shocked seeing the news, and that's when you're walking to the bus? 
+6 
+7 
+8 
+9 
+10 A Yes, making our way to where the bus was, yes. 
+Q But you think you probably posted that Facebook message on the bus? 
+A 
+Q 
+A I think so. I'm not exactly sure when it was posted. 
+Do you remember being shocked before you posted to Facebook? 
+Yes. It was after we --it was definitely after we had already came out of 
+11 the Capitol. That's for sure. And I want to say that I posted it on the bus coming 
+12 home. 
+13 Q Okay. So how does the shock and how you're describing the shock of being 
+14 involved in this, how did that play into your decision to write that Facebook post? 
+15 A I'm not necessarily sure. Just, like, being shocked that it was on the news 
+16 and something that I was a part of and seeing it, like, in real-time, being there, was 
+17 shocking for me. And I think, still, in my mind, I wasn't --I didn't realize the severity of 
+18 how awful what I had done was. 
+19 Q Okay. So fair to say, the shock at that point was less about the severity of it 
+20 than just the experience of it? 
+21 A Yes. In my mind, I don't think I knew enough about what was going on to 
+22 realize just how bad it was. 
+23 
+24 
+25 Q Okay. Thank you. 
+A Uh-huh. 
+BY- 48 
+1 Q Why don't we --we can take this chance for you to tell us a little bit about, 
+2 kind of, that transition from the just general shock at the attention it got and the 
+3 sentiment that you expressed in your Facebook post and then what you're telling us now, 
+4 which I understand is that you have a different view on it now. 
+5 Tell us how that idea or how that feeling evolved. 
+6 
+7 A 
+Q Like, how I feel about, like, my post or what had happened exactly? 
+Let's talk about just the events. I know you've told us you feel differently 
+8 now than you did that day, right? 
+9 
+10 A 
+Q Yes. 
+Now, like you just said, you understood that entering the building --or 
+11 entering the Capitol was wrong. What changed your mind? 
+12 A So I think that seeing it all over the news and then realizing that people had 
+13 broken into a capitol building and just hearing, like, just how much everything it cost, the 
+14 people that had died, and realizing being in a building that was broken into by what you 
+15 could call domestic terrorists and someone losing their life, is just so horrible to even 
+16 think that I was involved with something like that. It's a horrible feeling to know that I 
+17 was a part of that, that someone had lost their life because of something that I was a part 
+18 of. 
+19 Q Yeah, I understand. Thank you for sharing those feelings with us, and I'm 
+20 sure it's hard to relive that experience. 
+21 -did you have something? 
+22 - No, but I was --well, I guess, do you --it sounds like you feel a little 
+23 bit of responsibility. Is that right? 
+24 
+25 Ms. Krzywicki. Yes. 
+- Okay. Thank you.  49 
+BY 1 
+2 Q How about conversations with your mom, kind of, immediately after? How 
+3 did she feel about the events of that day? Was she, kind of, in the same state of mind as 
+4 you were? 
+A 
+Q I would say so, yes. 
+Okay. 5 
+6 
+7 Let's talk about, kind of, the bus ride home. What did you guys talk about on the 
+8 bus ride home? 
+9 A I don't really remember talking too much. I remember just watching, like, 
+10 the news on my phone about, like, what everybody else --like, what the news was saying 
+11 and what people were posting about it. 
+12 Q Okay. And so you were just monitoring that. And what did you think of 
+13 what you were seeing? 
+14 A The news --I remember watching, like, some parts of the news that --I 
+15 remember --because my boyfriend was at home watching our dogs for us. I remember 
+16 him texting me and being like, "Are you okay? What's going on?" 
+17 remember --because I think it was his mother --his mother was sending him news 
+18 articles, and I think he was forwarding them to me, and that's what I was seeing. 
+19 And then to go on, like, Facebook, I think I had --I had more conservative friends 
+20 on there that were posting, not really supportive things about it, but more --I would say, 
+21 yeah, more supportive, that they didn't really realize how bad it was either. 
+22 Q What sort of things did you see your friends posting that seemed 
+23 supportive? 
+24 A I remember one image in particular was showing back in the summertime 
+25 when certain groups of people were, like, burning businesses and all those things that  50 
+1 were going on, and then taking a picture of just, like, the crowd that was there to see 
+2 President Trump at the time speak, and then saying, "This is okay, but this isn't okay," 
+3 meaning the people that were --the picture made it seem like it was, like, a peaceful 
+4 protest, when in reality it wasn't. I don't think they realized that. 
+5 Q Were you seeing those posts around the same time you were making your 
+6 own posts, do you remember? 
+7 A Correct, yes, I think it was. Because seeing on Facebook that --thinking in 
+8 my head, oh, it wasn't really that bad, but kind of torn because I was like, well, it's all over 
+9 the news. But, in my mind, I was thinking, maybe we made a point, kind of thing, maybe 
+10 we actually did something. 
+11 Q Right. Okay. 
+12 So you're seeing some of the news coverage that's obviously condemning what 
+13 happened that day, but then on social media you're seeing some of your friends post 
+14 some more supportive things and some more, kind of, like, meme-type posts. 
+15 When --and you described that conflict in seeing both of those things happening 
+16 and not sure where you fell there. When did you, kind of, pick a side? 
+17 A I think it was a week after, and just realizing how bad it was and seeing 
+18 that --once it kind of settled down, I want to say, and then people realized what actually 
+19 happened and that people had unfortunately passed away, and especially the woman 
+20 that had been shot inside --like, ugh. I think --and especially after --after that week, it 
+21 was just more and more realizing just how awful it had been. 
+22 And then I believe it was in the summertime when the FBI had come out to 
+23 interview me and my mom, and realizing just how serious it was. Even though we 
+24 hadn't hurt anyone or vandalized anything or stole anything, we were still a part of it. 
+25 And I think us being, I'm sure, lesser of all the rest of the people there, still very, very  51 
+1 serious. 
+2 Q Right. Okay. 
+3 And, then --so, I mean, just kind of looking back at that in general, it sounds a 
+4 little bit like seeing some of the consequences is a little bit what changed your mind. 
+5 Can you just describe generally for me, what changed your mind in the end? What 
+6 were, kind of, the most important things that you saw that helped change your mind? 
+7 A I think that seeing it more and more on the news and what it was referred to 
+8 as, "domestic terrorists," and ended up, like, on Facebook, especially after being arrested, 
+9 getting death threats and just threats in general, saying how we were domestic terrorists, 
+10 we deserved to rot in jail, and realizing just how people had felt about it and realizing the 
+11 seriousness of it. And just, especially, just being everywhere, it was everywhere, 
+12 realizing how awful it was. 
+13 Q Right. Understood. 
+14 How about, as you were leaving the Capitol and on the day that you were heading 
+15 back, or the bus ride back, do you remember any of the President's messages, kind of, 
+16 towards the end of the day or the end of the events at the Capitol? 
+17 A Not really. 
+18 Q Okay. Did you have any thoughts at the end of the day on January 6th or 
+19 after about President Trump or how he reacted to the situation? 
+20 A Not really. As surprising as it is, like, being there and what I had posted, I 
+21 didn't really care too much about what he really was saying. 
+22 
+23 
+24 
+25 that? Q 
+A 
+Q Do you remember the impeachment process after that? 
+Slightly, yes. 
+Okay. Did you pay attention to any of that news or have any feelings about  1 
+2 A Not really. 
+Q Okay. 
+3 Of the other people on the bus, do you remember talking to anybody else about 
+4 their experience on you guys' way back? 
+5 
+6 
+7 
+8 
+9 A I don't think so. I didn't really talk to anyone. 
+Q Okay. Do you know if anybody else on the bus entered the Capitol also? 
+A I don't think so. 
+Q Okay. 
+BY-
+Q Were you paying attention to election fraud issues at all at that time? 52 
+10 
+11 A I don't think so. I remember sometimes my mom had talked about it, but I 
+12 just --I kind of thought it was silly. 
+13 
+14 
+15 Q Okay. So it was not a reason you went to D.C., obviously. 
+A No. I had only gone because of my mom. 
+Q Yeah. In your conversations with her in the last year, does election fraud 
+16 ever come up? 
+17 A No. 
+18 Q Okay. Thank you. 
+19 BY-
+20 Q This might be a personal question, and fine if you're not comfortable 
+21 answering it. But just kind of in understanding the effects of January 6th, I'm curious, 
+22 has it changed you and your mom's relationship? Or what does your mom --you and 
+23 your mom's relationship, how does it relate to what happened on January 6th? 
+24 A I think, at first, I was kind of --I was upset with her that we had gone and 
+25 that I kind of just followed along. But after I had gotten over that and realized I still  53 
+1 chose to go with her, I still followed, I could've at any point been like, "Hey, this seems a 
+2 little weird," like, I just --I still share responsibility for going and being there. 
+3 But, now, I just --we don't really talk about it. Sometimes she'll try to bring it up 
+4 and be like, "Oh, how's it going for you?", and I just don't really --I don't really like talking 
+5 about it. 
+6 So, overall, like, in general, our relationship is fine. I just think it has put --it has 
+7 put a strain on it. 
+8 Q Right. Understood. 
+9 We talked about, kind of, specifically impeachment, but I'm just curious if your 
+10 views --I know you said before the election and before January 6th you thought of 
+11 yourself as more conservative and generally supported President Trump. Has that 
+12 changed since January 6th? 
+13 A I would say I definitely lean more to the left now. I wouldn't --like, if the 
+14 election back in 2020 were to happen again, I don't think I would even vote. I don't 
+15 really agree with either side too much to pick one. So I would say I'm just very neutral, 
+16 open to see both sides of everything. 
+17 Q Okay. That's a good position sometimes. 
+18 Do you have any thoughts --I mean, I just want to, you know, give you an 
+19 opportunity, if there's anything that we talked about previously or just any other 
+20 thoughts you have about the events of January 6th or, kind of, your experience of it and 
+21 the time after that you haven't had a chance to share with us, just anything else you 
+22 might want to tell us? 
+23 A Not that I can think of. Just that, if it were to happen again, I would've 
+24 stayed home for sure, definitely. That would never --that was definitely not something I 
+25 would ever, ever do.  1 
+2 Q Yeah. Yeah. Understood. 
+- I think we're getting pretty close to being done. 
+3 Ms. Shaner, I might have some questions just, kind of, about Carla's case at the 
+4 end that you might be better positioned to answer. 
+5 But, -do you have any more general questions for Carla? 
+6 - Nope. 
+7 - And just for the record, as it stands today, Ms. Shaner, can you just 
+8 give us kind of a quick synopsis of where Carla's case is? 
+9 Ms. Shaner. Carla entered a guilty plea, and she's completed a probation 
+10 interview, and she's pending sentence on April the 22nd. 
+11 
+12 
+13 Carla. - Okay. 
+Ms. Shaner. And her mother also pied guilty and is going to be sentenced after 
+- Okay. Understood. 
+All right. I think, unless anybody else has anything else for the record --
+- Yeah, just quickly. 
+llllwas probably going to say this, but I like to interrupt him sometimes. 54 
+14 
+15 
+16 
+17 
+18 We just want to thank you, Carla, for taking the time to talk to us. I know, on our 
+19 end, it can be difficult to get perspective of people who were actually there and who have 
+20 been charged. So we really appreciate you, you know, talking to us and explaining to us 
+21 what was going on that day, how you felt, how you've felt since. It's really important for 
+22 us to get this kind of information, so I just wanted to let you know that we appreciate it. 
+23 
+24 
+25 Ms. Krzywicki. Of course. Thank you. 
+- Yeah. I'll --
+Ms. Shaner. I -- 1 
+2 - Oh,sorry. 
+Ms. Shaner. --just wanted to add that, after January 6th, Carla sought some 
+3 treatment for anxiety and depression. And she also moved out of her mother's house 55 
+4 into her father's house. And that might've also contributed to her leftward movement. 
+5 
+6 
+7 
+8 Is that correct, Carla? 
+Ms. Krzywicki. Yes. 
+- Great. Well, I'll second --thanks for that, Ms. Shaner. 
+I'll second what-said. I was going to say it off the record, but-is 
+9 right; it's probably better said on the record. Because I would definitely like to express 
+10 our gratitude to you for coming in and talking to us. 
+11 Like -said, you know, we're really just interested in getting everybody's 
+12 perspective and understanding, kind of, what brought people there that day and how 
+13 they've felt about it since. So thank you for being part of that, Carla. We very much 
+14 appreciate it. 
+15 
+16 
+17 
+18 Ms. Krzywicki. Thank you. You're welcome. 
+- Okay. 
+And then, with that, we can go into recess. Thank you. 
+[Whereupon, at 4:37 p.m., the interview was concluded.]  1 
+2 
+3 Certificate of Deponent/Interviewee 
+4 I have read the foregoing __ pages, which contain the correct transcript of the 
+5 answers made by me to the questions therein recorded. 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 Witness Name 
+Date 56 

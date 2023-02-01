@@ -1,0 +1,2623 @@
+1 
+2 
+3 
+4 SELECT COMMITTEE TO INVESTIGATE THE 
+5 JANUARY 6TH ATTACK ON THE U.S. CAPITOL, 
+6 U.S. HOUSE OF REPRESENTATIVES, 
+7 WASHINGTON, D.C. 
+8 
+9 
+10 
+11 INTERVIEW OF: STEPHANIE DOBITSCH 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 Thursday, May 5, 2022 
+Washington, D.C. 
+The interview in the above matter was held via Webex, commencing at 9:32 a.m. 1  1 
+2 Appearances: 
+3 
+4 
+5 For the SELECT COMMITTEE TO INVESTIGATE 
+6 THE JANUARY 6TH ATTACK ON THE U.S. CAPITOL: 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 , INVESTIGATOR 
+, INVESTIGATIVE COUNSEL 
+, SENIOR ADMINISTRATIVE ASSISTANT 
+, SENIOR INVESTIGATIVE COUNSEL 
+, INDEPENDENT CONTRACTOR 
+, INVESTIGATIVE COUNSEL 
+16 For the DEPARTMENT OF HOMELAND SECURITY: 
+17 
+18 VICTORIA RAPAPORT 
+19 HILARY LEDWELL 
+20 JAMES DUNLAP 
+21 JASON LAMOTE 
+22 KARA LYNUM 
+23 MICHELLE PETERSON 2  3 
+1 
+2 We can go on the record. 
+3 This is an interview of Stephanie Dobitsch conducted by the House Select 
+4 Committee to Investigate the January 6th Attack on the United States Capitol pursuant to 
+5 House Resolution 503. 
+6 Ms. Dobitsch, could you please state your full name and spell your last name for 
+7 the record? 
+8 Ms. Dobitsch. Good morning, everyone. My name is Stephanie Dobitsch, 
+9 D-o-b-i-t-s-c-h. 
+10 And I'm going to introduce everyone in the room today for the 
+11 record. We'll start with my colleagues. I'll have the folks in the room introduce 
+12 themselves. 
+13 Hi, this is Good 
+14 morning. 
+15 - Good morning, this is , an investigative counsel with 
+16 the select committee. 
+17 I do anticipate Senior Investigative Counsel 
+18 will be joining us at some point, for the record. And I also see present with us virtually 
+19 
+20 
+21 from the select committee is , investigator. 
+Could we have on your end, Ms. Dobitsch, any counsel present virtually? 
+Ms. Rapoport. Hi, this is Victoria Rapaport from DHS, as you see, and we also 
+22 have Hilary Ledwell, who's joining us virtually. 
+23 
+24 Did I get three names? So I see two of you on the screen. 
+Ms. Rapoport. This is Victoria Rapoport from counsel's office, and we have some 
+25 colleagues from our Office of Legislative Affairs. And two of the briefers from the  1 afternoon are joining us here as well. 
+2 Sometimes the court reporters ask that if --I think if they're on 
+3 camera or if there's even a possibility they might speak, that they'd like the names to be 
+4 on the record. Is that possible? 
+5 
+6 Ms. Rapoport. Sure. Do you guys want to introduce yourselves? 
+Mr. Dunlap. Yeah. Hi, it's James Dunlap. I am the director for 
+7 counterterrorism here at l&A. 
+8 Ms. Peterson. Good afternoon. My name is Michelle Peterson, and I am an 
+9 executive officer in the DUIEO office. 
+10 
+11 Ms. Rapoport. And OLA, please. 
+Mr. Lamote. Jason Lamote, L-a-m-o-t-e, with the Office of Legislative Affairs. 
+12 Ms. Lynum. And Kara Lynum --K-a-r-a, last name Lynum, L-y-n-u-m --with the 
+13 DHS Office of Legislative Affairs. 
+14 Ms. Rapoport. And for my spelling, it's Victoria, and last name is Rapoport, 
+15 R-a-p-o-p-o-r-t. 
+16 Thank you so much. 
+17 And you've already mentioned Hilary Ledwell. You know, if she wants to speak, 
+18 if she would just put on her camera. But, obviously, she doesn't need to if she's not 
+19 speaking. 
+20 This will be a staff-led interview, and members, of course, may choose to also ask 
+21 questions if any join the call. 
+22 My name is , and I'm an investigative counsel for the select 
+23 committee. 
+24 Before we begin, I'd like to describe a few ground rules. There is an official 
+25 reporter transcribing the record of this interview. Please wait until each question is 4  5 
+1 completed before you begin your response, and we will try to wait until your response is 
+2 complete before we ask our next question. The stenographer cannot record nonverbal 
+3 responses, such as shaking your head, so it is important that you answer each question 
+4 with an audible, verbal response. 
+5 We ask that you provide complete answers based on your best recollection. If 
+6 the question is not clear, please ask for clarification. If you do not know the answer, 
+7 please simply say so. 
+8 I also want to remind you, as we do with every witness, that it is unlawful to 
+9 deliberately provide false information to Congress. And you will have an opportunity to 
+10 review the transcript once one is prepared. 
+11 Let's begin, if I may, by asking you to briefly describe your professional experience 
+12 leading up to and through your current position. 
+13 Ms. Rapoport. I'm sorry, Robin, can I just make a quick statement for the record 
+14 before we begin with questions? 
+15 Of course. No problem. Go ahead. 
+16 Ms. Rapoport. _, the Department has made available to the committee, 
+17 consistent with requests from the chairman, information and records that the 
+18 Department would not publicly release. This includes information and records covered 
+19 under the Privacy Act, personnel, and other personal privacy information, for official use 
+20 only, intelligence and law enforcement sensitive records, and raw intelligence 
+21 information. 
+22 While the Department has made this information and records available to the 
+23 committee, the Department continues to assert that such information and records 
+24 provided to the committee and any discussion of such information or records during the 
+25 course of the transcribed interview is not intended for public disclosure.  6 
+1 DHS is not waiving any protection, and for the purpose of the --the purposes of 
+2 administrative efficiency, and to promote constructive dialogue during the transcribed 
+3 interview, is making this assertion at the outset of the transcribed interview to preserve 
+4 all assertions of protection from public release or disclosure over information or records 
+5 used or discussed during the transcribed interview. 
+6 The transcript and any attachments are protected from further dissemination to 
+7 the same extent as the documents and information they are based on. Please consult 
+8 with the Department prior to any public release or disclosure. 
+9 Thank you. 
+10 Thank you, Ms. Rapoport. 
+11 EXAMINATION 
+12 BY 
+13 Q So I will, for the record, I'll just repeat the question for you, Ms. Dobitsch. 
+14 Can you or may you briefly describe your professional experience leading up to and 
+15 through your current position. 
+16 A Thank you. I have been in the intelligence community for about 15 years. 
+17 Prior to that, I was in the Pennsylvania Army National Guard, where I did military 
+18 intelligence. I joined DHS in 2019. Most of my experience focuses on Middle East and 
+19 North Africa, with a specific focus on counterterrorism issues. 
+20 Q Can you just run through, you know, the different positions that you had 
+21 through DHS? 
+22 A When I joined DHS in 2019, I first served as the counterterrorism mission 
+23 manager in Intelligence Enterprise Operation. And in May of 2020, I was asked to fleet 
+24 up as the acting deputy under secretary for Intelligence Enterprise Operation. 
+25 transitioned permanently to that position in January of 2021.  1 
+2 
+3 Q 
+A 
+Q Okay. And is that your current title? 
+Yes, sir. 
+All righty. Does that division, the intelligence division and enterprise, does 
+4 that have an acronym? 
+5 A It's commonly referred to as DUIEO, Deputy Undersecretary for Intelligence 
+6 Enterprise Operation, or IEO. 
+7 
+8 
+9 
+10 point? 
+11 
+12 Q 
+A 
+Q 
+A 
+Q IEO. Okay. Was that your title over the summer of 2020? 
+I was in the acting capacity, but that was my title. 
+Right. What about on January 6th, 2021, were you still acting at that 
+Yes, sir. 
+All righty. Did you at any point serve temporarily in a higher capacity than 
+13 the deputy under secretary? 
+14 
+15 A 
+Q No. 
+Can you please just describe for us what you do as the deputy under 
+16 secretary, what is your job description? 7 
+17 A I lead most of the Office of Intelligence and Analysis intelligence functions, to 
+18 include our collections capabilities both over HUMINT and open source collection. I also 
+19 oversee our eight mission centers, five of which are substantive: the Transnational 
+20 Organized Crime Mission Center, Counterterrorism Mission Center, Counterintelligence 
+21 Mission Center, Economic Security Mission Center, and our Cybersecurity Mission Center, 
+22 as well as three support elements: our Homeland Identities, Exploitation, Targeting 
+23 Center; our Field Operations Division, which includes our individuals deployed throughout 
+24 the U.S.; and our Current and Emerging Threats Center. I also oversee our analytic 
+25 production.  1 
+2 
+3 
+4 Q 
+A 
+Q 
+A Who was your direct supervisor over the summer of 2020? 
+I recall that my direct supervisor was Mr. Brian Murphy and Mr. Horace Jen. 
+And could you just tell us their positions at the time? 
+In the summer of 2020, Horace Jen served as the acting principal deputy 
+5 under secretary for Intelligence and Analysis, and Mr. Brian Murphy served as the Senior 
+6 Official Performing the Duties of the Under Secretary. 
+7 Q Is it fair to say that sort of hierarchy is Mr. Murphy first, and then the name 
+8 you gave us previously, which I'm already blanking on, and then you? Is that the 
+9 hierarchy? 
+10 
+11 A 
+Q Yes, sir. Brian Murphy, Horace Jen, then myself. 
+Thank you so much. 8 
+12 And who was your or what was the chain of supervision your direct supervisor, on 
+13 January 6th of 2021? 
+14 A I'm unsure of the exact positions at the time. 
+15 Senior Official Performing the Duties of the Under Secretary. And I believe, but I can't 
+16 recall specifically, whether or not Melissa Smislova was the acting principal deputy under 
+17 secretary at the time. I believe she was. 
+18 Q If she wasn't, who would be? Is it between two people, or was --are you 
+19 thinking that that position might have been unfilled at that time? 
+20 A It was either she was in the acing capacity or it was unfilled. But I do 
+21 believe she was in the acting capacity during that time. 
+22 Q And can you tell me today the sort of, again, the hierarchy of who's your 
+23 direct supervisor and then who serves above that? 
+24 A Currently, Melissa Smislova serves as the Senior Official Performing the 
+25 Duties of the Under Secretary. The Principal Deputy position is vacant. And I serve in a  9 
+1 deputy under secretary position. 
+2 Q What does --and I don't think we've actually said it on the record --the 
+3 Office of Intelligence and Analysis, which we'll go on to say obviously called l&A --what 
+4 does l&A do generally? What is its mission? 
+5 A l&A serves a unique role in the Department and in the intelligence 
+6 community. We really focus three --on three primary missions. The first is unbridging 
+7 the intelligence community and State and local, Tribal territorial and private sector 
+8 partners. We ensure that nationwide bidirectional information sharing on homeland 
+9 threat occurs, and then we provide a variety of intelligence support to those State and 
+10 local partners. 
+11 Beyond that, we produce tailored analysis for our Homeland Security 
+12 stakeholders. We collect and analyze information, including DHS holdings, to address 
+13 intelligence requirements of DHS, our Federal partners, and our State, local, Tribal, and 
+14 territorial and private sector customers. And this spans the full spectrum of threat to 
+15 the homeland, including cyber, terrorism, malign influence activity, transit border threats, 
+16 and economic security threats. And we strive to put out our analysis at the unclassified 
+17 and secret level to deliver to the widest group of Homeland Security stakeholders. 
+18 Lastly, we serve as a nexus between DHS and the intelligence community, bringing 
+19 what information and intelligence the DHS intelligence network can bring to bear on 
+20 national security efforts and threats, to include providing data analytics, tool, techniques, 
+21 and solutions to enable the Department and the intelligence community to accomplish 
+22 our national security and intelligence mission. 
+23 
+24 
+25 Q 
+A 
+Q It is a member of the intelligence community, correct? 
+Yes. 
+What is its relationship, if any, with the fusion centers across the country?  10 
+1 A l&A enables the fusion centers by supporting their intelligence efforts. We 
+2 primarily rely on our staff that are deployed throughout the fusion centers to enable the 
+3 full spectrum of the intelligence cycle, to include collection analysis and information 
+4 sharing. 
+5 Q What does the Current and Emerging Threats Center do, and how does it fit 
+6 within the structure of l&A? 
+7 A The Current and Emerging Threats Center, known as CETC, reports to me as 
+8 one of the eight mission centers that fall under my purview. The Current and Emerging 
+9 Threats Centers --Center has three main functions, the first being responsible for 
+10 managing requests for information from the full spectrum of our stakeholders and 
+11 partners, to include from the intelligence community, State and local partners in the 
+12 Department. Their second primary focus is serving as a watch function, ensuring broad 
+13 situational awareness among our partners and our senior leadership on new and 
+14 emerging threats. And their third function is leading l&A open source intelligence 
+15 collection activities. 
+16 Q So is it --is Open Source Collection Operations --and I'll need you to 
+17 pronounce, I guess, the acronym for me --does that fall under CETC? And how does it, 
+18 the open source collection operations, what does it do? Right. What is its mission? 
+19 A So the Open Source Collection Operations branch, or OSCO, is a branch in 
+20 the Current and Emerging Threats Center. Its mission is to drive intelligence collection 
+21 derived from publicly available information on key collection requirements and 
+22 intelligence gaps determined by our analysts in the IC to help us better understand the 
+23 threats to the homeland. 
+24 Q What does the Counterterrorism Mission Center do, and is that structurally 
+25 also one of the eight mission centers under CETC?  11 
+1 A So CETC is one of the eight that falls under me. It's separate. The 
+2 Counterterrorism Mission Center is equal, as it relates to being on the organizational 
+3 structure. So they're each --there are two of the eight mission centers that I oversee. 
+4 The Counterterrorism Mission Center, also known as CTMC, drives primarily collection 
+5 and analysis on the full spectrum of counterterrorism threats facing the homeland. 
+6 Q Thank you for that clarification. I misspoke. 
+7 And, lastly, can you tell me what the Field Operations Division does and, again, 
+8 where it fits within the structure? 
+9 A The Field Operations Division, or FOD, is the third of eight mission centers 
+10 that I oversee. Their primary mission is to enable our Homeland Security stakeholders in 
+11 the field, focused on the full intelligence cycle, to include collection, analysis, and 
+12 dissemination of intelligence to the partners, as well as engaging in association and other 
+13 engagement meetings to, again, maintain strong, robust relationships with the State, 
+14 local, Tribal, territorial, and private sector partners. 
+15 Q In your role, does raw specific intelligence come across your desk? Is it 
+16 elevated to your level regularly? 
+17 A I regularly see disseminated raw intelligence collection once it's serialized. 
+18 I do not regularly view raw intelligence collection before it is officially disseminated and 
+19 serialized. 
+20 Q Does that mean that it's --you see the analysis as well or --you see the raw 
+21 intelligence as part of an analytical product, is that typically how it comes across your 
+22 desk? 
+23 A No. I review both raw and finished intelligence as it relates to all threats to 
+24 the homeland. 
+25 Q Is that by policy and procedure? So if something is going to be  12 
+1 disseminated in an analytical product, do you ensure to both review the product and the 
+2 underlying raw intelligence yourself? 
+3 
+4 A 
+Q No. 
+Okay. Can you explain that to me then, how --under what situation you'll 
+5 look at the raw intelligence apart from the analytical product? 
+6 A I look at raw intelligence once it is serialized and disseminated to customers. 
+7 So after it's finished and completed, just as I look at analysis in our finished intelligence 
+8 production primarily after it is reviewed, disseminated, and completed. 
+9 Q I see. So it could be disseminated just raw without any sort of analysis 
+10 attached to it. And in that case, if it is being shared externally, you will have reviewed it. 
+11 Is that right? 
+12 
+13 A 
+Q I do not review raw intelligence before it's disseminated. 
+Okay. I think I'm having issues understanding. Well, let me ask you this. 
+14 What level of --
+15 A I am not part of the review process before raw intelligence is formally 
+16 disseminated. I read it as a customer after it's disseminated. 
+17 Q Got it. I see. The difference --and it's easier for me if you distinguish, 
+18 when you're making a distinction with me, what part of the sentence you're 
+19 distinguishing. So it's the before is the part that you were in disagreement. It's you 
+20 review it, but you review it afterward, after the dissemination. 
+21 
+22 A 
+Q Once it's disseminated, yes. 
+Thank you. 
+23 What level of involvement --drafting, reviewing, approving --do you play in the 
+24 production of or creation of intelligence products? 
+25 A Can you clarify what type of intelligence? Are we talking about raw  1 intelligence or finished intelligence? 
+2 
+3 Q 
+A Let's do finished intelligence. 
+I do not play a role in the drafting, reviewing, or publication of finished 
+4 intelligence products. I have the designation that I formally approve those products in 
+5 our policies, but that duty is delegated primarily to my office of the research director, 
+6 which is a senior leader who focuses primarily on reviewing and disseminating those 
+7 products. 
+8 I sometimes review products when they are of a high profile or a high visibility 
+9 nature, meaning that there's a significant or imminent threat, or in a case where we 
+10 might have some reduced staffing that requires my support to help them provide that 
+11 review. But on a day-to-day basis, I typically do not review finished intelligence 
+12 products before they are disseminated. 13 
+13 Q Just to clarify, those exceptional circumstances that you listed for me, those 
+14 would be reviewing before dissemination. Is that correct? 
+15 
+16 A 
+Q Yes. 
+This relationship that you've just described for us how regularly you see, you 
+17 know, raw intelligence that is being disseminated and then how regularly you have either 
+18 eyes or review or preapproval on intelligence products, is it --did it stay the same, in 
+19 essence, throughout your tenure, from the summer of 2020 through January 6th to 
+20 today? 
+21 A I almost never review or see raw intelligence before it's formally 
+22 disseminated. Between the summer of 2020 and shortly after 6 January, I reviewed and 
+23 approved every open source intelligence report that was disseminated by l&A prior to its 
+24 dissemination. 
+25 Q Can you repeat that actually? I missed that. You said --can you repeat  1 the whole thing, please? 
+2 A I almost never review raw intelligence reporting before it is officially 
+3 disseminated. During the timeframe that you had identified, between the summer of 
+4 2020 and shortly after 6 January, I reviewed and approved nearly every open source 
+5 intelligence report that was disseminated by l&A. 
+6 
+7 Q 
+A And that would be preapproveds before dissemination? 
+Prior to dissemination. 14 
+8 Q Okay. And that was not true before the summer of 2020, and it is not true 
+9 since, in the days following January 6th. Is that right? 
+10 A I think the official memo came out in spring of 2021, so I can --like, I'm just 
+11 recalling from my recollection it was, I think, March of 2021, but from around that 
+12 timeframe, we instituted a policy for review of open source intelligence reports to which I 
+13 removed myself from that process. So it was sometime around March where I stopped 
+14 reviewing it. And prior to December of 2020, I did not review open source intelligence 
+15 reports prior to their dissemination. 
+16 Q Why before the summer of 2020 did you not do that? 
+17 A It's not typical for an individual at my level to review raw intelligence 
+18 production. It's not part of the process. 
+19 Q And what made it typical after the summer of 2020? 
+20 A After the summer of 2020, it was determined that a process was not in place 
+21 officially for the review and dissemination of open source intelligence report. And 
+22 following the release of three open source intelligence reports that had detailed 
+23 information on American journalists, I believe it was my --my responsibility to ensure 
+24 that our open source intelligence reports received the proper review and oversight until a 
+25 more formal process was established and put into place.  15 
+1 Q Was that a policy or procedure that you undertook or did it come from some 
+2 sort of written guidance from anyone? 
+3 
+4 
+5 A I undertook it, and I disseminated the policy in March of 2021. 
+Do you have a question? 
+Ma'am, I just want to follow up on a question that my colleague 
+6 asked you earlier. I think in response to one of his questions, you said you almost never 
+7 review. And I was wondering if you could describe for me the circumstances that qualify 
+8 for the few times that you have. 
+9 So it sounds like it wasn't a blanket no, but you said you almost never review. 
+10 I'm just trying to get a sense of what you mean, what constitutes the circumstance where 
+11 you would, in fact, do that review? 
+12 Ms. Dobitsch. When I talk about raw intelligence reports, just to clarify, it's more 
+13 than open source intelligence reports. We also disseminate field intelligence reports 
+14 and intelligence information reports. So we have multiple products that we disseminate 
+15 that are considered raw intelligence. And so I'm speaking in the totality of what we do. 
+16 In those rare circumstances, it's often because if --again, it's a high profile or high 
+17 visibility issue. An example would be if we were going to disseminate an intelligence 
+18 report on Russia/Ukraine, I'd want visibility so that I can be prepared to discuss or share 
+19 that information with our --
+20 ••••• It appears your video --and your video has cut out, Ms. Dobitsch. 
+21 
+22 
+23 
+24 Ms. Dobitsch. Are we back? 
+We can hear you, but we can't see you. 
+There we go. 
+Ms. Dobitsch. I apologize. We're in a SCIF, so every 15 minutes, the camera 
+25 shuts off, and we have to push a button to restart it.  16 
+No problem. 1 
+2 So you were saying an example of a high-profile situation would be something like 
+3 on Russia and Ukraine. Is that correct? 
+4 Ms. Dobitsch. Yes. Typically, if we know that a report is going to be highly 
+5 visible, likely to be shared with very senior leaders, I ask my team to give me a heads-up 
+6 that that dissemination is forthcoming so that I can be prepared to brief that information 
+7 to our customers. 
+8 Thank you, ma'am. 
+9 
+10 Q Can you describe the difference, if there is any, between an open source 
+11 intelligence report, or an OSIR, and an intelligence information report, an IIR? 
+12 A Open source intelligence reports contain information derived from publicly 
+13 available information. Intelligence information reports are derived from l&A's 
+14 perspective almost entirely through overt HU MINT, which is our authority to collect 
+15 information from human sources. 
+16 Q Before the October 30, 22 --2020, excuse me, memorandum put out by the 
+17 Under Secretary for l&A at the time --and it's exhibit 6 --was the decision whether to 
+18 draft and put out an OSIR between an individual analyst and his or her supervisor? Did 
+19 it need to go any further up at that point? 
+20 A Prior to the October 2020 memo being disseminated, as I stated earlier, 
+21 from the summer of 2020 up until after January, I reviewed all open source intelligence 
+22 reports before they were disseminated. 
+23 Q And can you explain to me --do you know what dates when you put in place 
+24 that policy? 
+25 A It was shortly after the dissemination of the open source intelligence reports  17 
+1 relating to the journalists. So based on my recollection, I believe it was sometime in 
+2 August or September of 2020. 
+3 Q So then could you describe for me briefly, then, after that memo, who 
+4 additionally had to review and sign off on OSI Rs, other than it sounds like, you know, the 
+5 drafter, his or her supervisor, yourself? Did it add any other layer of review, and what 
+6 was it? 
+7 A According to the exhibit that you provided, the product, if it was specific to 
+8 reporting related to elections, it went through our Collections Management Division, as 
+9 well as our Intelligence Law Division and our Intelligence Oversight Office prior to 
+10 dissemination. 
+11 Q Is that your understanding of how it worked in practice following the 
+12 memorandum? 
+13 
+14 
+15 
+16 A 
+Q 
+A 
+Q Yes. 
+Okay. And did that remain the case up to and through January 6th? 
+Yes. 
+What sort of coordination is there between l&A and other Federal 
+17 intelligence agencies like the FBI? 
+18 
+19 A 
+Q Can you be more specific in terms of what --on what, coordination on what? 
+Yeah. What relationship, I mean, what sort of communication? Is there 
+20 coordination in terms of the sharing, collection, consuming of intelligence between you 
+21 and other members of the intelligence community? 
+22 A We coordinate and collaborate every day multiple times a day with most of 
+23 our few stakeholders across the intelligence community. 
+24 Q What about with law enforcement and the intelligence shops within those 
+25 law enforcement agencies?  18 
+Every day and multiple times a day. 1 
+2 A 
+Q A Washington Post article characterized the historical reputation of l&A this 
+3 way, quote, The Intelligence and Analysis Office has for years been the butt of jokes 
+4 among larger, more established agencies like the CIA and the FBI who liken it to a team of 
+5 junior varsity athletes. The DHS office produces reports that are largely based on 
+6 unclassified, often public sources of information that current and former officials have 
+7 said are of limited use, end quote. 
+8 Putting aside the substance of the critique, does this, in your experience, 
+9 accurately characterize what you've heard about the perception of l&A among those 
+10 other organizations? 
+11 
+12 
+13 A 
+Q 
+A Absolutely not. 
+Can you expound on that? Tell me what your experience has been. 
+Having served in multiple intelligence community organizations prior to 
+14 arriving at DHS, the perception with that DHS had a unique and very distinct and different 
+15 customer from other intelligence community members and focused primarily on serving 
+16 customers like State and local partners, for which it's statutorily required to share 
+17 intelligence information, which is different from those intelligence community members, 
+18 what I found serving those positions, that in most cases, those intelligence community 
+19 members had no idea what l&A did on a daily basis and did not understand their mission, 
+20 their purview, or their customer. 
+21 Q So that still sounds a little bit about the substance of the critique. Had you 
+22 heard the perception that is characterized in the quote I read? Had you come across 
+23 that perception? 
+24 
+25 A 
+Q No. 
+Okay.  1 
+2 A 
+Q No. 
+So my reading is the first time you had ever heard that anyone had made 
+3 those sorts of comments about l&A? 
+4 
+5 A 
+Q Yes. 
+I'd like to start with the summer of 2020. Can you list your reporting 
+6 requirements --I'm going to say at that time. That doesn't necessarily imply that they 19 
+7 changed, and we'll get there, but can you list --but I want to make clear I'm talking about 
+8 December of 2020 --can you list the reporting requirements, of which I think there are 
+9 three. Is that right? 
+10 
+11 
+12 A 
+Q 
+A I'm not aware of reporting requirements related to the summer of 2020. 
+Okay. What are they today? 
+I'm not sure what you're referencing. We drive intelligence based off of 
+13 collection requirements for which we have hundreds. 
+14 Q Yeah. So I'm talking about the requirements or thresholds that need to be 
+15 met in order for something to be disseminated, for a report to be disseminated. 
+16 A I'm not aware of a reporting requirement. In order for a report to be 
+17 disseminated, it has to be within our authorities, our guidelines, and answer a collection 
+18 requirement. 
+19 Q All right. So, potentially, I'm misusing terminology, and so I don't want to, 
+20 you know, worry about semantics. So you tell me, what --the OIG listed these three 
+21 things, and you tell me what they are characterized as, what you would call them. That 
+22 the --whatever intelligence the analyst is reviewing contains true threats or incitement to 
+23 violence, not hyperbole; that it provides --or that it provides information that enhances 
+24 understanding of known threat actors; or that it includes information that demonstrates a 
+25 risk of violence during a heightened threat environment. What are those?  20 
+1 A Those are Attorney General guidelines. There are authorities and abilities 
+2 for disseminating intelligence. 
+3 
+4 
+5 
+6 Q 
+A 
+Q 
+A Okay. So is it fair to say --
+For collecting and analyzing and disseminating intelligence. 
+Repeat that last part. I'm sorry. We talked a little bit over each other. 
+These are the Attorney General guidelines that are provided for l&A's 
+7 collection analysis and dissemination of intelligence. 
+8 Q Okay. Do all of these conditions need to be present for the dissemination 
+9 of intelligence? 
+10 
+11 A 
+Q No. 
+Does one at least need to be present for the dissemination of intelligence in 
+12 order to follow the guidelines? 
+13 A Yeah. Although this guidance from our Intelligence Law Division has 
+14 changed over time. 
+15 
+16 
+17 Q 
+A 
+Q Right. And so is it okay if I use a shorthand, guidance for dissemination? 
+Sure. 
+Okay, perfect. So what was the --were the three things I listed, was that 
+18 the guidance for dissemination over the summer of 2020, and, if not, can you tell me 
+19 what it was? 
+20 A The guidance for dissemination was --primarily over the summer of 2020 
+21 was typically all three of these, with a heavy focus on providing intelligence during a 
+22 heightened threat environment. 
+23 Q Okay. And so we talked about how, you know, all three are 
+24 not conditioned precedence for the dissemination. That it's a disjunctive, it's or. But 
+25 that's interesting, I mean, when you say with a heavy focus on the third. What does that  21 
+1 mean in terms of, you know, the disjunctive, that it can be one, two, or three? What 
+2 does it mean that there's a heavy focus on one of them? 
+3 A From a leadership perspective, it was identified early on in the summer 
+4 of --spring through summer of 2020 that we were operating in a heightened threat 
+5 environment. And I think there was a general understanding that that drove a lot of the 
+6 priorities as it related to the collection of intelligence. 
+7 Q I see. So is it fair to say you can still disseminate based on just, one, being 
+8 present, based on just, two, being present; but what you're telling me is that, given that 
+9 number three had been designated the time period as a heightened threat 
+10 environment --I don't want put words in your mouth. I want to say it's easier --but it is 
+11 a route that maybe was either more deployed or more accessible given that designation. 
+12 Is that fair? 
+13 
+14 A 
+Q That was the perception at the time, yes. 
+And so I want to ask you about that, because you said that that sort of 
+15 designation --how did that designation happen? Was it written? Was it formalized in 
+16 some way, or was it a perception? 
+17 A I think it was written and perception. Our Intelligence Law Division issued 
+18 and developed several job aids for our officers, to include one that looked at how we 
+19 collect and analyze information looking at national monuments, as well as what is 
+20 referred to as the Portland job aid. So it was codified for our collectors. And then 
+21 from a perception standpoint, the leadership at that time communicated to the 
+22 workforce that we were facing a heightened threat environment. 
+23 
+24 Q 
+A Do you recall when that guidance about the monuments came down? 
+My recollection is that those aids occurred earlier in the summer, possibly 
+25 around the June, July timeframe. I recall that the Portland job aid was disseminated  22 
+1 before l&A deployed personnel to Portland. 
+2 Q You said that leadership sort of inculcated or reiterated this period as being 
+3 a heightened threat environment. Were you a part of the leadership that did that? 
+4 
+5 A 
+Q I did not communicate that, but I was part of that leadership team, yes. 
+Do you recall who in particular was sort of fomenting or reiterating that 
+6 position, that understanding? 
+7 A The Senior Official Performing the Duties of Under Secretary, Mr. Brian 
+8 Murphy, and the Acting Principal Deputy Horace Jen were primarily in charge of 
+9 directing/dividing operations during this timeframe. 
+10 Q Did you get a sense --because you sort of distinguished it for me both the 
+11 perception and the fact that it was codified, it was a written guidance --did you get the 
+12 sense that they were doing that or that your leadership team decided to do that because 
+13 of the codification, or that separate and apart, that was their, I guess, opinion as to 
+14 whether you were in a heightened threat environment or not? 
+15 A The leadership determination drove the codification of that guidance by the 
+16 Intelligence Law Division. 
+17 
+18 Q Thank you. That helps me. 
+What was your opinion about that? Did you share in that opinion that it was a 
+19 heightened threat environment? 
+20 
+21 A 
+Q Yes. 
+Can you --you know, I want to make a distinction also. I've been calling it 
+22 guidance for dissemination. You talked about collection also. You used guidance for 
+23 collection and dissemination. 
+24 Do those three conditions, do they govern --I understand it governs your ability to 
+25 distribute information via intelligence products. Does it limit what you can see or  23 
+1 monitor --and I'm, you know, I know you have certain restrictions, you know, about 
+2 things being publicly available, that sort of thing. I assume that that is all met. That 
+3 those conditions are met. 
+4 I'm trying to understand if what you see is at all limited, as long as every other 
+5 condition is met, by these three --these three guidance requirements. 
+6 A These three that are noted in the OIG report are just a snapshot of the 
+7 overarching guidelines which drive the full, again, operations of l&A. There are other 
+8 aspects where we must first identify that the activity --the intelligence activity that we're 
+9 conducting meet the national departmental mission. So these are just a snapshot of 
+10 what we look to to make determinations about any intelligence activity that we conduct. 
+11 Q Right. So my question is, in essence, can you see, can you monitor 
+12 intelligence that does not meet one of these three requirements? 
+13 And maybe I should use "information" instead of "intelligence," but I'm trying to 
+14 get at whether these three requirements constrain what you're able to see, read. 
+15 A It's threat-specific. There are instances where our open source collectors 
+16 are looking at threats that are not violent in nature. So an example of these borderline 
+17 blunt (ph) activity. And so these are very specific to an environment in which we're 
+18 looking for violent threats. And in that perspective, particularly, yeah, our 
+19 counterterrorism mission, these are the primary guidelines for which we would also 
+20 monitor reporting. But they're not exclusive. 
+21 
+22 
+23 
+24 Q If I could ask. 
+Go ahead. 
+BY 
+So maybe another way of asking the question is: Are the three criteria, the 
+25 three guidelines listed, limiting in any nature, I think is what we're trying to understand.  24 
+1 Because when I hear the term "guidance" or "guidelines," it doesn't have the force and 
+2 effect of a statute or regulation, and it's somewhere in between that and policy. 
+3 So we're trying to understand, or at least I'm trying to understand, how 
+4 constraining are the guidelines on what you do day to day? 
+5 A From my perspective, it's not the guidelines that are necessarily constrained; 
+6 it's the interpretation of those guidelines. And those interpretations have changed over 
+7 the course of the last several years, which has created confusion amongst our workforce 
+8 and our leadership team in terms of how we apply the Attorney General guidelines to 
+9 what we do every day. 
+10 Q And does ILD play a role in helping senior leadership interpret those 
+11 guidelines? 
+12 A Yes. They are the primary office for which we make those determinations 
+13 about how we apply those. 
+14 Q And from your perspective, has the interpretation of the guidelines based on 
+15 a guidance provided to you by ILD changed in anyway from the summer of 2020 through 
+16 January 6th until now, or has the interpretation remained consistent? 
+17 
+18 
+19 
+20 A 
+Q 
+Q It's changed through nearly every experience over the last several years. 
+Okay. 
+BY 
+I just want to close the loop, put a pin on this. I'm trying to understand --I 
+21 understand that these --one of these conditions needs to be present in order to 
+22 distribute information via intelligence products. I want to understand that when you 
+23 are monitoring, let's say, social media that is otherwise compliant --I know you 
+24 mentioned there are, of course, other guidance and restrictions on, you know, what you 
+25 can do, including, you know, I believe, not --you know, private chats and  25 
+1 trying --infiltrating those, that would --assuming that everything else is met, can you 
+2 continue to monitor, let's say, social media activity even if what you are reading does not 
+3 constitute a true threat or incitement of violence, you know, it's not a heightened threat 
+4 environment, and the information that you're reading doesn't at the time enhance your 
+5 understanding of known actors? I'm trying to understand if those three limit what you 
+6 can read, what you can monitor, what you can see. 
+7 A So I'll be the first to admit that there are a lot of exceptions to these 
+8 guidelines and the extent to which we apply them. So it makes the question you're 
+9 asking difficult to answer. And so what I would say, that in many circumstances, it's 
+10 specific to the nature of the specific information that the collector is looking at, the 
+11 context in which the collector is looking at that information, and then the nature of the 
+12 information itself. 
+13 So that is why it is difficult to get a singular answer in that there are a lot of 
+14 exceptions with how we apply these guidelines based on the information at hand, the 
+15 circumstance in which the information is obtained, and then the context in which the 
+16 information exists. 
+17 Generally, I would say that in terms of monitoring open source information that is 
+18 publicly available, generally, as it relates to the specific focus of looking at threats of 
+19 violence, we would --we would need at least one of these to be present for us to monitor 
+20 it, generally. 
+21 Q I really appreciate that answer. And so if you would assist me if, you 
+22 know --if the question is difficult for a reason, please let me know. I very much 
+23 appreciate that answer. I think that very much did answer the question. 
+24 So back to just now, you know, guidance for dissemination, right? We 
+25 understand that this, you know, as we talked about, one of these should be present.  26 
+1 Does this guidance limit your ability to put together a threat picture or landscape in the 
+2 form of a bulletin that does not specifically reference any one particular piece of 
+3 intelligence? 
+4 So I understand that you can't distribute information via intelligence products. 
+5 I'm trying to understand if the specific intelligence is not mentioned in the product but 
+6 that it informs, let's say, you know, across the board, can it inform an intelligence bulletin 
+7 or would that be verboden? Would that be restricted, prohibited? 
+8 A Typically, in terms of the guidelines we use, the IC directive is another 
+9 guideline we use to disseminate finished intelligence production, which would, in this 
+10 case I think what you're referencing is a bulletin, we would consider that finished 
+11 intelligence. Generally, the best practices and the guidelines require evidence to 
+12 support your analytic assessment. And so while information that we're seeing online 
+13 can inform that analysis, the preference is that information be documented in some way, 
+14 primarily through an OSIR, so that it can be used as evidence to support our assessment. 
+15 And so when information doesn't meet one of these thresholds, generally, our 
+16 analysts, like I said, it informs their understanding, but it is not typically included in a 
+17 finished intelligence product, and it does complicate our ability to produce things like a 
+18 bulletin. 
+Q Thank you. 19 
+20 And then I understood you to say that that's the, you know, preference, the strong 
+21 preference. Do you recall occasions when, you know, no OSIR with actual particular 
+22 intelligence was put out but yet the intelligence, the sort of information was used to 
+23 generally put together a bulletin? 
+24 A I don't recall anything specific. Most of the time when we produce finished 
+25 intelligence where we don't have that document, in reporting it, often an assessment that  27 
+1 articulates that we do not have information on a specific threat. So that's the most 
+2 common example where we don't have the information. We often put out finished 
+3 intelligence that articulates that we lack information on that. 
+4 Q Got it. The threat assessment put out by Capitol Police on January 3rd, 
+5 have you had an opportunity --as you sit there today, have you seen that document 
+6 before? 
+7 
+8 A 
+Q No. 
+Okay. And I didn't mean to hide the ball. I didn't provide it as an exhibit 
+9 because it's --I didn't know whether you had seen it before or not. So I appreciate that. 
+10 Tell me about your ability to save or archive information. Can you retain it for a 
+11 period while your analysts are deciding whether it meets the reporting requirements? 
+12 How long do you have --if that's true, how long do you have until it must be deleted if it 
+13 is determined that it does not meet the requirements? 
+14 A I don't know the specific answer to that. I know that we are able to 
+15 capture, retain the information for a period of time for which our collectors or our 
+16 analysts can make a determination as to whether or not that information meets 
+17 collection requirements and our guidelines for reporting, but I don't know how long that 
+18 time is. 
+19 Q Okay. So we talked about this, right, the departmental guidance released 
+20 the summer authorizing the monitoring of social media posts as well as the use of public 
+21 information sources to keep tabs --this is language that --reporting language on 
+22 individuals or groups that department says may, quote, damage or destroy any public 
+23 monument, memorial, or statue, end quote. 
+24 Can you describe how that departs, if at all, from your --from before, from how 
+25 your restrictions operated traditionally?  28 
+1 A I think that as it relates to reporting on national monuments, generally, prior 
+2 to that legal guidance being disseminated, generally, the perception was that national 
+3 monuments don't necessarily fall into the critical infrastructure category for which we 
+4 have our authority to produce intelligence and analysis. There was not a focus on 
+5 collecting that as it relates to our critical infrastructure and key resources mission. 
+6 And so there were questions raised when there were threats of violence 
+7 associated with the taking down of certain statues or monuments. And so the 
+8 leadership asked the Intelligence Law Division to clarify the extent to which those were in 
+9 our mission space. 
+10 Q Did that affect how long you were able to hold on to or archive these 
+11 materials, these monitoring of social media posts and use of public information sources, 
+12 that you know of? 
+13 
+14 A 
+Q No, I'm not aware that there was a change as a result of that guidance. 
+Do you know if dossiers were maintained on these individuals or groups as a 
+15 result of this guidance? 
+16 
+17 A 
+Q Not specific to the national monuments. I'm not aware of any dossiers. 
+Okay. And does that mean --are you saying not specific because the ones 
+18 that you're aware of relate to the American journalists that you talked about earlier? 
+19 A No. That was also not connected. Federal (ph) and national monuments, 
+20 I'm not aware of any specific intelligence reporting that isn't serialized. So if there's a 
+21 report, it's likely serialized. I'm not aware of any information that wasn't serialized that 
+22 was maintained in any way on that specific issue. 
+23 Q Okay. What about on just individuals or groups over the summer? Were 
+24 dossiers maintained? They used a phrase, keep tabs on individuals or groups. I'm 
+25 trying to understand, from your perspective, how that practically worked.  29 
+1 A I'm not aware that l&A officers captured and checked dossiers on 
+2 individuals. Typically, again, we do not keep information that doesn't meet the 
+3 requirements for reporting. So individuals --the only thing I can think of that relates to 
+4 your question is the production of our operational background reports, or the 
+5 OBIRs --OBRs, where individuals who were arrested on charges in Portland were 
+6 evaluated and analyzed to determine whether or not a network existed to commit the act 
+7 of violence that were taking place there. 
+8 Q Okay. We've talked about how the differing interpretations of the 
+9 guidance for dissemination --that's the phrase I'm using --have changed over time. My 
+10 question is: Formally on paper, have they amended or changed in that time? 
+11 A Yes. 
+12 Q Okay. Let's talk about how, because --so you told me, over the summer of 
+13 2020, that there were these three with a particular focus on number three. How has 
+14 that changed in the time period between the summer of 2020 and January 6th, if at all? 
+15 A Sure. So to start, we both say believe certainly the legal guidance on the 
+16 monuments was rescinded. And I believed the guidance on the Portland job aid was 
+17 also rescinded. So those were rescinded since they were issued. Additionally, after 
+18 the summer of 2020, all of l&A was retrained on our oversight guidelines and authorities. 
+19 And, specifically, our open source intelligence collectors were briefed only --or trained 
+20 only on true threats and incitement rather than the other two aspects noted in the OIG 
+21 report, which is documented in the training materials provided by our Intelligence Law 
+22 Division. And since then, our --since January 6th, the guidance has now changed back 
+23 to an increased focus on what we would call risk and vulnerabilities rather than just 
+24 true threats and incitement. 
+25 Q Okay. When you talked about through January 6th, it sounded the changes  30 
+1 were about training and interpretations. I guess I'm trying to ask these three. Was 
+2 there official change in language with the requirements, not their interpretation, not how 
+3 they're trained, just literally formally amended or changed in some way? One of the 
+4 requirements dropping off entirely, adding a new requirement, have these three stayed 
+5 constant in the formal, written capacity? 
+6 
+7 
+8 A 
+Q 
+A My understanding is there's no formal written capacity that details these. 
+Are they not documented anywhere? 
+No. I think outside of the Attorney General guidance, which are not this 
+9 specific, I'm not aware of guidance that's been formally disseminated by our Intelligence 
+10 Law Division or others that articulate these specifically. The formal aspects were 
+11 provided in slides via training to our workforce. 
+12 Q So then if it's fair, you said, you know, you talked these three being present 
+13 at the summer of 2020. These were understandings. These were not the language 
+14 that you had seen written down previously outside of slides in a training? 
+15 A The only document I recall that hinted at these aspects but it was still 
+16 primarily focused on true threats and incitement was a 2018 memo that focused on a 
+17 particular threat that we had seen against departmental personnel and the doxing of 
+18 those personnel that was very specific to that timeframe in that threat from 2018, from 
+19 which most of our officers in our Intelligence Law Division extrapolated to other problems 
+20 that --because there was a lack of written guidance on that. 
+21 Q The OIG report obviously sort of puts these three out as a little, you know, 
+22 block of three requirements. Did you see them --before the OIG report, did you see 
+23 them as a sort of block of requirements? I know you said that there are others, but I 
+24 guess analytically, is this the way that you and others within l&A conceived of the 
+25 guidance for dissemination, that these sort of three are sort of the three leading kind of  31 
+1 requirements, one of which needs to be met in order for information to be shared via 
+2 intelligence products? 
+3 A I think it's changed over in the course of the last several years. As I said, I 
+4 think, generally, there was an understanding that three --these three exist. Though 
+5 throughout the summer of 2020, the focus was on providing what I would consider to be 
+6 risk and vulnerability information related to the heightened threat environment. 
+7 Whereas, after the summer of 2020, there was a very narrow focus on true threats and 
+8 incitement. And now we've kind of circled back to a more measured approach that 
+9 works at all three. 
+10 Q Okay. I'm going to get to that narrow focus. I'm going to wait until your 
+11 camera comes back on. Unless the court reporter doesn't mind. 
+12 
+13 
+14 Okay. It's back. 
+A Thank you for the heads-up. 
+Q Of course. No problem. 
+15 So then is it fair to say that the three were still conceived of as the three, they 
+16 were on the minds of analysts, you know, post the summer heading into January 6th, but 
+17 as you mentioned with inter --the focus changed. So as where you were highlighting 
+18 that the focus was on number three over the summer, the sort of requirement that was 
+19 doing a lot of the work --you called it a narrow focus --since had been that first 
+20 requirement contains true threats or incitement to violence. Is that a fair 
+21 characterization? 
+22 A I think after the summer of 2020, there was a lot of confusion about who 
+23 could determine a heightened threat environment. In some of the training that was 
+24 provided to the workforce, it was not clear. There were references that, you know, the 
+25 publishment of a National Terrorism Advisory System Bulletin, which is what the  32 
+1 Department uses to raise the threat alert on a topic, was not sufficient alone to 
+2 determine the heightened threat environment. And so there was not a good 
+3 understanding of who and how that determination was made and who had the authority 
+4 to declare that. 
+5 So not only was it not emphasized, it was not clarified, and following the summer 
+6 of 2020, kind of what a heightened threat environment was and who was able to make 
+7 that determination.  33 
+1 
+2 [10:32 a.m.] 
+3 Okay. 
+4 BY 
+5 Q And that sort of explains why maybe number 3 fell a little bit less out of 
+6 favor, why it was less focused on. What about number 2? Because you said there was 
+7 a narrow focus on 1. What happened on number 2 that the focus remained on number 
+8 1 as opposed to number 2? 
+9 A Number 2, I think, is a little bit more vague. I think that, again, known 
+10 threat actors is difficult. Oftentimes we don't know who the threat actors are, 
+11 particularly as it relates to the open-source environment. 
+12 Much of the threat reporting we're seeing is coming from anonymous individuals 
+13 or individuals for which we do not know who they are, and so that, it doesn't necessarily 
+14 apply, I would say, in the open-source environment as much as the other two do. 
+15 
+16 
+17 
+18 
+19 Q 
+A 
+Q 
+A 
+Q And you used the phrase "know." Is your understanding that -­
+Known, known. 
+Known, right. 
+Known threat --
+Yes. It's just that, in your answer, you said, we don't know whether --we 
+20 don't know necessarily the identities of people obviously on --necessarily on social 
+21 media. But I want to know, I guess I'm trying to figure out how much work the word 
+22 "know" is doing in that. So if --and I know this is a hypothetical, but help me work 
+23 through it. --if there is a social post where the person is using language that is known to 
+24 be used, let's say, by the Proud Boys, right, certain phrases, P-E-D-E, --I don't think I know 
+25 how to pronounce it, it might be "peedy" --but P-E-D-E or, you know, I do, I believe, being  34 
+1 sort of a before I do, meaning, before I undertake violent action; is it your understanding 
+2 that that could be used to figure out whether that's a known threat actor, given that, you 
+3 know, potentially obviously the Proud Boys have been known to engage in violence in the 
+4 past or --or because it is, you know, the person didn't, in my hypothetical, affirmatively 
+5 say they were a Proud Boy, that that may not be a known threat actor given just the fact 
+6 that they're using just those phrases? 
+7 A Yeah. I think it's dependent on the circumstance, but in the case where an 
+8 individual is only, alone, using language, we would not characterize that as a known 
+9 threat actor. 
+10 
+11 
+12 
+13 
+14 Q 
+A 
+Q 
+A 
+Q What about --
+Or if there's an individual who states -­
+Go on. 
+--that they are a member of the Proud Boys. 
+Okay. Got it. So you feel pretty comfortable that if they expressly say 
+15 something that intimates, you know, that they are a member of the Proud Boys expressly, 
+16 that that number 2 would be triggered, but that language might not? 
+17 A Yes, I would say it aids in the determination to the extent to which we would 
+18 be reporting on that information. 
+19 Q Okay. Thank you. So I want to ask you about, I want to stick to the 
+20 summer --and we'll switch obviously to January 6th in a moment --you talked about the 
+21 l&A producing intelligence reports about the work of American journalists covering 
+22 protests in Portland, Oregon. 
+23 Let me ask you, for the record, did those disseminated products, the ones on the 
+24 journalists, meet the reporting requirements? And I'm sorry. I was supposed to use 
+25 the phrase "guidance for dissemination." Did it meet the guidance for dissemination?  35 
+1 A That's a difficult question, one, because the reporting on those American 
+2 journalists does not fall within this category of violence. The determination that was 
+3 made as it relates to the journalists is focused on the leak of government information, 
+4 which is something we've reported on in the past. 
+5 Q Well, it's my understanding that, at some point, the CETC director reviewed 
+6 366 OSIRs released between May 25th and August 4th and found that 23 were recalled 
+7 for not fitting the guidance for dissemination. Is that right? 
+8 A Not --those are --they didn't meet collection requirements, which is distinct 
+9 and different from the oversight guidance and Attorney General guidelines. The 23 that 
+10 were identified did not answer a collection requirement. 
+11 
+12 Q 
+A I see. 
+But they met the guidelines for --they met the guidelines for dissemination. 
+13 They did not answer a collection requirement. 
+14 Q Okay. It's your understanding that all 366 did meet the 
+15 dissemination --guidance for dissemination? 
+16 A I'm not aware that a determination was made that we violated our oversight 
+17 guidelines by disseminating those. 
+18 
+19 
+20 on? Q 
+A Okay. Did the products meet collection requirements in your mind? 
+I did not personally review those OSI Rs. I did review --I asked --are we still 
+21 Still there. 
+22 BY 
+23 
+24 Q 
+A Yes, I hear you. 
+Okay. I asked the then CETC director to do that review of all the OSI Rs. 
+25 reviewed his analysis of that and concur with his findings based on what he provided me,  1 but I did not independently review each of those OSI Rs. 
+2 Q Okay. So, generally, as it relates to the social justice protests over the 
+3 summer, do you believe l&A followed the guidelines for dissemination appropriately? 
+4 
+5 A 
+Q Yes. 
+And is it fair to say, because you talked about a focus, the designation of it 
+6 being a heightened threat environment, that that --that requirement was doing a lot of 
+7 the work, that that is --that is why you believe, by and large, the guidance for 
+8 dissemination was followed over the summer? 
+9 
+10 A 
+Q Yes. 
+Is it fair to say that were there not a heightened threat environment 
+11 designation, the number of disseminated reports would have been far fewer? 
+12 A I think that was one contributing factor. I think a lot of the decision to 
+13 produce as much as we did was based on leadership direction to identify threats to law 
+14 enforcement that were operating in Portland as part of our public safety and security 
+15 responsibilities. 
+16 
+17 Q 
+A Tell me about that leadership direction. What was it? 
+At the time, the Department was deploying personnel to secure national 
+18 monuments and obviously to provide protection to Federal facilities throughout the 
+19 country, and the leadership at the time believed that it was INA's mission to make sure 
+20 that we provided intelligence support to our Federal partners and to our State and local 
+21 partners, who were encountering these threats of violence throughout the summer. 
+22 Q And you mentioned that this was direction from leadership. Does that 
+23 include yourself? Was that direction that you helped inculcate? 
+24 A I did not provide that direction, though I obviously oversaw the offices that 
+25 were responsible for implementing it. The direction came from Mr. Murphy and 36  1 Mr. Jen. 
+2 
+3 Q 
+A 37 
+Did you agree with that direction? 
+I didn't feel comfortable at the time, understanding our authorities and 
+4 responsibilities in this mission space. When I was asked to fleet up as the deputy under 
+5 secretary in May of 2020, I had less than 9 months of experience working in DHS, I'd 
+6 never worked the domestic mission before, and I had almost no time in the deputy under 
+7 secretary role. And so I didn't believe that I had the knowledge, experience, or 
+8 background to make those determinations at the time. 
+9 Q In hindsight, given now the full breadth of your experience, do you agree 
+10 with their assessment? 
+11 A I believe that we were facing a heightened threat environment in which we 
+12 were responsible providing --to providing support to our Federal, State, local, Tribal, and 
+13 territorial partners, to enable their ability to counter those threats. 
+14 I think that our resources were not positioned in a way for us to --just to 
+15 accomplish that mission. We were not set up in a way to serve in that capacity. Even 
+16 if it falls in our authorities, that had not traditionally been our focus. And so, in 
+17 retrospect, I would say that we were not resourced or positioned or trained to accomplish 
+18 the mission we were asked. 
+19 Q But you did feel as though, had you had those resources and that training, 
+20 that it was --that, you know, the belief that it was a heightened threat environment was 
+21 a correct, accurate belief? 
+22 A Yes, I believe we were facing a heightened threat environment in the 
+23 summer of 2020. 
+24 Q Let me ask you about a table that's reproduced in the OIG report on page 28. 
+25 In it, they found there were more probable indicators of escalation of protest-related  38 
+1 violence for January 6th than for over the summer, and at least in the chart as it's 
+2 depicted, it's somewhat lopsided as far more probable indicators on the January 6th side 
+3 than it is over the summer. 
+4 Given your belief that there was a heightened threat environment over the 
+5 summer, can you talk to me about that, what you think about that chart and what it 
+6 means at least relationally from there, if you're looking at that as a sort of indicator, that 
+7 wouldn't be as heightened certainly as for the lead-up to January 6th? What do you 
+8 think about that? 
+9 A So the heightened threat environment was just, as I said, a subset to the 
+10 more overarching leadership direction. Part of --or a major driver of why we conducted 
+11 the activities we did over the summer was the leadership direction to support the Federal 
+12 and DHS partners who were engaged in protecting Federal facilities and other key 
+13 resources and critical infrastructure, to inform them of information related to threats. 
+14 So the heightened threat environment was the baseline in terms of the guidelines, 
+15 but the leadership direction was to prioritize identifying and producing intelligence that 
+16 helped these partners mitigate the violent threats they were facing throughout the 
+17 summer. 
+18 The distinction in January 6th was that we were facing a heightened threat 
+19 environment, but we lacked specific reporting, indicating, you know, threats of violence 
+20 beyond what we had already produced throughout the election season in the run-up to 
+21 January 6th. 
+22 Q So is it fair to say then, you know, you agreed --in hindsight, you agree that 
+23 the sort of direction from leadership was appropriate over the summer, and, you 
+24 know --January 6th, looking back at it, this chart necessarily would not make you rethink 
+25 whether that was appropriate, it would make you rethink whether, you know, the  39 
+1 resources that were put into January 6th were appropriate. I don't know if that wasn't 
+2 clear, I'm sorry, but. 
+3 A I think we never changed our opinion that the heightened threat 
+4 environment changed from the summer through January 6th, and, in fact, we produced 
+5 multiple finished intelligence products before and during the election season that 
+6 highlighted that we were in a heightened threat environment, particularly in the run-up 
+7 to the election and the certification of the results. 
+8 So the heightened threat environment, from INA's perspective, did not change. 
+9 It was the focus of the reporting, which in the summer was focused on providing very 
+10 tactical intelligence information to support law enforcement officers, which transitioned, 
+11 through January 6th, to focus on filling strategic intelligence gaps driven by collection 
+12 requirements, focused on true threats and incitement. 
+13 The heightened threat environment did not change. 
+14 Q I guess I'm trying to get your opinion, and I think I understand --respond to 
+15 this criticism --and I'm sure you've heard it --that there was --that it was heavy-handed 
+16 and disproportionate the level of monitoring, collection, and dissemination over the 
+17 summer to the threat landscape, to the picture posed over the summer by the social 
+18 justice protests. If I understand you correctly, you would not agree with that critique? 
+19 A I don't believe it was disproportionate. A DHS law enforcement officer was 
+20 killed within the first week of the civil unrest, and so it was immediate in terms of the 
+21 level of violence that was occurring throughout the country, targeting law enforcement 
+22 officers and DHS personnel. 
+23 So it was very clear from the onset that there was a departmental mission in part 
+24 because one of our officers was shot and killed by a domestic violent extremist. 
+25 Q The number itself, 366, in the span of a little over 2 months, is that high  40 
+1 traditionally given other periods that you've had your job? 
+Yes, I think that's high. 2 
+3 A 
+Q Okay. All right. So we'll drill --you've mentioned this, but we'll drill down 
+4 on the so-called, quote/unquote, chilling effect or how the interpretation became a little 
+5 fuzzier as you mentioned. 
+6 An analyst tells the OIG, right, that, quote, they thought almost anything was 
+7 reportable during the Portland protests, end quote. Can you explain to me, you know, 
+8 in your opinion, how did that impression, at least with that one analyst, of reporting 
+9 anything, get inculcated, get passed down, get transmitted? 
+10 A I think that was transmitted primarily through the legal guidance, the 
+11 Portland job aid, and then leadership direction to report on threats of violence to law 
+12 enforcement officers. It was very broad guidance to report on threats to law 
+13 enforcement officers. 
+14 And Federal facilities. 
+15 Q And just to make clear, right, again, in hindsight, you believe that that 
+16 guidance, that very broad guidance, was appropriate? 
+17 A I think the mission of providing intelligence to support our departmental law 
+18 enforcement officers and their efforts to protect Federal facilities is appropriate. I don't 
+19 believe that --how broad the guidance was, was appropriate or necessary, based on our 
+20 capabilities and resources at the time. 
+21 We were not built to do that mission. 
+22 Q Right. So do you agree --it's, you know, a little bit said informally, right, 
+23 but do you agree with the characterization --I don't know if you'll agree --do you agree 
+24 with the characterization that almost anything was reportable during the Portland 
+25 protests?  41 
+1 A No, I don't agree with that characterization. I would say that there was 
+2 broad guidance focused primarily on our mission in the public safety and security space, 
+3 and our departmental mission to enable our components, through intelligence support, 
+4 drove that broader understanding of the heightened threat environment and the 
+5 information that was deemed reportable. 
+6 Q So it's fair, if I understand what you're saying, it's that you understand that 
+7 that impression might've been left on some analysts because of the broad guidance, but 
+8 that that would be hyperbole in your mind than almost anything was reportable during 
+9 the Portland protests? 
+10 A Yes, I would say that's hyperbole. 
+11 Q What role did you play in advising about the guidance dissemination and 
+12 how it should be interpreted over the summer? 
+13 A As I mentioned earlier, when the open-source intelligence reports were 
+14 being disseminated, I was very new in the position, and so I had no visibility, coming into 
+15 the role, what the process and procedures were for disseminating open source 
+16 intelligence reports. 
+17 And that level of detail and specificity typically, even to this day, is not right to the 
+18 level of my position. 
+19 Q And I have, like, about 10 more questions, and I think then is it all right if we 
+20 take a break? Ten more minutes of questions, I think, or something? 
+21 
+22 
+23 A 
+Q 
+A Sure. 
+Okay. 
+Sure. I was going to say, I don't know if we can do 10 more questions, but 
+24 10 more minutes --
+25 Q I meant 10 more minutes, sorry, not 10 questions.  1 
+2 A 
+Q No worries. 
+One, you know, one analyst in the OIG report called it a pendulum swing in 
+3 terms of at least the interpretation on the guidance dissemination after the summer. 
+4 What about that characterization, do you agree with that? 
+5 A I think it's fair to say that there was a reinterpretation of the guidance that 
+6 reduced the information from which we would report on compared to the summer. 
+7 
+8 
+9 Q 
+A 
+Q Was it a dramatic reduction? 
+I would say that it was a significant narrowing of scope of mission. 
+Did that come about gradually, or was it immediate, given I think that you 
+10 said that it was coming from, you know, leadership? 
+11 A I would say that it occurred very quickly after the leadership that was here 42 
+12 was removed at that time and new leadership came in. It was the first priority to retrain 
+13 the entire workforce on our oversight guidelines, responsibilities, and authorities, and to 
+14 retrain the open-source collectors, which was more narrowly focused on identifying true 
+15 threats and incitement. 
+16 Q Did you agree with the removal of Brian Murphy --or reassignment of 
+17 Mr. Murphy? 
+18 
+19 A 
+Q I don't agree or disagree on that decision. 
+But I think I understand you to say that the broad guidance that was being 
+20 transmitted by leadership, including Mr. Murphy, was appropriate in your mind, right? 
+21 A I don't believe that the broad guidance was appropriate based on how we 
+22 were resourced, trained, or experienced to operate in this mission. 
+23 Q I guess as a question of appropriateness, you did believe, as a moral 
+24 question, I suppose, you believe that that way was appropriate? 
+25 A I believe that we have a responsibility to provide intelligence information to  43 
+1 law enforcement officers to help mitigate threats that they're facing. I believe that the 
+2 information we sought to provide over the summer focused primarily on identifying 
+3 specific threats of violence to law enforcement officers. And I believe that's an 
+4 appropriate mission for l&A. 
+5 Q Can you talk to me about these sort of --there's also an interest, right, in the 
+6 privacy of American citizens. That's also, I think, a consideration and a goal that l&A 
+7 seeks to preserve. 
+8 So can you talk about, because it's a spectrum, that tension that, you know, those 
+9 competing interests, and where the happy medium might lie? 
+10 A Yeah. We have an equal responsibility to identifying, anticipating, and 
+11 mitigating --helping to mitigate threats to the homeland while also protecting the 
+12 privacy, civil rights, and civil liberties of the American people. 
+13 Obviously, that is a very complex and difficult mission when we're operating in a 
+14 space in which we're dealing mostly with U.S. person information, and the extent to 
+15 which the information that an individual may be sharing may be protected by the First 
+16 Amendment or by constitutional rights or be indicative of a threat for which we can 
+17 identify, warrant, and potentially mitigate. 
+18 Q So, if you could use, through that scope --because when I asked you about 
+19 the appropriate level of the broad guidance, you know, you talked about the, you know, 
+20 the benefit of having information, of having information out there and the threat that 
+21 was posed to law enforcement, given that it is a balancing act with what you just talked 
+22 about, talk to me about why, if you so believe that the proper balance was struck over the 
+23 summer of 2020. 
+24 A My understanding of the open-source intelligence reports and other 
+25 reporting that we put out contains specific threats of violence or tactics used to commit  44 
+1 violence against law enforcement officers which is not protected by the First Amendment 
+2 or constitutional right. 
+3 Q Okay. So I want to direct your attention to, you know, the chats between 
+4 the analysts that were referred to by the OIG in its report, and they discuss about how 
+5 the guidance for dissemination is just very high right now. You've sort chalked about it 
+6 as a sort of switch in focus from a more ample, you know, requirement or condition, 
+7 being the heightened threat environment, to potentially a more narrow focus on the first, 
+8 which is the true threats or incitement to violence and not hyperbole. 
+9 Can you talk to me about that perception that it is, that the guidance is high, that 
+10 it's different, that the level of meeting the same guidance dissemination requirements 
+11 that were present over the summer, that they have changed in terms of how strict or 
+12 loose they are? And --and --yeah, can you explain to me why that perception was out 
+13 there? 
+14 
+15 A 
+Q Perception that the focus had changed? 
+I don't --I don't think that says that the focus has changed. I just think that 
+16 it says --that the --I think the chats reveal that they believed the guidance to be higher, 
+17 that the threshold is higher --excuse me --let me use the word "threshold." 
+18 A Yes. Yes. So, yeah, my interpretation of those chats is the focus on the 
+19 ability for the collector to identify a true threat, which was not the primary motivator of 
+20 what drove the intelligence collection and dissemination over the summer. 
+21 So the distinction of being able to prove that the individual that is discussing the 
+22 threat --threatening information has both the intent and the capability to commit that 
+23 act of violence. 
+24 Q And, so far in our conversation, I haven't heard you refer to what I think I 
+25 have heard before, including in briefings by the Department, by l&A about this supposed  45 
+1 chilling effect, you know, that the criticism leveled at l&A over the summer and sort of 
+2 hesitance, fear of scrutiny or reprisal paired with that criticism. 
+3 Do you personally believe, is that a contributing factor at all in this switch in the 
+4 perception of the threshold? 
+5 A I think it was a contributor, but I would argue that the primary change was 
+6 the guidance that was provided and the lack of clarity and written guidance that helped 
+7 the collectors truly understand their mission in the space. 
+8 Again, we --outside of the Attorney General guidelines, there's no formal, written 
+9 guidance that helps the collectors apply our guidelines to their daily missions. 
+10 And, with the rescinding of the Portland job aid and the monuments job aid, they 
+11 had to refer back to a 2018 memo for which to glean guidance on their current activities. 
+12 And so they were forced to rely on the information that was provided primarily in 
+13 verbal training and verbal guidance, that was communicated from the Intelligence Law 
+14 Division than more articulate leadership and I would say legal guidance on how they 
+15 should operate in the space, and that was a primary contributor. 
+16 Q You did mention that you believe that the chilling effect was a partly 
+17 contributing factor. Can you describe for us, and it may be anecdotally, how you've 
+18 come to that conclusion? What did you see here that leads you to believe that that was 
+19 a factor? 
+20 A Certainly I think certain leaders at the time were articulating that the 
+21 information we did put out was wrong or inaccurate or that we shouldn't have done it. 
+22 So there were leaders who believed that the reports that we had published over the 
+23 summer were not --were not okay. And that was, obviously, shared, I think, amongst 
+24 the workforce, that there was certainly a perception that, separate from the three OSI Rs 
+25 on the journalists, which everyone collectively agreed should not have occurred, that  46 
+1 more broadly the work that the office had done over the summer was not appropriate 
+2 and not seen as positive. 
+Who were those leaders? 3 
+4 Q 
+A At the time, it was, I think, the acting --I don't know what her position was, 
+5 but certainly Melissa Smislova at the time. She was serving in either the senior official 
+6 performing the duties or the acting principal deputy. 
+7 
+8 Q 
+A And I know you used leaders, plural, but just her? 
+I don't --to be frank, I don't recall who was in and outside of the office 
+9 during that time because we had so much leadership turnover. But I think generally the 
+10 sense was that the leadership did not believe that the work that was done over the 
+11 summer was --was good. 
+12 Q And, from your previous answers, I understand, you would not be one of 
+13 those leaders who was fomenting or bolstering that sense? 
+14 
+15 
+16 A 
+Q 
+A I certainly --let me turn our camera on, one second. 
+Oh, we see you. 
+Okay, good. We caught it that time. 
+17 I would say that, you know, in the aftermath and looking back on the situation, 
+18 there are always things we could've done better, but I think, based on what was asked of 
+19 us and what we did, you know, I felt that there was a lot of good work that did occur 
+20 throughout the summer. 
+21 And we received a lot of positive feedback from our law enforcement partners 
+22 that the intelligence that we did provide actually helped keep them safe. 
+23 So I think I was probably a little bit more on the positive side in that I do believe 
+24 that parts of what we did actually contributed to improving public safety and security 
+25 throughout the summer.  47 
+1 Q Putting aside the mismatch, as you said, between the resources and the 
+2 training and, you know, meeting the moment, meeting the demand of the heightened 
+3 threat environment as you saw it, what were those things --outside of that, what were 
+4 those things that you said we could do better --we could have done better? Excuse me. 
+5 A Certainly from my perspective, the leadership guidance direction, the 
+6 training of the officers, preparing them for a dynamic and complex and, in certain 
+7 circumstances, a threatening environment, making sure that they were better equipped 
+8 to do the mission. 
+9 I also think, you know, from my perspective, we published a lot of reports, but 
+10 many of those reports probably didn't have the level of specificity that we could've had to 
+11 better inform the law enforcement officers. So, for me, it's a quality, not a quantity 
+12 metric. 
+13 And so, looking back, how did we make sure that the reports that we did provide 
+14 had, you know, good quality, and that they were informative. So I think that's 
+15 something that we've taken back and applied moving forward. 
+16 And then I would say, again, just the processes and procedures for which we 
+17 handled our work over the summer were either not in place or circumvented or 
+18 misapplied in many cases. 
+19 For example, the leadership dynamics contributed to a lack of understanding of 
+20 our workforce, in terms of who they were answering to and where they were getting 
+21 direction from. 
+22 Q And, I'm sorry, the first three words of your answer were "leadership 
+23 guidance direction." What about the leadership guidance direction did you think did not 
+24 work well? 
+25 A I don't think it was effectively communicated and then, again, the resources  48 
+1 applied. I think, as you look back, you can see that a lot of this was not documented 
+2 formally from the leadership. There was not that formal guidance provided from 
+3 Mr. Murphy or Mr. Jen to the workforce. Often I think the goal of what we did changed 
+4 and was not effectively communicated. 
+5 Q And my last question before we take our break, I just want to go back to the 
+6 chats between the analysts where they say --and I want to focus on the word 
+7 "now" --they say that the threshold itself being just very high now, indicating, of course, 
+8 as you've discussed, that it --a recognition that it appears to change over time but also a 
+9 recognition that it might be temporary. 
+10 Is that a sense that pervaded in l&A that --that not only had it changed over the 
+11 summer but that it would continue potentially to change, that it would ebb and flow 
+12 depending on certain factors? 
+13 
+14 
+15 Ms. Rapoport. Sorry,-. Which page are you on the report? 
+I'm just talking about the chats that are reproduced in the report. 
+Ms. Rapoport. Right. Yeah, some of them are redacted. I'm just trying to 
+16 figure out where you're quoting from. 
+17 I don't need the --I just need --I'm talking about the sentiment 
+18 that --I'm asking if there was a sentiment in l&A that the guidance for dissemination 
+19 would ebb and flow and change over time. 
+20 Ms. Rapoport. If you're referring to any of the in camera documents, I think our 
+21 preference is to keep that line of questioning to the end and go off record for that. 
+22 So I'm not --
+23 Ms. Dobitsch. I think I can answer this --yeah, I think I can answer your question 
+24 if there was a sentiment. I think there was a sentiment that the guidance has changed. 
+25 I think it's also reality; the guidance has changed, you know, to include now, where what  49 
+1 was a primary application of the guidance has changed, again, from primarily focused on 
+2 a heightened threat environment to identifying true threats and incitement and then now 
+3 going back to, I think, a more moderate combination of all aspects of our guidelines. 
+4 BY 
+5 Q But I suppose, on January 6th, there had only been one change, right? So I 
+6 know that since it has changed back, but I'm trying to get a feel from you whether 
+7 that --whether the sense --and I know this is, you know, it's a little hard, but whether the 
+8 sense was that it had changed or that it would continue to change, whether it was the 
+9 sort of thing that would change as time progressed or that there had just been one 
+10 change, and that's the change now, it's going to be, you know, permanently. Was there 
+11 a feeling that the --
+12 
+13 
+14 A 
+Q 
+A The --yes. 
+--would continue to change? Go ahead, I'm sorry. 
+Yeah. The perception was that it was right now, yes, because the 
+15 experience was that the guidance has changed with the leadership, and so I think the 
+16 perception was that the current guidance at the time based on, again, the leadership 
+17 focus was much higher. 
+18 How much time do you need for a break? Do you want 10 
+19 minutes, is that good, or 5? Whatever --
+20 
+21 
+22 
+23 
+24 
+25 Ms. Rapoport. Just the 10. 
+Ms. Dobitsch. Yeah, 10's good. 
+Perfect. Why don't we come back at 11:16. 
+Ms. Dobitsch. Okay. Thank you. 
+Thank you. 
+So we're off the record at 11:06.  50 
+1 [Recess.]  51 
+1 
+2 [11:17 a.m.] 
+3 So we're back on the record at 11:17. 
+4 BY 
+5 Q Let's move on from the summer now toward, you know, the election season. 
+6 There was that memorandum that we talked about put out by- this extra --this 
+7 sort of requiring pre-approval for the dissemination of OSI Rs related to civil disturbance 
+8 or the election, among other items. 
+9 What was your understanding of why it was tied to the election, right? The 
+10 summer social justice protests weren't obviously tied to an election in particular. What 
+11 about this election and the anticipated First Amendment activity surrounding, you know, 
+12 claims about its security, what about that in your minds or in the l&A's mind deserved 
+13 sort of an extra layer of pre-approval? 
+14 A In my opinion, I think the political sensitivity associated with the election 
+15 created an added layer of complexity to our mission space, which is already complex. 
+16 So, in addition to making sure that we were prioritizing identifying threats to --I would 
+17 say threats during the election season and protecting First Amendment-protected 
+18 activity. 
+19 We also had to be conscious that the work that we did in the space could be 
+20 perceived as potentially politically influenced. And so that added layer of review, in my 
+21 opinion, was focused on ensuring that the work that we did was, you know, objective, 
+22 accurate, and appropriate. 
+23 Oh, and I meant to ask, I think we're going to go a little bit over if 
+24 that's all right. I was thinking if we could have --you know, obviously we have that hard 
+25 stop at 1 p.m. Is that all right with you, Ms. Dobitsch?  Ms. Dobitsch. Can we --what time is the next briefing? 
+Ms. Rapoport. At 1 o'clock. 52 
+1 
+2 
+3 Ms. Dobitsch. Yeah. I'd like to eat lunch. So, if it's possible, could we end at 
+4 12:30? 
+5 It starts at 1:30 or 1? I thought it was maybe 1. 
+6 I can look. 
+7 Okay. 12:30 is good. We'll try to speed along here. 
+8 Ms. Dobitsch. Okay. 
+9 BY 
+10 Q Let me ask you about --you mentioned the level of sensitivity surrounding 
+11 the election. Is that because of claims coming from, you know, the President of the 
+12 United States and within his administration about the election potentially being stolen, 
+13 this in the lead-up to the actual election? 
+14 A We had observed, among domestic violent extremists, whether in on line 
+15 forums or in collaboration with our Federal partners, conspiracy theories associated with 
+16 the outcome of the election, the election itself, and narratives that could mobilize people 
+17 to violence. 
+18 We had seen some instances over the summer that conspiracy theories associated 
+19 with the election, and just the election itself was serving as the potential mobilizer to 
+20 violence. 
+21 And so that was the primary factor entering the election season that drove us to 
+22 assess that there could be violence at events related to the election throughout that 
+23 timeframe. 
+24 Q You mentioned also that this --I think you said that this memorandum was, 
+25 in part, a response also to the scrutiny that was --that followed from Portland. The  53 
+1 leadership change occurred in August, and this memo came out obviously right at the tail 
+2 end of October, so to be in effect, in essence, in November. 
+3 So there were months in between there where civil disturbance could've sprouted 
+4 and there wouldn't have been this extra layer. Can you explain to me, I guess, why the 
+5 delay --did the civil disturbance and the perception of scrutiny or the scrutiny at all 
+6 contribute to the release of this memorandum, or was it based purely on the fact that an 
+7 election was coming up? 
+8 A I'm not aware that the dissemination of this memo was related to the 
+9 scrutiny that we had faced. My understanding is that the threats associated with the 
+10 election, again, were very sensitive in nature. It involved looking at --or differentiating 
+11 between First Amendment-protected activity and threats. 
+12 And so, because of the complexity of the environment and the sensitivity 
+13 associated with ensuring the integrity of our elections, the layers of review were 
+14 perceived as necessary to make sure that we were doing that. 
+15 Q The level of review where it should go through you, that you instituted in 
+16 response to the scrutiny over the summer. Is that right? 
+17 
+18 A 
+Q 
+19 correct? 
+20 A Yes. 
+Got it. You did that despite not agreeing with that scrutiny. Is that 
+I don't disagree or agree with the scrutiny. I instituted reviewing 
+21 open-source intelligence reports because we disseminated three open-source intelligence 
+22 reports on American journalists, which I did not think was appropriate. 
+23 And it was clear to me, in looking back at those examples, that our processes and 
+24 procedures were not in a sufficient place to appropriately review those reports before 
+25 they were disseminated.  54 
+1 Q The memorandum notes that, quote, to ensure timeliness, end quote, those 
+2 reviewing offices --and it lists there --would have expanded hours, be on call, and hold 
+3 daily calls. 
+4 Did this extra step of pre-approval delay the process? Taking out judgment as to 
+5 whether it's good or not, did it delay the process of approving OSI Rs? 
+6 A [Inaudible] in the run-up to 6 January. I don't think that's what contributed 
+7 to the delay in our reporting. 
+8 Q So, if we can, let's talk about the January 5th draft OSIR and about the sort of 
+9 email traffic. I think they're captured in exhibits 3, 4, and 5 in what appears --but I'd like 
+10 your explanation --to be confusion between the legal division and the drafters of the 
+11 OSIR, whether, you know, it was rejected. 
+12 What is your understanding, maybe generally, and then I'll ask more specifically, 
+13 as to why that draft OSIR was not approved in time in order to be disseminated before 
+14 January 6th? 
+15 
+16 
+17 
+18 A 
+Q If you could just give me a moment, I'm pulling up the exhibits now. 
+Of course. No problem. 
+Ms. Rapoport. You're fine. I got it. 
+Ms. Dobitsch. Okay. I have them in front of me. Would you mind, please, 
+19 repeating the question? 
+20 BY 
+21 Q Yes. In essence, I wanted you to give me your top-line understanding of 
+22 why the January 5th OSIR did not get approved for dissemination before January 6th. 
+23 A This is just my opinion. My opinion was that I don't believe that the --the 
+24 legal guidance was clear and that the collectors did not understand the extent to which 
+25 there was approval to move forward.  55 
+1 As I read through these emails, it seems as though the preference from our 
+2 Intelligence Law Division was to communicate via phone, which is very difficult for our 
+3 collectors, who are often operating on different shifts and transferring information 
+4 between shifts and people. 
+5 And so, again, that guidance was never formally documented or communicated 
+6 except for across the collectors. And you'll see in the emails that there's an effort by the 
+7 collectors to try to recap what guidance was being provided by the Intelligence Law 
+8 Division. 
+9 And so there's a lot of back and forth on the capturing, because it seems as 
+10 though there's a preference to communicate that feedback over the phone by --in 
+11 writing. 
+12 Q Did anyone within OSCO --I think I said that right --did anyone reject it, say 
+13 that this did not meet reporting --or guidance for dissemination? 
+14 A I --I don't have the specifics on this exact open-source intelligence report. 
+15 do know that there was quite a bit of back and forth between the collectors to the extent 
+16 that it met the guidelines --or met the reporting threshold and that the collectors, when 
+17 there was a disagreement on that, that they were encouraged to reach out to ILD and 
+18 their oversight offices to help them navigate that decision. 
+19 Q Are you aware of anyone claiming that leadership kept it from being 
+20 published? 
+21 A Leadership in terms of l&A leadership or the Intelligence Law Division 
+22 leadership or any leadership? 
+23 Q Yeah. I don't know if the members within ILD would be considered 
+24 leadership. I kind of just want to --if you could define that for me, because there's 
+25 sentiment, I believe, that they should have kept --the analysts should have pushed more  56 
+1 to have it published, but that it --they should've fought more with OSCO and leadership 
+2 to have it published. 
+3 And so I don't know what's meant by leadership. I'm wondering if you have 
+4 heard that same sort of sentiment. 
+5 A So, at the l&A leadership level, which I would consider me and above, the 
+6 deputy under secretary and above, I was not aware of the back and forth until well after 
+7 this product was published. 
+8 Q Okay. Let's talk about the sorts of intelligence that you were made privy to 
+9 that you had seen. Were you aware, before January 6th, about the information 
+10 regarding the tunnels, that the uptick in visits to the map system of the underground map 
+11 system of the Capitol and a discussion on, you know, TheDonald.Win and other forums, 
+12 regarding the underground tunnels? Had you been made aware of that? 
+13 
+14 A 
+Q No. 
+So is it your understanding, though, that l&A did disseminate that 
+15 information to partners? 
+16 A I'm not aware that we disseminated that specific information. I know that 
+17 we engaged in engagements that highlighted our concern about the prospects for 
+18 violence more generally as we entered the election certification. But I'm not personally 
+19 aware that that specific information was shared. 
+20 Q I think you told me earlier that intelligence you would review if it were 
+21 disseminated, that that is within your, sort of --I don't know if it's within your job 
+22 description, but that is something that you do. Is that right? 
+23 A For finished intelligence. It's not documented in guidance that I approve 
+24 raw intelligence before it's disseminated. 
+25 Q Yeah. But I do recall asking if you ever --raw intelligence came across your  57 
+1 desk, and you mentioned to me that if --I believe you mentioned to me that if it were 
+2 disseminated in some way, that, yes, it would. 
+3 A No. My statement was that I rarely, if ever, see raw intelligence reporting 
+4 before it's disseminated. In the exception from December of 2020 through January 6th, 
+5 separate from the OSI Rs that went through this process that was dictated in October of 
+6 2020, I personally reviewed OSI Rs before they were disseminated. 
+7 Q So, in terms of after --and I think that may have been the distinction that I'm 
+8 forgetting --you review raw intelligence that's been disseminated, after? 
+9 A I think, let's --let's change the word. I do not review raw intelligence. 
+10 read raw intelligence once it's disseminated, more as a receiver, as a customer, than as 
+11 part of a process. 
+12 Q So, if there is dissemination from l&A to external partners regarding this 
+13 tunnel information, you may or may not --well, you said you don't recall --you may or 
+14 may not have read it after the fact? 
+15 A We never --we never published. That was not --my understanding of that 
+16 information was never formally disseminated, and so I never saw it because it was never 
+17 serialized in any sort of formal report. 
+18 
+19 
+20 Q 
+A 
+Q Right. So formal would not include an email? 
+No. 
+Were you aware, before January 6th, of the rhetoric involving storming the 
+21 Capitol, occupying the Capitol? Did that make it to your eyes? 
+22 A Other than what I read in a political --Politico article the day before, you 
+23 know, generally summarizing, I think, what we understood to be broad awareness of 
+24 threats against the Capitol. That was the specificity I had. 
+25 Q Let's go back to the tunnels actually. How about today, as you sit here  1 today, are you aware that analysts within l&A were in possession, had received, had 
+2 reviewed, had read indications about the tunnel that I had already explained on the 
+3 record a couple of questions ago? 
+4 
+5 A 
+Q Yes, I'm aware. 
+Okay. Do you consider that to --looking at that intelligence, do you 
+6 consider that to have been a constituted --or contained true threats or incitement to 
+7 violence and not hyperbole? 
+8 A I can only speak retrospectively which is, because individuals stormed the 58 
+9 Capitol, I would think that it is not hyperbole. Although, to this day, I don't think we can 
+10 clarify whether the individuals that the collectors were looking at actually were the 
+11 perpetrators of the attack. So they could still be hyperbole in many cases. 
+12 Q Do you believe that an OSIR should have been put out about that piece of 
+13 intelligence? 
+14 A Yes. 
+15 Q Do you have any --well --and is that --okay. Tell me why. Why do you 
+16 think it should have? 
+17 A Because I believe that while the collector wasn't able to make a 
+18 determination about true threats, going back to those other categories, I see them as 
+19 equally as important in examining the environment for which our collectors are 
+20 operating. 
+21 And we have repeatedly articulated that we were in a heightened threat 
+22 environment in which we believed that violence was likely to occur at election-related 
+23 events. 
+24 And so I believe that, even without making that determination about the true 
+25 threat or incitement, that the heightened threat environment and --really should have  59 
+1 informed our dissemination of that information. 
+2 Q Let's talk about the training that I think you mentioned was instituted soon 
+3 after the leadership change, in the summer of 2020. 
+4 Talk me through how that training went, what was sort of the purpose of the 
+5 training --in terms of the guidance for dissemination, what was the message from that 
+6 training as to how analysts should be thinking about these requirements? 
+7 A I think very broadly the training was focused on ensuring that the entire 
+8 workforce had a common understanding and interpretation of our oversight guidelines, 
+9 primarily focused on protecting First Amendment activities. 
+10 After or --either just before or just after the memo was disseminated on October 
+11 30th, there was required training that was specific to our open-source collection, and that 
+12 was geared toward the true threats and incitement. 
+13 Q You mentioned that --you said that it was made clear that you were still 
+14 under a threatened --heightened --excuse me --threat environment. How was that 
+15 made clear? 
+16 A Our Counterterrorism Mission Center had disseminated multiple finished 
+17 intelligence products highlighting the heightened threat environment in the run-up to the 
+18 election. 
+19 
+20 Q 
+A And post-election? You said run-up to the election. 
+Run-up to the election, yeah. So I believe we disseminated multiple 
+21 intelligence reports that highlighted that we believed that violence was likely to occur 
+22 during election-related events. 
+23 Q I see. So not --you're not saying specifically just for the election, but for all 
+24 events related and you would, I guess, consider January --
+25 A The election season.  60 
+1 Q Season. Got it. And you said that there was confusion, though, about 
+2 whether it was a heightened threat environment or not and whether that third sort of 
+3 prong was applicable. Why was there confusion if, as you mentioned, that was made 
+4 clear? 
+5 A There was no confusion from my perspective that there was a heightened 
+6 threat environment. It was --the confusion was whether or not that was still a 
+7 benchmark to be able to report. 
+8 And the sense was that that was not enough, that the heightened threat 
+9 environment alone was not sufficient to produce intelligence reports that would speak to 
+10 this problem set, that the focus was on the true threats and incitement. 
+11 Q Was that said explicitly? You said the sense was that number 3 was not 
+12 enough. Why was that the sense? Was that said by people at the training? Why? 
+13 A The training that was provided to our open source collectors, as it relates to 
+14 reporting on the election season, made clear that the focus was on true threats and 
+15 incitement and didn't incorporate context associated with providing intelligence under a 
+16 heightened threat environment. 
+17 Q So it wasn't expressly said that 3 did not apply? It just, by omission, it did 
+18 not mention 3? It basically only mentioned 1, the training? 
+19 A Yes. And I think, in certain aspects of the training, there were some --there 
+20 were some differences that were applied, for example, previously as it relates to an 
+21 individual's ability to have reasonable belief that they're collecting the information to 
+22 support a national, departmental mission. 
+23 Previously we had said that a junior officer, for example, could rely on a more 
+24 experienced officer or manager to help them articulate a reasonable belief, but in this 
+25 process, that had changed, requiring that the individual alone had to produce a  61 
+1 reasonable belief. 
+2 So there was a change in how that standard or guideline applied, in addition to the 
+3 true threats and incitement, and in one iteration of the training, it was unclear, as I had 
+4 said, about who can actually determined --determine what a heightened threat 
+5 environment is. 
+6 And it articulated that things like a finished intelligence product or a National 
+7 Terrorism Advisory System Bulletin was not sufficient alone to make that determination, 
+8 but it didn't make clear what was sufficient to make that determination. 
+9 Q Was that wrong? It sounds as though it is sufficient, in your mind, that you 
+10 put out, that it was a heightened threat environment. 
+11 
+12 A 
+Q 
+13 January 6th? 
+14 A Yeah, I believe it was sufficient. 
+Right. Were you aware of these deficiencies in the training prior to 
+No, I was not aware. I did not participate in the training that was specific 
+15 to the collectors in the run-up to the election. 
+16 Q When did you become aware of how that --the implications from that 
+17 training or how it was perceived? 
+18 A I believe it was after January 6th when I did a review of what was provided 
+19 to my officers throughout and in the run-up to January 6th. 
+20 Q I think you mentioned that you had only seen indications of 
+21 storming-the-Capitol rhetoric, you know, from media reports, and I think you said the day 
+22 before. Would those --do you believe an OSIR should have been put out for those 
+23 indications? 
+24 
+25 A 
+Q Yes. 
+And is your answer the same as before, you believe the --which of the three,  62 
+1 I'm sorry, of the guidance disseminations do you feel is the easiest for it to fall under? 
+2 A I think it falls primarily under the risks and vulnerabilities associated with a 
+3 heightened threat environment. 
+4 Q And there were also obviously open source indications about Proud Boy 
+5 attendance and other groups associated with violence. Do you believe that those 
+6 might've been captured by an OSIR dealing with the second criteria on here? 
+7 A If there was information online that indicated that a Proud Boys member 
+8 was seeking to commit violence, then absolutely it would fall within that second category. 
+9 I'm not aware of the level of specificity that the collectors had at the time related to 
+10 known threat actors, but absolutely it would have applied. 
+11 Q As you sit there today, have you seen posts by members of those groups that 
+12 you would consider to be --to fall under the requirements? 
+13 A I don't review posts, so I do believe that the collectors do report on 
+14 individuals that claim affiliation with groups that have previously committed acts of 
+15 violence.  1 
+2 [11:43 a.m.] 
+3 BY 
+4 Q Were you aware before January 6th of the December 21st email --I don't 
+5 know if I have this. Well, yeah, I think it's part of the OIG --forwarded it to CETC and 
+6 asking them to do additional research into, you know, criminal activity and possible 
+7 violence? 
+A 
+Q Do you have a page number? 
+It's, unfortunately, in the OIG report. But let me see. 63 
+8 
+9 
+10 Do you know that chart, it's at the back where it has a little bit of a timeline? I'll 
+11 try to find the page for you. 
+12 But I don't know if you're familiar, it refers to as early as, I think, yeah, December 
+13 21st, indications being forwarded to CETC, I believe from members of the Field 
+14 Operations Division. You can see it, I think, on page 50. 
+15 
+16 A Okay. I've got it. Can you please repeat your question? 
+Q Yeah. I'm just --were you aware that as early as December 21st, it was 
+17 forwarded to CETC asking them to, you know, look into references to criminal activity on 
+18 possible violence that may be of interest for State and local parties in the NCR? Were 
+19 you aware of that? 
+20 
+21 A No. 
+Q Okay. Do you have any knowledge now about why if --what CETC did 
+22 about that? 
+23 A No, other than what is in the document that I have reviewed. That's as 
+24 much as I know. 
+25 Q Okay. Do you have maybe insight into why that didn't lead to any OSI Rs  64 
+1 or --right, why it didn't lead to any OSI Rs? 
+2 A My understanding at the time was those --what we call tips or leads 
+3 provided by the Field Operations Division did not meet the individual collectors threshold 
+4 for reporting. 
+5 
+6 
+7 
+8 
+9 Q 
+A Did you think that was an incorrect determination? 
+I can't speak to those specific tips and leads. I didn't see them. 
+Q You still haven't --you still to this day haven't seen them? 
+A The tips and leads, no. 
+Q Okay. There's an OSCO document in the OIG report that shows members 
+10 tracking January 6th threats from December 29th to January 2nd. Do you know why 
+11 if --do you know if anything was done about that and, if not, why not? 
+12 
+13 
+14 A Do you have the page? 44? 
+Q Thank you. I appreciate it. 
+A Can you repeat that one more time? If you don't mind just starting with a 
+15 page number, that'd be very helpful. 
+16 Q Yeah. 
+17 
+18 A 
+Q If you have it. If you have it. 
+No, I don't. I know, of course, I would tell you if I did. And I understand 
+19 there's a lot in the report, so I understand it. 
+20 I don't see it in 44. But there's a document that members within OSCO had put 
+21 together tracking the threats that they were seeing on January 6th, between 
+22 December 29th and January 2nd. The OIG at least seems to imply that nothing was 
+23 done with that document. And, obviously, no OSIR was put out about it. 
+24 
+25 Do you have any visibility into what happened there? 
+A No, I don't.  65 
+1 Q Okay. So you have no idea why that didn't lead to an OSIR? 
+2 A Again, I'm just looking at the chart. I mean, much of this into this day 
+3 probably doesn't need that threshold. For example, an individual claiming there would 
+4 be not enough law enforcement officers to stop the number of armed people arriving in 
+5 the area. Again, I don't know that that is a sufficient amount of information that would 
+6 be considered reportable. 
+7 Q How did the threats to occupy and overtake State capitols that obviously had 
+8 happened in the --in the months preceding January 6th --how were you --how were you 
+9 viewing that, if at all, in terms of the environment out there, or the kidnapping plot for 
+10 the Governor of Michigan? And do you think your analysts were privy to that sort of 
+11 information out there, that sort of picture of --threat picture when they were looking at 
+12 these --this intelligence? 
+13 
+14 
+15 A 
+Q 
+A The threats that occurred over the summer to the State capitol? 
+Yes. 
+I think the analysts were certainly privy. The analysts produced multiple 
+16 finished intelligence reports as it relates to, you know, the activity that we had seen 
+17 related to the threat. From the collector's perspective, I think that they had kind of the 
+18 strategic insight, but they did not have the specific investigative reporting associated with 
+19 those activities. 
+20 Q Do you think that --is it proper for an analyst maybe to see whether --in 
+21 deciding whether, let's say, in the cases to storm the Capitol are true or not to have 
+22 that --see it through the lens of what obviously had taken place over the summer, sort of 
+23 dry runs by some of the same groups that were --posted these things on social media? 
+24 Can that inform or should that inform an analyst's determination? 
+25 A It should inform both the collector and an analyst's determination.  66 
+1 Q So is it fair to say you didn't have any input into whether any of the pieces of 
+2 information that we talked about or that made it into the hands of people at l&A, you 
+3 didn't have any input into whether they merited and OSIR or not? 
+4 
+5 A 
+Q No. 
+No intelligence products were produced regarding January 6th before the 
+6 day. Is that right? 
+7 A No raw intelligence products. We had finished intelligence products that 
+8 highlighted the threats during the election season, not specific to January 6th, but 
+9 generally to election-related events. 
+10 Q Right. When was the last sort of OSIR dealing with election-related events, 
+11 if you know? 
+12 
+13 
+14 
+15 
+16 
+17 A I don't know. 
+Q You don't have a ballpark for me? 
+A No. 
+Q Do you feel comfortable saying it wasn't in 2021? 
+A At all in 2021? 
+Q No. I meant before --it's all before January 6th, it has to be. So I --was it 
+18 in 2020, the last one before January 6th, do you feel comfortable saying that? 
+19 A I honestly don't --I don't even know if we produced an OSIR specific to 
+20 election-related threats. Most of the intelligence that we did related to election threats 
+21 was actually in the cyber field from a raw intelligence standpoint. I'm not aware of 
+22 specific OSI Rs that were related to elections. 
+23 Q Oh, I --because I thought you were making that distinction. Okay. So 
+24 then regarding January 6th, no intelligence fraud --I thought we were --no intelligence 
+25 products were produced regarding January 6th before the day, correct?  1 
+2 A 
+Q Yes. 
+Okay. I'd like to give you an opportunity to explain here why, in as 
+3 comprehensive terms as you can, citing whatever number of reasons you think 
+4 contributed to why none were produced, approved, and disseminated? 
+5 
+6 A 
+Q Raw intelligence reports. 
+I think you answered that no intelligence reports were produced regarding 
+7 January 6th. So that's my question, why? Why not? 
+8 A So from the finished intelligence perspective, I think our sense was that we 
+9 had warned of the threat to election-related events like January 6th. And as we 
+10 approached the date, we did not have specific or credible information that would have 67 
+11 warranted an update to that analytic language had already been disseminated, to include 
+12 a week prior to 6 January. 
+13 From the raw intelligence perspective, I don't believe reports were disseminated, 
+14 because the scope and nature of the reporting that l&A was disseminating was refocused 
+15 on specific documented collection requirements and on identifying true threats and 
+16 incitement. And I think collectors were hesitant to collect information that they weren't 
+17 certain met that threshold. 
+18 Q You feel comfortable saying that the election-related event products were 
+19 sufficient, although you can't tell me whether the last one was in August, September, 
+20 October? 
+21 A No. Finished intelligence I can tell you exactly when it was. The last 
+22 finished intelligence product we wrote on threats related to election events was 31 
+23 January --or 31 December. It was disseminated, and it was explicit that there were 
+24 threats to the election season. 
+25 I cannot tell you what raw intelligence report was disseminated on elections and  68 
+1 when the last report was. We produced dozens, if not hundreds of reports, on a weekly 
+2 and monthly basis. 
+3 Q Got it. You said that there was no specific credible information or at least 
+4 that --do you still believe that's the case after having --I don't know if you have reviewed, 
+5 I guess, all of the intelligence that made it to l&A and to other agencies and departments. 
+6 I guess, given what you have reviewed, as you sit there today, do you believe that there 
+7 was specific and credible information out there that a, let's say, joint intelligence bulletin 
+8 would have been helpful or would have been appropriate to put out? 
+9 A I think there was sufficient information to assess that this election 
+10 certification was a target of violence. However, in my opinion, I don't believe that a 
+11 product would have been sufficient, because most of the intelligence that we saw 
+12 occurred primarily in the week running up to 6 January. And so, you know, from my 
+13 perspective, law enforcement's ability to prevent what had happened on January 6th 
+14 requires months of planning. And I don't think we had any specific or credible, like I 
+15 said, plot for which we could help them mitigate. And I would say that the information 
+16 we had at the time was something that I understood that Capitol Police and others also 
+17 had access to to inform their mitigation efforts. 
+18 Q So it sounds --I mean, we're talking about a joint intelligence bulletin. Do 
+19 you think that it would have mattered if an OSIR had been produced --let's say the 
+20 January 5th OSIR --if that had actually made it to dissemination. Would that have been 
+21 
+22 helpful? 
+A My understanding, again, of that specific OSIR was about an individual 
+23 traveling with a gun to a parking lot outside of D.C. I don't believe that information 
+24 would have been sufficient to make a determination about whether or not someone was 
+25 going to storm the Capitol.  69 
+1 Q So let's talk about the other OSI Rs that you think should have been put out, 
+2 ones about the tunnels, ones about storming the Capitol. Would that have mattered, do 
+3 you believe, if an OSIR had been put out on those? 
+4 A I do believe that the references to the Capitol map, to me, you know, from 
+5 my professional opinion, is concerning, and that probably would have been something 
+6 specific enough to disseminate to our partners and Capitol Police. But, again, you know, 
+7 my understanding was that they also had that information. But I believe we should have 
+8 put out an OSIR on the tactics and techniques that were potentially being considered to 
+9 storm the Capitol. 
+10 Q You don't think there's some value in having a joint intelligence bulletin 
+11 being put out by some of the major Federal agencies who are tasked with this work, FBI, 
+12 and DHS, l&A, that --you know, you mentioned, you know, Capitol Police had this 
+13 information. You don't think that putting out that warning would have sent a message 
+14 and would have conveyed a sense of urgency that might have been helpful in protecting 
+15 the Capitol that day? 
+16 A I absolutely believe it would have been valuable and would have contributed 
+17 to a sense of urgency. I don't know that it would have actually made a difference in 
+18 terms of the operational planning, in part because, again, we did not have a level of 
+19 specificity to warn us in terms of specific access point, a time and target of the attack, a 
+20 tactic being used. It was a general --general threat environment. 
+21 And I think for us the miscalculation was that we believed that there was a 
+22 common understanding across the U.S. Government, across our State and local partners, 
+23 and what was being reported in the news that violence was going to occur on 6 January. 
+24 And so, clearly, that --that general belief that many people thought violence was going to 
+25 occur did not spur action.  70 
+1 Q What was your understanding as to whether --you know, there was also a 
+2 belief by some that the same level of violence, skirmishes between protesters and 
+3 counterprotesters from MAGA I and MAGA 11, November 14th and December 12th, that 
+4 January 6th would just be a repetition of that, that that's the sort of level of violence. 
+5 When you say violence on January 6th, that that's what the expectation was and not that 
+6 January 6th would be different in scope and severity, and that Congress itself would be 
+7 the target, which is what an intelligence bulletin put out by U.S. Capitol Police, released 
+8 internally, put out, did say that the focus would not be protesters and counterprotesters, 
+9 that the focus would be Congress itself. 
+10 What was your understanding going into January 6th as to --you said that, you 
+11 know, everyone kind of understood there'd be a level of violence. What did you think 
+12 about that level of violence in comparison to MAGA I and MAGA II? 
+13 A I'm not personally tracking what the level of violence was on what you're 
+14 referring to as MAGA I and MAGA II. I know that in the run-up to the certification of the 
+15 elections, I asked my team to pull information we had to understand to what extent the 
+16 violence was likely to occur. We evaluated that decision, which was noted in the chart 
+17 on the indicators as it relates to the events, and that many of the indicators had been 
+18 observed. I think a key distinction was the week of, the Mayor of D.C. asked for a light 
+19 law enforcement footprint and asked for counterprotesters not to attend the day's 
+20 events. Those are two pretty significant indicators that were swaying in the opposite 
+21 direction in the run-up to the election. 
+22 Our standing analytic line was that often the violence occurs against protesters 
+23 and counterprotesters and against law enforcement. So if the Mayor was announcing a 
+24 light law enforcement footprint and encouraging counterprotesters not to attend, those 
+25 are two major triggers that we would rely on to make determinations about the nature of  71 
+1 the violence. 
+2 Q Well, so that first part, were you aware that she had requested support from 
+3 the National Guard? 
+4 
+5 
+6 A 
+Q 
+A I am not aware. 
+Okay. I mean --
+1 was not aware at the time. I think now obviously that has come out, but I 
+7 was not aware at the time. My understanding was, again, that there was a request for a 
+8 light law enforcement footprint that day. 
+9 Q Yeah. And I believe also that the chief of police put out and all hands on 
+10 deck for every member of the Metropolitan Police Department to work that day. 
+11 A I'm not --that, to my knowledge is not public. I'm only speaking to what 
+12 the Mayor had announced publicly. 
+13 Q Yeah. And I guess, what is your posi---or belief or thoughts about the fact 
+14 that, you know, different departments did posture differently, right? The Metropolitan 
+15 Police Department postured in a way where, as we looking back can see, they were able 
+16 to respond quickly to assist Capitol Police with the breach. Whereas, Capitol Police 
+17 postured differently, as we can see, than that, obviously, not, so successfully. 
+18 Do you think it's right that everybody sort of understood the same level of urgency 
+19 and gravity when it came to the potential for violence on January 6th? 
+20 A I don't think I understand your question. You're asking me if it's right that 
+21 everyone understood the same level of urgency? 
+22 Q No. If it's correct. Right? Right isn't morally right. Is it accurate? 
+23 believe you did mention that earlier that you thought that --I guess I'm wondering if you 
+24 still think that, if you still think that everyone did share the same understanding of the 
+25 threat picture heading into January 6th?  72 
+1 A No, I think that's what we determined was not the case. In the run-up to it, 
+2 our perception was that we thought that our partners generally understood the extent to 
+3 which violence would occur on that day. After the fact, our interpretation is that our 
+4 strategic warning didn't resonate and that the shared sense of urgency and the prospect 
+5 of violence were not shared. 
+6 Q So I want to talk to you about exhibit No. 7. And while you're flipping to it, 
+7 I will, just for the record, it's a letter from an intelligence operations specialist. I want to 
+8 use the right --well, let me ask you. Who was the author of this letter? 
+9 A My understanding --this is the first time I've seen this letter as part of this 
+10 interview. And my understanding is that this is a very junior officer in the 
+11 Counterterrorism Mission Center. 
+12 
+13 
+14 Q 
+A 
+Q What's his or her name? 
+I don't believe it's appropriate to share their name. 
+No worries. I'm going to call --I'm going to say she. I was going to ask if I 
+15 can have a gender, but it's fine. I don't think for the record it matters. 
+16 So it's a letter from an intelligence operation specialist talking about how she 
+17 came across what she called 500 pages worth of credible indications of violence for 
+18 January 6th as early as December 20th on her own personal time without searching for it, 
+19 approached the senior member at CTMC with the information, and was told it would be 
+20 related to OSCO. She goes on to say she submitted the names of several platforms, 
+21 including thedonald.win and Parlor, as being full of these indications. Following up daily 
+22 as time went on, brought up the time sensitivity if there was any hope that a joint 
+23 intelligence bulletin might be produced or at least memorialized in an OSIR. And 
+24 ultimately says she gave a briefing that was conveyed internally to leadership about the 
+25 potential threat, but that nothing was pushed out.  1 
+2 Are the factual claims, as far as you know them, in the letter accurate? 
+A I have no idea. My understanding of this was never even raised to the 73 
+3 leadership of the Counterterrorism Mission Center. So I'm not --I have no idea whether 
+4 or not this is accurate. 
+5 Q The letter appears to be dated from August. You had not received --you're 
+6 over her. I know she's a junior officer, but being a member of --she's a part of your 
+7 team, under your direction, correct? 
+8 
+9 
+10 
+11 
+12 
+13 A 
+Q 
+A 
+Q 
+A 
+Q 
+14 some point. 
+15 A This individual would probably be four or five layers below my position. 
+Right. But still under your umbrella, correct? 
+Yeah. 
+Do you have any --why was this letter not shared with you? 
+I don't even know who it was addressed to. I don't know where it went. 
+Well, it was provided by your department, so it obviously went to l&A at 
+Or didn't. It could have gone to OIG. I've never seen the report, so I don't 
+16 know where it went. 
+17 Q Yeah. But this document was not provided to us by the OIG, it was 
+18 provided by you guys. 
+19 But, okay, no worries. If she doesn't know, she doesn't know. That's not a 
+20 problem. 
+21 How about, are you aware of the briefing that she talks about that she says was 
+22 given to senior leadership? And I do think that that is also referred to in the OIG as 
+23 having happened. Are you familiar with that? 
+24 A Do you know where in the letter does it say that? I do think I know what 
+25 it's talking about. I just want to reread it again.  74 
+1 Q Sure, no problem. I --you know, it's obviously three pages, and it's not --I 
+2 don't know if I can give you an easy reference. But I'll try to find it along with you, if I 
+3 can, as fast as I can. It should be by the bottom. It's one of the last things she says she 
+4 does. I think maybe even --
+5 
+6 
+7 
+8 
+9 
+10 
+11 A 
+Q 
+A 
+Q 
+A 
+Q I think I found it. 
+Okay, perfect. Yeah, first, full paragraph on page 4. 
+Yeah. Found it. Okay. Can you please repeat your question? 
+I'm sorry. You're reading it, you said? 
+Yeah, I have it. Could you please repeat your question? 
+Oh, okay. I missed your question. 
+Yeah. Are you aware about that briefing that was given to leadership? And let 
+12 me know if you know whether it transpired or not or whether you were a part of it. Like 
+13 I said, I believe the OIG indicates in the report --it mentions a briefing to leadership about 
+14 the threat sort of landscape. 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 A 
+Q 
+A 
+Q 
+A 
+Q 
+A 
+Q Yeah. I'm aware. 
+Were you a part of it? 
+Yes. 
+Okay. Was this junior --or who gave the briefing? 
+Intelligence analysts from the Counterterrorism Mission Center. 
+Okay. Did this junior officer participate or was present at all? 
+I don't know. I don't know who the identity is of this. This is redacted. 
+Okay. Oh, I thought when I asked for her name, you said you didn't feel 
+23 comfortable giving it. Is your answer that you actually don't know the name? 
+24 A I know the name of the individual who gave me the briefing. I do not know 
+25 if that individual is the person in this letter.  75 
+1 Q Right. So when I asked you about the identity of the letter, your answer 
+2 was I don't feel comfortable giving it. You didn't say, I actually don't know who it is. 
+3 A I think I know who it is, but I currently have only ever received a letter that is 
+4 redacted. It doesn't have the person's name. 
+5 
+6 Q 
+A Okay. So --
+1 do not know for certain who this person is. And my understanding is that 
+7 the individual is very junior, and I don't feel that it's appropriate to share that name based 
+8 on the junior nature of the person. 
+9 Q But I just want to make clear because we're on the record. Do you know 
+10 the identity of the person or do you not know the identity of the person? 
+11 
+12 
+13 A 
+Q 
+A I do not know the identity of the person in this letter. 
+Okay. So you also then do not know whether they're a junior analyst? 
+My understanding is --what I understand is that this person is junior. Like I 
+14 said, I --I am surmising, I am analyzing this letter based on what they say in this letter that 
+15 this person is a junior officer. 
+16 Q Okay. Got it. Right. So I just want to use the same --the same way you 
+17 do not know the identity, you do not know, the way you're using it, that whether it's a 
+18 junior analyst. You are speculating or surmising as to both. Is that fair? 
+19 
+20 A 
+Q Yes, I am speculating who the author of this letter is. 
+Perfect. I just want to be consistent across questions. 
+21 So can you tell me what was conveyed to you, what was the top line message 
+22 conveyed to you at this briefing? 
+23 A The briefing was I asked my team to pull a product that we had done 
+24 analyzing the indicators of violence in Portland and apply those indicators to the events 
+25 that were taking place on 6 January. And so the intelligence officer provided their  76 
+1 assessment on the extent to which those indicators had observed in the run-up to 6 
+2 January. 
+And what was the substance of what was provided to you? 3 
+4 Q 
+A It's noted in the OIG report in the charts that most of the indicators that we 
+5 had identified for Portland had been observed. 
+6 Q The chart, as we had talked earlier, has a number that had not been 
+7 identified as Portland. Is that chart accurate, in essence? 
+8 
+9 
+10 
+11 A 
+Q 
+A 
+Q I have to pull up the chart. 
+No worries. 
+But I believe it's probably generally --generally accurate. 
+Okay. You don't disagree with their characterizations of whether those 
+12 categories are met or unmet as it pertains to the summer? 
+13 
+14 A 
+Q No. 
+So when it was presented to you, was it presented to you as more of the 
+15 indicators are met leading into January 6th than they had over the summer? 
+16 
+18 
+19 
+20 
+21 
+22 
+23 
+24 that --A 
+Q 
+A 
+Q 
+A 
+Q 
+A 
+Q What, if anything, did you and leadership do about that, having received 
+We briefed it. We briefed it to our leadership, to DHS leadership. 
+The Secretary? 
+The deputy secretary. 
+Okay. Who was that at the time? 
+Mr. Ken Cuccinelli. 
+Got it. Did you ever consider putting out anything, a product of any sort, to 
+25 your partners conveying what you had been told at that briefing?  77 
+1 A We considered it, though, this was the day prior and we don't have the 
+2 ability to turn a product around usually within a day in order to get the appropriate 
+3 clearances and coordination that's typically required of a finished intelligence product. 
+4 Q Is that what stopped you? You said you considered it. So does that mean 
+5 that you believed it to be possible, or was that the only impediment to putting forward 
+6 something? 
+7 A We considered taking the exact same product we did for Portland and 
+8 producing it for 6 January, but we were not capable of being able to turn around the 
+9 product in a timely manner for which it could have provided warning before the morning 
+10 of January 6th. 
+11 Q Was that the only motivation or --was that the only thing stopping you is my 
+12 question? Was there anything else that led to --I'm sorry? 
+13 A That and the lack of actual documented reporting. My understanding was 
+14 we didn't receive any raw intelligence collection except for an IAR from FBI the morning 
+15 of. 
+16 Q Okay. So the lack of OSI Rs that your own l&A or other agencies had put out 
+17 factored into not putting something out that day? 
+18 A It was both the lack of raw intelligence reporting articulating a specific threat 
+19 to 6 January, our access to those reports, and our inability to be able to turn around a 
+20 product with that period of time with the requirements that are in place for producing 
+21 finishing intelligence. 
+22 Q If those OSI Rs that you believed would have appropriately met the guidance, 
+23 the dissemination guidance, if those had been produced, do you think that putting out 
+24 something --that you guys would have put out something, or would the late hour still 
+25 have stopped you from doing so?  78 
+1 A I think it depends on, you know, if we look --if I look back at the time --if we 
+2 had produced OSI Rs related to, I think, the maps that we had seen related to the Capitol 
+3 Buildings, and the more of that specificity to me that indicated that there could actually 
+4 be a plan in place to storm the Capitol, and we had done that at least a few days in 
+5 advance, we would have put a product out. 
+6 Q My last question before I turn it over to my colleague. I know we still have 
+7 18 minutes. If we can talk about exhibit No. 1. It's an email from you asking about the 
+8 FBl's threat picture on January 3rd, 2021. That's the day of the email. I'm wondering, 
+9 what caused you to ask that question? 
+10 A Again, I think, yeah, as we entered the day of January 6th, our sense was 
+11 that violence was likely to occur on the 6th of January, but we didn't know what type of 
+12 violence or how substantial the violence would be. We were --it was what we call a 
+13 hunch, obviously, understanding that the threat environment at the time and the amount 
+14 of mis, dis, and ma I information on line associated with the outcome of the election, that 
+15 the environment and the conditions were ripe for violence. However, we did not have 
+16 reporting indicating that there was a specific threat to the Capitol at that time. And so 
+17 most of our efforts were focused on acquiring that information, whether it be from our 
+18 FBI partners or our State and local partners. 
+19 Q Am I reading the response correctly that the FBI had not settled on sort of a 
+20 threat level written or unwritten for the week? And, in fact, it sounds like the person 
+21 corresponding with you conveyed --that they had conveyed a less of a concern with the 
+22 groups showing up to protest and more of a concern for violence between protesters and 
+23 counterprotesters. Is that how you read it as well? 
+24 
+25 A 
+Q Yes. 
+Were you surprised that you had not received a comprehensive threat  79 
+1 assessment for January 6th from the FBI? 
+2 A I wasn't --I don't think we would have expected a comprehensive threat 
+3 assessment. I was more surprised that we didn't receive things like the SIR that was 
+4 published and the IAR that was published earlier. It seems as though they did have 
+5 some information available to them that they did not disseminate to us. 
+6 Q And we talked a little bit earlier about you weren't quite sure about the 
+7 levels of violence or the types of violence at the first two rallies. But so this concern 
+8 about less with the groups and more for violence between protesters and 
+9 counterprotesters, is that how you also envisioned leading into January 6th was the main 
+10 concern for violence? 
+11 A Yes, that was what we had seen throughout the summer and at most large 
+12 protests was that most of the violence, as I had mentioned earlier, related to the Mayor's 
+13 public statements was that we saw most of the violence occur against law enforcement 
+14 or against protesters and counterprotesters. 
+15 Q Okay. And you still --did you guys still maintain that belief that law 
+16 enforcement were potential targets for the protesters --the demonstrators protesting 
+17 the election certification? 
+18 
+19 A 
+Q 
+20 summer--
+21 
+22 A 
+Q I'm sorry, can you repeat that one more time? 
+Law enforcement, were they still targets? You mentioned that over the 
+Yeah. 
+--you saw not only violence with counterprotesters but violence directed 
+23 towards law enforcement. Was that your understanding of the threat picture dealing 
+24 with these demonstrators? 
+25 A Yes, and that I believe that was what was also disseminated in our 31  1 December intelligence report on the topic. 
+2 
+3 
+4 
+5 
+6 Q 
+A 
+Q 
+Q Anti-law enforcement sentiment? 
+Yes. 
+Okay. My colleague now has some questions for you. 
+BY 
+Thanks for your patience. I have a number of questions. I'm not 
+7 sure --I'm fairly certain I'm not going to get to all my questions, so I'll try to hit several 
+8 that relate to the stuff that we've already talked about, Deputy Under Secretary, if it's 
+9 okay. 
+10 Thanks, 1111-
+11 So going back to your role as a consumer or a reviewer --and I apologize to go 
+12 back to this. I know we've done this repeatedly, but I just want to make sure that I ask 
+13 you a question about this. As a consumer or reviewer of raw intel while you were 
+14 deputy under secretary, could you list the number of times a piece of l&A raw intel that 
+15 you read, either as a consumer or reviewer, gave you pause; in other words, it 80 
+16 wasn't --you didn't think it was particularly useful, it may have been improperly collected, 
+17 or that there were other tradecraft concerns with that piece of raw intel? 
+18 A So in terms of my viewing the raw intelligence, generally, I would never have 
+19 pause as it relates to whether or not we should --we can collect on it. Most of my 
+20 pause is about --was about whether or not we should have collected it, and then focused 
+21 on, again, the quality and the specificity of the reporting. 
+22 In my job, I strive to produce intelligence, whether it's raw and finished, that is of 
+23 high quality and helps to fill intelligence gaps. In looking at some of our raw intelligence, 
+24 it was unclear to what extent the information provided that level of specificity from time 
+25 to time.  1 
+2 
+3 Q 
+A 
+Q Roughly, can you give me a sense of how many times this happened? 
+I would say it was more the exception than the rule. 
+Okay. When it comes to raw social media collection, the raw intelligence 
+4 collection, speaking in your role as deputy under secretary for the enterprise or its 81 
+5 operation, do you think in --generally, raw intelligence is collected with very little analysis 
+6 applied to it, correct? With social media --and you are nodding in agreement yes? 
+7 
+8 A 
+Q Yes. 
+Thank you. 
+9 Do you think that social media collection should require some sort of basic 
+10 analysis of the source; in other words, the number of followers, the person the subject 
+11 has, the number of likes that poster sees, the times it's been shared, whether it's clearly a 
+12 joke, whether it has a political motive? 
+13 
+14 
+15 A 
+Q 
+A Absolutely. 
+Do you think l&A does that effectively? 
+Yes, I believe that's what we call the reasonable belief standard in that our 
+16 collectors need to identify the advances in the national departmental mission. And that, 
+17 as you discussed throughout this interview, that as it relates to threats of violence, meets 
+18 at least one of the criteria associated with a known threat actor by a threat environment 
+19 or a true threat. 
+20 Q And does --you don't think that --like, so if someone has three followers 
+21 and, you know, there's a sense of the product --or the item reaching threshold, you don't 
+22 think --that's something that passes --that's passable, that's --that goes out, that's okay? 
+23 A It depends on the content. If it's an individual that we know is in the 
+24 proximity of a target for which they say they're going to threaten or kill and imply that 
+25 they have sufficient capability to do so, it doesn't matter how many followers they have.  82 
+1 Q When it comes to field intelligence reports, Fl Rs, right, does l&A take into 
+2 consideration that the sources of those Fl Rs are often law enforcement, State and local 
+3 law enforcement officers potentially, or they come from fusion centers where certainly 
+4 there's a heavy presence of State and local law enforcement? 
+Yes, that's primarily the collection we do from a HUMINT capacity. 5 
+6 A 
+Q Do you suspect that such collection might be hypersensitive to police-related 
+7 issues? 
+8 A I think that with any intelligence, a source can be providing information to 
+9 influence and inform that's across the intelligence spectrum. 
+10 Q Is there any chance that there might be some sort of anchoring bias in such 
+11 kind of reporting, especially if you're dealing with reporting relate --you know, coming 
+12 from police agencies about violence --potential violence related to protests, policing, et 
+13 cetera? 
+14 A I think all of us have anchoring bias, and I think many sources have anchoring 
+15 bias, whether they work in law enforcement or a private sector, and approach how they 
+16 evaluate and share information based on that bias. I think that that's why it's 
+17 considered raw. And it's up to our analysts to determine the credibility and veracity of 
+18 that information provided by that source. 
+19 Q Going much broader, could you remind me again of your career before l&A? 
+20 You said you'd worked in the IC. Could you tell me which agencies, please? 
+21 A I spent time in the Defense Intelligence Agency, I supported some efforts in 
+22 the Central Intelligence Agency, and I worked at the Office of the Director of National 
+23 Intelligence. 
+24 Q Thank you. 
+25 Were you ever a special adviser to Vice President Pence?  1 
+2 
+3 
+4 
+5 A 
+Q 
+A 
+Q Yes. 
+And what did you do in that capacity, please? 
+I served as his special adviser for Middle East and North Africa issues. 
+Thank you. 
+Going broader about l&A, could you tell us about how l&A changed under the 
+6 Trump administration? How did its structure change, for example? 
+7 A I was not at DHS for most of the administration. I came into DHS in the 
+8 summer of 2019, and at that time, there was no organizational change that I was aware 
+9 of. I'm aware that sometime several years earlier, that the organization has been 83 
+10 realigned into mission centers, but I don't have a lot of detail on the --how that occurred. 
+11 Q Thank you. 
+12 What was l&A's morale like under the Trump administration? 
+13 A I can only speak to the morale during the time for which I spent at l&A, 
+14 which, again, starts back in the summer of 2019. And I would say when I came into l&A, 
+15 the morale was very low. 
+16 
+17 Q 
+A Why? 
+I believe that the morale was heavily influenced by the nature and style of 
+18 the leadership at the top of the organization. 
+19 
+20 
+21 Q 
+A 
+Q The top of l&A or DHS or both? 
+l&A. 
+Could you talk to us about the leadership? Could you give us your 
+22 judgment of Dave Glawe as a leader and Brian Murphy, his deputy, as a leader? 
+23 A From my perspective only, I would say that Mr. Glawe at the time spent 
+24 most of his time out of the office, and so did not have a lot of connectivity with the 
+25 officers at our headquarters element. And Mr. Murphy was delegated most of the  84 
+1 responsibility to run the office day to day. Mr. Murphy had a very direct leadership style 
+2 and communications style, which often was perceived as toxic or hostile to many 
+3 employees. 
+4 
+5 
+6 
+7 Q 
+A 
+Q 
+A Is it fair to characterize them as ineffective leaders? 
+I would say that they were effective in some ways and ineffective in others. 
+Could you elaborate? 
+I would say, from my perspective, that both leaders had a fairly good vision 
+8 for the organization in terms of where we should be headed and what we should be 
+9 prioritized on in many instances. I think where the deficiencies occurred were in the 
+10 execution and implementation of the priorities and goals. 
+11 Q How well versed were they in intelligence work? 
+12 A I believe both leaders spent time in the intelligence community. I believe 
+13 Mr. Murphy came from the FBI, and Mr. Glawe had also come from the FBI and had 
+14 served for a time in the Office of the Director of National Intelligence. 
+15 Q So as an intelligence professional, you're, I'm sure, keenly aware of IC 
+16 Directive 203? 
+17 
+18 A 
+Q Yes. 
+Yeah. It establishes standards that promote a common ethic for achieving 
+19 analytic rigor and excellence. The top two of the five analytic standards it lays out 
+20 require analysts to be objective and independent of political consideration. 
+21 While you were at l&A under the Trump administration, can you --do you think 
+22 that l&A lived up to these standards? 
+23 
+24 
+25 A 
+Q 
+A Yes. 
+How hard was it to do so? 
+It was difficult.  1 
+2 Q 
+A Could you please explain why? 
+I think at the time the leadership that was in place applied pressure to the 
+3 organization and to the processes that oftentimes could have compromised our 
+4 objectivity, and supported other efforts to inject perspectives in the process that could 
+5 cause us to violate the IC standards and directives which we operate under. 
+6 
+7 Q 
+A Could you please describe such instances? Do you have specifics? 
+In the summer of 2020, we were analyzing the threat associated with the 85 
+8 violence that was occurring in Portland. We didn't believe we had a level of specificity in 
+9 reporting to understand who the perpetrators were of that violence. And so we had a 
+10 lot of discussions about what --how to characterize those actors. At one point, we had 
+11 agreed upon the definition that we refer to as violent opportunists, so individuals that we 
+12 know were seeking to commit violence, but it wasn't clear what their ideological 
+13 motivation was or if they had an ideological motivation. 
+14 However, as the summer progressed, there was a sense among the workforce that 
+15 leadership increasingly wanted us to refer the violence or attribute the violence to 
+16 individuals who adhere to what we consider to be the antifa ideology. And at one point 
+17 in the summer of the --the Senior Officer Performing the Duties of the Under Secretary 
+18 issued guidance to our collectors to actually attribute the violence in Portland to antifa. 
+19 Q Why was that troubling? Just, I think I understand why it's troubling, but 
+20 could you very clearly tell me why that would be troubling to an intelligence professional 
+21 such as you? 
+22 A I believe that our collectors and our analysts should accurately describe the 
+23 information, particularly as it relates to raw intelligence as they see it and based on the 
+24 information they have available to them that is objective. And it's on those officers to 
+25 make those determinations, not the leaders.  86 
+1 Q Thank you. 
+2 Do you have any comments regarding the release of the Homeland Threat 
+3 Assessment, its delayed release, and l&A's diminished role, I believe, in the production of 
+4 the assessment? 
+5 
+6 A 
+Q Do you have a specific question? 
+Yeah. Do you think that that was in the instances at which l&A leadership 
+7 or department leadership tried to guide intelligence analysis or shift it away from certain 
+8 perspectives? 
+9 A In my opinion, I think there was a difference of opinion between l&A leaders, 
+10 DHS leaders, and the workforce on the extent to which some of the incidents that 
+11 occurred over the summer were considered to be terrorist acts. And so there was a 
+12 difference of opinion, and that drove some of the decision making in terms of how the 
+13 Homeland Threat Assessment was ultimately produced. 
+14 Q I know we're running on --at the end of our time --running up to the end of 
+15 our time, but I just wanted to ask how. How did it affect the release, the production, 
+16 the development of the Homeland Threat Assessment? 
+17 A It delayed the dissemination of the Homeland Threat Assessment, and it 
+18 changed the scope of the Homeland Threat Assessment, which initially started as 
+19 primarily an intelligence document and then later transitioned to a document that was 
+20 informed by intelligence, which included input from non intelligence offices from across 
+21 the Department. 
+22 Q From your position at the time, why, why did that happen? What were the 
+23 motives behind those changes? 
+24 A I think there were probably a variety of reasons. One was that there are 
+25 certain aspects of the Department's mission which l&A doesn't cover, for example,  87 
+1 human trafficking, natural disasters, things that don't necessarily have a strong 
+2 intelligence nexus but they might have a law enforcement or departmental nexus. So 
+3 there is an interest in including more details on those aspects of the Department's 
+4 mission. 
+5 I also think that there was a difference in how we characterize the nature of the 
+6 events that took place over the summer and that the intelligence perspective was not as 
+7 inclusive as the Department wanted as it related to things that we would believe would 
+8 fall outside the purview of our mission. 
+9 
+10 Q 
+A Could you drill down on that last point, please? 
+I think it was --what it boiled down to was the definition of terrorism. The 
+11 definition of terrorism is very broad, and you can make an argument that anyone that 
+12 engages in violence with the intent to change a political outcome is a terrorist. And so I 
+13 think that we scope our interpretation of what we mean by terrorist a little bit differently. 
+14 And we would argue that there is probably, from our perspective and from the guidance 
+15 that we got from our lawyers, there used to be a level of, let's say, destruction and a level 
+16 of violence that raises to the level of a national security concern. And that is different 
+17 from, I think, the perspective of a law enforcement agency who is just focused on the very 
+18 tactical nature of the violence that's being perpetrated against them. 
+19 
+20 Q 
+A Was it a difference that was shared by your leadership? 
+The difference in that they agreed with, I think, my perspective versus the 
+21 Department's perspective? 
+22 
+23 Q 
+A Which perspective did they agree with and why? 
+Well, we went through, I think, at least two leaders during this timeframe. 
+24 So actually approached the dissemination of the Homeland Threat Assessment --I believe 
+25 Mr. Maher was in the seat at the time. And so I think certainly he was of the mindset  88 
+1 that he was sticking with the intelligence assessment, but he recognized that the 
+2 Department wanted more input from the law enforcement side. 
+3 So there was a recognition, I think, by that he wanted to stay where we 
+4 were at the intelligence. But we were open to incorporating input from non intelligence 
+5 components, so long as the threat assessment was not considered an intelligence 
+6 document. 
+7 Q This is going to be, thankfully, my last question, and I'll let you go for lunch. 
+8 Does that qualify as politicization of intelligence? 
+9 A I think politicization, from my perspective, is when the actual intelligence is 
+10 changed as a result of a political consideration, and I don't believe our intelligence was 
+11 changed as a result of that. So I would not consider that politicization. 
+12 
+13 
+14 Do you have anything else? 
+Yes. 
+Ms. Dobitsch, one question, and then we promise you're off to lunch. And if we 
+15 have to start a little bit after 1 o'clock, that's fine on our end. 
+16 I want to clarify one of the answers that you gave when you said that you never 
+17 saw raw intelligence related to January 6th. And just so I understand it, and that's 
+18 because there wasn't an OSIR that was a final written product or a final product, period, 
+19 that got to your level. Is that right? 
+20 Ms. Dobitsch. To clarify, I don't know that I said never, but if I did, I'd like to 
+21 clarify that I rarely ever review raw intelligence before it is disseminated, across the 
+22 board, regardless of the direct topic, to include any reporting in the run-up to 6 January. 
+23 That falls with a couple layers below me in terms of review and dissemination. 
+24 I receive raw intelligence reporting more so as a customer who's reading it after 
+25 it's already been disseminated. So regardless of whether or not we would --had  89 
+1 produced an OSIR related to 6 January, I likely would not have reviewed that before it was 
+2 disseminated. 
+3 [Reporter asked for clarification.] 
+4 
+5 
+6 Ms. Dobitsch. Open source intelligence report. 
+O-S-1-R. 
+Ms. Dobitsch. Yes. Sorry. Acronym, OSIR, open source intelligence report. 
+7 And just to --again, just clarify again --clarify again, in the summer of 2020, circa 
+8 August timeframe through January 6th, I personally reviewed every OSIR that was 
+9 disseminated, except for those OSI Rs that went through a process that was dictated in 
+10 the 30 October 2020 direction from-. 
+11 BY 
+12 Q Right. I appreciate that. And because there was no OSIR related to 
+13 January 6th, it's logical that you didn't review any OSIR related to January 6th, right? My 
+14 question is --
+15 
+16 A Yes. Yes, I did not review any OSI Rs related to January 6th. 
+Q So unpacking that, what, if any, raw intelligence did you review that was 
+17 related to January 6th? Understanding there was no OSIR, is it fair to say then that you 
+18 didn't review any raw intelligence related to it? 
+19 A I --to the best of my knowledge, I did not review any raw intelligence related 
+20 to January 6th --
+21 
+22 
+23 Q Okay. So --
+A --prior to January 6th. 
+Q Okay. So my next question is: l&A had issued this report on 
+24 December 30th about the use of --about reports on domestic violence extremism 
+25 landscape, right? So that was a product that came out from l&A. And then there was  90 
+1 nothing drafted productwise until, obviously, after January 6th. 
+2 Did you as an intelligence officer think --you know, even though you're not seeing 
+3 it as not being pushed up to you from four levels down, did you have a moment where 
+4 just as a person knowing the significance of the joint session on January 6th, that 
+5 something was going to happen? 
+6 A Absolutely. And I think the documents show that I was actively pursuing 
+7 any information I could to help flesh out what I thought that threat might be. 
+8 Q So then my question is: When you say that there was a common 
+9 understanding within l&A and your Federal partners that there was a potential for 
+10 violence, where is the responsibility of l&A to push that message out? 
+11 A I think it is a responsibility. I think we believed that we had done that with 
+12 the 30 December report, and that the press reporting was so specific. I think even in the 
+13 political article, it talked about the storming of the Capitol. Our job is to provide 
+14 intelligence value and to go beyond reporting in the press. We did not have any 
+15 reporting that went beyond what the press was providing already. 
+16 Q But I think you agree that the December 30th, the value of it was not specific 
+17 to January 6th in any way. You said that earlier. It didn't mention January 6th at all. 
+18 A I think there was incredible value in that we highlighted that election-related 
+19 events and targets --or election-related events were targets for violence. We did not 
+20 specify 6 January as one of those events. 
+21 Q But help me reconcile the common understanding that January 6th was a 
+22 problem and the lack of a warning by your organization about this, quote/unquote, 
+23 common understanding. 
+24 A The lack of a warning in part was because most of the activity that we had 
+25 seen was occurring just days to hours before. We participated in calls with National  91 
+1 Fusion Center Association, who communicated that they had access to this information. 
+2 We were told that our D.C. fusion center had access to this information which was being 
+3 distributed amongst the Capitol Police and the press. And so, again, that we believe, at 
+4 that time, that the warning was people were aware of the same concern that we had. 
+5 And that was articulated by our partners in multiple engagements in the run-up to 6 
+6 January. 
+7 Q But, Ms. Dobitsch, does the organization --does l&A have the same 
+8 responsibility as the press? Isn't there more credibility when it comes from a 
+9 government agency versus what's being reported in press articles? 
+10 A Yes. Absolutely. A part of our job is to help provide context with what 
+11 we're seeing in the media. 
+12 Q So when you say we weren't seeing anything that wasn't reported in the 
+13 press, wouldn't there have still been value to put out something specific to January 6th 
+14 from an intelligence agency? 
+15 A Yeah, of course. Looking back on it, I think we agree that we wish we were 
+16 in a position to have put out a product warning of the potential threats associated with 
+17 January 6th. 
+18 Q Okay. And just as we ask all our witnesses, you know, kind of the lessons 
+19 learned from January 6th, and obviously you just mentioned one now, is there anything 
+20 else, you know, whether it's structurally that kind of my colleague hit on, or in terms of 
+21 the thresholds, or what do you think could be done better for the institution? 
+22 A Certainly, we concurred with the recommendations in the OIG report on 6 
+23 January. We've made quite a few changes in terms of the structure, the leadership, the 
+24 supervision, the processes and procedures, the direction, the guidance. Just about 
+25 everything we've done as it relates to our open source mission, we've strengthened from  92 
+1 top to bottom. 
+2 And so I think the lesson learned from l&A's perspective is that we need to make 
+3 sure that our intelligence resonates with the partners that are responsible for mitigating 
+4 the threat, and that we strive to provide accurate and timely and responsive information 
+5 to warn of threats. 
+6 
+7 
+8 Q Okay. Thank you for that. 
+It's that time. 
+Yes. Well, it's 12:40. Do you want to start later --I think it's 
+9 just us coming to this briefing? 
+10 It will also be --
+11 Oh, okay. Do you want to start at 1:15? Is that --1:15 is 
+12 okay on your side for your briefers? 
+13 And what do you need for lunch and to take a break? It's been 
+14 a long morning. 
+15 Yeah. 
+16 So yeah. 
+17 
+18 
+19 
+20 Ms. Dobitsch. Okay. 1:15 works. Thank you. 
+1:15 works? 
+Ms. Dobitsch. 1:15 works. Yeah. 
+Okay. Thank you, Ms. Dobitsch. And we're off the record. 
+21 Appreciate your time. 
+22 And for the record, the transcribed interview stands in recess, 
+23 subject to the call of the chair. Thank you so much. 
+24 [Whereupon, at 12:43 p.m., the interview was recessed, subject to the call of the 
+25 chair.]  1 
+2 
+3 Certificate of Deponent/Interviewee 
+4 I have read the foregoing __ pages, which contain the correct transcript of the 
+5 answers made by me to the questions therein recorded. 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 Witness Name 
+Date 93 

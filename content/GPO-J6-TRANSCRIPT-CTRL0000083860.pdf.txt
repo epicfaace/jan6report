@@ -1,0 +1,2340 @@
+1 
+2 
+3 
+4 SELECT COMMITTEE TO INVESTIGATE THE 
+5 JANUARY 6TH ATTACK ON THE U.S. CAPITOL, 
+6 U.S. HOUSE OF REPRESENTATIVES, 
+7 WASHINGTON, D.C. 
+8 
+9 
+10 
+11 INTERVIEW OF: WILLIAM BARR 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 Thursday, June 2, 2022 
+Washington, D.C. 
+20 The interview in the above matter was held in Room 5480, O'Neill House Office 
+21 Building, commencing at 10:02 a.m. 
+22 Present: Representatives Thompson, Aguilar, Schiff, Lofgren, and Cheney. 1  1 
+2 Appearances: 
+3 
+4 
+5 For the SELECT COMMITTEE TO INVESTIGATE 
+6 THE JANUARY 6TH ATTACK ON THE U.S. CAPITOL: 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 STAFF ASSOCIATE 
+SENIOR INVESTIGATIVE COUNSEL 
+SENIOR INVESTIGATIVE COUNSEL 
+CHIEF INVESTIGATIVE COUNSEL 
+- INVESTIGATIVE COUNSEL 
+SENIOR COUNSELOR TO THE VICE CHAIR 
+CHIEF CLERK 
+PROFESSIONAL STAFF MEMBER 
+INVESTIGATIVE COUNSEL 
+PROFESSIONAL STAFF MEMBER 
+SENIOR INVESTIGATIVE COUNSEL 
+21 For the U.S. DEPARTMENT OF JUSTICE: 
+22 
+23 BRADLEY WEINSHEIMER, ASSOCIATE DEPUTY ATTORNEY GENERAL 
+24 EMILY LOEB, ASSOCIATE DEPUTY ATTORNEY GENERAL 
+25 KIRA ANTELL, SENIOR COUNSEL, OFFICE OF LEGISLATIVE AFFAIRS 2  3 
+1 
+2 For WILLIAM BARR: 
+3 
+4 ERIC SNYDER 
+5 NOEL FRANCISCO 
+6 JAMES BURNHAM 
+7 DARYA VAKULENKO 
+8 Jones Day 
+9 51 Louisiana Avenue NW 
+10 Washington, D.C. 20001-2113  4 
+1 
+2 Good morning, everyone. 
+3 This is a transcribed interview of former Attorney General William Barr, conducted 
+4 by the House Select Committee to Investigate the January 6th Attack on the United States 
+5 Capitol pursuant to House Resolution 503. 
+6 General Barr, could you please state your full name and spell your last name for 
+7 the record? 
+Mr. Barr. William P. Barr, B-a-r-r. 
+I understand you are represented by counsel today. 
+Counsel, if you could introduce yourselves for the record as well. 8 
+9 
+10 
+11 Mr. Snyder. Sure. Eric Snyder, S-n-y-d-e-r, from Jones Day. Present with 
+12 me --
+13 
+14 
+15 
+16 Mr. Francisco. Noel Francisco, F-r-a-n-c-i-s-c-o, from Jones Day. 
+Ms. Burnham. And James Burnham, B-u-r-n-h-a-m, also from Jones Day. 
+Ms. Vakulenko. And Darya Vakulenko, V-a-k-u-1-e-n-k-o. 
+Great. Welcome. My name is 
+17 the chief investigative counsel to the select committee. I'm 
+18 
+19 In the room with me today are-and also counsel to the 
+select committee. And I believe a couple of our lawyers, 
+20 -and- are participating remotely. 
+21 We have three members of the select committee present with us 
+22 today --Chairman Thompson, Vice Chairwoman Cheney, and Representative Lofgren --all 
+23 of whom will participate in the questioning. 
+24 And we have three lawyers from the Department of Justice here today. 
+25 Mr. Weinsheimer, do you want to introduce yourself and your two colleagues?  5 
+1 Mr. Weinsheimer. Brad Weinsheimer, W-e-i-n-s-h-e-i-m-e-r, from the 
+2 Department of Justice. 
+3 
+4 
+5 Ms. Antell. Kira Antell, A-n-t-e-1-1, from Department of Justice. 
+Ms. Loeb. Emily Loeb, L-o-e-b, from the Department of Justice. 
+So this will largely, Attorney General Barr, be a staff-led interview, 
+6 but members, as I said, will ask questions. Because it's a virtual interview, if members 
+7 decide to join via Webex, they'll turn on their cameras if they have questions, and I'll try 
+8 to make sure you're aware if any of them join. 
+9 There's an official reporter who is transcribing the record of the interview. 
+10 Please wait until each question is completed before you begin your response, and we will 
+11 try to wait until your response is complete before we ask our next question. The 
+12 stenographer obviously cannot record nonverbal responses, such as the shaking of your 
+13 head, so it's important to answer each question with an audible, verbal response. 
+14 We ask that you provide complete answers based on your recollection. If the 
+15 question isn't clear, just ask for clarification. And if you don't know the answer, just 
+16 simply say so. 
+17 And I also have to remind you, as we do with every witness, that it is unlawful to 
+18 deliberately provide false information to Congress. Doing so could be a violation of 
+19 18 U.S. Code section 1001 or otherwise. 
+20 Any questions? If you need a break at any time or need to consult with counsel, 
+21 just ask and we can accommodate that. 
+22 
+23 Mr. Snyder. Great. Thank you. 
+All right. So, before we begin with the questioning, Attorney 
+24 General Barr, I'd love to give you the opportunity to make any opening statement that 
+25 you wish.  6 
+1 Mr. Barr. As you know, I tendered my resignation from the Department on 
+2 December 14, 2020, effective December 23, 2020. But before I left, I had made it clear, 
+3 publicly, that I did not believe the outcome of the election --or, I could find no evidence 
+4 indicating that the outcome of the election was caused by voting fraud. 
+5 And I made --the Department, in fact, when we received specific and credible 
+6 allegations of fraud, made an effort to look into these to satisfy ourselves that they were 
+7 without merit. 
+8 And I repeatedly told the President in no uncertain terms that I did not see 
+9 evidence of fraud, you know, that would have affected the outcome of the election. 
+10 And, frankly, a year and a half later, I haven't seen anything to change my mind on that. 
+11 I think it's important that people understand the role of the Department in 
+12 elections, because I think a lot of the confusion has resulted from people not 
+13 understanding --well, people mushing together various different kinds of assertions 
+14 about the election and failing to understand the specific role of the Department. 
+15 And if it would be helpful, because I think it might set the context not only for my 
+16 subsequent discussions with the President but also how we treated various specific 
+17 allegations that were flipped our way, if you want me to embark on that now, I could, or I 
+18 could --
+19 Sure. 
+20 
+21 Mr. Barr. Okay. 
+Elections are controlled by the States, and the States are responsible for policing 
+22 and enforcing the election rules in the first instance. The Department's role, at least my 
+23 view of the Department's role, is that it is limited to investigating and prosecuting actual 
+24 fraud, voting fraud, which is different than just complaints about the fairness of the 
+25 process or that the rules were not followed.  7 
+1 And there was this basic dichotomy that appeared very early on where the 
+2 allegations that were actually being raised were more in the nature of people violating 
+3 election rules, not specific allegations of fraud --so, for example, saying, you know, "our 
+4 observers were excluded" or "there was harvesting going on." 
+5 And those are things --and I go into this because I had to educate the President 
+6 about this on at least three occasions --that those kinds of issues are issues for the 
+7 campaign lawyers to raise with the State and they're to be dealt with in the courts and 
+8 through the State process. They're not the business of the Department of Justice. And 
+9 they are --they might increase the opportunity for fraud, but they are not allegations of 
+10 fraud. 
+11 And, in order for us to take something seriously, we needed to get a specific and 
+12 credible allegation of actual fraud --meaning, in my mind, that people who were not 
+13 eligible to vote, such as dead people and so forth, their votes were being cast and 
+14 counted; or that legitimate votes were not being counted, some scheme whereby that 
+15 was occurring. 
+16 And my understanding of the Department's approach prior to the 2020 election 
+17 was in the Justice Manual, which I understood to say that U.S. attorneys had discretion to 
+18 conduct preliminary assessments of claims of voting fraud, but if they were going to 
+19 embark on a full-fledged investigation, they should consult with the Public Integrity 
+20 Section. And, over time, that had sort of hardened into many offices feeling that the 
+21 Public Integrity had to specifically approve the investigation, but that's not what the 
+22 Justice Manual said, in my understanding of it. 
+23 And a longtime career employee in the Public Integrity Section had adopted this 
+24 notion that all investigations should be deferred until after an election is certified. 
+25 disagreed with that approach. I thought it should be a case-by-case decision depending  8 
+1 on the particular circumstances. 
+2 And the way it worked out with the 2020 election, given all the rule changes, the 
+3 whole, sort of, storm of allegations about irregularities and fraud and so forth, that it was 
+4 appropriate, especially after the election was held, to look into some of these things. 
+5 thought most of the things would not require a full-fledged investigation but just sort of 
+6 getting our bearings as to what this involved. 
+7 And so that's how we proceeded. And on November 8th I put out a 
+8 memorandum, so I wouldn't be making ad-hoc decisions every time one of these things 
+9 came up. 
+10 
+11 Voice. November 9th. 
+Mr. Barr. Oh, was it November 9th? Okay. 
+12 November 9th, I put out a memorandum basically saying that U.S. attorneys had 
+13 the discretion to conduct investigations of these things, which normally should be a 
+14 limited preliminary assessment and then, if something more was needed, to proceed with 
+15 that. 
+16 So, right out of the box on election night, the President claimed that there was 
+17 major fraud underway. I mean, this happened, as far as I could tell, before there was 
+18 actually any potential of looking at evidence. He claimed there was major fraud. And 
+19 it seemed to be based on the dynamic that, at the end of the evening, a lot of Democratic 
+20 votes came in which changed the vote counts in certain States, and that seemed to be the 
+21 basis for this broad claim that there was major fraud. 
+22 And I didn't think much of that, because people had been talking for weeks and 
+23 everyone understood for weeks that that was going to be what happened on election 
+24 night, because not only in many of the battleground States are some of the Democratic 
+25 cities that tend to come in at the end of the night and therefore there is usually a drop of  9 
+1 a lot of Democratic votes at the end of the cycle, but you had that exacerbated here 
+2 because a number of these States didn't count the absentee votes until election day, and 
+3 since those votes were overwhelmingly Democratic votes, that magnified this issue of a 
+4 lot of Democratic votes coming in at the end. 
+5 So everyone understood that the dynamic of election night in many States would 
+6 be whether or not the Democratic votes at the end of the day would overcome the 
+7 election day votes. So that didn't --it didn't impress me much, or disturb me, that 
+8 particular pattern. 
+9 And I was in the posture of trying to figure out --there was an avalanche of all 
+10 these allegations of fraud that built up over a number of days, and it was like playing 
+11 whack-a-mole, because something would come out one day and the next day it would be 
+12 another issue. And I was trying to filter out, what are the big instances of fraud that 
+13 people are relying on to claim that the election was stolen by fraud? And then I tried to 
+14 get my arms around those, what I considered the big-ticket items that were being relied 
+15 upon. 
+16 And I thought it was very important that I do that under these circumstances, 
+17 because I felt I couldn't intelligently engage with the President or Congress unless I 
+18 understood what the claims were. And I think, if we were in a situation where no one 
+19 was looking --there were so many specific claims being made, in very confident tones, 
+20 you know, about the Dominion voting machines and so forth. If the Department had 
+21 been in the posture of throwing up our hands and saying, "We don't have a view, and 
+22 we're not even going to look at anything until after the election is certified," I don't know 
+23 where we would be today, frankly. And I think, for the Department and for me to play a 
+24 constructive role in this, it was important that I get my bearings as to these various 
+25 allegations that were being made.  10 
+1 And it wasn't too long after the election --I would say, within 2 weeks, I had a very 
+2 skeptical view of the claim that fraud was involved and would affect the outcome of the 
+3 election. First, there was a big gap. At least three States had to be flipped, and the 
+4 gaps were such that had never been really made up before. 
+5 Also, I was influenced by the fact that all the early claims that I understood were 
+6 completely bogus and silly and usually based on complete misinformation. And so I 
+7 didn't consider the quality of claims right out of the box to give me any, you know, feeling 
+8 that there was really substance here. 
+9 I was also influenced by the fact that, at the end of the day, Trump's lawyers did 
+10 not go into court and actually claim fraud. They were claiming violation of the rules. 
+11 And there might be some cases where some fraud claims slipped in, but, generally 
+12 speaking, the public rhetoric did not match what they were saying in court. 
+13 And, finally, you know, as I looked over the numbers myself, you know, it just 
+14 didn't look to me like the results of the election were the result of fraud. It looked to 
+15 me that the difference in the vote were in the suburbs, where everyone expected the 
+16 President to be hurt, and that's what happened, in my mind. And I didn't see in cities 
+17 like Philadelphia some, you know, unexpected upsurge in votes. 
+18 And so, you know, there were five or six things that came up that I particularly 
+19 focused on because they were the issues du jour. There were a few other ones, minor 
+20 ones, that came up. I can't remember all the things we looked into. 
+21 But, basically, I tried to make sure that we had the infrastructure in place. The 
+22 U.S. attorneys, they had, you know, their election office lawyers. The FBI had a 
+23 command center. And they had linked up with the DAs and the States attorneys general 
+24 who had the laboring law on most claims. And I trusted the U.S. attorneys to sift 
+25 through things and make sure that they were followed up on.  11 
+1 And, you know, the big ones that I got personally involved in were the Dominion 
+2 voting machines, the Fulton County video, you know, the President's feeling that these 
+3 votes were dumped at the end of the night in Milwaukee and Detroit and couldn't be 
+4 explained or were impossible, that there was thousands of non-residents who voted in 
+5 Nevada, that Pennsylvania absentee ballots exceeded the ballots that had been 
+6 requested, the absentee ballots, and that there had been a truck that took hundreds of 
+7 thousands of ballots down from Bethpage, Long Island, to Pennsylvania. 
+8 And there were some other ones. I remember there was one in Erie County, 
+9 Pennsylvania, relating to a postal worker that made a claim. And then there was 
+10 something in Delaware County, Pennsylvania, where, you know, someone had filed an 
+11 affidavit suggesting that jump drives were missing and so forth. And those are the sort 
+12 of bigger-ticket items I remember. 
+13 So I started to collect my thoughts on making a public statement to explain to 
+14 people, sort out the differences between the various claims and what Justice was 
+15 responsible for and what we were seeing. And I started that in mid-November and 
+16 ultimately made a statement on December 1st. 
+17 I also asked Chris Wray and I explained to Chris Wray that I would need some help 
+18 tracking down some of this information, such as the truck driver case and the Fulton 
+19 County video thing. And I said, you know, I knew there'd be some concern, you know, of 
+20 what's the agenda being pursued here in getting some FBI agents to support these 
+21 investigations, and I assured him that this was a good-faith effort to get to the truth and 
+22 assess these things, and I thought it was important we do that, and also the Dominion 
+23 voting machine thing. And he agreed and provided that support. 
+24 
+25 So, with that, I'll stop and --you know, I can continue, but -­
+Yeah.  12 
+1 Mr. Barr. --I'll stop and --
+2 Well, we'll ask you to continue and to go back over some of that 
+3 and move to some of the direct communications you had with the President. 
+4 appreciate that. 
+5 EXAMINATION 
+6 BY 
+7 Q It sounds like, sum and substance, Attorney General Barr, you and others in 
+8 the Department of Justice looked closely at any credible allegation that was brought 
+9 forth, and you ultimately never, at any point, found substantial evidence of fraud 
+10 sufficient to undermine the outcome in any particular State. Is that right? 
+11 
+12 A 
+Q That's right. 
+And you also had more of an explanation for the election loss, and that was 
+13 the lack of support for the President in the suburban areas. 
+14 A Right. It looked to me that that's where the margins had really changed. 
+15 And, you know, the idea --the President has repeatedly suggested that there was 
+16 some kind of outpouring of unexpected votes in inner-city areas, like Philadelphia, as 
+17 recently as January 13th, when he walked off the NPR set. 
+18 He was asked by the interviewer, you know, what's your evidence of fraud? And 
+19 he said, more people voted in Philadelphia than there were voters. And that was 
+20 absolute rubbish. The turnout in Philadelphia was in line with the State's turnout, and, 
+21 in fact, it was not as impressive as many suburban counties. And there was nothing 
+22 strange about the Philadelphia turnout. It wasn't like there was all these unexpected 
+23 votes that came out in Philadelphia. 
+24 So, you know, I think once you actually look at the votes and then --there's an 
+25 obvious explanation. You know, for example, in Pennsylvania, Trump ran weaker than  13 
+1 the Republican ticket generally. He ran weaker than two of the State candidates. He 
+2 ran weaker than the congressional delegate --delegation running for Federal Congress. 
+3 And he ran weaker than the --I think. I haven't looked at this recently. But he 
+4 generally was, you know, a weak element on the Republican ticket. So that does not 
+5 suggest that the election was stolen by fraud, to me. At least, that was not consistent --
+6 
+7 
+8 
+9 Q 
+A 
+Q He underperformed other Republican candidates that -­
+Yes. Yes. 
+Okay. 
+Let me actually ask you to go back to that November 9th memo. I think 
+10 Mr. Chairman is going to start with some questions about the policy positions of the 
+11 Department in the post-election period. 
+12 Mr. Chairman, let me turn it over to you to focus on those issues. 
+13 
+14 Chairman Thompson. Thank you very much. 
+I appreciate your opening statements, Mr. Barr. Obviously, a lot of what I will go 
+15 over, you kind of said some of it in your opening remarks. 
+16 But that November 9th memo to U.S. attorneys, why did you feel the need to 
+17 issue that memo? 
+18 Mr. Barr. Because I think --because of the prior position taken by a lawyer in the 
+19 Public Integrity Section, I think some offices in the Department thought that the practice 
+20 was to --and that the rule was to wait until after an election had been certified to look 
+21 into allegations of fraud. And I didn't think that that was right, and I disagreed with it as 
+22 a matter of policy, especially in the circumstances that we were confronted with in 2020. 
+23 So, especially --one of the rationales for that is the concern that an election not 
+24 affect --itself affect the outcome of an election. And I felt that that is a stronger 
+25 consideration prior to the election than it is after an election has been concluded.  14 
+1 And so I thought, given all the allegations that were being made and the fact that 
+2 many of these, in my mind, could be rather easily disposed of by sort of a preliminary 
+3 assessment, not a full-fledged extended investigation, that, you know, I needed to get 
+4 people to respond and quickly get on top of some of these things. 
+5 And I wanted to address it systematically and not do it on an ad-hoc basis. So, 
+6 when a U.S. attorney called up and said, you know, I have this allegation of this, what 
+7 should I do, I wanted a general guidance for the Department. 
+8 Chairman Thompson. Thank you. So that guidance was shared with every 
+9 U.S. attorney's office in the country? 
+10 
+11 Mr. Barr. Yes. 
+Chairman Thompson. So how was it received by the Public Integrity Section 
+12 people? Did anyone disagree with it? 
+13 Mr. Barr. I think a number of people in Public Integrity disagreed with it. 
+14 think Pilger stepped down from his leadership post. He was the guy who felt everything 
+15 should be delayed until after the election --I mean, after the certification. 
+16 And I believe a number of the --I think they're called "DEOs," I'm not 100 percent 
+17 sure --the designated election officers and the different --
+18 District election officers. 
+19 Mr. Barr. Yeah, district election --a number of them wrote a letter complaining 
+20 about it. 
+21 I think the media and some people in the Department were looking at it through a 
+22 prism that attributed partisan motives to me, as if my purpose here was to try to dig up 
+23 things to support overturning the election. And that was not the case. I just felt the 
+24 responsible thing to do was to be in a position to have a view as to whether or not there 
+25 was fraud.  15 
+1 And, frankly, I think the fact that I put myself in the position that I could say that 
+2 we had looked at this and didn't think there was fraud was really important to moving 
+3 things forward. And I sort of shudder to think what the situation would have been if the 
+4 position of the Department was, "We're not even looking at this until after Biden's in 
+5 office." I'm not sure we would've had a transition at all. 
+6 So that's why I did it. 
+7 Now, I will point --you know, in mid-November --1 think it was November 16th 
+8 and November 20th, but you can go back and check my emails --but I had actually started 
+9 ruminating about, how do I explain to people the difference between allegations that the 
+10 rules weren't followed and allegations of fraud and also explain that we, as to date, have 
+11 not seen the fraud that would've affected the outcome of the election? And I started 
+12 doodling out, you know, a framework for how I might articulate that. And I emailed 
+13 myself on November --I think it was November 16th, but --and then on November 20th. 
+14 So, even by the middle of the month, I was trying --you know, at that point, I 
+15 didn't think there was evidence of fraud, sufficient fraud, and I was already thinking in 
+16 terms of how could I explain this to the public. 
+17 Chairman Thompson. Well, thank you. 
+18 So were you concerned about White House contacts with DOJ officials after the 
+19 election? 
+20 Mr. Barr. At some point --I can't remember if it was after or right before, but 
+21 sometime I put out a --I think it might be in the documents, actually. 
+22 When did I --
+23 
+24 
+25 Mr. Burnham. November 11th. 
+November 11th. 
+Mr. Barr. Yeah. I mean, I thought it was good, with all these conspiracy  16 
+1 theories and so forth floating around on social media and, you know, politicians around 
+2 the country phoning in, you know, their latest theory or concerns and a number of people 
+3 at the White House potentially getting stirred up, I felt it was good to clamp down on the 
+4 contacts policy, because I wanted to try to maintain control of the flow of information. 
+5 Now, I will say, I was not concerned about, you know, Meadows, who was the 
+6 chief of staff --I wasn't concerned about his role. 
+7 And I can't remember any particular incident that triggered --and it might've been 
+8 a particular incident that triggered me wanting to put out more guidance. But I think it 
+9 may also just have been I thought it was a smart thing to do given all the turmoil. And 
+10 so I wanted to make sure that we had better control over communications, or had good 
+11 control over communications. 
+12 Chairman Thompson. So I would say, did anyone, I'll assume other than the 
+13 President, contact you directly about any election issues? 
+14 
+15 Mr. Barr. From the White House? 
+Chairman Thompson. Yes. 
+16 Mr. Barr. I mean, there could --I mean, I think I probably talked to Cipollone, 
+17 who was the counsel. That would be appropriate. I talked to Meadows. That would 
+18 be appropriate. 
+19 You know, I did not talk to the President --I only talked to him --the last time I 
+20 talked to him before the election was in, sort of, the mid-to latter part of October, when 
+21 in my book I discuss how he tried to raise Hunter Biden and I yelled at him and we got off 
+22 the phone precipitously. And I next talked to him on November 23rd. 
+23 So the President wasn't talking to me, but, you know, there could've been some 
+24 people at the White House. I just can't remember any that I thought were in the 
+25 program.  1 But I just thought --you know, I didn't want people picking up the phone and 
+2 talking to the FBI. I didn't want them talking to, you know, people that I wasn't aware 
+3 of, that the conversations were going on. 
+4 
+5 Chairman Thompson. I see. 
+Mr. Barr. Oh, yeah. So, I mean, then --as I've also discussed, I talked to Jared 17 
+6 Kushner on November 23rd to tell him I was worried about how --I wondered how far the 
+7 President was going to take this "stolen election" stuff. 
+8 And I'd also talked to another lawyer over at the White House, Eric Herschmann, 
+9 who, you know, was very good and a straight shooter and I thought played a very 
+10 constructive role. And I was worried about where the President was getting all of this 
+11 misinformation from, and we discussed that topic. 
+12 But I can't remember whether --you know, nothing stands out to me as 
+13 something that was really bad or inappropriate. 
+14 
+15 
+16 
+17 Chairman Thompson. Okay. 
+Well, thank you very much. That's the questions that I have for you. 
+Yeah, thanks, Mr. Chairman. I appreciate that. 
+18 Let me ask you now, if I can, Attorney General Barr, about some of the specific 
+19 allegations that you described in --
+20 
+21 
+22 Ms. Cheney. ■? 
+Oh, yeah, sorry. Ms. Cheney, please. 
+Ms. Cheney. I'm sorry. Yeah, before you go on to that, I just wanted to follow 
+23 up on something the Attorney General just mentioned and ask if you could tell us a little 
+24 bit more about your discussions, first, with Mr. Kushner with respect to, you know, your 
+25 question about how far is the President going to take this "stolen election" stuff.  18 
+1 Mr. Barr. Right. 
+2 So, on November 23rd, I hadn't spoken to the President since the election and, in 
+3 fact, as I said, since the middle of October, roughly, and it was a little --getting awkward 
+4 because, obviously, he had lost the election and I hadn't said anything to him. And so 
+5 Cipollone said, you know, I think it's time you come over here. And so I came over to 
+6 meet with the President in the Oval Office, and Meadows and Cipollone were there. 
+7 And the President --and this is leading up to this conversation with Kushner. The 
+8 President said there had been major fraud and that, as soon as the facts were out, the 
+9 results of the election would be reversed. And he went on on this for quite a while, as 
+10 he was prone to do. And then he got to something that I was expecting, which is to say 
+11 that, apparently, the Department of Justice doesn't think that it has a role of looking into 
+12 these fraud claims. 
+13 And I'd been expecting this because, during November, Giuliani had been talking 
+14 publicly about fraud. They can't come up with evidence of fraud. And he was basically 
+15 starting to say, well, the reason there's no evidence of fraud is because the Department 
+16 isn't finding the fraud, and they should be looking for it. And so I was expecting this. 
+17 And I told the President, no, that, in fact, I did believe it was the role of the 
+18 Department, if there are specific and credible allegations of fraud, to look into them. 
+19 But I drew out for him the distinction between the claims that were actually being made, 
+20 which were more in the nature of people not following the rules, and I said, you know, 
+21 that has to be the campaign that raises that with the State. The Department doesn't 
+22 take sides in elections, and the Department is not an extension of your legal team. And 
+23 our role is to investigate fraud, and we'll look at something if it's specific, credible, and 
+24 could've affected the outcome of the election. And we're doing that, and it's just 
+25 not --they're just not meritorious. They're not panning out.  19 
+1 And I specifically raised the Dominion voting machines, which I found to be one of 
+2 the most disturbing allegations --"disturbing" in the sense that I saw absolutely zero basis 
+3 for the allegations, but they were made in such a sensational way that they obviously 
+4 were influencing a lot of people, members of the public, that there was this systemic 
+5 corruption in the system and that their votes didn't count and that these machines, 
+6 controlled by somebody else, were actually determining it, which was complete 
+7 nonsense. And it was being laid out there. And I told him that it was crazy stuff and 
+8 they were wasting their time on that and it was doing great, great disservice to the 
+9 country. 
+10 He then pulled out two sheets of paper and said that these graphs showed that 
+11 there were all these Democratic votes that came in in the early morning hours and 
+12 swamped them in Detroit and in Milwaukee. And he wanted me --he said, this is 
+13 statistically impossible, and he wanted me to look into it. And I accepted the sheets of 
+14 paper. And I thought to myself that I thought I knew the answer to this, which turned 
+15 out to be correct, and I alluded to it earlier. 
+16 And then I told the President I thought he should preserve his legacy by fighting 
+17 hard for the Republican candidates in the Georgia runoff and by educating the American 
+18 people about the accomplishments of his administration. 
+19 And, at that point, I left. And as I walked out of the Oval Office, Jared was there 
+20 with Dan Scavino, who ran the President's social media and who I thought was a 
+21 reasonable guy and believe is a reasonable guy. And I said, how long is he going to carry 
+22 on with this "stolen election" stuff? Where is this going to go? 
+23 And, by that time, Meadows had caught up with me and --leaving the office and 
+24 caught up with me and said that --he said, look, I think that he's becoming more realistic 
+25 and knows that there's a limit to how far he can take this. And then Jared said, you  20 
+1 know, yeah, we're working on this, we're working on it. 
+2 And then, that evening --that gave me a little hope that this --you know, that we 
+3 were going to see some move toward the transition and some recognition that he lost the 
+4 election. 
+5 And, that evening, the President authorized engagement with the 
+6 transition --evening after I met with him --the evening of the day I met with him. And 
+7 he agreed that he was going to engage with the transition. So I thought, well, that's a 
+8 positive step; you know, maybe things are going to get back on track. But, in the 
+9 ensuing days, I saw they were not getting back on track. 
+10 That's a long answer, but that puts in context my discussion with Jared. 
+11 
+12 Ms. Cheney. Thank you. 
+And I think that Ms. Lofgren is going to have additional questions about this, but I 
+13 just wanted to also ask you about Eric Herschmann. You mentioned having a similar 
+14 discussion with him. Was that at the same time, in the same meeting? 
+15 Mr. Barr. No, that was a little bit later. I think that was after I had a 
+16 conversation with McConnell. 
+17 But I was --it seemed --although I was hopeful on November 23rd that the 
+18 President was becoming more realistic, it seemed to be going the other way. And I 
+19 wanted to understand better where all this --what the dynamic was over there. 
+20 Eric Herschmann was somebody I had met a couple years earlier, and he had been 
+21 a partner at Kasowitz. He had been very successful in business, so he was very 
+22 independent-minded. He was a former prosecutor. I felt he was extremely ethical. 
+23 And I actually worked to get him put over at the White House, because Trump seemed to 
+24 listen to him, and he also seemed willing to be very blunt with Trump, and I thought it 
+25 would be good to have him over there. And I think that proved to be correct.  21 
+1 In any event, I called Eric, and I said, look, you know, what the hell is going on 
+2 here? And he said, the trouble is that all these people on the outside, not just Giuliani 
+3 but others too, are filling the President's ear with all this stuff about fraud, and they're 
+4 being very authoritative, and they know how to push the President's buttons, and they're 
+5 telling him what he wants to hear, and he seems inclined to believe it or go along with it. 
+6 And, you know, that --that is my conversation with Herschmann. 
+7 Ms. Cheney. Thank you very much. I appreciate it. 
+8 And I'd also like to say hello to Mr. Francisco, who graduated ahead of me at the 
+9 University of Chicago. 
+10 Ahead academically or ahead chronologically? 
+11 
+12 
+13 Ms. Cheney. Academically, not chronologically. 
+Thank you. 
+I want to turn, Ms. Lofgren, to you. I know you wanted to ask 
+14 some questions about that November 23rd and perhaps some other meetings. So let 
+15 me give you a chance now to jump in and ask those questions. 
+16 
+17 
+18 Ms. Lofgren. Thank you so much. 
+And thanks, Mr. Barr, for your recounting of these events. 
+Just a quick followup on the November 23rd meeting. You mentioned that the 
+19 fraud allegations were not correct. Did you go through the specifics with the President 
+20 in the various States at that meeting? 
+21 Mr. Barr. I don't think I attempted to go through all of them. The one I 
+22 specifically remember addressing was --were the Dominion machines. 
+23 
+24 Ms. Lofgren. Okay. 
+Mr. Barr. And I made the point that it was crazy for them to be wasting their 
+25 time on this, because they can be easily checked, because they're tabulation machines,  22 
+1 and all you have to do is compare the ballots with the tabulation, and I just thought it was 
+2 crazy. 
+3 And I may have raised other ones with him, but I don't --I can't really say that I 
+4 remember doing that. But I think I probably alluded to some of the other ones. 
+5 
+6 Ms. Lofgren. Okay. 
+In your book, you talk about a December 1st meeting with the President. Can 
+7 you tell us about that meeting, who was there and what you said and what others said? 
+8 Mr. Barr. Right. 
+9 So, I mean, part of the context of that meeting was, after the November 23rd 
+10 meeting, I took --I had talked to some Members on the Hill, Senators and --more than 
+11 one Member, and a lot of people were asking, what do you make of --you know, what's 
+12 going on? Is there going to be a transition? What do you make of these fraud claims? 
+13 And one of those calls --I talked a couple chimes, at least, with Senator 
+14 McConnell and other Senators too. But McConnell expressed concern about where 
+15 things were headed, and he said, you know, when I look around, it seems to me that 
+16 you're the best person to inject some reality into this situation; I hope you consider 
+17 speaking up. And I said that I was planning to do that but I wanted to make sure both as 
+18 to the timing and also I wanted to pin down a few more facts. 
+19 I felt that, number one, if the President after the 23rd was going to become more 
+20 realistic, that would affect the timing of when I said something. But, also, I wanted to 
+21 make sure that, you know, I didn't say something about that I didn't see any evidence of 
+22 fraud and then have something dropped on me that was fairly significant. So I wanted 
+23 to do some more due diligence. 
+24 So, with that as background, you know, I felt that things continued to deteriorate 
+25 between the 23rd and the weekend of the 29th. The President started meeting with  23 
+1 delegations, and it looked to me there was maneuvering going on. And, you know, I 
+2 have no problem with going through the appropriate process to challenge an election 
+3 and, you know, through the processes of the courts or the regular processes of the State 
+4 government, but I was worried that I didn't have any transpar- --you know, I didn't have 
+5 any visibility into what was going on, but it looked to me that the President was digging 
+6 in. 
+7 And then, on November 29th, he appeared on the Maria Bartiromo show, "Sunday 
+8 Futures" I believe it was, and he said that the Department was missing in action. And, 
+9 you know, I will admit that I was annoyed by a basic dynamic which I actually told my staff 
+10 very soon after the election, which is, I didn't think the President would ever admit that 
+11 he lost the election, and he would blame it on fraud, and then he would blame the 
+12 actions and evidence on the Department of Justice. 
+13 So I felt all along that people were going to be attacking the Department, saying 
+14 that, you know, we had ignored evidence of fraud. And so this got under my skin, but I 
+15 also felt it was time for me to say something. 
+16 So I set up a lunch with the AP reporter Mike Balsamo. And I told him at lunch, 
+17 made the statement that, to date, we have not seen fraud on a scale that could've 
+18 effected a different outcome in the election. And I realized, when I said that, that that 
+19 was going to be in the news and go national. 
+20 So I had a later meeting scheduled at the White House at 3 o'clock with Meadows; 
+21 this was previously scheduled. So I knew this was going to come up. And I went over 
+22 there, and I told my secretary that I thought I would probably be fired and told not to --to 
+23 go home --I mean, not go back to my office. So I said, you might have to pack up for 
+24 me. 
+25 And so, when I got over there, I met with the chief of staff. He said the President  24 
+1 was angry. He didn't really get into the issue of the fraud. 
+2 And then I went up to Pat Cipollone's office, and we were talking with each other. 
+3 And word came down that he wanted us both to go to the Oval. So Cipollone went 
+4 ahead of me, while I sort of checked what the news coverage was on my discussion with 
+5 Balsamo. 
+6 And then I went down to the Oval Office. And the President was back --I don't 
+7 know if you want me to go into all the details like this. 
+8 Ms. Lofgren. It's very helpful. Very helpful. Thank you. 
+9 Mr. Barr. So the President was in the small dining area that's back from the Oval 
+10 Office. A little hallway connects the Oval Office to it. And he was sitting at the head of 
+11 the table, and across from him was a TV on the wall playing the OAN channel. And my 
+12 recollection is that it was a Michigan legislative hearing or some kind of group in Michigan 
+13 connected to the legislature that was having a hearing about fraud claims in Michigan. 
+14 And he had been watching it, and he had the remote control. 
+15 And in the room were the chief of staff; Pat Cipollone, the counsel to the 
+16 President; Pat Philbin, the deputy counsel to the President; and Eric Herschmann. And I 
+17 walked in with my chief of staff, Will Levi. And the President was as mad as I've ever 
+18 seen him, and he was trying to control himself. 
+19 And he wasn't looking at me initially. And finally he shoved a newspaper in my 
+20 face that was quoting the AP sentence I gave to Mike Balsamo. He said, "Did you say 
+21 this?" And I said, "Yes, I did say it." And he said, "Why?" I said, "Well, because it's 
+22 true." 
+23 He asked me what --I told him I had been looking at the various allegations, and 
+24 he said, "What have you found?" And the President said, "Well, this is, you know, killing 
+25 me. You didn't have to say this. You must've said this because you hate Trump --you  25 
+1 hate Trump." And I said, "No, I don't hate you, Mr. President. You know, I came in at a 
+2 low time in your administration. I've tried to help your administration. I certainly 
+3 don't hate you." 
+4 And then I went in, very methodically, to many of the points I made right at the 
+5 opening of this interview, which is, you know, I explained the difference --you know, that 
+6 the role of the Department is not part of his election team, we don't take sides, that 
+7 virtually all these claims that are being made are things that his lawyers have 
+8 responsibility to bring to a State and have resolved in the State. The State is the one 
+9 that has jurisdiction. As a practical matter, he only has 5 or 6 weeks in a Presidential 
+10 election to, you know, score his points, and the Department's not part of that process. 
+11 And I told him that, when we got allegations of fraud, we're looking into them. 
+12 And, in fact, most of the --virtually all of their claims had to do with violations of rules, 
+13 were not specific allegations of fraud in the court system anyway. 
+14 And I told him that the stuff that his people were shoveling out to the public was 
+15 bullshit, I mean, that the claims of fraud were bullshit. And, you know, he was indignant 
+16 about that. And I reiterated that they wasted a whole month on these claims on the 
+17 Dominion voting machines and they were idiotic claims. 
+18 Then he raised the "big vote dump," as he called it, in Detroit. And, you know, 
+19 he said, people saw boxes coming into the counting station at all hours of the morning 
+20 and so forth. And I explained to him that --at that point, I knew the exact number of 
+21 precincts in Detroit. I think it was 630-something. I said, "Mr. President, there are 630 
+22 precincts in Detroit, and, unlike elsewhere in the State, they centralize the counting 
+23 process, so they're not counted in each precinct, they're moved to counting stations, and 
+24 so the normal process would involve boxes coming in at all different hours." 
+25 And I said, "Did anyone point out to you --did all the people complaining about it  26 
+1 point out to you you actually did better in Detroit than you did last time? I mean, 
+2 there's no indication of fraud in Detroit." 
+3 And then he shifted off --there may have been some other ones I went over. 
+4 think I actually mentioned --but I wasn't 100 percent sure of this, but I think, you know, 
+5 at some point in his presence, and I think it was on December 1st, I said the thing about 
+6 the truck driver is complete, you know, nonsense. And he didn't press me on that --the 
+7 truck driver that allegedly brought ballots down into Pennsylvania. And I wasn't going 
+8 to get into the details of why I knew it to be nonsense, because that involved, you know, 
+9 interviews being done by the Department. 
+10 And then he shifted the topic completely to areas that he felt I let him down on, 
+11 which --mainly that I hadn't indicted Corney based on an IG report, and, you know, went 
+12 into his usual tattoo on that, you know, that he had read all 80 pages and it was an 
+13 iron-clad case. And I told him, no, it wasn't, and, you know, couldn't justify prosecuting 
+14 Corney for that. And then he complained that Durham had not made more progress. 
+15 And I said, "Look, I know that you're dissatisfied with me, and I'm glad to offer my 
+16 resignation." And he pounded the table very hard. Everyone sort of jumped. And he 
+17 said, "Accepted." And then he repeated, "Accepted." And I said, "Okay," and I left. 
+18 And he sent two people --he sent Pat Cipollone and Eric Herschmann to retrieve 
+19 me from the parking lot, and I said, no, that I wasn't going to go back in. But they say, 
+20 "Well, he's not firing you. He wants you to stay." And I said, "Well, we can talk about 
+21 it tomorrow." 
+22 So that was the December 1st encounter with the President. 
+23 Ms. Lofgren. Very interesting. 
+24 Did you, during that meeting, give an evaluation of the cases that were being 
+25 brought by his legal team or discuss how those court cases were going with him?  27 
+1 Mr. Barr. Not on a case-by-case or particular case. I made the point that the 
+2 cases were largely complaining that the rules weren't followed and that's not the 
+3 Department's area, and he's losing the cases, and, you know, the relief in these cases 
+4 would not have involved --in my opinion, would not involve shifting votes anyway. You 
+5 still have to show that there were illegal votes. And so there was a disconnect, I 
+6 thought, between the cases and any relief that could actually be achieved. 
+7 So I then said that the reason he was in the place he was was he 
+8 would've --Presidential elections, the calendar is dictated by a constitutional deadline for 
+9 the electoral college. So we don't do do-overs. There's no do-over Presidential 
+10 election. And so he needed to have a crackerjack legal team in place, ready to make his 
+11 best case. And instead he had this --I think I said it was a --you know, he'd wheeled out 
+12 a clown car, meaning Giuliani and his sidekicks. And I said, you know, they've screwed it 
+13 up. I mean, they've wasted a lot of time on these ridiculous claims, and no responsible 
+14 or reputable lawyer is going to go anywhere near that effort. So that's why, you know, 
+15 he's not having any success in the courts. 
+16 But I tried to emphasize that that's where the action is, in the State courts system, 
+17 and if there is fraud --real, serious, you know, credible allegations of fraud --we will take 
+18 a look at them, but so far they just, you know, have no merit. 
+19 And the ones I remember talking about specifically were Detroit and the 
+20 machines. I went over the machine thing in detail with him. I explained, I said, look, if 
+21 you have a machine and it counts 500 votes for Biden and 500 votes for Trump, and then 
+22 you go back later and you have a --you will have the 1,000 pieces of paper put through 
+23 that machine, and you can see if there's any discrepancy. And I said, as far as I know, 
+24 every time this has been looked at, there has been no discrepancy. And I'll say, to this 
+25 day, I'm not aware of any discrepancy.  1 Ms. Lofgren. Right. 
+2 According to your book, the next time you communicated with Mr. Trump about 
+3 the election fraud was on December 14th at a meeting at the White House. 
+4 
+5 Can you talk to us about that? What happened? Who was there? 
+Mr. Barr. Right. 28 
+6 So, after the 1st, when the President hit the table and had this abortive firing me, 
+7 Meadows called me the next day and said, "I think we have a way of dealing with this. 
+8 We just don't want you to blind-side us by just walking out the door and quitting." And I 
+9 said, "I'm not going to blind-side anybody. You'll know exactly what I'm thinking." 
+10 And he said, "Well, will you agree to stay on through, you know, January 20th?" 
+11 And I gave him an answer, something like, you know, "I'll stay on as long as I'm needed. 
+12 I'm not going to blind-side you. I'm not going to do anything, you know, intentionally to 
+13 embarrass anybody." 
+14 So I decided after that, fairly shortly after that, that I was going to resign. And, to 
+15 tell you the truth, you know, shortly after the election, my feeling was, there was no 
+16 reason to stick around beyond Christmas, frankly. So I was looking for an opportunity to 
+17 leave before Christmas. 
+18 And so I went over --I composed a letter of resignation. I went over to meet 
+19 with the President. Meadows was in the Oval when I got there. 
+20 And when I walked in and sat down, he went off on a monologue, saying that 
+21 there was now definitive evidence involving fraud through the Dominion machines, and a 
+22 report had been prepared by a very reputable cybersecurity firm, which he identified as 
+23 Allied Security Operations Group. And he held up the report, and then he asked that a 
+24 copy of it be made for me. And while a copy was being made, he said, you know, "This 
+25 is absolute proof the Dominion machines were rigged. The report means that I'm going  29 
+1 to have a second term." And then he gave me a copy of the report. 
+2 And as he talked more and more about it, I sat there flipping through the report 
+3 and looking through it. And, to be frank, it looked very amateurish to me. You know, 
+4 in my years at Verizon, I was used to going through consulting reports, you know, on 
+5 cyber matters and similar type matters, and this looked very amateurish. 
+6 It didn't have the credentials of the people involved. I think it was --the head of 
+7 this firm that was identified was a former Republican candidate for Congress, but I didn't 
+8 see any real qualifications. 
+9 And the statements were made very conclusory, like, you know, these machines 
+10 were designed to, you know, engage in fraud, or something to the effect, but I didn't see 
+11 any supporting information for it. 
+12 I had actually been briefed --the report dealt with the Dominion machines in 
+13 Antrim County. And I had been briefed on the matter in Antrim County by the DHS and 
+14 the FBI, and we were very familiar with the episode there. And I was assured and 
+15 believed that we had a good understanding of what happened in Antrim County and that 
+16 it was a human error and it was not a problem with the machine and was not replicated 
+17 in any way outside Antrim County. And, in fact, the person who made the error was a 
+18 Republican clerk, and Antrim was a Republican county that Trump won handily. 
+19 And so I knew that the problem in Antrim was not a problem with the Dominion 
+20 machines. At least, I thought I knew that at the time. And the President kept on going 
+21 on about how this meant a second term for him. And I was somewhat demoralized, 
+22 because I thought, boy, if he really believes this stuff, he has, you know, lost contact 
+23 with --he's become detached from reality if he really believes this stuff. 
+24 He asked me to look into it, and I said that I would but that I wanted him to 
+25 understand that we thought we understood what happened there, we thought it was  30 
+1 human error, and, furthermore, there was a hand recount going on that would be done in 
+2 a couple of days and that would show definitively whether there was any problem with 
+3 the machine. 
+4 So I think what I did was, I think I --and this is what I did with --you know, this was 
+5 my practice, basically, with something like that --I would flip it to somebody to look into. 
+6 And I think this went to the FBI. And the FBI may have brought in DHS, because I was 
+7 subsequently briefed on this. 
+8 And, in any event, I should say that, after he gave me this and after I said I would 
+9 look into it, I told him I had come for a different reason and I'd like to talk to him 
+10 privately. And Meadows left, and that's when I resigned. And if you want to get into 
+11 that, I can get into that. 
+12 But, to follow through on the Antrim County thing, a few days later, I was briefed 
+13 on the consultancy report on a certain cybersecurity firm, and it was a very damning 
+14 report, because they went through over a dozen clear, sort of obvious flaws in the report. 
+15 And I passed --I can't remember if it was Meadows or Cipollone or both of them, 
+16 but I talked to somebody at the White House, not the President. I said, "By the way, the 
+17 President asked me to look into this. Here are the problems with that consultancy 
+18 report. This is why it's garbage." And I went through. 
+19 And the big-ticket item was, one of the main points made in the consultant report 
+20 was that something called the adjudication file in the system was empty; there was 
+21 nothing in the adjudication file. And I explained to them, that's because the machine 
+22 has an option of either using the machine to do the adjudication --that is, if it's unclear 
+23 whether, you know, a mark is in this box or that box and someone has to make a 
+24 judgment of the voter intent. And there are two ways of making that adjudication. 
+25 One is to have the machine do it. And when that happens, it goes to the adjudication  31 
+1 file. The other option is to have it done by a human panel. And Antrim County used 
+2 the human panel. Therefore, there was nothing in the adjudication files, because the 
+3 adjudication files were not used. And I said, you know, the records of the adjudication 
+4 are the ballots themselves that were adjudicated. 
+5 And then, you know, I gave him another example, which was that the generation, 
+6 or the version, of the machine upon which the consultant based his report was a later 
+7 version of the Dominion machines, and the Dominion machines used in Antrim didn't 
+8 have some of the functionality that they were complaining or concerned about. 
+9 So those were just two examples of why this report, in my mind, was nonsense. 
+10 So that's that meeting.  32 
+1 
+2 [11:04 a.m.] 
+3 Ms. Lofgren. At the meeting, after Meadows and Cipollone left and it was just 
+4 you and the President, are you comfortable discussing what happened then? 
+5 Mr. Barr. Yeah. So I --I told the President that it was clear that he was 
+6 dissatisfied with me and that I thought it would be, you know, wise for us to part 
+7 company while we can do so in a dignified way, you know. And he didn't put up much 
+8 of a fight. 
+9 And he asked me who would be my successors. And I said that I would 
+10 recommend Jeff Rosen, and that Jeff was backed up by Rich Donoghue. 
+11 I'll just say as an aside that Rich Donoghue was just an outstanding U.S. Attorney 
+12 in Brooklyn who was very, I mean, he was just a very strong leader. And he had high 
+13 integrity. He'd been in the 2nd Airborne Division. He was a no-nonsense guy. I very 
+14 impressed with him, and I felt that I would need his help going into the last months of the 
+15 election. 
+16 So over the summer I asked him to come down to work in Main Justice, and he 
+17 was Rosen's right-hand man. And so, I said that Donoghue would be there, too. The 
+18 two of them, I felt, would do a good job running the Department. I also knew that there 
+19 was no daylight between me and Rosen and me and Donoghue, and that they would be 
+20 good stewards of the Department. So I was very confident of that. 
+21 So the President didn't say anything about that. And then --and then, you know, 
+22 we shook hands and I left and that was the last time I spoke to him. I haven't spoken to 
+23 him since December 14th. 
+24 And he tweeted out, you know, something like, you know, Bill Barr's done a great 
+25 job and he's decided to spend Christmas --spend Christmas with his family or something  33 
+1 to that effect. 
+2 So that's --that's what happened. 
+3 Ms. Lofgren. Okay. This has been very enlightening. 
+4 Other than the descriptions that you shared with us about your communication to 
+5 President Trump about election fraud, were there other conversations or instances that 
+6 we haven't asked about where you had discussions with him about election fraud? 
+7 Mr. Barr. No, not with the President. 
+8 And, again, you know, basically, each one was almost like a tutorial where I tried 
+9 to explain the difference between fraud and other kinds of objections and concerns you 
+10 know, the election being unfair or people not following the rules. I tried to explain to 
+11 him what the Department's role was. I tried to assure him that if there were actual 
+12 claims of fraud that, you know, I was getting my arms around them and, you know, 
+13 getting confidence as to whether they had merit or not. 
+14 And it always came back to the same thing, that I had not --that we had not found 
+15 anything so far that we thought had any merit. And I --so then, from then, other than 
+16 the times I actually met with the President and talked to him, I did occasionally talk to 
+17 Cipollone and Meadows on the telephone, you know, sometimes reacting to some article 
+18 or something like that where I would reiterate to them that we're not seeing it. We're 
+19 not seeing it. 
+20 You will see from the documents that Meadows got into the --and I think it was 
+21 perfectly appropriate for him. I kept on stressing that if people in various States think 
+22 there's a problem, they should report it to the U.S. Attorney and the FBI and to the State 
+23 officials. I didn't want everything to be coming to me from the White House. 
+24 So actually, you know, I have to say I thought it was fairly sparing. But when 
+25 something came to him, he flipped it over to me. Then I would flip it to somebody to  34 
+1 look into. 
+2 And he wasn't --and the thing about that was I have to say he was not grinding 
+3 me on it or pushing on it and saying, you know, You got to look at this. They would just 
+4 sort of send it over and, you know, we tried to --some of them were, I think, laughable. 
+5 And I --you know, he wasn't necessarily suggesting otherwise. But, you know, if there 
+6 was anything that required a look, we would take a look at it. I'd send it to the 
+7 U.S. Attorney or the appropriate person and take a look at it. 
+8 But I consistently told both Meadows and Cipollone, when we were talking, that, 
+9 you know, this stuff about fraud was, you know, just not there, not there. 
+10 Ms. Lofgren. All right. So every allegation you had looked into, and every 
+11 allegation appeared to be false. 
+12 Mr. Barr. I would say --and I can't say here that everything, every allegation we 
+13 looked into, but I did my best. You know, this was playing Whack-a-mole. And the 
+14 whole ether --internet was just filled with all these different things. 
+15 I tried to identify what people were hanging their hat on, what were they saying 
+16 was the fraud that could affect the outcome of the election. And when I identified 
+17 something like that, you know, we tried to sort of assess it and see if it was really 
+18 something we had to dig into. 
+19 The ones that I dug into relatively deeply myself and kept abreast of was the 
+20 Fulton County video which the President kept on making a big deal about, and it was all 
+21 over the internet and the news and the truck driver thing which, you know, sounded so 
+22 sinister. And I wanted to make sure that we interviewed the truck driver, we 
+23 interviewed other witnesses, and formed a judgment as to that. And, you know, I was 
+24 completely satisfied that was a bogus allegation. 
+25 And I asked the U.S. Attorney in Atlanta, because the GBI, the Georgia Bureau of  35 
+1 Investigation, was looking into the Fulton County video thing. And I said --and I called 
+2 up BJay Pak, who was the U.S. Attorney in Atlanta, and, in my experience, a very 
+3 honorable guy and a good lawyer. 
+4 And I said, Look, make sure that the Bureau itself interviews some of the key 
+5 witnesses. Don't just piggyback on GBI, because I want to be in a position to say that we 
+6 formed our independent --our own independent judgment on this. We're just not 
+7 echoing what GBI --although I have total respect for GBI, I wanted to be able to say, You 
+8 know, we're just not echoing GBI. We took a look, hard look at this ourselves. And 
+9 based on our review of it, including the interviews of the key witnesses, the Fulton County 
+10 allegations were --had no merit. 
+11 The ballots under the table were legitimate ballots. They weren't in a suitcase. 
+12 They had been pre-opened for eventually feeding into the machine. All the stuff about 
+13 the water leak and that there was some subterfuge involved, we felt there was some 
+14 confusion, but there was no evidence of a subterfuge to create an opportunity to feed 
+15 things into the count. And so, we didn't see any evidence of fraud in the Fulton County 
+16 episode. 
+17 And, you know, that's --that was a judgment not only of the State officials, but of, 
+18 you know, our own judgment based on BJay's look at it. I was very saddened to see that 
+19 he was pushed out of the Department. He actually was planning on resigning anyway. 
+20 But he --it was something that, you know, I think someone precipitously suggested he 
+21 leave. 
+22 Ms. Lofgren. All right. Let me --you mentioned talking to Senator McConnell. 
+23 Can you relay that conversation to us? 
+24 Mr. Barr. So, you know, he --I had a couple, at least, conversations with 
+25 McConnell. I mean, he and I actually, while I was AG, would talk on a regular basis.  36 
+1 But after the election, there was a call where, you know, he basically said how far 
+2 is the President going to take this? 
+3 And I think he was getting worried about a constitutional crisis, and he wanted to 
+4 know my views on these fraud claims. And I told him I think we're looking into them. 
+5 And he --he said, You're in a unique position. When I look around, I mean, 
+6 you're the best person to be speaking out on this and I would be thinking about and 
+7 injecting some reality into this thing, because we were getting overwhelmed with all 
+8 these rumors and conspiracy theories. And it was clear, a big portion of the population 
+9 was thinking that there was rampant fraud, and he was encouraging me to speak up. 
+10 Ms. Lofgren. You mentioned that other legislators had been in communication. 
+11 Can you share who you discussed fraud or other aspects of the election with and the 
+12 nature of those conversations? 
+13 Mr. Barr. Well, some of them were --I mean, there was one call I think I had 
+14 with McConnell where there were multiple Senators on the line. And I can remember at 
+15 least two different representatives talking to me, but I'd rather not get into those. But 
+16 there was --it was just basically, you know, what do you make of this, how far is it going 
+17 to take, this kind of thing. 
+18 And I think there was genuine concern as to where the country was headed. 
+19 mean, this was --you know, this is a case of an incumbent administration staying, you 
+20 know, basically asserting that it could stay in place and hadn't been down this road 
+21 before. 
+22 Ms. Lofgren. Right. So maybe this would be speculation. But why do you 
+23 think the President did what he did in this matter? 
+24 Mr. Barr. I mean, that would be speculation on my part. All I can say is that he 
+25 never said anything to me to --that indicated that he really didn't believe this and he was  37 
+1 doing this just as a political ploy. So I can't say, you know, that he had acknowledged he 
+2 didn't believe this stuff. 
+3 On the other hand, you know, when I want into this and would, you know, tell him 
+4 how crazy some of these allegations were and how ridiculous some of them were --I'm 
+5 talking about some of the ones like, you know, more votes --more absentee votes were 
+6 cast in Pennsylvania than there were absentee ballots requested, you know, stuff like 
+7 that, it was just easy to blow up, there was never --there was never an indication of 
+8 interest in what the actual facts were. 
+9 Ms. Lofgren. Uh-huh. What else do you think we or the American people 
+10 might want to know about the claims of fraud in the 2020 presidential election? 
+11 Anything we haven't asked or that you haven't said that should be made known? 
+12 Mr. Barr. No. I think the bottom line is that it was my judgment that it was 
+13 important to assess what I perceived as the key claims of fraud on which people were 
+14 basing their fraud, you know, the stolen election theory on, and that in good faith, we 
+15 took a look at those and did not find any merit in those claims. 
+16 And my opinion then, and my opinion now, is that the election was not stolen by 
+17 fraud. And I haven't seen anything since the election that changes my mind on that 
+18 including, the 2000 Mules movie. 
+19 Familiar with the 2000 Mules movie. 
+20 Ms. Lofgren. Well, maybe you can assess the 2000 Mules if people are talking 
+21 about that. 
+22 Mr. Barr. Well, I mean, just in a nutshell, you know, I just think that the GBI was 
+23 unimpressed with it. And I was similarly unimpressed with it because I think if 
+24 you --because I was holding my fire on that to see what the photographic evidence was, 
+25 because I --well, hell, if they have a lot of photographs of the same person dumping a lot  38 
+1 of ballots in different boxes, you know, that's hard to explain. So I wanted to see what 
+2 the photographic evidence was. 
+3 But the cell phone data is singularly unimpressive. I mean, it basically, if you take 
+4 2 million cell phones and figure out where they are physically in a big city like Atlanta or 
+5 wherever, just by definition you're going to find many hundreds of them have passed by 
+6 and spent time in the vicinity of these boxes. 
+7 And the premise that if, you know, if you go by the box, you know, five boxes or 
+8 whatever it was, you know, that that's a mule is just indefensible. By definition, you're 
+9 going to have hundreds of this. I mean, I saw one contractor said we figured out that 
+10 our truck alone would account for six cell phone signals. This was a, you know, a --like 
+11 some kind of contractor. And, you know, our route would take us by these things on a 
+12 regular basis. 
+13 So I --but then, when the movie came out, you know, I think the photographic 
+14 evidence in it was completely lacking. I mean, it was a little bit of it. But it was lacking. 
+15 It didn't establish widespread, illegal harvesting. 
+16 The other thing is people don't understand is that it's not clear that, even if you 
+17 can show harvesting, that that changes the results of the election. You're not --courts 
+18 are not going to throw out votes and figure out, you know, what votes were harvested 
+19 and throw them out. There's still the burden on the challenging party to show that 
+20 illegal votes were cast, votes were the result of undue influence or bribes, or there was 
+21 really, you know, the person was non compos mentis. 
+22 But absent that evidence, I just didn't see courts throwing out votes anyway. 
+23 Ms. Lofgren. Well, I thank you, Mr. Barr. 
+24 And I guess your view that the election was not stolen and that the President of 
+25 the United States is Mr. Biden.  39 
+1 Mr. Barr. Yeah, well, I think the President of the United States is Mr. Biden. 
+2 And I've, you know, just in my public comments on this, I try to draw three 
+3 different --I think part of the debate is that everything's being lumped together under the 
+4 rubric of fraud. And I say there are really three different kinds of claims that are being 
+5 made. 
+6 One is that the rule changes skewed the playing field and it was unfair. Well, the 
+7 answer to that is you have to fight for those rules at the time. And once the rules are 
+8 adopted, you have to engage in the election under the rules in place. And if you have a 
+9 problem with them and you think they were illegal, that's to be litigated in the States. 
+10 The second set of allegations are the ones that were dominant here which were, 
+11 you know, violations of the rules. The States didn't follow their own rules. They 
+12 passed out ballots without requiring applications. They didn't --they blocked 
+13 Republican observers from coming in. Again, that is addressed to the State. That's 
+14 something you have to litigate through, and in most of those cases, it's unclear what the 
+15 relief would be. It wouldn't necessarily be throwing out the votes. 
+16 And then finally is the issue of fraud. And that has to be looked --you know, 
+17 fraud is a specific thing and that is what the Department has jurisdiction over. And 
+18 I --and, you know, there was fraud in the sense that, you know, onesies and twosies 
+19 around the country of people engaged in fraud. But I did not see broad-gauge fraud 
+20 that would affect the outcome. 
+21 Now, you know, when people say, did you look at everything, no, I was trying to 
+22 triage and look at stuff that could have affected the outcome of the election. If 
+23 someone came in and said I saw fraud in California or New York, that wasn't high on my 
+24 list to look at simply because that wouldn't have affected the outcome of the election. 
+25 Ms. Lofgren. Correct.  1 
+2 Mr. Barr. So, you know, some common sense had to be used here. 
+Ms. Lofgren. Thank you, Mr. Barr, for this testimony. It's very enlightening, 
+3 and I think I've asked all the questions I have. And I will turn this back to-· 
+4 Thank you very much, Ms. Lofgren. 
+5 Mr. Chairman or Madam Vice Chair, do you have any follow-ups on the issues 
+6 we've discussed thus far? 
+7 
+8 Ms. Cheney. I don't,■. Thank you. 
+Mr. Thompson. I don't have any,■· 
+10 Mr. Aguilar, Mr. Schiff, do you have any follow-ups on these questions we've 
+11 asked so far? 
+12 
+13 
+14 
+15 
+16 
+17 Mr. Schiff. I do not. Thank you,_ 
+Chairman Thompson. Thanks, Mr. Schiff. 
+Mr. Aguilar. No. 
+Okay. 
+BY 
+Q Mr. Barr, I just have a couple of other things. You've covered so much. 
+18 And we appreciate, again, as Ms. Lofgren said, your ample description of these issues. 
+19 Do you ever recall any discussion of the seizure of voting machines being 
+20 discussed? 40 
+21 A Yes. Actually --and I can't remember when this discussion occurred. But 
+22 my best recollection is that it related to Michigan machines. 
+23 
+24 Q 
+A Okay. 
+I can't say that with 100 percent assurance, but I don't think it was a general 
+25 countrywide seizure. And I think it could have been --it could have been either at the  1 meeting on the 23rd when I raised the Dominion machines, or it could have been on 
+2 December 14th, when he was discussing Antrim County. 
+3 
+4 Q 
+A So the discussion was with the President himself? 
+Yes. And my recollection is the President said something like, Well, we 41 
+5 could get to the bottom --you know, some people said we could get to the bottom of this 
+6 if the Department seizes machines. It was a typical way of raising a point. And I said 
+7 absolutely not. There's no probable cause and we're not going to seize any machines 
+8 and that was that. 
+9 
+10 Q 
+A Yeah. Never came up again after that conversation? 
+No, there was no --I didn't get any pushback on that. And I was very 
+11 definitive on it, and but I heard later it came back up. But I tried to remember whether 
+12 it --I, you know, I didn't hear anything. I don't think I heard anything about the military. 
+13 I think I would have remembered that, but I don't remember that. 
+14 Q Okay. How about discussion of other agencies' authority to seize the 
+15 machines, DHS or DOD? 
+16 
+17 
+18 A 
+Q 
+A I don't remember that either. 
+Okay. How about the possible appointment --
+No. That --it's --you know, if someone had raised the military, I think I 
+19 would have remembered that. It's possible someone asked about DHS --
+20 
+21 
+22 
+23 
+24 
+25 Q 
+A 
+Q 
+A 
+Q 
+A Yeah, I understand. 
+--as a law enforcement agency. 
+Yeah. 
+But they --
+Were you present --
+Also, you know, the requirement for probable cause doesn't disappear.  1 
+2 Q No, regardless of the agency. Exactly. 
+How about discussions, General Barr, about the possible appointment of special 
+3 counsel to investigate the allegations of election fraud? Do you recall any of that? 42 
+4 A Yes. I remember there were some discussions about special counsel and I 
+5 forgot how this came out --came up. But I didn't feel there was any predicate or basis 
+6 for naming a special counsel, and I was opposed to it. 
+7 And I think there was a proposal made. I remember a proposal being made to a 
+8 State attorney general being appointed. And I wanted to find out --you know, I thought 
+9 there might be a way of addressing that without just saying no and it turned out that 
+10 State law preclude it. 
+11 
+12 
+13 Q 
+A 
+Q Yeah. Was that Louisiana? Do you recall? 
+I think it was Louisiana. I think it was Jeff Landry maybe. 
+Exactly. Did you ask Steve Engel at OLC to look into, under Louisiana law, 
+14 whether it was possible for the State attorney general to get that special counsel 
+15 appointment? 
+16 
+17 A 
+Q So, I don't remember doing that. But that is what I would have done. 
+Yeah. Did that discussion happen with the President, the possible 
+18 appointment of special counsel? 
+19 A I think --I actually think that was either with Meadows or Cipollone, 
+20 probably Meadows. I can't remember who it was with. But, you know, I made it clear 
+21 that I didn't want to have a special counsel. And I was then asked this question, and 
+22 there was an easy legal answer as to where that wouldn't fly. 
+23 Q I see. You talked about a number of specific allegations with which you 
+24 were personally involved or familiar. You mentioned Georgia and the Fulton County 
+25 issue with BJay Pak. How about Nevada? Do you recall talking to the U.S. Attorney  43 
+1 there? 
+2 A Yeah, that was one of the --my recollection is that was one of the early 
+3 ones. And as I recall, there was some number thrown out, maybe initially 3,000, then 
+4 went up to 9,000, I think. You know, within a few weeks it was up to 13,000. But the 
+5 allegation was all these out-of-State people had voted, thousands of out-of-State people 
+6 had voted who were not qualified. 
+7 And I called Nick Trutanich who was the U.S. Attorney out there. And he said 
+8 that the --and I --and he said, I think it was the State's secretary's office, I believe, had 
+9 taken a sample of --hadn't looked at all, you know, 9-or 13,000, but had taken a sample 
+10 and gone through them and found that a de minimis number raised questions, and most 
+11 of them were clearly appropriate, that, you know, it was things like military people or 
+12 people absent for medical treatment, things like that, that they were legitimate votes. 
+13 And the rate, the percentage that were raised questions was de minim us. And 
+14 so, if you extrapolate it from that, it was a non issue. So --
+15 Q Yeah. How about Pennsylvania and Bill Mcswain? Do you remember 
+16 talking to the U.S. Attorney in Philadelphia about an alleged discrepancy between the 
+17 number of absentee ballots issued and the number of ballots cast? 
+18 A Right. So that was one of the big ones for a period of time. I think that 
+19 was raised in Gettysburg by Giuliani or something like that, but it kept on being repeated. 
+20 And I found it annoying because, you know, it didn't seem that it was right. 
+21 So I called --I called Mcswain, and he got back to me. He said, no, the problem is 
+22 that Mastriano threw out a --threw out this number. And what he did was he mixed 
+23 apples and oranges. He took the number of applications for the Republican primary, 
+24 and he compared it to the number of absentee votes cast in the general election. But 
+25 once you actually go and look and compare apples to apples, there's no discrepancy.  44 
+1 And, you know, that's where he --I think at some point I covered that with the President. 
+2 Q Yeah. Okay. Let me show you and ask-to pull up exhibit 5. This is 
+3 a text exchange that you had with Rich Donoghue. And I just wanted to ask you about 
+4 what --I think have you a book in front of you, General Barr --
+5 
+6 A Yeah, yeah. 
+Q --that has these. I believe it's printed. But just for the benefit of those 
+7 participating remotely, let's just pull up exhibit 5. 
+8 So it looks like this is a text exchange. This comes from documents provided by 
+9 the Department, and I think pulled off of your Department phone. And it looks like a 
+10 text message, General Barr, from you to Rich. 
+11 Rich, I talked to the guy at T.M. Society and put Mcswain in touch. Called me for 
+12 update. 
+13 And if you scroll down, -it actually has Mr. Donoghue's response. 
+14 A Yeah. 
+15 
+16 
+17 
+18 Q Tell me if this is --
+A Yeah, I remember that vividly. So this is the truck driver. 
+Q Okay. 
+A And so I wanted people to interview the truck driver, and look into this 
+19 whole thing because it was being given a lot of --
+20 
+21 Q 
+A Is this the Bethpage? 
+Yes. And the allegation that was this huge 18-wheeler, I think, was driven 
+22 down from --it went to a printing shop in Beth page, Pennsylvania. 
+23 
+24 Mr. Snyder. Long Island. 
+Mr. Barr. I mean Long Island. And drove it down to Harris --I think it was 
+25 directly to Harrisburg and then sent somewhere else or --but, anyway, drove it down into  45 
+1 Pennsylvania. 
+2 And the idea that was this truck driver had said that there were hundreds of 
+3 thousands of premade out ballots on that truck. And, you know, they had stuff like, you 
+4 know, he went to this place in Harrisburg. Then he went here. It was very detailed 
+5 kind of stuff. 
+6 And I wanted to make sure that was tracked down. I had a feeling it was BS. 
+7 And I thought it was important that, if you could show some of these things were being 
+8 thrown out there, you know, it was sort of explains what the lay of the land is. 
+9 So anyway, they couldn't --we couldn't find the truck driver and this thing was 
+10 getting legs and it turned out that this group, the Thomas More Society --there are many 
+11 Thomas Moore Societies. So I'm only talking about this particular Thomas More Society. 
+12 But, anyway, they had actually spirited this guy to a hotel in northern Virginia. And 
+13 I --and somehow I get connected with it. I can't remember if they called --I think they 
+14 call and said they had the guy. And I was livid, because I considered this interfering in 
+15 our investigation. 
+16 
+17 Q 
+A Right. 
+And this guy had the temerity to be saying things like, you know, We had a 
+18 red team and we've tried to poke holes. This is ironclad and all this stuff. But he's 
+19 ready to --and he was trying to negotiate under what terms this guy would be 
+20 interviewed. And I told him get out of the way or we were coming after him for getting 
+21 in the way of our investigation. 
+22 To make a long story short, I believe it was --this thing in the exhibits was a more 
+23 favorable description of this guy that we ultimately included --
+24 
+25 Q 
+A I see. 
+--because after he was thoroughly interviewed, and after other people were  46 
+1 interviewed, it was --it was a --it was quite clearly, you know, a nonsense story. 
+Q Uh-huh. 
+A And I don't want to get into the details. 2 
+3 
+4 Q Bottom line. This is an example of the allegation the Department pursued. 
+5 Actually --
+6 
+7 A Right. 
+Q --spoke to the truck driver and found no evidence that these were --this 
+8 was evidence of voter fraud. 
+9 
+10 
+11 A Right. And I talked to DeJoy, the guy who was at the Postal Service. 
+Q Yeah. 
+A Now they had been accused of intimidating another so-called whistleblower 
+12 in Erie County about their IG somebody, somehow. 
+13 And I said, Look, because the Postal Service was also looking at this, I said, You 
+14 know, put other people on this that are above reproach and that can't be accused of 
+15 trying to --you know, not the same group that's being accused of being heavy-handed 
+16 with the Erie whistleblower. 
+17 
+18 Q 
+A Uh-huh. 
+So the Postal Service and the FBI conducted the interviews. And, you 
+19 know, and I read some of the interviews --
+20 
+21 
+22 
+23 
+24 
+25 Q Yeah. 
+A --myself. 
+Q And rebutted the allegation. 
+A Yes. 
+Q Okay. I want to go back to something you --
+A Definitively.  47 
+1 Q Right. Something that you said, I believe, Mr. Herschmann said about the 
+2 President is getting lots of advice from these outside lawyers, did the President himself to 
+3 you ever acknowledge that maybe these lawyers weren't credible, were a clown car, to 
+4 use your term? Did he ever say anything to you that suggested awareness of that? 
+5 
+6 
+7 
+8 as well. A 
+Q 
+A Well, it wasn't just lawyers, by the way. 
+Okay. 
+When Herschmann talked to me he, he said it's not just Giuliani, it's others 
+9 And the only time I would say that could have occurred is on December 1st when, 
+10 you know, he lost his temper with me is that when I said that, you know, he needed a 
+11 crackerjack legal team and he wheeled out a clown car and he said maybe. Maybe. 
+12 But that's the only time he equivocated. 
+13 Q Yeah. 
+14 A He never suggested to me --what he'd always say about Rudy was that 
+15 Rudy's fighting for me. At least he fights for me. 
+16 
+17 
+18 Q 
+A 
+Q Uh-huh. 
+But he never said, you know, I'm taking what they say with a grain of salt. 
+Yeah. When you think about the clown car or the outside voices, lawyers 
+19 or otherwise, that were advising the President, who do you put in the car? Mr. Giuliani 
+20 obviously seems to be the driver. But who else was riding with him in that --those 
+21 voices pumping these meritless theories of election fraud to the President? 
+22 A Well, obviously, in terms of the election, it was Giuliani, Sidney Powell, Jenna 
+23 Ellis, and --but there were others. I think, you know, somebody who makes some 
+24 cameo appearances every once in a while is Mr. Eastman --
+25 Q Uh-huh.  1 
+2 
+3 A 
+Q 
+A --and on other issues. 
+Yeah. 
+But he would --there were also some people I'd rather not mention who, 
+4 you know have, positions in Washington, in the private sector, who would weigh in and 
+5 usually give him bad advice. 
+6 Q Did have you any interaction with Mr. Giuliani or any of those others that 
+7 you named during this postelection period? 
+8 
+9 A 
+Q During --no. 
+Engaged with them on claims they were making publicly versus what the 
+10 results of your investigations were showing? 
+11 
+12 A 
+Q Nope. 
+Okay. Who was on the other side, besides you, telling the President the 
+13 truth? Who else would you say were voices of reason or accurate information to the 
+14 President on these specific election issues? 
+I would say Cipollone and Pat Philbin. 
+Uh-huh. 48 
+15 
+16 
+17 A 
+Q 
+A I would say Herschmann over at the --and by omitting people, I don't mean 
+18 to say they were not there. 
+19 
+20 
+21 
+22 Q 
+A 
+Q 
+A Yeah. 
+I just don't have information about it. 
+Uh-huh. 
+You know, my sense of it was Robert O'Brien, you know, was a reasonable 
+23 guy, a good lawyer. And I'm sure there were others that I'm not remembering. 
+24 You know, I think at the end of the day, you know, my view was that Chad Wolf, 
+25 you know, when the chips --you know, I mean, whatever the expression is, you know,  49 
+1 when it was important to stand up, he would stand up. That was my experience with 
+2 him. 
+3 Q Yeah. Were any of those people, General Barr, present with the President 
+4 and you, conversations in which they echoed your advice or your assessment of the 
+5 evidence, Mr. Cipollone, or Meadows, or others who would --
+6 
+7 
+8 A 
+Q 
+A Yeah, I mean, Cipollone -­
+--chime in? 
+I think Cipollone told the President --I think it was --which one was it? 
+9 There was some meeting. I think this is in my book, and I can't remember which 
+10 meeting it is. 
+11 But at one meeting I said, Look, we are, Mr. President, we are looking into these 
+12 things and they're --and he said, Mr. President, the Department is, you know, doing its 
+13 job. It's looking into --
+14 
+15 
+16 Q 
+A 
+Q I see. So Mr. Cipollone to the President in your presence -­
+In my presence. And I believe he did offline as well. 
+Yeah. You mentioned Chad Wolf and DHS. Did you get some personal 
+17 briefings from them, from CISA or from DHS personnel? 
+18 A So, you know, early on, because this was coming out of the box pretty 
+19 quickly, I asked --I called --I called Chris Wray, and I said, You know, we got to get on top 
+20 of this Dominion thing because this thing is getting legs. 
+21 
+22 Q 
+A 
+23 briefings --
+24 
+25 Q 
+A Uh-huh. 
+And we have to figure this thing out. He agreed, and he set up two 
+Yeah. 
+--one after the other. I mean, it was in two different dates -- 1 
+2 
+3 
+4 
+5 Q 
+A 
+Q 
+A 
+Q Right. 
+--with DHS and FBI people -­
+Yeah. 
+--to education both of us. 50 
+Uh-huh. And is that where you got your information about, Hey, these are 
+6 just tabulation machines, paper ballots are passed through? 
+7 
+8 A 
+Q 
+9 President --
+10 
+11 
+12 
+13 
+14 A 
+Q 
+A 
+Q 
+A Yeah. I mean, they gave me a lot of comfort that this was nonsense. 
+Got it. And, again, was that part of the basis of what you conveyed to the 
+Yes. 
+--about the security? 
+Yes, definitely. 
+All right. 
+I was particularly, as I said, I was particularly disturbed by these allegations 
+15 being made about the machines because that goes --I mean, that's pretty fundamental. 
+16 And people seemed to be, you know, seemed to be believing it. And so I was focused, 
+17 you know, every time I was with the President, I raised the machines as sort of exhibit A 
+18 of how irresponsible this was. 
+19 Q Yeah. I won't show them to you. But we, I think, provided you some text 
+20 message you received from Mark Meadows that were passing along --
+21 
+22 
+23 
+24 A 
+Q 
+A 
+Q Uh-huh. 
+--links -­
+Right. 
+--or allegations. I think you said before that he never leaned on you, or he 
+25 never weighed either way with respect to the allegations. Tell us more about  51 
+1 information you received from Meadows and his personal sort of position on them? 
+2 A Well, I tried to explain to Meadows, you know, at the very beginning that he 
+3 should be careful about, you know, what people are telling him out in the field because 
+4 there are a lot of excitable, inexperienced people out there. And, you know, the 
+5 Department is appropriately vigilant. And there's an infrastructure in place to deal with 
+6 it. And we have good U.S. Attorneys. And, you know, stuff will be, if something merits 
+7 following up the, it will be followed up and either by the appropriate State people or by 
+8 us. 
+9 
+10 Q 
+A Uh-huh. 
+And --and he seemed to take that to heart. And, you know, the stuff he 
+11 sent over, he just sort of sent it, you know. 
+12 
+13 Q 
+A Yeah. 
+As I said, you know, one of the main things I was also doing is not relying on 
+14 what he sent me, but just, you know, by reading the press, what the President was saying, 
+15 what other --what his, you know, what other Republican leaders were saying is to see 
+16 what people were focused in on, the evidence of fraud. 
+17 
+18 Q 
+A Yeah. 
+But, to me, it was quite simple which is, you know, to try to set aside an 
+19 election and for an incumbent administration to say it has not been dislodged, that 
+20 requires some specific evidence --
+21 
+22 
+23 
+24 Q 
+A 
+Q 
+A Right. 
+--at the end of the day. 
+Yeah. 
+And, you know, other than thrashing out at the Department of Justice, that 
+25 was never provided.  52 
+1 Q Yeah, let me just show you one specific example, exhibit 9. Okay. If you 
+2 can --and, again, it's in your book at 9. 
+3 And for the benefit of those participating remotely, we'll put it up on the screen. 
+4 This is also produced by the Department, it looks like, from your DOJ cell phone. 
+5 It's a text exchange with Mark Meadows. If you keep scrolling down, some of it's 
+6 redacted. But the first actually unredacted portion, it's from November 4th, just the day 
+7 after the election. Mr. Meadows sends you a link from a Twitter post of James O'Keefe 
+8 and then says: 
+9 I don't know how valid or who would be the best person to investigate, but I 
+10 thought you should be aware of this. 
+11 A little bit further down, you know, later --
+12 A Yeah. 
+13 Q --there's the Carone affidavit, another link to an O'Keefe Twitter post. And 
+14 then farther down at the bottom of the page, he says: 
+15 Dale Harrison in Colorado, there may be manipulation but worth review. 
+16 
+17 
+18 A Yeah, those are the kinds of things that --
+Q Yeah. 
+A --would be flipping over to me. And basically, I would, as a matter of 
+19 course, send them or have Will Levi, my Chief of Staff, send them to follow up on that. 
+20 My recollection is that Colorado thing was to me on its face it was a joke. 
+21 
+22 
+23 but --
+24 
+25 Q Yeah. 
+A I mean, it was a guy looking into, I'm going to now rip up this Trump ballot 
+Q And he says clearly not sure. 
+A Yeah.  1 
+2 
+3 
+4 Q 
+A 
+Q 
+A Maybe. 
+Right. 
+Not pressured. 
+I was actually, you know, to --I had the feeling that Meadows was --he 53 
+5 wasn't pushing or, you know, running around with his hair on fire. It was quite 
+6 measured --
+7 
+8 Q 
+A Yeah. 
+--when they send something over. And he never, you know --and he just 
+9 said, I'm not sure. 
+10 
+11 Q 
+A Understood. 
+You know, sometimes --there was one there I saw over, it just sort of said, 
+12 you know, Tom Fitton --
+13 
+14 
+15 
+16 Q 
+A 
+Q 
+A Uh-huh. 
+--had sent something and it might be getting some attention. 
+Yeah. 
+My own feeling was that the President was giving him this stuff and he was 
+17 keeping his desk clean by sending it over to over to me and saying to the President the 
+18 right people have this. 
+19 
+20 Q Got it. A little far thorough down, Grant. 
+He texted you Ken Starr's CV. Do you recall any discussion with him why he was 
+21 sending you Judge Starr's CV? 
+22 
+23 
+24 
+25 A 
+Q 
+A 
+Q You know, I looked at that, and I can't remember that. I don't know why. 
+Yeah. 
+When was that? 
+That was Saturday, December the 5th, and just a CV without any text. And  1 then a couple of days later you respond: Please call when you get the chance. 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 A Where was that? 
+Q That's just a little further down in the same text. 
+Mr. Snyder. Is that 18 or 8? 
+BY 
+Q Oh, I'm sorry. That might be 18, yes. 
+A That might not even relate --
+Q Yeah, it could be different. 
+A Yeah, but I can't remember why Starr came up. 
+Q Yeah, okay. Okay. Okay. 
+Let me now --
+Ms. Cheney. -I've got a question. 
+Yeah, please, Ms. Cheney. Go ahead. 
+Ms. Cheney. Thank you. 54 
+15 General Barr, that text on the 18th, that's the same day that there was a meeting, 
+16 a long meeting, as you probably may be aware, with Sidney Powell and Mike Flynn in the 
+17 Oval Office. Did you have any discussions with anyone in the White House about that 
+18 meeting? 
+19 
+20 Mr. Barr. So which one was that? 
+Ms. Cheney. This was on December 18th. General Powell or --sorry --Sidney 
+21 Powell, General Flynn, Patrick Byrne, a number of individuals. 
+22 It's a Friday night at the White House. 
+23 Mr. Barr. No, I didn't hear --I didn't hear about that meeting until after I left. 
+24 That's my best recollection. It sounded like crazy stuff. People were yelling. I think 
+25 that's one where Hersch --I think as it was described to me, you know, Herschmann was  55 
+1 very pointed in his remarks and I think Meadows came into that meeting and actually 
+2 pushed hard back on it. 
+3 Was that the meeting? 
+4 Yes, that's exactly right. 
+5 Mr. Barr. So that's how it was described to me, that Meadows sort of showed up 
+6 and strongly pushed back on some of the crazy stuff that was being thrown out there by 
+7 those people. 
+8 
+9 
+10 
+11 Ms. Cheney. And --
+Mr. Barr. But I don't recall --I don't recall hearing about that until after I left. 
+Ms. Cheney. And do you --and who did you --from whom did you hear it? 
+Mr. Barr. There was a period of time where people were very guarded. But I 
+12 think over time, I mean, I'm talking about well after I left, people would make comments 
+13 like, you know, you don't know the half of it of how surreal some of this stuff was. And I 
+14 really can't remember who gave me the blow by blow. 
+15 Ms. Cheney. Um --
+16 Mr. Barr. It was somebody who was there. 
+17 Ms. Cheney. Okay. Was it Mr. Herschmann? 
+18 
+19 
+20 
+21 
+22 Mr. Barr. I can't remember. 
+Ms. Cheney. Did you have any discussions about --with Mr. Eastman? 
+Mr. Barr. Did I have discussions with Eastman? 
+Ms. Cheney. Yes. 
+Mr. Barr. Yes, but not about the theory he had of how the Vice President had 
+23 unilateral authority to pick the next President, but it was about birthright citizenship. 
+24 The President cited that, him to me, as, you know, someone who had this great idea 
+25 about how you could eliminate birthright citizenship by executive order, and I told him I  56 
+1 thought that was wrong. And he kept on invoking Eastman. So I asked Eastman to 
+2 come over to my office and explain this to me, and I think he did a very good job of it. 
+3 And when he left, he said, you know, I think you're right. That would be the 
+4 wrong thing to do. And, you know, it wouldn't really work legally and practically. 
+5 And I said, well, be sure and tell that to the President. And that was my last 
+6 discussion with Eastman. 
+7 Ms. Cheney. Did you --you mentioned --I'm sorry --just a minute ago when you 
+8 said that someone had given you sort of the blow by blow of the December 18th meeting, 
+9 what was the blow by blow that they gave you? 
+10 A Well, blow by blow, I guess, might be an exaggeration. It was more like 
+11 that, as I recall --and there were a number of meetings that happened after I left and 
+12 they sort of lumped together. But I think there was this meeting where Flynn was there, 
+13 Byrne, the former CEO of Overstock, I think Sidney Powell. 
+14 And Flynn was being particularly assertive about something. I think he may have 
+15 been talking about using military --is that --I don't know. But, anyway, people got 
+16 into --I think Meadows and Herschmann got into it with him. That's what I was told. 
+17 
+18 Ms. Cheney. And did you --
+Mr. Barr. I heard, you know, I think one of them --I think it was Herschmann 
+19 dressed down Flynn. And I think Meadows did, too. So, but that's the level of 
+20 discussion. I don't really --wasn't told deep, you know, then he said this, then he said 
+21 that. 
+22 Ms. Cheney. Did --were you told anything about whether or not Sidney Powell 
+23 was appointed as special counsel? 
+24 Mr. Barr. After I left, I heard something about how the President considered 
+25 appointing Sidney Powell as special counsel.  57 
+1 Ms. Cheney. And what is --did you hear about that during the administration 
+2 itself or after the 20th? 
+3 Mr. Barr. I think it was after I left. So what happened was, on December 14th I 
+4 tendered my resignation --my resignation and the President immediately went to start 
+5 dealing with Rosen and Donoghue. And, you know, they would keep me generally 
+6 advised. But they knew I was on the way out, and so I wasn't necessarily involved day to 
+7 day on that kind of stuff with the White House. 
+8 And but I knew that Rosen and Donoghue were, you know, holding the line. And 
+9 it's hard for me to say whether I heard about this before or after I left. My impression is 
+10 it was after I left, which was the 23rd, but there was this period where I was sort of in 
+11 limbo. I wasn't, you know, handling the White House stuff. 
+12 Ms. Cheney. Okay. And about an hour after the meeting ended on the 18th, 
+13 and it ended close to midnight, President Trump sent out a tweet, urging people to come 
+14 to Washington on January 6th and said, you know, it will be wild. So that was early in 
+15 the morning of December 19th. Do you recall hearing about that tweet? 
+16 Mr. Barr. I don't recall that it was a tweet. But I remember hearing about 
+17 some kind of event on January 6th, and I remember the President talking about an event 
+18 on January 6th. And I remember thinking to myself, What's that all about? And in my 
+19 mind's eye at that stage, I thought it was going to be, like, one of his campaign rallies. 
+20 You know, he had a big crowd and he's up there, talking. That's how I thought about it 
+21 when I first heard about it. But that's --I just heard it in passing that there was --there 
+22 would be something on January 6th. 
+23 Ms. Cheney. So was this in a meeting with the President? 
+24 Mr. Barr. I don't think so. I can't remember if I heard it --I don't think I heard it 
+25 from the President. I think someone else mentioned it or I read about it or something  1 like that. 
+2 
+3 Ms. Cheney. So you don't --you don't recall the time --
+Mr. Barr. I remember either reading about the President talking about 
+4 January 6th, about something on January 6th. And I'm just sort of wondering about 
+5 that. 
+6 Ms. Cheney. Do you recall if you had any discussions with Mr. Cipollone about 
+7 January 6th? 
+8 
+9 
+10 Mr. Barr. Before I left? 
+Ms. Cheney. Either before you left or after you left. 
+Mr. Barr. I can't remember anything before I left. And after I left, he hasn't 
+11 discussed with me, you know, his knowledge of it or his participation. But he's simply, 58 
+12 like, you know, this has become a big deal. And, obviously, there's no question of that. 
+13 Ms. Cheney. And did you have any --did any cabinet officials contact you --and I 
+14 realize you were gone already. But did any cabinet officials contact you after the 6th to 
+15 discuss the 25th Amendment? 
+16 
+17 Mr. Barr. No. 
+Ms. Cheney. Have any cabinet officials contacted you since then or any Trump 
+18 cabinet officials discussed with you since then arrangements inside the White House after 
+19 the 6th? 
+20 Mr. Barr. So I think one person who called me while I was still there, I think, was 
+21 Gene Scalia. This is after I announced --I think it was after I announced I was leaving. 
+22 And he was asking my advice about what he should do and what my perceptions were. 
+23 And I don't, you know, I don't recall him raising the 25th Amendment. I don't 
+24 recall a discussion about the 25th Amendment. But I think the only Cabinet secretary I 
+25 can actually remember talking to, other than Pompeo, when I had dinner with him on the  1 1st, and I think some of them called me to say goodbye. But I don't recall discussing 
+2 ongoing business with them. 
+3 
+4 
+5 Ms. Cheney. But you did have a discussion with Secretary Scalia? 
+Mr. Barr. Yes. 
+Ms. Cheney. About --give us some information, some details about that 
+6 discussion. 59 
+7 Mr. Barr. He just wondered what his --you know, what I thought he should think 
+8 about doing. I mean, the choices basically were to leave or to stay and try to help and 
+9 he wanted to talk that through. 
+10 Ms. Cheney. And you think this was around the time that your resignation 
+11 became public? 
+12 Mr. Barr. Yeah, I think this --my best recollection is it was sometime after I 
+13 resigned, before I left. It could have been after I left, you know. I just can't remember. 
+14 Ms. Cheney. Do you think that it was in conjunction with January 6th or it was 
+15 concerns before January 6th. 
+16 Mr. Barr. That's a good question. I think it was after January 6th. Yeah, I 
+17 think that was after January 6th because I think the thing that could have precipitated 
+18 it --let me put it this way: My best recollection now, having --you having raised 
+19 January 6th, is it was after January 6th. But --
+20 Ms. Cheney. And --I'm sorry. Go ahead. 
+21 Mr. Barr. You know, I don't have a clear recollection of it, other than he and I 
+22 have been friends for a long time. He used to work for --I was his first job in 
+23 Washington. He and I have been friends for a long time. He just wanted to know what 
+24 I thought he should do. 
+25 Ms. Cheney. And any specific details about that?  1 Mr. Barr. I can't rule out. You know, I --the fact is I just don't recall whether 
+2 the 25th Amendment was discussed. It could have been. I can't recall that. And if I 
+3 remember it, I wouldn't hesitate to say I remember it. It's not a big deal to me. 
+4 
+5 Ms. Cheney. No, I appreciate that. 
+Mr. Barr. I'm not trying to avoid talking about the 25th Amendment. I just 
+6 don't remember it. 
+7 Ms. Cheney. Did --in terms of that phone call, do you recall if it was --you 60 
+8 mentioned that it was about what he should do. Did he ask you about what members of 
+9 the cabinet should do, whether or not it involved the 25th Amendment? 
+10 Mr. Barr. The way I remember it, it was mainly what he should do, and did I 
+11 have any advice about how to sort of handle things constructively going forward. And I 
+12 had --I had a --my basic view on the thing was that he wasn't listening to his cabinet. 
+13 He was listening to people, you know, to the people who told him what he wanted to 
+14 hear. 
+15 
+16 
+17 Can you hear me okay? I guess I'm leaning away. 
+The closer you are to the mic, the better. 
+Mr. Barr. But I felt he was in the mode of just hanging out with sycophants and 
+18 people who told him, were telling him what he wanted to hear, and that it was a waste of 
+19 time for Cabinet secretaries to hang around. 
+20 Ms. Cheney. What --what is --what was your view about the 25th Amendment 
+21 and its applicability here? 
+22 Mr. Barr. I had --you know, I haven't studied the 25th Amendment. And I 
+23 probably will not --I probably would have felt this, too, will pass very shortly, and I'm not 
+24 sure it's necessary to invoke it, but I hadn't really thought about it. 
+25 Ms. Cheney. And what about your conversation with Secretary Pompeo?  1 
+2 Mr. Barr. Excuse me? 
+Ms. Cheney. What about your conversation with Secretary Pompeo? You 
+3 mentioned that you and he had dinner together on the 1st. 
+4 Mr. Barr. Yeah, it was after the President's aborted firing of me and we had a 61 
+5 dinner. And he --I didn't tell him about the meeting, but he had read about what I had 
+6 said to the AP reporter. 
+7 And he said, Look --something to the effect of, You look like you still have your 
+8 job. 
+9 And I told him that, you know, that I felt that before the election, it was possible 
+10 to talk sense to the President. And while you sometimes had to engage in, you know, a 
+11 big wrestling match with him, that it was possible to keep things on track. But I 
+12 was --felt that after the election he didn't seem to be listening. And I didn't think it 
+13 was --you know, that I was inclined not to stay around if he wasn't listening to advice 
+14 from me or the Cabinet secretaries. 
+15 He did not react to that, as I recall. But he raised the Defense Department and 
+16 the fact --he said did you know that after Esper left, that he's appointed Chris Miller and 
+17 Kash Patel is gone over there. And he said he was concerned about the lack of gray hair. 
+18 He thought that our adversaries could take advantage of the situation. And because of 
+19 the --what he felt was a suboptimal civilian leadership or a thinness of civilian leadership 
+20 over at the Department, he was trying to stay on top of it. 
+21 And he was having regular phone calls with Milley, Gina Haspel, and Mark 
+22 Meadows. And he said he's having regular calls about that and I think, you know, maybe 
+23 Ambassador Robert --O'Brien was also involved. 
+24 
+25 Ms. Cheney. And was this discussion --was this on December 1st or January 1st? 
+Mr. Barr. December 1st.  62 
+1 Ms. Cheney. Okay. And in the period of time after the election, when, you 
+2 know, you describe the President's not listening and then especially after the 6th, were 
+3 you concerned about a situation in which the President of the United States is not 
+4 listening to his Cabinet in the way that you've described? 
+5 Mr. Barr. Well, you know, part of the reason, you know, December 14th was the 
+6 day that the State certified their votes, and sent them to Congress. And my view, that 
+7 was the end of the matter. I didn't see --you know, I thought that this would lead 
+8 inexorably to a new administration. I was not aware at that time of any theory, you 
+9 know, why this could be reversed. 
+10 And so I felt that the die was cast, and I didn't think that it was really going to be 
+11 any damage done. I thought, you know, the leadership, the legal leadership, the legal 
+12 terrain, you know, Justice Department, DHS, and then the military, you know, I thought 
+13 particularly General Milley, after Esper left, that there was not going to be any mischief. 
+14 No one was going to go along with anything crazy. 
+15 Ms. Cheney. Were you aware of any discussions about the President appointing 
+16 Jeff Clark as Attorney General? 
+17 Mr. Barr. No, not until after, you know, after I left. 
+18 Ms. Cheney. And tell us about the discussions after you left. 
+19 Mr. Barr. All I heard was people were sandbagged, that I think Rosen was called 
+20 over a meeting or, you know, found out about some meeting where the President had 
+21 made some tentative decision, or at least was entertaining the idea of appointing Clark 
+22 Acting Attorney General, because Clark was more sympathetic to actions the President 
+23 wanted to take and believed that there might have been fraud in the election. 
+24 So, you know, and that people forcefully pushed back, particularly, you know, Pat 
+25 and Pak from the counsel's office and Rosen and Donoghue.  63 
+1 
+2 [12:03 p.m.] 
+3 Ms. Cheney. And did you hear about this as it was happening? 
+4 Mr. Barr. No. No. Later. I was aghast. I never thought Clark, you 
+5 know --he didn't strike me as the type of person to do that type of thing, so I was --
+6 Ms. Cheney. Thank you. 
+7 So, General Barr, I know we promised you 2 hours. I have about 
+8 10 or 15 minutes left. I'm hopeful we can press on and just finish? 
+9 
+10 Mr. Barr. Yeah. I'd just as soon finish. 
+Okay. Great. Thank you. 
+11 Mr. Schiff. 1111 I've got a few questions, as well, when you get a chance. 
+12 Go ahead, Mr. Schiff. You can jump in here. 
+13 Mr. Schiff. And, -please tell me --I'm trying to turn my camera on. Sorry. 
+14 And,_ please tell me if you've covered this ground, and I'll get the transcript. 
+15 My flight was delayed, so I apologize, I wasn't here at the beginning. 
+16 
+17 Okay. Sure. 
+Mr. Schiff. Mr. Attorney General, did allegations about irregularities or fraud in 
+18 Georgia come to your attention at some point? 
+19 We have covered a lot of this already, Mr. Schiff, the allegations in 
+20 Georgia. 
+21 Mr. Barr. I went into detail on the Fulton County video, which I spent a lot of 
+22 time on, ensuring, you know, that we had a view on that, in addition to GBl's 
+23 investigation. And I asked the U.S. attorney to have some interviews conducted. And, 
+24 you know, he concluded, I concluded, there was nothing to it. And I went over that. 
+25 Mr. Schiff. Thank you.  64 
+General Barr, if you can pull the microphone just a little closer. 1 
+2 Mr. Schiff. And, Mr. Attorney General, did you also discuss already --and if you 
+3 did, again, I'll get the transcript --the circumstances under which the U.S. attorney 
+4 curtailed his service? 
+5 Mr. Barr. I heard about that after I left, and I was very upset by it, because I 
+6 thought he was an excellent U.S. attorney. You're talking about BJay Pak in Atlanta? 
+7 
+8 Mr. Schiff. Yes. 
+Mr. Barr. And I never got an explanation for what happened there, other 
+9 than --you know, I don't think Rosen and Donoghue wanted him to leave; I think it was 
+10 the White House that was --he had already told me, even before I left the Department, 
+11 that he was going to be leaving shortly. 
+12 So he was planning on leaving and going to a firm, but I think he was sort 
+13 of --maybe that was accelerated by somebody in the White House. I don't know who it 
+14 was. 
+15 Mr. Schiff. And you mention that you were upset by how he was treated. Was 
+16 it your understanding that he was forced out prematurely because he looked at the 
+17 allegations of fraud in Georgia and found them to be without any merit? 
+18 Mr. Barr. That's what I believe. I believe that because of his conclusion and my 
+19 conclusion that they were without merit, you know, someone struck out at him by trying 
+20 to have him leave prematurely. 
+21 Mr. Schiff. And how did you come to form that opinion? Did someone discuss 
+22 that with you? 
+23 Mr. Barr. Well, no. I mean, there was no other --number one, there was no 
+24 reason for him to leave when he did since he was going to be leaving anyway. And it 
+25 wasn't his choice to leave. And I knew that Rosen and Donoghue thought highly of him  65 
+1 and were not in for sacking him. So I figured it must have been the President or 
+2 someone carrying out the President's wishes. 
+3 Mr. Schiff. Mr. Attorney General, tell me if you've covered this already, and, 
+4 again, I'll go back over the record. Was it ever brought to your attention that, as a result 
+5 of the President, Rudy Giuliani, and others making these claims about the election 
+6 workers in Fulton County, that they were receiving death threats and their lives may be 
+7 put at risk? 
+8 Mr. Barr. I don't recall that being brought to my attention. It could've been, 
+9 but, I mean --that, as a result of his allegations, that those death threats were being 
+10 made? Is that what you're saying? 
+11 Mr. Schiff. Yeah, that the repetition of these false claims about what happened 
+12 in Georgia were putting people at risk. Did that ever come to your attention? 
+13 Mr. Barr. I don't recall that being brought to my attention, but it doesn't surprise 
+14 me, and it may have been brought to my attention. I mean, I felt --generally speaking, I 
+15 felt making casual claims of fraud was irresponsible for a host of reasons. 
+16 Mr. Schiff. And I don't know the parameters of our discussion today, but are you 
+17 able to share with us any conversations you had with the President about the effect of 
+18 these false claims of fraud --the effect on risk to people, the effect on people's 
+19 confidence in our election system? 
+20 Mr. Barr. No, just what I've --I've been through --I had three discussions with 
+21 the President that I can recall. One was on November 23rd, one was on December 1st, 
+22 and one was on December 14th. And I've been through, sort of, the give-and-take of 
+23 those discussions. 
+24 And, in that context, I made clear I did not agree with the idea of saying the 
+25 election was stolen and putting out this stuff which I told the President was bullshit.  66 
+1 And, you know, I didn't want to be a part of it. And that's one of the reasons that went 
+2 into me deciding to leave when I did. 
+3 I observed, I think it was on December 1st, that --you know, I believe you can't 
+4 live in a world where the incumbent administration stays in power based on its view, 
+5 unsupported by specific evidence, that the election --that there was fraud in the election. 
+6 
+7 
+8 
+9 Voice. You said it was wrong. 
+Mr. Barr. What? 
+Voice. You said it was wrong. 
+Mr. Barr. Yeah. 
+10 People are reminding me, earlier in the transcript, I told the President I thought it 
+11 was wrong for them to be shoveling out this stuff. 
+12 Mr. Schiff. Thank you, Mr. Attorney General. I appreciate your covering that 
+13 ground with me. 
+14 Back to you, 
+15 
+16 
+17 
+18 
+19 Yeah. Thanks, Mr. Schiff. 
+Okay. Any other members have questions before I kind of finish up? 
+No? Okay. 
+BY 
+Q Attorney General Barr, I just have a couple questions about the summer of 
+20 2020. I wanted to ask you if you were involved in discussions with the President during 
+21 the summer of 2020, particularly the protest in Washington, D.C., regarding the possible 
+22 invocation of the Insurrection Act. 
+23 
+24 A 
+Q Yes. 
+Did the President raise the prospect of deploying Active Duty military to the 
+25 streets of Washington and other cities in the U.S. as a means to quell violent protests in  1 the wake of the murder of George Floyd? 
+Yes. 
+Tell us about the discussions you had with the -­
+You know, that's --that's in my book. 
+I knew the answer to the question before I asked it. 67 
+2 
+3 
+4 
+5 
+6 A 
+Q 
+A 
+Q 
+A So it was on the morning of June 1st; I was called over to a meeting at 10:30 
+7 in the Oval Office. It was supposed to be a prep meeting. Initially, it was scheduled as 
+8 a prep meeting for an 11 o'clock conference call the President was going to have with 
+9 Governors about all the unrest, which in Washington had been pretty severe on the 29th, 
+10 30th, and I think the 31st --
+11 
+12 Q 
+A Right. 
+--there were three nights in a row --and was also elsewhere in the country 
+13 the same pattern generally. 
+14 And when I came to the meeting, which was already underway or had just gotten 
+15 started, a lot of people were there, people were standing up in the corners, a lot of law 
+16 enforcement --I mean, people from the White House staff and some of the law 
+17 enforcement agencies. And he waved me up to sit in front of his desk along with Esper 
+18 and Milley and I think --Chad, I think, was there. 
+19 
+20 
+21 
+22 Q 
+A 
+Q 
+A This is in the Oval Office? 
+Yes. 
+Uh-huh. 
+And he was very upset at the news that had come out that he had been 
+23 taken down to the bunker in the preceding days, you know, when some of the rioting 
+24 right by the White House was at its worst. He was very upset by this, and, as I recall, he 
+25 bellowed at everyone sitting in front of him in a semicircle and he waved his finger  68 
+1 around the semicircle saying we were losers, we were losers, we were all fucking losers. 
+2 And I could see that the guys from DOD didn't like that, and I didn't like it particularly 
+3 either. 
+4 And then he said, you know, for this rioting to be going on right by the White 
+5 House and fires right across the street from the White House --you know, there had been 
+6 some fires --and, can you imagine the impact this has on the world when they see this 
+7 right by the White House, and, you know, we have to get this under control, and so forth. 
+8 So --
+9 Q Let me stop you there. Was he upset about the fires and the rioting, or 
+10 was he upset about the coverage that he had personally been taken to the bunker? 
+11 A Well, I think the thing that had gotten him --you know, maybe this is 
+12 speculative --the thing that seemed to be under his skin was that he was taken to the 
+13 bunker, but what he articulated after calling us all losers was that he was worried about 
+14 the impact that these visuals would have on the world. 
+15 And so, you know, in the course of that --so people started talking about what the 
+16 plans were. And there was a discussion of moving the perimeter and building a fence up 
+17 near Lafayette and H Street. And then there was a discussion of --well, he then 
+18 raised --you know, he talked about whether he should invoke the Insurrection Act --
+19 
+20 Q 
+A Yeah. 
+--to get regular military in. And then there was a discussion of the 
+21 Insurrection Act. 
+22 And, you know, my position was that the Insurrection Act should only be invoked 
+23 when you really need to invoke it as a last resort, when you don't really have other assets 
+24 that can deal with civil unrest. 
+25 And the military guys were very outspoken. Milley, you know, said, that's for  69 
+1 real insurrection, I mean, you know, like Lincoln had. I think that was at that meeting. 
+2 And so I walked the President through the Insurrection Act, because the last few 
+3 times it had been used I had been intimately involved in it. And I explained the act and 
+4 explained what the predicates are. And the President does have discretion. 
+5 I said, look, Mr. President, if people's life and property are depending on it and, 
+6 you know, we had to use military force to protect the function of the Federal Government 
+7 or to protect life and property because there wasn't another way to do it, you know, I 
+8 wouldn't hesitate. You know, I mean, I did it twice. I was involved in --
+9 
+10 Q 
+A When you were Attorney General the first time. 
+--recommending it twice --yeah, yeah --in St. Croix, Virgin Islands, and in 
+11 Los Angeles, where there were 7,000 fires, you know, set in Los Angeles and dozens of 
+12 people killed. So --and, you know, the National Guard could not get deployed quickly 
+13 enough. 
+14 
+15 Q 
+A Uh-huh. 
+So, you know, I think the military guys and me and Chad, we all agreed that 
+16 we had enough without using the military. 
+17 And, furthermore, the other thing is that D.C. is unique because the Secretary of 
+18 the Army can deploy National Guard, is treated like the Governor of the State for 
+19 purposes of D.C. 
+20 And Milley explained that --first, D.C. has, like, 1,200 military police units --I 
+21 mean, individuals in the National Guard. So they're the best people to be used for this, 
+22 military police, because they're trained to deal with this kind of stuff. I think it's roughly 
+23 1,200 in the D.C. National Guard --and that they would be coming in and that there were 
+24 arrangements to bring in National Guard from other States. So there was a reservoir of 
+25 National Guard military police units that would be available.  70 
+1 And I said, you know, that I can muster over 2,000 civilian law enforcement and 
+2 we felt we had adequate resources and didn't need --but, you know, if he wanted to have 
+3 them on standby, that's okay. You know, in case we really need them, they'd be there. 
+4 But it was not a good idea to deploy them, and we didn't think it was necessary. 
+5 You know, the background rule, the general rule, is Posse Comitatus, which is, you 
+6 know, the prohibition on using military for law enforcement in the United States. And 
+7 the reason for that is, you don't want your military to be in conflict with your civilian 
+8 population, you know, the civilians. You don't want conflict between them. You don't 
+9 want the civilians thinking of the military as an occupying force, essentially. 
+10 
+11 Q 
+A Yeah. 
+And so that's the general rule, and there's an exception where you really 
+12 need to use the military to restore order. And our basic point was, you don't really need 
+13 it. 
+14 Q Yeah. How did he react when you explained to him --
+15 A He had to be persuaded, but everybody he was facing --you know, he was 
+16 facing DOD, DOJ, and DHS. And he eventually said, okay, well, just have them --he 
+17 agreed to have the military standing by. 
+18 
+19 Q 
+A Uh-huh. 
+So they had --I forget if they had already put it in motion or they said they 
+20 would, but they had military police units, I think, from the 10th Mountain Division and the 
+21 82nd Airborne, you know, would be standing by. And they also pointed out there was a 
+22 whole regiment up at Fort Myer if needed. 
+23 Q Uh-huh. 
+24 Did that discussion, General Barr, continue to come up over the course of the 
+25 summer when there were protests in other -- 71 
+1 A You know, as I said in the book, the President seemed to want to make a 
+2 statement by using the military. And that's what was resisted by both DOD and by me 
+3 and by --you know, I think Chad Wolf agreed with that too. 
+4 And, you know, the strange thing was, he then went from --so, in that meeting, in 
+5 the 10:30 meeting, he pointed at Milley and he said, you know, "You're going to be in 
+6 charge, I want to you lead this thing," talking about dealing with civil unrest. And --
+7 
+8 Q 
+A In Washington or across the country? 
+I think it was across the country, but could've been just Washington. I think 
+9 it was certainly in Washington and maybe even broader. He said, "You're in charge. 
+10 want you to be out there. You're going to take charge of this." And that's when I think 
+11 Milley said, "Look, this is not a military mission, and the military isn't going to be in charge 
+12 of it." 
+13 And I said something like, look, you know, it's one thing to put the military in 
+14 charge when you're faced with a civil war, you know, an actual armed insurrection, okay, 
+15 but something like this, it doesn't make sense. And the President said, okay, okay. 
+16 And Milley said, well, there should be a civilian agency that should take the lead, 
+17 and we can provide support to the civilian agency. And the President then pointed to 
+18 me and said, "Okay, you take the lead. You tell Milley what you need. And you 
+19 provide support to the Attorney General." 
+20 
+21 
+22 Q 
+A 
+Q 
+23 agency --
+24 A Uh-huh. 
+And that's how we left the meeting. 
+With the understanding that you, meaning DOJ, was sort of the lead 
+Yeah, whatever he meant by that, but the point was, Defense Department 
+25 was no longer going to be in charge.  72 
+Uh-huh. 1 
+2 Q 
+A So then we go walking into the Governors meeting, and the President says, "I 
+3 have with me General Milley. I'm putting him in charge." I mean, the transcript speaks 
+4 for itself; I'm --
+5 
+6 Q 
+A Yeah. 
+--just going by recollection, but --and, you know, "He's never lost a battle, 
+7 and he doesn't like what he's seeing out there," and --you know. And he kept --and 
+8 he's talking about Milley being in charge. Esper and Milley looked at each other like, 
+9 "What did we get from the last meeting?" 
+10 But, anyway, that's not how it went down. And, later, you know, I met with 
+11 Milley and Esper and we agreed on, you know, what National Guard units would be 
+12 coming in and what their general assignments would be. And so that was all on June the 
+13 1st. 
+14 Then, during the summer, he raised using the military in Portland 
+15 and --particularly in Portland, and, you know, he made sounds about the need to deal 
+16 with the remaining violence. And I said, it's really limited to Portland and some in 
+17 Seattle, and it's contained. It's ebbed in the rest of--
+18 Q Right. 
+19 A --the country. And I think if you send the regular military in to 
+20 Portland --you know, I went through all the problems with doing it, not just the legal 
+21 issues --because I said, you know, I'm not sure --you know, if you want us to protect the 
+22 courthouse, we have the courthouse protected, okay? I said, if you want to, you know, 
+23 restore order to the entire city and pacify this city, you know, I think we're going to run 
+24 into all kinds of legal problems, and judges are not going to support the detention of 
+25 people by the military.  1 
+2 Q 
+A 73 
+Uh-huh. 
+And, you know, you're just going to be putting our military in a position 
+3 where they're going to have bricks thrown at them, you know, by these rioters, and we're 
+4 just going to look more impotent. 
+5 And I said, but even the worse thing would be if --I guarantee you that if you send 
+6 regular military into Portland, there will be sympathy demonstrations in every city in the 
+7 country --
+8 
+9 Q 
+A Uh-huh. 
+--that will turn into riots. And then, you know, a lot of the Governors and 
+10 mayors are going to say, you broke it, you fix it. And I said, we don't have enough in the 
+11 Federal Government to deal with that across the country. 
+12 
+13 Q 
+A Yeah. 
+So I had to talk him out of it a few times, but he kept on saying that we 
+14 looked weak, and, you know, he obviously had an itch to use the military. 
+15 Q You say in your book: "Throughout the summer, using the military was one 
+16 of the President's fixations that had to be batted down on a regular basis. That mission 
+17 frequently fell to me. I had no problem using the military to restore law and order, but I 
+18 felt it should be a last resort. I argued instead that State and local governments had the 
+19 wherewithal to deal with the rioting. We should press them to act and, where 
+20 necessary, call up their own National Guard to provide whatever additional manpower 
+21 was needed." 
+22 
+23 
+24 
+25 A 
+Q 
+A 
+Q That's right. 
+Fair summary of it. It was, it sounds like, a repeated conversation -­
+Yeah, I mean, I got called in on Portland two or three times at least. 
+Yeah.  74 
+1 You also mentioned that he wanted to look tough or send a tough message. 
+2 Were you ever present when he talked about things like shooting protesters in the legs or 
+3 very specific things that he thought would send a message of toughness? 
+4 A I don't recall that. It's possible he said something like that. I was in a 
+5 number of meetings with the DOD guys and me. 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 Q 
+A 
+Q 
+A 
+Q 
+A 
+Q 
+A Yeah. 
+It's possible he said something like that. I --
+Secretary Esper, in his book, talks about this notion of shooting protesters -­
+Yeah. 
+--in the leg. 
+But I can't remember when he said that conversation occurred. 
+Okay. 
+I think they had some conversations the day before the 1st. If it occurred 
+14 then, I wasn't around. If it occurred when I was around, I didn't give it any --you know, I 
+15 dismissed it as --
+16 
+17 
+18 Q 
+A 
+Q Yeah. 
+--you know, idle babble. 
+Okay. I understand. 
+19 Do you recall --last question on this Insurrection Act topic --that that issue was 
+20 raised again in any way in connection with the election, either before the election or after 
+21 the election, the use of troops at polling stations or the use of military troops in any way? 
+22 And you're gone by January 6th, but, specifically, whether that discussion was 
+23 repeated in preparation for January 6th? 
+24 
+25 A 
+Q In preparation for the 6th or the election? 
+Well, either. Whether it came up again beyond the protests in the  75 
+1 summer. 
+2 A I can't --you know, I honestly can't remember a discussion of using the 
+3 military either for the election and certainly not for January 6th. 
+Okay. 4 
+5 Q 
+A I mean, if someone had said to me, you know, let's put the military at polling 
+6 stations, I said, "That is a nonstarter, forget about that," you know. 
+7 
+8 
+9 
+10 Q 
+A 
+Q 
+A But you don't recall any such conversation? 
+No. 
+Okay. 
+But I don't recall that coming up. 
+11 I heard later that there was some draft executive order --after I left, I heard there 
+12 was a draft executive order. 
+13 Yeah Q 
+15 
+16 
+17 
+18 
+19 Justice. A 
+Q 
+A 
+Q 
+A But I don't recall --I don't think that came through the Department of 
+Okay. 
+The normal process would have been for that to be reviewed by OLC. 
+Right. 
+I never was told it was being reviewed. I doubt it came over. And I think 
+20 that would've been not approved by DOJ, certainly not by me. 
+21 
+22 
+23 Q Yeah. 
+A couple more things you say in your book that I just wanted to ask you about. 
+You say that the President at one point said, "Do you know what the secret is of a 
+24 really good tweet? Just the right amount of crazy." 
+25 I was wondering the context for that and your interpretation of what he meant.  76 
+1 A Well, just before the IG's report was going to be published on Crossfire 
+2 Hurricane, I went over to brief the President generally on what the report would be so he 
+3 wasn't completely blind-sided by it when it came out. And it was actually, generally, 
+4 something the President would view as favorable. 
+5 
+6 Q Sure. 
+A And so, after I described Horowitz's findings, you know, the meeting was 
+7 breaking up, and he said playfully --this was an occasion where, even though this was 
+8 while the impeachment stuff was going on, he was in a playful mood. And he said, 
+9 "Well, I think I'm going to go out and tweet about this." 
+10 And then he looked over and he saw my look of discomfort, and he said, "You 
+11 know what makes for a good tweet?" And I said, "What?" He said, "Just the right 
+12 amount of crazy." And he smiled and laughed, and I laughed. 
+13 
+14 
+15 
+16 Q 
+A 
+Q Uh-huh. 
+I took it as a joke. 
+I see. 
+You also say in your book: "Trump didn't care if my decisions were right, so 
+17 much as whether they helped him. He had trouble distinguishing between the two." 
+18 A Yeah, I think that's self---
+19 
+20 
+21 
+22 
+23 
+24 
+25 Q What was the context of that? 
+A I forgot where I put that in the book. 
+Q Page 324. 
+A What was I discussing? 
+Q I don't remember. 
+A Oh, okay. 
+Q Just as an example of that, or what, sort of, informed that line in your book,  1 that he was more concerned about you helping him or your decisions helping him than 
+2 what was right. 
+3 
+4 
+5 
+6 A I mean, I think that came up --uh --
+Mr. Burnham. Here it is, if you want to see it. 
+Thank you, •. 
+Mr. Barr. Oh, yeah. Because that's actually, you know --that was one I was 
+7 going to say. You know, he --I made the decision about Corney during the summer of 
+8 2019. That was an IG report. 
+9 
+10 
+11 Q 
+A BY 
+Uh-huh. 
+It was about him taking his memos for the record and giving a number of 
+12 them, not all of them, to his lawyer, to a guy named Richman. 
+13 And I made the decision, based on all the recommendations up the whole chain, 77 
+14 that that was not going to be prosecuted. But that decision was delayed until after the 
+15 report --that wouldn't be known until the report was published. I think the report was 
+16 published maybe at the end of the summer of 2019. 
+17 And the President was extremely mad at me. And he was not asking, you know, 
+18 that I change it; he realized, once it was published, that that decision had been made, 
+19 that was it. But he, you know, excoriated me for it and said he couldn't fathom it, 
+20 because he claimed he had read the report and it was a slam dunk. 
+21 And so, you know, that's an example. 
+22 
+23 Q 
+A Yeah. 
+And, you know, I kept on explaining, you know, on things --you know, he 
+24 wanted --he never asked me for details of Durham or anything, which was actually sort of 
+25 surprising. I mean, he behaved himself fairly well. But he obviously, through his  1 tweets and everything else, was very impatient for --
+2 
+3 
+4 
+5 
+6 Q 
+A 
+Q 
+A Yeah. 
+--action to be taken. 
+Because it would somehow be perceived to be beneficial to him? 
+Right. 
+And I said, look, we have to trust in our process there, you know. We hold the 
+7 power of prosecution. We don't wield it against people unless we feel there is an 
+8 adequate basis for it, which means we feel we have to have proof beyond a reasonable 
+9 doubt and could prove to a non-biased jury that a crime was committed, and I'm not 
+10 going to change that standard. 78 
+11 And, you know, I had had these conversations with him, that, you know, I was not 
+12 going to engage in tit-for-tat. I did feel that there was a double standard, but I said, the 
+13 way out of it is not to, you know, double-down on, you know, the double standard. It's 
+14 to, you know, try to handle everything the same. 
+15 
+16 
+17 
+18 Q 
+A 
+Q Yeah. 
+And, you know -­
+Yeah. 
+Similarly, you write: "In the final months of his administration, Trump cared 
+19 about only one thing: himself. Country and principle took second place." 
+20 A Well, I think I said that mainly in relation to, you know, the way he handled 
+21 the end game, but also his, you know, pouting in his tent during the Georgia thing. You 
+22 know, that was all about him. 
+23 
+24 
+25 Q 
+A 
+Q Right. 
+It was all about himself personally. 
+Not helping the two Senate candidates.  1 A And then he has the temerity to go around and call people RINOs, while he 
+2 was willing to essentially give up control of the Senate because he was pouting. 
+3 
+4 Q Yeah. 
+Last passage that I want to ask you about, page 459: "One thing Trump is 79 
+5 incapable of is nuance. His rhetorical skills, while potent within a very narrow range, are 
+6 hopelessly ineffective on questions requiring subtle distinctions. His main tools are 
+7 hyperbole and ridicule. Those aren't suitable when the task is to steer a sensitive course 
+8 between two opposing poles, tacking to move closer to one than the other." 
+9 Can you elaborate on that? Tell us more about your assessment of the President 
+10 with respect to complicated issues. It's 459. 
+11 
+12 Thanks,-. 
+A Yeah, so I said that in relation to COVID, you know. And, I mean, I just think 
+13 that that sums up one of his difficulties as a --you know, he has certain strengths as a 
+14 leader, and I think that's one of his weak points. 
+15 
+16 Q 
+A Uh-huh. 
+And, I mean, I'm not sure I --the point I'm making there is that handling a 
+17 matter like COVID, especially when you have to work with 50 Governors by the nature of 
+18 our system, it's going to take a lot of patience and some nuance, and especially 
+19 something like COVID, where everyone is dealing from a position of ignorance really, 
+20 right? And, you know, he just didn't have those tools. 
+21 
+22 Q Understood. 
+All right. Well, I have no more questions. Let me see if anyone 
+23 on the video, Ms. Cheney or Mr. Chairman or anyone else, have anything on which you 
+24 want to follow up? 
+25 Ms. Cheney. I don't have any additional questions. I just wanted to say thank  80 
+1 you again, General Barr, for being here with us today. Appreciate it. 
+2 Mr. Barr. Thank you. 
+3 Ms. Lofgren. Certainly I'd like to thank you, General Barr, for your recounting of 
+4 these events. It's very helpful. 
+5 Mr. Barr. Thank you, Congresswoman. 
+6 All right. With that, General Barr, I think --
+7 Mr. Schiff. -
+8 
+9 - Yes, Mr. Schiff. Go ahead. 
+Mr. Schiff. I don't have anything further. Once again, Mr. Attorney General, 
+10 thank you for coming in. 
+11 Mr. Barr. Thank you, Congressman. 
+12 And let me just make clear, on the subject of you coming in, 
+13 General Barr, that there's an exhibit No. 1--we'll just put it in for the record. That's the 
+14 letter from the Department of Justice which indicated that, on the topics we've discussed, 
+15 it would not, in the current Department's view, be appropriate to assert an executive 
+16 privilege, and you have not asserted any executive privilege today. You're here 
+17 voluntarily, no subpoena. 
+18 On behalf of the committee, I just want to say thank you. We cannot do our 
+19 work to dive into the causes of January 6th and what happened without the cooperation 
+20 of folks like you who were present for relevant events. So we very much appreciate 
+21 your willingness to cooperate voluntarily and provide this helpful information. 
+22 Mr. Barr. Thank you. 
+23 And, with that, we'll go off the record. 
+24 [Whereupon, at 12:34 p.m., the interview was concluded.]  1 
+2 
+3 Certificate of Deponent/Interviewee 
+4 I have read the foregoing __ pages, which contain the correct transcript of the 
+5 answers made by me to the questions therein recorded. 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 Witness Name 
+Date 81 

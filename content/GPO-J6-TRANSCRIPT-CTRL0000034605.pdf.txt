@@ -1,0 +1,4223 @@
+1 
+2 
+3 
+4 
+5 SELECT COMMITTEE TO INVESTIGATE THE 
+6 JANUARY 6TH ATTACK ON THE U.S. CAPITOL, 
+7 U.S. HOUSE OF REPRESENTATIVES, 
+8 WASHINGTON, D.C. 
+9 
+10 
+11 
+12 DEPOSITION OF: ANGELA MCCALLUM 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 Wednesday, December 8, 2021 
+Washington, D.C. 
+21 The deposition in the above matter was held in room 5480, O'Neill House Office 
+22 Building, commencing at 10:11 a.m. 
+23 Present: Representatives Lofgren and Aguilar. 1  1 
+2 Appearances: 
+3 
+4 For the SELECT COMMITTEE TO INVESTIGATE 
+5 THE JANUARY 6TH ATTACK ON THE U.S. CAPITOL: 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 INVESTIGATIVE COUNSEL 
+, INVESTIGATIVE COUNSEL 
+CHIEF CLERK 
+PROFESSIONAL STAFF 
+STAFF ASSOCIATE 
+, RESEARCHER 
+15 For THE WITNESS: 
+16 
+17 PAUL BROTHERS, ESQ. 
+18 Graves Garrett LLC 
+19 1100 Main Street, Suite 2700 
+20 Kansas City, MO 64105 2  3 
+1 
+2 - Good morning. This is a deposition of Angela Mccallum, conducted 
+3 by the House Select Committee to Investigate the January 6th Attack on the United States 
+4 Capitol pursuant to House Resolution 503. 
+5 At this time, I'd like to ask the witness to please state her full name and spell her 
+6 last name for the record. 
+7 The Witness. Angela Mccallum, M-c-C-a-1-1-u-m. 
+8 - Thank you. 
+9 So this will be a staff-led deposition. My name is I'm an 
+10 investigative counsel for the committee. And I'm accompanied by my colleague here. 
+11 I'll let her introduce herself. 
+12 
+13 
+14 And she's also investigative counsel for the committee. 
+And we may have members joining us. Actually, we're going to start off with 
+15 Representative Zoe Lofgren here on the screen, and some other members may join as we 
+16 go through the process here by video. And I'll do my best to note their appearance 
+17 when they sign in, both for you all and for the record. 
+18 We're also joined here this morning by our chief clerk, who's also on committee 
+19 staff, and, here, , another member of our professional staff. 
+20 So, under the House deposition rules, neither committee members nor staff may 
+21 discuss the substantive testimony that you provide today unless the committee approves 
+22 its release. You, Ms. Mccallum, and your attorney will have an opportunity to review 
+23 the transcript. 
+24 And, before we begin, I'd like to discuss just a few ground rules. 
+25 We will follow the House deposition rules that we provided to your counsel  4 
+1 previously. Under the House deposition rules, counsel for other persons or government 
+2 agencies may not attend, and you are permitted to have your attorney present. 
+3 Counsel, at this time, would you state your name for the record, please? 
+4 Mr. Brothers. Yes. My name is Paul Brothers. I'm with Graves Garrett and 
+5 counsel for Ms. Mccallum. 
+6 - Great. Thank you. 
+7 So we have an official court reporter here transcribing the record of this 
+8 deposition. 
+9 Ms. Mccallum, have you ever been deposed before? 
+10 
+11 The Witness. No. 
+- Okay. So the ground rules are pretty simple here. We will just ask 
+12 for you to please wait for each question to be completed before you respond, and that's 
+13 so that the reporter can get everything clearly on the record. We will also try to wait 
+14 until your response is completed before asking another question. And we'll ask that you 
+15 respond verbally, since the court reporter can't record responses like a nod of the head or 
+16 anything --shaking your head --like that. 
+17 So we also will ask that you provide complete responses, complete answers, based 
+18 on your best recollection. If the question is not clear, please do ask for clarification, and 
+19 we'll be happy to do that. If you do not know the answer, please say so. 
+20 And you may only refuse to answer a question to preserve a privilege that is 
+21 recognized by the select committee. So, if you refuse to answer a question based on a 
+22 privilege, staff may either proceed with the deposition or seek a ruling from the chair on 
+23 the objection. If the chair overrules an objection, you are required to answer the 
+24 question. 
+25 And I also want to remind you that it is unlawful to deliberately provide false  1 information to Congress. Since this deposition will be under oath, providing false 
+2 information could also result in criminal penalties for perjury or providing false 
+3 statements. 
+4 Do you understand that? 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 The Witness. I do. 
+Okay. Great. 
+I'd ask for you now to --for the court reporter to swear you in. 
+[Witness sworn.] 
+- Okay. Great. We're ready to proceed? 
+Mr. Brothers. We are. 
+Great. 
+So I don't think that we're going to take your whole day today, but we will go for 
+13 probably a couple of hours. And we will plan to take some breaks, but if at any time 
+14 during the questioning you would like a break or you'd like a chance to talk to your 
+15 attorney, please let us know and we'll do that. 
+16 Mr. Brothers. And I should note one thing. I'm not sure if you meant 
+17 "proceed" as to ready to start asking questions. I do have a few things I need to put on 
+18 the record before we begin. 
+19 - Sure. This is the right time to do it, so --
+20 
+21 
+22 Mr. Brothers. All right. 
+--go right ahead. 
+Mr. Brothers. So let me preface this first by saying, obviously Ms. Mccallum is 
+23 here. What I am about to say is not grounds that Ms. Mccallum is using to not appear 
+24 before the committee for a deposition today, nor is it grounds she is asserting to not 
+25 answer questions from the committee today. 5  6 
+1 We have some objections to raise to preserve for the record, not to have a ruling 
+2 on today, but to have preserved in the event the committee would request further 
+3 testimony, further depositions, or further document production. 
+4 We just want the record to be clear that, for these depositions, 
+5 Ms. Mccallum --or, for this deposition, Ms. McCallum's appearance and testimony isn't 
+6 waiving these objections, and she reserves the right to raise them at a later time if the 
+7 need were to arise. 
+8 I have four of those objections. 
+9 The first is that the committee is not properly composed. As the committee is 
+10 aware, the resolution forming the committee required the appointment of 13 committee 
+11 members. At least five of those members were required to be appointed with 
+12 consultation of the minority leader. The Speaker rejected the minority leader's 
+13 appointments and the slate of appointments he offered. Because of that --and 
+14 appointed all 13 members on her own. Because of that, there was no consultation with 
+15 the minority Member, and Ms. McCallum's position is the committee is not properly 
+16 composed. 
+17 The failure to properly compose the committee resulted in invalidation of all of 
+18 the committee's actions, including Ms. McCallum's subpoena. 
+19 Again, she is here today. She is willing to testify today, but she is preserving that 
+20 objection for the record if the need to raise it would arise further down the road. 
+21 The second objection is similar to the first --that is, the subpoenas issued by the 
+22 committee, including the subpoena for Ms. McCall um, are not properly issued. 
+23 This, again, goes back to the problems with the composition of the committee. 
+24 Because there are no minority appointees of the committee, the committee lacks a 
+25 ranking member. This is denoted by Representative Cheney's title as "vice chair" rather  7 
+1 than "ranking member." 
+2 The resolution forming the committee authorizes the committee to compel 
+3 witnesses to appear for depositions through subpoena. The chairman has that authority 
+4 in consultation with the ranking member. Because the committee does not have a 
+5 ranking member due to its composition problems, there has, by definition, been no 
+6 consultation between the chairman and the ranking member. This lack of consultation 
+7 invalidates the subpoena. The subpoena was not properly issued. 
+8 Once again, I want to note Ms. Mccallum is here today and is not asserting that 
+9 objection today to not appear or to not testify, but is merely preserving that objection in 
+10 case it needs to be raised in the future. 
+11 The third objection is Ms. McCallum's subpoena is not supported by a committee 
+12 function. 
+13 We acknowledge the committee is tasked with investigating the causes of 
+14 January 6th, and we are aware of the general assertions of the committee that this will 
+15 entail an investigation into the certification of election results and allegations of election 
+16 irregularities. 
+17 However, information regarding allegations of election irregularities and 
+18 arguments regarding election results certification is already well-known through public 
+19 litigation, public statements, and media statements from numerous individuals. 
+20 Our position is the committee has all the information it needs to inform its inquiry 
+21 into what potential legislation in this area may be necessary, and there is no need to 
+22 probe the internal operations of a major Presidential campaign through this witness. 
+23 We do not believe Ms. McCallum's subpoena is in furtherance of a legitimate 
+24 committee function. And, once again, we are just asserting this objection to preserve it 
+25 for the record, not to prevent Ms. McCall um from appearing today or from answering  8 
+1 your questions today. 
+2 Finally, Ms. McCall um has produced numerous documents to this committee. 
+3 sent a letter along with those documents raising numerous objections regarding 
+4 production issues for Ms. Mccallum. Those objections still stand, and we want the 
+5 record to be clear that Ms. Mccallum is not waiving any of the objections in that letter. 
+6 believe they were First Amendment, Fourth Amendment, legislative purpose, pertinence, 
+7 common law privileges that were raised in that letter. 
+8 And Ms. Mccallum is not waiving those objections by appearing today or 
+9 answering the committee's questions. However, she is here today. She is not 
+10 asserting those objections as a basis for not appearing today or as a basis for not 
+11 answering questions today. 
+12 Those are the objections for the record. 
+13 I also have a few ground rules I would like to propose. 
+14 I understand that, due to the composition of the committee, there is one 
+15 committee staff; we don't have a minority staff. So that makes the traditional rounds 
+16 aspect of this deposition difficult. However, we would request that we maintain the 
+17 60-minute round format, just allowing everyone a short break every 60 minutes. 
+18 Second, I understand we have two counsels for the select committee, and my 
+19 understanding is both may ask questions. We would request to adhere to a more 
+20 traditional deposition format. As counsel are both undoubtedly aware, in a traditional 
+21 deposition one attorney is allowed to ask questions. Same thing in a courtroom for an 
+22 evidentiary hearing. We would like to remain closer to the traditional format for 
+23 depositions. 
+24 A compromise we are willing to offer would be that, whoever is doing the 
+25 questioning, if you would like to switch to the other counsel having questions, we are  9 
+1 agreeable to that only after a short break. And then every time that you guys want to 
+2 pass back and forth questioning, we would request a short break, just to keep things clear 
+3 and organized. 
+4 We would be open to a more free-flowing conversation where multiple counsels 
+5 for the committee could ask questions and just interject in a less formal interview setting, 
+6 whether that be transcribed or not. Ms. Mccallum made that request, and the 
+7 committee rejected it. Because of that rejection, we are requesting to stick closer to the 
+8 traditional deposition format. 
+9 And the last thing, and it's really almost moot at this point, but we do have the 
+10 binders of the exhibits you have provided. We did ask to be provided with any 
+11 documents that you were going to present to Ms. McCall um that were not part of her 
+12 production. - discussed the one document with me right before we went on 
+13 the record that pertains to that, and I thank you for that and I appreciate that. 
+14 And I shouldn't have said that was the last thing. This is the last thing: For 
+15 form objections, we would just ask for a stipulation that any potential objections to 
+16 hearsay are preserved so those don't need to be stated on the record as a form objection. 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 Okay --sorry. Didn't mean to cut you off. 
+Mr. Brothers. I'm --
+Is there anything else? 
+Mr. Brothers. No, I'm finished. 
+- That was the last one. 
+Mr. Brothers. Appreciate your patience. 
+Okay. No problem. 
+All right. Well, let me respond to each of those issues that you just raised -­
+Mr. Brothers. Uh-huh.  10 
+1 --probably not in the order that you raised them. 
+2 So I understand that you, just at the beginning of your statements just now, 
+3 entered for the record several objections, including to the formation of the committee 
+4 and other, sort of, fundamental questions about the select committee's work. But I 
+5 understand that you are prepared to answer questions today, notwithstanding the fact 
+6 that you stated those objections. 
+7 With your objections pending, one way that we might need to do that is hold this 
+8 deposition open. We can continue as planned today with us asking you some questions, 
+9 Ms. Mccallum, with you answering those questions or raising privilege objections to 
+10 specific questions, if you have them, as you go, and then hold the deposition open to seek 
+11 a ruling on those objections from the chair. 
+12 I don't think, with those objections standing, that we would be prepared to 
+13 conclude the deposition today, but it sounds like we can proceed. And I think, with 
+14 those having been stated for the record, we can proceed today and see how things go. 
+15 Mr. Brothers. That's acceptable. 
+16 - Okay. 
+17 On the process stuff, I think an hour break is a perfectly acceptable idea for 
+18 everybody involved, or maybe even less, depending on the sort of structure here. 
+19 However, on the manner in which we question, that's not something that we're 
+20 prepared to agree to today. Our process is that counsel for the committee --and here 
+21 you have-and myself, but we may be joined by other members of the staff 
+22 during the deposition --each may ask questions. And, in addition, we have our 
+23 members who may join, and they may ask questions as we go throughout the deposition. 
+24 Obviously, we hope that this can be a productive and non-, you know, 
+25 confrontational process. So I'm not prepared to accept your limitation on our  11 
+1 questioning, but I do suggest that we proceed and see how it goes. We're not in 
+2 any --you know, our goal here is not to badger your client or pester you with questions, 
+3 but this is the process that we follow. 
+4 Mr. Brothers. We can proceed. Certainly, we're not going to let this come 
+5 between us in proceeding with the deposition today. 
+6 I will say: Nontraditional. I mean, the committee insisted on a deposition. 
+7 And I think, when the committee is going to insist on a deposition, it should hold a 
+8 deposition, not hold some sort of hybrid that it's come up with. 
+9 I also would note that, you know, that's not common in traditional depositions, 
+10 that's not common in courtrooms, and, frankly, that is not common in committee 
+11 hearings, public committee hearings. It's not just an open hot bench, if you will, where 
+12 members just get to shoot questions and interject. 
+13 
+14 So I don't think that it is appropriate. However, we are willing to proceed. 
+And I think the compromise we can reach is: You guys have your procedures. 
+15 We will abide by them. However, I will interject if I feel that we're just rapid-firing, 
+16 switching between people, and badgering the witness. I will not allow that, and I will 
+17 request a break if that becomes a problem to allow the witness a break from any 
+18 badgering. 
+19 Yep. We have no intention of badgering your client. 
+20 So I think it sounds like, with all that being said, we could probably get started 
+21 here. 
+22 Mr. Brothers. I agree. 
+23 - Okay. 
+24 Let me, before we do get started, though, allow Ms. Lofgren --is there anything 
+25 you would like to say before we get going with the questioning?  12 
+Ms. Lofgren. Not at this time. Thank you. 
+Okay. Great. 
+EXAMINATION 
+BY 1 
+2 
+3 
+4 
+5 Q Okay. So here we are. Ms. Mccallum, could we start off with some basic 
+6 background about you? Where did you grow up? 
+7 
+8 
+9 A 
+Q 
+A I grew up in Greenwood, South Carolina. 
+Okay. And where do you live now? 
+My permanent residency is in Abbeville, South Carolina. I currently reside 
+10 in Cayce, South Carolina. 
+11 Q Okay. That's my first name, so it sounds like a lovely place. 
+12 Can you walk us through a little bit of your professional background, starting with 
+13 where you went to college or any other education that you've received? 
+14 A Yeah. I graduated from Clemson University with a degree in --a bachelor's 
+15 of science in economics in December of 2019. 
+16 After that, I interned at the White House in the Office of Cabinet Affairs. 
+17 interned there from the end of January of 2020 until March of 2020. The class was cut 
+18 short due to COVID. And, shortly after that, I joined the Trump campaign, working out 
+19 of the Arlington, Virginia, headquarters. 
+20 And, after the campaign, I contracted with the National Republican Senatorial 
+21 Committee and worked in Atlanta, Georgia, for the Senate runoff. 
+22 And I currently work at First Tuesday Strategies in Columbia, South Carolina. 
+23 Q Okay. Great. Thank you. 
+24 So, for your White House internship in the early part of 2020, can you give us a 
+25 general sense of what your roles and responsibilities were during your internship?  13 
+1 A Yes. I was an intern for the Office of Cabinet Affairs, so anything related to 
+2 supporting the Cabinet Secretary. Mostly handled just general office tasks, such as, you 
+3 know, updating the whiteboard calendar and things of that nature. 
+Q Okay. 4 
+5 
+6 
+7 Did you have any role working on the Trump campaign before March 2020? 
+A 
+Q No. 
+Okay. And what was your job title when you were first hired by the Trump 
+8 reelection campaign? 
+9 
+10 A 
+Q Elected officials outreach coordinator. 
+Okay. And, if you can recall, approximately what dates did you serve the 
+11 job with that title? 
+12 A My job contract with the Trump campaign did not end until the --I believe it 
+13 was the 15th of November. Also, it could be the 30th of November. I'm not sure 
+14 exactly what pay period. And, officially, that's the only job title I held. I was an 
+15 independent contractor after that point. 
+16 Q Okay. So, for the time period before the end of November 2020, were you 
+17 a contractor or were you a member of the Trump campaign staff? 
+18 
+19 A 
+Q I was on the payroll until November. 
+Okay. Thank you. 
+20 And what generally were your job responsibilities as the elected officials outreach 
+21 coordinator? 
+22 A I worked underneath two managers, who were the elected officials outreach 
+23 managers. And we reported to the deputy political director. 
+24 My responsibilities there were just tracking communications between the 
+25 managers and State representatives, State senators, county commissioners, county  14 
+1 sheriffs, really just anyone on a more local or State level. 
+2 If, you know, they had a call where they received messaging or talking points of 
+3 things that were going on in that particular battleground State, that's something that I 
+4 would keep track of and put it into, you know, a weekly report. Or if they had an op-ed 
+5 or some other kind of media published, I would just compile that into a report, and it 
+6 would just be sent to the deputy political director. 
+7 
+8 Q Okay. Great. 
+During the time period that you held that job, who were the --you've mentioned 
+9 that you reported to two managers. Who were those managers? 
+10 
+11 
+12 
+13 A 
+Q 
+A 
+Q Olivia Miller and Nicholas Ivory. 
+And they were your supervisors for the whole time that you held that job? 
+That's correct. Along with Jim O'Connell, deputy political director. 
+Okay. Great. And were all of those individuals --Olivia Miller, Nicholas 
+14 Ivory, and Jim O'Connell --were they working in the Arlington headquarters with you? 
+15 
+16 A 
+Q That's correct. 
+Okay. 
+17 Were your responsibilities as elected officials outreach coordinator nationwide or 
+18 focused on specific States? 
+19 
+20 
+21 A 
+Q 
+A Specific battleground States. 
+Okay. And which were those? 
+I can name a couple. I'm not sure that my list will be completely 
+22 comprehensive. Georgia, North Carolina, Arizona, Nevada, Michigan, Wisconsin, 
+23 Pennsylvania, New Hampshire, Florida. That's all I can think of right now. 
+24 
+25 Q Okay. Thank you. 
+Were you the only elected officials outreach coordinator, or did you have  15 
+1 colleagues who had similar job responsibilities to you? 
+A I did not. Madison Crawley held the same role as I did. 2 
+3 Q And, between yourself and Ms. Crawley, did you have a specific delineation 
+4 of responsibilities to any of these particular States? 
+5 
+6 
+7 
+8 A No. We just split pretty much all the work 50-50. 
+Q Was Ms. Crawley also in the Arlington headquarters with you? 
+A Yes, ma'am. 
+Q Okay. 
+9 As the election progressed towards election day, did your job responsibilities 
+10 change? 
+11 A In the weeks leading up to election day, at that point, you know, it was 
+12 obviously an all-hands-on-deck-type of situation, so Madison and I were sent to just 
+13 basically help out other offices. One of the offices we helped out was the election day 
+14 operations team in, you know, making phone calls to deploy volunteers to some of the 
+15 same States that I listed earlier, really just --that's all I have to say. 
+16 Q Okay. Was the election day operations team focused on all of those 
+17 battleground States or a nationwide effort? 
+18 A I would say mostly focused on those States. I'm not entirely sure, you 
+19 know, what their efforts were beyond those States. 
+20 Q Okay. And the EDO team or office, was that also at the Arlington 
+21 headquarte~? 
+22 
+23 
+24 EDO? 
+25 A That's correct. 
+Q Okay. And who did you report to for your work in the support role for the 
+A That would be the deputy director of election day operations, Michael  1 Brown. 
+2 
+3 Q Okay. 
+At some point during the election, did you --did you focus on the Georgia 
+4 election? Let me rephrase. 
+5 A Yeah. 
+6 
+7 
+8 
+9 
+10 Q You mentioned that you became a contractor for NRSC. Is that correct? 
+A Correct. 
+Q Okay. Was that for the general election or the Georgia runoff? 
+A Solely the runoff. 
+Q The runoff. Okay. So that started after the conclusion of your work for 
+11 the Trump campaign. Is that correct? 16 
+12 
+13 
+14 A 
+Q 
+A My contract with the NRSC officially began on December 1st of 2020 --2020. 
+2020, right. And how long did you work for the NRSC? 
+I believe that contract ended on January either 15th or 30th, whatever pay 
+15 period that was. I concluded work with them about 3 days after the runoff. 
+16 
+17 Q Three days after. Okay. 
+So, just generally, what were your responsibilities when you were working for the 
+18 NRSC? Were you physically in Georgia? 
+19 A I was in Atlanta, Georgia. 
+20 Q Okay. So what were your responsibilities when you were at the NRSC in 
+21 Georgia? 
+22 A I coordinated volunteers, you know, any volunteers that were in the 
+23 building. I was still working with Ms. Crawley. We would, you know, order lunches for 
+24 catering, things like, you know, letting volunteers know what day to arrive, letting them 
+25 know where their hotel accommodations were, really just tasks similar to that --you  17 
+1 know, restocking office supplies. Yeah. 
+2 
+3 Q 
+A Okay. And who did you report to when you were working with the NRSC? 
+Sorry, there were a lot of people in the office. Michael Brown, who I 
+4 mentioned, was there. Mike Roman was there. And I'm not sure --since we were all 
+5 contractors, you know, none of us had official titles, so I'm sorry that I'm leaving those 
+6 out. And Alyssa Specht was also there. 
+7 
+8 
+9 
+10 
+11 
+12 
+13 record. Q 
+A 
+Q 
+A 
+Q 
+Okay. How do you spell Alyssa's name? 
+I believe it is A-1-y-s-s-a. "Specht" is S-p-e-c-h-t? I think so. 
+That works for me. Yeah, I just wanted to make sure -­
+Sorry. That's just a guess. 
+Yeah --if you knew it, wanted to make sure we had it, you know, clear in the 
+I believe you mentioned that you had worked --you had reported up to 
+14 Michael Brown during the Trump --when you were working for the Trump campaign. Is 
+15 that correct? 
+16 
+17 A 
+Q For a brief period of time. 
+Right. And what about Mike Roman you mentioned? Was that 
+18 somebody that you worked with on the Trump campaign? 
+19 
+20 A 
+Q Not directly. More so through communications with Mr. Brown. 
+Okay. And same question for Alyssa Specht. Is that also someone that 
+21 you had worked with in the Trump campaign? 
+22 A No, I had not worked with Alyssa. I met her when I was in Georgia, I 
+23 believe. 
+Q Okay. 24 
+25 And then you mentioned that you're currently working for a company called First  1 Tuesday Strategies. Is that correct? 
+2 
+3 
+4 
+5 
+6 
+7 
+8 job? 
+9 A That's correct. 
+Q What's your title there? 
+A Public affairs associate. 
+Q Okay. And approximately when did you start that job? 
+A April 2021. 
+Q Okay. And, just generally, what are your responsibilities in your current 
+A Just working with clients to --mostly public affairs clients --sorry --to, you 
+10 know, send them materials for --we do PR. We --you know, any messaging or talking 
+11 points where we're acting as general consultants on a project, things like that. 
+12 Q Okay. That's great. Thank you. 
+13 I just wanted to clarify, about when did you say you started 
+14 working for the Trump campaign? 
+15 
+16 
+17 The Witness. It would be -­
+Approximate is fine. 
+The Witness. Yeah. Either the second half of May of 2020 to early June. 
+18 don't have an exact date. 
+19 
+20 
+21 
+22 
+23 That's fine. Thanks. 
+The Witness. Uh-huh. 
+That's it. 
+Q Okay. We have the subpoena in your binder there in front of you marked 
+24 as exhibit 1, if you need to refer to it at any time. 
+25 And you understand that you're appearing here pursuant to the subpoena that 18  1 was issued to you dated November 8, 2021. Do you understand that? 
+2 
+3 A 
+Q Yes. 
+Okay. We know that you have produced documents in response to the 
+4 subpoena. I have a couple of questions for you just about generally how those 
+5 documents were collected, and then we'll talk about the documents in a few minutes as 
+6 well. 19 
+7 So did you review the schedule of requests that were attached to your subpoena? 
+8 
+9 A 
+Q 
+10 schedule? 
+11 
+12 A 
+Q Yes. 
+Okay. Did you search for records that were responsive to the subpoena 
+Yes. 
+Okay. And have you produced to the select committee all documents or 
+13 communications in your possession, custody, or control that are responsive to those 
+14 requests in the schedule to the subpoena? 
+15 
+16 A 
+Q Yes. 
+Okay. So where did you --what generally can you tell us about the places 
+17 that you searched for documents responsive to the subpoena? 
+18 A Yeah. I searched my personal cell phone, text messages, things like that, 
+19 personal email account through Gmail, and, related to that, anything that was shared 
+20 with me in some kind of Google Drive format. 
+21 I'd like to go ahead and state that there were a lot of things that were shared with 
+22 me that, you know, I don't know who shared them, things like that, you know, things that 
+23 I had access to but had really never seen. Of course, if it was responsive, it was sent. 
+24 
+25 And, let's see, my personal computer and --yeah. 
+Q Okay. Just for clarification, when you said that you had access to  20 
+1 documents but that you had not seen them, does that mean, when you went through the 
+2 process of searching documents to find things responsive to the subpoena, you then saw 
+3 documents that you determined to be responsive but that you had not known that you 
+4 had before that point? 
+5 
+6 A 
+Q Yes. 
+Is that an accurate understanding of what you just said? Okay. It would 
+7 be helpful for us --we will discuss --as we go through the documents, it will be helpful for 
+8 you to identify what those documents might be, which I assume your lawyer is prepared 
+9 to do. 
+10 
+11 
+12 A 
+Q Yes. 
+Okay. Great. 
+So you mentioned searching all of those personal locations. Thank you for 
+13 describing them. 
+14 Generally speaking, when you were working on the Trump campaign as the 
+15 elected officials outreach coordinator --that's the point of your professional background, 
+16 your service in the Trump campaign that we're going to be focusing on today and for 
+17 which you produced responsive documents. During that time period, can you generally 
+18 tell us what types of computers or devices you used in the course of your duties? 
+19 
+20 laptop. 
+21 
+22 
+23 
+24 
+25 A 
+Q 
+A 
+Q 
+A 
+Q Yes. I did not have a campaign cell phone, but I did have a campaign 
+Okay. So I assume you did use a cell phone to do your job. 
+Just my own personal --
+Right, you --
+--cell phone was used. 
+--used your personal one. Okay. Is that the same phone that you have  21 
+1 now, the one that you used during your duties? 
+No. 2 
+3 A 
+Q Okay. When you --I assume that means that you replaced the phone that 
+4 you had at the time that you were working on the Trump campaign? 
+5 A Yes. I would've had --technically, I guess it would've been four different 
+6 iPhones during this time period. 
+7 
+8 
+9 
+10 Q 
+A 
+Q 
+A 
+11 campaign. 
+12 Q Got it. Were they --did you have four phones at the same time or --
+No. No, no, no. 
+--consecutively you have gone through a lifecycle of four phones? 
+Meaning that four phones have had a lifecycle since I started on the 
+Got it. When you were working on the campaign, did you only have one 
+13 phone at that time? 
+14 
+15 A 
+Q At each given time, I only had one phone. 
+Okay. Great. Got it. As you replaced the phone, did your documents 
+16 and information on that phone transfer, such that you would still have access to the data 
+17 that would've been on your phone, the one that you had during the campaign? 
+18 A I believe that everything I had was kept through iCloud and transferred onto 
+19 my phone. You know, everything --text messages I had dated back to all the way into 
+20 2020, so --
+21 Q Okay. Thank you. 
+22 As you went through the process of looking for responsive material on your 
+23 current phone, was there anything that you recalled, like a text message or anything like 
+24 that, you recalled from the time period that you were working on the Trump campaign 
+25 that you weren't able to locate on your current device?  1 
+2 
+3 A I don't believe so. 
+Q Okay. 
+Okay. So you mentioned that you used your personal phone to complete your 22 
+4 work when you were elected officials outreach coordinator. Did you use any particular 
+5 communication apps or anything on that phone? 
+6 And I'm not asking generally did you use apps to communicate with anyone. Just 
+7 specifically to do your job when you were working as elected officials outreach 
+8 coordinator, did you communicate for work through any other messaging apps other than 
+9 the standard phone? 
+10 
+11 
+12 A I mean, email, text messages, the physical phone, and Wickr. 
+Q Wickr? Okay. Did you use Signal? 
+A I had the Signal app on my phone. I don't recall ever using it for 
+13 work-related --
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 Q For work. Okay. 
+A I don't recall using that one, but I do have that app. 
+Q Okay. 
+A And Google, Google Voice. I believe that's it. 
+Q Okay. Any other apps, like WhatsApp --
+A No. 
+Q --Snapchat, anything like that? 
+A No, not WhatsApp. Snapchat would be for personal use. 
+Q Okay. Great. 
+And you mentioned that you had a campaign computer. Is that correct? 
+A That's correct. 
+Q Okay. And did you also use your personal computer for work reasons  23 
+1 during the time period? 
+I'm sorry. Could you say the question again? 2 
+3 A 
+Q Sure. In addition to the campaign computer that you were issued, did you 
+4 also use your personal computer for work-related responsibilities? 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 A 
+Q 
+A 
+Q 
+A 
+Q 
+A 
+Q 
+13 materials? 
+14 A Yes. 
+Did you search that computer for responsive materials? 
+Which computer? 
+The personal one. 
+Yes, I searched the personal one. 
+Okay. Great. Do you still have the campaign-issued computer? 
+It's in my possession, yes. 
+Okay. And did you search the campaign-issued computer for responsive 
+I don't believe I still have access to that computer. It has administrative 
+15 locks on it, and I've been locked out of my email account, which is associated with how to 
+16 unlock the computer. So, you know, since my campaign email account doesn't work, 
+17 the computer physically will turn on but it's not, you know --I don't know what's on it. 
+18 Q Okay. I think I heard you say that you don't believe that you have access to 
+19 it. Did you attempt to gain access in order to search it for responsive materials? 
+20 
+21 
+22 
+23 
+24 
+25 A 
+Q 
+A 
+Q 
+A 
+Q I have not tried to gain access to the computer since April. 
+Okay. And why not? 
+Because it was locked then and I assume it's still locked. 
+Okay. 
+It's currently at my parents' house, and I don't live there. 
+And how is it that you still have the computer in your possession?  24 
+1 A Right. Well, since I went to work for the NRSC directly after leaving the 
+2 campaign, there was no time to turn in the computer. I mean, it just kind of came with 
+3 me, and now it just collects dust in a closet, so --
+4 
+5 
+6 
+7 
+8 
+9 Q Okay. Got it. 
+Do you have anything on this computer point? 
+No, not at this time. 
+- Okay. 
+BY 
+Q You mentioned that you used your campaign email address that you no 
+10 longer have access to. Did you also use any other email accounts to conduct your 
+11 business as elected officials outreach coordinator? 
+12 A It would've just been my personal email address through Gmail, which 
+13 would've connected to, you know, shared documents and stuff through Google Sheets 
+14 and things like that. 
+15 Q Okay. And did you search your personal Gmail account for documents 
+16 responsive to the subpoena? 
+17 A I did. My Gmail, you know, actual email and everything on the drive as 
+18 well. 
+19 Q Okay. 
+20 Did you use any social media apps in the course of your work as elected officials 
+21 outreach coordinator? 
+22 A I guess Twitter to just look and see if things such as op-eds or interviews that 
+23 elected officials had done had been published. Probably the same for Facebook as well. 
+24 Oh, and we did --sorry, forgot this part. We --Madison and myself, if there was 
+25 ever an elected official who was interested in working with us, we would run a quick,  1 informal vetting process where we would just scroll through their social media to, you 
+2 know, make sure that there wasn't anything offensive or inappropriate posted on there 
+3 before we worked with them. 
+4 Q Got it. It sounds like these were resources that you used primarily for 
+5 research. Is that accurate? 
+6 A In regards to work, yes. 
+7 Q Yes. In your work responsibilities, did you use either Twitter or Face book 
+8 as a communications app to communicate --
+9 
+10 A 
+Q No. 
+--related to your job? 25 
+11 And did you search your Twitter and Face book for any material responsive to the 
+12 subpoena? 
+13 A No. I never conducted any work besides searching someone's name in the 
+14 search bar on Facebook and scrolling through their Facebook account. 
+Q 
+A 
+Q Okay. 
+No communications of any kind through any of those networks. 
+Got it. 15 
+16 
+17 
+18 I forgot one social media. Did you use lnstagram as a communications app in the 
+19 course of your work as elected officials outreach coordinator? 
+20 A Not work --no, I didn't use any social media apps for communication 
+21 whatsoever. 
+22 Q Great. Okay. 
+23 Anything on documents? 
+24 So no DMs, direct messages, on, like, Twitter or lnstagram that 
+25 would've been related to your work?  26 
+1 The Witness. No, not that I can remember. 
+2 Okay. 
+3 BY 
+4 Q Okay. So we're going to switch gears and talk a little bit about your work 
+5 during the 2020 election. So, again, we're going to focus on your job as elected officials 
+6 outreach coordinator, that time period in your professional career. 
+7 So can you tell us a little bit more about what your role was with respect to the 
+8 elected officials, your outreach role --
+9 
+10 A 
+Q Uh-huh. 
+--during the time period from when you started with the campaign through 
+11 when you transitioned to the EDO support role? 
+12 
+13 
+14 
+15 
+16 A 
+Q 
+A 
+Q 
+A Are you asking up until the point -­
+Yes. 
+--where I transitioned? 
+Yes. 
+I never communicated directly with any elected officials. My main goal 
+17 was, you know, more statistics. 
+18 I would say, you know, this manager talked to X number of Representatives in 
+19 Georgia. Here are the things that people in Georgia --I'm just using Georgia as an 
+20 example of a State. You know, here's what they're saying people in their district or their 
+21 county care about. Or, you know, this Representative in this particular State had a radio 
+22 interview; you know, here's a clip of that radio interview. 
+23 And these would just be things I would put into reports or track on, you know, a 
+24 spreadsheet or something like that. 
+25 Q Okay. Great. And those managers that you're referring to, is that Olivia  27 
+1 Miller and Nicholas Ivory? 
+Correct. 2 
+3 A 
+Q Okay. Were there other managers of the elected officials outreach --in the 
+4 elected officials outreach role for the campaign in addition to Olivia and Nicholas? 
+5 A No, not in the managerial role. Basically, our team of four --Nicholas Ivory, 
+6 Olivia Miller, Madison Crawley, and myself --all reported to Jim O'Connell, the political 
+7 director. 
+8 Q Okay. 
+9 So did you have any involvement in the development of a communications 
+10 strategy for outreach to elected officials? 
+11 A Not in strategy, no. My main goal was just keeping track of what people 
+12 were saying. And, you know, if someone --another thing we did in the office is, if they 
+13 talked to someone who, you know, say, was a female Representative and they wanted to 
+14 be involved in the coalition Women for Trump, we would collect and, you know, forward 
+15 their information along to the coalitions department. 
+16 Q Okay. 
+17 Did you have any discussions within your team on the elected officials outreach 
+18 operation about election security or election integrity? 
+19 
+20 A 
+Q Can you clarify the question? 
+Sure. So, within your team of four that you just described who were 
+21 focused on elected officials outreach in the time period before election day 2020, did you 
+22 have communications within your team about election security issues? 
+23 
+24 A 
+Q No. 
+No. Okay. Was election security or election integrity issues something 
+25 that was discussed with elected officials?  1 
+2 
+3 A 
+Q 
+A No. 
+Okay. 
+But if, you know, you wanted specifics on those calls with those people, 
+4 you'd have to ask Olivia Miller or Nick Ivory on what they were saying. You know, I 
+5 wasn't involved in those calls, I wasn't keyed in. 
+6 Q Got it. But to the extent that your role was to collect information about 
+7 what their calls were --28 
+8 A Correct, I never saw anything about election integrity or anything related to 
+9 that. 
+10 Q Okay. Great. 
+11 And, within the Trump campaign headquarters in Arlington, were you aware of 
+12 any communications about election fraud issues before November 3, 2020? 
+13 A Can you repeat the question? 
+14 Q Sure. You were working at the Arlington headquarters during this time 
+15 period. Is that right? 
+16 
+17 A 
+Q Correct. 
+Okay. Outside of your team of four with other officials working --you 
+18 know, other campaign staff members, are you aware of any communications about 
+19 election fraud or election integrity issues before November 3rd? 
+20 A Not any conversations that directly involved me. However, the office of 
+21 election day operations, that's part of what they handle. So --
+22 
+23 Q Okay. 
+Okay. Before you transitioned into the role of supporting the EDO team within 
+24 elected officials outreach, is there a specific communications plan about the election? 
+25 A I'm sorry?  29 
+1 Q Let me rephrase that question. In this elected officials outreach team of 
+2 four that you described --
+Uh-huh. 3 
+4 A 
+Q --how does that --how did the work change as you approached the election, 
+5 as you got closer to November 3rd? 
+6 A Right. As we got closer to November 3rd, there was obviously not as much 
+7 time for elected officials to, you know, get op-eds published in local newspapers and 
+8 things like that. And, you know, at that point, there was really no messaging points to 
+9 collect that could be, you know, ever used. Obviously, that's a quick turnaround. 
+10 So, as things got closer, it got more so in inviting them to events. Not myself, 
+11 particularly, but the managers would, you know, extend invitations to them to attend 
+12 rallies or events with members of the First Family or whoever was campaigning on behalf 
+13 of the Trump campaign. 
+14 So that was the biggest shift, and more so less to do with tracking, and more so 
+15 tracking event attendance. 
+16 
+17 Q Okay. 
+Okay. Before election day, did you or anyone on your team of four have any 
+18 discussions with elected officials about the possibility of alternate slates of electors? 
+19 
+20 
+21 
+22 A 
+Q 
+A 
+Q No. 
+Okay. Had you ever heard of that concept before? 
+No. 
+What about, more generally, any discussions that you had or that you know 
+23 about with elected officials about their constitutional role in certifying the election? 
+24 
+25 A 
+Q And what time period are you referring to? 
+Before November 3rd.  1 
+2 A 
+Q No. 
+Okay. And did you have any knowledge of what the constitutional role of 
+3 State legislatures might be before November 3rd? 
+4 
+5 
+6 A No. 
+Q Okay. 
+Okay. Outside of your team of four that you've described to us, were there 
+7 other components of the Trump campaign that also had a responsibility in 
+8 communicating with elected officials? 
+9 A The only office that comes to mind would be coalitions. Really, any of 
+10 those coalitions, such as Latinos for Trump or Women for Trump or anything related to 
+11 that office, I would assume that they would talk to elected officials. 30 
+12 I'm not aware of any other offices that would be communicating with them. But, 
+13 of course, you know, in general, our general com ms team or things like that, you know, 
+14 press, all those people could be communicating with them, but --
+15 
+16 
+17 Q 
+A 
+Q Okay. 
+--coalitions is the only one I'm fully aware of. 
+Okay. 
+18 Before November 3rd, are you aware of any discussions or communications with 
+19 those teams about election fraud or election integrity issues? 
+20 
+21 A 
+Q No. 
+And same question for any communications before November 3rd with 
+22 those teams about the constitutional role of State legislatures? 
+23 
+24 
+25 A 
+Q No. 
+Okay. Great. 
+Before November 3rd, did you have any role in election-related litigation?  31 
+1 A There, at one point --I'm not sure exactly what, you know, official office it 
+2 was for, but there were binders for election night for specific States that just really 
+3 highlighted, you know, State election laws, statutes, things like that. And my only job 
+4 with that was just printing them and hole-punching them and putting in the binder. So 
+5 that was really the only litigation-related thing that I did. 
+6 Q Okay. And was that in your role as elected officials outreach coordinator or 
+7 once you were supporting the EDO team? 
+8 A I mean, that was just a general --someone said, "Hey, can you help us 
+9 print?" and I said, "Sure," you know? There's just not any, really, structure when 
+10 everyone's, you know, all hands on deck at that point. 
+11 Q Got it. Do you know who was responsible for preparing those 
+12 binders --the materials that went into them, that is? 
+13 
+14 A 
+Q I would assume the legal team. I don't really have any specific names. 
+Okay. Did you have any direct interaction with anyone on the legal team 
+15 for the campaign around this time period? 
+16 A One of my friends on the campaign was Sadie May, and she was the 
+17 executive assistant for --
+18 [Alarm sounding.] 
+19 A --one of the attorneys. 
+20 - Let's pause for 1 second and go off the record so we can figure out 
+21 what that alarm sound is. 
+22 
+23 
+24 The Witness. Okay. 
+We'll go off the record now. 
+[Recess.]  32 
+1 
+2 [11:11 a.m.] 
+- Okay. So hopefully we can proceed. 
+Mr. Brothers. Yes. 
+BY 
+Q Yeah, okay. Great. Okay. 
+Ms. Mccallum, we were discussing your work pre-election day --
+A Correct. 3 
+4 
+5 
+6 
+7 
+8 
+9 Q --before our short break. Now can we talk about how your role changed in 
+10 the time immediately before and on election day? I believe you mentioned earlier that 
+11 you transitioned to a role supporting the EDO, the Election Day Operations Team. Is 
+12 that correct? 
+13 A Not, you know, any kind of official job change or anything like that, but just 
+14 as a supportive role. 
+15 Q Okay. Great. And I believe you said earlier that in that supportive role for 
+16 the EDO team you were working for the deputy director, Michael Brown. Is that 
+17 correct? 
+18 
+19 A Correct. 
+Q Okay. And I believe you also said earlier that through Mr. Brown you --he 
+20 reported up to Mike Roman. Is that correct? 
+21 
+22 A Correct. 
+Q Okay. Just generally, can you tell us what the EDO team, what their 
+23 responsibilities were for the election? 
+24 A I can't, you know, speak on everything that they did. Really, the only thing 
+25 that I was directly involved in was deploying volunteers, just regular volunteers, and also  33 
+1 lawyers to battleground States to help out on election day and the week before and after. 
+2 Q Okay. And approximately how far in advance of election day did you start 
+3 working with the EDO team? 
+4 
+5 A 
+Q Maybe a couple weeks. Not very long. 
+Okay. And what if anything was different about the responsibilities of the 
+6 EDO team on election day itself, November 3rd? 
+7 
+8 
+9 
+10 
+11 A 
+Q 
+A 
+Q 
+A I was not with the team on election day. 
+Okay. Where were you on election day? 
+Campaign headquarters in Arlington. 
+Okay. And what were your duties or responsibilities on election day itself? 
+Not much. I got there probably around 8 or 9 o'clock in the morning. 
+12 Basically, the President --or President Trump came to visit the campaign headquarters, so 
+13 it was a lot of sitting around, security, before, after, really just chatting, went out, got 
+14 lunch, came back, sat around some more. 
+15 Then, on election night, once the polls started closing, my only responsibility was 
+16 to try and figure out what news organization called which State first. And I would just 
+17 plug it in with a link to a tweet from Decision Desk or something like that into a 
+18 spreadsheet. 
+19 Q Okay. And what do you remember about how that election night 
+20 proceeded following the polls closing? 
+21 A Not much. Madison and myself were the only ones --really the only 
+22 people we directly worked with from EDO or the political department, the elected 
+23 officials outreach office. Madison and I were the only ones present from either of those 
+24 offices that I remember. So, I mean, there really wasn't much going on. 
+25 Q All right. So you're watching the --each of the networks to determine  34 
+1 when --
+2 
+3 
+4 
+5 
+6 
+7 A Essentially getting paid to watch the news. 
+Q Right. 
+A Really nothing beyond that. 
+Q Right. 
+A That's all we did. 
+Q Did you have an expectation of how late you would have to be watching the 
+8 news to determine when States were called? 
+9 
+10 
+11 
+12 
+13 
+14 A No. It was kind of an ambiguous, watch the news --
+Q Right. 
+A So --
+Q Did you stay at election headquarters very late that night? 
+A Probably until around 3 in the morning. 
+Q And just generally, what was the mood at election headquarters during the 
+15 day and into the night of election night? 
+16 A Fine, you know, excitement that it was election day. Really nothing beyond 
+17 that. 
+18 Q Who asked you to monitor the networks and the time at which they called 
+19 each State? 
+20 
+21 
+22 A Jim O'Connell's assistant, Danna Almeida. 
+Q Could you spell that name for the court reporter? 
+A D-a-n-n-a. Almeida is A-1-m-e-i-d-a? I'm not entirely sure of the spelling 
+23 of the last name. 
+24 
+25 Q That's still helpful. Thank you. 
+And when you were asked to watch the networks and determine when they called  35 
+1 each State, was there any instruction given to you about how late that process might go? 
+2 
+3 
+4 
+5 
+6 A 
+Q No. 
+Okay. 
+So you said you stayed at headquarters until almost 3 a.m., November 4th. 
+A 
+Q Yes. 
+Very early the next day. What was the point that which you determined 
+7 that your responsibilities of watching for the networks to call the elections in the various 
+8 States were over? 
+9 A There weren't as many States being called, you know. It was basically like 
+10 a, "Hey, we're thinking of going" --you know, "we," being myself and Madison --"Hey, 
+11 we're thinking about going home. Is that okay?" I mean, it was not a structured job 
+12 task, so --
+Q Okay. Got it. 13 
+14 Within the election night --sorry. Strike that. 
+15 Within the Trump campaign headquarters in Arlington on election night, was 
+16 there any surprise when certain States were called? 
+17 
+18 A 
+Q No specific incidences that I recall. 
+Okay. And before election day, November 3rd, what was your expectation 
+19 about how long you would continue to be employed by the Trump campaign? 
+20 A I believe most people, low level like myself, their contracts ended either the 
+21 15th or the 30th, you know. No one --no one really had time to talk about anything 
+22 after election day prior to election day, so there was no expectation really. 
+23 Q Okay. And you mentioned contracts. Is that because most of your 
+24 colleagues on the campaign had a defined contract rather than just being sort of an 
+25 at-will employee of the campaign?  1 
+2 A 
+Q Sorry, can you clarify? 
+Sure. Yeah, I guess I'm just trying to understand better, are you using the 
+3 term "contract" because there was an actual contract that was written that prescribed 
+4 the terms of your employment and set a specific end date to your employment? 
+5 A Yes, I'm talking about people who were on payroll. Is that more clear for 
+6 you? 36 
+7 Q Yes. I guess, I'm wondering whether it was just on payroll as staff such that 
+8 you could be let go at any time, or whether you were actually a contractor of the 
+9 campaign that had a defined term of employment that ended on a specific date. 
+10 Mr. Brothers. So just for clarification, and I guess to avoid speculation, is your 
+11 question whether Ms. Mccallum had a contract? 
+12 -Yes. 
+13 Mr. Brothers. Okay. 
+14 So, yeah, did you have a contract with the Trump campaign for your work, you 
+15 know, pre-election day? 
+16 The Witness. Yes, I signed, like, an employee contract, and after that I was put 
+17 on payroll. And I believe somewhere in the contract said that the last payday would be 
+18 the 15th or 30th or something like that. You know, I'm not entirely sure how that 
+19 looked for other people, and I don't have a clear memory on what exactly it was for me. 
+20 BY 
+21 Q Got it. Thank you for that clarification, Mr. Brothers. That helped. 
+22 So did you sign that contract of employment by the campaign before you started 
+23 working there in approximately March 2020? 
+24 A I believe so. I don't have access to any of those employment documents 
+25 anymore, so -- 37 
+1 Q Okay. So did you keep a copy of your employment contract when you were 
+2 working on the campaign? 
+3 
+4 
+5 A It was in a cloud, but there's no --it's not there. 
+Q So you no longer have access to that document? 
+A I had access through DocuSign, and I no longer have access via DocuSign, so I 
+6 don't know exactly what the employee contract said. 
+7 
+8 Q Okay. Okay. Thank you. 
+I just want to clarify. When did you say your Trump campaign 
+9 work began? Was it March or April of 2020 or May? 
+10 
+11 The Witness. It was sometime in May or June of 2020. 
+- Okay. That was my mistake. I was recalling the time that your 
+12 internship ended. 
+13 Okay. Thanks. Clarifying for the record. 
+14 
+15 
+16 
+17 
+18 
+19 
+20 The Witness. Sorry. 
+Yeah, no, not a problem. 
+Okay. Anything you have to follow up on that? 
+No. 
+Okay. 
+BY 
+Q Ms. McCall um, at some point after --well, actually, let me rephrase. 
+21 So after election day that went into early morning the following day, how did your 
+22 job responsibilities change? 
+23 A After I left, around 3 a.m. on the 4th, like I mentioned, I came back around 9 
+24 on the 4th and really just kind of, you know, sat there waiting for someone to tell me 
+25 what to do.  38 
+Q And did someone come tell you what to do? 1 
+2 A Yes. I was --I believe I was informed sometime that afternoon or evening 
+3 that I was wanted to go help in Pittsburgh, Pennsylvania. 
+4 
+5 
+6 
+7 
+8 
+9 
+10 Q Okay. Did you go to Pittsburgh, Pennsylvania? 
+A I did. 
+Q Okay. When did you go? 
+A I believe on the 5th, potentially the 6th. 
+Q Okay. And approximately how long were you in Pittsburgh? 
+A About a week. 
+Q About a week, okay. And maybe we'll come back and talk a little bit more 
+11 specifics about what you did, but maybe it would be helpful at the beginning just to get a 
+12 bit of a high-level overview of where you went from that time after election day until you 
+13 started working on the Georgia runoff. 
+14 
+15 A Okay. 
+Q So I think what I'd like to do now is just run through that just from a timing 
+16 and location perspective, and then we come back and talk a little bit more specific about 
+17 what you were doing around that time. 
+18 
+19 
+20 A Okay. 
+Q Does that work? 
+A Uh-huh. 
+21 Q Okay. So after election day, so for the time period that we're talking about, 
+22 you know, November 4th through -- may be able to keep me honest --but the 
+23 time that you started working for the NRSC and were focused on the Georgia runoff 
+24 elections, can you walk us through where you physically were during that time period for 
+25 your job responsibilities?  39 
+1 A Okay. When I left for Pittsburgh, around the 5th of November, I was there 
+2 for approximately a week. I came home for one day, maybe 24 hours, to McLean, 
+3 Virginia. And after leaving McLean I went to Philadelphia and stayed there until, I want 
+4 to say, one of the first days in December, the 4th comes to mind, either the 4th or the 
+5 5th. 
+6 And at that point, I drove back to South Carolina, went to my parents' house for 
+7 maybe 2 days, and then Atlanta, Georgia, to start with the National Republican Senatorial 
+8 Committee. 
+9 Q Okay. So based on what you told us earlier in that very helpful overview, is 
+10 it accurate to say that from election day until you went to South Carolina and visited your 
+11 parents, before going to Atlanta, you were still employed by the Trump campaign. Is 
+12 that right? 
+13 A Through --partially I was still on payroll until either the 15th or the 30th. 
+14 don't remember entirely. And then at some point during November that switched to an 
+15 independent contractor role, filing, I believe it's called an 19 or something like that --or 
+16 1099. 
+17 Q Okay. So you became a 1099 employee after you went off the Trump 
+18 campaign payroll? 
+19 
+20 
+21 A Yes. It was referred to as a 1099 contractor. 
+Q Okay. And that --did that end when you started working for the NRSC? 
+A That contract was originally, I believe, went through the 15th of January. It 
+22 was just, you know, while I was being paid through the 15th of January I was not 
+23 performing work during a lot of that period, so --
+24 Q I see. Am I understanding you correctly that your job working for --as a 
+25 1099 contractor, that was still your employment circumstances when you went to work  40 
+1 for the NRSC when you were supporting efforts in Georgia? Is that correct? 
+2 A The independent contractor contract was from sometime in November 
+3 of 2020 to sometime in January of 2021. 
+4 Q Okay. And I just want to note that we've been joined by Representative 
+5 Aguilar. 
+6 So, Ms. Mccallum, you were a 1099 contractor during this time. To whom were 
+7 you a contractor? Who were you employed by? 
+8 A Contracted with the Trump campaign, Donald J. Trump for President, 
+9 Incorporated. 
+10 Q Okay. So your employment status changed but your employer did not 
+11 change. Is that correct? 
+12 A Correct. 
+13 Q Okay. 
+14 A Noting, at the same time, I was also a 1099 contractor with the National 
+15 Republican Senatorial Committee, December and January. 
+16 
+17 Q 
+A Okay. And when did the 1099 contractor employment begin for the NRSC? 
+It was dated January --or, I'm sorry. Let me start over. It was dated 
+18 December 1st, and I went to Georgia, you know, sometime before December 10th. It 
+19 was very early in December. 
+20 
+21 
+22 
+23 
+24 ~ Okay. Thank you. That is a very helpful overview. 
+Any questions, Alejandra, about that? 
+No. 
+BY 
+Q Okay. So let's go back to the day after the election when you were asked 
+25 to go to Pittsburgh.  41 
+1 
+2 
+3 Who asked you to go to Pittsburgh? 
+A 
+Q I believe it was Michael Brown. 
+Okay. And what were you asked to do there? 
+4 A I was told to report to Christina Norton. Pretty vague on, you know, what 
+5 exactly that would look like at that point. 
+6 Q Okay. And what was --was Christina Norton an employee of the Trump 
+7 campaign? 
+8 A Not to my knowledge. She is the political director at the Republican 
+9 National Lawyers Association. Just, you know, assisting the campaign. I don't know if 
+10 she had a formal contract. 
+11 Q Got it. And what was your understanding at the outset of what you 
+12 were --what your responsibilities would be once you reported to Ms. Norton? 
+13 A At that point, I just knew that I'd be assisting her. I didn't know what that 
+14 looked like. 
+15 Q Okay. So once you got to Pittsburgh, how did your responsibilities --what 
+16 were your responsibilities once you got there and found out --found them out? 
+17 A Right. So I drove up there with Christina, checked into the hotel, went to 
+18 the office building that whoever was working in Pittsburgh for the Trump campaign was 
+19 at. 
+20 Christina and I get there. They basically say that they need help with provisional 
+21 ballot review and canvassing. So Christina and I, you know, coordinate volunteers to 
+22 make sure counties had observers there. 
+23 Q Okay. And I think you told us that you were in Pittsburgh for about a 
+24 week following the election? 
+25 A That's correct.  42 
+1 Q Is that right? Okay. And was there anything else in addition to what you 
+2 just described to us that you worked on in Pittsburgh? 
+3 A I believe everything I did in Pittsburgh was related to provisional ballot 
+4 canvassing. 
+5 Q Okay. So just generally, what did that look like, provisional ballot 
+6 canvassing? 
+7 A I'm not entirely sure. I don't really know what a provisional ballot is. I do 
+8 know that, for some reason, that they are not counted with regular ballots. They have 
+9 to be reviewed, I assume, by the county board of elections. And then there are 
+10 observers from each party there representing, you know, a Republican candidate or a 
+11 Democratic candidate. And those are reviewed by the board and then either included in 
+12 the vote count or thrown out for various reasons. 
+13 
+14 
+15 
+16 
+17 Q 
+A 
+Q 
+A 
+Q 
+18 Pittsburgh? 
+19 A Okay. 
+So --
+Did you --sorry. I didn't mean to cut you off. 
+I don't have anything else on that question. 
+Did you have any interaction with local elected officials while you were in 
+No. The only person who I interacted with who I believe ever held office 
+20 was a former State representative in Pennsylvania. I believe his name is Keith Rothfus. 
+21 I don't have any idea what the spelling of that is, so --
+22 Q Okay. No problem. 
+23 
+24 
+25 A 
+Q 
+A But he was not currently in office. He was a former Congressman. 
+Okay. 
+I believe his role was just assisting the campaign, so -- 43 
+1 Q Did you have any interaction with --or, sorry, let me rephrase. 
+2 While you were in Pittsburgh supporting Ms. Norton from the Republican National 
+3 Lawyers Association, did you do any work related to election fraud? 
+4 A No. I believe the provisional ballots aren't necessarily fraud related. 
+5 think things like they submitted an --a voter submitted an absentee ballot but there was 
+6 no secrecy envelope or something like that. So no, like, fraud incidents. 
+7 Q Okay. Understood. And where physically were you working in 
+8 Pittsburgh? 
+9 A So the first day or 2 days I was there we were working out of an office 
+10 building. I believe it was just a law office building. I don't know which one. The 
+11 building had started to receive, you know, threats based on the fact that people in the 
+12 public knew that people from the Trump campaign were working there. And so 
+13 Christina and I just worked out of our hotel room for the rest of the time we were in 
+14 Pittsburgh. 
+15 Okay. 
+16 Do you have anything else about Pittsburgh? 
+17 BY 
+18 Q Did you help at all with affidavits or collecting declarations or anything like 
+19 that in Pittsburgh as part of your responsibilities? 
+20 
+21 A 
+Q Can you repeat the question? 
+Yep. Did you help with collecting affidavits or declarations during your 
+22 time in Pittsburgh? 
+23 
+24 
+25 A 
+Q No. 
+Okay. 
+BY  44 
+1 Q Okay. And I think you told us that after about a week you came home here 
+2 to Virginia. 
+3 
+4 A 
+Q Uh-huh. 
+Is that correct? What was your understanding then about any additional 
+5 duties that you would have for the Trump campaign? 
+6 A I came back to Virginia, McLean, with the understanding that I would likely 
+7 be going to Philadelphia. I didn't have at that point any idea of when or what I'd be 
+8 doing there. I was still --the provisional ballot canvassing in Pennsylvania was not over 
+9 at that point, so I was still working with Christina. 
+10 Q Okay. So the provisional ballot canvassing work that you were doing in 
+11 Pittsburgh, was that specific to Pittsburgh or for all of the State of Pennsylvania? 
+12 A I don't have a comprehensive list of counties that Christina and I were 
+13 responsible for. I do know it was pretty much most of the counties. I say most as kind 
+14 of a guess. I'm not really sure. 
+15 I don't know much about Pennsylvania, you know, how many counties are there 
+16 or anything. I think it was pretty much everywhere but Philadelphia and maybe some of 
+17 those surrounding counties we did not handle either. This is also over a year ago, so my 
+18 knowledge of Pennsylvania counties is low. 
+19 Q I appreciate that. Thank you. 
+20 So when were you told to go to Philadelphia? 
+21 A At some point within that 24 hours that I was home, so some day a week 
+22 after the election. 
+23 
+24 
+25 Q 
+A 
+Q A short visit, unpack, repack? 
+Yes. 
+Off you go. Okay.  1 
+2 
+3 So who told you to go to Philadelphia? 
+A Deputy Director Michael Brown. 
+Q Okay. And what did Mr. Brown tell you were your --would be your 
+4 responsibilities in Philadelphia? 45 
+5 A Well, I was still working with Christina at the time, so finishing up provisional 
+6 ballot canvassing, you know, work with her. She would --I was also informed that she 
+7 would also be going to Philadelphia. 
+8 
+9 
+10 Q Okay. And did she go to Philadelphia, Ms. Norton? 
+A She did. 
+Q Okay. After the --did you have an expectation at the time of what else you 
+11 would be asked to do beyond the provisional ballot canvass once that was complete? 
+12 
+13 
+14 A Not at that time, no. 
+Q Okay. What happened when you got to Philadelphia? 
+A I continued to work on things related to provisional ballot review. My 
+15 friend and colleague, Madison Crawley, was still there, you know, helped her out with 
+16 some tasks she was doing, basically just managing the volunteers who were in the 
+17 Philadelphia office. 
+18 She would organize things like catering and, you know, making sure 
+19 everything --everyone had office supplies and things like that. So I would just assist her 
+20 with a couple of those things. 
+21 
+22 
+23 
+24 Q Okay. And Madison, did she go to Philadelphia before you did? 
+A She was already there when I got there. 
+Q Okay. Had she gone there right after the election? 
+A I'm not entirely sure of her --of the date that she left Arlington, but I believe 
+25 it was around the same time that I went to Pittsburgh.  46 
+Okay. How long did you stay in Philadelphia? 
+I left sometime around December maybe 3rd or 4th, so --1 
+2 
+3 Q 
+A 
+Q So is that --so you were in Pittsburgh for about a week after the election, so 
+4 you got to Philadelphia maybe November 12th or 13th, somewhere around there. Does 
+5 that sound right? 
+6 
+7 
+8 
+9 A 
+Q 
+A 
+Q Sorry, I'm trying to do math in my head. 
+Yeah. 
+Yes. 
+Yeah. So was it maybe about 3 weeks or longer that you were in 
+10 Philadelphia? 
+11 A I'm trying to do math in my head again. Yeah, that sounds about right. 
+12 Just sometime, you know, mid-November to very early December. 
+13 Q Okay. Okay. Great. 
+14 Did you have any contact with local elected officials in Philadelphia while you were 
+15 working for the Trump campaign there? 
+16 
+17 
+18 A 
+Q 
+A No, none that I recall. 
+And did you have any role in election fraud issues in Philadelphia? 
+Yes, but not directly. If there was an affidavit or a declaration that 
+19 someone else collected, my role, like I mentioned with the Google Drive that we talked 
+20 about earlier, you know, me not having --knowing what some of those documents were, 
+21 my role was basically just taking them from an unorganized folder in the drive and sorting 
+22 them by county or incident or whatever it was there. So, yes, but not directly. 
+23 Q Okay. And who was collecting or --the affidavits and declarations that 
+24 you're referring to? 
+25 A I am not sure who collected them. I assumed lawyers, but I don't know  47 
+1 who or anything like that. 
+2 Q During this time period, towards the end of November and early December, 
+3 were you involved in collecting any affidavits or declarations about election fraud? 
+4 
+5 
+6 A 
+Q 
+A I did not collect them. Solely organizing, like I stated. 
+And is it right that you said that you don't know who collected them? 
+I don't have any names of people who collected them, no. I think it was a 
+7 group of lawyers, likely campaign volunteers. But, no, I have no specific names on who 
+8 was collecting those. 
+9 
+10 
+11 Q 
+A 
+Q 
+12 staffer? Okay. Is there anyone in particular who asked you to organize them? 
+Chelsea Barnett. 
+Okay. And was Ms. Barnett a lawyer for the campaign or a campaign 
+13 A She was employed by some aspect of the campaign. I believe it was Trump 
+14 Victory or one of the PACs or something. And she came to Philadelphia to, you know, 
+15 continue to assist the campaign. She's --so I don't know, you know, what her official 
+16 title was in Philadelphia. 
+17 
+18 
+19 Q 
+Q Okay. 
+BY 
+I just wanted to ask a quick followup question. I believe you said that you 
+20 helped organize the affidavits or declarations that you were collected by other people. 
+21 Is that right? 
+22 
+23 
+24 
+25 A 
+Q 
+A 
+Q Yes. 
+In Philly. Did you say that you helped sort them by county or incident? 
+Yes. 
+Okay. Can you just clarify what you mean by incident?  48 
+1 A Meaning like if the declaration was, you know, someone, I don't know, a 
+2 particular type of alleged voter fraud or irregularity or something like that. 
+3 Q And do you remember the types of alleged voter fraud or irregularities that 
+4 you could sort by or that you were sorting by? 
+5 A I mean, to be honest, I mostly did them by county and by name. You know, 
+6 they would assign a certain number to a certain person's affidavit or declaration, and I 
+7 would mostly just, you know, assign the number, something like that. I'm not really sure 
+8 about, you know, the names of the folders that they were specifically sorted by beyond 
+9 that. 
+10 Q And do you --did anyone ever tell you how the affidavits or the declarations 
+11 were going to be used? 
+12 
+13 A 
+Q No. 
+Okay. So you weren't --you just knew you needed to sort them but 
+14 weren't sure how --why you needed to sort them. 
+15 
+16 
+17 
+18 A 
+Q 
+Q Correct. 
+Is that fair? Okay. Thank you. 
+BY 
+Do you remember any examples of the types of allegations of election fraud 
+19 were in those affidavits or declarations? 
+20 A Things like people who were deceased voting or incidents of, you know, one 
+21 person casting multiple ballots, incarcerated individuals. I don't know. That's not 
+22 really a comprehensive list. Those are just some examples. 
+23 Q Okay. Do you recall approximately how many affidavits or declarations 
+24 were collected in Pennsylvania? 
+25 A I don't have any clue.  1 Q Okay. Did there ever come a time where you had another responsibility 
+2 related to those affidavits or declarations? 
+3 
+4 
+5 A 
+Q 
+A 
+6 print them. I printed some of them out one time. 
+For whom? 
+Michael Brown asked me to print them, but I'm not sure who asked him to 49 
+7 
+8 
+9 Q 
+A Okay. Did you have any other connection with election-related litigation? 
+No. 
+10 
+11 
+12 
+13 Mr. Brothers. I guess, could you clarify, like connection, like -­
+- Sure, I can rephrase that. Sure, yeah. 
+The Witness. Yeah, could you be more specific? 
+BY 
+Q Uh-huh. Here's a first question. Those affidavits or declarations, did you 
+14 ever become aware that they had been used in court, for instance? 
+15 A I believe that's what we were printing them for. I'm not entirely sure if 
+16 they were, you know, actually presented in court or not. 
+17 Q Okay. And did you have any other role supporting election-related 
+18 litigation on behalf of the campaign? 
+19 
+20 
+21 
+22 
+23 
+24 
+25 A 
+Q Can I consult with my attorney? 
+Of course. 
+[Discussion off the record.] 
+The Witness. Okay. I am ready to answer your question. 
+Q 
+A Okay. Please, go ahead. 
+I, at one point, by the Pennsylvania State director of election day operations,  50 
+1 James Fitzpatrick, instructed me to drive Linda Kerns. She was an attorney. I believe 
+2 she represented the campaign. I drove her to Williamsport, Pennsylvania, for some kind 
+3 of hearing. 
+4 Q Other than driving Ms. Kerns to the hearing itself, did you have any other 
+5 involvement with the litigation case there? 
+6 
+7 
+8 
+9 
+10 
+11 A 
+Q Can I refer to -­
+Go ahead. 
+[Discussion off the record.] 
+The Witness. No, none that I recall. 
+BY 
+Q Okay. Other than Ms. Kerns, who you just mentioned, and Ms. Norton, 
+12 who we discussed earlier, did you have any other interactions with lawyers for the 
+13 campaign while you were in Pennsylvania? 
+14 
+15 
+16 
+17 A 
+Q 
+A 
+Q Christina Norton is not an attorney. 
+Oh, I'm sorry. 
+She is the political director for the National Republican Lawyers Association. 
+Okay. Thank you for that clarification. 
+18 So other than Ms. Kerns only, did you have any other interaction with lawyers for 
+19 the Trump campaign while you were in Pennsylvania? 
+20 A Michael Brown is an attorney. I'm not sure if James Fitzpatrick is an 
+21 attorney or not. 
+22 There were, you know, like I mentioned, those volunteers who were collecting the 
+23 affidavits and everything. They were in the same building. And, like I said, I would 
+24 assist Madi in making sure that they had, you know, catering and office supplies and 
+25 things like that. So no interactions, particular interactions that I remember, but, you  51 
+1 know, they were in the same building. I don't remember any other attorneys. 
+2 Q Okay. Michael Brown, who you just told us is an attorney, did you 
+3 understand him to be acting as an attorney on behalf of the campaign, or was he working 
+4 in a political role? 
+5 
+6 A 
+Q I would say working in a political role, but you'd have to ask him. 
+Okay. Do you have any understanding of whether Mr. Brown was 
+7 representing the Trump campaign in any election-related litigation? 
+8 
+9 A 
+Q Could you repeat the question? 
+Sure. Did you have any knowledge of whether Mr. Brown was representing 
+10 the campaign in litigation as an attorney? 
+11 
+12 A 
+Q I don't believe so, but once again, you'd have to ask him. 
+Okay. Same question for Mr. Fitzpatrick, who I think you said might be a 
+13 lawyer. Did you understand him to be acting as a lawyer for the campaign at this time? 
+14 A I don't believe he was, but you'd have to ask him again. 
+15 Q Okay. And what was your friend and colleague Ms. Crawley's 
+16 responsibilities while you were in Pennsylvania? 
+17 A Just coordinating volunteers, you know, keeping track of who was coming in 
+18 and out of the building, making sure they had food and water. And, you know, pretty 
+19 much we were both low-level. Yeah. 
+20 Q And I think you described where you were in Pittsburgh but I neglected to 
+21 ask you, where were you physically working during your time in Philadelphia? 
+22 A In an office building that I would assume the Pennsylvania Trump campaign 
+23 had been renting or leasing or something like that. 
+24 Q Okay. Was it a place where there were a lot of Trump campaign staffers 
+25 still working when you got there?  52 
+1 A The only staff that I can remember off the top of my head would be Michael 
+2 Brown, Madison Crawley, James Fitzpatrick, and James Fitzpatrick's deputy, Lauren 
+3 Casper. I believe her first name is Lauren. 
+4 Q Okay. And those campaign staffers that you just identified, had they all 
+5 been at headquarters until election day? 
+6 A No. The only ones who were at headquarters were myself, Madison, and 
+7 Michael. 
+8 Q I see. And where were Mr. Fitzpatrick and his deputy, Ms. Casper, where 
+9 were they working for the Trump campaign before election day? 
+10 A I believe in that same office building, but you'd have to ask them for 
+11 clarification. 
+12 Q Okay. So it's your understanding that they had been working in 
+13 Pennsylvania on behalf of the campaign before that. 
+14 
+15 
+16 A 
+Q Correct. 
+Is that correct? Okay. Thank you. 
+- Okay. This is a good point to just pause to see, Ms. Lofgren, are 
+17 there any questions that you'd like to ask now? 
+18 
+19 
+20 
+21 
+22 Ms. Lofgren. No, I'm fine. Thank you. 
+Okay. 
+Anything from you,_? 
+No. 
+- Okay. So we have a few more questions I think at a general level, 
+23 and then we can talk about taking a longer break in the middle here for lunch if that's 
+24 something that you guys want to keep on the horizon. 
+25 Mr. Brothers. Yeah, let's -- 1 
+2 The Witness. I just have to use the restroom soon, so --
+- Yes, sure. Let's go for maybe another 10 minutes. I know we 53 
+3 were interrupted by the alarm. Let's do another 10 minutes and take a short break, and 
+4 we can talk about whether we need to take a longer break for food. Okay. Great. 
+5 
+6 Q BY 
+Ms. McCall um, did there come a time when you were in Pennsylvania for the 
+7 campaign where you were asked to make phone calls to local elected officials in 
+8 Pennsylvania or elsewhere? 
+9 
+10 A 
+Q Can you repeat the question? 
+Sure. Did there come a time when you were working in Pennsylvania on 
+11 behalf of the Trump campaign where you were asked to make phone calls to State or 
+12 local officials? 
+13 Y A 
+14 
+15 
+16 
+17 
+18 
+19 to do? Q 
+A 
+Q 
+A 
+Q 
+A Okay. When did that happen? 
+Sometime the very end of November. 
+Okay. And who asked you to make those phone calls? 
+Michael Brown. 
+Okay. And what did Mr. Brown tell you about what you were being asked 
+Basically just told me over text message that this is what we would be doing 
+21 and sent the script. 
+22 Q Okay. And what was your understanding of what Mr. Brown's role was for 
+23 the campaign at that time? 
+24 A I believe still acting as deputy director of election day operations, but you'd 
+25 have to ask him to be clarified there.  54 
+1 Q Okay. So to the best of your recollection, what exactly did Mr. Brown say 
+2 when he asked you to make these phone calls? 
+3 A Just said that we would be making phone calls over text message and then 
+4 sent a basic script. 
+5 Q Okay. And this --I know that you have produced text messages to us and 
+6 we plan to talk about them, so this is not meant to be a memory test. 
+Okay. 7 
+8 A 
+Q If there is something that you remember that was actually communicated to 
+9 you in a text message that you produce, we can start looking at documents. 
+10 So my question also was directed at, did you have any other conversations with 
+11 Mr. Brown, separate from the text messages that he sent and that you produced, about 
+12 what you were being asked to do? 
+13 
+14 
+15 
+16 
+17 
+18 
+19 A 
+Q 
+A 
+Q 
+A 
+Q 
+A After the text messages were sent -­
+Okay. 
+--we met in person. 
+And where did you meet? 
+Someone's hotel room. I'm not exactly sure whose. 
+Okay. And who else was present? 
+Madison Crawley, Chelsea Barnett, and Kerrick Kuder. Kerrick is 
+20 K-e-r-r-i-c-k. Kuder is K-u-d-e-r. 
+21 Q Okay. And tell us about what was said in that meeting in the hotel room in 
+22 Philadelphia in late November where you, Mr. Brown, Ms. Crawley, Ms. Barnett, and 
+23 Ms. Kuder were meeting. 
+24 A It was basically repetition of the text message that we all received. Beyond 
+25 that, you know, there was a list of the representatives and senators and their contact  55 
+1 information and just an assignment of who would be calling who. 
+2 Q Okay. What did Mr. Brown tell you about why you were being asked to 
+3 make these calls? 
+4 A I don't really recall. You know, I don't really recall asking either, you know. 
+5 At that point I was a low-level campaign staffer and really just thought of it as another job 
+6 assignment. Yeah. 
+7 Q Okay. Have you been asked to make calls to State or local elected officials 
+8 in your job at any other time? 
+9 
+10 A 
+Q Can you repeat the question? 
+Sure. Was this the first time that you'd been asked to call State and local 
+11 elected officials on behalf of the Trump campaign? 
+12 
+13 A 
+Q I believe so, yes, first time. 
+Okay. Do you remember if anyone in that meeting asked any questions 
+14 about the assignment that you were being given? 
+15 
+16 
+17 given? 
+18 
+19 A 
+Q 
+A 
+Q I don't remember any specific questions. 
+Okay. Did anyone raise any concerns about the project you were being 
+I don't recall any specific concerns. 
+Okay. Do you recall anyone saying where the script that you were being 
+20 given, where it had come from? 
+21 
+22 
+23 A 
+Q 
+A No. 
+Do you know who prepared it? 
+It was sent to me from Michael Brown. I don't know if it originated 
+24 anywhere else. All I know is that I got it from him. 
+25 Q Got it. So is it accurate to say that Mr. Brown didn't tell you who had  56 
+1 drafted it? 
+Correct. He did not tell me who had drafted it. 2 
+3 A 
+Q Okay. Did Mr. Brown discuss with you and your colleagues in that meeting 
+4 any other issues about election fraud or election integrity? 
+5 
+6 A 
+Q I don't recall if there was anything discussed in that meeting other than that. 
+Okay. And what was your understanding about this project that you were 
+7 being given to call State and local officials, what was your understanding about how it fit 
+8 into the current status of the campaign at that time? 
+9 A Honestly, I really just didn't give the job assignment much more thought 
+10 than someone told me, a low-level campaign staffer, to make a phone call and I did so. 
+11 You know, to me, I don't know, you know, what his idea was of how it played into the 
+12 campaign. 
+13 Q Okay. Maybe --you recall this meeting happening at the end of November. 
+14 Is that correct? 
+15 
+16 A 
+Q Yes, sometime in the last few days of November. 
+Okay. Before that meeting when you were in Philadelphia had you had any 
+17 other, you know, job responsibilities or any other projects that you were given that 
+18 related to the outcome of the election, like any election fraud-related work? 
+19 A There was at one time Michael Brown sent me an Excel spreadsheet that just 
+20 had addresses on it and how many registered voters were registered at that particular 
+21 address. And all I did there was just type the address into Google Maps and figure out if 
+22 it was an apartment building or a hotel or whatever type of building that address was. 
+23 Q Okay. And what did you do with that information once you had researched 
+24 it on Google Maps? 
+25 A Just plugged in what it was into an Excel spreadsheet and sent it back to him.  1 
+2 
+3 Q 
+A 
+Q Okay. And do you recall what State those addresses were in? 
+Pennsylvania. 
+That was for Pennsylvania, okay. 57 
+4 Any other projects that you've been given related to allegations of election fraud 
+5 other than the affidavit sorting that we talked about and this research about addresses? 
+6 A Yes. On --sometime a few days before Christmas, maybe December 23rd, 
+7 Peter McGinnis, who is Mike Roman's assistant, reached out to Madison Crawley and 
+8 myself about researching a list of incapacitated, I believe is the word, voters in Wisconsin 
+9 and just asked us to, you know, look up these people and see if they were actually 
+10 incapacitated at the time or not based on, you know, social media postings or something 
+11 like that. And that information, same thing, was just plugged into, you know, a 
+12 document and sent back to Peter. 
+13 
+14 
+15 
+16 Q 
+A 
+Q 
+A Okay. And what was Mr. Roman's job title with the campaign? 
+Director of election day operations. 
+Okay. And what was your understanding of his responsibilities? 
+Overseeing election day operations. 
+17 Q Okay. Had you --you mentioned that he was physically in Pennsylvania 
+18 when you were there. Is that right? 
+19 
+20 A 
+Q That's correct. I saw him a couple times while I was in Philadelphia. 
+Okay. And just in general, did you have any --had you had any previous 
+21 interactions with Mr. Roman before you got to Pennsylvania? 
+22 A I believe I met him maybe once or twice at headquarters more 
+23 than --nothing more than, you know, introduction --"Hi, I'm Angela," "Hi, I'm 
+24 Mr. Roman," you know. 
+25 Q Right. Okay. And did you have any other general understanding of what  58 
+1 his connection was to the campaign or his previous responsibilities, sort of where he fit? 
+2 
+3 
+4 
+5 
+6 
+7 
+8 A Mostly what I knew about him is he was who Michael Brown reported to. 
+Q Okay. 
+A Really nothing beyond that. 
+Q Okay. Did he work in the White House? 
+A 
+Q 
+A Pardon? 
+Did Mr. Roman work in the White House? 
+At one point, I believe, very early in the administration. I have no idea 
+9 what his role was there. 
+10 Q Okay. And did you have any understanding of did he have a connection to 
+11 Pennsylvania? 
+12 
+13 
+14 
+15 A He's from Philadelphia. 
+Q Okay. 
+A That's where he resides. 
+Q Any other understanding of what were his responsibilities in Philadelphia in 
+16 this post-election period when you were there? 
+17 
+18 after. 
+19 
+20 
+21 
+22 A I don't know his specific job responsibilities while he was there or before or 
+Q Okay. 
+- Okay. Yeah, go ahead. 
+BY 
+Q Just a really quick followup, Ms. McCall um. 
+23 When you said earlier, you said you were given addresses and you were looking 
+24 them up in Google and then plugging them into a spreadsheet, and Mr. Brown asked you 
+25 to do that. Is that right?  1 
+2 
+3 
+4 A 
+Q 
+A 
+Q That's correct. 
+Do you know what Mr. Brown was going to do with that information? 
+I have no idea. 
+And when --I believe you said it was Mr. McGinnis, who was assistant to 
+5 Mr. Roman, asked you to research what you believe might have been incapacitated 
+6 voters in Wisconsin. Do you know why he needed that information? 59 
+7 A No. He mentioned someone named Jon, J-o-n, but I don't know who Jon is, 
+8 so --
+9 
+10 Q 
+A Mentioned him in the sense that --
+Mentioned in the sense that I believe Peter McGinnis was sending them to 
+11 Jon, whoever Jon is. 
+12 
+13 Q 
+A 
+14 Wisconsin. 
+15 Q 
+16 time? 
+17 A And you believe this concerned the State of Wisconsin? 
+The list that I received of voters to look up were, I believe, based solely in 
+And do you know whether Mr. McGinnis was working in Wisconsin at the 
+I believe he was home with his family for Christmas. 
+18 And I also would like to clarify, I did say that Peter McGinnis was Mike Roman's 
+19 assistant. I have no idea if that's, you know, his official title or not. That's just the role 
+20 that I saw him acting in. I believe he was a contractor as well, but I'm not entirely sure 
+21 of his employment status. 
+22 Q Okay. Thank you for that clarification. 
+23 And when you said Mr. McGinnis, he might have been home with his family, do 
+24 you know where home was for him for Christmas? 
+25 A Somewhere in the Philadelphia area.  1 
+2 
+3 Q 
+Q 60 
+Okay. Okay. Thank you. 
+BY-
+Okay. So just one more question and then we can take our break. 
+4 Going back to the meeting that you were starting to tell us about where you met 
+5 with Mr. Brown with several of your colleagues in a hotel room about the project 
+6 regarding calling State and local officials, had Pennsylvania been --the Presidential race in 
+7 Pennsylvania been called at that point? 
+8 
+9 A 
+Q Sorry, could you repeat the question? 
+Sure. The time period that you were starting to tell us about where you 
+10 met in a hotel room, Mr. Brown gave you the assignment of calling certain State and local 
+11 elected officials, you recall that that was at the end of November. 
+12 
+13 A 
+Q Uh-huh. 
+Is that right? Do you remember that it was after the election, the 
+14 Presidential election in Pennsylvania, had been called? 
+15 
+16 
+17 Mr. Brothers. Objection, vague. Can you define "called"? 
+BY-
+Q Sure. The --well, your --one of your responsibilities on election night was 
+18 monitoring the media to determine when each network was calling the race. 
+19 
+20 A 
+Q Uh-huh. 
+Announcing their conclusion about who would be the winner in the 
+21 Presidential race. Is that correct? 
+22 
+23 
+24 
+25 A 
+Q 
+A 
+Q Is that correct that was my role on election night? 
+Yes. 
+Yes. 
+Okay. And was Pennsylvania called on election night?  61 
+I don't remember. 
+Okay. 
+I mean, there are 50 States, so --1 
+2 
+3 
+4 A 
+Q 
+A 
+Q 1 remember that there were several contested States that weren't called on 
+5 election night. Is that consistent with your recollection? 
+6 
+7 A 
+Q Yes. 
+Yes. And I believe Pennsylvania was one of them that didn't get called 
+8 immediately. Do you agree with that? 
+9 A I agree. 
+10 Q Okay. When you --do you remember that there did come a time when the 
+11 media had announced their conclusion about who would be the winner of the 
+12 Presidential election in Pennsylvania? 
+13 A I believe that they --that they, being the media, had called the entire 
+14 Presidential nationwide sometime the second week in November. So, yes, by your 
+15 timeline that would be accurate. 
+16 Q Okay. So you remember that your meeting with Mr. Brown occurred after 
+17 that? 
+18 A After the media had determined that Pennsylvania was going to be called for 
+19 Joe Biden. 
+20 Q Okay. And do you remember the secretary of state of Pennsylvania issuing 
+21 an official result of the election while you were working for the campaign in 
+22 Pennsylvania? 
+23 
+24 A 
+Q I don't have any recollection of when that happened. 
+Okay. Do you --you described for us the process that lawyers for the 
+25 campaign were collecting affidavits.  1 
+2 A 
+Q Uh-huh. 
+Do you have any understanding of what the status was of the Presidential 
+3 election at that time? 
+Can you clarify? 62 
+4 
+5 A 
+Q Sure. When you were assisting with sorting affidavits and declarations that 
+6 were being collected by lawyers on behalf of the Trump campaign, do you have a --do 
+7 you remember what the status was of the Presidential --the Presidential election in 
+8 Pennsylvania at that time? 
+9 Mr. Brothers. Objection, vague. Can you define "status"? That could mean a 
+10 lot of things. 
+11 BY-
+12 Q Sure. Do you agree that there was litigation related to the outcome of the 
+13 Presidential election in Pennsylvania? 
+14 
+15 
+16 
+17 A 
+Q 
+A 
+Q Do I --I'm sorry. I'm just getting really confused as to what you're asking. 
+Sure. 
+Maybe let's just start that question over. 
+Sure. I'm merely trying to establish the timing of when you met with 
+18 Mr. Brown in the hotel room to discuss the project about calling State and local officials. 
+19 
+20 A 
+Q Uh-huh. 
+And I'm trying to determine whether that was after the election result had 
+21 been officially determined that President --now President Biden had won the State of 
+22 Pennsylvania. 
+23 A I told you that that meeting occurred sometime in the last couple of days of 
+24 November. As far as being aware of the date when the election was officially or 
+25 unofficially determined that Pennsylvania would go to President Biden, I don't know  63 
+1 when officially or unofficially Pennsylvania was called for Joe Biden, so I can't answer that 
+2 question. 
+3 Q Okay. Is it your understanding though that there --the Trump campaign 
+4 and lawyers supporting the Trump campaign were working to contest the outcome of the 
+5 official, you know, the official result of the Presidential election in Pennsylvania? 
+6 A I stated earlier that I have no idea what was going on on the litigation front 
+7 for attorneys representing the Trump campaign, so I just --I don't think I can answer that. 
+8 I don't know. 
+9 
+10 
+11 - Okay. Maybe this is a good time to take our break? 
+Mr. Brothers. Okay. 
+- If that's --Ms. Lofgren, unless you have any questions before we take 
+12 a brief break? 
+13 
+14 Ms. Lofgren. No, I'm fine. And how long will the break be, do we think? 
+- Mr. Brothers, do you want to proceed with another sort of similar 
+15 block of questioning or would you like to take a longer break? 
+16 
+17 
+18 
+19 
+20 
+21 
+22 Mr. Brothers. Can we have a conversation --
+- Yeah. 
+Mr. Brothers. about how long you think we're going to be going? 
+- Yeah. Maybe --
+Mr. Brothers. I don't know if we need to be on the record. 
+- Yeah, I think we can go off the record now. 
+[Recess.]  64 
+1 
+2 [12:19 p.m.] 
+3 Ready to go back on the record? Great. 
+4 Hi, Ms. Mccallum. I wanted to go through some of the documents that you 
+5 produced to the select committee. If you can turn to your binder, tab 4. 
+6 Mr. Brothers. And just for clarity, I'm assuming the document is behind tab 4, 
+7 right? 
+8 Yes, it's the document behind tab 4. It looks like an iMessage 
+9 dated November 12, 2020. 
+10 
+11 
+12 Do you see that? 
+The Witness. I do. 
+Great. So you can take a minute or two to review the 
+13 document. 
+14 
+15 
+16 
+17 Mr. Brothers. Thank you. 
+Of course. 
+The Witness. Are we just looking at the first one or all pages? 
+Yes, a good question. You can look through the various 
+18 pages --
+19 
+20 The Witness. Okay. 
+--and just familiarize yourself. It's definitely not a memory 
+21 test, and you can refer to the document too. Yes --
+22 
+23 
+24 
+25 Mr. Brothers. Thank you. 
+--you can take a second to look through it. 
+The Witness. Okay. 
+Great.  1 
+2 Q BY 
+So we're looking at the document behind tab 4. It looks like it appears to 
+3 be a communication with "Nick I." 
+4 Do you know who Nick I is? 
+5 A That would be Nick Ivory. 
+6 
+7 Q 
+A 
+8 manager. Okay. 
+We talked about him earlier. He was the elected officials outreach 65 
+9 Q And you took a minute to look through this document. Do you recall which 
+10 State this communication concerned? 
+11 
+12 
+13 
+14 A 
+Q 
+A 
+Q Pennsylvania. 
+And do you generally recall this communication with Mr. Ivory? 
+What do you mean by "generally recall"? 
+Do you remember receiving this message, now that you've had a chance to 
+15 look at it, that you had this communication with Mr. Ivory? 
+16 A Yes, I remember it. 
+17 Q So, if you look at, I believe, the first message you sent to him --because it's a 
+18 blue bubble. Does that sound right, that you sent that first blue message? 
+19 A Yes. 
+20 Q Okay. So you ask, "Hey do you have a good relationship with any 
+21 commissioners in the following counties?" And you list four counties. Is that right? 
+22 
+23 A 
+Q Correct. 
+Do you remember why you were asking Mr. Ivory if he had a good 
+24 relationship with any commissioners in those four listed counties, which are Delaware, 
+25 Manteo, Chester, and Bucks?  66 
+1 A Yes. If you look at the second page, he sent a message that says, "What do 
+2 you need to find out about?" And I respond, "Just more hearing dates." That was 
+3 referring to provisional ballot review canvassing, I believe. 
+4 Q Okay. Thank you. 
+5 And do you recall, in those hearing dates, what they concerned other than, you 
+6 know, broadly speaking, provisional ballot review? 
+7 A I would believe that I was simply trying to find out when we needed to have 
+8 observers, volunteers at the provisional ballot review. 
+9 
+10 Q 
+A So you don't think this was actually concerning the hearings themselves? 
+I believe that a part of provisional ballot review has a type of hearing. 
+11 don't know any, you know, more specifics on that. "Hearing" is referencing a part of 
+12 provisional ballot review. 
+13 Q And do you know what relationship the commissioners have in these 
+14 hearings? 
+15 A Just trying to find a local contact who might know what dates these were 
+16 occurring in these specific counties. 
+17 Q Okay. So, when you asked Mr. Ivory for that information, it was just for 
+18 contact information for people to attend the hearing? Or help me understand. 
+19 A So I was asking him if he had a good relationship with any of these county 
+20 commissioners in these four counties that I listed because I wanted to know if these 
+21 county commissioners had knowledge of when these hearings for provisional ballot 
+22 review were taking place. 
+23 
+24 Q 
+A Okay. 
+If he had a relationship, it appears that I likely would've asked him to contact 
+25 one of those individuals, rather than me, a stranger, contacting them.  67 
+1 Q And is this the kind of information --and you might not know this, and you 
+2 can tell me --that wouldn't be, like, available, like, publicly on a website? 
+3 A I assume you could get the information if you called the county. But, at 
+4 that time, you know, sometimes calling the county wasn't the most --the quickest thing 
+5 to do. Sometimes local and county governments aren't very responsive. So it was just 
+6 a way to gather information on dates. 
+7 Q So your recollection is you called --or, excuse me --you asked Mr. Ivory if he 
+8 had any good relationship --had a good relationship with any of, you know, the four 
+9 listed county commissioners simply for, like, almost like logistical purposes or scheduling? 
+10 A Correct. I stated earlier my role in the provisional ballot review was just 
+11 scheduling volunteers to be at these counties. So, yes, that's my only goal with these. 
+12 Q Understood. 
+13 And, if you recall, had someone asked you to reach out to Mr. Ivory to ask him this 
+14 question? 
+15 A Potentially Christina Norton, as my, you know, superior at this given time. 
+16 I'm not exactly sure. 
+17 Q Okay. 
+18 And do you remember what, if anything, you did, you know, with the information 
+19 that Mr. Ivory gave you? 
+20 A Well, it looks like he didn't have any information for me, because I said, "No 
+21 worries if there aren't established relationships there," and then said I was going to have 
+22 Fitz, referring to James Fitzgerald, call the county GOP chairs. 
+23 Q And do you know if --you said Mr. Fitzgerald? 
+24 
+25 A 
+Q Or, sorry, Fitzpatrick. I misspoke. 
+Not a problem. Do you know if Mr. Fitzpatrick called the county GOP  1 chairs? 
+2 
+3 
+4 A 
+Q I don't remember. 
+Okay. 
+And --let's see. Okay. And do you recall, did you do other type of, you know, 
+5 outreach to other people similar to this, where you were asking if they had a good 
+6 relationship with commissioners maybe in other counties? 
+7 A Nick's --Nicholas Ivory's role on the campaign, as an elected officials 
+8 outreach manager, he handled relationships with county commissioners. So the only 68 
+9 reason I was asking Nick is because he had been contacting various county commissioners 
+10 over numerous States for months at this point. 
+11 
+12 Q Okay. 
+So, to the best of your understanding, these hearing dates that are referenced on 
+13 the second page --and I apologize, the Bates is very small. It's how it was produced to 
+14 us. I believe it's 1574. 
+15 A Uh-huh. 
+16 Q The hearing dates, those did not concern alleged election fraud or alleged 
+17 voter fraud? It was just provisional ballot review? 
+18 A To my knowledge, this was about provisional ballot review hearings. 
+Q Okay. Great. 19 
+20 - Yeah, just one question. On this document, your colleague 
+21 Mr. Ivory says that his last day on staff is basically tomorrow, which would've been 
+22 around November 13th. Do you know, did he leave the campaign, as anticipated, right 
+23 after that? 
+24 The Witness. I assume. I don't remember any conversations I had with him 
+25 after this.  1 
+2 
+3 - Okay. Thanks. That's all I had. 
+BY 
+Q We'll turn to another document. If you want to turn to the document 
+4 behind tab 3, it's just a one-page text communication, with the Bates --I think it's 604. 
+5 And you can take a minute, you and Mr. Brothers, to review the document. 
+A Okay. 
+Q You've both reviewed it? 
+A Uh-huh. 69 
+6 
+7 
+8 
+9 Q Okay. So this communication is dated November 28, 2020. Is that right? 
+10 
+11 
+12 
+13 A Correct. 
+Q And this is with Mr. Brown and Mr. --excuse me, Ms. Crawley? 
+A Yes, "Madi" being short for Madison. 
+Q And we don't have the exact timestamp. That wasn't provided. So I'm 
+14 not sure what time this was. But if you look at the fourth message down, Mr. Brown 
+15 asks, "Can you pull all the donors to PA House Speaker Jake Cutler and cross reference 
+16 them with DJT?" 
+17 Do you see that? 
+18 
+19 
+20 
+21 
+22 A I do. 
+Q Okay. Do you remember receiving this request? 
+A Vaguely. 
+Q Okay. Can you tell us what you remember about what he was asking for? 
+A He said that he needed myself and Madison to pull the donors, meaning 
+23 people who donated to Pennsylvania House Speaker Jake Cutler and people who donated 
+24 to DJT, standing for Donald Trump's campaign, and, you know, seeing what names 
+25 matched up.  70 
+1 Q And do you know why Mr. Brown wanted you and Ms. Crawley to see if any 
+2 of the names matched up between donors of the House speaker and President Trump? 
+3 
+4 A 
+Q He didn't specify in this message or in person that I remember. 
+So, as far as his request to pull all donors, it was limited to this 
+5 communication, and you don't remember him providing any further details as to why he 
+6 needed that information? 
+7 
+8 
+9 
+10 A 
+Q Can I have a minute to -­
+Yes. 
+[Discussion off the record.] 
+The Witness. The only other thing I remember about this conversation in 
+11 regards to, you know, why he might have wanted it: Somewhere else in my document 
+12 production there was another message after this chain that says something to the effect 
+13 of, "We want to put pressure on him tonight," and --or tomorrow, or referencing some 
+14 time in the near future. And I don't know what that's referring to. I just thought that 
+15 that would be helpful context. 
+16 
+17 
+18 
+19 Q 
+A 
+Q BY 
+Thank you for that context. 
+Uh-huh. 
+So you recall after this chain --and it's possible it was out of order, and I 
+20 apologize we don't have it here. 
+21 
+22 A I think so. 
+Mr. Brothers. I can try to find you, when we take a break, the Bates number. 
+23 The text she is referring to I am almost certain is in the production. I would think it 
+24 would come next, but I must admit I don't have the Bates numbers all memorized 
+25 chronologically in my head.  1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 No. Understood. 
+The Witness. I saw it yesterday, yeah. 
+Mr. Brothers. Okay. Okay. 
+The Witness. I'm for sure it's in the documents. 
+Mr. Brothers. We're certain it's in there. We can get you a Bates number. 
+Great. Well, thank you. 
+BY 
+Q So, as I said, we don't have the document here, but, from what you 71 
+9 remember, there was a message after this or at some point after where it was putting --it 
+10 was Mr. Brown saying, we want to put pressure on the Pennsylvania House speaker? 
+11 A I think it just said something along the lines of, "We want to put pressure on 
+12 him tonight." I don't know who he's referring to. I would assume "him" being Speaker 
+13 Cutler, but I'm not sure. 
+14 - Can I just do one point of clarification? 
+15 The speaker of the House's name --the speaker of the House in Pennsylvania, his 
+16 name is Bryan Cutler. 
+17 
+18 The Witness. Oh. 
+- There is also a Senate president in Pennsylvania whose name is Jake 
+19 Corman. So it looks like this --the name that's referenced here is a bit of a combination 
+20 between the two. 
+21 But was it your understanding, Ms. Mccallum, that the person who's being 
+22 referred to is the person who held the office of speaker of the House in Pennsylvania? 
+23 The Witness. I assume. There may have been further clarification there once I 
+24 started this, but I don't remember any --I don't remember. I would assume Speaker 
+25 Cutler being Bryan, but unsure.  1 
+2 
+3 
+4 -Okay. 
+Thanks. 
+-Yep. 
+BY 72 
+5 Q Do you know --you said you recall a message about putting pressure on him 
+6 tonight. Is that right? 
+7 A I --we have to find the document. 
+8 Q Okay. Do you remember what was happening around this period of time, 
+9 such that one might want to put pressure on Speaker Cutler? 
+10 A No. Like I said earlier, I wasn't involved in the conversations related to why 
+11 we were asked to do certain things. 
+12 Q Had you been asked this kind of request before, to pull donor data, on other 
+13 legislators at the State level or Federal? 
+14 A None that I recall. 
+15 Q So, from your recollection, this was, like, the first time that you'd received 
+16 this kind of request? 
+17 A I think so. I may have been asked to do that --like I described earlier, 
+18 Madison and I did informal vetting on people. I may have looked, you know, at the FEC 
+19 website once or twice before in something related to that, but I don't recall any. 
+20 Q And with respect to the pressure to put on the House Speaker Cutler, was it 
+21 your understanding it was financial pressure if it related to pulling donor data? 
+22 A I have no idea. I didn't send the message. So you'd have to ask Michael 
+23 Brown as to what kind of pressure he was referring to. 
+24 Q Do you know if anyone pulled the donor data for House Speaker Cutler and 
+25 cross-referenced them with President Trump?  1 
+2 
+3 
+4 A I believe Madison and I --
+Q Yeah. 
+A --did as instructed, but I can't confirm that. 
+Q So you believe it might have been you and Ms. Crawley that assisted but 
+5 you're not 100 percent sure. Is that fair? 
+6 A Yeah. We were --yes. We were asked to do it, so I assume that we 
+7 performed that task. 73 
+8 
+9 
+10 Q And you don't recall what Mr. Brown might have done with this information? 
+A I do not. 
+Q And did you do anything further with the information that you pulled other 
+11 than provide it to Mr. Brown? 
+12 
+13 A No. I assume I just sent it back to him. 
+Q And do you recall was it in a spreadsheet or how you transmitted the 
+14 information to Mr. Brown? 
+15 
+16 names. 
+17 
+18 
+19 A I was cross-referencing it. I would've very likely used Excel to match up 
+Q Okay. Perfect. Thank you. 
+A Uh-huh. 
+Q Turn to the document behind tab 5. And if you want to take a minute to 
+20 review. It's just one page, I believe. I believe it's Bates --I believe that's 59. 
+21 
+22 
+23 
+24 
+25 A Uh-huh. 
+Okay. 
+Q And this is a communication dated November 12, 2020. Is that right? 
+A That's what I see, yes. 
+Q There's not a name associated with this text message. Do you recall who  1 sent you this message? 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 Mr. Brothers. One moment, counsel. 
+[Discussion off the record.] 
+The Witness. Okay. 
+Mr. Brothers. Thanks, counsel. 
+The Witness. Can you repeat the question? 
+Q 
+A BY 
+Sure. Do you recall who sent you this message which is behind tab 5? 
+No. I would assume, based on the conversation, that it is a provisional 
+10 ballot, you know, volunteer observer. 
+11 Q Great. 74 
+12 And, in her message, she said that --or, excuse me, this person; I'm not sure of the 
+13 gender --that "we already anticipate having to go to court after our election commission 
+14 hearing tomorrow. Is there a pre-prepped doc that we can use to adjust for a quick 
+15 filing?" 
+16 Do you know what kind of filing this individual was referring to? 
+17 A Based on, you know, the date and the conversation and it being 
+18 Northampton, which is, I believe, a county in Pennsylvania, you know, I think this is 
+19 related to provisional ballots for filing? You know, I don't know exactly what she's 
+20 referring to. There's, you know, a process where they reject or keep provisional ballots 
+21 in some kind of, you know, hearing format. So I assume that that's the filing she's 
+22 referring to. 
+23 
+24 
+25 Q 
+A 
+Q Do you know, when she says a pre-prepped doc, what that means? 
+I don't. 
+But you believe it might relate to something to do with provisional ballots?  1 
+2 A 
+Q Correct. 
+And, at the time --this was November 12th --what were you working on 
+3 with respect to the provisional ballots in Pennsylvania? 
+4 A Solely just, you know, coordinating with volunteers who were observing at 
+5 these particular counties. 75 
+6 Q Do you recall, was there a challenge with respect to the provisional ballots in 
+7 Northampton around this time? 
+8 A I don't know. Like I said, there was a lot of counties that we handled in 
+9 Pennsylvania, so I won't be able to recall the outcome of any particular county. 
+10 Q Is it your understanding that there was a provisional review process in more 
+11 than one county in Pennsylvania? 
+12 
+13 
+14 
+15 A 
+Q 
+A 
+Q Yes. 
+Okay. And you were involved in the various counties. 
+Multiple counties. 
+Multiple counties. So you can't recall the different Pennsylvania counties 
+16 that you were involved with, with respect to provisional ballot review. 
+17 A I don't --I don't think I --I mean, I don't have a comprehensive list in my 
+18 head of every county. I mean, Christy and I had multiple, multiple counties. So I don't 
+19 know, you know, what was going on particularly in Northampton on November 12th. 
+20 don't recall. 
+21 Q And I believe you said the individual who texted you might have been a 
+22 volunteer. Is that right? 
+23 A Yes. 
+24 Q So you don't believe this was someone who was working for the Trump 
+25 campaign at this time.  76 
+1 
+2 
+3 A 
+Q I don't believe so, but I can't confirm. I don't have the number saved, so -­
+Right. Okay. Thank you. 
+- Yeah, just one question. I know that we received all these 
+4 documents in a production from your firm, Mr. Brothers, but I don't believe we received a 
+5 privilege log. Can you explain for us the basis for redactions on this document? 
+6 Mr. Brothers. Yeah. So the redactions are the First Amendment privilege we 
+7 asserted in our letter that covers voters and campaign volunteers. But, I should say, 
+8 that's not only a First Amendment privilege objection but also a legislative purpose and 
+9 pertinence objection is the basis for that redaction. 
+10 - Thank you for that response. 
+11 Setting that aside, it seems that the information that you redacted here might also 
+12 be described as redacted for personal, identifying, or private information. Is that an 
+13 accurate assumption on my part? 
+14 
+15 
+16 
+17 
+18 Mr. Brothers. That's accurate. 
+- Okay. All right. Let's leave it there, and then we can move on. 
+Great. 
+BY 
+Q Earlier, you had mentioned you'd done some work in Georgia --is that 
+19 right? --in connection with the 2020 election? Or with just the recount --or just 
+20 the --excuse me --the runoff elections in Georgia? 
+21 A I performed work with both, both the runoff and the general Presidential 
+22 election. 
+23 Sorry. Let me be more clear. I performed work for the National Republican 
+24 Senatorial Committee for solely the Senate runoff. Did not do anything for the Senate 
+25 general.  77 
+1 And then in my role for the Trump campaign, I performed work in Georgia, not 
+2 physically in Georgia, but --
+3 Q So let's just walk through the Trump campaign work that you did with 
+4 respect to Georgia in the 2020 election. 
+5 
+6 A 
+Q Okay. 
+Can you tell us, you know, when did you get involved in the Presidential 
+7 election with respect to Georgia in 2020? 
+8 A Well, Georgia was one of our battleground States. Like I mentioned earlier 
+9 with the elected officials outreach office, Olivia and Nick were, you know, having 
+10 communications and conversations with State senators, State representatives, county 
+11 commissioners, potentially county sheriffs as well. So, you know, a lot of those job 
+12 duties that I mentioned earlier, like collecting information to put into weekly reports, I did 
+13 that in Georgia. 
+14 Um --that's all I have for that question. 
+15 
+16 
+17 Q 
+A 
+Q So I'll just take it step by step. 
+Yeah. 
+Did you do work with respect to Georgia for the Trump campaign before 
+18 election day? 
+19 A Before election day, it would be, you know, any kind of communications 
+20 tracking that Olivia and Nick had me do, in respect to if there was an op-ed published or a 
+21 radio interview, that was something, or if they had messaging and talking points from a 
+22 conversation that Olivia had with a State rep, something like that. 
+23 Q And when you collected that information, tracked it, do you know how it 
+24 was being used? 
+25 A It was just sent in a --Madison and myself compiled that information into a  78 
+1 weekly report, and that report went to Jim. And I don't know what Jim O'Connell did 
+2 with it after that. 
+3 Q And who else were you working with with respect to Georgia 
+4 pre-election-day in the Trump campaign, if you recall? 
+5 A Pre-election-day, we were also sending volunteers. When Madison and I 
+6 assisted the Election Day Operations Team in coordinating travel plans with volunteers 
+7 who were going to work in Georgia the week of the election, Madison and I called, you 
+8 know, a couple people and asked, would you be willing to go to Atlanta, Georgia? 
+9 Something like that. 
+10 Q And do you recall what those volunteers would be doing? Or your job was 
+11 just to send them there, and someone else would give them that information? 
+12 A I don't recall any specific tasks that, you know, Madison and I were --we 
+13 weren't sending people there, saying, you know, this is exactly what you will be doing 
+14 while you're in Georgia for these days. 
+15 Madison and I were really just doing this from a, you know, national level, 
+16 meaning that, you know, once these people got there, the respective State directors 
+17 would be telling them what they would be doing. 
+18 Q 
+19 was? 
+20 A 
+21 Sinners. 
+22 
+23 
+24 Q 
+A 
+Q 
+25 Georgia? Do you recall who the State director for the Trump campaign in Georgia 
+The State director for election day operations is Robert --or was Robert 
+Robert Sinners? 
+Sinners, S-i-n-n-e-r-s. 
+And that was at the national level, or was that specifically related to  79 
+1 A He was the Georgia State director of election day operations. But you'd 
+2 have to confirm with him on his official title. That was just my understanding. 
+3 
+4 news --
+5 
+6 Q 
+A 
+Q And, on election day, I believe you said earlier you were just watching the 
+Uh-huh. 
+--and watching media reports about ballots and vote counts and whatnot. 
+7 Is that accurate? 
+8 
+9 A 
+Q Yes. On election day, I was still, like I said, just watching the news. 
+Did you have any other responsibilities specific to Georgia on election day, 
+10 like sending volunteers on election day to Georgia? 
+11 A Specifically on election day, I had no communications related to Georgia, 
+12 except for what was being said in the news. I don't remember if Georgia was called on 
+13 election night or not. If it was, that's the only thing Georgia-related I would've done that 
+14 day. 
+15 Q And, after election day, on November 3, 2020, what work did you do with 
+16 respect to Georgia for the Trump campaign specifically? 
+17 A The same calls that were made into Michigan for State legislators were also 
+18 made into Georgia. 
+19 Q And when you say "same calls," can you be more specific what you're 
+20 referring to? 
+21 A The document we briefly discussed earlier with the text message script from 
+22 Michael Brown. I don't know if the exact script was used or if, you know, it was altered 
+23 slightly to fit what was going on in Georgia. Similar to that is what I'm referring to. 
+24 Some scripted call. 
+25 Q And I believe we have that exhibit, so maybe we should just turn to it now.  80 
+Okay. 1 
+2 A 
+Q Do you want to turn to tab 6? Let's make sure we're all on the same page. 
+3 The document behind there is a text chain. I believe it's two pages --
+4 
+5 
+6 
+7 
+8 A 
+Q 
+A 
+Q 
+A Uh-huh. 
+--beginning with 600. Do you want to take a second to review that? 
+Yeah, I don't really need a second to review this. 
+Okay. 
+What I want to say about this specific text chain and anything sent in this 
+9 text chain with these, you know, seven people that I don't --like I said, this message came 
+10 from a number that I don't recognize. This was something that some random person 
+11 who somehow has my number sent me. I have no idea what this is. 
+12 
+13 
+14 Q 
+A 
+Q So --okay. I'll just start from the beginning. 
+Uh-huh. 
+Okay. So this is a text chain from November 16, 2020. Your recollection 
+15 is you got this text, you know, randomly. You don't know who even sent it to you. 
+16 
+17 A 
+Q That's correct. 
+Okay. So, even if you don't know who sent this to you, did you do anything 
+18 with respect to their request? 
+19 A I did not copy and paste the email letter below, and I did not insert my 
+20 name, and I did not email Georgia Senator Mike Dugan. 
+21 Q So you did not --you did not email --or, did you call Mike Dugan, to your 
+22 recollection? 
+23 A He potentially was on my call list for the State legislator calls instructed by 
+24 Michael Brown. I don't remember his specific name. It doesn't stand out to me. 
+25 Q If you would have called Senator Mike Dugan, would you have used this  1 script that's in this text chain we're looking at behind tab 6? 
+2 
+3 
+4 used? A No. 
+Q Okay. What would you have --is there a different script you would've 
+A It would be the document behind tab 7. 
+Q Okay. And so let's turn to tab 7. And, for the record, it's Bates 1570. 81 
+5 
+6 
+7 So this here, it's called a "Basic Script." Why don't you walk us through what it is 
+8 that we're looking at? 
+9 
+10 
+11 
+12 
+13 A Can I have a moment to review this document? 
+Q Oh, yes, of course. Absolutely. 
+A Thank you. 
+Okay. 
+Q So this appears to be a script to use with elected officials --is that 
+14 right? --when you're calling them. 
+15 
+16 A Correct. 
+Q Okay. How did you use, if at all, this script when you contacted elected 
+17 officials in Georgia? 
+18 
+19 
+20 
+21 
+22 A 
+Q 
+A I would've read it. 
+Read it --
+Read it. I mean, called them, read the script. 
+Q Do you recall who sent you this script? 
+A This seems to be a variation of the original script I received via text message 
+23 from Michael Brown. I would assume that this script also came from Michael Brown 
+24 with edits specific to Georgia. 
+25 BY  82 
+1 Q Ms. McCall um, just to tie this back to the conversation that we were having 
+2 before our last break, is this connected with that meeting that you recalled you had with 
+3 a couple of your colleagues as well as Mr. Brown in a hotel when you were in Philadelphia 
+4 in late November? 
+5 A Yes. There may have been more than one of those same types of meeting 
+6 with the script being presented to us and us being assigned, you know, which 
+7 representatives or senators to call, based on what State it was. 
+8 Q Okay. And that first meeting that we had just started to talk about before 
+9 our break, do you remember, was that specific to one State? 
+10 
+11 A 
+Q I don't remember what State was called into first. 
+How many of those meetings with accompanying scripts and phone lists do 
+12 you recall participating in with Mr. Brown? 
+13 A I can recall a few States. I'm not sure how many different meetings there 
+14 were, you know, to go over a specific State. Some of those States were Michigan, as you 
+15 know; Georgia; Arizona. And Nevada and Pennsylvania come to my mind. I don't 
+16 know if there were calls performed into both of those States. 
+17 Q Okay. 
+18 And so I asked you some questions about the first meeting, but perhaps I 
+19 should've been a bit more broad. 
+20 
+21 A 
+Q Uh-huh. 
+In all of the meetings that you had with Mr. Brown related to calls into 
+22 particular States --and I take your point that it may have been a couple of States that 
+23 were discussed at the same meeting. But, in all of those meetings, do you remember in 
+24 any of those meetings Mr. Brown telling you what the purpose was of making these calls? 
+25 A No, I don't remember any particular purpose that he mentioned in any  83 
+1 meeting for any State. 
+2 Q Okay. 
+3 Whether it was Mr. Brown or someone else who participated in the meeting, did 
+4 anyone ever tell you or give you an idea of how these calls fit into the overall strategy for 
+5 the Trump campaign? 
+6 A No. Like I said, I wasn't involved in any conversations about strategy, being 
+7 a low-level campaign employee. This was my first job out of college. No one would've 
+8 ever talked to me about strategy. 
+9 Q Well, in those meetings, when you're talking to Mr. Brown about making 
+10 these calls, did he ever give you any background information at all about the project, 
+11 other than the script and the numbers to call? 
+12 A In one text message --I don't know what exhibit number it would be --I 
+13 believe that Michael Brown said something along the lines of "I spoke with Roman," 
+14 referring to Mike Roman. But that's really all that comes to mind in regards to 
+15 background on the calls. 
+16 Q Okay. Did you ever learn what the relevance was to Mr. Brown of speaking 
+17 to Roman? 
+18 A Well, like I stated earlier, Michael Brown reported to Mike Roman, so a 
+19 conversation between, you know, my boss and his boss would make sense. 
+20 Q Understood. So was it your understanding at the time that Mr. Brown was 
+21 giving you an assignment that Mr. Roman had either given to him or had directed him to 
+22 give to you? 
+23 A I would assume that that would be the case, but that would be something 
+24 you'd have to, you know, confirm with Michael Brown. 
+25 Q Understood.  84 
+1 And I asked you a couple questions earlier about that first meeting, but for all of 
+2 these meetings or any other communications that you had with Mr. Brown about calls to 
+3 State and local officials, did anyone, you or any of your colleagues, ever raise any 
+4 concerns about making the calls? 
+5 A I had concerns after the, you know, Michigan voicemail was publicized. My 
+6 concerns were related to the fact that my personal cell phone number had been 
+7 published on the internet, and, you know, that was my full name. So my concerns were 
+8 mostly about, you know, how that would affect me personally. 
+9 Q Understood. And I'm sorry that that happened. 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 A 
+Q 
+Q 
+A 
+Q 
+A 
+Q 
+A Yes. 
+Okay. That's all I had. 
+B 
+Do you recall who received this script related to Georgia? 
+Are you asking who received the scripts or who received the calls? 
+Who received the actual --the script? 
+The actual copy of the script? 
+Right, what we're looking at behind tab 7. 
+That would be the same group of people I mentioned earlier with the calls: 
+19 myself, Madison Crawley, Chelsea Barnett, and Kerrick Kuder. 
+20 Q And what was your understanding as to what you were supposed to do with 
+21 this script? 
+22 A This is a script to make the same calls that we've been talking about to the 
+23 State representatives and State senators. 
+24 
+25 Q 
+A And did you have any sort of ability to edit the script or revise the script? 
+As a low-level campaign staffer, you know, I never really altered from the  85 
+1 script. Like I said, it was a job assignment to me, and that's how I took it. So, no, I 
+2 don't recall any particular edits that I would've made to it. 
+3 I mean, potentially, you know, not using their choice of words, you know, but very 
+4 basic. I'm trying to think of an example. Yeah, just rewording things, you know, in my 
+5 own terms. For example, maybe, you know, not saying my name first and saying that at 
+6 the end of that sentence. Something just --you know, sentence structure. 
+7 Q Are there any other, looking at this, any other statements that stick out to 
+8 you that you think you might have revised when making a phone call to an elected 
+9 official? 
+10 
+11 A 
+Q No. Nothing more than sentence structure. 
+Okay. 
+12 Was it your understanding that you and Madison, Chelsea, and Kerrick were to call 
+13 the elected officials all around the same time using this script? 
+14 A I believe, in the meetings that we've been talking about about making the 
+15 calls, that after those meetings is when we all went to separate rooms and made the calls. 
+16 So I would assume it would be, you know, all around the same time. 
+17 And I did also want to point out that I believe the script was revised, as well, in an 
+18 email format, which Kerrick would've been sending. 
+19 Q 
+20 structured --
+21 
+22 
+23 
+24 
+25 A 
+Q 
+A 
+Q 
+A And when you say "revised in an email format," do you mean so it would be 
+Structured as an email versus as a call script. 
+Understood. 
+Which is also --I think that email is public record as well. 
+For the State of Georgia or for a different State? 
+I believe that Kerrick's email is in this article that's cited somewhere in the  1 subpoena cover letter. 
+Got it. 
+This Mlive thing, I think that -­
+For the State of Michigan. 86 
+2 
+3 
+4 
+5 Q 
+A 
+Q 
+A Yes. I believe I --that's the only State I know of of a specific email. I don't 
+6 know if Kerrick or anyone else sent emails into other States. That's the only email I was 
+7 referring to. 
+8 Q Is it fair to say that, like, there was this basic script and there might've been 
+9 some small changes over time but it mostly stayed the same, for purposes of calling the 
+10 elected officials? 
+11 
+12 A 
+Q I don't recall any edits being made to the script. 
+So you think, across the different States, it was more or less similar to the 
+13 script we're looking at behind tab 7? Is that fair to say? Assuming, you know, 
+14 understanding people might have --
+15 A For the most part, I mean, this script, I believe, is different than the one that 
+16 we've been talking about in the text message with Michael Brown. I believe it differs 
+17 slightly, because there --it's a different script for different States, because, obviously, I 
+18 wouldn't be telling a representative in Michigan about what was going on in Georgia at 
+19 the given moment. So --
+20 Q So, if you look at the script and if you look at the paragraph, "I wanted to 
+21 personally reach out to you on behalf of the President," like, do you recall if that sentence 
+22 usually stayed across the scripts? 
+23 
+24 
+25 A 
+Q 
+A I can't recall. 
+Okay. 
+I can't speak to the specific differences between States. That's in the  87 
+1 different documents that I presented. 
+2 Q When you said you would have these meetings and then go back --I think it 
+3 was, you said you, Madison, Chelsea, and Kerrick would go back and make the phone 
+4 calls --was this over the course of a day, a number of hours, or weeks that you would call 
+5 these elected officials with the script? 
+6 A I believe that for all the calls that were made across various States it was a 
+7 less-than-a-week time span. Like, more along the lines of all calls were made within a 
+8 couple of days. I mean, these were all made, like I stated earlier, at the very end of 
+9 November, first couple of days in December. 
+10 And, like I stated, when I left Philadelphia, you know, I basically went straight to 
+11 Georgia, with the exception of stopping in South Carolina for a couple days. So I would 
+12 have, you know, moved on to the Georgia Senate runoff at that point. So, very short 
+13 time period for these. 
+14 Q Do you recall if, when you were --I'll ask you this: Were you getting 
+15 assignments from Mr. Brown about which States to call elected officials from? 
+16 A Yes. Assignments on which States to call when, and then also assignments 
+17 on which one of the four of us --and I believe that Michael was also making these calls, 
+18 but I don't have any confirmation on that. So maybe let's say the five of us. 
+19 
+20 Sorry. I forgot the question mid-answer. 
+Q No, not a problem. So I want to confirm, Mr. Brown gave you and your 
+21 four colleagues --Madison, Chelsea, and Kerrick --assignments as to which States to call 
+22 elected officials from. Is that correct? 
+23 A Yes, which States and, further, you know, which representatives or which 
+24 senators in that particular State were also assigned to us. 
+25 Q Okay. So Mr. Brown also told you the specific elected officials to call for  88 
+1 the different States, to the best of your recollection. 
+2 A To the best of my recollection. I think that it was also just basically, like, a 
+3 situation where, you know, I have five, so Madison has five, so Kerrick has five, so Chelsea 
+4 has five. You know, it was also a just fairness of splitting up people's time as well, you 
+5 know, so we were all, you know, making five calls or whatever it was. 
+6 Q And do you recall that you all were --all the four of you, or potentially five if 
+7 Mr. Brown was making calls as well, were calling elected officials in more than one State, 
+8 not just Georgia? 
+9 A Never more than one State at a time, I don't believe. So we would all be 
+10 calling into the same State at one given time. 
+11 Q Do you --and I recognize it's been some time --do you recall the order of 
+12 States that you called elected officials from? 
+13 A No. And I really --I can't even speculate on it. I have no idea, the order. 
+14 I do --actually, I do take that back. I know that Michigan took place sometime before 
+15 Georgia. But as far as other order goes, no idea. 
+16 Q Do you recall if the phone calls were --well, I'll direct you to the document. 
+17 It mentions on tab 7, if you look at the paragraph starting, "Right now, Mayor Giuliani is 
+18 presenting experts and witnesses from Georgia to the Senate judiciary committee who 
+19 will show the vote totals are fatally flawed and do not accurately represent the will of the 
+20 voters" --so you can see here there's a reference to Mayor Giuliani presenting experts 
+21 and witnesses. Do you see that? 
+22 
+23 A 
+Q I see it, yes. 
+Do you recall whether these calls to the State officials were coordinated with 
+24 when Mr. Giuliani was presenting experts and witnesses in the State? 
+25 A Based on the script, I mean, I can only assume that the timing of those --you  89 
+1 know, me making the calls and the timing of the presentation match up. 
+2 Q Did you have any involvement in Mayor Giuliani's presentation of experts 
+3 and witnesses in any States in connection with the 2020 election? 
+A None that I can recall. 4 
+5 I want to go back to something I said earlier about printing. I said that there was 
+6 a time where I was printing those affidavits and declarations. I don't know what --sorry, 
+7 I got distracted. 
+8 Q That's okay. 
+9 A I don't know what exactly that printing was used for. I believe it was some 
+10 kind of hearing or something like that. So, potentially, a presentation of witnesses could 
+11 have to do with me printing those documents. But, like I said, I was not the one 
+12 collecting those affidavits or anything like that. So, directly, no, I don't have anything to 
+13 do with the presentation. 
+14 Q Do you recall ever being introduced to individuals who were described to be 
+15 experts and witnesses associated with Mr. Giuliani in any of the States? 
+16 A No. No introduction to experts or witnesses or any introduction to Mayor 
+17 Giuliani. 
+18 Q In connection with when you received this script, were you provided any 
+19 further information regarding the substance of what was being --of the claims made in 
+20 the script? 
+21 
+22 
+23 
+24 A 
+Q 
+A 
+Q Can you repeat the question? 
+Sure, and I can rephrase it. 
+Thank you. 
+When you received the script, did you receive any further information 
+25 about --about the claims being made in the script?  1 
+2 A 
+Q 90 
+Any further information about the claims in the script? 
+So I'll say this: To the extent someone would ask a question about 
+3 something that you were asking in the script, were you provided any information so you 
+4 could follow up and potentially answer their question? 
+5 A No. Mostly, what I did with these calls is leave voicemails. No one was 
+6 really answering the phone. 
+7 And if I did get a hold of someone and they had a question like that, I would make 
+8 note of that, note their question or request or whatever it was on a spreadsheet. And I 
+9 don't know if those notes were ever read or if anyone ever followed up with them. 
+10 Q Do you recall anyone asking questions about anything that you said after 
+11 reciting your script? 
+12 
+13 A 
+Q No, I don't recall any particular questions that anyone had. 
+So you don't recall anyone asking any questions about, for example, that 
+14 when you're calling a State official, elected official, that they have the power to reclaim 
+15 their authority to send a slate of electors? Do you recall anyone asking questions about 
+16 that statement? 
+17 A No, I don't remember any conversations with State representatives or 
+18 senators about that, about the power to reclaim. 
+19 Q Did you ever ask Mr. Brown or anyone else about the script, any questions 
+20 about the script? 
+21 A No. And I want to repeat myself from earlier: You know, as a low-level 
+22 campaign staffer who really just looked at this as another job assignment, I didn't really 
+23 give it much thought. 
+24 That's all I have to say. 
+25 Q If you go towards kind of the middle of the script, it says, "This is a clear path  91 
+1 to correct the attempted theft of this election." Do you see that sentence? 
+I see it, yes. 2 
+3 A 
+Q Do you recall anyone ever giving you any information regarding the so-called 
+4 attempted theft of the election, like, what you could point to if someone were to ask you 
+5 what that meant? 
+6 A No. And I want to repeat myself. You know, I answered your question 
+7 about whether or not I'd received background information on this script, and the answer 
+8 is still no. If anyone ever asked me a question, I would've just made a note of it on a 
+9 spreadsheet and sent that to --you know, I guess it would be in a shared document with 
+10 Michael Brown. 
+11 Q And, in the document that you provided your notes, was this document 
+12 already pre-populated with the different elected officials and so you were just going in 
+13 and filling in notes? 
+14 A Can you clarify, particularly the "prepopulated" part? I'm a little confused 
+15 there. 
+16 Q Yes. So, when you --you said that you filled out a document and put in 
+17 notes after you called elected officials. Is that right? 
+18 A Yes. So my name would be --the way that it was laid out is there would be, 
+19 you know, a senator's name, their contact --senator or representative's name or contact 
+20 information and, you know, whoever the assigned caller was decided. And we would 
+21 just basically go in there and say, "Left voicemail," you know, or, if someone actually 
+22 answered, there would be, you know, a note about what that person said when the 
+23 phone was answered. 
+24 Q Was there any type of followup if you had left a voice mail with an elected 
+25 official?  1 A Not on my end, unless, you know, they had texted me after that or 
+2 something like that. You know, it's not like I ever called them. I don't believe I called 
+3 anyone more than once. 
+4 Q Do you know if anyone else was following up with elected officials that you 
+5 were not able to reach? 
+6 
+7 A 
+Q I don't know. 
+And I just want to confirm, did you say the calls to the different elected 
+8 officials from different States happened within about a week's time, end of November, 
+9 early December? Is that right? 
+10 A Yeah. I would --and instead of a week, I would probably say a couple of 
+11 days. Definitely less than a week. 92 
+12 Q And so the way it went, Mr. Brown would give you all the State, and you had 
+13 your assignments, and you'd call up the elected officials using the script provided to you? 
+14 
+15 A 
+Q State, script, contact information, and then, yeah, we would make the calls. 
+Do you recall how many elected officials that you called in Georgia in 
+16 connection with the November 2020 election and, you know, using the script? 
+17 
+18 
+19 
+20 
+21 A 
+Q 
+A 
+Q 
+A Me personally? 
+Yes. 
+I have no recollection of how many calls I made. 
+Is it fair to say because it was too many to count? 
+No. I would attribute it more to the fact that this happened, you know, at 
+22 this point, it would've been over a year ago. I don't remember, you know, the duration 
+23 of the event, you know, how extensive it was or anything like that, for any particular 
+24 State. 
+25 Q And when you were conducting this outreach, this was all on behalf of the  1 Trump campaign, with the elected officials? 
+4 
+5 
+6 
+7 
+8 were? A 
+Q 
+A 
+Q 
+A 
+Q As opposed to on behalf of who? 
+The Republican --the National Republican Senatorial Committee. 
+Correct. I was doing this for Trump campaign. 
+And when you were making these phone calls, do you recall where you 
+In Philadelphia, in a hotel room. 
+Okay. I was just asking because, like, in this script, it says, you know, 
+9 "calling from Trump campaign headquarters in Washington, D.C.," but you believe you 
+10 might have been in Philly. 
+11 
+12 A 
+Q Yes, I was in Philly. And, like I said, I followed the script. 
+Did you ever contact any elected officials who were not in the spreadsheet 
+13 that you described? 
+A No. 
+Q So your phone calls were limited to your assignments in the spreadsheet? 
+A Yes. 
+BY 93 
+14 
+15 
+16 
+17 
+18 Q I just had a couple of questions for you, Ms. Mccallum, about the scripts that 
+19 we were discussing behind tab 7. 
+20 
+21 A Uh-huh. 
+Q So my colleague noted the sentence that says, "This is a clear path to correct 
+22 the attempted theft of this election." 
+23 What did you understand "attempted theft" to be referring to? 
+24 Mr. Brothers. Just to clarify, understand, to put a date on that, at the time that 
+25 she was provided the script?  94 
+- Sure. Yeah, that's a helpful clarification. 
+BY 1 
+2 
+3 Q At the time that you made the calls based on the script that you were given, 
+4 what did you understand what "attempted theft" referred to? 
+5 A You know, I just --like I said, I don't think I really gave it much thought. 
+6 really --you know, it was just another job assignment to me. 
+7 Q Okay. And, at any later point of time, did you come to have a different 
+8 understanding of what "attempted theft" might refer to? 
+9 A I mean, I believe that that's, you know, another way of --you know, this 
+10 script's referring to election fraud. But, I mean, I --like I said, I didn't write the script. 
+11 don't know what it was referring to. 
+12 Q Understood. 
+13 And the same question for you about the sentence just above that one, where it 
+14 says to the audience of State legislators, "You have the power to reclaim your authority to 
+15 send a slate of Electors." 
+16 At the time that you made the calls based on this script that you were given, what 
+17 did you understand that to refer to? 
+18 A I think I pretty much have the same answer as the previous question. 
+19 really didn't give it much thought. I mean, thinking --yeah. I don't have any more to 
+20 that question. 
+Q Okay. 21 
+22 And same question for you about that one. At any point later, did you come to 
+23 have a different understanding of what this refers to, about "authority to send a slate of 
+24 Electors"? 
+25 A Yeah. I mean --sorry. Similar to the question I answered before about  95 
+1 the line below that, I didn't write the script; I don't know what the intended meaning was. 
+2 I would assume that the script is referring to an alternate slate of electors. But I don't 
+3 know beyond that. 
+4 Q Okay. 
+5 And, before our last break, I think we were talking past each other a little bit 
+6 about the outcome of the election --
+7 
+8 A 
+Q Uh-huh. 
+--in Pennsylvania, so let me just ask you a question to clarify. 
+9 You have described to us that calls were made, based off this script or something 
+10 similar to it, to legislators in Michigan, Georgia, Arizona, Nevada, and Pennsylvania, some 
+11 combination of those States, towards the end of November or early December of 2020. 
+12 Is that correct? 
+13 A That's correct. And I did want to make the clarification, as I don't have 
+14 any --I can't confirm that calls were made into Pennsylvania and Nevada. I don't have 
+15 any, like, particular memory of those States. 
+16 
+17 
+18 Q 
+A 
+Q Okay. 
+So --but, potentially, yes. 
+Got it. 
+19 Those States that I just listed that we're just discussing, do you agree that these 
+20 are States that had been called for President Biden that then-President Trump had lost in 
+21 the November election? 
+22 A I'd go back to the same problem we were having earlier, as the vagueness of 
+23 the word "called." 
+24 Q Okay. Do you agree that these States that are identified, that we've been 
+25 talking about and for which you were asked to make calls to State legislators, that the  96 
+1 outcome of the Presidential election at the time that you were making the calls was that 
+2 they had been --that, in those States, President Biden had been determined to be the 
+3 winner of the Presidential election? 
+4 Mr. Brothers. I'm going to object to vagueness. I think the problem we're 
+5 running into here is, determining the results of an election is somewhat complex, right? 
+6 You have the media call, and we all know that occurs weeks before the formal 
+7 governmental steps occur. 
+8 And so, when you say "outcome determined" or "called," there is absolutely no 
+9 clarification of what you're meaning, whether you're meaning media's calling this or 
+10 whether you're meaning that the formal legislative process has been completed. 
+11 So she has no guidance for how to determine if she had personal knowledge at the 
+12 time of the call whether the media had called for that State or whether she had personal 
+13 knowledge that the State had finished whatever formal process it could be. And I will 
+14 note that the State's formal processes include multiple actors, like the secretary of state 
+15 and the legislators and all of that. 
+16 And so at what point you're in that process has become the nebulous thing. So I 
+17 think I'm going to object to vagueness. I would suggest we really --if you want these 
+18 questions answered, we really need to get specific. 
+19 
+20 
+21 
+22 
+23 - Okay. How about -­
+The Witness. Let me --
+- Sorry. Go ahead. 
+The Witness. I just have something more to add on that. 
+You know, I'm not a Rolodex of dates. I can't just recite to you when the 
+24 secretary of state in a certain State said, you know, the election was certified or complete 
+25 or something like that. I don't know.  97 
+1 So I just really don't feel like I can answer that question. Even if we, you know, 
+2 decipher between media and official and all the steps within the official, I just --I don't 
+3 think that I can fully answer that question. 
+4 BY-
+5 
+6 
+7 Q 
+A 
+Q Okay. Let me try to put this in a different way. Let me rephrase -­
+Okay. 
+--one more time, and then we'll take a break. 
+8 The selection of States that we've been discussing that you were asked to make 
+9 phone calls into to reach State legislators, by the time that you were making the calls, do 
+10 you understand that the purpose of making the calls was to have something change 
+11 about the outcome of the election? 
+12 A I'm going to go back to what I said earlier, is, I was never aware of, you 
+13 know, what the particular purpose of these calls were. You know, I wasn't looped in on 
+14 any conversations related to strategy or, you know, as it says here, "the clear path." 
+15 was never looped in on those conversations. I can't comment on the purpose of the 
+16 calls other than I made them because someone told me to and that was my job. 
+17 Q Okay. 
+18 Were any of the States that you were calling into States where you were asking 
+19 State legislators to defend the outcome of the election at the time that it was there --at 
+20 the time that you were making the calls, rather? 
+21 
+22 A 
+Q Can you clarify what you mean by "defend the outcome"? 
+Sure. So the sentence that we were just discussing a moment ago in the 
+23 script refers to sending a slate of electors that will support President Trump. My, sort 
+24 of, reading of that, understanding of that, is that you're asking the legislators to do 
+25 something. Is that accurate?  98 
+1 A I have to say, you know, that that's how the script reads, but I didn't write 
+2 the script, so I just --I don't know what the author of the script, you know, really meant 
+3 by that. 
+4 
+5 break. 
+6 
+7 Q 
+A 
+Q Okay. I'll ask you just an open-ended question, and then we can take a 
+Okay. 
+It seems to me that making calls into this particular set of States that we've 
+8 been discussing was for the goal of effecting some change in the circumstances at the 
+9 time that you were making the calls. Does that seem accurate to you? 
+10 A I really just thought of the calls as, from my perspective, to be more of an 
+11 informative --of, you know, this is, you know, I'd say, how you could be helpful. 
+12 thought of them as more, you know, informative, based on that language. 
+13 So, I mean, like I said, I can't speak to the purpose of the calls. I was not involved 
+14 in those meetings. 
+15 Q Okay. 
+16 And, at the time that you were making the calls, did you consider the outcome of 
+17 the election to be determined or not yet determined? 
+18 Mr. Brothers. I'm going to object to any question that gets into the witness's 
+19 personal beliefs about the election. I have numerous objections to that. 
+20 The first would be, it's not pertinent to a committee function. The committee is 
+21 tasked with investigating January 6th and the causes of January 6th. The witness's own 
+22 mental impressions or own personal political beliefs as to what happened on election day 
+23 or thereafter or since will not inform this committee in any way to legislate. 
+24 Furthermore, there is no legislative purpose. This committee cannot 
+25 recommend legislation that would affect this witness's or anyone's mental impressions or  99 
+1 personal beliefs about the election or what happened thereafter. 
+2 I am also going to assert a First Amendment privilege objection. By asking her 
+3 for her personal political beliefs, you are engaging in conduct that could chill political 
+4 expression, political association, political speech, by people knowing that, if they engage 
+5 in that, that Congress could bring them before them and ask them about personal 
+6 political beliefs. 
+7 So, for all of those reasons, I'm objecting and I'm instructing Ms. Mccallum not to 
+8 answer that question. 
+9 - Okay. I'll just respond to a couple of the points that you made. 
+10 First, to explain that the charter of the select committee, House Resolution 503, 
+11 tasks the committee with investigating not only the events of January 6th itself but also 
+12 the causes of January 6th. And, in particular, one of the things that we are focused on 
+13 are attempts to interfere or affect the outcome of the election and, in particular, how 
+14 those actions played out in the States. 
+15 So I appreciate all of the answers that your client has given us thus far about these 
+16 calls and the communications around them, because I think it is clearly related to the 
+17 focus of the committee, which is also very clearly related to the potential legislation that 
+18 the committee is considering about changes to the elections process and related statutes 
+19 in the United States. 
+20 I will also say, too, that my questions were directed not at your client's personal 
+21 individual beliefs about any political issue but, rather, to the context of these calls that 
+22 she made as an employee of the Trump campaign during the time period after election 
+23 day and before January 6th. 
+24 But, that being said, your objection is noted for the record. 
+25 I think we've had enough of this colloquy about these calls for the present  1 moment. I'd suggest this is a good time to take a break? 
+2 
+3 
+4 
+5 
+6 Mr. Brothers. Yes. 
+The Witness. Yep. 
+Mr. Brothers. And, kind of --and we can go off the record for this next part. 
+Yeah, let's go off the record now. 
+[Recess.] 100  101 
+1 
+2 [2:26 p.m.] 
+3 BY 
+4 Q All right. We're going to go back on the record. 
+5 I just have a couple of questions for you, Ms. Mccallum, about the kind of back 
+6 and forth that we had before our lunch break, and then my colleague will talk 
+7 to you about a few more documents, and then we hope to be able to wrap up, send you 
+8 back on your way. 
+9 So just to recall our discussion earlier, you were telling us about a project that you 
+10 were given, assignment that you were given while you were working for the Trump 
+11 campaign which involved making phone calls to State or local officials in certain States 
+12 during the time period after November 3rd. Is that right? 
+13 
+14 A 
+Q Yes. 
+Okay. And I think the States that you identified for us where you made 
+15 calls, either you or one of your colleagues that was working alongside you on this project, 
+16 were Michigan, Georgia, Arizona, Nevada, and Pennsylvania, some combination of those 
+17 States. Is that right? 
+18 A Yes, some combination. 
+19 Q Okay. Great. 
+20 And, Ms. McCall um, is it accurate to say that those States that we just identified at 
+21 the time that you were making these calls, which you've told us was in the very end of 
+22 November or early December, that those were States that were being contested by the 
+23 Trump campaign? 
+24 A I'll preface it by saying, you know, I'm not a spokesman for the campaign. 
+25 I'd like to reiterate, I was not involved in any conversations of strategy or, you know,  102 
+1 plans that the Trump campaign was making. But I assume that would be an accurate 
+2 representation, but I don't believe that I am, you know, the full --the correct person to 
+3 ask. 
+4 Q Understood. But as far as the context of the calls that you were being 
+5 asked to make, did you understand at the time that the reason why these States were 
+6 selected for calls was because the Trump campaign was contesting the election in those 
+7 States? 
+8 
+9 A 
+Q Can you repeat the question? 
+Sure. Not asking you to speak, you know, as to any legal strategy of the 
+10 campaign or anything, but for the context of the assignment that you were given to make 
+11 calls into these specific States at the time that you were given it, did you understand that 
+12 the context was because the outcome of the election was being contested by the Trump 
+13 campaign in those States? 
+14 
+15 A 
+Q Yes, I believe that would be accurate to say that. 
+Okay. Did you make calls into any other States other than the ones that 
+16 we've discussed that were sort of in your earlier responsibilities considered battleground 
+17 States? One example might be Florida. 
+18 A Not to my knowledge. 
+19 Q Okay. And do you have any --did you have any understanding at the time 
+20 as to --actually, let me rephrase. 
+21 Would you agree that the reason why you were not asked to make calls into a 
+22 formal battleground State like Florida at the end of November or early December is 
+23 because the Trump campaign was not contesting the outcome in that State? 
+24 A I believe that to be the case, but if you want a more clear answer, I would 
+25 recommend asking whoever gave me the job assignment.  1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 Q Okay. I think that's it. 
+- Before we go back into the documents, I'd pause. 
+Ms. Lofgren, do you have any questions? 
+Ms. Lofgren. No, I'm fine. Thank you. 
+- Okay. Okay. Great. 
+BY 
+Q Great. 
+Ms. Mccallum, I'm going to turn to the document behind tab 19. It's a pretty 
+9 lengthy spreadsheet that you produced to us with the Bates 1528. 
+Uh-huh. 103 
+10 
+11 A 
+Q Do you see that? And you can take some time to look at it. I'm not going 
+12 to ask you about all the specifics, but if you want to just look through it and refresh your 
+13 recollection as to the document. 
+14 And I'll say that this was how it was produced, unfortunately, to us. It was in a 
+15 PDF format, so that's why it's hard to follow, which is also why we're not going to get too 
+16 specific, because it is hard to follow where certain rows fall in connection with others. 
+17 
+18 
+19 
+20 
+21 A 
+Q I'm just taking a moment to review. Sorry. 
+No, that's fine. Absolutely. Take the time that you need. 
+(Pause.) 
+A Okay. 
+Q So my first question is, we've been talking about what seemed to be like a 
+22 spreadsheet that listed different elected officials and you had assignments and you would 
+23 call the elected officials you were assigned to. 
+24 Is this the spreadsheet that you were referring to or some version of the 
+25 spreadsheet that you were referring to earlier in your testimony?  104 
+Yes, this is. 
+Okay. And can you tell us, how did you use this spreadsheet? 1 
+2 
+3 A 
+Q 
+A I mean, you can see on there there's, you know --it's obviously redacted, but 
+4 contact information and the name of the senator or representative. And then, you 
+5 know, you can see where it says caller. And then, you know, you can see in there VM 
+6 for voicemail, notes, things like that. 
+7 
+8 
+9 
+10 
+11 Q 
+A 
+Q 
+A 
+Q And caller, is that who is assigned to call the elected official? 
+Correct. 
+On the first page, so it's Bates 1528 -­
+Yeah. 
+--there are six States. So it's Arizona, Georgia, Michigan, Nevada, 
+12 Pennsylvania, and Wisconsin. I don't think we had mentioned Wisconsin before. Do 
+13 you recall that Wisconsin was part of the States that you and your other colleagues were 
+14 calling legislators in? 
+15 A I don't have any memory of calling anyone in Wisconsin. Maybe there 
+16 were calls. I mean, this was over a year ago, so I don't remember much. 
+17 And about this first --this first page, the 1--the 1528, this very first page in here, I 
+18 don't remember ever using this page. You know, like I mentioned earlier, it wasn't like 
+19 one person was assigned to a certain State. You know, I'm not sure really who or why 
+20 this was made. Maybe this was an idea and then it just wasn't followed up on. 
+21 I just want to be clear, you know, it's not like --like this list that I was the State 
+22 point of contact and it says Georgia beside it, and I just want to be clear that that's really 
+23 not the case --
+24 
+25 Q 
+A No, thank you. 
+--of how things played out.  105 
+1 Q I appreciate that. And I was going to ask what State point of contact 
+2 meant. So you're saying that even though it says State point of contact, and for you, for 
+3 example, on this document it says you're for Georgia, in reality it didn't really play out 
+4 that way and you all were helping out each other in the different States. 
+5 A Right, and it really didn't play out that way. Also, because we talked about 
+6 earlier, you know, we were all making calls into one State at one given time. You know, 
+7 it wasn't like we were splitting up and doing it like that, so --
+8 
+9 Q That makes sense. 
+And when it says --and you might not know this since you're not familiar with the 
+10 first page, but it says State, I think, point of contact. Do you know what that refers to? 
+11 A I think those are names of people who were working in the States at that 
+12 time. I'm not --not entirely sure, you know, what their involvement was there. Like I 
+13 said, we didn't use this first page at all, so --
+14 Q For, like, Georgia, which --where it says you're the point of contact, 
+15 understanding your testimony that that's --you know, you all were helping each other 
+16 out, do you recall a Cooper at all being involved from the Trump campaign in Georgia? 
+17 
+18 
+19 A 
+Q 
+A The name Cooper doesn't ring a bell to me, no. 
+For Michigan, there's a Shawn Flynn. Do you recognize that name? 
+Yes. Shawn also was a contractor for the National Republican Senatorial 
+20 Committee, so I met Shawn when I was in Georgia. 
+21 Q Okay. And --
+22 A And I believe he was the State director for election day operations in 
+23 Michigan. I can't confirm that for Jesse or Jefferson though. I don't know who they 
+24 are. 
+25 Q And for Shawn Flynn, when you said he's the State director for election day  106 
+1 operations, that's for the Trump campaign? 
+For the Trump campaign for the State of Michigan. 2 
+3 A 
+Q And you're not sure who Jesse Law or Jefferson Thompson --Thomas, excuse 
+4 me --are? 
+5 
+6 
+7 blank? 
+8 A 
+Q 
+A No, I don't know who Jesse Law or Jefferson Thomas are. 
+For Pennsylvania there's a blank. Do you have any idea why that would be 
+No. I mean, I'd like to go back and say that this wasn't a spreadsheet that 
+9 was ever used, so I don't know what's on here. 
+10 Q Understood. And do you recall while you were making the phone calls, is 
+11 this the spreadsheet or some version of it that you were making your notes on that we 
+12 discussed earlier after you were able to make contact or maybe left a voicemail with an 
+13 elected official? 
+14 
+15 A 
+Q To the best of my knowledge, yes. You know, I don't --yes. 
+And when you made these calls, and understanding it was a lot and it's been 
+16 a long time, do you recall any of the elected officials that you called asking for, for 
+17 example, evidence of alleged election fraud or voter fraud? 
+18 
+19 A 
+Q Can you repeat the question? 
+Yes. When you were making the phone calls to the elected officials in at 
+20 least five of the States, because you don't recall Wisconsin, do you recall any of the 
+21 elected officials that you were able to actually talk to ask you for further evidence or 
+22 further information about alleged election fraud that was taking place in their respective 
+23 State? 
+24 A I don't remember any, you know, specific calls, you know, no one 
+25 representative or senator comes to mind.  107 
+1 To answer your question generally, yes, and like I told you, I didn't have any 
+2 background that I was given with the script, and I wasn't, you know, prepped to answer 
+3 questions like that. So I would just take note of it and move on. 
+4 Q And take note in the spreadsheet and then someone else would deal with it, 
+5 presumably a superior, like maybe Michael Brown? 
+6 
+7 A 
+Q Maybe. 
+Okay. I don't know if anyone ever followed up on any of those. 
+Thank you. Let's --I want you to turn to tab 10 and the document 
+8 behind that. It's two pages, beginning with Bates, I think it's 606. You can take some 
+9 time to review the communication. 
+10 (Pause.) 
+11 A Okay. 
+12 Q So my first question is, do you recognize what or do you recall what 
+13 application you made this --you had this communication with? 
+14 
+15 A 
+Q 
+16 in tab 10? 
+17 
+18 A 
+Q Google Voice. 
+Okay. And do you recall this specific communication that we're looking at 
+Specifically, no, I don't really have a lot of memory of it. 
+So my question was, it seems to me, and you can tell me if you remember 
+19 this or not, that you might have called this individual and they couldn't talk so they just 
+20 texted you right back. 
+21 
+22 
+23 A 
+Q 
+A Uh-huh. 
+Does that seem accurate? 
+Yeah, that seems accurate. From reading this, that's also what I would 
+24 assume happened. 
+25 Q And after reviewing the document, based on the context, do you believe this  1 concerns the State of Georgia? 
+2 
+3 
+4 
+5 A 
+Q 
+A 
+Q Yes. 
+Now, just look at --
+Just because it says Georgia voters. 
+So if you look at your response, and you can look, I think, page two --or, 108 
+6 excuse me, Bates 807, has your full text. "Absolutely. Thank you so much for standing 
+7 up for Georgia voters!" 
+8 
+9 A 
+Q Yes, so I would assume that it is about Georgia. 
+So in that text message, you say, "Please look out for further contact from 
+10 the campaign or Senate/House leadership on how to help correct this attempted fraud." 
+11 So my question is, do you recall what you were referring to when you said "this 
+12 attempted fraud"? 
+13 A That's the same language that's used in the script, so I would direct you back 
+14 to my answer on that. 
+15 Q So what you recall is you were just using language that had been provided to 
+16 you in the script for, say, the State of Georgia. 
+17 
+18 A 
+Q Correct. 
+Okay. And do you recall if you ever followed up --and I believe if you look 
+19 to the first page, which is Bates 606, it's Senator Summers. Do you recall if you ever 
+20 talked on the phone with Ms. --with Senator Summers? 
+21 
+22 A 
+Q I don't recall, no. 
+Okay. Do you recall if you had any further communications outside of the 
+23 communications that we're looking at here? 
+24 
+25 A 
+Q No, I don't recall. 
+Okay. Go to tab 12. The first page is Bates 597, which is what I was going  1 to ask you about. You can take a look --take a chance to review. 
+2 
+3 A 
+Q Yeah, I have reviewed. 
+Okay. So is this the part of the text chain that you said that it was a 
+4 random person texting you and you couldn't recall --
+5 
+6 
+7 A 
+Q 
+A Yeah. 
+--or you didn't know who they were? 
+This looks like the same --same exact text chain where --that we talked 
+8 about earlier. And, you know, I'd like to repeat, I don't know who sent me these and 
+9 so --
+10 
+11 Q 
+A So --
+Anything on this page, I've never seen, so --109 
+12 Q Okay. So this first message, "Well done!", exclamation point, from-
+13 - that phone number, you don't know who that is? 
+14 
+15 A 
+Q No idea who that is. 
+And that link that's provided, it looks like it's a Linkedln post. Do you recall 
+16 clicking that link to review what was in that post? 
+17 A No, I don't think I would've clicked on any of these links. 
+18 
+19 Q 
+A Do you even remember this text chain? 
+When I was doing my document review, you know, I obviously found them 
+20 and I remembered, "Oh, someone sent me, you know, seven messages in 1 week with 
+21 links." And, you know, beyond that, I don't have any memory of it. 
+22 Q So you're not sure why you received the text as part of this chain of "well 
+23 done"? 
+24 A No, I have no idea. No one --I --I don't know. As you can see, I did not 
+25 respond to any messages that were ever sent in this chain.  110 
+1 Q Got it. Let's --if you could turn to tab 13, it's one communication, Bates 
+2 1514. 
+3 A Okay. I've reviewed. 
+4 Q So if you look at the first message, it's from Michael Brown. He says, 
+5 "Alright. This is now the EDO Michigan team. It's Tulip+ Flynn." And the date he 
+6 sent this, I believe, is December 1st, 2020. 
+7 Is that accurate based off of what you're looking at? 
+A Yes. 8 
+9 Q Okay. Do you know what EDO Michigan team or the EDO Michigan team 
+10 refers to? 
+11 A I believe that just refers to, you know, the group of people I had said making 
+12 calls, Kerrick, Chelsea, Madison, myself, and directed by Michael Brown, plus Shawn 
+13 Flynn. 
+14 Q And do you know --and EDO, just for clarity on the record, is that election 
+15 day operations? 
+16 
+17 A Correct. 
+Q Do you know why he was calling it election day operations if it was 
+18 December 1st when he sent the message? 
+19 
+20 
+21 
+22 
+23 A No. 
+Q And do you know who Tulip is? 
+A Tulip is the name of the street that the office in Philadelphia was on, so --
+Q In the Trump campaign office in Philly? 
+A You know, I'm not sure whose name was actually on the lease at the 
+24 building, but that's where, you know, like I mentioned James Fitzpatrick earlier, the State 
+25 director, that was his office space that he was working out of, would assume that the  1 Trump campaign's name was on the lease. 
+2 
+3 
+4 Tulip. 
+5 
+6 Q 
+A So it's not --Tulip does not refer to any specific person? 
+No. It refers to a place, which I guess he's referring to all of us as Team 
+Okay. And Flynn, you said, is Steve Flynn? 
+Shawn. 111 
+7 Q 
+A 
+Q Or, excuse me, Shawn Flynn. And what was --how did he help with your 
+8 effort in terms of calling elected officials? 
+9 A He was the State director for election day operations in Michigan. So, you 
+10 know, I guess he was looped in on what we were doing. I don't have any specific 
+11 memory of how this call went with Flynn or what Flynn said on this call, so --
+12 Q Do you recall if Mr. Flynn, Mr. Shawn Flynn, was involved with any of the 
+13 other States in the outreach that you and others did to elected officials there or just in 
+14 Michigan? 
+15 A I think that's a question you'd have to ask Shawn. I believe it was just 
+16 Michigan. He wasn't looped in on, you know, any other States that we were making 
+17 these calls in, to my knowledge. 
+18 Q Was Mr. Flynn ever at, like, the meetings that you all had in Philly? 
+19 A Shawn --I did not see Shawn Flynn in person until we were fully working on 
+20 the Senate runoffs in Georgia. That was the first time I had met him in person. 
+21 Q And about when was that, when you were fully working on the Senate 
+22 runoffs in Georgia, if you have an approximate date? 
+23 A Yeah. So like I said, our contract officially --well, my contract, and I would 
+24 assume Shawn's contract also, started on the 1st of December. But we arrived in 
+25 Atlanta, Georgia, I would say, sometime between the 7th of December and the 9th or  112 
+1 10th of December, very early that month, so --
+2 Q And is this chain kind of an example of, you know, Mike Brown saying, 
+3 "Here's the team, this is our assignment, and we're going to, you know, meet up and then 
+4 call elected officials"? Is this kind of an example of that? 
+5 A Yeah, this would be an example of us texting about, you know, one of the 
+6 meetings that we've discussed previously. 
+7 
+8 
+9 
+10 Q 
+A 
+Q And "we" meaning us today? 
+"We" as in, yes, us in this room. 
+Okay. Great. 
+Let's go to tab 17. And this is a lengthier communication, so please take your 
+11 time to review it. And this is Bates 1501 is the first page. 
+12 
+13 
+14 
+15 A There's a lot of these. 
+(Pause.) 
+Okay. 
+Q So my first question relates to this first message from Mr. Brown. It's sent 
+16 November 30th, 2020. So his message is, "Good morning. We are going to call State 
+17 leadership across the country later today. We may set up in the Union League or in my 
+18 room, but we are going to win this thing. We are going to explain the process for 
+19 legislative redress and tell them how to send representatives to th" --and he forgot the 
+20 "e" --"electoral college. They've heard from lawyers who failed to explain it. So we 
+21 will. And we will convince them. There's no team I'd trust more to do this. Touch 
+22 base at 10 a.m. Be ready to deliver." 
+23 So my question is, he says, "They've heard from lawyers who failed to explain it." 
+24 Do you know what he's referring to in that sentence? 
+25 A No.  113 
+1 Q Okay. Did he ever talk about lawyers who weren't making arguments that 
+2 they should be or not in a way that he felt was effective? 
+3 
+4 A 
+Q No, I have no knowledge of that. 
+Did he ever say how you all could deliver any sort of message in a more 
+5 effective way than lawyers? 
+6 
+7 A No. 
+Q So it sounds like you don't really know what he's referring to here with 
+8 "lawyers who failed to explain it." 
+A No. I mean, as you can see, I also never responded to these messages, so -- 9 
+10 Q And a little bit further down, so Madi, Madison Crawley responds, "Copy." 
+11 And then Michael Brown responds, "We're gonna be lobbyists. Woot." 
+12 
+13 Do you know what he means by "lobbyists"? 
+A No, I don't. I mean, I think that was partially, you know, exaggerating, 
+14 jokingly. But, again, you'd have to ask him for what he meant. That's at least how I 
+15 interpret this message reading it now. I don't know what he meant. That's something 
+16 for him. 
+17 Q 
+18 that meant? 
+19 
+20 A 
+Q 
+21 lobbyists? 
+22 
+23 A 
+Q Did you ever ask him what he meant by, "We're gonna be lobbyists," what 
+No. 
+Do you recall him saying that other times, that you all were going to be 
+No. 
+If you turn the page to Bates 1502, at --so November 30th, 2020, 7:53 a.m., 
+24 Chelsea Barnett writes, "Got it." And then Michael Brown responds, "Waiting to hear 
+25 from Roman. But let's be ready."  114 
+1 Is this an example that you're saying, like, Michael Brown would, like, report to 
+2 Roman and Roman would, like, give instructions for purposes of, like, the script and 
+3 making calls to elected officials? 
+4 A I don't know. You'd have to ask Brown, you know, what their relationship 
+5 was and what they discussed. 
+6 Q Okay. Do you recall hearing at times that Michael Brown was waiting for 
+7 instructions from Roman? Do you recall that just in meetings or talking to him? 
+8 A I recall that, you know, reading it now, reading it over text message. And 
+9 Michael Brown reported to Mike Roman, so in any instance talking about any task it 
+10 would not be uncommon for him to say, "I'm waiting on Roman to respond." I feel like 
+11 that's a typical boss-employee relationship. 
+12 Q And if you turn the next page to 503, there's a draft script. And if you go to 
+13 505, I think it's a --he makes some --there's some slight changes. 
+14 Do you recall if this is the script that was used? And I believe this related to 
+15 Arizona based off of the wording and the message. And this is on Bates 505 --1505. 
+16 
+17 A 
+Q You know, I don't recall if this ended up being the final version or not, no. 
+But looking at it, does this look like they generally have kind of similar 
+18 language and it --
+19 A Yeah, going back to the one --you know, like I said earlier, it was slightly --I 
+20 guess it was slightly tweaked for each State. But this language looks the same as the 
+21 draft we talked about before the lunch break. 
+22 
+23 
+24 Q 
+A 
+Q And that was a draft relating to the State of Georgia, I believe? 
+The one we talked about before lunch was about Georgia. 
+Okay. Do you recall ever calling any governors or secretaries of state as 
+25 part of this project?  115 
+1 
+2 A 
+Q No. I don't think I've ever spoken to a governor or secretary of state at all. 
+How about any U.S. attorneys or representatives within the U.S. Attorney's 
+3 Office of anywhere in the country? 
+4 A No. I don't know what kind of attorney Linda Kerns was, the one who I said 
+5 I just drove to and from the meeting, but that's the only attorney I can think of that might 
+6 be relevant. 
+7 Q So --and no --don't recall any calls made to, like, district attorneys within 
+8 any of the States --
+9 
+10 
+11 
+12 
+13 
+14 
+15 A 
+Q No. 
+--that you're making calls to? Okay. 
+[Discussion off the record.] 
+The Witness. Okay. Sorry. I don't really know what a district attorney is. 
+BY 
+Q Not a problem, that's fine. 
+Ms. Mccallum, I wanted to ask a question about timing. Does this text chain that 
+16 we've just been reviewing in tab 17, does it read to you like this was the first one of these 
+17 call projects that you were given? 
+18 
+19 A 
+Q Yeah, I think that would be safe to say, that this was very likely the first one. 
+Got it. Okay. So since it seems like the script is being developed on these 
+20 texts, and we reviewed other scripts that were more stand-alone documents, do you 
+21 think it's fair to say that this document that is dated November 30th kind of helps to pin 
+22 down when those calls were made, that they would've been after this date of 
+23 November 30th? 
+24 
+25 A 
+Q Yes, I think so. 
+Okay.  1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 Ms. Lofgren, did you have any questions? 
+Ms. Lofgren. Nope. 
+Great. 
+Ms. Lofgren. I'm just fine. Thank you. 
+Wonderful. 
+BY 
+Q Okay. So let's --how about let's turn to tab 18, with Bates 1571. 
+A Okay. 
+Q You can take a minute to review it. 
+(Pause.) 
+A Okay. I'm ready. 
+Q So when we had just talked about tab 17 with Bates 1501 that referred to 
+13 Arizona, and this also appears to refer to Arizona, is that right, this script on tab 18? 
+A Yes, that's correct. 116 
+14 
+15 Q And I don't think we had asked you before. Towards the beginning of the 
+16 script it says, "I wanted to personally reach out to you on behalf of the President as you 
+17 will be a crucial part of President Trump's reelection." 
+18 Had President Trump ever asked you to make these calls himself? 
+19 
+20 
+21 
+22 A No. 
+Q Okay. 
+A I'd like to reiterate, I did not write the script. 
+Q Understood. And so this script, do you know who wrote this script for 
+23 Arizona on Bates 1571? 
+24 A Yeah. I, you know, was comparing it to the documents we were reviewing 
+25 earlier, this script that's on 1505 and beyond, on the 17 tab, yeah, and they don't seem to  1 vary significantly. So my assumption in looking at this is these were the, you know, 
+2 more slight changes. 
+3 
+4 
+5 Q 
+A 
+Q From Mr. Brown? 
+I assume. 
+Okay. In looking at this, it looks similar to the other --kind of the other 
+6 scripts we've talked about today. 
+Yes, it looks pretty similar, yes. 117 
+7 
+8 A 
+Q Okay. And if you go towards the bottom, it says --there's a sentence, "This 
+9 effort is happening in other States where fraud was rampant, including Pennsylvania, 
+10 Arizona, and Georgia." I wonder if that might be --it looks like it might be a typo if this 
+11 is about Arizona, but that sentence refers to other States, and Arizona --
+12 A Yes, I would assume it's a typo. I also don't know if this is, you know, the 
+13 final script that was followed. 
+14 Q And here, if you go towards the bottom, it says, "When there is a resolution 
+15 to appoint electors for Trump, can the President count on you to join in support?" 
+16 Did you do any work as part of your role for the Trump campaign involving any 
+17 resolutions to appoint electors for Trump? 
+18 
+19 A 
+Q Can you repeat the question? 
+Yes. Part of your job responsibilities for the Trump campaign, did you ever 
+20 do any work to help support a resolution in individual States to appoint electors for 
+21 Trump? 
+22 
+23 A 
+Q No. 
+Okay. Do you know what that refers to, what "resolution to appoint 
+24 electors for Trump" refers to? 
+25 A I don't.  1 
+2 Q B~ 
+Oh, one question about this one, just on the back of that page in tab 18. 
+3 There are some additional talking points under the heading, "Curveball Quick Tricks." 
+4 After looking at those, do you recall whether you ever delivered these talking 
+5 points after the script on the previous page? 
+6 
+7 
+8 A 
+Q 
+A I'm taking a minute to read through them. 
+Sure. 
+No, I don't remember. As I stated earlier, mostly what I did was leave 
+9 voicemails. There are very few people that I actually spoke on the phone with. And 
+10 my conversation with them would be whatever is recorded in the notes in the 
+11 spreadsheet exhibit. 
+Q Okay. 
+BY 118 
+12 
+13 
+14 Q Did you ever do any in-person meetings with any of the elected officials or 
+15 only voice --through phone calls or text? 
+16 A No, I never met any State representatives or State senators. 
+17 Q So if you want to, let's see, turn to tab 20, in that first document, Bates 1648. 
+18 A Uh-huh. 
+19 Q And this is also a longer communication, so if you want to take your time to 
+20 review it. So I want to ask you very detailed questions about it. 
+21 
+22 
+23 
+24 
+25 (Pause.) 
+A Okay. Yeah, I think we can go ahead and review this. 
+Q 
+A 
+Q So did you have a chance to review it? 
+Yes. 
+And does this, reviewing the communication, does this relate to your work  119 
+1 for the Trump campaign? 
+2 A This relates to, I think I mentioned it earlier, with the Wisconsin 
+3 incapacitated voters research, which I don't know if I stated this, but after I left 
+4 Philadelphia, at that point I was fully focused on the Senate runoff in Georgia. And with 
+5 this conversation and this project being the exception, I solely worked on work related to 
+6 the NRSC and the Georgia Senate runoff. This is the only other thing that I did for the 
+7 Trump campaign after I left Philadelphia. 
+8 Q Understood. Yeah, so I was going to ask, because the date is 
+9 December 23rd and it seemed a little bit later than --
+10 A That's correct. That was what I was referring to is right before Christmas 
+11 when we were all at home. This is the research that I was talking about. 
+12 
+13 Q 
+A 
+14 order or --
+15 Q So when --like, were you working through a list? 
+Yeah, I can explain this a little more. I'm wondering if it's a little bit out of 
+I think some --the photos I think you were trying to show, which was great, 
+16 like the entire chain, so there's sometimes repeats. 
+17 
+18 A 
+Q Right. 
+But it's just to capture the whole conversation. So it's a little confusing in 
+19 that way, but it should be in the right order. It's just you might see, like, duplicates. 
+20 A Okay. So this started with, you know, Pete, Peter McGinnis, who I 
+21 mentioned worked, you know, in an assistant role for Mike Roman, reaching out to 
+22 myself and Madison Crawley about doing this research. 
+23 So Peter provided Madison and myself with a list of incapacitated voters in 
+24 Wisconsin. And basically the idea was we just googled their name or, you know, 
+25 Face book search bar, something like that, to just see if they were actually incapacitated  120 
+1 or not. 
+2 Q So I recall from your production you had --there were, like, Facebook 
+3 posts --
+4 A Uh-huh. 
+5 Q --and I think it looked like you were doing internet research on individuals 
+6 and, like, where they were maybe at certain points of time. Is that potentially, like, 
+7 related to this project? 
+8 A Yes. So --and it's been a while, so correct me if I'm wrong, but 
+9 incapacitated means, you know, you are stuck in your home, for lack of a better word. 
+10 So I think their reason --reasons --they were on vacation or something, you know, during 
+11 election day would be part of the reason as to why they, you know, maybe were not 
+12 incapacitated. 
+13 Q Did Mr. McGinnis or anyone else ever say why --what this information was 
+14 being used for? 
+15 A There is --I'm sorry. I'm looking for it. I know it's --so he does respond, 
+16 and it's the last photo in this. It's 1654. He responds and says, "Email sent off," you 
+17 know. And then the next message says, "Jon said we did an awesome job." 
+18 I don't know who Jon is. It's clear that he sent an email to someone and then Jon 
+19 responds and says we did an awesome job. 
+20 Q And with respect to, if you know, the "47 hits total," would that be 47 
+21 individuals who did not appear incapacitated? 
+22 A I would assume so. 
+23 Q Okay. And it looks like this --all this work was done in the span of maybe a 
+24 long day. Is that right? 
+25 A Yes, this all just seems to be from one day.  1 
+2 Q And so this was the only type of project that you did? 
+A Right. And then with this day Peter and Madison and myself would, you 121 
+3 know, regroup and say, "Hey, you know, how much progress did you make?" things like 
+4 that, during the day. But after that I never heard anything more about this project. 
+5 Q If you go to the second to last page, it's on Bates 1653. And if you look at 
+6 Ms. Crawley's response towards the bottom of the chain, "Yeah, my volunteers just 
+7 wrapped up 801 stuff, so I need to take care of that." 
+8 Do you know what "801 stuff" refers to? 
+9 A That would refer --during this time period Madison was also a contractor 
+10 with the National Republican Senatorial Committee. That would be related to work 
+11 being done for the Georgia Senate runoff. 
+12 
+13 Q Okay. Great. 
+A And to clarify, my message right before that was I said I have stuff to catch 
+14 up on with Christina. Christina was also a contractor with the National Republican 
+15 Senatorial Committee. 
+16 
+17 Q Okay. So there was some overlap and you all were --
+A Correct, and I was working with Christina again on things solely related to 
+18 the runoff at that point. 
+19 Q Understood. 
+20 Moving right along. 
+21 [Laughter.] 
+22 If you can turn to tab 21, and that's another text chain, just a couple of pages, 
+23 Bates 1576. 
+24 
+25 A Uh-huh. 
+Q Take some time to review it.  1 
+2 
+3 (Pause.) 
+A Okay. 
+Q So my first question is, do you happen to --after reviewing this 122 
+4 communication, do you have a sense of when this communication took place? Because 
+5 we don't have a date on this. We have --
+6 A I see that these messages on the second page, they have a time stamp of 
+7 January 5th at 11 p.m. I believe that the messages sent before that were also from 
+8 January 5th. 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 Q 
+A Okay. That's helpful. 
+But we can confirm that. 
+Mr. Brothers. Yeah, that shouldn't be too hard to confirm. 
+Q 
+A 
+Q BY 
+Yeah, after if you want to just confirm the date, that'd be helpful. 
+Okay. 
+Thank you. 
+And in his first message, Mr. Brown says, "Mission accomplished. About to Uber 
+17 home." Do you know what he was referring to when he said "Mission accomplished"? 
+18 A I really don't. 
+19 Q Okay. And I see that --I believe it's --this communication is just between 
+20 the two of you. Is that right? 
+21 
+22 
+23 
+24 
+25 A 
+Q Madison Crawley is also in this group message. 
+Okay. So it's three people. 
+Do you know, with --it looks like someone hearted that message. 
+A 
+Q Uh-huh. 
+Do you recall if that was you that hearted the message or Ms. Crawley?  1 A If it's blue, that means that I put a heart on it; and if it's not, it means that 
+2 someone else did, which would either be Madison or Michael. 
+3 Q So for maybe the, "This has got to be the cover a book" --I think he forgot 
+4 "of" --"a book I write one day." You hearted that message. 
+5 
+6 
+7 A 
+Q 
+A I did. 
+Do you recall why you hearted the message? 
+I don't. And, you know, I responded after that and said, "Pretty freaking 
+8 awesome. No joke." I was mostly referring to the photo. I thought the photo was 
+9 cool, you know. 123 
+10 I'm a low-level campaign staffer. Anytime anyone goes to Capitol Hill I think it's 
+11 cool, so --
+12 Q So was it your understanding that when Mr. Brown took that photo he was 
+13 in front of the Capitol in Washington, D.C.? 
+14 
+15 A 
+Q It looks like a selfie taken outside of the Capitol Building. 
+Did Mr. Brown ever tell you what he was doing in Washington, D.C., around 
+16 January 5th? 
+17 A Not specifically, no. I knew he was there. And part of my job with the 
+18 NRSC is I helped Michael Brown with a lot of his expense reports. So I obviously knew 
+19 he was there because he wasn't with me in Atlanta, and I was compiling expense reports 
+20 for him. And I did the same thing for James Fitzpatrick, basically just gathering up 
+21 receipts and entering them into Concur, so --
+22 Q So you don't know what mission he might have accomplished on 
+23 January 5th? 
+24 
+25 A I don't. 
+Q And you don't know what book he could potentially write and use that photo  124 
+1 of? 
+2 I do not, no. 
+3 A 
+Q Outside of this text communication with Mr. Brown and Ms. Crawley, do you 
+4 recall having other conversations with Mr. Brown about what he did in Washington, D.C., 
+5 on January 5th? 
+6 A Really the only conversation I had with him is, you know, "Hey, while I'm 
+7 gone, will you help with my expense report?" And somewhere in the document 
+8 production I believe that there are messages related to that too, but I could be wrong. 
+9 
+10 Q 
+A So --
+Yes, that would be the next tab, the message after the 22nd. Those, you 
+11 know --when he gives me the date, January 2nd, I believe that this was referring to a 
+12 missing date on a receipt, so --
+13 Q Yeah, so we can turn to tab 22, which is Bates 1578, since you brought it up. 
+14 And I wasn't sure if this related to the doc, the conversation in tab 21. 
+15 A Yeah, I believe that these were going on around the same time as the group 
+16 message with Madison. 
+17 Q Okay. In his --in that chain, if you look, he says, "Just landed. I've never 
+18 flown clutching my bag before." And you write, "hahaha, that bad? Just finished it. 
+19 Whenever you want to look over." And his response is, "Just didn't want to let the docs 
+20 out of my sight. Thank you. I will look shortly." And you write, "Oh, duh. 
+21 assumed you were talking about turbulence." 
+22 Do you recall, did he ever --did Mr. Brown ever tell you why he was clutching his 
+23 bag while he was flying to D.C.? 
+24 A Well, he does say after that that he didn't want to let the docs out of his 
+25 sight. I don't know what documents he's referring to, assuming he was flying with  125 
+1 whatever he was at the Capitol to do. 
+2 Q So he never --Mr. Brown never told you what documents he was bringing 
+3 with him to Washington, D.C.? 
+4 A No. I mean, the only context I have is the docs. I don't remember any 
+5 conversations from that day or ever about, you know, what he's referring to. 
+6 Q So Mr. Brown never told you about any meetings that he had in Washington, 
+7 D.C., around January 5th? 
+8 A No.  1 
+2 
+3 BY 
+Q Could we go back really quickly to the document behind tab 21, 
+4 Ms. Mccallum, on the second page --
+5 
+6 A Yes. 
+Q --that you produced? 
+7 So Michael Brown, after the exchange with the photo that was on the previous 
+8 page, writes, "I should probably buy Roman a tie or something for sending me on this 
+9 one." 
+10 Do you think that refers to his boss at the time on the Trump campaign, Mike 
+11 Roman? 
+A Yes. 126 
+12 
+13 Q Okay. And then he writes, "It hasn't been done since 1876, and it was only 
+14 three States that did it." 
+15 What did you understand him to be referring to there? 
+16 
+17 A 
+Q I honestly have no idea. 
+I'll note, this is on --this exchange happened on January 5th, the day before 
+18 the U.S. Congress was set to convene for a joint session to certify the outcome of the 
+19 Presidential election on January 6th. That's right? 
+20 
+21 
+22 
+23 A Yes. 
+Q Correct? 
+A That's --yeah. 
+Q Yeah, okay. Does that help to jog your memory about what Mr. Brown was 
+24 doing in D.C., what the documents were? 
+25 A I mean, I think you'd have to talk to Michael Brown to ask him specifically  127 
+1 what he was doing there. You know, if these things are happen --if this conversation is 
+2 happening on January 5th, I assume that it has something to do with what's happening 
+3 the next day. 
+4 But like I said, I was working for the NRSC at that point in time. I had, you know, 
+5 no job assignments related to the Trump campaign during the, you know --during 
+6 January at all, so --
+7 
+8 Q 
+A Okay. But you were still working with Michael Brown, right? 
+Yes, I was working with Michael Brown in the capacity of he was also a 
+9 contractor with the National Republican Senatorial Committee, as was Mike Roman. 
+10 Q Did you understand Michael Brown to be focused exclusively on the Georgia 
+11 NRSC work, or was he also --was he at that time still working for the Trump campaign? 
+12 A I would assume, based on this message, he was still working on Trump 
+13 campaign, you know, assignments, but I really can't confirm that. 
+14 Q Okay. I note in the context of January 6th that 1876 is the year of a 
+15 contested Presidential election. 
+16 
+17 A 
+Q Okay. 
+Does that bring up any recollections for you about conversations that you 
+18 had with Michael Brown about his trip to D.C. and the documents that he was bringing 
+19 with him? 
+20 A No. I mean, like I said, no one talked to me about anything related to that. 
+21 And at that point I was working in Georgia, and at that point the only things that people 
+22 talked to me about were volunteers coming in and out of the office and what we were 
+23 having for lunch that day and, you know, if there was enough office supplies because the 
+24 runoff was taking place on the 5th. So anything that I did on the 5th was related to the 
+25 Georgia Senate runoff.  1 
+2 
+3 Q Okay. 
+BY 
+Q Do you know if Ms. Crawley traveled with Mr. Brown on --to D.C. on 
+4 January 5th? 128 
+5 A No. And to that, I'd point you to --on it would be the second page on tab 
+6 21, where Michael says, "What's the mood in the room?" He's referring to the room 
+7 that we were all in for --while we were working for the NRSC, so basically the 
+8 headquarters office of the runoff. So, you know, Madi responds and says, "still pretty 
+9 high." So Madison and myself were both in that room in Atlanta, Georgia. 
+10 Q Okay. And so did you have to expense this report --expense or help 
+11 process Mr. Brown's expenses related to this January 5th trip to D.C.? 
+12 A I wouldn't know that. I would assume, you know, that's obviously not 
+13 something the NRSC would pay for. 
+14 
+15 Q Okay. 
+A If you look at it, you know, on tab 22, he's talking about a receipt on 
+16 January 2nd. 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 Q Yep. 
+A I don't know if there are any receipts after that. 
+Q Okay. 
+BY 
+Q Do you know where Michael Brown works now? 
+A I don't, no. 
+Q Okay. Are you still in touch with him? 
+A Occasionally. I don't know if he's currently employed. 
+Q Okay. And now what about Mike Roman? Do you know where he works  1 now? 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 A 
+Q 
+A 
+Q No clue. 
+Okay. Are you still in touch with him? 
+No. 
+Okay. 
+A Not regularly at all. 
+-Okay. 129 
+Maybe we can just ask, Ms. Lofgren, before we conclude, any questions from you? 
+Ms. Lofgren. No. Thank you very much for asking. 
+- Okay. 
+BY 
+Q So we just wanted to just turn to January 6th. 
+Where were you on January 6th, 2021? 
+A 
+Q In Atlanta, Georgia, at the Georgia Republican Party headquarters office. 
+Did you get a chance to watch the rally that took place or the event that took 
+16 place on the Ellipse on January 6th in Washington, D.C.? 
+17 A There was --in the room that we were working out of there was a projector 
+18 that had some media station on, FOX News, C-SPAN, something of that nature. So all I 
+19 would've watched is whatever was being broadcasted on the news. 
+20 I don't remember watching any part of the rally specifically. I obviously 
+21 remember looking at the TV and seeing, you know, what was going on on January 6th. 
+22 Q And when you say what was going on on January 6th, are you referring to 
+23 the attack on the Capitol Building? Is that what you're referring to, or you're referring --
+24 A Yeah, I remember seeing that on TV, you know, media reporting on that, and 
+25 obviously the building was shut down, things like that, updates that were media  130 
+1 information. 
+2 Q With respect to the event on the Ellipse on January 6th, did you have any 
+3 involvement in the planning or organization of that event? 
+4 A No. I mean, I'd like to go back to what I said earlier. With the exception 
+5 of the Wisconsin research, I did not do any work for the Trump campaign after I left 
+6 Philadelphia in early December. 
+7 Q And I think you understand what the select committee is looking into. Do 
+8 you have any information to provide to the select committee relating to the attack on the 
+9 Capitol on January 6th, 2021? 
+10 
+11 A I do not. 
+- Okay. I think that's it. We'll go off the record. Well, it's 3:25, 
+12 and I think, based on our conversations earlier, your objections are noted for the record, 
+13 but I think at this point we can close the deposition. 
+14 
+15 Mr. Brothers. Got it. Sounds good. 
+[Whereupon, at 3:25 p.m., the deposition was concluded.] 3:25 p.m.  1 
+2 
+3 Certificate of Deponent/Interviewee 
+4 I have read the foregoing __ pages, which contain the correct transcript of the 
+5 answers made by me to the questions therein recorded. 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 Witness Name 
+Date 131 

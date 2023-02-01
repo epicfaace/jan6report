@@ -1,0 +1,2760 @@
+1 
+2 
+3 
+4 SELECT COMMITTEE TO INVESTIGATE THE 
+5 JANUARY 6TH ATTACK ON THE U.S. CAPITOL, 
+6 U.S. HOUSE OF REPRESENTATIVES, 
+7 WASHINGTON, D.C. 
+8 
+9 
+10 
+11 INTERVIEW OF: BRYAN CUTLER 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 Tuesday, May 31, 2022 
+Washington, D.C. 
+The interview in the above matter was held via Webex, commencing at 1:00 p.m. 
+Present: Representative Schiff. 1  1 
+2 Appearances: 
+3 
+4 
+5 For the SELECT COMMITTEE TO INVESTIGATE 
+6 THE JANUARY 6TH ATTACK ON THE U.S. CAPITOL: 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 SENIOR ADMINISTRATIVE ASSISTANT 
+STAFF ASSOCIATE 
+SENIOR INVESTIGATIVE COUNSEL 
+INVESTIGATIVE COUNSEL 
+CHIEF CLERK 
+PROFESSIONAL STAFF MEMBER 
+16 For BRYAN CUTLER: 
+17 
+18 MARK RUSH 
+19 K&L Gates 
+20 1601 K Street, NW 
+21 Washington, D.C. 20006 2  1 
+2 Good afternoon. 
+3 This is a transcribed interview of Bryan Cutler by the House Select Committee to 
+4 Investigate the January 6th Attack on the United States Capitol, pursuant to House 
+5 Resolution 503. 
+6 I would like to ask the witness at this time to please identify yourself by stating 
+7 your name and spelling your last name for the record. 
+8 
+9 
+10 
+11 
+12 Mr. Cutler. Yes, ma'am. Bryan D. Cutler, B-R-Y-A-N, D, C-U-T-L-E-R. 
+Thank you. 
+And I know your counsel is with you today. 
+Counsel, would you like to note your appearance for the record? 
+Mr. Rush. Certainly. My name is Mark Rush. I represent Speaker Cutler, and 
+13 I'm with the law firm of K&L Gates. 
+14 - Great. Thank you, Mr. Rush. 
+15 Speaker Cutler, I'll go over a few preliminaries here today. As I introduced 
+16 myself to you just before we went on the record, my name is I'm an 
+17 investigative counsel for the select committee. I'm joined on our conference today by a 3 
+18 few of my fellow staff members. Here in the room with me is professional staff member 
+19 
+20 and as you'll see on the Webex participants list, we also have a few 
+members of our staff, including our chief clerk, and my colleague, senior 
+21 investigative counsel, 
+22 So this is going to be a staff-led deposition --or transcribed interview --forgive 
+23 me --today. Members of the select committee may choose to join. If they do so, they 
+24 will also log in through the Webex virtual platform. You'll be able to see them in the 
+25 participants list, but we'll do our best to note on the record and for your awareness when  4 
+1 they join as well. As I said, this will be a staff-led interview, but if our members do 
+2 choose to join, we'll try to take some pauses to allow them to ask any questions that they 
+3 may wish to do at that time. 
+4 For our witnesses who are attorneys, some of this is a bit belt and suspenders, but 
+5 I'll go through a few of our preliminary sort of best practices before we go on the record. 
+6 As an attorney, I'm sure this will not be unfamiliar to you. 
+7 We have on the line with us today our official reporters. As you heard when we 
+8 got started, this virtual proceeding is being recorded through the platform, but the 
+9 transcript that's being taken by the official reporters is the official record of today's 
+10 interview. You will have an opportunity, along with your lawyer, to review the 
+11 transcript if you wish to do so after the interview. 
+12 And just because our official reporters are here with us virtually, as I noted for 
+13 your lawyer before we got started, if he does need to speak, we ask that you move the 
+14 camera so that our official reporters can see his face while they hear his voice as well. 
+15 We will also ask you to please wait until each question is completed before you 
+16 begin your next response, and we will also try to do our best to not speak over your 
+17 answers with our next questions. And we do ask that you give a verbal response rather 
+18 than a nodding or a shaking of your head just so that it enables us to have a clean, 
+19 accurate record in the transcript. 
+20 We ask that you provide complete answers based on your best recollection today. 
+21 If our questions are not clear --and I certainly anticipate that might be the case --please 
+22 do ask for clarification. We will be happy to restate. We certainly want you to 
+23 understand our questions before you answer. If you do not know the answer to any of 
+24 our questions, please just say so. 
+25 And, although this interview today is not under oath, I do want to remind you that  1 it is unlawful to deliberately provide false information to Congress. 
+2 Do you understand that, Mr. Cutler? 
+3 Mr. Cutler. Yes, ma'am. 
+4 - Okay. Thank you. 
+5 As we go through today, I know your time is valuable, especially during the 
+6 legislative session, so we are going to try and move through this as quickly as we can 
+7 today. But, if you do require any breaks, please let us know, and we're happy to 
+8 accommodate that. That could be just for a few moments for a comfort break, or 
+9 certainly if there's anything you need to discuss with your attorney during the interview, 
+10 please just let us know and you can go off video and off camera --off mute --we'll mute 
+11 you, go off sound and camera so that you can have that conference with your lawyer. 
+12 
+13 
+14 
+15 Mr. Cutler. Okay. 
+-Okay. 
+Mr. Cutler. Thank you very much. 
+Any questions or anything else you would like to address before we 
+16 get going? 
+17 Mr. Cutler. I don't think. 
+18 
+19 
+20 
+21 
+22 
+23 
+24 Anything, Mark? 
+Mr. Rush. No. 
+Mr. Cutler. No. We're all right, - Go ahead. 
+Okay. Great. Thank you very much. 
+EXAMINATION 
+BY 
+Q So, Speaker Cutler, I would like to just go over very briefly some of your 
+25 personal background before we get into the events surrounding the November 2020 5  6 
+1 election. 
+2 So why you don't tell us first where you're from. 
+3 
+4 
+5 
+6 A 
+Q I'm from southern Lancaster County, Peach Bottom, Pennsylvania. 
+That's great. 
+And what was your educational background? 
+A I was originally an X-ray tech and worked in hospital administration. My 
+7 bachelor's degree is from Lebanon Valley College. It's in healthcare admin with a minor 
+8 in business. And then, when I was 28, I went back to law school, specifically for 
+9 healthcare law, but then ran for office my third year in law school and then won, and 
+10 that's the seat that I currently hold. 
+Q That's great. 11 
+12 
+13 So how long have you been in the Pennsylvania House? 
+A I'm in my eighth term, so I'm in my 16th year. November the 30th will be 
+14 the end of this term, and December 1st with be the start of the next one. 
+15 Q Okay. Great. 
+16 And how long --during that service in the Pennsylvania Assembly, how long have 
+17 you served as speaker? 
+18 A Just under 2 years. It was June of 2020 that I became speaker. It was 
+19 midterm. 
+20 Q Okay. Great. 
+21 And you remained as speaker throughout the time period of the November 2020 
+22 Presidential election. Is that right? 
+23 A Through November the 30th. However, we are not a continuous body, so I 
+24 ceased being speaker on November the 30th, and then, from December the 1st until the 
+25 first Tuesday in January, which I believe was January the 5th, I was known as the  1 speaker-designate. And then that's actually our first official order of business when we 
+2 return to session on the first Tuesday. 
+3 Q Great. Okay. 
+4 And, generally speaking, what is the role of the speaker in the Pennsylvania 
+5 General Assembly? 
+6 A It's more administrative. You know, we schedule the session days, and 
+7 generally it's from the majority party but not always. In fact, my first term that was not 
+8 the case 15 years ago. And it really is more administrative when it comes to the bills, 
+9 the amendments, review them with the parliamentarian, determine if things are no 
+10 order. We have very strict constitutional requirements on single subject and the ability 
+11 to amend and/or expand bills, and it's really my role to check those out each morning 
+12 before the start of session. 
+13 
+14 Q Okay. Thank you. 
+So I would like to direct your attention to the November 2020 Presidential 
+15 election. We will start a little bit before the election itself, but the primary focus of our 
+16 discussion today, this interview, will be from the November 3, 2020, election through 
+17 January 6th and the events that you observed or interactions that you had during that 
+18 time period that are relevant to our inquiry. 
+19 And the point that I would like to direct you to is, in October 2020, we are aware 
+20 that there was an article published in The Atlantic Magazine. I think that article was 
+21 actually published in late September, and it referred to the possibility that the Trump 
+22 campaign would test the principle of State legislatures appointing electors following a 
+23 Presidential campaign. 
+24 Are you familiar with that article? 
+25 A I'm actually not --7  1 
+2 
+3 Q 
+A 
+Q Okay. 
+--familiar with that article. 
+Okay. On a similar subject, there was an op-ed published in October, on 
+4 October 19, 2020, by one of your colleagues on the house side, majority leader 
+5 Benninghoff, and on the senate side by then president pro tern, Jake Corman. 
+6 Are you familiar with that op-ed they published? 
+7 A I'm not specifically aware of it, but I am aware of a letter that was also 
+8 publicly available, which I believe has been provided to you, but I believe the substance 
+9 was similar. 
+10 Q Oh, okay. Tell us what you recall about the substance of those 
+11 communications. 8 
+12 A The letter was sort of an open letter/press release that we did have after the 
+13 election that explained the constitutional prohibition against the legislature appointing 
+14 our electors and that there was a very well defined legal path for either challenging 
+15 elections, auditing --or excuse me --challenging elections, challenging electors, and/or 
+16 asking for a recount. 
+17 
+18 
+19 
+20 Q Okay. Great. 
+And I think we'll discuss the post-election statement in a little bit more detail later. 
+A 
+Q Okay. 
+But I did want to ask whether any such --whether this topic of the 
+21 constitutional prohibition regarding the legislature's role, as you framed it, whether that 
+22 came up before the election at all. 
+23 A Not that I recall. 
+24 Q So you don't recall having any conversations about the possibility of 
+25 legislature playing a role in selecting the winner of the Presidential campaign before the  9 
+1 election itself? 
+2 A No. Our law is very clear on that, so --it's actually been that way since the 
+3 very first Presidential election. We've always awarded electors to the winner of the 
+4 popular vote here in Pennsylvania, and then specifically we do have that constitutional 
+5 prohibition as well. But, if you change how electors are awarded, it has to be 
+6 prospective, not retroactive. 
+7 Q Okay. And how did you come to understand the constitutional prohibition? 
+8 Is that something that you've had to, you know, be involved with in the past? 
+9 A Not previously. However, particularly --I mean, we were involved in 
+10 multiple lawsuits, and this is probably more post-election, which we can get into during 
+11 that window, but the truth of the matter is that some of the remedies they were asking 
+12 for was for the legislature to appoint alternate electors. And I actually think the 
+13 constitutional provision is pretty clear on that point. 
+14 
+15 
+16 
+17 Q And pretty clear in that it prohibits --
+A Correct. 
+Q --such an action? 
+Okay. Thank you. 
+18 Did you have any conversations with Senator Corman or Representative 
+19 Benninghoff about their op-ed which says that lawmakers have no role to play in deciding 
+20 the outcome of the Presidential election? 
+21 A Only to the extent that we included it in the letter or the press release that 
+22 we issued after --
+23 
+24 
+25 Q 
+A 
+Q Okay. Did you speak to them before the election at all? 
+Not that I recall. 
+Okay. Okay. So then let's talk a little bit about November 3, 2020, the  10 
+1 Presidential election. 
+2 What was your understanding on election day and night about how the election 
+3 had gone in Pennsylvania? 
+4 A In terms of election day itself, I'm actually my own local committeeman, so I 
+5 worked my own poll. And, you know, it was a very busy election. I knew turnout was 
+6 high. 
+7 From the prior primary, I also recognized that there was a large number of mail-in 
+8 ballots that were a component part of that tally that as of yet had to be tallied. We had 
+9 previously tried unsuccessfully to allow for those to be counted prior to election day, but 
+10 the Governor had threatened to veto the bill. 
+11 I had actually raised the issue of the problem of counting back in I believe it was 
+12 February of 2020, because we had run the first election with mail-in ballots. There was 
+13 a substantial delay in getting some of the results, and that was an off-year election. And 
+14 I was at a press club event sometime in February as leader, and a press question came up 
+15 about the problems with late ballots. We outlined that. We tried to fix it legislatively 
+16 but were unsuccessful. 
+17 So I knew that there was a large number of outstanding ballots, and I also knew 
+18 that it would take a while to count those. 
+19 Q Okay. What was your expectation either leading up to or on election day 
+20 itself about how close the race would be in Pennsylvania? 
+21 A Um, I thought it was going to be close, just as it was --you know, just like it 
+22 had been in 2016, but I really didn't have an expectation, you know, one way or the other 
+23 in terms of what the outcome would be. 
+24 Q Okay. Did there come a time after election day when Members of 
+25 Congress came to visit you in your office?  11 
+1 A Yes. I don't recall the day, but I know it was the week after the election, 
+2 Congressman Perry and Congressman Jordan had come and raised some questions 
+3 regarding what I'll call the legal process and what the options were. 
+4 Q Okay. In our earlier informal interview in your office, you recalled that you 
+5 thought it took place around November 6th. 
+6 Does that sound consistent? 
+7 
+8 
+9 
+10 A 
+Q 
+A 
+Q Yes. It was within a couple of days -­
+Okay. 
+--post-election. 
+Right after the election. Okay. 
+11 So Representatives Perry and Jordan, are they both individuals that are known to 
+12 you before this meeting? 
+13 A Yes. Obviously, I knew Mr. Jordan just from the news, but Congressman 
+14 Perry and myself had actually served together here in the statehouse --
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 Q 
+A 
+Q 
+A 
+Q 
+A 
+Q 
+A 
+Q Okay. 
+--for about two terms I believe. 
+Was this your first meeting with Representative Jordan? 
+Yes, in person. 
+Okay. Had you met with him by phone or otherwise --
+No, ma'am. 
+--before? 
+No, not at all actually, but it was just the first meeting. 
+Okay. Great. 
+24 Any explanation for why a Member of Congress not from Pennsylvania was in your 
+25 office meeting with you about the election?  12 
+1 A Um, they really had expressed it was more of an information question, you 
+2 know, what could be done, what was, you know, the process in terms of our election 
+3 laws. 
+4 You know, at this point, we'd probably had close to two dozen lawsuits heading up 
+5 to the election. So the legal ins and outs of the voting law and some of the court orders 
+6 that changed the law were very well known to me at that point. 
+7 Q Tell me a little bit more about that. What were the questions that 
+8 Representatives Perry and Jordan were asking you to the extent you can remember 
+9 specifically? Were they asking about specific cases or specific issues? 
+10 A Questions of, you know, what was the election process, you know, what was 
+11 the certification process. That's all outlined statutorily. If you wish to challenge or had 
+12 questions about, you know, alleged fraud, what was the process, you know, we had set 
+13 up an email to accept, you know, people who alleged to have seen fraud. We 
+14 forwarded --you know, we collected information, forwarded it to the appropriate people 
+15 because we don't have, you know, a prosecutorial arm in the legislature. 
+16 We do try to improve our voting laws, which is what we had done prior to the 
+17 election, through that information gathering. And we also had a --you know, we also 
+18 had had a series of data reports that we had collected here in the Commonwealth after 
+19 making that change. I believe it was Act 35 that outlined that we wanted to know, you 
+20 know, how many, you know, mail-in votes were rejected, how many were requested, just 
+21 so we could understand the process better. And they continued to issue that report 
+22 both in the primary and the general election so we could modify the law accordingly. 
+23 And then it was really --we also had a case at that time regarding the late ballots. 
+24 The court order --our Supreme Court order had ordered that we accept ballots for up to 
+25 3 days past the election day. That was directly contrary to the plain language of the  13 
+1 statute, which has an 8 p.m. deadline on election day. And so they had some questions 
+2 about that. 
+3 Now, we did get a court order from the U.S. Supreme Court that said: Segregate 
+4 those ballots; we'll figure out the legality later. 
+5 My recollection was that was about 9,700 or 9,800 ballots total, which we then did 
+6 continue to litigate after the election. 
+7 Q And we'll get --just to close this loop and then get back to our conversation 
+8 about Representatives Perry and Jordan, but am I correct that it turned out that the 
+9 margin of victory in the race was greater than the number of ballots that had been 
+10 segregated pursuant to that order and, thus --
+11 
+12 
+13 A Yes, ma'am. 
+Q --those ballots were not outcome determinative? 
+A Yes. Our ballots that we were litigating over because of the plain language 
+14 of the statute was, as I said, 9,700 or 9,800. I think the official margin ended up being 
+15 close to over 80,000, so it was substantially wider. 
+16 Q Okay. Thank you. 
+17 So, back to the meeting in your office with Representatives Perry and Jordan, was 
+18 it there in your statehouse in the capital office? 
+19 
+20 A Yes, ma'am. 
+Q Okay. Did they bring up any discussion of allegations, specific, you know, 
+21 allegations of fraud connected to the election? 
+22 
+23 
+24 A Nothing specific, other than the question of the legality of the late ballots. 
+Q Okay. 
+A And, at that point, that was still an open question because we didn't have 
+25 them all collected.  1 Q Understood. 
+2 And did you share with them any of the allegations that had come into the 
+3 account that you set up to --
+4 
+5 
+6 A 
+Q 
+A No, ma'am. 
+--receive? 
+No. I actually --that was monitored by staff. I was not aware of all of 
+7 those individual allegations --
+8 
+9 
+10 Q 
+A 
+Q Okay. 
+--in terms of specifics. 
+Did Representative Perry or Jordan, did either of them mention any 
+11 discussions that they had had with President Trump? 
+12 
+13 A 
+Q No. 
+Okay. And did they ever, you know, get the sense that --did you ever get 
+14 the sense that they were making an ask, or was it merely an information-gathering 
+15 conversation? 14 
+16 A No. For me I did not feel like there was an ask, other than, you know, what 
+17 were the legal options. 
+18 
+19 Q Okay. Understood. 
+Any further discussion after that meeting in your office? Did you have any 
+20 further discussion with either Representative Perry or Jordan? 
+21 
+22 A 
+Q Not that I recall. 
+Okay. So then I think walking --we'll try to stay chronological, to the extent 
+23 possible here, and this is not meant to be a memory test going back now more than a 
+24 year. So, if there's anything --you know, a lot of this is from our earlier conversation 
+25 and other documents that you and your lawyers provided to us -- 15 
+Okay. 1 
+2 A 
+Q --pursuant to our request. So I'll ask you some questions, and if it's helpful 
+3 to refer to any documents to help, you know, pinpoint the time, we're happy to do so. 
+4 
+5 A 
+Q Okay. 
+But I understand that, shortly after that meeting in your office with 
+6 Representatives Perry and Jordan on November 10th, that you made sort of a call for the 
+7 house State government committee to conduct an investigation of the election and in 
+8 particular requested an audit be conducted by the Governor before the certification of 
+9 the election. 
+10 Can you tell us a little bit about the context and why you made those statements? 
+11 A Sure. In terms of the audit --and it's important to remember an audit is 
+12 very different than a recount. So an audit is not just what are the numbers. It is, were 
+13 the policies and procedures followed in arriving at those numbers? 
+14 So that was consistent with the data request that we had done on the two prior 
+15 reports, both on the primary and the general election. In terms of trying to understand 
+16 what happened, we wanted to make sure and had subsequently found out that, in fact, 
+17 counties did handle ballots differently. Some counties allowed ballot curing, which is 
+18 not specifically allowed under our law. They would contact the voters and give them an 
+19 opportunity to correct their ballot. Some counties handled late ballots differently than 
+20 others and/or incomplete ballots differently than others. That has all since come to 
+21 light. 
+22 So the audit was really a request to find out, were the policies and procedures 
+23 followed so that people could have some level of certainty with the numbers once they 
+24 were certified? 
+25 In terms of the State government committee itself, we had asked the chairman  16 
+1 and the committee, they were the ones who had really updated the election law I think a 
+2 total of five times up to that point. They had done a series of hearings and made some 
+3 suggested improvements, incremental improvements through each one of those bills, 
+4 most of which were based off of the data that we had collected, and that was just a 
+5 continuation of that process to determine, once again, if the policies and procedures 
+6 were followed because the audit request went to the executive branch, but I also felt like 
+7 we had a duty legislatively to do the same thing. 
+8 Q Okay. Understood. 
+9 Was any of that --the audit conducted, could any of the findings of that audit have 
+10 had an impact on the certification of the result of the election? 
+11 A That would have --regarding the executive branch, you would have to check 
+12 with the Governor. I don't know. Legislatively, for our purpose, it was to gather the 
+13 necessary information to make any changes to the law that might be necessary, again, 
+14 because of our constitutional prohibition. 
+15 
+16 Q Understood. Okay. 
+And ultimately the outcome of the Presidential election, that President Biden won 
+17 Pennsylvania, was certified on November 24, 2020. Is that correct? 
+18 A I know it was certified. I actually thought it was a little later in the month, 
+19 to be honest. 
+20 
+21 
+22 
+23 
+24 
+25 Q 
+A 
+Q 
+A 
+Q Is --
+But I'll trust you on the dates. 
+Well, and I can go back and double-check it, but by the end of November -­
+By the end of November, it had been certified, yes, ma'am. 
+Okay. Great. 
+Are you aware of a hearing that was conducted in Gettysburg, Pennsylvania,  17 
+1 around November 25, 2020? 
+Yes. It was widely covered in the news. 2 
+3 A 
+Q Yes. Several attorneys purporting to represent President Trump appeared, 
+4 as well as other individuals, and some members of your caucus. So why don't you tell us 
+5 what you recall about the circumstances of how that hearing came to be convened. 
+6 A I just know that there was a hearing in Gettysburg that was initially 
+7 undertaken by the senate, there were some house members that attended, and that it 
+8 involved allegations regarding the election. You know, in terms of specific outcomes or 
+9 anything there, I'm not really sure. You know, we didn't have any legislative action on 
+10 our side that was contingent upon that hearing. 
+11 Q Okay. Was it an official hearing of the legislature in Pennsylvania or sort of 
+12 a nonofficial, you know, committee hearing? 
+13 A You would have to check with the senate on that. I'm not sure what their 
+14 rules are or which committee hosted that. You know, I know what the requirements are 
+15 for the house but not for the senate. 
+16 Q Okay. Would it have satisfied the requirements for a house committee 
+17 hearing? 
+18 A In regards to the hearing process, it would have been a State government 
+19 hearing, and our State government committee chair was not there, so I would say no. 
+20 Q Okay. I understand that it may have been convened under the auspices of 
+21 a policy committee. Is that different than a sort of standing committee --
+22 
+23 
+24 
+25 A 
+Q 
+A 
+Q Yes, ma'am. 
+--in the legislature? 
+Yes, ma'am. I'm sorry. I didn't mean to speak over you. 
+Oh, no. No worries at all.  18 
+1 How so? How is the policy committee different? 
+2 A A policy committee is typically only made up of --unless it's a joint policy 
+3 committee. A policy committee itself is only made up of members of a single party, 
+4 both Republican and Democrat. Each caucus and each chamber has one whereas a 
+5 State government committee, since that was our committee of jurisdiction here in the 
+6 house, it would have --it would be made up of both majority and minority leaders. 
+Q Okay. Understood. 7 
+8 
+9 Were you invited to participate in the hearing in Gettysburg? 
+10 A 
+Q 
+11 hearing? 
+12 A I'm sure I probably was invited at some point, but I did not attend. 
+Okay. Was that an affirmative decision on your part not to take part in the 
+No. I was very busy. We were getting ready for the upcoming session in 
+13 terms of what else we were, you know, looking at in terms of calendar. And being that 
+14 we terminate on November the 30th, we have to actually start planning our swearing-in 
+15 day ceremonies long before that. And particularly with COVID this year, we ended up 
+16 doing it in four waves of 50 members each so that we could space. So administratively 
+17 that took a lot of maneuvering to make sure that we had all of the people evenly spaced 
+18 and the families could get in and out and they weren't stuck in hallways going past each 
+19 other. So we were focused solely on that. 
+20 Q Okay. Did you come to learn about any of the allegations of election fraud 
+21 that were discussed during that hearing? 
+22 A Yes. They were widely reported in the news, and some of them were 
+23 consistent with, you know, what we had heard, you know, anecdotally of constituents 
+24 contacting the office. 
+25 Q Okay. Tell us just generally, not --you know, you don't have to recall  19 
+1 everyone, but are there any examples of the types of allegation that you recall having, 
+2 you know, been raised to your office and that you said might be consistent with what was 
+3 discussed at that hearing? 
+4 A Again, there were questions regarding the late ballots, which that had been 
+5 in the news at that time period, because we had ongoing litigation at the U.S. Supreme 
+6 Court on that, as well as some of the other court-ordered changes to the law, specifically 
+7 drop boxes, which are not --they're not actually enumerated anywhere in the 
+8 Commonwealth law. They are a creation of the Department of State that was issued 
+9 through guidance to the counties. And, once again, the counties actually --each county 
+10 treated the use of drop boxes very differently. And ballot harvesting is illegal here, and 
+11 there were questions about ballot harvesting as well. 
+12 Q Okay. Did you ever learn of evidence that supported the existence of 
+13 any --you know, sort of prove the truth or existence of any of the allegations of fraud that 
+14 were raised during that Gettysburg hearing? 
+15 
+16 A 
+Q Not specifically, no, ma'am. 
+Okay. So I would like to ask you now about some outreach that you 
+17 received from President Trump and his sort of allies, members of his campaign, during the 
+18 post-election time period. 
+19 So I think we'll go through this roughly chronologically. And let me just ask 
+20 you --the first thing that I will, you know, play for you is a voice mail that I understand 
+21 that you received around November 26th from the President's lawyer, Rudy Giuliani. 
+22 Before we do that, did you receive any other outreach from the President or 
+23 others, you know, purporting to act on his behalf before getting that voicemail? 
+24 
+25 A 
+Q Not that I'm aware of --
+Okay.  20 
+1 A --chronologically. We had forwarded you all the voicemails that I still had 
+2 and/or screenshots of that information, although, truthfully, I did not listen to the 
+3 voicemails when they came in. I have a feature on my phone that roughly transcribes it, 
+4 and so I've not actually listened to them in their entirety. 
+5 
+6 
+7 
+8 Q Okay. Even to today, you haven't necessarily listened to them? 
+A Yes, ma'am, that's correct. 
+Q Okay. 
+A Because I'm very familiar with the rules of refreshing your memory prior to 
+9 being deposed. 
+10 Q That's right. 
+11 
+12 
+13 Okay. 
+A 
+Q Well, I will force you to listen to them -­
+That's okay. 
+today. Okay. Let's start with what we have as exhibit 1. This is a 
+14 voicemail that I understand that Mr. Giuliani left for you on November 26, 2020. 
+15 [Audio recording played.] 
+16 BY 
+17 
+18 
+19 Q Speaker Cutler, were you able to hear that? 
+A Yes, ma'am. 
+Q I didn't want to interrupt, but it looked like it was a bit faint for the volume. 
+20 Was that okay? 
+21 
+22 
+23 
+24 A Yes, ma'am. 
+Q All right. So had you listened to that voicemail, this particular one, before? 
+A No, ma'am. 
+Q Okay. When you did receive the voicemail, I think you said you could see 
+25 some of it transcribed on your phone. Is that right?  21 
+Yes, correct. 1 
+2 A 
+Q And what did you think when you saw that Mayor Giuliani was just leaving a 
+3 voicemail for you on the phone? 
+4 A One of my concerns throughout the entire process was, because of the 
+5 ongoing litigation, that it would be viewed as ex pa rte contact because one of the specific 
+6 remedies that they were asking for was for us to, you know, if the court so ordered, 
+7 adjudicate where the electors would go, and as the speaker, I would be the presiding 
+8 officer over that process. So I had contacted our attorneys at that time and said: Hey, 
+9 they're trying to get a hold of me. Can you please let them know that I won't be 
+10 returning their calls? 
+11 
+12 Q 
+A Okay. And who was it that you contacted, your attorneys, about this topic? 
+It would have been Rod Corey and Jim Mann, our two caucus counsel, I 
+13 guess is their official title. 
+14 Q Okay. Great. 
+15 And I'm not asking you for the content of your discussions with your caucus 
+16 counsel, but after you made this outreach to them, did you ever learn whether, in fact, 
+17 they did inform Mr. Giuliani of your wishes that he no longer contact you? 
+18 
+19 
+20 A 
+Q 
+A Yes. It was my understanding that that message was conveyed. 
+Okay. Nonetheless, did Mr. Giuliani continue to contact you? 
+Yes, because there was another voicemail, at least one, which I think we 
+21 forwarded you, that he actually specifically mentioned that. 
+22 Q Meaning your comment that you thought that they were ex pa rte 
+23 communications and should cease? 
+24 
+25 A 
+Q Correct. 
+Okay. And did you receive other phone calls or voicemails from other  1 lawyers representing President Trump? 
+2 A Ms. Jenna Ellis as well; although one of the calls that Mr. Giuliani called on 
+3 was actually --at least they indicated it was her number. So I'm not sure which 
+4 voicemail was tied to which number. 
+5 Q Okay. Going back to your conversation with your lawyers or your 
+6 instruction to them, do you have a memory of how soon after you received this first 
+7 voicemail on November 26th that you reached out to your lawyers? 
+8 
+9 A 
+Q No, ma'am, I do not. 
+Okay. Was it within, you know, hours, days? Could you, you know, 
+10 estimate how quickly you spoke to them? 22 
+11 A I think it was very soon just because of, you know, the nature of the ongoing 
+12 litigation on not just our front, but, you know, I know that they also had a Federal case in 
+13 Williamsport as well. 
+14 Q Okay. And how soon thereafter, after you spoke to your lawyers, did you 
+15 come to learn that they had, in fact, passed on your message to Mayor Giuliani? 
+16 
+17 A 
+Q I don't recall. 
+Okay. Do you think it was within a day or two of when you gave them that 
+18 instruction, or was it a longer time period? 
+19 A I think that would be likely because they're very good about following up 
+20 when requested. 
+21 Q Okay. And the voicemail that --this first one at least that Mayor Giuliani 
+22 left for you, was this on an official phone or on your personal device? 
+23 
+24 A 
+Q My personal phone. 
+Okay. Were all the other voicemails that you received also left on your 
+25 personal phone?  1 
+2 A 
+Q 
+3 number? Yes, ma'am. 
+Okay. Do you have any idea of how Mayor Giuliani got your phone 
+No, ma'am. 
+Had you ever had any interactions or dealings with him before? 
+No, I had not. 23 
+4 
+5 
+6 
+7 A 
+Q 
+A 
+Q Okay. Okay. So I just wanted to --and recognizing that you may have just 
+8 listened to the full, you know, content of the voice mail with us here today, I wanted to 
+9 ask you for your reaction to a couple of things that Mayor Giuliani said on that message. 
+10 So one of them is that he was clearly asking for a meeting to talk with you and I 
+11 think, you know, indicates that he wished to discuss with you some evidence or 
+12 allegations of election fraud. 
+13 Is that consistent with what you heard? 
+14 
+15 A 
+Q Yes, ma'am. 
+Okay. He referred on the voicemail to, quote, what happened yesterday, 
+16 end quote. And being that this was the day after that Gettysburg hearing, do you think 
+17 that that is what he was referring to? 
+18 
+19 A 
+Q I have no idea. 
+Okay. And then he remarked in the voicemail, sort of stressed the 
+20 importance of what he was trying to say to you by saying: We think really --we think 
+21 this is really enormously important not just for the President but also really important for 
+22 the future of our party and for the country. 
+23 What's your reaction to him --that portion of his voicemail? 
+24 A My own reaction in hearing this was the facts are what the facts are and the 
+25 law is what the law is, and that's consistently --you know, anytime I communicated with  24 
+1 him or the President himself, that's what I tried to convey when we were discussing the 
+2 issues. Our law was very clear in terms of the pathways that are available, both the 
+3 candidates as well as court challenges, and I also think that the prohibitions are equally 
+4 clear in terms of some of the limits of the legislative powers. 
+5 Q Okay. Understood. 
+6 Do you think that he's emphasizing when he says it's important for the 
+7 President --presumably meaning him as a candidate for office --but then also really 
+8 important for the future of our party. So it seems to me like he's invoking the fact that 
+9 you're both members of the Republican Party to emphasize, you know, put this in the 
+10 context of you both being Republicans and wishing for you to meet with him and 
+11 presumably call him back and then meet with him. 
+12 Do you think that's a fair interpretation of what he was saying there? 
+13 A I think that could be one interpretation, but you would have to ask him what 
+14 he specifically meant to that. I'm not going to guess as to what he was implying. 
+15 Q Yep. Understood. 
+16 Okay. So anything else that you did in response to your receiving this voicemail 
+17 from Mayor Giuliani? 
+18 
+19 
+20 
+21 A 
+Q 
+A 
+Q No, ma'am, not that I recall. 
+Okay. I will --we'll play you a couple of other voicemails right now. 
+Okay. 
+They precede what --it looks like from the information that you provided to 
+22 us and --the documents that you provided to us and the information provided by your 
+23 lawyer, that there were basically one a day for several days. So the one that we just 
+24 listened to was November 26th. We'll next listen to a voicemail left by Jenna Ellis on 
+25 November 27th, another one from Mayor Giuliani on November 28th, and then another  1 one from Mayor Giuliani on November 29th. 
+2 
+3 A 
+Q Okay. 
+First of all, before we go into them, does that sound consistent with your 
+4 recollection that the voicemails continued at, you know, roughly once a day for several 
+5 days? 25 
+6 A Yes, ma'am, although that's because, at your request, we did go in and figure 
+7 out which date stamps corresponded with which messages, but that does sound 
+8 consistent. 
+9 Q Okay. Great. 
+10 Do you remember whether you listened to any of the other voice mails that came 
+11 in? 
+A 
+Q 
+A No, ma'am. 
+Okay. All right. We'll play --
+I actually --excuse me, I want it to be clear, I did not listen to them, 12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 not that I don't recall. I did not listen --do not remember listening to any of them. 
+Q Got it. Okay. Thank you. 
+Okay. So we'll play for you now exhibits 2, 3, and 4. 
+[Audio recordings played.] BY-
+Q Okay. Those are the three that we wanted to play for you, and I should 
+21 correct my statement: They're exhibits 2, 3 and 5, contrary to what I said before. 
+22 So just a couple of questions for you about those voicemails, Speaker Cutler. The 
+23 first one that Jenna Ellis left for you on your personal phone on November 27th, she 
+24 made two comments I wanted to get your reaction to. The first was that she wanted to 
+25 thank the Pennsylvania legislature for, quote, getting on board.  26 
+What's your reaction to that statement? What do you think that meant? 
+I have no idea what she's referring to. 1 
+2 
+3 A 
+Q Okay. What about her statement about the Pennsylvania legislature doing 
+4 its Article II duties? 
+5 A I believe that she was likely confused about the Presidential elector 
+6 certification process. Many folks nationally were very confused because I don't believe 
+7 they were particularly familiar with our specific constitutional provisions and how that is 
+8 handled, both in terms of certification as well as the challenges. 
+9 Q Okay. And can you explain that to us a little bit more? So I think that she 
+10 was --I assume what she meant about Article II duties was, in the Federal Constitution, 
+11 the delegation of authority to the State legislature is to select the time, manner, and 
+12 place of elections. 
+13 What's your understanding of how that interacts with obligations or, you know, 
+14 the pronouncements of the Pennsylvania constitution about the power of the legislature? 
+15 A I do believe that the Federal Constitution does delegate us that authority. 
+16 Prior general assemblies here, however, further delegated that authority, part through 
+17 the constitution, part through the statute that set up our election process and our 
+18 certification process. 
+19 Specific to the certification process and by virtue of being a commonwealth, we're 
+20 a very decentralized form of government. So, for example, our counties run the 
+21 election, not the State. So the counties will oversee at the municipal and precinct level 
+22 all of the elections. They tally the results. They then provide a countywide total that is 
+23 given to our Department of State, which is then certified by the Department of State, 
+24 which is then sent to the National Archives, and that information is transmitted at that 
+25 time regarding the Presidential electors.  27 
+1 In addition to that, we have a prohibition, as we have alluded to previously, that 
+2 while we can change the process by which Presidential electors are awarded, the current 
+3 process is it goes to the individual who received the most votes. And if we were to 
+4 make a change, it is only prospective, not retroactive. 
+5 And so I assume she's talking about that, but that was something that we 
+6 continually had to explain, not just through reporter questions but also through court 
+7 documents and other discussions, as well as debate on some of the laws as well. 
+8 
+9 Q So then I wanted to --oh, sorry. I heard a bit of an echo for a moment. 
+I wanted to direct your attention to the final voicemail that we played to you. 
+10 That was a voicemail left for you on November 29, 2020, by Mayor Giuliani. In it, he 
+11 seems to refer back to the comments that you shared with us that you told your lawyers 
+12 to share with him about your belief that his further contact with you would be 
+13 inappropriate and essentially an ex pa rte communication. 
+14 
+15 
+16 Is that fair? Did you hear that also? 
+A 
+Q Yes, I did. 
+Okay. Again, I wanted to get your reaction to Mayor Giuliani, well, just in 
+17 general, continuing to contact you even after your statement through your lawyers that 
+18 you thought it would be inappropriate for him to do so. 
+19 How did you feel about that at the time when you saw the voicemail come in? 
+20 
+21 now. 
+22 
+23 
+24 
+25 Oh, I'm sorry, Speaker Cutler, we can't hear you. Looks like you might be muted 
+A 
+Q 
+A How about now? 
+There we go, yep. 
+We lost audio there. Sorry. I was trying to get rid of the echo. 
+I thought it was inappropriate the first time as well as the last time that I got the  1 message. 
+2 
+3 
+4 Q 
+A 
+Q Okay. Did you take any action after receiving the additional voicemails? 
+I just believe I notified the attorneys that the contacts were continuing. 
+Okay. Did you come to learn whether they communicated with Mayor 
+5 Giuliani or anyone else about that? 
+6 
+7 A 
+Q I do not recall. 
+Okay. What's your reaction to a couple of comments that Mayor Giuliani 
+8 made in that voicemail again emphasizing the fact that he wanted to talk with you as a 
+9 fellow Republican, referring to the interests of the party, and concluding by saying: 
+10 We're on the same side. 
+11 What's your reaction to why you think he was making those comments? 
+12 A Well, given that this was the first time that I've actually heard that, I'm not 
+13 sure that my reaction really has much bearing on the course of action that I took at that 28 
+14 time. For me it's always been about, quite frankly, the clarity of the law and the facts as 
+15 they were presented. Admittedly, it's probably more of a legalistic approach. You 
+16 know, any claims of fraud or concerns should --you know, it was our hope that they be 
+17 addressed. That's why we sent the audit letter, you know. And despite that, you 
+18 know, a certification proceeded. It was --you know, it was still --there were still legal 
+19 pathways that were available to all of the candidates in terms of both statutorily and 
+20 constitutionally as they're described. And, you know, that was really the 
+21 recommendations that had been made throughout the process was, you know, if you 
+22 wish to pursue them, that's the proper channels to do so. 
+23 Q And by the proper channels, you're referring to the election contest or other 
+24 litigation avenues? 
+25 A Yes, ma'am.  29 
+1 Q Okay. What about Mayor Giuliani's statement that if you --if Pennsylvania 
+2 certifies the election, you will be certifying, quote, a blatantly false statement to the U.S. 
+3 Government. 
+4 What's your reaction to that? 
+5 A Again, the statute is very clear that, in order to challenge the certification of 
+6 electors, there's a specific constitutional provision that lays out that process through the 
+7 Commonwealth court. That was the process that should have been followed. I do not 
+8 why they chose not to pursue that path. 
+9 Q Okay. What about the fact that --it appears that Mr. Giuliani was saying 
+10 that if you certify the outcome of the election, then you would be committing a potential 
+11 Federal crime by, you know, making a blatantly false statement to the U.S. Government. 
+12 What's your reaction to that? 
+13 A One, I didn't take it that way in terms of my reaction in hearing that right 
+14 now. But, in terms of the reaction to the process, again, I think the law was very clear. 
+15 It outlines very specifically how to challenge that. If there were allegations of fraud that 
+16 were founded, there is legal remedy that's available here in the Commonwealth for that. 
+17 You can --one, you can channel --you can ask for a recount if you think that, you know, 
+18 perhaps they missed votes. Two, you can challenge the actual certification of the 
+19 electors themselves through Commonwealth court. And, three --and we actually have 
+20 this going on in Lancaster County right now as we speak --any three voters per precinct 
+21 can put up, I think it's $50 per voter, and they can demand a recount of that individual 
+22 precinct. All of those options were available. To the best of my knowledge, none of 
+23 them were utilized. 
+24 Q None of them were utilized by the Trump campaign following the 2020 
+25 election?  1 
+2 A 
+Q Yes, ma'am. 
+Okay. There were several cases pending in Pennsylvania, some of which 
+3 involves the Trump campaign directly and others who had a similar goal in mind of 
+4 achieving the outcome of having President Trump be certified as the winner of the 
+5 Presidential election in Pennsylvania. 
+6 Those litigation matters, am I right, they don't fall into those categories that you 30 
+7 just described to us as the sort of statutorily prescribed ways to challenge the outcome of 
+8 the election? Is that fair? 
+9 
+10 A 
+Q I believe so, yes. 
+Okay. What generally is your sense of the types of litigation matters that 
+11 were being brought by people like Mayor Giuliani or others acting for President Trump? 
+12 A The only one that I'm familiar with is the Williamsport case where he was 
+13 acting as lead counsel, but, admittedly, my understanding of that specific case was limited 
+14 to the news coverage there, and I did peruse some of the briefs that were filed as well. 
+15 However, it's also my recollection that, during that proceeding, it was specifically stated 
+16 that there was no fraud and that they were not there to litigate fraud. 
+17 Q Understood. I think I know what you're referring to. I think it was 
+18 reported widely that Mayor Giuliani appeared himself in court and made a statement 
+19 similar to the one that you just relayed to us, that the case was not a fraud case. Is that 
+20 right? 
+21 
+22 A 
+Q Correct. 
+Okay. Did you follow that case through to the end? Do you know what 
+23 the conclusion was of that matter? 
+24 
+25 A 
+Q I believe it was dismissed with prejudice. 
+Okay. All right. So, before we move on, I think there was some text  31 
+1 messages that you got around this time period too that I would like to discuss with you, 
+2 but any other phone calls or voicemails, even if you didn't have them on your phone at 
+3 the time that we requested them, but that you may recall receiving back in the 
+4 2020 --the post-election time period? 
+5 A Other than --
+Mr. Rush. Related to this subtopic. 6 
+7 Mr. Cutler. Related to this subtopic, no, other than Mr. Eastman's conversation, 
+8 which I know that we had talked about previously and I assume is coming up later. 
+9 BY 
+10 
+11 
+12 
+13 Q Yep, that's right. 
+A Okay. 
+Q We will talk about that too. 
+Okay. So you did produce to us several text messages that you received during 
+14 this time period as well. 
+15 Do you recall receiving those? 
+16 A I do. And then I tugged them however they indicated they were, but I do 
+17 not know if that's actually who they stated they were. 
+18 
+19 
+20 
+21 Q Okay. Understood. 
+So the first one I'll show you is exhibit 6, and I think we can just look at page 2. 
+A 
+Q Yep. 
+So this looks like someone under the name Jane Zirkle who purported 
+22 reaching out to you on behalf of Mayor Giuliani. Through our communications with 
+23 your counsel, it looks like the time period for when you received this text message was 
+24 around November 30, 2020. Is that right? 
+25 A That sounds correct, yes, ma'am.  32 
+1 Q Okay. This one it looks like you did respond. Do you remember, you 
+2 know, your reaction to receiving the text message and your decision about how to 
+3 respond? 
+Yes, ma'am. 
+And what was it? 4 
+5 
+6 A 
+Q 
+A Just that for me it continued to be continued contact outside the bounds of, 
+7 you know, or in line with ex parte contact, which I personally had a problem with given 
+8 the ongoing nature of not just at this time the court cases but, as the message points out, 
+9 the announcement of the house committee, which would have been after November the 
+10 10th. 
+11 
+12 
+13 
+14 
+15 
+16 
+17 now. 
+18 
+19 
+20 
+21 Q Okay. Understood. 
+Did you have any further communications with Ms. Zirkle? 
+A 
+Q 
+A 
+Q Not that I recall. 
+Okay. Is this a person that was known to you at all before receiving this? 
+No. No, ma'am. 
+Okay. There are a few others that we have as exhibit 7 that we'll show you 
+There we go. Yeah, on page 2. We'll zoom out a little bit. 
+Are you able to see that one? 
+A 
+Q Yes, ma'am, I can see it. 
+Okay. Great. 
+22 So, again, based on communications with your attorney, we understand that you 
+23 received this voice --this text message, rather, and took a screenshot of it around 
+24 December 1st of 2020. 
+25 A Yes.  1 
+2 Q 
+A And it looks to be a text message from Rudy Giuliani. Is that right? 
+Yes. That's the number that he had indicated when he called previously 
+3 that I identified as him, but the actual footage is from Georgia. 
+4 Q Thank you. Understood. 
+5 Do you know why Mayor Giuliani was sending you this footage from Georgia? 
+6 
+7 
+8 
+9 
+10 A 
+Q 
+A 
+Q 
+A No, ma'am. 
+Okay. 
+Other than --I'm not going to assume what he might have been thinking. 
+Did it have any relevance to you as a legislator in Pennsylvania? 
+No. I was wholly involved and focused on all of our ongoing litigation at 
+11 that point in time here in the Commonwealth. 
+12 Q Okay. Did this text message also come after the time period where your 
+13 attorneys had told Mayor Giuliani that you felt contact from him to you was 
+14 inappropriate and potentially an ex parte communication? 
+15 
+16 A 
+Q I don't recall what that date was, so I cannot answer that question. 
+Okay. Do you remember your reaction when you received this text 
+17 message? 
+18 A I remember taking a shot of it and sending it to the lawyers just to keep 
+19 them in the loop. 
+20 Q Okay. So, at the time that you received it, you already thought that you 
+21 would notify your lawyers about the communication. Is that right? 
+22 
+23 
+24 A I notified them about everything. 
+Q Got it. 
+Okay. Did you speak to anyone about the substance of this text message 
+25 regarding these allegations in Georgia? 33  1 
+2 A 
+Q No, ma'am. 
+Okay. If we'll continue in this exhibit on page 4, please, which is another 
+3 screenshot that you provided to us. 34 
+4 Who's the individual with the initials BW and it looks like a first name Bill that sent 
+5 you this message? 
+6 
+7 
+8 
+9 
+10 
+11 
+12 A 
+Q 
+A 
+Q 
+A 
+Q I do not recall. 
+Okay. Do you know how you would have had him in your contacts? 
+I would have saved it at some point, but I don't recall who that is. 
+Okay. 
+Since it only has the first name. 
+Sure. Okay. 
+And what about the individual whose tweet is forwarded to you in this text 
+13 message, Bernard Kerik? Is he known to you? 
+14 
+15 
+16 
+17 
+18 
+19 A 
+Q 
+A 
+Q Yes. 
+How do you know him? 
+I just know of him through Mr. Giuliani. 
+Understood. 
+Have you had any direct interactions with Mr. Kerik? 
+A I believe I had one conversation with him when I answered a number I did 
+20 not recall, but it was very brief. 
+21 
+22 
+23 
+24 Q 
+A 
+Q 
+A Was it around this time period after the election? 
+It was in the same general window, yes, ma'am. 
+Okay. And what did Mr. Kerik say to you when you answered that call? 
+I actually do not recall, although I would have expressed the same concerns 
+25 to him regarding ex pa rte contact because that was a consistent response to anybody  1 who reached out. 
+2 Q Okay. Did you have any substantive discussion with Mr. Kerik on that 
+3 occasion? 
+4 A No, not that I recall. Because once I realized it was somebody from the 
+5 other camp, my goal was to terminate the phone call as quickly as possible. 
+6 
+7 Q 
+A Okay. And the camp meaning the Trump campaign? 
+Yeah, the Trump campaign. Sorry. 
+8 Q That's okay. 35 
+9 Okay. If we could look at one more in that same exhibit- on page 5 --two 
+10 more, I guess. 
+11 This looks like another screenshot of text messages that you received from 
+12 somebody by the name of Michael Flynn. 
+13 Do you remember receiving those? 
+14 
+15 
+16 A 
+Q 
+A Yes, ma'am. 
+Okay. And who is the Michael Flynn that sent you these messages? 
+He indicated he was General Flynn, and I had forwarded this to the lawyer at 
+17 that point in time, and I remember specifically saying I wasn't going to install software 
+18 that he was asking me to put on my phone. 
+19 Q Okay. So, in this communication, he invites you to install the Signal app, 
+20 which is an end-to-end encrypted messaging app. Is that right? 
+21 
+22 
+23 
+24 
+25 A 
+Q 
+A 
+Q 
+A Correct, that's my understanding. 
+Okay. 
+I don't have the program, though. 
+Yep. Had you had any communications with General Flynn before this? 
+No, ma'am.  36 
+How did you know that it was him texting you? 
+He had indicated that's who it was I'm guessing at some other point. 1 
+2 
+3 Q 
+A 
+Q So do you think you may have received another text message, in addition to 
+4 these two, in which he identified himself as General Michael Flynn? 
+5 A I don't recall, but he is identified as that on the phone, though. 
+6 
+7 
+8 Q 
+A 
+Q Okay. And this, again, went to your personal phone? 
+Yes, ma'am. 
+Have you had any in-person or other, you know, interactions by phone or 
+9 email, text, anything like that, with General Flynn either before or after receiving these 
+10 text messages? 
+11 A Not that I recall.  37 
+1 
+2 [2:01 p.m.] 
+3 BY 
+4 Q Okay. Okay. And the last one is on our page 6, exhibit 7. This is another 
+5 text message with --it doesn't have a name associated with it, but the number begins 
+6 with area code 571. Do you know who sent you this message? 
+7 
+8 
+9 
+10 
+11 
+12 A 
+Q 
+A 
+Q 
+A 
+Q I do not. 
+Okay. Why was it that you took a screenshot of this one? 
+All the contacts that I had received I was forwarding to lawyers at that point. 
+All the contacts specifically about the outcome of the election? 
+Anything regarding the election, I was forwarding to our legal team here. 
+Okay. Got it. And they address you as Ryan, but perhaps, you know, it 
+13 was a typo for Bryan with a V, and ask for a discussion of anomalies, in quotes, in the text 
+14 message, causing a shift in Pennsylvania, presumably relating to the article that's 
+15 forwarded or linked above it, the graphics provided there. 
+16 Do you remember having any discussions with anyone that wanted to talk with 
+17 you about anomalies or statistical analysis of potential voter fraud? 
+18 A No, other than I know that it was --that kind of analysis was widely reported 
+19 in the press, and I had also gotten some constituent contacts regarding that. However, 
+20 the data, you know, I'm not sure what data they're referring to in this particular text. 
+21 Q Understood. Did you come, generally during this time period, to have an 
+22 opinion about whether there was any veracity to allegations about statistical anomalies 
+23 that would potentially undermine the outcome of the election? 
+24 
+25 A 
+Q No. 
+Okay. So just generally speaking, though, the news that you --or the  38 
+1 analysis like this that you recall being reported in the news, do you remember whether it 
+2 caused you to take any action or impacted your assessment of the outcome of the 2020 
+3 Presidential election? 
+4 
+5 A 
+Q No, ma'am. 
+Okay. Let's go back quickly to exhibit 4, please. So, Speaker Cutler, 
+6 during this time period when you were receiving this outreach from Mayor Giuliani and 
+7 others associated with him and acting on behalf of the President, you issued this 
+8 statement that we have here for you. It's dated November 28th, 2020. Can 
+9 you --first, can you see the document okay? 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 A 
+Q 
+A 
+Q No, I actually need that enlarged. I can't -­
+Okay. Let's see here. 
+That's better. Yeah, that's better. 
+Better? Okay. 
+Do you remember issuing this press release or this statement? 
+A 
+Q 
+A Yes. 
+Okay. And why did you issue it? 
+Our members were continuing to get calls about our constitutional powers. 
+18 So we, myself and the leader, had worked on this in the hopes of explaining the legislative 
+19 timeline to individuals given the fact that it was 2 days prior to the end of session and 
+20 anything that we would consider would need 3 days. 
+21 Q Okay. And from where did you attribute the --or what was the source of 
+22 these questions that your members were getting? 
+23 A I assume they were like mine. Although, you know, all of mine came from 
+24 constituents who presumably were watching things on the news. 
+25 Q And did you perceive that there was information out there on the news or  39 
+1 potentially on social media that was leading to either, you know, misunderstanding, 
+2 misapprehension of Pennsylvania law, or causing constituents to reach out to yourself 
+3 and your colleagues? 
+4 A Yes. I think there was a broad misunderstanding of not just our law but our 
+5 constitutional provisions. 
+6 
+7 Q 
+A Okay. And --
+And that's what we spent the predominant amount of my time explaining to 
+8 folks, via email, phone calls, or press statements such as this. 
+9 Q Okay. And to what do you attribute that misunderstanding? How did 
+10 that come to be, you know, the case? 
+11 A I do not know, other than I think that folks may not be as up on civics as we 
+12 once were, and so they don't understand the separation of powers between legislative 
+13 and the executive branch. And I think that sometimes the media cuts stories short 
+14 rather than go in depth in the interest of 24-hour news cycle. 
+15 Q Okay. And, Speaker Cutler, I'll just let you know that a member of the 
+16 select committee, Representative Schiff, has joined us. 
+17 - Good afternoon, Mr. Schiff. 
+18 Mr. Schiff. Good afternoon. And thank you. 
+19 BY 
+20 Q So, Speaker Cutler, if you could just tell us, what do you think the most 
+21 important, like, what was the salient message that you were hoping to convey through 
+22 this statement with your colleague Mr. Benninghoff? 
+23 A The big point, and it was a consistent one, dating, quite frankly, through the 
+24 entire legislative cycle, which is that there are constitutional guardrails in place on all 
+25 three branches of government, and regarding this particular process, it's very clearly  40 
+1 outlined in the law. 
+2 Q Okay. Was this prompted by comments about, you know, seeking to have 
+3 the Pennsylvania legislature take some action to certify electors or otherwise affect the 
+4 outcome of the 2020 election? 
+5 A It was specifically in response to member requests. You'd have to talk to 
+6 them about their individual motivations as to why they contacted either the leader or 
+7 myself. But the questions really fell into two buckets. Can we do anything, and if so, 
+8 what. And this was the "if so, what." And we were explaining the legislative 
+9 constraints that were placed on us constitutionally. 
+10 Q Okay. And I'll direct your attention --oh, sorry, if we could keep that 
+11 up for just a moment --to what's the fourth paragraph in this statement. You and your 
+12 colleague write, It is obvious Pennsylvania's election processes are in dire need of repair. 
+13 Our work to ensure the chaos and confusion of the 2020 election are not repeated will 
+14 continue in the next legislative session. 
+15 What were --what did you mean and to what were you referring when you said 
+16 that election processes are in dire need of repair? 
+17 A I'll speak to me personally, what I believed, and that was directed specifically 
+18 at the counting of mail-in ballots pre-election day. That was something I had raised in 
+19 February of 2020. This is November of 2020. And there's nothing wrong 
+20 than --there's nothing worse than understanding what is wrong and then having the 
+21 Governor threaten a veto to fix something that should be fixed, in my opinion. 
+22 I believe that, as citizens, we are owed the certainty of an election and faith in the 
+23 process. A part of that is having timely results. 
+24 The fact --and I mentioned this in February of that year. The fact that they are 
+25 late itself allows people to question the process, and I reiterated that again in my letter to  41 
+1 the Governor, asking for a specific audit regarding the policies and procedures that the 
+2 county has followed. That's what I was referring to in terms of being in need of dire 
+3 repair. 
+4 In addition to that, the ballot drop boxes that were inserted through guidance and 
+5 not legally through the legislature was something else that we've continued to work on 
+6 since that time. 
+7 All of that work came out of the State Government Committee, which we had 
+8 commissioned sometime mid-November to begin that hearing process, and that has 
+9 come into this session as well, resulting in at least one veto of a comprehensive election 
+10 law update. 
+11 Q Okay. Thank you. 
+12 And just to be clear, and referring back to some of your comments earlier in our 
+13 interview today, is it fair to say, though, that the areas of the Pennsylvania election 
+14 process that you were referring to as needing repair were more policy and procedure or 
+15 other, you know, prospective considerations for future legislation and not any type of 
+16 allegation of election fraud or other allegation that would have undermined the outcome 
+17 of the election in 2020? Is that fair? 
+18 A Yes, ma'am. Those are statutorily two very different things. The process 
+19 for anything regarding a past election has been clearly outlined, as we've discussed. 
+20 This was prospective, which is why we specifically referenced the next legislative session, 
+21 meaning that it would be a legislative solution to some of those problems. 
+22 Q Okay. Thank you. 
+23 Okay. So switching gears, Speaker Cutler, did there come a time where you 
+24 received a phone call directly from then-President Trump? 
+25 A Yes, ma'am.  1 
+2 
+3 Q 
+A 
+Q Okay. And do you remember when that occurred? 
+I do not remember the specific date. 
+Okay. What about in relation to the outreach from Mayor Giuliani, 42 
+4 including the voice mails and text messages that we just went over with you, do you recall 
+5 whether the call from the President came before, during --
+6 
+7 A 
+Q I believe --I believe it was after. 
+After. Okay. Mayor Giuliani's voice mails to you, as we recounted, you 
+8 had at least one a day for several days in a row, starting right around Thanksgiving of 
+9 2020. 
+10 Thinking of the holiday as a kind of marking point, do you remember where, in 
+11 relation to Thanksgiving, you received your first phone call from President Trump? 
+12 
+13 
+14 A 
+Q 
+A Not specifically. I just know that it was in close proximity to the holiday. 
+Okay. And so tell us, where were you when you received the phone call? 
+Originally I got a message, I verified the number prior to calling it back, but in 
+15 both cases I was at home. 
+16 
+17 
+18 Q 
+A 
+Q Okay. And the call came into your personal cell phone also? 
+Yes, ma'am. 
+Okay. And what's the first message that you received that you're referring 
+19 to related to the call from the President? 
+20 
+21 A 
+Q Just that it was the Office of the President and he wished to talk. 
+Okay. Did you end up speaking with him on that same day that you 
+22 received that first message? 
+23 
+24 
+25 A 
+Q 
+A I believe so. 
+Okay. Approximately how long did the phone call last? 
+I don't recall.  Okay. Was there anyone else on the call with you on your end at least? 
+No. 43 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 Q 
+A 
+Q 
+A 
+Q 
+A 
+Q 
+A 
+Q Okay. Anyone else announced on the call in addition to President Trump? 
+No. 
+Okay. 
+Not that I'm aware of. 
+Oh, sorry. I didn't mean to interrupt. 
+That's okay. I just said, not that I was aware of. 
+Okay. Got it. Thank you. 
+10 So what can you remember about the contents of the call, the statements or, you 
+11 know, comments by the President during the phone call? 
+12 A Specifically, there was a lot of discussion about, again, legal remedies. 
+13 categorized it more as a legal briefing in terms of the disposition of the cases. 
+14 There were still some ongoing cases at that point. Specifically, I believe the Kelly 
+15 case, which was heading to the United States Supreme Court. I don't remember where 
+16 it was from a procedural standpoint, but that's ultimately where it ended up, which was 
+17 challenging the validity of the mail-in ballots. 
+18 And so he was asking questions about, well, if --you know, if we wanted to do 
+19 something, what were the options. I outlined the three options that I described earlier 
+20 during this video conference, and that was really about it. 
+21 Q Okay. So when the President said, if --I think as you just said --if we 
+22 wanted to do something, did you take that to mean if the Trump campaign wanted to do 
+23 something or other --or some other person? 
+24 
+25 A 
+Q I, at that time, I assumed it was him and his legal team. 
+Understood. And not something that he was asking for you and he to do  1 together as the we? 
+No, ma'am. I did not take it that way. 
+Okay. 44 
+2 
+3 
+4 A 
+Q 
+A Because during that conversation, I was equally clear at that time regarding 
+5 the constitutional peculiarities of Pennsylvania, that, you know, the electoral college, you 
+6 know, the electors are very specifically outlined both in statute and both constitutionally. 
+7 And, you know, we walked through that process as well. So I believe I made it very clear 
+8 on what the proper legal remedies would be. 
+9 Q Okay. And when you said that you made it clear about the possible legal 
+10 remedies, what do you recall saying on that topic to the President? 
+11 A I specifically asked them why they didn't file for a recount. And I also 
+12 discussed, you know, some of the other --you know, what I'll call the post-certification 
+13 challenges that are outlined in our statutes. 
+14 
+15 Q 
+A And how did the President respond? 
+When I asked regarding the recount, the response was generally, I don't 
+16 know, I'll have to check with my attorneys. 
+17 Q Okay. And when you said that you referred to other avenues of 
+18 post-election challenges, are you referring to the three that you identified for us earlier, 
+19 including a recount, a challenge to the certification, or voters in an individual precinct 
+20 demanding a recount in that precinct? 
+21 
+22 
+23 point? 
+24 
+25 A 
+Q 
+A 
+Q Yes, ma'am. 
+Okay. And how did the President respond to your statements on that 
+He thanked me for the information. 
+Okay. Did it sound like it was new information, news to him?  1 
+2 A I really couldn't tell. 
+Q Okay. What about the Kelly case? You said that you thought that the 
+3 Kelly case came up? 
+4 
+5 
+6 you? 
+7 
+8 A Yes. 
+Q What do you remember about who brought it up? Did the President or 
+A I don't recall. 
+Q Okay. What do you remember the President saying about the Kelly case? 45 
+9 A He had more questions about the legal standing of it, you know, what were 
+10 the likelihood of success or not. And, you know, I walked through the component parts 
+11 of Act 77 and what they were specifically challenging. 
+12 That legal question, which is still ongoing, it's still being challenged now, really is, 
+13 does the Pennsylvania constitutional requirements on absentee or vote by mail, is that a 
+14 floor? In other words, you have to provide a minimum of these things, which are, you're 
+15 out of your area, you have to work, or you're ill and homebound, or is it a ceiling and that 
+16 you can provide no more. 
+17 And that's the legal question that was litigated in Act 70 --on Act 77 in the Kelly 
+18 case, and it's one that's ongoing to this day. So, arguably, it's still an open-ended legal 
+19 question. 
+20 Q Understood. And Act 77 is a bill that was passed in the legislature, in the 
+21 Republican-controlled legislature of Pennsylvania regarding --
+22 
+23 A Correct. 
+Q And it took the approach of the constitutional requirement --I don't want to 
+24 put words in your mouth, but just to short-circuit what I'm sure is a lengthy procedural 
+25 history here with the case that remains ongoing. But is it fair to say that the Act 77  46 
+1 enacted a mail-in or absentee ballot option that was beyond the sort of interpreting the 
+2 constitutional requirement as the floor, as you've put it, rather than the ceiling. Is that 
+3 fair? 
+4 A Correct. Act 77 was based on the premise that it is the floor and that you 
+5 had to provide that as a minimum constitutionally, but you could provide more if you 
+6 would like. That's been the position that we have consistently litigated now for almost 2 
+7 years. 
+8 
+9 
+10 Q 
+A 
+Q And we, meaning the Pennsylvania General Assembly? 
+Yes, ma'am. 
+Okay. Did you share with President Trump on this first phone call your 
+11 understanding of, as we've just discussed, of Act 77 and the impact on elections in 
+12 Pennsylvania, or was it --was it limited to a more procedural conversation? 
+13 A I don't remember if it was the first conversation or the second one, but I do 
+14 know that we did discuss it at one point. 
+15 Q Okay. So let's talk about that. So when do you recall having your second 
+16 conversation by phone with President Trump? 
+17 A It was not by phone,_ That was the in-person visit, was the second 
+18 one. 
+19 Q Oh, understood. So when you later visited the White House, you 
+20 remember this topic coming up? 
+21 
+22 A 
+Q Yeah. Absolutely, I do remember that. 
+Okay. All right. So let's finish with this phone call then before we talk 
+23 about the visit. 
+24 There was reporting at the time that you did receive two phone calls from the 
+25 President. Do you remember reading that?  1 
+2 A 
+Q 47 
+I do, and it's inaccurate. 
+Inaccurate. Okay. So one phone call that occurred likely around the end 
+3 of November. Is that fair? 
+4 A Yes. And then the in-person visit was first week in December, because we 
+5 went down there to view the Christmas trees. 
+6 Q Okay. Okay. So before we leave the topic of the phone call that you had 
+7 with President Trump, did --were there specific allegations of election fraud discussed on 
+8 that call? 
+9 A Not specific ones. There was some general questions regarding if there 
+10 was fraud, you know, what would the process be, but I don't remember any particular 
+11 instances. 
+12 Q Okay. Did the President make any comments? I know you've referenced 
+13 the Kelly case, which focused on mail-in ballots. Did the President make any statements 
+14 about allegations of fraud connected to mail-in ballots? 
+15 A Not that I specifically recall. 
+16 
+17 
+18 Q 
+A 
+Q Okay. 
+Other than the late ballots, but at that point, that was still being litigated. 
+Understood. What about Mayor Giuliani and his outreach to you, did that 
+19 come up when you spoke to the President? 
+20 A Yeah. I actually --I had commented that I did not believe that the 
+21 President was getting good legal advice, and he did respond that he really likes Rudy, he 
+22 thinks he's a great guy. 
+23 Q Okay. Understood. And did you mention to the President that Mayor 
+24 Giuliani had reached out to you, and if so, did you mention that he had persisted in doing 
+25 so after your attorneys conveyed to him that you thought it was inappropriate?  48 
+1 A I had expressed to him that the reason that we had not returned the calls 
+2 was because of the specific remedies that they were asking for in their litigation at that 
+3 time. So we did generally talk about that topic, knowing that they were asking the 
+4 courts for an order that would permit or force us to select the electors. I conveyed to 
+5 him at that time that I thought any discussion about possible remedies and having to sit 
+6 essentially as a judge in those cases was inappropriate, which is why I had our lawyers call 
+7 his lawyers back. 
+8 
+9 
+10 
+11 
+12 Q 
+A 
+Q 
+A 
+Q And how did the President react when you made those statements? 
+He seemed to understand exactly where I was coming from. 
+Okay. 
+That was at least my understanding of his reaction. 
+Okay. Do you recall whether you continued to receive those, you know, 
+13 outreach, the voice mails or text messages from Mayor Giuliani and his associates after 
+14 your call with the President? 
+15 
+16 A 
+Q I don't believe so. 
+Okay. Anything else that you can remember about this phone call with 
+17 President Trump? 
+18 
+19 
+20 
+21 A 
+Q 
+A 
+Q 
+22 phone call? 
+23 
+24 A 
+Q No, ma'am. 
+Did he ask you to --I'm sorry? 
+No. I was going to say I think you've covered all the main highlights of it. 
+Okay. Did you interpret him as making any ask or request of you during the 
+No, ma'am, I did not. 
+Okay. And at the time of this phone call, was the later meeting in person 
+25 contemplated or discussed?  49 
+No, ma'am. 1 
+2 
+3 A 
+Q 
+A Okay. Did he invite you to come to the White House when he called you? 
+No. No, we had gotten the tickets to go see the Christmas trees sometime 
+4 before. And then I got a call a day or two before that. 
+5 Q Okay. Did you mention to the President when you spoke on the phone that 
+6 you had planned to attend to view the Christmas trees? 
+7 
+8 A 
+Q I actually don't remember. 
+Okay. Let's see. I'll look at my notes really quickly. And I'll also pause 
+9 here to see if Mr. Schiff or any of my colleagues have any questions they'd like to ask. 
+10 
+11 
+12 
+13 Mr. Schiff. I do not at this time. Thank you. 
+- Okay. Great. 
+BY 
+Q Okay. So, Speaker Cutler, let's talk about the occurrence that you were just 
+14 referring to, of meeting with the President in the White House. So you mentioned that 
+15 you had already received or obtained tickets to visit the White House for a tour of 
+16 Christmas trees. How did that come to be? 
+17 A We had reached out to the White House liaison. That is something that 
+18 this adminis- --or the prior administration did very well in reaching out to State legislative 
+19 leaders. 
+20 You know, we --for example, I was down to talk about Medicaid policy at one 
+21 point previously in the Eisenhower Building as well. So we had had contact, and my 
+22 chief of staff and I had always wanted to see the White House at Christmas. So he had 
+23 reached out and got us tickets through one of those --through that office. 
+24 Q Okay. And do you remember --do you remember the date of when you 
+25 went to visit the White House?  50 
+1 A Not specifically. I think it was December the 3rd or the 4th, whatever that 
+2 Thursday is. Because it was the first week of deer season, I remember that. 
+3 
+4 
+5 Q 
+A 
+Q Got it. So first week of December 2020? 
+Yes. Correct. 
+Understood. Okay. So tell us, how did your --well, first, did there come a 
+6 time where you learned that the visit would be more than just the Christmas trees, that --
+7 
+8 
+9 A 
+Q 
+A Yeah. 
+--you would, in fact, be meeting with the President? 
+A day or two before, we had gotten a call from the same office, and they had 
+10 indicated that the President knew we were going to be in town and he was inviting us to 
+11 stop up to the Oval Office during our time there. 
+12 And they did --they did that by basically saying, can you be here 2 hours early 
+13 for --which I assumed and was correct --was for pre-COVID clearance. 
+14 Q Understood. Okay. And so what happened when you traveled to D.C., 
+15 when you arrived at the White House? 
+16 A We went down, we got COVID-tested. Then we went and saw the trees, 
+17 and then we were eventually --after the tour was over, we went over to the west wing, 
+18 and then eventually --we waited a little bit in the --I guess it would be the joint chiefs 
+19 room or the --where all the secretary --the Cabinet room. 
+20 We waited there until the President was free, and then we went into the Oval 
+21 Office. Waited for a period of time, I don't recall how long because we didn't have our 
+22 phones and I don't wear a watch. But then eventually the President did come in then. 
+23 Q Okay. Did you speak with then-Chief of Staff Mark Meadows? 
+24 
+25 A 
+Q We did, for a short period of time. 
+Okay. And where did that meeting take place or that conversation?  51 
+1 A He met us in the Cabinet room and then kind of gave us a little tour of the 
+2 west wing, and then it ended in his office before he escorted us back to the Cabinet room. 
+3 Q Okay. And approximately how long do you remember being with 
+4 Mr. Meadows? 
+5 A I'm going to guess it was 10 to 15 minutes, but it was --it was not a long tour 
+6 or discussion. 
+7 Q Okay. And present with you in all these interactions was your chief of staff, 
+8 as well as your wife and your chief of staff's wife. Is that fair? Is that right? 
+9 
+10 A 
+Q Yes, ma'am. That's correct. 
+Okay. And you all went on the tour with Mr. Meadows and were in his 
+11 office together? 
+12 
+13 A 
+Q Yes. 
+Okay. Did Mr. Meadows --did your discussion with him relate to the 
+14 outcome of the 2020 election at all? 
+15 A It actually focused more on, he was talking to my chief of staff about what I 
+16 will call chief of staff duties and what it meant to staff somebody. And, you know, he 
+17 talked a little bit about his time in Congress. He obviously did mention the election, but 
+18 it was more in passing as opposed to the discussions regarding, you know, the stresses, if 
+19 you will, of running an office like that, which certainly he and my chief had more in 
+20 common on that than I did. 
+21 Q Understood. So when the election did come up, as you said, in passing, 
+22 what do you remember Mr. Meadows saying about it? 
+23 A It was the same kind of general questions that the President had raised in 
+24 terms of, you know, what can be done if there's fraud, how do you fix it. And, you 
+25 know, we answered them in the same vein as I did with the President.  52 
+1 Q Okay. And so for the conversation just with Mr. Meadows, what generally 
+2 do you remember conveying to him as your response to those comments about, you 
+3 know, what can be done, or, if there's fraud, how can we fix it? 
+4 A The same three legal options that had been shared with everybody up to 
+5 that point and which we had discussed publicly both in press releases and letters. 
+6 You know, you had to, one, ask for a recount. They missed that window. Two, 
+7 they could challenge the certification of the electors directly, because we were still before 
+8 the safe harbor date at that point, through the Commonwealth Court, but they ultimately 
+9 chose not to, or they could have. 
+10 The third piece was essentially also void because it dealt with the individual voters 
+11 in each precinct. So really their only remaining option was the second one on the 
+12 electors, if they wished to challenge the validity of that. 
+13 Q And did Mr. Meadows give you any indication of whether he thought there 
+14 were other options outside of those that you had identified? 
+15 A No, he did not. 
+16 Q Okay. And did he give you any sense of his outlook about the likelihood of 
+17 success in those efforts? 
+18 A No. And to the best of my knowledge, they didn't undertake the direct 
+19 challenge of the letter --or the electors in the Commonwealth Court. 
+20 Q Okay. Okay. So what happened once your interactions with 
+21 Mr. Meadows ended and you went to meet with the President? 
+22 A We were escorted into the Oval Office. We were seated about 8 to 10 feet 
+23 apart and, you know, in chairs, and also that far away from the President. And he 
+24 eventually came in. 
+25 And then we had a similar discussion to what was entailed with the phone call  53 
+1 that I had in regards to the questions, in regards to the legal process, a little bit more in 
+2 depth on the Kelly case, because --that I do remember because it was in the news at that 
+3 time. 
+4 Q Okay. And what do you remember the President saying about the Kelly 
+5 case in particular? 
+6 A Just questioned, you know, if it was strong legal --you know, was it legally 
+7 based, you know, did it have a, you know, strong likelihood of success or not. And you 
+8 know, I answered it honestly. I think we got into the floor and the ceiling discussion, 
+9 regarding, you know, what that looks like. 
+10 And then --but the remedy that they were asking for, you know, ran up against, 
+11 you know --which was, you know, don't count the votes, reappoint the electors --ran 
+12 right up against our constitutional clause. 
+13 Q And what did you say to the President about the conflict that you've just 
+14 identified between the remedy that they were seeking in court and your understanding of 
+15 the Pennsylvania Constitution? 
+16 A That the court was really more likely just to negate the electors if they were 
+17 to find in their favor, as opposed to request a reappointment because of the way our 
+18 constitutional wording was. 
+19 
+20 
+21 Q 
+A 
+Q 
+22 sought? 
+23 A Can you --
+So essentially they were asking for the wrong remedy. 
+I see. What would've been the proper remedy that they should have 
+Well, I'm not going to put my mind into the Supreme Court because it's been 
+24 somewhat partisan at times in terms of how they make decisions, but, you know, 
+25 according to the constitutional provisions, if they would invalidate the votes, then the  54 
+1 remedy they were asking for may have been proper. But if they found other procedural 
+2 flaws, the remedy would likely have just been a zeroing out. 
+3 Q Okay. And did you --outside of the context of the remedy being sought in 
+4 this litigation, did the topic of the legislature taking some action to either decertify or 
+5 appoint its own slate of electors, did that come up? 
+6 
+7 A 
+Q Only in the context of the court case. 
+Okay. And what do you remember President Trump saying about that? 
+8 A He was asking about the court case and the remedies and if I thought it 
+9 was --you know, if it had a high likelihood of success. And I was honest that I did not 
+10 think so, given the fact that I --you know, obviously we believed it was a floor, not a 
+11 ceiling, and that's ultimately how the case was decided. 
+12 
+13 Q 
+A Okay. How did the President react when you said that? 
+He actually thanked us for the information. He said that we were sharp 
+14 and we knew our stuff, and asked us if we wanted to get a picture. So we got --
+15 
+16 
+17 
+18 
+19 Q 
+A 
+Q 
+A 
+Q And did --
+We got pictures and then we left. 
+Got it. Do you still have a copy of the photo? 
+I'm sure I do somewhere, yes, ma'am. 
+Okay. What about specific allegations of election fraud, did that come up 
+20 in your conversation with the President? 
+21 A It was --again, it was more general in terms of the allegations of fraud. We 
+22 did have one specific piece here in Pennsylvania where there was an allegation, a tractor 
+23 trailer load of ballots coming from New York, I knew that one had been referred to the 
+24 FBI, DOJ, and the postal service inspectors. And once something like that's referred, 
+25 obviously they don't talk about it. So that was the extent of my knowledge of that at  1 that time, and I had indicated that to the President as well. 
+2 
+3 Q 
+A Did the President bring that up? 
+I believe I did, in terms of, you know, he asked if I'd heard any --you know, 55 
+4 did I hear about any election fraud, and that one was one specific one that my office had 
+5 been contacted about and we forwarded to the appropriate folks. 
+6 Q Okay. Did the President react about the substance of this allegation? Did 
+7 it seem like he was familiar with it? 
+8 
+9 A 
+Q No. I really couldn't judge what his thoughts were on that. 
+Okay. That's great. Did Mr. Giuliani come up during this conversation in 
+10 the Oval Office? 
+11 A Other than the fact that I had commented that I thought he needed better 
+12 lawyers. 
+13 Q Got it. And was this the in-person conversation with the President the one 
+14 where you referred to --
+15 
+16 A 
+Q Yes. 
+--you thought that they were ex parte communications coming from 
+17 Mr. Giuliani to yourself? 
+18 
+19 
+20 
+21 A 
+Q 
+A 
+Q Yeah. We did discuss that during the in-person meeting. 
+Okay. And what do you recall the President's response being? 
+Again, he thought Rudy was a great guy and, you know, we kept moving. 
+Okay. But did you have any concern about the President hearing you? 
+22 You think that you made those comments about, you know, what you thought were the 
+23 actual, you know, legal remedies and what the law was in Pennsylvania and remarked 
+24 that he was getting bad legal advice in Pennsylvania. Do you think that the President 
+25 heard those comments that you made?  56 
+1 A Yes, ma'am. I do believe he seemed to understand them and --just based 
+2 on his reaction and the fact that we stopped discussing it after that. And then he 
+3 commented that we were sharp and knew the law and knew what was going on here. 
+4 Q Got it. Okay. Did the possibility --at this point, this is the early 
+5 December, so past your November 30th date that you described to us earlier in the, you 
+6 know, legislative calendar. Did the possibility of the Pennsylvania legislature 
+7 reconvening come up during this meeting? 
+8 A We did discuss it, and I had pointed out, once again, that, you know, I was 
+9 speaker designate, I wasn't actually the speaker at that point, and that the only way we 
+10 could reconvene sooner would be for the Governor, upon petition by the members, 
+11 which is another constitutional provision, which we did, and I think we only had 70 or 80 
+12 folks want to come sign the petition to come back in. So we didn't have the 102 that 
+13 you needed. And we did discuss that, and by virtue of not getting to 102 prior to the 
+14 first Tuesday in January, that was, in fact, terminal. 
+15 Q Okay. But at the time when you're meeting with the President in the first 
+16 week of December, what was your outlook about the possibility of reconvening the 
+17 legislature? 
+18 A I did not see a situation in which the Governor would respond favorably to 
+19 that petition. 
+20 
+21 
+22 Q 
+A 
+Q And did you convey that to President Trump? 
+Yes. 
+Okay. Did you have a sense from him of what the --if his goal was to, you 
+23 know, seek the reconvening of the legislature, what the purpose of that would be? 
+24 
+25 A 
+Q No. 
+Okay. Did the topic of the legislature potentially choosing its own electors  57 
+1 come up during your meeting with President Trump in the Oval Office? 
+2 A Only --only in the negative, in terms of the fact that the constitutional 
+3 prohibition, I did mention that as we were going through the court cases specific to the 
+4 remedies. 
+5 Q Okay. Do you mind describing to us, what do you remember saying to him 
+6 about the possibility of the legislature selecting its own electors that would be obviously 
+7 contrary to the ones appointed or certified by the Governor? 
+8 A Well, first off, it could only happen through a court order because of the 
+9 constitutional prohibition, but that it was highly unlikely that the court would order such 
+10 a thing unless there was an actual finding of fraud, which had occurred in Philadelphia 
+11 back in the nineties where they decertified an election. So, in other words, you had to 
+12 prove directly the case of fraud. 
+13 Given the current construct and the lack of cases that were pursuing a fraud claim, 
+14 that it was highly unlikely and that we were constitutionally, you know, prohibited going 
+15 forward, and, you know, absent that challenge, that that wouldn't even be a viable 
+16 remedy. 
+17 
+18 Q 
+A Okay. What was the President's reaction? 
+He seemed to understand. And that was --that was clear. You know, 
+19 obviously, you know, as we discussed that, you know, how the meeting ended, I took it to 
+20 mean that he understood what our position was and what the laws were, because it 
+21 ended on what I thought was a positive note with getting the picture. 
+22 Q Okay. Did the topic of the Trump campaign convening their own slate of 
+23 electors for the electoral college, did that come up in your meeting with President 
+24 Trump? 
+25 A No, ma'am.  58 
+1 Q Okay. Okay. Before we move on, anything else that you can remember 
+2 about the, you know, discussion in the Oval Office that we haven't covered already? 
+3 A No. I think you hit all the highlights again. 
+4 Q Okay. So I'd like to direct your attention to a tweet that President Trump 
+5 posted. We'll pull it up onto the screen here. It's exhibit 8. 
+So I think, if I remember correctly, there's a --you can see this one, I hope? 
+Yes, I can see it. 6 
+7 
+8 A 
+Q Okay. I think if I remember correctly, we don't have the full picture in front 
+9 of you, but the link that was embedded in the tweet was originally a tweet that was 
+10 posted by a Democratic member of the Pennsylvania legislature. 
+11 
+12 
+13 
+14 A 
+Q 
+A 
+Q It was. 
+And then Trump was retweeting it with his own comments. Is that right? 
+Correct. 
+Okay. So in this tweet, President Trump writes, Thank you to 
+15 Speaker Cutler and all others in Pennsylvania and elsewhere who fully understand what 
+16 went on in the 2020 election. It's called total corruption. 
+17 So, first of all, this is posted on December 8th. This would've been after your 
+18 meeting with the President. Is that right? 
+19 
+20 
+21 A 
+Q 
+A Correct. 
+Okay. Do you remember about how long after? 
+Within the week. But it was my understanding that that was in response to 
+22 the news reports regarding the letter that we had sent, that our State Government 
+23 Committee had worked on, regarding, you know, potentially challenging the electors in 
+24 Congress in January when --because they were in ongoing litigation that was still 
+25 there --and not --you know, knowing that our certification occurred in November and  59 
+1 that the litigation was occurring between then and January the 6th when the electoral 
+2 college certification process would occur, that was really the crux of that letter. 
+3 That's presumably his response to that letter and whatever the other tweet was. 
+4 Q Okay. And what do you remember --what was your reaction when you 
+5 saw this tweet at the time? 
+6 A I actually learned about it from other people, because they called to tell me 
+7 that it had happened. And it kind of surprised me, to be honest. 
+8 
+9 
+10 
+11 Q 
+A 
+Q 
+A Yeah. How so? 
+Not every day that the President writes your name on Twitter. 
+Understandable. 
+Yeah, yeah. Although he didn't tag me, even though I am on Twitter, which 
+12 is why I wasn't aware of it. 
+13 Q Got it. Okay. So other than the fact that your name appears in this, what 
+14 about the content of it, in particular, his reference to total corruption, which seems to 
+15 relate back to when you said went on in the 2020 election in the first sentence. Is that 
+16 consistent with your conversations with him both on the phone and then in the Oval 
+17 Office? 
+18 A I think it's --in terms of the --my conversation, both in person and in phone, 
+19 it was more of a legal briefing. That's obviously his understanding of some of the other 
+20 allegations that were across the country. But I'm not going to try to guess what he was 
+21 thinking when he typed that. 
+22 Q Okay. Do you think --did you, at the time, December 8th, 2020, did you 
+23 think that what went on in the 2020 election was total corruption? 
+24 A In terms of what was ongoing at that point, I was still focused on all of the 
+25 ongoing legal cases that we had. Obviously, I mentioned the Kelly case earlier.  60 
+1 For me, this was really about the facts that, as they were presented, and the laws 
+2 that needed to be applied to those facts. And as we went through that process, there 
+3 were other things that I think could have been more thoroughly completed, and that was 
+4 expressed in my original letter to the Governor at the beginning of November, that they 
+5 should wait until all litigation had been resolved prior to certifying. 
+6 And so for me it was, look at numbers, look at the law, look at the facts, and apply 
+7 it accordingly. And I just wish that they had resolved all the cases prior to certifying it. 
+8 Q Okay. But when we were looking at your letter earlier, from the beginning 
+9 of the month, you referred to some of the things that you thought, you know, needed to 
+10 be repaired, like including counties interpreting guidance about curing ballots differently 
+11 or other, you know, provisions like that, that might --were prospective, potential 
+12 legislation or regulatory changes. Is that fair? 
+13 A Uh-huh. Yes. I think programmatically there were some changes that 
+14 were needed, I still do, that's why I voted to change them. Unfortunately, those 
+15 changes, both in terms of, you know, the components regarding the drop boxes which 
+16 were illegally inserted, the hard deadline, and the precanvassing are also important, 
+17 because that's --closing all of those questions is what will continue to increase people's 
+18 faith in the process. 
+19 The fact that it goes after the election, admittedly, has allowed some people to 
+20 question that process. 
+21 Q Okay. Understood. But none of those could fairly be described as corrupt 
+22 but rather, as you said, you know, programmatic changes or areas for improvement. Is 
+23 that fair? 
+24 
+25 A 
+Q Yes. 
+Okay. And did you make any statements yourself about potential  1 corruption connected to the 2020 election? 
+2 A The only thing that I would be aware of is, I believe in the letter it does 
+3 reference the allegations that should be fully investigated. 
+4 Q Were you aware of anything that would, you know, reach the level of 
+5 corruption related to the 2020 election? 
+6 
+7 A 
+Q I was not personally aware of anything. 
+Okay. And including in that would be allegations of election fraud that 
+8 were, you know, verified and could potentially affect the outcome of the election. Is 
+9 that a Isa true? 61 
+10 A I just want to make sure I understand your question, - Are you saying, 
+11 was I personally aware of any specific instances of voter fraud? 
+12 
+13 Q 
+A Yes. A much better question than the one that I asked. 
+Okay. No. The only one that I had was the one contact regarding the 
+14 tractor trailer load of ballots, which we turned over to the appropriate authorities. 
+15 Q Understood. Okay. Before we leave this, I did want to just go back, 
+16 earlier in our informal interview, you mentioned a comment that the President made 
+17 during your in-person meeting about 2024. Do you remember that? 
+18 
+19 
+20 A 
+Q 
+A I do. 
+What was that, what do you remember him saying? 
+It was along the lines --something along the lines of he'd prefer to serve his 
+21 second term end to end as opposed to running again in '24, but if he had to, that's what 
+22 he would do. 
+23 Q Okay. Did you get a sense at that point for whether the President 
+24 understood that he had lost the 2020 election? 
+25 A I did not.  1 
+2 Q Okay. 
+A You know, I think we were talking solely and focused solely on, you know, 62 
+3 the ongoing court cases and the certification process that was, you know, in the midst of 
+4 happening at that point. 
+5 Q Okay. And --but, nonetheless, he was saying that if he needed to run 
+6 again, meaning that if he was out of office after the 2020 election, that he would intend 
+7 to do so again in 2024? 
+8 
+9 
+10 A I took that to mean that was a very real possibility, yes. 
+Q Okay. Understood. 
+Okay. I'll pause here just to see if --it looks like Mr. Schiff has 
+11 logged off, but if any of my colleagues have any questions. 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 All right. The next thing I'd like to show you is the letter. And my colleague, 
+has just had to step out for a moment, so if we could just go off the record for a 
+couple of minutes, I will switch over and get the exhibits loaded. 
+[Recess.] 
+- Okay to go back on the record, Speaker Cutler? 
+Mr. Cutler. Yes, ma'am. 
+Okay. 
+Mr. Cutler. Yes, ma'am. 
+And I understand you have time constraints, so we will -­
+Mr. Cutler. I do. 
+--speed through this. We appreciate your time and your 
+23 cooperation today. 
+24 
+25 Mr. Cutler. Yes, ma'am. 
+BY  63 
+1 Q So I understand that you issued or signed on to several letters in the first few 
+2 days of December. Specifically, I think there were several that were issued on 
+3 December 4th. 
+4 Do you remember whether those letters were issued after your meeting with 
+5 President Trump? 
+6 
+7 A 
+Q They were issued after but had been worked on before. 
+Okay. Got it. That probably helps to narrow it down to likely the 
+8 December 3rd date for the Oval Office meeting as well? 
+9 A I just know that it was the Thursday. 
+10 
+11 
+12 Q 
+A 
+Q Yes. 
+So whatever that date is. 
+Okay. Great. Without pulling it up here, I just want to ask you generally 
+13 about a letter that you sent to Pennsylvania Inspector General Lucas Miller. Do you 
+14 remember that one? 
+15 
+16 
+17 A 
+Q 
+A I do. 
+Okay. 
+There was a total of three letters. One went to the inspector general, one 
+18 went to the congressional delegation, and I sent one to the Governor previously, to 
+19 the --you know, regarding the audit back in November. 
+20 Q Got it. Okay. Great. The inspector --the letter to the inspector general, 
+21 I just wanted to ask if you knew what came out of that letter. Was there any 
+22 investigation done, any report back to you? 
+23 A There was no report given back to me. I do not know if there was an 
+24 investigation done or not. 
+25 Q Okay. And the internal --that letter, my understanding is that it related  1 primarily to policies and procedures and the conduct of the Department of State during 
+2 the 2020 election cycle. Is that fair? 
+3 
+4 
+5 A 
+Q 
+A That is fair, yes. 
+Okay. 
+We'd had some ongoing issues with Department of State. She ultimately 
+6 ended up resigning thereafter for other reasons, because they failed to publish a 
+7 constitutional amendment. 
+8 Q Understood. The reasons that prompted your letter to the inspector 
+9 general about the Department of State, though, were they all under the category of 
+10 policy, procedure, potential irregularities for investigation, as opposed to allegations of 
+11 corruption, fraud, things that would have affected the outcome of the election? 
+12 
+13 A 
+Q I believe that one was more about policies and procedures. 
+Okay. So I do want to pull up for you the letter that you just referred to 64 
+14 that was sent also on December 4th, 2020, to the Pennsylvania congressional delegation. 
+15 There we are. 
+16 So I assume you're familiar with the content, Speaker Cutler? 
+17 
+18 A 
+Q Yes, ma'am. Yeah. 
+Okay. If we can scroll down to the bottom of page 2, that's most of the 
+19 substance, but in the interest of time, I will not make you reread it, unless it would be 
+20 helpful or necessary to refresh your recollection about what's in the letter. 
+21 
+22 
+23 A 
+Q 
+A No, that's good. You can scroll. 
+Okay, great. So tell us, why did you send or sign on to this letter? 
+For me, it was really a multipronged process of appeals. You know, our 
+24 only --our only remedy after having lost, you know, some of the election cases at our 
+25 supreme court, the U.S. Supreme Court, was to notify the congressional delegation of  65 
+1 what I believed, and the reason I signed, was some of the problems with the 
+2 administration of the election, and until those claims were all satisfactorily investigated 
+3 and resolved, that they might want to push pause on the certification process. 
+4 Q Okay. And what were the problems with the administration that you're 
+5 referring to there? 
+6 A I think they're all enumerated in the bullet points regarding the late mail-in 
+7 ballots, the process of the drop boxes, the process of curing. And while it did not 
+8 ultimately impact the Presidential election, it did, in fact, ultimately cost the Senate likely 
+9 a seat, because they had a split county seat where late ballots and undated ballots were 
+10 counted one way in one county and differently in another. 
+11 
+12 
+13 
+14 
+15 Q 
+A 
+Q 
+A 
+Q Okay. The purpose for sending --well, first of all, who drafted the letter? 
+I believe it was the State Government Committee and Chairman Seth Grove. 
+Okay. 
+He and his staff. I don't know who specifically drafted it. 
+Okay. And do you know whether it was requested by anyone outside of 
+16 the Pennsylvania legislature? 
+17 A I do not. 
+18 Q Okay. Help me to understand how this letter, and as you've described it, 
+19 recommending that the congressional delegation press pause on certification of the 
+20 election, how is that consistent with what you've told us already about the only sort of 
+21 legal avenues that you thought were valid for challenging the certification of the election? 
+22 A All of our legal avenues were based on State law. This is Federal law and 
+23 the process by which the Congress certifies the electoral vote. This is a process that had 
+24 been, my understanding is, utilized in several of the prior Presidential elections, regarding 
+25 Florida in one case and Ohio in another. And in both cases, it was to bring attention to  66 
+1 the issues related to the administration of elections, and I believe this letter was 
+2 consistent with that same purpose. 
+3 Q Okay. Some of these --this strikes me, though, as fitting more under the 
+4 category of what we discussed earlier as, you know, potential either policies and 
+5 procedure, administration items to be examined or future legislative changes or policy 
+6 changes that the legislature might consider. Is that fair? Is that a fair summary of the 
+7 reasons why you sent this letter? 
+8 A Yeah. The four that I can see on the page right now, yeah, I think all of 
+9 those are consistent with that. 
+10 The question, and it was one that only the Members of Congress could answer, 
+11 was, did that rise to, you know, the official objection of those electors on the certification 
+12 day in January. 
+13 But that's one that only they could answer with complete information, something 
+14 that they would have come January that, quite frankly, we didn't through November and 
+15 the beginning of December, because many of the cases and much of the, you know, the 
+16 hearings and things were ongoing. 
+17 Q I see. So did you have an opinion about whether any of these issues or 
+18 policy matters would rise to the level of requiring the Congress not to certify the outcome 
+19 of the election in Pennsylvania? 
+20 A For me personally, I thought that the question needed to be answered prior 
+21 to certification, and you would have to have the benefit of the intervening time and the 
+22 continued disposition of those court cases before you could truthfully answer that 
+23 question. 
+24 So for me it was essentially notice to the congressional delegation, these issues 
+25 are ongoing. In many cases, they've not been solved even up until today, and,  1 therefore, they needed to do their own due diligence prior to accepting those results. 
+2 Q Okay. And when you refer to these as issues that were outgoing --or 
+3 ongoing rather, do you --were you thinking of litigation cases that were still pending --
+4 
+5 
+6 
+7 A 
+Q 
+A 
+Q Yes. 
+--regarding these issues? 
+Yes. In some cases. 
+Okay. What about the nonlitigation, were there other issues that you 
+8 thought needed to be examined by Members of Congress before certifying the 
+9 Presidential election that were not the subject of ongoing litigation? 
+10 A No. They're all listed in the letter there. 67 
+11 Q Okay. Okay. So had you --are any of these --the examples listed here or 
+12 others that you might have been thinking of when writing or signing on to this letter, did 
+13 any of them qualify as, you know, instances of election fraud, actual corruption, or 
+14 wrongdoing connected to the election? 
+15 A I think that there was an open question legally, and I believe the case was 
+16 ongoing, at least in December, regarding the first bullet point, regarding the late ballots. 
+17 That was a legal question that was litigated. I personally think the court got wrong 
+18 because our statutory deadline is very clear, it's 8 p.m. on election day. 
+19 And probably the most egregious part of that court order was that they did not 
+20 even need to be postmarked, as long as they arrived within 3 days. That was an issue. 
+21 So that was a legitimate question of process. 
+22 Now, ultimately, we found out later that it was 9,700 or 9,800 ballots, so it was 
+23 not the difference, as we discussed earlier, but it was an open question that I felt need 
+24 answered prior to both the certification, which the Governor did not do, and the actual 
+25 congressional acceptance of those numbers come January.  68 
+1 Q But as of December 4th when this letter was written --or sent rather, you 
+2 did know that the number of affected ballots related to that issue that you've just 
+3 described. Isn't that right? 
+4 A I'm not certain which dates that was finally disposed. I know we had a case 
+5 prior to election day where we were told that the claim was not yet ripe and we were not 
+6 harmed, therefore, they would not hear the case. And then when we got the order to 
+7 segregate the ballots and went back after the election, we were told that the case was 
+8 already moot, which I don't believe happened until several months later. 
+9 
+10 Q 
+A Okay. 
+But I'd have to go back and look at the court filings, to be honest. We were 
+11 juggling literally dozens of lawsuits, and we --the House Republican Caucus was the one 
+12 who consistently maintained that the law should be enforced as written. 
+13 Q Okay. So one of the bullet points here describes that, quote, some county 
+14 boards of elections ignored this prohibition and have proceeded to include thousands of 
+15 defective ballots in the certified count. 
+16 What was your understanding of what the defective ballots were that you're 
+17 referring to in this letter? 
+18 A It actually ties back into the second point, which is, they were weighing the 
+19 envelopes without opening them, then notify voters that they had forgotten their secrecy 
+20 envelope, which is a fatal flaw under Pennsylvania law. 
+21 And then the other piece, the third part --third bullet point, rather, also dealt with 
+22 the undated and sometimes unsigned and incomplete applications that were submitted. 
+23 Our law was very clear on those issues and also deals with the first bullet point, 
+24 which is, are those ballots potentially that were counted --or received and then counted 
+25 after election day.  69 
+1 As I mentioned previously, that while it did not impact the outcome of the 
+2 Presidential election, it more than likely directly impacted the outcome of one of our 
+3 Senate races. 
+4 In fact, on swearing-in day on January the 5th, the Senate is a continually 
+5 operating body and --but there's only 25 of them that are sitting at any --you know, in 
+6 the interim session like that, between sessions and prior to swearing-in day. So they 
+7 actually voted on whether or not to accept those election results and rejected the seating 
+8 of one member while the litigation was ongoing. 
+9 Q Okay. But when it came to the audience of the congressional delegation, 
+10 the only issue before them would've been the Presidential election. 
+11 
+12 
+13 
+14 A 
+Q 
+A 
+Q Correct. 
+Is that right? 
+Correct. 
+Okay. And did you have any knowledge of defective ballots included in the 
+15 count that would have affected the outcome of the Presidential election? 
+16 A Just those that are mentioned on the other bullets points in the letter.  70 
+1 
+2 [3:05 p.m.] 
+3 BY-
+4 Q But, with those, did you have an understanding that there existed a 
+5 population of ballots that somehow would have --you know, that the adjudication or an 
+6 issue related to those ballots would have affected the outcome of the Presidential 
+7 election? 
+8 A I'm going to have to ask you to re-ask that question, - I'm not sure I'm 
+9 following your question. 
+10 Q Sure. Yeah. I just understood when I was asking you about the inclusion 
+11 in this letter of the statement about defective --deficient ballots --
+12 
+13 A 
+Q Right. 
+--being included in the certified count, and what you, you know, described 
+14 to me is that you did --I thought I heard you to say that it didn't affect the Presidential 
+15 election but that it might have affected other elections like the one that you identified in 
+16 the Pennsylvania Senate? 
+17 
+18 A 
+Q Okay. 
+I just wanted to get clarification about whether putting this issue in the 
+19 letter to the congressional delegation was because you did think, as of December 4th, 
+20 that there was a matter that needed to be resolved such that it might affect the outcome 
+21 of the Presidential election. 
+22 A There was still an open question. The first bullet point, which is the late 
+23 ballots 3 days after election without the postmark, that was a quantifiable number. We 
+24 knew that at that point. The question of some of the others and who canvassed --who 
+25 pre-canvassed and went to the website and did not was not a certain number at that  71 
+1 time, so at best it was an open question. 
+2 
+3 Q 
+A Okay. And what ended up --was there a resolution to those questions? 
+Ultimately, Congress chose to accept the electoral college as certified, and 
+4 that was the resolution on the congressional level. Our hearings were ongoing. We 
+5 did about 30 hours of hearings here in the house this session on the election law, and 
+6 then we did propose some additional legislative changes to try to fix many of these 
+7 administrative problems that are outlined in the letter. 
+8 Q Okay. All right. Thank you. 
+9 Okay. In the interest chime, I'm going to change gears, but I will pause really 
+10 briefly to see if any of my colleagues have a question on this topic. 
+11 Okay. Speaker Cutler, I wanted to ask you a few questions about your 
+12 interactions with Professor John Eastman --
+13 
+14 
+15 
+16 A 
+Q 
+A 
+Q 
+17 Eastman? 
+18 A Uh-huh. 
+--who you referred to a little bit earlier in our interview today. 
+Yes. 
+So did there come a time when you had an interaction directly with Dr. 
+I did. I don't recall the exact date, but he had testified, I believe, in 
+19 Georgia, and I had a friend who was taking one of his classes. So they have offered to 
+20 set up a meeting because he, in my opinion, had misrepresented some of the provisions 
+21 of our specific State constitution. And that was really an effort to kind of head that off 
+22 before our members started getting, you know, lots of, like me, you know, national emails 
+23 and phone calls into their offices. 
+24 Q Okay. What was the specific misrepresentation that you perceived 
+25 Professor Eastman making in his Georgia Senate testimony?  72 
+1 A Regarding the selection of electors, I do not believe he was aware of our 
+2 specific prohibition against, you know, retroactively changing them, one; and, two, I also 
+3 did not believe, based on the news reports of those testimonies, that he understood that 
+4 we actually were not in session. You know, we terminate on November the 30th. We 
+5 didn't pick back up until the first Tuesday, which that year happened to be January the 
+6 5th. So the idea that the speaker existed in order to call us back into session simply was 
+7 not accurate. 
+8 
+9 
+10 
+11 
+12 
+13 
+14 Q 
+A 
+Q 
+A 
+Q 
+A 
+Q Okay. And did you have a phone call or a -­
+Yes. 
+--video conference with Professor Eastman? 
+Yes. 
+Was it a phone call or --
+No. It was a Zoom or Teams, or one of them. I'm not really sure which. 
+And what you've just explained to us about your --you know, what you 
+15 thought was a misstatement and misapprehension of those circumstances in 
+16 Pennsylvania, did you convey that to Professor Eastman on this call? 
+17 
+18 A 
+Q Yes, I did. 
+Okay. You mentioned a friend who had arranged for the phone call. Is 
+19 that a person with the last name Martin? 
+20 
+21 
+22 
+23 
+24 
+25 A 
+Q 
+A 
+Q 
+A 
+Q Yes, it is. 
+Is it perhaps Amber Lynn Martin or Senator Scott Martin? 
+It was Amber was the one who had the class. 
+Okay. And did Ms. Martin and Senator Martin --are they related? 
+They are. They are married. 
+Okay. Understood. Not a coincidence of name.  1 
+2 
+3 
+4 
+5 Did they both participate with you on the Zoom call --
+A Yes, they did. 
+Q 
+A 
+Q with Professor Eastman? 
+Yes. 
+Okay. And before we talk --I do want to talk a little bit about the 
+6 substance of the call, but did either of them have --other than the class that Ms. Martin 
+7 was taking, did either of them have an attorney-client relationship with Professor 
+8 Eastman? 
+A 
+Q 
+A 
+Q Not that I'm aware of. 
+Did you --
+But you would have to ask them. 
+Understood. 9 
+10 
+11 
+12 
+13 
+14 
+15 Did you ever have an attorney-client relationship with Professor Eastman? 
+A 
+Q I did not. 
+In the context of this Zoom call that you participated in, were you seeking 
+16 representation or legal advice from Professor Eastman? 
+17 A No, ma'am. It was really more of an explanation of what I believed our 
+18 constitution to say on the merits of what he was discussing publicly. 
+19 Q Okay. So what do you recall of Professor Eastman's reaction to your 
+20 statements on that point? 
+21 A I believe he was surprised to find out that we weren't a continuing body. 
+22 You know, he asked some questions about that, and he basically acknowledged that 73 
+23 constitutionally that presented a different scenario than other places in the country, and 
+24 he thanked us for the information. It really was not a lengthy call or discussion in terms 
+25 of the particulars because it's pretty cut and dry. We had walked through the specific  74 
+1 prohibition against the electors and how it could be prospective, not retroactive. 
+2 I'm sure you're seeing a consistent theme here amongst all of these conversations, 
+3 but I do think our constitution is fairly clear. And then, specific to not being in session 
+4 and what that meant in terms of coming back, ran through the same process that we 
+5 discussed previously, which was from December the 1st to the first Tuesday, the only way 
+6 you can come back is either --you know, through a special session declared by of the 
+7 Governor. 
+8 Q Okay. Did Professor Eastman argue with you on any of these points, or did 
+9 he just take your comments? 
+10 A No. I thought he asked some good questions, you know, in terms of, you 
+11 know, what I will call legal process questions. I do recall speaking specifically, for 
+12 example --like, when we're not in session and the speaker is not here, during normal 
+13 session, I'm the individual who is served when the house is sued. But, from December 
+14 the 1st to the first Tuesday of January, it's the majority leader who is served during that 
+15 interim, which I had served in that role the prior term, so I was aware of that, and that 
+16 was a particular example that I had shared administratively. 
+17 I also --at that time, we had discussed the issue surrounding the senate with only 
+18 half of the body being in. And as would come to fruition, half the body did, in fact, vote 
+19 to reject the election later in January which further, I think, kind of cemented not just our 
+20 interpretation but what the constitution actually says. 
+21 Q Okay. Did Professor Eastman suggest any alternate, you know, paths for 
+22 the legislature to take some action regarding the outcome of the 2020 Presidential 
+23 election? 
+24 
+25 A 
+Q No. Not during that call, no. 
+Okay. Did he at any later time?  Well, just what you --which we all saw publicly. 
+Sure. Okay. But no later --
+No. 
+--you know, later communications with him? 
+No. 
+Okay. 75 
+1 
+2 
+3 
+4 
+5 
+6 
+7 A 
+Q 
+A 
+Q 
+A 
+Q 
+A Other than the followup email where he shared the documents that he had 
+8 spoken about in Georgia, but I had already seen them previously. 
+9 
+10 Q Okay. Yeah, I was going to bring that up. It's our exhibit 13, and we'll --
+I think if we just look at the attachment starting on page 4, that would be 
+11 great. 
+12 Before we get to that, though, Speaker Cutler, did your communications with the 
+13 President come up in your conversation with Dr. Eastman at all? 
+14 
+15 
+16 A 
+Q 
+A I actually don't remember. 
+Okay. 
+Because, from a timing perspective, I don't --I don't remember when I spoke 
+17 with him, so --
+18 Q If it's helpful, it looks like it may have been on Saturday, December the 5th. 
+19 That's the date with the email. 
+20 A I don't remember discussing those conversations. My recollection is it was 
+21 confined solely to the constitutional issues that were different in Pennsylvania as 
+22 compared to some of the other States which he had testified in. 
+23 Q Okay. Understood. 
+24 Did he --did Professor Eastman raise anything, you know, any evidence of election 
+25 fraud or bring up any other, you know, potential factors that might affect the kind of  76 
+1 constitutionality of the election? 
+2 A No. We focused mainly on what I will call the mechanics of the fact that we 
+3 simply weren't in session. 
+4 
+5 Q 
+A Okay. 
+As a matter of fact, if you go back to the letter that I signed, I'm pretty sure 
+6 that I'm just listed as a representative-elect on that and not speaker. 
+7 Q Right. Understood. 
+8 So the attachments that Dr. Eastman provided to you after the call, this is --the 
+9 first one is this paper titled "The Constitutional Authority of State Legislatures to Choose 
+10 Electors." 
+11 Other than the fact that this was also presented in connection with the Georgia 
+12 testimony that you were, you know, wishing to correct his misstatement regarding, did 
+13 Dr. Eastman discuss with you any of this paper during the phone call? 
+14 A Just generically in terms of the Georgia presentation, and he acknowledged 
+15 that Pennsylvania was a unique State given the fact that we were not in and we had the 
+16 direct prohibition against selecting electors. 
+17 Q Okay. In the interests of time, I won't bring you to look at each of them, 
+18 but there are --there's another attachment to this email that he titled "Pennsylvania 
+19 2020 Voting Analysis Report." 
+20 Do you remember if that document, which considers several anomalies or, you 
+21 know, statistical analyses of the election, was that discussed during your Zoom call? 
+22 A I do not recall. I'm not actually familiar with that document, other than the 
+23 fact that it's on the email. 
+24 Q Yeah. It's --let me just look at the front page, please,_ It's page 18 
+25 of this exhibit.  77 
+1 A I wonder if that's --can you scroll down a little bit? Who's the author? Is 
+2 that Frank Ryan's report? I think that might be Frank Ryan's report, which is the --
+3 Q It looks like --at least the executive summary says it's edited --it's signed by 
+4 an editor/physicist John Drawz, Jr. (ph). 
+5 
+6 A 
+Q 
+7 wrote it. 
+8 A Oh, no. Then that's not the one I thought it was. I'm sorry, -
+Oh, that's fine. I'm not sure that my noting that name is dispositive of who 
+No. We had a member who did a --what he called a term day voter deficit 
+9 report, but that's not this. That is very clear. This is a different report. 
+10 Q Okay. Okay. In his email in which he provided these materials to you, Dr. 
+11 Eastman wrote: Here are the materials we discussed. Thank you for including me in 
+12 your deliberations. I am ecstatic at how thoroughly you are on top of the key issues that 
+13 we're confronting. 
+14 What did --first of all, is that consistent with your understanding of the content of 
+15 this communication, the Zoom call itself? 
+16 A I took that to mean he was impressed with our understanding of the 
+17 constitutional issues that we discussed in terms of not being in session, not actually being 
+18 a constituted body, and then the prohibition on the other issues because every 
+19 time --anytime that he discussed something, we knew directly, you know, where to go in 
+20 the constitution or the statute as a topic to discuss that particular matter. 
+21 Q Okay. What about this phrase, "your deliberations"? Were you 
+22 undertaking any deliberations at that time? 
+23 
+24 A 
+Q No. I viewed it more as a discussion. 
+Okay. And just as a sort of a big picture, in this communication, this email, 
+25 or the Zoom call that preceded it, did you perceive that Dr. Eastman was asking or  78 
+1 recommending that you take some action to appoint electors or to affect the outcome of 
+2 the election in Pennsylvania? 
+3 A No. In fact, I think, after our discussion, I had the opposite belief, that he 
+4 understood the constraints that the Pennsylvania constitution put on a request such as 
+5 that. 
+6 Q Okay. And if he later represented that he believed that there was some 
+7 kind of action to be taken --well, let me rephrase. 
+8 Through our investigation, we are aware of some communications involving Dr. 
+9 Eastman in the days leading up to January 6th, including with the staff and lawyers for 
+10 Vice President Mike Pence, in which Dr. Eastman asserts that there --the Pennsylvania 
+11 legislature is likely to take some action that would call into question the outcome of the 
+12 2020 election. 
+13 Are you aware of anything that would have provided the basis for such an 
+14 assertion? 
+15 
+16 A 
+Q I am not, not based off of our conversations. 
+Okay. So your communications with Dr. Eastman would not have 
+17 contained anything that should have given him the impression --
+18 
+19 A 
+Q No. 
+--that the legislature was going to take some action to overturn the 
+20 outcome of the election? 
+21 A Yeah. And that was the only communication --the call and the followup 
+22 email were the only two communications that occurred. 
+23 Q Okay. Let me look at my notes real quickly. 
+24 What was the role of Senator Martin and Ms. Martin during this call with 
+25 Professor Eastman?  79 
+1 A Well, Ms. Martin was obviously the student, so she set up the call. Senator 
+2 Martin is obviously a State senator. He was one of the ones who was not yet seated, so 
+3 I think he had many of the same questions I did, and rather than having the same 
+4 conversation twice, we just had it once. 
+5 Q I see. Did he make any statements, or was there any part of his discussion 
+6 with Dr. Eastman that was inconsistent with the description you've given to us of your 
+7 view? 
+8 
+9 A 
+Q Not that I'm aware of. 
+Okay. Did you discuss your discussion with --the discussion that you had 
+10 with Professor Eastman with any other members of the legislature either on the house 
+11 side or senate side? 
+12 
+13 
+14 
+15 A 
+Q 
+A 
+Q No, other than counsel here. That's all I remember. 
+Okay. 
+And, obviously, Senator Martin, but he was part of the call. 
+Sure. Okay. That makes sense. 
+16 One last email I would like to put up for you, which is exhibit 14, please. 
+17 So this is an email exchange that you provided to us in response to our request, 
+18 Speaker Cutler --our subpoena, in fact --related to communications you had with 
+19 Lawrence Ta bas. Mr. Ta bas I understand to have been and is still the chair of the 
+20 Republican Party in Pennsylvania. Is that right? 
+21 
+22 A 
+Q I believe so, yes. 
+Okay. So this also seems to relate to Professor Eastman, though it is 
+23 sometime later. So your call with Professor Eastman appears to have been on 
+24 December 5th, and then this is an email exchange with Mr. Tabas on January 3rd. 
+25 Can you tell us, how did the concept or the --how did Mr. Eastman become, again,  80 
+1 a topic of conversation for you on Sunday, January 3rd? 
+2 A I honestly do not recall, other than the fact that I believe at that time that 
+3 the State committee was --that's when they did enter into their conditional alternate 
+4 slate, but I believe it was related to notice that that was going to be released or become 
+5 public. 
+6 Q Oh, I see. Okay. 
+7 And what's your understanding of the alternate slate that you just identified? 
+8 How did that come to be? 
+9 A It was conditioned upon the ongoing court cases, and I believe it relied on 
+10 Hawaii from the Nixon election, if I remember correctly, in terms of the references for 
+11 case law. 
+12 Q Okay. At the time back in December, the meeting of the electoral college 
+13 back on December 14th, were you aware that the Trump campaign was organizing 
+14 Republican electors to meet and cast their votes on that day? 
+No, ma'am. 15 
+16 A 
+Q Okay. Did you interact with any of them, either, you know, before or after, 
+17 regarding their casting votes for alternate electors for Trump-Pence? 
+18 
+19 
+20 
+21 A 
+Q 
+A 
+Q No. 
+Okay. Did you discuss it with Mr. Ta bas? 
+Only as a matter of notice. He did not want me to see it in the newspaper. 
+Understood. 
+22 Do you remember whether that was in around the time that the electors met in 
+23 December, December 14th, or was it closer to this email in early January? 
+24 
+25 A 
+Q I don't recall. 
+Okay. And what did Mr. Ta bas convey to you about the purpose of these  81 
+1 alternate electors meeting? 
+2 A That it was essentially conditioned upon the ongoing court cases, and that 
+3 was the reason they were doing it, because my understanding, at least from that 
+4 conversation, was it's a drop-dead date, and if you don't do it on that day, it doesn't 
+5 matter if something happens later. 
+6 Q Okay. So what was the connection between the alternate slate of electors 
+7 and Professor Eastman? 
+8 A I do not know, other than his testimony that he provided in Georgia which 
+9 indicated that the State legislature could choose their own but was not permitted here. 
+10 Q Right. Which is what you corrected his misunderstanding about during 
+11 your Zoom call. Correct? 
+12 
+13 A 
+Q Correct. 
+Okay. Did you participate in a Zoom call on the day before this email, on 
+14 Saturday, January 2nd? 
+15 
+16 A 
+Q I don't recall. 
+There was a call that was convened by --at least in part by a nonprofit called 
+17 The Amistad Project, and there were hundreds of State legislators that were invited and 
+18 participated in the call. In addition to other speakers, it featured comments given 
+19 during the call by President Trump. 
+20 Do you remember that? 
+21 
+22 
+23 A 
+Q No, I do not recall that, and I don't remember being on that call. 
+Got it. Okay. 
+Do you know what Mr. Tabas was referring to in the email --apologies,. 
+24 It's exhibit 14 again --that he wrote to you on January 3rd? He writes: There has been 
+25 no update from yesterday's call.  1 
+2 
+3 
+4 A 
+Q 
+A No. 
+Do you know what that referred to? 
+I did not. 
+Q Okay. Are you aware that Mr. Ta bas was originally on the list of 82 
+5 Trump-Pence electors for Pennsylvania but then did not participate when the slate met as 
+6 alternate electors on December 14th? 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 A No. 
+Q Okay. Did that come up at all in your discussion with --
+A No. 
+Q --Mr. Tabas about this alternate slate? 
+A Not that I recall, no. 
+Q Okay. 
+A It was merely noticed that an alternate slate had been assembled --
+Q Okay. 
+A --in the event the litigation was found to be favorable. 
+Q Okay. And at the time, on January 3rd, or thereabouts, when you were 
+17 having these discussions with Mr. Tabas, was there a resolution to any litigation that 
+18 would have affected the selection of a slate of electors? 
+19 
+20 A I don't recall. 
+Q Okay. Was there any idea in the days leading up to January 6th, whether it 
+21 was through communications with Mr. Ta bas or otherwise, that there would be some 
+22 contemplated role for the State legislature regarding this alternate slate of electors? 
+23 
+24 
+25 A No. 
+Q Okay. 
+A That ship had essentially already left the building back in December in terms  83 
+1 of --you know, because that's the drop-dead date on the Electoral Counting Act. So my 
+2 understanding at that time was that's why both the electors, as well as the potential 
+3 alternate, based upon --contingent upon the litigation outcomes were selected at that 
+4 time and then the only remedy left would be that or Congress. 
+5 Q Okay. Did anyone ever ask you, like make an ask or otherwise, you know, 
+6 insinuate or suggest that you should take some action to recognize this alternate slate of 
+7 electors? 
+8 
+9 A 
+Q No. 
+Okay. And, Speaker Cutler, we're coming up on time. I know you have a 
+10 lot of other matters to attend, but there's an area that we didn't get to talk much about 
+11 today that I just wanted to touch upon before we leave, and that is the threats and 
+12 pressure or, you know, protest activity that was directed at you following the election. 
+13 So, when we met before informally in your office, you shared with us the 
+14 experience of having protesters show up at your house. I think, if I remember correctly, 
+15 you told us that one of your children was home at the time that they showed up. 
+16 So, if you could, just briefly before we let you go back to your regularly scheduled 
+17 business, could you tell us generally what your experience was of receiving the level of, 
+18 you know, pressure and protest activity surrounding the Presidential election? 
+19 A Sure. There were multiple protests. I actually don't remember the exact 
+20 number. There was at least three, I think, outside either my district office or my home. 
+21 And you're correct; my son --my then 15-year-old son was home by himself for the first 
+22 one. That was the first Saturday of deer season actually, so whatever that Saturday 
+23 after the Thursday visit to the White House, that was the first one. 
+24 And it's my understanding that my --all of my personal information was doxed 
+25 online. It was my personal email, my personal cell phone, my home phone number. In  84 
+1 fact, we had to disconnect our home phone for about 3 days because it would ring all 
+2 hours of the night and would fill up with messages, some of which we forwarded to you 
+3 that we still had, because I would --on my cell phone I would just block the numbers as 
+4 they came in. And it was --you know, it was wholly outside what I would call normal 
+5 legislative activity. 
+6 Q In particular, I think that you mentioned something about your --a comment 
+7 made about you by Steve Bannon on his podcast? 
+8 
+9 
+10 A 
+Q 
+A Yes. 
+Do you remember that? 
+Yes. That's what I was told. I do not listen to Mr. Bannon, so it was 
+11 relayed to me by a third party. But my understanding is that, you know, he posted all of 
+12 my information at some point during one of his programs. 
+13 
+14 
+15 Q 
+A 
+Q Okay. And did he refer to you as a traitor? 
+Yes, that's what was relayed to me. 
+Okay. I know you mentioned this was outside of the normal legislative, you 
+16 know, process. How does it compare to your experience in other election cycles? 
+17 A It was definitely more heightened. Now, you know, I think I had three or 
+18 four death threats probably during that window. Now, to be fair, I've also had one this 
+19 session on a different legislative issue, which we did prosecute, you know, so sadly it's 
+20 becoming more and more relevant in today's world, which is really a sad testament I think 
+21 to what people think is appropriate conduct. You know, that doesn't count the 
+22 thousands of emails that came in, you know, all on the similar vein, or messages here that 
+23 my staff had to endure from people as well. 
+24 Q And what did you --to the extent that you could perceive a purpose to the 
+25 messages and the threats that you were receiving, what was it? What do you think that  85 
+1 the people who were threatening you were trying to achieve? 
+2 A Well, I don't know about their specific motives. The general expressed 
+3 reason for the call was, you know, you needed to do something about the election. But 
+4 when, you know, I would talk that --to the people that were actually constituents and 
+5 would explain to them, you know, the process that we had went through, you know, and 
+6 the fact that the court cases that could have been filed weren't, they seemed to 
+7 understand. But the problem was it really was a national phenomenon in terms of, you 
+8 know, some of the reach of some of the people who were sharing my private information 
+9 for people to call. So it was virtually impossible probably to respond to every inquiry in 
+10 kind. 
+11 Q Okay. Thank you very much for that. 
+12 So, before we go, is there anything that you think is relevant to the select 
+13 committee's inquiry regarding the actual attack on January 6th and the causes of the 
+14 attack that we haven't touched upon today that you would like to address? 
+15 A No, ma'am. I think you did a great job of covering everything that we 
+16 discussed previously, so thank you. 
+17 
+18 
+19 - Okay. Great. 
+Mr. Rush, anything that you would like to address before we go off the record? 
+Mr. Rush. No, ma'am, other than we will read and sign, but you covered that 
+20 earlier. So thank you for your professionalism and getting us done on time. 
+21 - Understood. 
+22 Speaker Cutler, thank you very much for your cooperation. Thanks for meeting 
+23 with us previously --
+24 
+25 Mr. Cutler. You're very welcome. 
+--and for your time today. We really appreciate it.  1 
+2 
+3 Mr. Cutler. You're very welcome. Thank you. 
+Okay. We'll go off the record now. 
+[Whereupon, at 3:32 p.m., the interview was concluded.] 86  1 
+2 
+3 Certificate of Deponent/Interviewee 
+4 I have read the foregoing __ pages, which contain the correct transcript of the 
+5 answers made by me to the questions therein recorded. 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 Witness Name 
+Date 87 

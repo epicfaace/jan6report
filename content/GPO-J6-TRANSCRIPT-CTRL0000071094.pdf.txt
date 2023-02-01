@@ -1,0 +1,3050 @@
+1 
+2 
+3 
+4 SELECT COMMITTEE TO INVESTIGATE THE 
+5 JANUARY 6TH ATTACK ON THE U.S. CAPITOL, 
+6 U.S. HOUSE OF REPRESENTATIVES, 
+7 WASHINGTON, D.C. 
+8 
+9 
+10 
+11 INTERVIEW OF: IAN NORTHON 
+12 
+13 
+14 
+15 Wednesday, April 27, 2022 
+Washington, D.C. 1 
+16 
+17 
+18 
+19 
+20 The interview in the above matter was held via Webex, commencing at 10:02 a.m.  1 
+2 Appearances: 
+3 
+4 
+5 For the SELECT COMMITTEE TO INVESTIGATE 
+6 THE JANUARY 6TH ATTACK ON THE U.S. CAPITOL: 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 , STAFF ASSOCIATE 
+, PROFESSIONAL STAFF MEMBER 
+, SENIOR INVESTIGATIVE COUNSEL 
+, SENIOR INVESTIGATIVE COUNSEL 
+, CHIEF CLERK 
+, PROFESSIONAL STAFF MEMBER 
+16 For IAN NORTHON: 
+17 
+18 CHARLES "CHIP" CHAMBERLAIN 2  1 
+2 - It's 10:02 a.m. eastern on April the 27th, and this is a transcribed 
+3 interview of Mr. Ian Northan conducted by the House Select Committee to Investigate 
+4 the January 6th Attack on the United States Capitol pursuant to House Resolution 503. 
+5 At this time,_, I'd like to ask you to please state your name and spell 
+6 your last name for the record. 
+7 Good morning. My name is Ian Northan. That's N-o-r-t-h-o-n. 
+8 Perfect. 3 
+9 And, counsel, if you don't mind identifying yourself and spelling your name for the 
+10 record, please. 
+11 Mr. Chamberlain. Sure. Charles Chamberlain. Chamberlain is 
+12 C-h-a-m-b-e-r-1-a-i-n. 
+13 
+14 ~ Thank you both. 
+This will be a staff-led interview. If members decide to join, which they certainly 
+15 have the right to do, they may, and they may also ask questions. If that happens, 
+16 Mr. Northan, Mr. Chamberlain, I will try to let you know so you know that they're on. 
+17 And you'll also be able to see them in the participants list on the side of the Webex 
+18 platform there. 
+Mr. Chamberlain. Okay. 19 
+20 ~ So my name --introduce myself-- is I'm a senior 
+21 investigative counsel for the select committee. As I mentioned before, I know you've 
+22 been working with , and she may be joining us at some point today, as 
+23 might other select committee staff. 
+24 Right now, we have who is a professional staff member for 
+25 the committee --you'll see him listed there in the Webex platform --as well as our chief  4 
+1 clerk, 
+2 Also on the Webex platform are two official reporters. They are going to be the 
+3 ones who are making the official record of this interview. You may have noticed that 
+4 we're also recording from the platform, but the official record is what they take down as 
+5 stenographers. So please wait until each question is completed before you begin your 
+6 response. That will make their life much easier. And we, in turn, will try to wait for 
+7 you to finish your answers before asking any further questions. 
+8 Just also a note, I know I don't need to tell either of you this, but, for the record, 
+9 the reporters can't take down nonverbal responses, such as shaking your head. So 
+10 please answer each question with an audible, verbal response. 
+11 Mr. Northan, we do ask that you provide complete answers based on your best 
+12 recollection. I understand that some of these events took place over a year ago, and 
+13 that's perfectly okay if you don't recall something. But, if you do recall something, then 
+14 we ask you to let us know that. 
+15 Also, if the question is not clear, please ask me to rephrase it. Happy to do so. 
+16 I'd much rather you have or --excuse me --answer a question that you understand than 
+17 try to answer one that you don't. 
+18 Also, although this interview is just that --it's an interview; it's not under oath --I 
+19 do want to remind you that you are speaking to the United States Congress. The select 
+20 committee is part of that, and so it is unlawful to deliberately provide false information to 
+21 Congress. 
+22 Does everything we've just gone through make sense? 
+23 
+24 
+25 Mr. Northan. It does. Thank you. 
+Okay. And do you understand that, have any questions? 
+Mr. Northan. I understand. It --I've taken a few depositions myself, and I'll do  5 
+1 my very best to take good care of your transcriptionists, your court reporters there. 
+2 And, if I talk too fast or if I start to trail off, I'm getting used to this audio equipment here, 
+3 so please just let me know if for whatever reason you can't hear me or understand me. 
+4 ~ Okay. Will do. Great. 
+5 And can you --the only people in the room are you, Mr. Chamberlain and 
+6 Mr. Northan? That's right? 
+7 
+8 Mr. Chamberlain. Correct. 
+- Okay. And, on your end, you're not recording it or otherwise 
+9 transmitting it? 
+10 Mr. Chamberlain. No, I'm --no, I'm not. We're in my office conference room, 
+11 and I'm not so sure I'd now how to record it if I --so --
+12 - Fair enough. All right. And, just logistically, please let us know if 
+13 at any point you need any breaks, either for food, comfort breaks, or otherwise, or if you 
+14 want to have an off-the-record discussion with your attorney. If you do want to have a 
+15 discussion with your attorney, I find --I won't tell you how to do this, but I find it's been 
+16 best using this platform hitting mute, turning off the video. That way, there is no chance 
+17 that we might overhear any conversations that you have privately. 
+18 Any questions before we begin? 
+19 
+20 
+21 
+22 
+23 Mr. Northan. No, thank you. 
+- Okay. Great. 
+EXAMINATION 
+BY 
+Q So why don't --Mr. Northan, if you can please give us a background, where 
+24 you're from, where you went to school, and more or less your professional history getting 
+25 to today.  6 
+1 A Okay. I'm --I'm --I live here in the Grand Rapids area in west Michigan. 
+2 grew up a couple hours north of here in a little town called Evart, Michigan. That's 
+3 E-v-a-r-t. I lived there my whole life until I went off to college. 
+4 I went to college on a baseball and academic scholarship at a little school called 
+5 Hillsdale College in southern Michigan. After --after I was there --I studied biology and 
+6 chemistry; I have a science degree --I bounced around a little bit. I was a minor league 
+7 baseball player, a professional baseball player. And, after I got released enough 
+8 times --that's the polite way of saying fired --I found something else to do. 
+9 So I did that for parts of three seasons, and then I went to --went to law school. 
+10 That would have been --let's see. I graduated high school in 1996. I graduated college 
+11 in 2000. And then I went to --it would have been one academic year, so two baseball 
+12 seasons off, and then I started law school in the fall of 2001 in Ann Arbor, Michigan. 
+13 I graduated from Ave Maria Law School, Ave Maria School of Law, when it was in 
+14 Ann Arbor. I was part of its second class or one of the early graduates. It's --it was a 
+15 brand new law school at the time. It actually set the record for how fast they got their 
+16 ABA accreditation back in the day. It's not quite the same caliber, in my opinion, as 
+17 what it was back then, but it's --at the time, it was a good spot to go to law school. 
+18 While in law school, I had my first legal jobs. I was the first person in my 
+19 family --first guy in my family to graduate from college and first one to get a professional 
+20 degree, so I didn't know any lawyers really, and so my first legal jobs were in law school. 
+21 I worked for --let's see. After my first year, I worked for a Federal judge in 
+22 Cleveland during my second year. I worked for two Michigan Supreme Court justices. 
+23 One was at the Court of Appeals at the time. He's now on the Michigan Supreme Court, 
+24 Brian Zahra. The other one was Bob Young. The Federal judge that I worked for was 
+25 Magistrate Judge William Baughman in the Federal court in Cleveland.  7 
+1 After my second year of law school, I took a, you know, summer clerkship with a 
+2 law firm in Detroit called Butzel Long --that's B-u-t-z-e-I, L-o-n-g. It's about a 
+3 150-year- old law firm in Detroit. I was telling Chip earlier they had about 250 lawyers 
+4 at the time and have since --they got down to about 90, and I think they're back up to 
+5 about 150 or 200. But thankfully I wasn't there during that drama. I worked for them 
+6 as a summer associate, and then received an offer to join them after I graduated from 
+7 Ave Maria in 2004. 
+8 I did primarily labor and employment work, union management on the 
+9 management side, including ERISA disputes, pension disputes, and ERISA disputes. 
+10 I did that for about 4 or 5 years, and then lateraled to Reed Smith in Pittsburgh. 
+11 Reed Smith in Pittsburgh, at the time, had about 16 or 1,700 lawyers, and I was part of 
+12 their ERISA litigation and labor group. 
+13 I was there about 2 years. This would have been 2007-2008. And then, right at 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 the end of 2008, at the start of 2009, I moved with my wife and family down to Florida, 
+where I rejoined Ave Maria School of Law, but this time as its in-house counsel instead of 
+as a graduate. 
+So it just so happened that the law school had been a client of mine when I was at 
+Butzel Long, and they were getting ready to move across the country, 
+And 
+the dye was cast, and then they needed a little help with the move. 
+So it's hard to tell your alma mater no. My wife and I both graduated from 
+22 Ave Maria, and that's where we met. And so I went in-house with the law school. 
+23 was actually the first person down in Florida for them full time in early 2009. They 
+24 moved there in the fall of 2009, and they've been down there ever since. 
+25 I stayed in-house with them about 2, almost 3 years, I think, if memory serves.  8 
+1 That pushes me out to about 2012. And then I just missed the courtroom, and so I --I 
+2 went back into private practice. But, at that point, I think we had had three or four kids, 
+3 and didn't want to do another cross-country move, so I stayed in Florida. 
+4 At that time, I lost my in-house exemption. You know, when you're an in-house 
+5 lawyer, you don't have to sit for the Florida bar exam. And so I had to then sit for the 
+6 Florida bar exam. So I sat for that in 2012 and joined the law firm Roetzel & Andress, 
+7 R-o-e-t-z-e-1, and Andress, out of Akron and Cleveland, Columbus area. They're an 
+8 Ohio-based firm, but I joined their Fort Myers and Naples offices down in south Florida. 
+9 I continued to do the same type of work, primarily labor and employment work. 
+10 There were very few unions to fight in south Florida, but I continued to do labor and 
+11 employment work, and then some litigation, including antifraud and --and some of those 
+12 types of things, which is what I did primarily in the ERISA arena, was dealing with fraud 
+13 and embezzlement or employment-related thefts and crimes. 
+14 I did that until --until about 2017. And then, at that point, my wife and I had five 
+15 kids. Our oldest was getting a bit older, and we wanted to move back to the Midwest, 
+16 so I came back to Michigan in 2017 and joined the firm Rhoades McKee --R-h-o-a-d-e-s, 
+17 M-c-k-e-e --as a partner, and I moved my wife and kids back. We live in Jenison, 
+18 Michigan, and my office is downtown Grand Rapids. 
+19 Still the same type of work, primarily labor and employment litigation. Still do 
+20 some ERISA work. And then, on the plaintiff side, I take a few plaintiffs' cases if I like the 
+21 equities. I had a wrongful death case, a few antifraud cases, you know, representing 
+22 either disabled people or paralyzed people, or --and a couple of cases, little old ladies 
+23 who had money stolen from them. So I'll do that on the plaintiffs' side, but primarily a 
+24 defense side management, labor and employment lawyer. I've been practicing there 
+25 since.  9 
+1 And then, over the last couple of months, I've been transitioning to an in-house 
+2 position with a fintech company called lnveniam, I-n-v-e-n-i-a-m. It's a Latin word. 
+3 And I've now joined them as deputy general counsel, effective around the first of this 
+4 month, April the 1st. 
+5 I still have a relationship with Rhoades McKee. It's basically a referral 
+6 arrangement. And I still have a few pending matters. As you may know, you're not off 
+7 of a case until the judge says you're off of the case, and so I still have a few cases that I'm 
+8 the lead counsel or active. But, in many cases, I've either cocounselled or transitioned 
+9 the files and done substitutions entirely. 
+10 That brings you to 2022. And, like I said, I practiced without interruption with 
+11 Rhoades McKee from 2017 to now. 
+12 So professionally, that's it. I've been, you know, primarily a trial lawyer on the 
+13 labor and employment side, and then --except for the short stint in-house with Ave Maria 
+14 Law School in Florida, and then --and then now my most recent in-house position, which 
+15 I just started. 
+16 
+17 
+18 Q One of the reasons that we're talking to you today is related to the election. 
+When did you first get into election law work? 
+A I don't know that I ever got into election law work, per se. You know, I --it 
+19 certainly wasn't a specialty of mine. You know, it's something that is too infrequent, for 
+20 me at least, to specialize in. It only comes around every 4 years. But many of my 
+21 cases --I've always --
+22 But at the same time, I've always, you know, followed constitutional law issues, 
+23 and I've also followed, you know, statutory issues. As you may know, ERISA is 
+24 code-based. Title VII on the employment side is code-based. 
+25 So I would say my entire career, I've been following constitutional issues or  10 
+1 code-based statutes as a civil litigator, primarily in the Federal courts. So I've done that 
+2 my entire career. 
+3 But election law in particular, I think I've helped some nonprofits over the years, 
+4 so first --you know, when I was in private practice back with Butzel Long and Reed Smith, 
+5 we would represent nonprofits from time to time, 501{c)(3)s or 501{c)(4)s, typically with 
+6 their, you know, retirement plans. But, at the same time, there were rules onto --for 
+7 political activity for the charities and the nonprofits. So I had some exposure then to 
+8 election law, only because electioneering is normally prohibited for 501{c)(3)s, whereas 
+9 501{c)(4)s can do some direct lobbying and some other things. 
+10 So I had some exposure to it probably as early as 2006 and 2007. But, in terms 
+11 of ever representing any clients or cases during an election dispute, 2020 would have 
+12 been, I think, the first time I've done that. 
+13 Although, like I said, there were some --once I went back into private practice 
+14 after Ave Maria, so from 2012 to now, I've represented more charities and more 
+15 nonprofits than before. And many of them had election-related questions, but it was 
+16 usually about how to avoid --how to avoid compliance issues. 
+17 I did help private clients file and obtain their 501{c)(3) status. I did that for a 
+18 handful of clients down in Florida. So it's really just a compliance issue on the election 
+19 side. 2020 would have been the first time I filed litigation related to any elections. 
+20 
+21 Q 
+A Okay. And, in that background, did you ever do any teaching? 
+Well, to their credit, Ave Maria knew better than to let me into a classroom, 
+22 and so --so I did fill in a couple chimes as an adjunct when professors were sick or ill or 
+23 had leaves of absences. I did help --help train in some one-off --not just some 
+24 monitoring, but some small group sessions as it relates to passing the bar exam. I've 
+25 taken and passed the Michigan bar exam, the Pennsylvania bar exam, and the Florida bar  11 
+1 exam. 
+2 When Ave Maria first graduated its first two classes, the bar exam passage rates 
+3 were 95 percent the first year, 100 percent my year, and 93 percent the third year. 
+4 When I was an employee at Ave Maria, when I was their in-house counsel, they had 
+5 numbers that were bouncing around around 50 percent. And so I --I did teach some bar 
+6 prep and did some monitoring related to that. 
+7 Other than that, a couple of one-off classes for labor and employment, and I 
+8 believe I taught an ERISA seminar, but it was not for credit. It was for extra credit at 
+9 Ave Maria. And that was the only teaching that I've done. 
+10 I worked as a school teacher for a brief time. After I graduated from Hillsdale, I 
+11 had a science degree, and I worked as a substitute school teacher to get some money 
+12 while I was trying to be a professional baseball player. 
+13 And then I've --but, other than that, just a couple of one-off situations. I'm 
+14 trying to think if there was anything else. 
+15 Q Let me ask you: Any teaching, did any of it have to do with election law, 
+16 Federal or State? 
+17 A No. I don't believe I've ever taught any election law related anything, State 
+18 or Federal. I've given a couple of seminars on constitutional law, I think, to civic groups, 
+19 and I've done some speaking on that, but never anything election specific, and never to 
+20 a --to a law school or a college. 
+21 Q And those constitutional law seminars you said, the civic groups, was that 
+22 related at all to the 2020 election? 
+23 A No. I haven't done that since probably the mid --well, since the market 
+24 crash around 2008. You know, there are different --once I moved down to Florida, part 
+25 of my duties for Ave Maria was to give talks to judges, give talks to lawyers.  12 
+1 And I also gave talks to groups of, like, moot court students or other things. They 
+2 were typically high school aged. And I'm trying to remember the name of the group that 
+3 it was affiliated with, but it wasn't like Boys Club or anything. But it was similar to that. 
+4 It was just these civic groups. But that was --that was a much younger audience, like 
+5 high school age, around 2008 through about 2012 when I was with the law school. 
+6 Q I see. And was any of that --I assume not, given the age, and the nature of 
+7 the groups you were talking to, but I don't want to assume --was any of those, 
+8 or --excuse me --were any of those speeches constitutional law speeches or seminars 
+9 about election-related issues? 
+10 A No, not that I can call. I mean, all those kids were under 18, so none of 
+11 them could vote, but --but anytime you talk about the Constitution to a group of 
+12 teenagers, you talk about the basics, like separation of powers, civic duty, your civic duty 
+13 to vote, things like that. So there might have been a few footnotes here or there. 
+14 But I don't remember anything specifically about election law to those teenagers, 
+15 and certainly none of the stuff that I filled in for in law school. Like I said, it would have 
+16 been a class here or there. None of that was election related. It was, like, labor and 
+17 ERISA related. 
+18 BY 
+19 Q Got it. Okay. 
+20 So I understand you're associated with a group, at least --I shouldn't say 
+21 associated. Maybe that's the wrong word. Linked to a group, familiar with a group 
+22 named Amistad, or the Amistad Project. Is that right? 
+23 A Yeah. They were a client, and, until recently, they were --they were still a 
+24 client. 
+25 Q Okay. And I don't want to get into any attorney- client privileged  13 
+1 communications or work product that you have done, but, just generally, can you tell us 
+2 when that relationship --that attorney-client relationship with Amistad started. 
+3 A Yeah. So I was --I had cocounselled with a case with a guy who had 
+4 apparently --this would have been early 2020. Sorry. To give you a more direct 
+5 answer, early 2020, I was contacted from a lawyer that I had worked with on other 
+6 matters unrelated to Amistad or election cases, and he asked if I would be interested. 
+7 And then, around that time --it would have been --I don't remember --I don't remember 
+8 when we did the engagement letter, but it would have been spring or summer of 2020. 
+9 Q And was the relationship related to anticipated issues with the 2020 election 
+10 or preelection litigation? 
+11 A Yeah. So this Amistad group had actually already filed several lawsuits in 
+12 other States. Off the top of my head, I don't know if they filed anything in 2019, but I 
+13 know that they certainly were doing research and preparing for some concerns that they 
+14 had seen in 2019, maybe even 2018. 
+15 But, in 2020, they had filed a lawsuit, I believe, in Pennsylvania and maybe 
+16 Minnesota already. And then they reached out to me through a friend of a friend or 
+17 another lawyer that I had worked with and asked if I would be interested in helping them 
+18 file some cases in Michigan. 
+19 They had a grassroots group in Michigan called the Election Integrity Fund that 
+20 had been working and meeting, and --and they were seeing the same irregularities or 
+21 statutory violations that they saw in other States, or similar, I should say. Each State law 
+22 is a little different. And so it was, like I said, late spring, early summer that they 
+23 contacted me about filing something in Michigan. 
+24 Q Did you have any role with the Amistad Project other than being an outside 
+25 lawyer for them? For example, did you sit on a board? Were you an informal adviser?  14 
+1 Were you a member? 
+2 A The answer is no. I've --I'm their outside lawyer. I've been their outside 
+3 lawyer since, you know, probably second quarter 2020. But I'm not --I'm not a board 
+4 member. I'm not --I don't know that they --they don't have dues-paying members that 
+5 I can tell. It's not a dues-based organization. So I'm not a member in that sense. 
+6 But I'm familiar with them by being their lawyer, and I certainly, you know, give 
+7 them advice. But I bill for that advice, like --so it's --you know, I don't know how --I like 
+8 to think that I've made friends with many of the people there. I worked mostly with the 
+9 lawyers, but --but, no, no other relationship other than being their hired lawyer. 
+10 
+11 Q 
+A Who is the person who introduced you to the Amistad Project? 
+Well, I was introduced to the head of the Amistad Project, which is 
+12 Phil I Kline. That was --that's kind of who I view as my primary client contact. But the 
+13 attorney that introduced me to them was a lawyer out of Kansas City named Eddie Greim. 
+14 Q Okay. 
+15 A Eddie and I had been cocounsel on a litigation project out in St. Louis, 
+16 Missouri. This is a Federal lawsuit, a trademark case out in St. Louis, where I 
+17 represented the late Phyllis Schlafly and her estate and several of her trusts trying to 
+18 protect her intellectual property after she passed away in 2016. 
+19 So that's actually one of the lawsuits I'm still involved in. That case is still 
+20 pending. It's a 6-year-old case. Eddie had been counsel on that case or cocounsel on 
+21 the case for a short time. 
+22 And then --and then he worked with a group called the Thomas Moore Center out 
+23 of Chicago. And we had some mutual friends at the Thomas Moore Center out of 
+24 Chicago, including its president, Thomas Brejcha. That's a group that used to do 
+25 fundraising down in Florida, down in south Florida.  15 
+1 So, when I was with the law school, you know, the patron saint of Ave Maria 
+2 School of Law is Thomas Moore, and this is a group called the Thomas Moore Society, or 
+3 Thomas Moore Center. And so there were some synergies there. And there are a 
+4 couple of professors that do legal work for the Thomas Moore Center. 
+5 So, when Eddie called me and said he had a project for Amistad and Thomas 
+6 Moore, I knew several of the attorneys that did work for them, and so it was kind of a 
+7 known quantity at that point. I don't know that I interacted with them much, but I've 
+8 known some of those guys since about 2009 or 2010. 
+9 
+10 Q Thomas Moore is separate from the Amistad Project, correct? 
+A It is, I think, technically. I think at the time, in, you know, 2018 and 2019, 
+11 the Thomas Moore Society was a 501{c)(3) and was running lots of different litigation 
+12 projects around the country, primarily pro-life stuff. They do some military stuff. They 
+13 do some election stuff. But they do a little bit of everything that fits into kind of 
+14 their --their priorities. 
+15 Amistad was something that Phil I Kline had been working with Thomas Moore 
+16 for --on other cases, or other matters, including pro-life things, for many years. And so, 
+17 in 2020, when I was contacted, that's how they were described to me. In other words, 
+18 Amistad was described as a project or --of the Thomas Moore Society. And my sense 
+19 was that the Thomas Moore Society was devoting some of its litigation resources toward 
+20 Amistad. 
+21 Q You mentioned Thomas Moore and their tax status. Did you say a 
+22 501{c)(3)? 
+23 A I believe they've got a 501{c)(3). They might also have a 501{c)(4). It's a 
+24 little different. You know, there is --I couldn't tell you exactly where the lines are 
+25 drawn. I didn't represent them directly, but --but I believe they've got a 501{c)(3).  16 
+1 They might also have a PAC or a (c)(4). 
+2 You know, it's kind of like --it's not terribly uncommon with charities to have kind 
+3 of the education arm, the (c)(3), and then the political arm, the (c)(4). But this was 
+4 their --one of their litigation projects. I think Amistad anticipated litigation at that time, 
+5 had already filed some litigation, and so they were a payer. They were funding part of 
+6 that litigation, or helping to support it. 
+7 
+8 Q 
+A No for-profit arm of Thomas Moore that you're aware of? 
+Not that I'm aware of. I'll just --I'll just mention to clarify, there is a 
+9 Thomas Moore Law Center in Ann Arbor, Michigan, as well, that also had some affiliations 
+10 with Ave Maria, and I know some of the people there. But it's completely separate. 
+11 They are a different Thomas Moore. So this isn't the Thomas Moore in Ann Arbor or 
+12 England, as the case may be. This is the Thomas Moore in Chicago. 
+13 
+14 Q I appreciate you being specific with that. Thank you, Mr. Northan. 
+What about the Amistad Project? What's your understanding of their tax status? 
+15 Are they a (c)(3)? 
+16 A You know, that starts to get into some of the legal work I did for them, but I 
+17 can tell you, as a practical matter, I did help Phill Kline and the Amistad Project file for a 
+18 501{c)(3) tax status. My understanding is that it's pending. 
+19 
+20 
+21 Q When did that --I assume that filing is public? 
+A Tax filings typically are not public. 
+Q Oh, not public. Okay. Well, I'll ask this, and let me know if you have any 
+22 objections. 
+23 A No, but the fact that they filed is public. Charities want that to be known, 
+24 because then, as soon as you file under the 501{c)(3) rules, under the IRS regs, you can 
+25 start raising money and giving charitable deductions for that even while it's pending.  1 But I can't remember the exact date that that was done. I would say late 2020, early 
+2 2021 maybe. But I don't remember the exact date. I'd have to check the filing. 
+3 
+4 Q 
+A The Election Integrity Fund, what's your understanding of their status? 
+That's a Michigan entity. I wasn't retained yet. I didn't file that 
+5 paperwork. But, if you look up on the Michigan Department of Corporations 17 
+6 website --it's called LARA, L-A-R-A --they were already in place when I was retained. So 
+7 they would have filed something sometime before --before, you know, May or June 
+8 of 2020. I just don't know when, and I'm not sure who did it. 
+9 Q You mentioned Phi II Kline being your primary client contact with respect to 
+10 Amistad. 
+11 How long have you known Phill Kline? 
+12 
+13 people. 
+14 
+15 A 
+Q 
+A I was introduced to him in 2020 by the --by Eddie and the Thomas Moore 
+No preexisting relationship with him? 
+Nope. I had never met him before. I met him in person for the first time 
+16 when he came to Michigan during the summer of 2020. He came to make some 
+17 announcements about the election integrity stuff he was working on. I met him in 
+18 person then, although I had been working with him by phone and email for a few weeks 
+19 or maybe a couple of months by that point. 
+20 Q Okay. And I'm going to ask you about a number of people just to see if you 
+21 had any interactions with them. And, when I ask you about that, it will primarily be the 
+22 post-election period, so November 3rd through January 20, 2021, but I'll just refer to it as 
+23 post election. If you need me to say those dates again, though, at any time, just let me 
+24 know. 
+25 So, in that period, did you talk to anybody associated with Mr. Giuliani --Rudy  1 Giuliani or his legal team? 
+2 A I never spoke with Mr. Giuliani, and I'm not sure who his legal team was. 
+3 So I think the answer to that is no. But --but I don't know --I don't know who you're 
+4 talking about. 
+Q 
+A Let me go through some of the names. So how about Sidney Powell? 
+I did receive a phone call from Sidney Powell in the post-election period. 5 
+6 
+7 
+8 Q Okay. Tell me about that phone call. 
+A She called me and asked me if I would be local counsel on a case that she 
+9 was preparing for the Federal court. I think she was going to file in the Eastern District 
+10 of Michigan. 18 
+11 It was a short phone call. I don't know how she got my number. You know, I've 
+12 got a public profile on my website, but she called my cell phone. And --and she --she 
+13 asked me if I would be local counsel. And, by then, I had already filed, you know, two or 
+14 three preelection cases. I had filed a couple of post-election cases, I think, by then, and 
+15 she asked me if I would be local counsel. 
+16 
+17 Q Okay. 
+A I asked what kind of case she was filing. She said a due process case. And 
+18 I asked her when she wanted to file it. She said, later that day. And I politely told her 
+19 no. 
+20 I don't remember if I gave her the names of other lawyers who might be 
+21 interested. I don't think I did at the time, because I don't know anybody in my Rolodex 
+22 that would take a case like that on such short notice. 
+23 
+24 
+25 Q 
+A Roughly when did that call occur? 
+It would have been sometime in November. It was certainly --
+Q Which year?  19 
+1 A November of 2020. I'm sorry. It was after the election, but before --I 
+2 think I got --I think I filed my main Michigan Supreme Court case around Thanksgiving. 
+3 Well, you know what? I don't know. It could have been after that. It could 
+4 have been December, but it was certainly in November or December of 2020. Like I 
+5 said, it was in the afternoon. It was the daytime, and she wanted to have something on 
+6 file by midnight, so on less than 12 hours' notice. I told her, No, thanks. 
+7 
+8 
+9 
+10 case? 
+11 Q 
+A 
+Q 
+A Did you ever talk to her again after that? 
+No. I never talked to her again, had no reason to. 
+You mentioned your main Michigan Supreme Court case. What was that 
+That case was Johnson --Angelic Johnson and Dr. Linda Lee Tarver v. 
+12 Secretary of State Benson, et al. I filed that in the Michigan Supreme Court. It was a 
+13 direct action, largely on Bush v. Gore due process grounds. But I filed that around 
+14 Thanksgiving. 
+15 
+16 Q 
+A All right. What about Jenna Ellis? Did you ever talk to Jenna Ellis? 
+No. I recognize the name. She was on TV quite a bit, but --but I never 
+17 spoke with her. 
+18 Q Do you know of any affiliation that she had with Amistad Project or the 
+19 Thomas Moore Society? 
+20 A Yeah. So I know she's never been affiliated with the Amistad Project. My 
+21 understanding is that she did some pro-life work for Thomas Moore several years before. 
+22 And, by pro-life work, I can't be more specific than that. You know, Thomas 
+23 Moore did lots of either pro-life or anti-abortion cases around the country. But I want 
+24 to say she had done something with them before she joined the Trump administration. 
+25 I don't know what role she had, but I think she joined the Trump administration, like, in  20 
+1 2016, 2017. And this would have been work with Thomas Moore before then. 
+2 And I think they were pretty proud of that. They viewed her as kind of 
+3 somebody who had arrived, and, hey, volunteer for us, and you're going places type 
+4 thing. But I never worked with her on any Thomas Moore projects. I know she 
+5 wasn't --I know she wasn't affiliated with them once she joined the administration. 
+6 Q When you say joined the administration, are you talking about the 
+7 campaign? 
+8 A I don't know exactly what --what she did, but I think around 2016, she either 
+9 joined the campaign --this is 2016 --or the administration in some formal capacity, and 
+10 then she stopped doing the work for the 501{c)(3). 
+11 Q Okay. 
+12 A They weren't --now, to their credit, Thomas Moore is careful about --about 
+13 affiliating with people once they're, you know --you know, so they had a guy, for 
+14 example, Peter Breen, who ran for office, I want to say like Chicago assemblyman. And, 
+15 as soon as he ran for office, he stopped doing work for Thomas Moore. 
+16 That was their policy or position that, if you were in a campaign or running a 
+17 candidate, you couldn't be --you couldn't have active files with them. And so I think he 
+18 lost, maybe won --I don't know --but --and I think he's rejoined them in some fashion. 
+19 But that was an example where he had took a hiatus from Thomas Moore because 
+20 of his politics. And I think Jenna Ellis was the same way. She had done a couple of 
+21 one-off projects. They were pretty proud of her. I think they even put her on their 
+22 website. But, once she was affiliated with the campaign, they couldn't do active 
+23 projects with her. 
+24 Q Okay. Yeah, because my understanding is that she was listed on the 
+25 website for the Thomas Moore Society as special counsel up through at least part of the  21 
+1 period that she was also doing work with the Trump campaign. But your understanding 
+2 is that she was not affiliated during that period, or taken a leave of absence? 
+3 A I certainly had no interaction with her. I don't know what their formal 
+4 status was. I wasn't giving Thomas Moore advice about that, but I know they were very 
+5 prickly or sensitive to those things with me. And so --you know, and so I think they took 
+6 that seriously. 
+7 But everyone on their board is a lawyer, so I think they were giving --you know, 
+8 they had their own outside counsel and their own legal advice, but --I know, as a practical 
+9 matter, just because they had somebody on their website as somebody they're proud of 
+10 or proud of the work they did, that doesn't mean that they were active or doing things in 
+11 real time. I think that would be misconstruing that. 
+12 Q Okay. And, without getting into any legal advice you may have given, do 
+13 you recall any concerns that were raised about her being on the website as special 
+14 counsel to Thomas Moore while also doing any work for the Trump administration or the 
+15 Trump campaign? 
+16 A I didn't give legal advice to Thomas Moore. My only legal advice was to 
+17 Phill Kline, and Phill Kline is a former --I think he was the former attorney general of 
+18 Kansas, so he shared some of those concerns. In other words, he was sensitive to that 
+19 as well. And so he was concerned that it might look bad if she was on the website along 
+20 with him or others as part of the Amistad Project. He didn't want to be unfairly or 
+21 falsely accused of trading on Trump's name when he was trying to do his project 
+22 separately. 
+23 Now, that's not me getting into legal advice, what I told him about it. 
+24 That's --you know, that's concerns he expressed, I believe, privately and publicly. 
+25 Q How about Cleta Mitchell? Do you know that name?  22 
+1 A I know the name. She was at a large firm called Foley & Lardner, which is a 
+2 white-shoe firm out of Chicago. She has a good reputation among The Federalist 
+3 Society or other conservative legal circles. But I've never met her. I've never done any 
+4 legal work with her. 
+5 
+6 
+7 Q 
+A 
+Q Did you ever have any conversations with her in that post-election period? 
+No. Never spoken with her, and I've never met her. 
+How about Katherine Friess, Friess? I don't know exactly how to say her 
+8 last name, but do you know that name? 
+9 A Yeah. That name --I didn't remember that name. That was one of the 
+10 names that Chip asked me about, and --I think, and I didn't recognize it. But I went back 
+11 through my emails, and there was an email in which she was copied on it. I think she 
+12 was somehow affiliated with the Trump campaign, and so I had a little bit of interaction 
+13 with a guy named Mark Foster, and she was on one of the emails with Mark Foster. 
+14 
+15 Q 
+A And can you tell us about that, having now looked over it? 
+Yeah. I've never --I've never met her. I've never spoken with her. But 
+16 she was copied on an email with Mark Foster. Mark Foster was somebody that I had run 
+17 into. He was --he was in --at the TCF Arena in Detroit on election day. And so, from 
+18 my Michigan Supreme Court case, he was a witness. He swore out an affidavit and --of 
+19 what he observed on election day and the day after in Detroit in Wayne County. 
+20 So that was my initial interaction with him. And I didn't have --I didn't know him 
+21 at the time. I didn't have direct interaction with him at the time, but one of the other 
+22 Amistad attorneys who was also in TCF Arena during election day, he --his --he had 
+23 introduced me to him and saying, Hey, you should follow up with him. He might --and I 
+24 believe he gave an affidavit to my case, and then he gave an affidavit to a similar case 
+25 that was filed in the Court of Claims in Michigan by another law firm.  23 
+1 Q Other than that one email, do you recall ever communicating or meeting 
+2 with Ms. Friess in the post-election period? 
+3 A I never --yeah, I never met with her. I never spoke with her. And I 
+4 don't --I don't remember any interaction with her except to see that, when I searched my 
+5 emails and saw Mark Foster --and there was one other name. One of the other names 
+6 that you had asked Chip about --my counsel, Chip Chamberlain, was Shawn Flynn, and so 
+7 I ran those searches for their names. That was when she showed up. 
+8 
+9 
+10 Q And we'll get to him in just a moment. 
+What about Boris Epshteyn? Do you know that name? 
+A I've heard the name, and I --but I don't know --I don't know what his official 
+11 role or title was. I think he was affiliated with the Trump campaign in some fashion, but 
+12 I don't know. And I've had no interaction with him, no emails, no calls. That one's not 
+13 ringing a bell. 
+14 
+15 Q 
+A Okay. Mike Roman? How about him? 
+Yeah. Mike Roman, I've heard that name. That was somebody that 
+16 Mark Foster said --said worked for the Trump campaign, and so I've heard the name, but 
+17 I've --I've never spoken with him on the telephone, never interacted with him. I don't 
+18 believe I've --boy, I don't think I've got any emails with Roman on it. I certainly don't 
+19 recall --recall any off the top of my head. 
+20 
+21 Q 
+A Did you understand what his role was with the campaign? 
+My understanding was that he hired Mark Foster to be in Michigan. So 
+22 Mark said, you know, he's the guy that hires --hired him in Michigan and would have 
+23 hired Shawn Flynn or the other Trump attorneys. 
+24 Q And you may have mentioned this, but what was your understanding of 
+25 Mark Foster's role at the campaign?  24 
+1 A Mark Foster, at least the way I understood it, was that he was hired by the 
+2 Trump campaign to be an observer at TCF Arena in Detroit on election day. And he was, 
+3 in fact, at TCF Arena on election day. But I don't know what his official capacity was. 
+4 He told me he was from California, and I think his background was more --I think 
+5 he had been like a trade ambassador or something to Japan. Like --he didn't strike me 
+6 as somebody who actually practiced law. 
+7 Q All right. You mentioned Shawn Flynn. Tell us who you knew 
+8 Shawn Flynn to be. 
+9 A I didn't remember the name at first. But, when I searched my emails, I saw 
+10 an email with Mark Foster and Shawn Flynn. Shawn Flynn is somebody I 
+11 met --somebody I met in person in December for the first time when I was up at the 
+12 capital in Lansing, the State capital, Lansing, Michigan. And he and Mark Foster were 
+13 there on behalf of the Trump campaign and, I believe, the State party, the State GOP, to 
+14 prepare an alternate slate of electors. 
+15 And so I met him in person in Lansing briefly after --after they did their work in 
+16 Lansing. Mark Foster was there. Shawn Flynn was there. 
+17 Q Was that on December 14th, the day that the electoral college met? 
+18 A That's right. 
+19 Q Was that the only time you've met with either of them? 
+20 A That's the only time I met with Shawn Flynn. He was a young guy, and I 
+21 had never seen him before. You know, I've only been back in Michigan since 2017, but, 
+22 you know, from my limited Rolodex here in Michigan, I had not seen or heard from him 
+23 before or since. He was new to me. And that was the only time I met with him or 
+24 spoke with him. 
+25 And then, like I said, there was a follow-up --follow-up email a few days later, but  25 
+1 that was --that was the only thing that I recall. 
+2 Now, Mark Foster, is a little different. I had met with him before. I had met 
+3 with him maybe --boy, I don't know --a couple of weeks earlier, maybe a month earlier, 
+4 to go over his affidavit for the Michigan Supreme Court case. And --and then I had 
+5 had --I had spoken with him on the telephone at least once, maybe twice before, 
+6 between doing the affidavit for the supreme court case I got filed around Thanksgiving, 
+7 and then that time I met with him in person in --in Lansing. 
+8 Q And, in your meetings or communications with him, did he relay any 
+9 requests from the Trump campaign? 
+10 A No, not that I recall. I mean, I didn't get the sense that he had access to 
+11 Trump or the campaign. I got the sense that he was --I mean, not to call Michigan 
+12 Siberia, but I got the sense that he was kind of a low man on the totem pole and had been 
+13 kind of delegated to --to kind of menial tasks. 
+14 
+15 Q 
+A How about Mike Brown? Do you know that name? 
+I mean, I'm not trying to be rude to the guy. I'm just saying, you know, he 
+16 didn't ask me for anything specific, and I didn't get the sense that, even if he did, he could 
+17 do anything about it. 
+18 Q What about Mike Brown? Do you know that name with respect to the 
+19 Trump campaign? 
+20 
+21 
+22 
+23 
+24 
+25 A No. Never heard of it. 
+Q All right. Jesse Law? 
+A I'm sorry. Could you say that again, please? 
+Q Sure. Jesse Law. Do you know that name? 
+A 
+Q No, I've never heard of it. 
+How about Jesse Binnall?  1 
+2 A 
+Q I'm sorry. Never heard of it. 
+Okay. And I'll spell that last name in case I'm mispronouncing it, but it's 
+3 B-i-n-n-a-1-1, I believe. 
+4 A No. Those names aren't familiar to me. Nobody I've run across as a 
+5 lawyer or --and certainly nobody I've had any interaction with after the post-election 
+6 period. 
+7 
+8 
+9 
+10 
+11 Q 
+A 
+Q 
+A 
+Q Christina Bobb? Are you familiar with that name? 
+Bobb, B-o-b-b? 
+That's correct. 
+No. 
+I'll represent to you that she was a former One America News anchor who 
+12 was also working with Mr. Giuliani on some legal-related efforts with the Trump 
+13 campaign in the post-election period. I don't know if that helps at all. 26 
+14 A No. I'm sorry. It doesn't ring a bell. I mean, I remember --I remember 
+15 giving some news interviews for One America News, but I don't remember the name 
+16 Christina Bobb. And I'd be embarrassed if she was, like, the host of the show that I was 
+17 on, but --but I don't remember that name. Sorry. 
+18 Q Okay. Do you remember anybody from One America News also being 
+19 associated with the Trump campaign so far as you interacted with One America News? 
+20 A No. No one held themselves out as being with the Trump campaign. 
+21 know, when I was working with Amistad, Amistad had a PR group that was helping 
+22 them --helping them do newspaper articles and op-eds and things like that. And so, 
+23 anytime I got a request to be on TV or in the newspaper or something, it was --it was 
+24 usually through those people. 
+25 So I didn't have a lot of interaction with the news people directly. It was usually  27 
+1 just like show up at this time. You're going to be on for 3 minutes, or you're going to be 
+2 on for a minute, and that was it. So I didn't really --no one from One America News 
+3 represented to me that they were affiliated with Trump. 
+4 Q What about Matt Morgan? I believe he was general counsel for the Trump 
+5 campaign. Did you ever interact with him or communicate with him in the post-election 
+6 period? 
+7 A No. That name doesn't ring a bell. I actually didn't know he was the 
+8 general counsel for the Trump campaign. The only Matt Morgan I know is an entirely 
+9 different Matt Morgan, which is he's at the law firm Morgan & Morgan, which is the 
+10 largest plaintiffs' firm in Florida. And you can actually hit star law, and they will call you 
+11 within seconds. 
+12 And so, as a defense lawyer in south Florida, I had some interactions with both 
+13 Matt Morgan and then the mom and the dad are both lawyers as well. So I've --but 
+14 that's the only Matt Morgan that I know, and he's about as far to the other side of the 
+15 political spectrum as Trump could possibly be. 
+16 
+17 
+18 
+19 Q 
+A 
+Q 
+A Different Matt Morgan indeed. How about Justin Clark? 
+I'm sorry. I don't know a Justin Clark. 
+Kenneth Chesebro or Chesebro, C-h-e-s-e-b-r-o? Do you know that name? 
+Yeah, that name didn't ring a bell, but that's somebody Chip had asked me 
+20 about earlier, and so I ran --I ran his name through my archives, my email archives. And 
+21 I found an email that he had forwarded to one of the lawyers in Pennsylvania that was 
+22 working with the Amistad Project, and then he, in turn, forwarded that to me. And it 
+23 included a memo, like an election memo about the --I forget what it was called, but it 
+24 was an attachment to the email, and it was basically on the Electoral Count Act. 
+25 Q Did you produce that to us? And forgive me if I missed it.  28 
+1 A I don't know. I'd have to check with my counsel here, if you give me a 
+2 second. You know, I don't think that I did. You know, I --like I said, it was an email 
+3 that he forwarded to one of the other attorneys on the Amistad Project, who forwarded it 
+4 to me. So I don't think that I produced that. 
+5 Q Based off of privilege? 
+6 Mr. Chamberlain. ., you can --you can proceed without me. I'm going to go 
+7 in my office to look at my notes. If we didn't produce it, there may have been --it may 
+8 have been inadvertent that we didn't produce it. 
+9 ~ Okay. I'm happy to wait, Mr. Chamberlain, until you can get back. 
+10 I defer to you. 
+11 
+12 Mr. Chamberlain. All right. 
+Mr. Northan. We've been going about an hour. Do you mind if we go off the 
+13 record just real briefly while we wait for him, I'll get some more coffee and then hop back 
+14 into it? 
+15 Yep. Why don't we do that. Let's go off the record. Maybe say 
+16 5 minutes or so. 
+17 [Recess.] 
+18 - Let's go back on the record. It's 10:58, and we're resuming the 
+19 interview of Mr. Ian Northan. 
+20 BY 
+21 Q We stopped at Mr. Chesebro. You mentioned one email, and we spoke off 
+22 the record with your counsel about that. 
+23 Do you remember any interactions, either in-person or otherwise, 
+24 communications via email, phone, text messages, with Mr. Chesebro? 
+25 A Yeah. So I never spoke with him, and I actually didn't recognize the name  1 when you and Casey had asked Chip about him ahead of time. I had to go looking for 
+2 him. And that's when I found the one email that he had sent or was forwarded to one 
+3 of our Pennsylvania lawyers who, in turn, sent it to me. 
+4 The attachment was a memo, but I don't remember actually having read the 
+5 memo. It was at a time when we had kind of formulated our strategy already, or what 
+6 we were doing in our lawsuit. So I don't remember having read it. And, having gone 
+7 back now and I looked at it briefly, nothing jumped off the page at me as being 
+8 interesting, at least not in real time back in 2020. 
+9 
+10 Q 
+A Okay. 
+I had never met the guy. I hadn't heard of the guy ahead of time. You 29 
+11 know, we were working pretty hard to try and find commentators, law reviews, lawsuits, 
+12 cases that had interpreted the Electoral Count Act, but we weren't really finding very 
+13 much. There was just a handful of things that we found. And I think that's how we 
+14 came across this Chesebro guy. I don't know how to say his name either, but --
+15 Q Okay. Was that sent to you or through anybody that we've talked about 
+16 this morning, the list of lawyers or list of individuals we've talked about? 
+17 A No. It wasn't sent from any of those Trump people you were talking about. 
+18 This was sent to me by one of the other Amistad lawyers. His name is Tom King. He's 
+19 a lawyer in Pennsylvania. 
+20 Tom King was doing what I was doing in Michigan, but he was doing it in 
+21 Pennsylvania. And so this was an email that he sent to me, to Ph ill Kline, and a few 
+22 others that were in that --all the Amistad lawyers that --if memory serves, although I 
+23 don't remember the off the top of my head if it was all of them. But it was at least he 
+24 sent it to me, because he knew I was doing something in Michigan. I had my case still 
+25 pending in Michigan at the time.  30 
+1 Q I may be thinking of somebody else, but my understanding is Mr. King is a 
+2 lawyer for the State GOP in Pennsylvania? Is that right? 
+3 A Yeah. So Tom --Tom King was one of the rarities in the Amistad in that he 
+4 also represented a party, but he did that through --he and his firm did that and had done 
+5 that for many years, and so the lawsuits he filed with Amistad were separate from that. 
+6 But, yeah, he represented both the official party in Pennsylvania and Amistad in 
+7 Pennsylvania. 
+8 And it's --I primarily worked with him, Tom King, and then another lawyer at his 
+9 firm named, Tom Breth, B-r-e-t-h. But those two Toms were kind of my counterparts in 
+10 Pennsylvania, or I should say --they usually went first, so I was their counterpart in 
+11 Michigan. 
+12 But I've traded notes with them on other things as well. I'm a Pennsylvania 
+13 lawyer, too, and so --and they had some school cases, some --and mask mandate cases 
+14 that they had filed. So I was trading notes with them also about those issues because 
+15 we had a --some similar cases going here in Michigan. 
+16 Q But Mr. King was not an employee of Amistad, right? He was outside --an 
+17 outside attorney who also represented Amistad, like you? 
+18 A That's correct. So he's an outside lawyer, outside firm representing 
+19 Amistad in Pennsylvania. I was outside lawyer representing Amistad in Michigan, and he 
+20 flipped me an email that --you know, with this memo attached to it. And I don't even 
+21 remember if there was any commentary with it, but he --you know, presumably because 
+22 he thought it might help me in my cases in Michigan. But, in hindsight, I don't even 
+23 remember having read the memo, so I don't know how helpful it was. 
+24 Q What about a person named James Troupis, I believe a former judge in 
+25 Wisconsin. Do you know who that is?  31 
+1 A I had never heard of the guy. But that was another person Casey had asked 
+2 Chip about, and so I searched for his name. It did not come up in my emails. I didn't 
+3 see anything from him --no phone calls, no emails. But I believe the memo from 
+4 Chesebro was to that guy you just mentioned in Wisconsin. 
+Q And I think we will look at that memo in just a bit. 5 
+6 
+7 
+8 What about John Eastman? Do you know who that is? 
+A 
+Q Yeah. I know --I know that name. He's a law professor out in California. 
+Did you ever have any communications, whether in person, email, text 
+9 message, phone calls, with him in the post-election period? 
+10 A Yeah, so I never met with him in person, but I remember him --I remember 
+11 having some interaction with him, and I'm trying to remember the context. I believe 
+12 he --I believe he spoke to a group of Michigan legislators that I represented, and I sat in 
+13 on the phone call. It was like a conference call type thing. 
+14 
+15 
+16 
+17 Q 
+A 
+Q 
+A When was that? 
+That would have been in the post-election period. 
+Okay. 
+I don't know exactly. Maybe --you know, maybe --I don't want to guess, 
+18 but I want to say early December. 
+19 Q All right. And was it --who was on the call? Obviously you, Mr. Eastman. 
+20 What about from the Michigan legislators? Who was there? 
+21 A Well, during my work for Amistad, you know, we represented Amistad. We 
+22 represented its grassroots organization, the Election Integrity Fund. And then we 
+23 represented individual members of the Election Integrity Fund when they filed lawsuits. 
+24 So, depending on standing rules --depending on standing rules, we represented 
+25 individuals.  32 
+1 And some of those individuals were also State reps, so I had some State reps who 
+2 were clients during that same timeframe, and they were either --they either came to me 
+3 because they saw what we were doing in Amistad and wanted to be a part of it, or they 
+4 were already members of Amistad or knew about them or affiliated, and then they --they 
+5 agreed to sign up and join the lawsuit. 
+6 So, off the top of my head, I don't remember who was on that call, but I 
+7 remember the State reps that I represented through Amistad were Daire Rendon, 
+8 R-e-n-d-o-n, out of Lake City. She was part of that group. Beth --Elizabeth, 
+9 Beth Griffin, G-r-i-f-f-i-n. She's from the Jackson area, a farmer. And Julie Alexander, 
+10 common spelling, A-1-e-x-a-n-d-e-r. 
+11 Those three were kind of the main ones that I interacted with for Amistad. And 
+12 they helped organize that call. In other words, they were people who wanted 
+13 their --they were people who wanted their colleagues in the House to do more, and so 
+14 they were asking for Amistad to speak to them, me to speak to them. I think that was 
+15 the impetus of the Eastman call, is they asked Eastman, from a constitutional law 
+16 standpoint, to speak to them. 
+17 And I'm sure they had other members of their caucus or other friends on the call, 
+18 but I don't remember --I don't remember who. 
+19 Q Was it Michigan specific? In other words, there was nobody from outside 
+20 or other legislatures? 
+21 A Yeah, I don't remember. I think there was a Michigan call, and there may 
+22 have been others. But that's --the only one I remember is the Michigan one off the top 
+23 of my head. 
+24 Q Were there any representatives from the Trump campaign there, or 
+25 Mr. Giuliani and his legal team?  33 
+1 A No, I don't believe he spoke. I don't believe Giuliani spoke. 
+2 remember --I remember a different call that wasn't organized through Amistad, just a 
+3 grassroots call, that --that I was asked to be a part of at one point early, like, you know, 
+4 like mid-November, before Thanksgiving. And there were some State reps there. 
+5 I don't know that those three State reps were there, but --but some State reps 
+6 were there, and Giuliani did like a conference call to them. But I don't remember the 
+7 specifics. That was --that wasn't something I was doing, like, in my legal capacity. 
+8 That was just something that I got invited to this grassroots meeting, and these 
+9 State reps were trying to figure out what they were going to do and what their role was. 
+10 And --and I think Giuliani called in for it, but I don't remember who got him on the phone 
+11 or how that came about. 
+12 Q Okay. And we'll get back to that one in just a second, but just to continue 
+13 on this call with Professor Eastman, you said you didn't remember Mr. Giuliani speaking. 
+14 Do you remember if he was on the call at all? 
+15 A No, I don't think so. I think I would have remembered that. 
+16 Q Okay. And you said that your --the colleague, or --excuse me --the House 
+17 Members that were on the call or the legislators who were on the call were interested in 
+18 having their colleagues do more. 
+19 What do you mean by that? 
+20 A Well, I believe, at the time, the House had gone out of session. In other 
+21 words, they had closed for the term, and many of them felt like there were too many 
+22 irregularities or statutory violations in which their laws, the laws that the house had 
+23 passed, were not being followed. 
+24 And so they wanted to go back into session at the State House --the people's 
+25 House, they kept calling it --and get them to do more, meaning, you know, start an  34 
+1 investigation, hold hearings, and start asking questions of people, not all together 
+2 dissimilar from what you're doing here, which is, you know, the U.S. Congress asking 
+3 questions of people after they have concerns. 
+4 That was what they were talking about. They were trying to get their colleagues 
+5 to go back into session. And, if memory serves --I'm not a parliamentarian, but, if 
+6 memory serves, they needed a majority of either a caucus or the body in order to go back 
+7 into session, because they were --the House leader was on vacation.  1 
+2 [11:10 a.m.] 
+3 BY 
+4 
+5 Q 
+A How did they or you learn about Mr. Eastman to set up this call? 
+I got a call from --I think I mentioned earlier, I am a graduate of Hillsdale 
+6 College, and so Hillsdale is also a client of mine. And so this was nothing that I was 
+7 doing in their --this wasn't anything they were doing in their official capacity, but they 
+8 have a lot of researchers and historians and people who are interested in politics. 35 
+9 And I think it was one of the professors had reached out to me and said I might be 
+10 interested in this. They knew about the case --or cases, I should say. And so that is 
+11 how it came about, somebody at Hillsdale reached out to me, said they are going to have 
+12 this little meeting. 
+13 I went to it. There were a handful of reps there, and then Giuliani called in. 
+14 This would've been in early November. So this would've been before Thanksgiving. 
+15 Q Just so we are not confusing calls here. I am talking about the Eastman call 
+16 in December. 
+17 
+18 A 
+Q 
+19 College? 
+20 A Okay. 
+That is how you learned about Mr. Eastman, from a professor at Hillsdale 
+Yeah, I'm sorry. So the answer to that is both/and. In other words, the 
+21 first call, that grassroots call that I sat in on, was set up by some Hillsdale people, and it is 
+22 the same people who introduced me or helped arrange the next call with Eastman. He's 
+23 a professor. Professors talk to each other all the time. I think he's --I don't want to 
+24 speak out of school, but I think --what's the name of the institute? There is some sort 
+25 of constitutional law institute in Southern California that some of the professors had -- 1 
+2 Q 
+A 
+3 believe. 
+4 Q 36 
+Claremont? 
+Yes. That's it, Claremont. And so they knew him from Claremont, I 
+Do you know who the professor was from Hillsdale, who set you up with 
+5 Mr. Eastman? 
+6 A Well, and that's it. I don't remember the order of it. There were more 
+7 than one. In other words, one --one of the professors was doing research, their general 
+8 counsel was doing stuff in his personal capacity, and the President of Hillsdale is a former 
+9 Claremont scholar. Now, he's a Winston Churchill scholar, and he's an expert in British 
+10 Parliament, not American Parliament, but I think that's where the name came from. 
+11 Q I may have the name incorrect, but is there somebody at Hillsdale named 
+12 Kennedy, last name Kennedy, that assisted with this? 
+13 A Boy, that name doesn't ring a bell. There might be some people there. 
+14 Now that you have mentioned it or it's occurred to me, the professor that was doing 
+15 some of the research was Spaulding, S-p-a-u-1 --S-p-a-u-1-d-i-n-g, Spalding like the 
+16 baseball. And the guy at Claremont is the President, Larry Arnn. 
+17 Q I'm sorry. I may have mistaken Mr. Kennedy --Brian Kennedy as a 
+18 Claremont person. Does that name ring a bell, though, Brian Kennedy? 
+19 
+20 A 
+Q It doesn't to me, it might to some of those professors, but it doesn't to me. 
+Okay. What do you remember Professor Eastman saying on that call? 
+21 What was the nature of it? 
+22 A I think it was pretty vanilla. In other words, he said, State legislators, and in 
+23 Michigan, we have a House and a Senate. So, you know, State legislators, it's their duty 
+24 under the Constitution to conduct and --conduct Federal elections, and they have 
+25 plenary power --that's p-1-e-n-a-r-y --plenary power in order to get it right.  37 
+1 And so anytime they think that something has gone wrong, it's their responsibility 
+2 or their duty to do something about it. I don't think it got more granular than that. 
+3 He's certainly not a Michigan lawyer, that memory serves. 
+4 I don't think he was talking about any specific Michigan statutes, but I think he 
+5 gave a general civics lesson that State Houses or State Senates have plenary power, it's 
+6 their duty to conduct elections, and if somebody's going to do something about it, it's 
+7 them. And I think that's perfectly agreeable. I think that's accurate. 
+8 Q Did the legislators who were on the call do anything after that? I mean, did 
+9 they come away with a plan to reach out to other legislators and look into this issue of 
+10 the legislature exercising its plenary power with respect to electors or otherwise? 
+11 A You know, I don't know what they did as a body, you know. I know --and I 
+12 am loathe to say, you know, what my individual clients did, those three that I mentioned, 
+13 but I do know as a practical matter that they joined a couple of the lawsuits. They 
+14 joined an amicus brief. 
+15 So those are some actions --or concrete actions that they took, but they also 
+16 understood that --that joining legal briefs, to them, wasn't going to be fruitful. To 
+17 them, this was something that unless the legislature acted as a whole, as a body, a court 
+18 didn't have any more authority to do anything about it. 
+19 It was, you know, again, getting back to kind of the coequal branches, this is the 
+20 branch --the legislature is the only one that can do anything about it. 
+21 So they talked about going back into session. They talked about having 
+22 committees and having hearings. They talked about putting some of the known bad 
+23 actors under oath. Those are all things that they talked about doing. 
+24 I'm not --I'm not sure, as we sit here, how successful they were. I know as a 
+25 practical matter, that they were locked out of the State Capitol for months --or at least  38 
+1 weeks, and --and had a difficult time getting done the things that they had kind of --not 
+2 made a list, but, you know, the thing that I just rattled off were things that they talked 
+3 about, but I don't know that any of those things actually got done. 
+4 But they knew that they had to act as a body if they wanted to do anything about 
+5 what they saw as irregularities or statutory violations. 
+6 Q So just from a timing perspective, there are already hearings that took 
+7 place --or a hearing, I suppose. I don't know if it's official legislative action or not --1 
+8 don't think it was --but that hearing took place on December 3rd, where Mr. Giuliani 
+9 came and testified before at least some part of the Michigan legislature. Are you 
+10 familiar with that? 
+11 A I did not attend that. I'm not really that familiar with it. It made the local 
+12 and national news, I think, but I --I know the --I'm not sure when this Eastman meeting 
+13 was, if it was just before that or just after that. But I got the sense that, for example, 
+14 having Giuliani talk about stuff was --was in my mind, not very relevant or effective 
+15 because he didn't have any personal knowledge of the statutory or legal violations that 
+16 happened in Michigan. 
+17 Now, I understand that he was an advocate for the Trump campaign, and certainly 
+18 if you are a candidate and you feel like you have been aggrieved or affected, you might 
+19 have a position to advocate for them, but you advocate in court. 
+20 To me, Congress or the legislature had a fact-finding mission, and he didn't have 
+21 any facts. 
+22 So the legislatures I spoke with said, they needed to get the people who were 
+23 there into chambers under oath, ask them questions, you know. And they were 
+24 frustrated, I think, because people like Secretary of State Benson, head of elections 
+25 Jonathan Brater, some of the people that were running the elections locally, none of  39 
+1 them appeared --or to the extent they did appear, they didn't actually answer questions, 
+2 and they certainly didn't answer questions under oath. 
+3 Q Well, at that point, I think both the House and Senate in Michigan were 
+4 having hearings, taking testimony. I believe there was a hearing in November. There 
+5 was a Senate hearing in December. 
+6 So I guess I'm trying to understand what the point of, I guess, this Eastman call is 
+7 in December, once the legislature is doing that and looking at some of the purported 
+8 issues related to the November election. 
+9 A Yeah. I --I can't speak to it, but I think what I can speak to is maybe a 
+10 difference in understanding in what those hearings actually were or what they weren't, 
+11 you know. 
+12 Having a hearing but not actually hearing evidence strikes me as being somewhat 
+13 superficial or empty, and I think these legislatures wanted to --you know, they were 
+14 hearing their constituents raise concerns about specific statutory violations in Michigan. 
+15 And nobody was asking the people, who are responsible for making sure that those were 
+16 done accurately, questions under oath about whether or not they followed the statutes 
+17 or followed the laws. Or in some cases, regulations. They weren't always statutes. 
+18 Sometimes they were just regulations or guidance. 
+19 And so that's what they were frustrated about, meaning, the legislatures. They 
+20 were frustrated that nobody was asking those hard questions. In other words, they 
+21 were letting people like Giuliani have a stage and pontificate, and they were letting 
+22 people on the other end of the political spectrum pontificate about how it was the fairest 
+23 and best election the country ever had or Michigan had ever had. 
+24 And these legislatures were kind of pissed off at both sides because they didn't 
+25 think that was true.  40 
+1 Michigan had just written into its Constitution a couple years ago an accuracy 
+2 requirement, giving everybody in Michigan a constitutional right to accuracy in elections 
+3 and transparency. And they were upset that it wasn't accurate and that it wasn't 
+4 transparent. 
+5 So that's from memory. That's what they were upset about, and, you know, 
+6 again, I'm not sure what the, you know, different caucuses were or who had what 
+7 investigatory authority. I didn't pay any attention to that. I listened to my clients who 
+8 said that they were upset for the reasons I just mentioned, and, you know, what can they 
+9 do about it. 
+10 And I said, well, if you get a majority of your colleagues, you've got plenary power 
+11 to do whatever you want in terms of holding hearings. If you didn't like the way 
+12 someone else held a hearing, then you conduct your own. 
+13 But you've got to do it --you've got to do it through the legislatures because the 
+14 courts or the executive branch are not going to give you satisfaction. 
+15 Q And so this Eastman call --I don't want to put words in your mouth, but the 
+16 Eastman call was a way to address some of the --or get ideas to address some of what 
+17 they thought were shortcomings with the earlier hearings that had taken place in 
+18 Michigan. Is that fair? 
+19 A No. I don't know that any specifics were discussed with Eastman. I think 
+20 it was just the general concept of whose job is it to run elections and whose job is it to fix 
+21 elections if you think something went wrong. 
+22 And about the closest analogy I can get, is, how many bad apples does it take to 
+23 spoil the bunch? If you think 10 percent of the vote's bad or 1 percent of the vote's bad 
+24 or .1 percent of the vote's bad, whose job is it to do anything about it? 
+25 I was telling my clients, the legislatures, that it's their job. Professor Eastman  41 
+1 said as much, but no specifics were discussed because he didn't know Michigan law, and 
+2 he didn't know what had happened in Michigan, as far as I can tell. 
+3 Q Were any of the people on that call who were also legislators on any 
+4 committees that dealt with election-related issues so far as you know? 
+5 A I don't know. I know that there was --I don't know which --you know, I'm 
+6 not sure who was handling the elections. And truth be told, my understanding was that 
+7 they were not in session and that the hearings and committee hearings that they were 
+8 doing were just kind of window dressing, that nobody was actually rolling up their sleeves 
+9 and doing something about it in terms of actually asking evidence --or asking questions 
+10 about what happened. 
+11 And so some of the materials that we provided to you, for example, were a list of 
+12 sample questions that you might ask somebody if they were responsible under a statute 
+13 or a regulation to conduct an election. And none of those questions got asked because 
+14 they were never back in session long enough to do it. 
+15 Q Did you watch those hearings that the Michigan legislature did either in the 
+16 House or Senate separately or together in a joint hearing? 
+17 A No, not really. I saw some reporting on them. I did not attend those in 
+18 person. And I relied on my clients, and I believe some of them were there for parts or all 
+19 of those hearings. 
+20 I was relying on their reporting to me about what happened, and it was their 
+21 frustration about what didn't happen that led me to say, look, then it's up to you to do 
+22 more, you know, to push it back onto them, that they would --they would have to do 
+23 more. 
+24 Q And do you remember at all if Mr. Giuliani --excuse me --Professor 
+25 Eastman --sorry for mixing these two calls up in my mind. Let me start over.  42 
+1 In the call with Professor Eastman, do you remember if he raised the idea or a 
+2 plan to have the Trump electors meet in Michigan on December 14th? 
+3 A No, I don't believe so. You know, that's certainly something that --that I 
+4 had contemplated, and it's certainly something that others had contemplated, but I don't 
+5 remember any mention of that in the call with the legislators. It was simply about 
+6 whose job is it to, you know, address fair elections in Michigan. 
+7 And his advice --it was, you know, a short call --his advice to them was, it's the 
+8 Michigan's legislature's job to do it, and you're part of that, so get to work. 
+9 
+10 Q 
+A Did you have any other communications with Professor Eastman? 
+I believe so. I believe I also sat in on a call with him later. I want to say 
+11 late December, maybe early January, I don't remember the exact date or the exact 
+12 details. But there was a much larger call with him on it in which not just the Michigan 
+13 legislatures but others were on the call as well --other legislators from other States. 
+14 Q Okay. And I think we are going to get to that. There was a call on January 
+15 2nd organized by Got Freedom, I believe. Is that what you're referring to, you think? 
+16 A Boy, that might be it. I don't know --I don't know who organized that call, 
+17 if memory serves, but, yeah, that sounds right. That timeline sounds right. 
+18 Q Okay. And do you have any records that would help, like a calendar entry 
+19 or otherwise, that would help date the call that you had with Professor Eastman and 
+20 those Michigan legislators? 
+21 A You know, I don't think so. I mean, I've got --you know, I'm trying to think. 
+22 You know, it's certainly --you know, I might have time entries from that time frame. 
+23 You know, this was work I was doing for clients, and so I would have time entries. 
+24 I don't remember off the top of my head whether or not, you know, I said 
+25 conference call with Professor Eastman or anything like that, but --I didn't know him to  43 
+1 be important at the time, right? You know, he's certainly much more notorious now 
+2 than he was then. But I would have time entries that are dated, kind of timestamped. 
+3 But at the same time, during that timeframe, those were some of my busiest 
+4 months ever, professionally, and so I did not --you know, in some cases, you bill your 
+5 time in 6-minute increments, you know, .1 hour at a time. Others you bill in 15-minute 
+6 increments, and others you would do kind of block-billing for the client in the timeframe. 
+7 So I may have one entry for the day, and it would be, you know, 3 hours, and it 
+8 would be all the different things I did for them on the day. This is just an example. But 
+9 that call wouldn't have been necessarily 3 hours. It might've been, you know, 15 
+10 minutes, so --
+11 
+12 Q 
+A Okay. 
+--I could check. 
+13 Q Yeah. If you don't mind, that'd be great, and I can follow-up with 
+14 Mr. Chamberlain on that. That would be helpful for us. 
+15 Other than those two calls that you just mentioned, the one in maybe early 
+16 January and the one you described with the Michigan legislators, any other 
+17 communications with Professor Eastman, email, text, phone calls, or otherwise? 
+18 A I certainly had no texts with him. I had no --I don't remember having any 
+19 direct calls with him. I'm trying to remember if I would've been forwarded any emails 
+20 from him. It's possible, but I don't remember any. 
+21 That's another name that I searched to see, but I had nothing kind of that I 
+22 remember to or from Mr. Eastman --or Professor Eastman. 
+23 Q How about the White House, did you have any communications with 
+24 anybody who worked in the White House, including President Trump in the post election 
+25 period?  1 
+2 A 
+Q No. 
+All right. I will stop there just to see--, senior investigative 
+3 counsel, has joined us as well --see if he has any questions. 
+4 I don't think he does. 
+All right. So my understanding --44 
+5 
+6 - Sorry,.. I'm sorry. There's no questions. I apologize. There 
+7 was something up on my screen and I couldn't find the mute button. 
+8 
+9 
+10 Q Quite all right. Thank you. 
+BY 
+I understand you got involved in post election litigation almost immediately 
+11 after the election occurred --or I believe on November 4th, you were part of the team 
+12 that filed Stoddard vs. City of Detroit. Is that right? 
+13 A That is correct. I had already been involved in preelection lawsuits. We 
+14 had filed several before the election, and so the very things that my clients were 
+15 complaining of before the election seemingly came to pass during the election. And so 
+16 we filed the Stoddard case to try and stop the --the fraud or --or for lack of a better 
+17 word, the illegalities from being sealed in. 
+18 We wanted to preserve the records and protect the chain of custody before they 
+19 went from the City of Detroit to Wayne County Canvassing Board. So in Michigan, each 
+20 election is done at the precinct level, and then in some instances, they're done at the 
+21 Absent Voting Counting Board level. 
+22 And then after that's done at the local level, it's sealed up, and they have some 
+23 chain of custody rules, and then that's transmitted to the counties. 
+24 And then eventually it goes from the counties to the State Board of Canvassers, 
+25 and then there's some statutes that address it from there. So we were trying to stop  45 
+1 the Detroit --the Detroit AV Counting Board, the Absent Voter Counting Board from 
+2 Detroit from sending their certifications to Wayne County until we could get the statutory 
+3 violations addressed. 
+4 Those were the --there were some additional statutory violations that we found 
+5 during the election, but it was primarily the ones that we had identified before the 
+6 election that we did not get an injunction on to try and stop ahead of time. 
+7 And the judge allowed those to go forward, and those same illegalities continued 
+8 during the election on election day. And I filed that case with Eddie Brime, the same guy 
+9 who introduced me to Amistad some 6 or 8 months earlier. 
+10 Q Okay. And in broad strokes, my understanding of that case, it had to deal 
+11 with poll workers not necessarily being able to observe the counting at the TCF Center, as 
+12 well as purported issues with duplication of ballots. Is that right? 
+13 A No. I think that might be a mischaracterization of the case. That case was 
+14 primarily designed to protect the chain of custody and stop the illegalities. Now --and 
+15 by illegalities, I mean, there are statutory requirements. For example, whenever a ballot 
+16 is changed, you're supposed to have a signature from a Democrat and a Republican that 
+17 goes in the official poll book, and then that official poll book is then sealed and then sent 
+18 to the county at the end. 
+19 We had instances in which there was not the two-signature requirement, and so 
+20 we wanted that evidence to be preserved and those statutory violations sorted out 
+21 before that was transmitted to the county. 
+22 Because once you get to the county, there's an agreement that at that point it's a 
+23 ministerial function rather than a factual function. So we wanted the facts resolved 
+24 before they became a ministerial function, just a rubber-stamp. 
+25 So that was one of the violations. There were others. One of them involved,  46 
+1 you know, observation. There was also a statute that required that anytime a ballot was 
+2 changed in Michigan, that there be two or more observers --at least two --one from each 
+3 major political party, I think, is the way the statute reads. 
+4 And there were --of the 200 --or excuse me --of the 130-some Absent Voting 
+5 Counting Boards, there were not that many observers, and so ballots were being changed 
+6 and votes were being changed without following the statute. 
+7 So we asked for injunctive relief to lock that down, secure the pollbooks, and 
+8 make sure that the --that they have safety measures. They have countermeasures in 
+9 place. But we weren't confident that they were being followed because the actual 
+10 statutes weren't being followed. And that was our experience. 
+11 So that was the thrust of it. There were other things too, but that was the main 
+12 thing, is, we wanted to stop --we wanted to give the factual process a chance to work, 
+13 and those safety measures that are in place, a chance to work before whatever mistakes 
+14 or errors were made were sealed in. 
+15 Q The absentee ballot counting issues, that was related to TCF Center, correct, 
+16 or is that taking place somewhere else? 
+17 A No. TCF, it's Cobo --the old Cobo Hall, the old hockey arena in Detroit. 
+18 Instead of an Absent Voter Counting Board, which is a statutory thing, instead of that 
+19 being done at the precinct level, before COVID --so before COVID that was done at the 
+20 precinct level. That was consolidated for the first time in 2020 and put in TCF Arena. 
+21 So all 134 Absent Voting Counting Boards for Wayne County were placed in one 
+22 spot. So it struck us as odd that if you are trying to social distance because of COVID 
+23 that you would actually put everybody in one spot and then not follow the statutory 
+24 guidance about how to handle the ballots once things got there. 
+25 But that was for the entire county, I believe, and not just for --not just for the City  47 
+1 of Detroit. So we named the county as well. Janet, [inaudible] I think, was the county 
+2 regulator who was responsible for that, so we named her as well and tried to make sure 
+3 that the statute was followed for the rest of the time. 
+4 Q Judge Kennedy denied the preliminary injunction, right, just a couple days 
+5 later on November 6th if my dates are right. Does that sound right to you? 
+6 A He did deny the injunction hearing. That sounds too soon, but I 
+7 don't --that might be right. You know, he denied it as moot because in the 3 or 4 days, 
+8 the intervening days, the city of Detroit packaged everything up and transmitted it to the 
+9 county, the very thing that we asked them not to do. We believe they --it was a 
+10 spoliation issue, they spoiled the evidence which then made our injunction moot. 
+11 Q So I hear you saying moot. My understanding of reading Judge Kennedy's 
+12 opinion though --I mean, this is a quote from it --that at least one election inspector 
+13 from each major political party must be present at the absent voter counting place, not at 
+14 each table, and that there were no affidavits to establish, from the plaintiff's side, that 
+15 that was actually what happened, while there was an affidavit from the other side. It 
+16 seemed like that was not a mootness. Are you suggesting that those are the same? 
+17 A No. I don't want to get into a legal debate with you. I don't have the 
+18 opinion in front of me. He disagreed with our conclusions. We certainly had --we 
+19 certainly were in the process of preparing affidavits that showed that very issue. He 
+20 disagreed with us over the interpretation of what the statute required, which was, the 
+21 statute said you had to have one person from each major political party at each Absent 
+22 Voting Counting Board. Detroit --
+23 Q So did you appeal? 
+24 
+25 A 
+Q I'm sorry. I don't want to speak over you. 
+No, no.  48 
+1 A Detroit at the time did not have a single Absent Voting Counting Board. It 
+2 had 134 Absent Voting Counting Boards. His rationale was because there was a single 
+3 Republican somewhere at TCF Arena, that met the statutory requirement for all 134 
+4 Absent Voting Counting Boards. 
+5 Now, I obviously disagreed with that. I believed that each one under the statute 
+6 required at least two or more observers by statute. He denied the injunction and 
+7 disagreed. 
+8 I'm saying that after he denied that injunction, the issue for us was moot because 
+9 the votes themselves and the chain of custody and the evidence had already been 
+10 transmitted to the county. 
+11 In other words, Detroit no longer had any of the stuff. Wayne County now had 
+12 all of the stuff. So our focus immediately was moot as to the City of Detroit, and our 
+13 focus turned then to the county to try and address the concerns, to the extent we could, 
+14 there. 
+15 Q Okay. No, I appreciate that distinction. Obviously, I don't want to get into 
+16 an agreement with you about any of this. The opinion speaks for itself, but that's 
+17 helpful to understand, you know, what you meant by mootness there. 
+18 Did you end up appealing Judge Kennedy's order, or did you not because of what 
+19 you just said, the issue became moot? 
+20 A Yeah. So we went into court on a very narrow or very limited purpose. It 
+21 was really designed to protect the process and the integrity of that. When we lost that 
+22 issue --my client was a nonprofit. They funded this litigation through fundraising. It 
+23 seemed like a poor use of resources at that point once the evidentiary issue was lost. So 
+24 we did not appeal that. 
+25 We would've appealed that, if at all, to the Court of Appeals, and instead we took  49 
+1 those arguments that we made before the election, the arguments we made in that 
+2 lawsuit against the city of Detroit, and put those all together in the Michigan Supreme 
+3 Court case, which is what we filed around Thanksgiving. 
+4 So we made all of those arguments and then a few more, including a Federal due 
+5 process argument, directly to the Michigan Supreme Court, because in Michigan, they 
+6 had a statute, a procedural statute, that allowed us to file a direct action. 
+7 So rather than twist and turn through the Court of Appeals, we went directly to 
+8 the Michigan Supreme Court with a separate filing. 
+9 
+10 
+11 Q 
+A 
+Q And that was the Johnson versus Benson case? 
+Correct. 
+There was also a Johnson versus Benson case, I believe, in the Western 
+12 District of Michigan Federal court that was voluntarily dismissed on November 18th. Is 
+13 that right? 
+14 
+15 A 
+Q That is correct. 
+Okay. And then you filed --after that voluntary dismissal, you filed the 
+16 case in the Michigan Supreme Court, Johnson versus Benson? 
+17 A That's correct. So when we filed the Michigan --the City of Detroit case 
+18 right after the election --that was a State court action --we felt that there were some 
+19 strong constitutional --U.S. constitutional arguments, the Bush v. Gore argument or equal 
+20 protection. That was the Johnson case that we filed in the Western District. 
+21 Around the same time that we filed that case, several other groups filed similar 
+22 lawsuits in the Western District of Michigan. And at that point, again, being 
+23 a --representing a nonprofit with limited resources, we decided to voluntarily dismiss. 
+24 We didn't want to duplicate efforts. 
+25 We felt like if those three or four other cases couldn't make the argument, then  50 
+1 there was no reason for us to try to do it. And at the same time, we also reevaluated 
+2 our strategy and felt like our best chance, if at all, was going to be in the Michigan 
+3 Supreme Court because the arguments we were making needed --needed to kind 
+4 of --what is the word I'm looking for --needed to pull not just the constitutional 
+5 argument at the Federal level but needed to address the evidentiary issue and needed to 
+6 address the State's plenary power to do anything about the election. So that really had 
+7 to be done in the State court. 
+8 Otherwise, in Federal court as you may know, if you touch on concerns of State 
+9 law, it's a very common thing for the Federal judge to engage in some abstention, like 
+10 Pullman abstention or other things, and then defer to the Michigan Supreme Court 
+11 anyway. 
+12 I had just been through that issue on the --on the OSHA mandates from the year 
+13 before. So I didn't want --we actually drew the same judge, and so I didn't want that 
+14 judge to defer to the Supreme Court and slow down the process, so we went to the 
+15 Supreme Court directly. 
+16 Q Did you coordinate with the Trump campaign at all, either what was left over 
+17 of the campaign, recognizing that this is now in the post election period, or the legal folks 
+18 associated with the campaign, on any of those cases that we've just discussed? 
+19 A No. But I have a suspicion that after we filed our case, I think --you know, 
+20 we filed a pretty good lawsuit in my mind, and I have a sneaking suspicion that large 
+21 portions of it were co-opted or cut and pasted into --into subsequent filings. But I had 
+22 no coordination and no cooperation with the Trump campaign on any of their filings or 
+23 frankly any of my filings. 
+24 Q My understanding --and I think you mentioned this, Mr. Northan, that part 
+25 of the relief requested was to delay, or at least immediately prevent certification in  51 
+1 Michigan until some of the issues that you raised could be addressed. Is that right? 
+2 A Not exactly. I wanted the City of Detroit to protect the chain of custody 
+3 before the county was going to certify, but the county at that point actually had several 
+4 weeks to do that. So I didn't view that delay as being a permanent delay. I viewed it 
+5 as a very short-term or temporary delay. 
+6 Q Did you have any outreach to State officials, whether at the local, county, or 
+7 State level, about the certification of the vote in Michigan? 
+8 A I mean, I will say the answer is, kind of. Let me be clearer though. So 
+9 when I filed the City of Detroit case and we named the county, I could not reach out to 
+10 any of those officials, because they were opposing parties in a lawsuit. So I had no 
+11 interaction with anybody there. 
+12 For the Michigan Supreme Court case, we did have county and local officials from 
+13 throughout the State sign affidavits for us in support of the Michigan Supreme Court case. 
+14 But I did not have any contact either directly or indirectly with any opposing officials. 
+15 So I was careful not to do that because even --even in December and November 
+16 of 2020, the attorney general of Michigan was very publicly saying that anybody who filed 
+17 a lawsuit against the election was going to be grieved or was going to risk losing their 
+18 license. So I was very careful to toe the line there and made great pains not to do 
+19 anything untoward. 
+20 Later in the process, we did send a letter to the State Board of Canvassers. 
+21 think I mentioned earlier, but after precincts and city certified votes, then the county 
+22 would do that, depending on the county. 
+23 And then at some point the State Board of Canvassers was to do that. I did send 
+24 a letter to the State Board of Canvassers on behalf of my clients, Angelic Johnson and 
+25 Dr. Tarver, with the evidence we had gathered so far, and asked them to consider that  52 
+1 evidence before they certified their vote. 
+2 That was part of the open-comment period that the State Board of Canvassers has 
+3 at every election. So I did have communication, there's a letter --I think we produced 
+4 it --you know, a couple of pages long of the statutory violations we saw and the affidavits 
+5 and evidence in support of that, and we asked them to consider that before they made 
+6 their decision. 
+7 Q Did you ever reach out to Monica Palmer or William Hartmann before the 
+8 Wayne County certification on or about November 18th? 
+9 A No. Those were two of the Wayne County Canvassing Board members. 
+10 didn't have any contact with them beforehand. But those are both people who 
+11 prepared affidavits for us after they certified. 
+12 And after they certified, we took their affidavits and included that with our 
+13 Michigan Supreme Court case. 
+14 Q What about Aaron Van Langevelde, part of the State Certification Board 
+15 which certified on or about November 23rd, did you ever talk to him? 
+16 
+17 A 
+Q I'm sorry. Could you say that name again? 
+Sure. Aaron Van Langevelde. He's one of, I believe, two GOP members of 
+18 the State Certification Board. 
+19 A Yeah, I never had any communications with him that I remember. I know 
+20 that he would've received my letter because I sent it to the entire State Canvassing Board. 
+21 So if he was on the Canvassing Board, they had a special email and a comment email that 
+22 you could send it to, to ensure that the entire Canvassing Board got it. So he would've 
+23 received my letter, but I had no direct communications with him. 
+24 Q So I understand that you may have been involved early on in circulating this 
+25 idea that we've already hit upon, that the State legislature could have a role in the  53 
+1 election and the plenary authority to do a number of things, including appoint their own 
+2 slate of electors. Is that right? We understand that this came up as early as the week 
+3 of the election. 
+4 
+5 A 
+Q I'm sorry. Could you say that again, please. 
+Yeah. And I see---, you just turned your camera on. Let me ask this 
+6 question, and then I will turn it over to you. 
+7 We understand that this idea, of the Michigan legislature appointing its own set of 
+8 electors in the post election period, came up very early and that you were involved in 
+9 that, in raising this idea, circulating this notion. Is that accurate, were you active raising 
+10 this issue? 
+11 A Well, I don't --I don't know if that --I don't remember when I came to the 
+12 conclusion that if the election was in dispute that an alternate slate would be needed. 
+13 don't remember when. 
+14 But I certainly know in coming across my research that that was something that I 
+15 had seen historically, and it's something that I probably --but early? No, I think it 
+16 was --I don't know --I don't know what you mean by early. 
+17 Was it after the election? I think it was after the election, not before the 
+18 election. Although I may have come across some of the research beforehand. 
+19 And did I come to that conclusion? Yeah, I think that is the proper way to do it in 
+20 Michigan, is to have an alternate slate if the election is in dispute. I think that's the only 
+21 way you can do it and allow that process to run its course. 
+22 But I don't --I didn't like the way you characterized that to say that this was, like, 
+23 my idea or to say that I came to it early. I was representing clients, including legislators, 
+24 and I did not represent any electors. 
+25 Q Okay. Fair enough. And I appreciate you offering that perspective on it.  54 
+1 Didn't mean to characterize it one way or another, and it may have been an inartful 
+2 question. 
+~ But 
+BY-: , I'll turn it over to you. 3 
+4 
+5 Q Yeah. If you don't mind, I want to jump in on that, your last answer, 
+6 Mr. Northan, then maybe go back to some of the stuff you mentioned regarding the 
+7 other litigation. 
+8 On this issue of discussing alternate electors, we have heard from witnesses that 
+9 you were in, literally, the days after the election, so within 1 or 2 days after the election, 
+10 talking about the concept of a legislature appointing alternate electors. Does that not 
+11 sound --does that sound inaccurate to you? 
+12 A Well, I'd be --you know, I'm trying to remember. You know, I'd be curious 
+13 to who remembered that, but I don't think it's inaccurate to say that I think the legislature 
+14 is the group that should have appointed an alternate slate. 
+15 I think they're the ones with plenary power, that if they think the original slate is 
+16 somehow sullied or invalid, that only the legislature, acting as a body, was the group that 
+17 could do something about it. 
+18 But they never --it never came to that because they never got back into session. 
+19 They never passed any resolutions, you know. And so I don't disagree with that, I think 
+20 that's accurate. 
+21 But, you know, for example, if we go back to that timeframe, Angelic Johnson and 
+22 Linda Marie --or Linda Lee Tarver, they were up in Lansing, talking to legislatures, asking 
+23 me to talk to legislatures, and they --I helped them put together, like, a --like, a petition, 
+24 like, you know, in other words, in the same breath as their lawsuit in the Michigan 
+25 Supreme Court, they put together a petition for the legislatures. I helped them deliver  55 
+1 that to the capital. 
+2 Now, I don't remember the exact date we produced that, and it has a date that 
+3 the Senate leader, Mike Shirkey's office signed a hand-delivered copy that we dropped 
+4 off. And it talked about the legislature doing stuff like that --get back into session, 
+5 investigate this, make sure my vote counts. 
+6 They even harken back --I mean, both of my clients for that case were African 
+7 American, and they harkened back to Martin Luther King Jr., saying, give me the vote, or, 
+8 give me the ballot. 
+9 And they were concerned that the ballots were being tampered with or destroyed, 
+10 the laws weren't being followed. So, yes, I was involved that entire time, months 
+11 leading up to the election and right after the election on behalf of these clients. 
+12 And I think it's accurate to say that an alternate slate of electors was one of the 
+13 remedies, because I didn't think, at some point, courts could do much unless you had a 
+14 legislature acting in a majority of both Houses doing something about what they 
+15 perceived their own laws not being followed. 
+16 So I'm with you on that, I agree with that, I think that's fair. 
+17 Q So just to make sure I'm understanding you correctly, would you say that 
+18 within, say, 48 hours of the election, you personally were of the view that the legislatures 
+19 should appoint alternate electors that would make the --different than the winner of the 
+20 popular vote? 
+21 
+22 
+23 
+24 Mr. Chamberlain. Come on, that --
+Mr. Northan. No, that's not what I said, and you're trying to --
+BY-: 
+Q Well, let me ask you that --let me ask you that in that way. Did you 
+25 believe, within 48 hours of the election, that it was appropriate for the legislature for the  56 
+1 State of Michigan to appoint alternate electors? 
+No. 
+When did you come to the belief that that was appropriate? 2 
+3 
+4 A 
+Q 
+A I don't know exactly, but it's only appropriate when the election is in dispute. 
+5 And certainly within 48 hours of the election, I was still gathering evidence of what 
+6 happened during the election. 
+7 I'm not even sure by 48 hours' time, that we had a full understanding of what 
+8 transpired at the alternate counting boards --or the Absentee Voting Counting Boards. 
+9 So we were in the process of preparing the City of Detroit, Wayne County lawsuit 
+10 48 hours after the election. 
+11 Now, do I think, in the abstract, that if the election is in dispute, what do you do 
+12 about it? You have to have an alternate slate, but that's --even that's only a temporary 
+13 solution. 
+14 Ultimately, the State legislatures pick who represents them for the U.S. President. 
+15 That's been the case since the beginning of our country's history. So they have 
+16 delegated that function to the executive branch and the head of elections. There are 
+17 statutes that they've delegated it to and that they follow. 
+18 When those statutes aren't followed, who decides? It's a complicated question, 
+19 but in the response of it, within 48 hours had I reached that conclusion? No, I don't 
+20 think that's the case. I think it was much later. 
+21 I thought that the dispute could be resolved. I thought these were, you know, 
+22 things that could be resolved quickly and efficiently if you went through the proper 
+23 channels. 
+24 Q Got it. And that's really what I was getting at, is sort of the timing of when 
+25 you came to that view and whether you had come to a conclusion regarding the election  57 
+1 and concerns about it within a short period chime and that --and I picked 48 hours as a 
+2 timeframe, but I think you've answered my question that you did not have those 
+3 concerns at that --within that period of time. You were still looking into issues. Is that 
+4 fair? 
+5 A Well, I think within 48 hours, I knew statutes weren't being followed. 
+6 knew that before the election, right? Statutes weren't being followed, but I didn't know 
+7 how bad it was, you know --you know, and that's something we may never know. 
+8 But the point is, is that in order for an alternate slate to be a viable theory, the 
+9 election has to be in dispute. And I think that only becomes relevant much later in the 
+10 timeline, you know, well into November, well into December, that because the disputes 
+11 were not resolved at that time, you know, then that becomes a potential issue. 
+12 But, you know, there's really no plan there. There's --you know, there's efforts 
+13 that have been made over the years to try and create uniformity and try to create, so you 
+14 do not have disputes. 
+15 One of those is the Federal Electoral Count Act, but even that only creates, you 
+16 know, some safe harbors and some deadlines. It's not a panacea. It's just one more 
+17 layer or one more statute on top of, you know, this dilemma, which is, what do you do 
+18 when your laws aren't being followed? 
+19 And in my mind, the only thing you can do, is, the legislature has to get back to 
+20 work and figure it out. 
+21 Q Understood. If I can go back to --just before-moves on to other issues, 
+22 I had a couple questions following up on the other litigation that you were just talking 
+23 about. 
+24 You talked about portions of certain of your filings being cut and pasted, maybe by 
+25 the Trump campaign, or borrowed by the Trump campaign. What, in particular, did you  58 
+1 have in mind on that? 
+2 A So I'm guessing here, but there was a lawyer --there was a lawyer out of 
+3 Missouri, who had been affiliated with Thomas More and the Amistad folks. His name 
+4 was Thor, T-h-o-r, like the Norse god. I forget his last name. 
+5 And Thor broke off from Amistad. So before the election --you know, before the 
+6 election, Amistad was following two major issues --statutory violations and what they 
+7 viewed as improper funding of local officials in violation of HAVA, H-A-V-A, the Help 
+8 Americans Vote Act. Those were the two main things that Amistad was following before 
+9 the election. 
+10 Now, I can talk about each one, each one was distinct, but those were the lawsuits 
+11 I was filing before the election. Thor was working on that somewhere out West. Once 
+12 the election came, he hopped ship, and I believe he started working directly for the 
+13 Trump campaign. 
+14 Now, I didn't have any contact with this guy, this St. Louis, Missouri lawyer, but he 
+15 filed the Western District of Michigan case on behalf of the Trump campaign a few days 
+16 after I did. 
+17 And I have a sneaking suspicion, since it was, like, the same due process argument 
+18 with the same, like, you know, headings and --you know, it was almost identical --that he 
+19 lifted it, he cut and pasted. 
+20 Now, he had a different standing. He was representing an actual candidate, 
+21 which I didn't have. I was representing a grassroots group. So my biggest concern for 
+22 a due process case was standing. 
+23 So as soon as I saw that a candidate hopped into the mix, I said, let them carry 
+24 their own water. They have their own money, they were well funded. I'm 
+25 representing individual --this little small mom-and-pop grassroots group in Michigan.  1 So we pulled out and then focused on our due process case which I thought was 
+2 better which was on behalf of the Black voters who felt their votes were watered down 
+3 by unlawful votes. 
+4 
+5 Q 
+A Got it. 
+So that's me guessing, that's me surmising, but I didn't fall off of a turnip 
+6 truck. I mean, you know, there were three or four other lawsuits that were similar. 
+7 Look, I did similar things. I went back to 2016 cases from the Hillary Clinton 
+8 campaign, and I looked at their arguments. You know, that's part of doing legal 
+9 research. But the timing was so close and the verbiage was so similar that I thought 
+10 maybe they lifted some of it. 
+11 
+12 Q 
+A Well, imitation is the sincerest form of flattery, right? 
+Well, I guess. I don't know. He didn't win his case either, so 
+13 maybe --maybe we're both suckers, right, so. 
+14 Q I was sort of more interested if you were referring to --I mean, that's 
+15 interesting as well, but I was sort of thinking you might be referring to factual 
+16 evidence --affidavits and so forth. Do you know if those were borrowed in other 
+17 pleadings, affidavits that you gathered, witnesses you talked to whose affidavits were 
+18 then tacked on to other folks' pleadings? 
+19 A Sure. So I don't know the exact details of all of that. So I was gathering 
+20 affidavits for the Detroit case and the Michigan Supreme Court case. I was doing that 
+21 manually, you know, and I was using some staff to do some of it. But I also had my 
+22 cocounsel on that case. 
+23 Now, the cocounsel I had on the Michigan Supreme Court case, now, these 
+24 lawyers did not help me with the preelection lawsuits but helped me with the post 
+25 election lawsuit. I was simply too busy to do all of the work myself. 59  1 So I called into my Rolodex, two people that I knew that were trustworthy and 
+2 reliable, and they helped me file that case. So between the three of us --
+3 
+4 Mr. Chamberlain. Which case? 
+Mr. Northan. Oh, I'm sorry. The Michigan Supreme Court case, the Johnson 
+5 versus Benson case. 60 
+6 So those attorneys were Erin Mersino. Now, she also, in addition to helping me 
+7 as cocounsel on the Amistad case, she works for a nonprofit called the Great Lakes Justice 
+8 Center. 
+9 The Great Lakes Justice Center had also filed some preelection lawsuits and some 
+10 post election lawsuits. The one that immediately comes to mind is the Konstantine --or 
+11 Konstantinov case. 
+12 They took a route similar in that they filed a case against Detroit, but then they 
+13 also filed, if memory serves, one to the Court of Claims. So Michigan has a special 
+14 docket whenever you sue government officials. So you can sue them in circuit court, or 
+15 you can sue them in the Court of Claims. They filed a Court of Claims case. 
+16 She was working on both of those, and so some of those affidavits overlap, and so 
+17 we used some of those affidavits in both cases. 
+18 Now, in addition to that, my understanding is that Rudy Giuliani, at some point, 
+19 flew into Michigan and, you know, drove up to the Capitol and gave all this testimony. 
+20 Where he got those affidavits, I do not know. He did not get them from me. 
+21 But in talking with my clients or friends in the legislature, some of the things he submitted 
+22 were some of the things that we filed in those cases. 
+23 And he trotted out some of these witnesses and took them up to the Capitol with 
+24 him. Now, I did not coordinate that. I did not have any interaction with that. 
+25 But to me, it was problematic, because I had an affidavit from somebody that I'm  61 
+1 getting ready to file in court, and now they're saying something, either similar or 
+2 different, in open court. 
+3 Well, in affidavit, you can focus on just the issues at hand. Here's the statute, 
+4 what did you observe, was it followed? Was it violated? Personal knowledge, yes or 
+5 no? It's very discrete. It's narrow. 
+6 I was making technical arguments, right? I wasn't focused on who the winner 
+7 was or who the winner wasn't. You know, even if I won my lawsuit, that doesn't 
+8 necessarily tell you the answer to that. I was focused on the process not being followed 
+9 and statutory violations not being met --or I should say statutes not being met, and those 
+10 violations being ignored. 
+11 They were trying to do something entirely different. They were trying to make 
+12 sure their guy won, and I, frankly --that wasn't what I was doing, and it wasn't what I was 
+13 being paid to do. I was focused on these technical violations, either HAVA or the 
+14 election lawsuits. 
+15 So I know, as I sit here, that a lot of those affidavits ended up in more than one 
+16 case, and I know that a lot of the witnesses, you know, jumped at the chance to be on TV 
+17 or jumped at the chance to go work with the Trump people. 
+18 But those weren't --that's not what I filed, that's not what I was doing. 
+19 Q Got it. Got it. And, again, not to --I don't want to miss characterize your 
+20 answers to_, but I think I understood, you walked through sort of the general 
+21 nature of the allegations, and I took them down in my notes as, sort of absentee voting, 
+22 counting issues, observer issues, votes being changed without, you know, following the 
+23 statute and so forth. So sort of --is that fair to say, that they were statutory, regulatory 
+24 issues regarding the tabulation, counting, inspection of ballots? 
+25 A That's right. And probably the best --the best articulation of those is in my  62 
+1 Michigan Supreme Court case. 
+2 Q Okay. Were you focused at all on allegations, or did you raise allegations of 
+3 fake ballots, fraudulent ballots being brought into the TCF and otherwise? 
+4 A You know, that was certainly a concern. You know, you've got an issue 
+5 where these anti-fraud provisions in Michigan had not been really rewritten for the 
+6 modern computer tabulators. Most of the anti-fraud statutes in Michigan were from 
+7 the 1950s. 
+8 And again, not to go down memory lane here, I was not on the scene in the 1950s, 
+9 all right? I have a few gray hairs, but not that many. 
+10 But the reason why those got passed in Michigan and some 30 other States --33, I 
+11 think, exactly --is because in the 1940s, then Senator Lyndon Johnson was alleged to 
+12 have stolen the Texas Senate race by stuffing the ballots with fraudulent votes. 
+13 So 33-some States passed anti-fraud statutes, including the ones we have in 
+14 Michigan that were designed to limit that. It's not the best protection, but it's 
+15 something, and it requires one person from each party to observe anytime you change a 
+16 ballot. 
+17 And there's any number of reasons why you might reasonably do so. You feed it 
+18 into the machine and the machine eats it up like a bad printer. Or you put it into the 
+19 machine and the machine doesn't read it correctly. 
+20 You know, any number of reasons why a ballot might not work, what do you 
+21 have? You have two people filling out the ballot, they're casting a vote for somebody, 
+22 and the statute requires that one from each major political party be there to do it. 
+23 The best practice, according to the secretary of state guidelines, is to have three 
+24 people, one person filling it out and two people --one from each party --observing. 
+25 That statute was not followed.  1 So is it sensible to say that if you don't follow the anti-fraud statutes, fraud can 
+2 happen? Yeah, it is. But that doesn't prove there's fraud. It's just a badge of fraud, 
+3 right? It's --it's a recipe for fraud, but that doesn't prove that there's fraud. 
+4 Q Understood. And that's what I understood your testimony to be earlier, 
+5 and my question may have been inartful. I'm talking about these allegations, maybe 
+6 you've heard them raised by others, of tens of thousands, or hundreds of thousands of 
+7 fraudulent ballots being brought into the TCF Center while other ballots were being 
+8 counted. 
+9 
+10 A 
+Q I've heard --
+These are not disputed ballots in the situation that you're describing, but 
+11 these are fake, made-up ballots being brought into the TCF Center. 
+12 A So as part of the Amistad Project, we saw instances of that in other 63 
+13 locations. So if we go to Pennsylvania, for example, we have a whistleblower [inaudible] 
+14 and delivered some 20,000 ballots that were prepared in the State of New York, top of 
+15 the ticket only, and delivered to counting centers in Philadelphia. 
+16 Now, they have different statutes, but it's the similar problem, right, that ballots 
+17 are prepared in advance, and you go in with little or no supervision and stuff them into 
+18 the tabulation booths and they get counted. So with Amistad, I have seen evidence of 
+19 that in New York and Pennsylvania. 
+20 Now, in Michigan, there were allegations of that. We had people coming 
+21 forward that documented irregularities, things like --you know, I forget the exact date. 
+22 forget if it was 7 or 8:00, but at 7 or 8:00, you're not supposed to add anybody to the 
+23 voter rolls in Michigan. 
+24 You can register the same day, but as of a certain time --you know, it's not 
+25 midnight, but I think it's 7 or 8:00 --you have to stop adding people to that. There is an  64 
+1 allegation in Michigan that after that deadline people were added to the qualified voter 
+2 file in Michigan. 
+3 How was it done? By not following the statute that required any additions to be 
+4 made through a certain process. So that's an example where there's an accusation of 
+5 somebody stuffing the voter rolls. 
+6 Now, that's not of a particular vote, but that's of a voter. Well, what goes with 
+7 that? 
+8 Then, you know, we've also got evidence in Michigan of missing ballots. Now, let 
+9 me be clear. We had people come forward that said in preparation for the election, 
+10 they print test ballots, and I don't want to get too far afield here, but these test ballots 
+11 are just like a regular ballot. They run through the machine and the machine counts 
+12 them. 
+13 And in order to test the machines in every location, each jurisdiction does a 
+14 number of test ballots. These are done at the printer, they're given to the people in 
+15 advance. You run them through the machine, make sure everything works. You throw 
+16 them out, in a sense. You keep track of them, right? You're supposed to turn them 
+17 back in to be destroyed. 
+18 But you've got, say, 1 through a thousand test ballots, then the day of the 
+19 election, you push through actual ballots, and that could be 1 through whatever number. 
+20 And they're all numbered, consecutively numbered. 
+21 There is an allegation that there are some 50,000 missing test ballots from 
+22 Washtenaw County. Washtenaw County is in Ann Arbor. It's 30 minutes down the 
+23 road from the TCF Arena. And there's allegations that after hours, in the middle of the 
+24 night, a van showed up in TCF with loads of ballots. Do I know that those are the same 
+25 ballots? No, I don't.  65 
+1 But I've got accusations of missing ballots, and I've got accusations of ballots that 
+2 were unaccounted for showing up after hours. 
+3 Now, do I know that that proves fraud? Absolutely not. But that's the kind of 
+4 thing that I thought at the time, back in December and November of 2020, the 
+5 legislatures should get their --excuse the expression --but their hinders, their backsides, 
+6 back into session and ask the people what they were doing, ask the people who are 
+7 responsible for the ballots why they had 50,000 missing, ask the people who were driving 
+8 those vans what they were doing at 2 in the morning and so forth. Those questions 
+9 never got asked. 
+10 So I don't mean to go off on a rant, but there was evidence of statutes not being 
+11 followed. Do I know that that proved fraud? No, absolutely not. I've never proven a 
+12 fraud case in 2 years, let alone, 2 weeks.  66 
+1 
+2 [12:10 p.m.] 
+3 BY-: 
+4 Q Okay. So I think at the end there, you got to the piece that I was asking you 
+5 about, which is the idea of fake ballots being delivered. And I think there is some 
+6 affiants --and what triggered my memory on this was you referencing some affiants who 
+7 had been hauled into the hearings and were testifying at hearings, and I can remember 
+8 one in particular, Melissa Carone, who I think did prepare an affidavit and also became a 
+9 witness at that hearing. 
+10 Do you recall her? 
+11 A Yeah. So I didn't have much interaction with her. That was one that my 
+12 cocounsel, Erin Mersino, got her affidavit. But she had a little different testimony. She 
+13 had --
+14 Q She had a few different --she had a few different things she mentioned, 
+15 including running ballots through several times. She had issues about Dominion. But 
+16 there is also an issue --
+17 A Yeah, that's something different, though. What I'm talking about is 
+18 something that, you know, ballots missing from one jurisdiction and ballots showing up 
+19 after hours or after deadlines. I don't think --if memory serves, that's what --she was 
+20 talking about being off site at some other facility, which was problematic because, you 
+21 know, most of the election is supposed to be done transparently at the precinct. That 
+22 wasn't done. That was done at an off-site location where they were curing or testing 
+23 ballots. But that was a little different than what --than what we --what I was just 
+24 talking about. 
+25 Q Yeah. And just --I'm going to --I'm going to move on or let-move on,  67 
+1 but just to sort of clarify where I was going with it, she did say as part of her testimony 
+2 that there were ballots being run through multiple times. She said that, at 4:30 in the 
+3 morning, what looked like a food truck showed up, but no one ever brought food, so she 
+4 thought there were ballots in there. 
+5 There is another witness, Mr. Sitto, or Sitto, who said that he suspected that there 
+6 might have been fake ballots delivered in trucks. 
+7 That's the stuff I'm talking about, and whether you had ever credited that or 
+8 pursued that or believed that, that that particular claim had merit? I'll be very specific. 
+9 At 4:30 in the morning, a truck arrived with 100,000 ballots, all for Biden, all top --you 
+10 know, ticket --no down-ticket votes, just Biden, and that those votes were processed at 
+11 TCF. Is that an allegation you've heard? 
+12 A Boy, I don't know if that all came in one spot. If that did, that --that's 
+13 inconsistent with my memory. I wouldn't expect any of these witnesses to be able to 
+14 give you what you just said. In other words, that the votes came in after hours --yeah, 
+15 we had a couple of affidavits that said they observed trucks at 2:00 a.m., 4:00 a.m., 
+16 whatever. 
+17 But that's not the same as saying that it had 100,000 ballots in it. I don't know 
+18 how you would know that unless you were responsible for counting them. You could 
+19 guess or estimate. 
+20 That's also different from saying who the people voted for, because, if the ballot 
+21 comes in and it's legitimate, it's supposed to be in a privacy sleeve, so you shouldn't be 
+22 able to tell who voted, right? But there were also allegations from other affiants that 
+23 said, We saw stacks of ballots without the privacy sleeve. 
+24 So, you know, no one of those things on its own came, in my mind, from a single 
+25 person. And, if it did, then they're telling stories. On the other hand, if it --if you take  68 
+1 each one of those accusations on its own or, you know --and, look, I witnessed testimony 
+2 that's notoriously unreliable, but if you add all of those things up in the aggregate, the 
+3 question is: Were statutes being violated? The answer in my mind, definitively, was 
+4 yes. 
+5 Does that prove fraud or prove who folks voted for? No, it doesn't. That's 
+6 different. 
+7 Q Okay. And I --I pursued this, and I apologize for taking time with it, but 
+8 it --that specific claim that I raised with you has been made, not by you, but I just wanted 
+9 to get your input as to whether the evidence that you had gathered, you had come across 
+10 either a witness who said that or a group of witnesses from which you drew that same 
+11 conclusion? And I think you've answered the question, but --
+12 A I think it's near adjacent to a lot of the things that I said. I don't remember 
+13 one --one specific person who said all of those things, but I think --I think there were 
+14 people who said any number of those --those things, or at least things similar or nearby, 
+15 near adjacent to those. But --but, again, that doesn't necessarily get you to the 
+16 conclusion that others were making. 
+17 Q Got it. Last --different question, but last question on affidavits. You 
+18 mentioned that Monica Palmer and William Hartmann did submit affidavits or prepared 
+19 affidavits in connection with a piece of litigation that you were involved in. 
+20 Did you play a part in procuring those affidavits? 
+21 A Yeah, I played a part. I reviewed them before I submitted them to the 
+22 court. I was --It was a part of that team of me, Bob Muise or Robert Muise, and 
+23 Erin Mersino. I think she's the one that spoke to them. I'm trying to remember. 
+24 don't think I ever spoke with William Hartmann directly. I may have. 
+25 I do think I spoke with Monica Palmer briefly, only to confirm that she was who  69 
+1 she said she was and that she intended to file that affidavit in my case. In other words, I 
+2 wanted to make sure --and we tried to --we did that, in my mind, with all of the affiants. 
+3 But, at the same time, I didn't speak to all --I think we ended up with maybe 40 or so 
+4 things that we submitted, give or take. 
+5 And so I didn't speak with all 40 of them personally, but I spoke with as many of 
+6 them --I kind of took, like, a chunk and spoke with them, and then she was one of the 
+7 people I spoke with to confirm that she meant what she said she meant. 
+8 Q Got it. And is the affidavit the same one that I'm thinking of that relates to 
+9 the circumstances under which she agreed to vote to certify in Wayne County? 
+10 A So there were some --there was some concerns over that. In other words, 
+11 she said originally that she wasn't going to certify, and then got talked into certifying by 
+12 the county attorney. And I believe there were elements of that in the affidavit we 
+13 submitted. 
+14 So she had done one earlier, I think, with the Constantino case --that's the Erin 
+15 Mersino, Great Lakes Justice Center case --and then some of those newer accusations 
+16 that she was kind of tricked or duped into certifying in exchange for kind of the promise 
+17 by the county attorney that they would look into the fraud, and the promise by the 
+18 Secretary of State that she would do an audit. My understanding is that those things 
+19 never happened, and she felt --she felt like she had been duped or tricked. 
+20 
+21 
+22 Q 
+A 
+Q Okay. So that is the affidavit I was thinking of. 
+Yep. 
+Do I understand you correctly that she had already done an affidavit 
+23 generally on the subject in the Constantino case, and then your affidavit was sort of a 
+24 supplement or different from the first affidavit? 
+25 A Yeah. I thought that was important for two reasons. The main thing that  70 
+1 she said --and this is from memory, and I apologize, but the main thing that she said was 
+2 that the number of votes did not match the number of ballots in Wayne County. And 
+3 so --and they had those numbers on an AV counting board basis. 
+4 So, in the past, when you had a precinct, as part of the chain of custody, one of 
+5 the checks you do is you count the number of ballots and you count the number of votes, 
+6 and they should match. And, if they don't match, you do an audit at the precinct level 
+7 before you transmit them to the next step. 
+8 
+9 Q 
+A Right. So-called out-of-balance precincts? 
+Correct. That didn't happen in Detroit, because they didn't do the counting 
+10 at the precinct level because they consolidated it and did it at the AV counting board 
+11 level. So, now, instead of having --I forget the number --800 precincts or something 
+12 that you can check at the granular level, now you're limited to checking at the 134 or AV 
+13 counting board level. 
+14 They were also out of balance there. But now they couldn't tell where they were 
+15 out of balance because they didn't have proper chain of custody from the precinct to the 
+16 AV counting board. That was a spot where the statute was not followed. 
+17 So she, at the county commission level, complained that some 70 or 71 percent of 
+18 the AV counting boards were out of balance. 
+19 
+20 Q 
+A Right. 
+Now, that doesn't tell you whether they're off by one or off by 5,000. But 
+21 71 percent didn't match, and she was upset about that. 
+22 Now, that's not a new problem. That's a problem that the State of Michigan's 
+23 audit 2 years ago said was a problem in Detroit. But it's a pretty big number of --and it's 
+24 a pretty big number that shows the statutes weren't being followed. 
+25 So that was one of my accusations, that, if you don't follow the statutes, that  71 
+1 violates the due process rights of the plaintiffs, Angelique Johnson, or 
+2 Angelic Johnson --excuse me --and Dr. Tarver. And she filed an affidavit to that effect. 
+3 Now, the response to that is, well, but she signed off on it. She approved it 
+4 ultimately. And so I thought it was important for her to say why she approved it, which 
+5 her life was being threatened. She was receiving death threats. She was promised by 
+6 the county attorney and the State that an audit would be conducted. And so she felt 
+7 like she could get herself out of the hot seat, make this someone else's problem, and that 
+8 was the reason why she certified. 
+9 I thought that was important to say that, in some ways, it was under duress or 
+10 coercion that she agreed to do that. 
+11 Q Got it. Did she ever tell you that she talked to the President after the 
+12 Wayne County vote? 
+13 A No. My call with her was very short. We just went over our affidavit 
+14 quickly. I don't know that she had talked to the President. She certainly didn't 
+15 mention it at that point. She might have afterward, or she may have and just not told 
+16 me. 
+17 
+18 
+19 
+20 Q Understood. Okay. Thank you, sir. 
+1111? 
+BY 
+Q Just to follow up on that very briefly, Mr. Northan, you discussed with 
+21 -a number of violations of law or procedures related to the election. 
+22 Did you ever refer any of those allegations to law enforcement? 
+23 A The answer is kind of. I sued the executive branch, including the Attorney 
+24 General, I believe, who is responsible for enforcing those laws. I sued the executive 
+25 branch, which is law enforcement, the Secretary of State, and I sued the head of  72 
+1 elections, Jonathan Brater. 
+2 So I sued them, which put them on notice that I believe that they were not 
+3 following or enforcing the law properly. So did I call a county prosecutor? Not that I 
+4 remember. And did I call any Federal law enforcement officials? Not that I recall. 
+5 wasn't --you know, I didn't view myself as --you know, as my job to clean up Michigan's 
+6 mess. My job was to represent my clients zealously and accurately. 
+7 Q All right. If we could pull up exhibit No. 1. You mentioned a couple 
+8 documents, including a draft resolution, I believe, that you had produced to us. I'd like 
+9 to just bring that up. 
+10 
+11 Mr. Chamberlain. And,■, could we take another break before --
+Mr. Northan. Yeah, we've been going about an hour and a half. Do you mind? 
+12 I just could use a bathroom break. 
+13 
+14 Mr. Chamberlain. Yeah. 
+~ Of course. Yeah. How long would you like? Let's go off the 
+15 record first. 
+16 [Recess.] 
+17 ~ Let's go back on the record. It's 12:32 eastern, and we're 
+18 resuming the transcribed interview of Mr. Ian Northan. And, before we were leaving, 
+19 we were about to pull up exhibit --I believe exhibit No. 1. 
+20 BY 
+21 Q You mentioned, Mr. Northan, some draft resolutions or resolutions that 
+22 were presented to Senator Shirkey and maybe others in the Michigan State Legislature. 
+23 Do you recognize the document we were looking at as exhibit 1? 
+24 
+25 A 
+Q Yeah. That looks like one of the --one of the things that I prepared. 
+Okay. So, if you scroll down,1111, this is a shorter one. There is two  73 
+1 versions you produced to us, one with some specifics about purported fraud 
+2 irregularities, and a more general one. 
+3 You can keep scrolling, __ 
+4 Mr. Chamberlain. I wonder if I can enlarge our screen somehow. Do you want 
+5 to sit closer? Can you read it? 
+6 
+7 
+8 
+9 
+10 
+11 Mr. Northan. I can read it. It's all right. 
+BY 
+Q And if you pull up exhibit No. 2,-· 
+This is the longer version that you produced. 
+If you keep scrolling, scrolling. Yeah. --
+A There was no exhibit number at the top, correct? I don't remember that 
+12 being on the document I prepared. 
+13 Q No. That's something that we added. 
+14 
+15 Okay. All right. So what's your recollection of these documents? 
+A Well, taking them one at a time, I think the first one that you put on the 
+16 screen was one that I prepared for the --those legislator clients of mine. And I 
+17 believe --I believe that they were going to present that to House leadership --House and 
+18 Senate leadership to see if that's something that Senator Shirkey, who at the time was 
+19 the senate leader, and then Lee Chatfield, who was the house leader, would sign onto. 
+20 But these are --these are kind of a later-stage version of what I had done with my 
+21 clients --my other clients, Dr. Tarver and Angelic Johnson earlier, which was a petition. 
+22 But it was similar. They were basically three or four versions of the same document that 
+23 we just kind of --I kept tweaking to --to the audience, depending on who --who the 
+24 audience was. 
+25 Q And did the call with Professor Eastman that we discussed earlier in early  74 
+1 December have any effect on the decision to draft or submit these documents --these 
+2 resolutions? 
+3 A No. I don't think this was something that Professor Eastman talked about. 
+4 This was something that I was doing to try and get the leadership to listen to my clients, 
+5 who were members, and to listen to constituents, my other clients. Again, their 
+6 frustration was growing that the leadership wasn't doing anything or doing much, and so 
+7 these were efforts to try and get them, in our mind, to do the right thing by --by 
+8 continuing their work and then their investigation instead of just kind of stopping. 
+9 Q Did anybody help you draft these documents that we're looking at, from 
+10 outside of Amistad or your law firm? 
+11 A Not that I recall. I'm trying to remember. You know, I --certainly my 
+12 clients helped me. You know, in other words, Dr. Tarver, Angelic --Ms. Johnson, 
+13 Angelic Johnson, they helped me. The legislators themselves helped me. But --but I 
+14 don't remember anybody else. 
+15 I'm wondering now --I just don't --I just don't remember anybody else. I may 
+16 have circulated this to --not this later one, but an earlier version, I may have sent 
+17 to --well, that's not exhibit 1 and 2, but there is an earlier version that Dr. Tarver and 
+18 Ms. Johnson signed that we --that I hand-delivered to Senator Shirkey's office, and that 
+19 version, I had sent to the folks at Hillsdale. And I think I got some comments from them 
+20 afterward. 
+21 
+22 Q 
+A Who did you send it to at Hillsdale? 
+Well, my --I represented Hillsdale and all this --although this wasn't 
+23 something I was doing for them, I thought they should be aware of it, that it was 
+24 happening. I thought it was important for them. And I sent it to their general counsel, 
+25 Bob Norton, N-o-r-t-o-n --similar to my last name, but no H --Bob Norton, their general  75 
+1 counsel, and --and their PR people. The head of their PR department --oh, Emily. 
+2 Emily Davis, I think is her name. 
+3 Q Why was it relevant to send it to them? I understand that you were doing 
+4 work for them at the same time, but is there subject matter crossover that you needed to 
+5 advise them about or let them know about? 
+6 A Two reasons. The main reason was that their --well, Bob Norton is a really 
+7 smart lawyer who follows these issues. He's a former Chrysler attorney. So, as 
+8 somebody that I had worked with in the past, I wanted his input. So I'm reaching out to 
+9 another colleague for his input. 
+10 The other reason is that Emily Davis, the PR person, she and Bob live in --in the 
+11 legislator's district that I represented. And --and Shirkey --Senator Shirkey is their 
+12 Senator. He's in the --just north of --just north of Jonesville, Michigan. If you look on 
+13 a map, Jonesville, Michigan is just north of Hillsdale and Hillsdale College. So this was 
+14 their senator that I was trying to convince, and I wanted them to know what I was doing, 
+15 because I was reaching out in their backyard. 
+16 Q Now, you can take that down. Thank you, •. 
+17 Earlier, you know, we talked about this idea throughout the day, the morning, 
+18 about State legislatures and their authority to potentially step into an election and choose 
+19 their own slate of electors in a Presidential election. 
+20 I want to --a related subject, but is having the alternate electors that --for Trump 
+21 in the 2020 election meet and cast votes for Trump without the State legislature or courts 
+22 doing anything at all. 
+23 And are you familiar with the Trump electors meeting in Michigan on 
+24 December 14th to cast electoral votes for Trump? 
+25 A Yes. I knew that they were going to do it.  76 
+1 Q When did you first find out that this was going to be happening? 
+2 A I don't know for sure. Probably --probably the day before, maybe --maybe 
+3 2 days before. I'm trying to remember what day of the week December 14th was. The 
+4 date comes from the statute in Michigan. There is two statutes in play. One's the 
+5 Federal statute, one's the State statute. Those work together. That's where the date 
+6 comes from. 
+7 But I don't know that I knew more than a day or so ahead of time that it was going 
+8 to happen. I was trying to get the legislature to work --to do its work, but --but that 
+9 didn't happen by then. And so --but I knew --I knew that it was going to happen. 
+10 Q And what was your role with respect to the Trump electors meeting and 
+11 casting votes in Michigan? 
+12 A I didn't have a role. I had no formal role at all or informal. I knew it was 
+13 going to happen. 
+14 
+15 Q 
+A Who did you learn this from? 
+So one of the legislators that I represented --and I forget which one --I think 
+16 the three of us were talking together --told me about it. And some of the other 
+17 legislators that, by that time, had joined or were planning to join one of the other 
+18 lawsuits with the amicus brief, one of their spouses was an elector, and they said that 
+19 they had been called to the capitol. They had, like, been told to come to Lansing on this 
+20 date at this time, and I found out from the legislator, who told my clients, with me there, 
+21 that they were coming. 
+22 
+23 Q 
+A Who was that spouse that was an elector? 
+The --the spouse is --her name is Meshawn Maddock. She's the current 
+24 GOP chair in Michigan. At the time, she wasn't, but she was an elector, I believe. And 
+25 her husband, Mike --Matt --Matt Maddock, I think is his name. Matt was one of the  77 
+1 house members who joined onto one of the Amistad amicus briefs. 
+2 Q Was Mr. Maddock, the member, was he on that call with John Eastman in 
+3 December? 
+4 A I don't remember. It's certainly possible, but I don't remember if he was 
+5 involved yet or not. I know he was involved later. He was part of that --maybe a 
+6 group of --you know, maybe a group of about 19 or 20 joined on to one of the lawsuits, 
+7 and a group of about six or eight joined onto the other. And so he would have been a 
+8 part of both of those groups. 
+All right. 
+I don't know if he was on any calls. 9 
+10 
+11 Q 
+A 
+Q And, when you learned about it, were you asked to do anything with respect 
+12 to the meeting and casting votes of the Trump electors? 
+13 A No. I was up at the capitol speaking with my legislator clients trying to get 
+14 them to --you know, they were still trying to pursue this joint resolution concept, trying 
+15 to get the leadership to kind of get back into the swing of things. And so I was --I was in 
+16 Lansing meeting with the legislators, but I was prohibited from or kept out of the elector 
+17 process. That was something that the State party and the --kept pretty close to the 
+18 vest, and they didn't let me or anyone else be involved. 
+19 
+20 
+21 
+22 
+23 
+24 
+25 Q 
+A 
+Q 
+A 
+Q 
+A 
+Q Did you ever learn why they kept it close to the vest? 
+No. I was never given a reason. 
+Were you allowed in when the electors met and cast their votes? 
+No. I was kept out. 
+Do you know where? 
+Yeah. I was there. It was at the Michigan GOP headquarters. 
+The Michigan GOP headquarters being down the street, but not at the  78 
+1 Michigan Capitol Building. Is that correct? 
+2 A I don't remember what street it's on, but, yeah, it's only a few blocks from 
+3 the capitol. You know, the capitol is where most of the legislators have offices, and the 
+4 legislators I was meeting with were --were locked out or kept out of the capitol, so they 
+5 were meeting nearby. And then, when they heard about the --the electors meeting at 
+6 the headquarters, we went over there together and asked if we could be a part of the 
+7 process and were kept out. 
+8 Q And, just for clarity sake, the GOP headquarters, though, is not on capitol 
+9 grounds in Lansing, correct? 
+10 
+11 
+12 
+13 
+14 
+15 
+16 A 
+Q 
+A 
+Q 
+A 
+Q 
+A I don't know. 
+Okay. 
+I think it's a couple blocks away. I don't know -­
+Is it part of the Capitol Building? 
+What's that? 
+Is it part of the Capitol Building? 
+I don't believe so. I think it's a couple blocks away. But, if you're asking 
+17 me whose grounds it's on, I don't know who owns it. I mean, I'm not trying to be cute 
+18 here. I just --I don't know. 
+19 Q Yeah. Fair enough. I'm just trying to get your perspective, your 
+20 understanding. 
+21 What --did you ever learn what the justification or the purpose for the Trump 
+22 electors meeting to cast votes in Michigan was? 
+23 A Well, they did a press release, I think, later that day. I mean, they said that 
+24 the --they thought the election was in dispute, and they were casting their slate of 
+25 electors for President Trump --then-President Trump, and --which is the only thing in my  79 
+1 mind an elector can do. 
+2 Q Did you ever hear why? I mean, is it dependent on a court, a State 
+3 legislature, Congress, the United States Congress? 
+4 A I was never given a reason. I didn't have --1 didn't have any interaction 
+5 with those Trump people. And, when I did talk with Mark Foster, who I spoke with 
+6 afterwards, which I can get to, but when I spoke with him afterwards, he didn't give me a 
+7 reason as to why they were doing it. Just the fact that it happened. 
+8 Q Okay. So tell me about that, your conversation with Mark Foster about this 
+9 issue of Trump votes or --excuse me --Trump electors voting for Trump in Michigan. 
+10 A Right. Well, again, I was trying to do something similar, because I 
+11 thought --I thought, under the Electoral Count Act, which is a Federal statute --and I 
+12 don't even think it's probably constitutional, but it's a Federal statute. It creates some 
+13 safe harbors and some deadlines. 
+14 And so my goal was to get the State legislature to do its work before those 
+15 deadlines had passed, but, if it couldn't do that, then at least declare the election in 
+16 dispute to give it enough time to resolve the election issues before the constitutional 
+17 deadline, which, in my mind, was January 20th, which is when the new President is sworn 
+18 in. 
+19 Because, after you go past that date, you get into a weird area of the law called 
+20 quo warranto, in which you're then trying to pull out a candidate after they've already 
+21 taken office, which had never happened in the United States before, and I thought was a 
+22 nonstarter. 
+23 
+24 Q 
+A And that --so you talked about those issues with Mr. Foster? 
+No. I wasn't able to talk with Mr. Foster beforehand. These electors were 
+25 being shown in. They kept people out.  80 
+1 And then, afterwards, meaning after the day was over, I did speak with 
+2 Mark Foster. He didn't give me a reason as to why they were doing it, but I think except 
+3 to say that they were trying to comply with the State and Federal statute. There is a 
+4 State statute that said they had to do their work by the 14th, and then the Federal statute 
+5 talks about --the Electoral Count Act talks about doing it in enough time for --I think the 
+6 Congressional Record says enough time for a horse to go from anyplace in the United 
+7 States to Washington, D.C. 
+8 Q Now, at that point, I think on the same day the Trump electors met, as did 
+9 the Biden electors, Senator Shirkey released a statement essentially saying that the 
+10 Michigan Senate --there was nothing for them to do. They couldn't take on this issue, 
+11 that Michigan law is clear. 
+12 Do you remember Senator Shirkey putting out a statement like that? 
+13 A Yeah. I read that statement later that day. I don't remember hearing it 
+14 right when he put it out, but up until that point, I was having conversations with 
+15 Senator Shirkey, including in his office a few days before, back and forth by phone and 
+16 text, on behalf of my clients, again, trying to get him to do more. 
+17 And then that's inconsistent with what he was telling me, but --but then he issued 
+18 that press release. And I don't know why he did that. I haven't spoken with him about 
+19 why he did that, but I did see that press release, which is somewhat a little different than 
+20 my earlier conversations with him. 
+21 Q Do you know if that statement had any effect on the meeting of the Trump 
+22 electors on December 14th? 
+23 A I don't remember when that statement came out. I think it maybe came 
+24 out afterwards. I don't know. If it came out before, I didn't read it before, I don't 
+25 think. I don't think I saw it until afterwards. So I don't know that it would have had an  1 effect, but I couldn't be --I couldn't be sure. 
+Okay. Did you know that this was happening in other States as well? 
+What was happening? I'm sorry. 81 
+2 
+3 
+4 Q 
+A 
+Q Yeah. No. Fair enough. That alternate slates of electors were meeting 
+5 to cast votes for Trump even though the State had not certified Trump as the victor? 
+6 A No. I don't know that I knew it was happening in other places. I found 
+7 out later that I think it happened in six or seven States. 
+8 Q But you don't think you knew that at the time of the electoral college 
+9 meeting, December 14th? 
+10 A Well, I knew that my counterpart, Tom King, and the folks in Pennsylvania 
+11 had prepared an alternate slate of electors, but --but I don't know --I don't --I was so 
+12 busy with what was going on in Michigan, I don't know --I didn't know at the time 
+13 whether or not that that was going to happen. 
+14 I don't know if that makes sense. I certainly knew that there was an effort by 
+15 different groups and different people in different States, mostly disjointed. The only 
+16 one I knew about was Tom King in Pennsylvania, but I didn't know if it was going to 
+17 happen or not. And I found out later that it happened in Pennsylvania and it happened 
+18 in some six or seven other States. 
+19 
+20 Q 
+A Did Mr. King ever talk to you about why it wouldn't happen in Pennsylvania? 
+Well, the same challenges we were having in Michigan, which was, if you 
+21 don't have a consensus, or you don't have a majority, then it's not going to happen. In 
+22 other words, I viewed the alternate slate as a placeholder or as a backup plan for the 
+23 legislative action. But, if the legislature had already decided or had already made up its 
+24 mind, then --then there would be no need for an alternate slate, and, likewise, you 
+25 know --so --so there is lots of reasons that were going into that.  82 
+1 They were talking about votes and different things in Pennsylvania. I think 
+2 maybe they --they have a two-party system there, or not two party, but two-house 
+3 system there, too, and I forget what it's called, but I think they had the votes in one 
+4 house, but not the other. And so, if it wasn't going to happen, it was because they 
+5 didn't have the votes. 
+6 Q You said just a backup plan, or that's how you viewed it, and if the legislature 
+7 had made a decision, then these wouldn't be necessary. What do you mean by that, if 
+8 the legislature had made a decision? 
+9 A Well, I think the legislature had plenary power, which means that, if it felt 
+10 like its laws were being violated, it could have invalidated the Michigan election. 
+11 Q So, had the legislature done that, then they could adopt their own slate of 
+12 electors? Is that what you're saying? 
+13 A Well, there is any number of options there. Not to get too cute, but they 
+14 could have thrown out the Biden votes. They could have voted their own candidate. 
+15 They could have said, you know what? Our election was corrupt or tainted in some way, 
+16 and Michigan could have gone without electors that year. 
+17 That's what happened to Wisconsin in 1860. It didn't get its electors in on time. 
+18 It missed the deadlines. And so Wisconsin's votes did not count. Lincoln won anyway, 
+19 but Wisconsin's votes did not count in 1860. 
+20 So there were any number of scenarios that could have happened, but --but at 
+21 some point, they're academic. They're speculative. 
+22 Q So what was your understanding then as to what effect, if any, these 
+23 alternate votes would have absent some State legislative action or presumably court 
+24 action? 
+25 A Well, without more, they would have had no effect. In other words, if you  83 
+1 have an alternate slate of electors, that doesn't mean that that's who the legislature 
+2 picks. All it means is that it's an alternate slate. It gives the legislature two options. 
+3 It would have still been incumbent upon the legislature to say, yes, take the Biden 
+4 votes or, yes, take the Trump votes, or, you know, do something else. Only the 
+5 legislature, I think, can do that. And it would have been required of the legislature. 
+6 The point with the alternate slate is that the statutes are delegated in such a way 
+7 that, if they do nothing --if the legislature takes no further action, then it's the default. 
+8 It's the safe harbor. 
+9 In other words, they've delegated this function to the Secretary of State and head 
+10 of elections. Each State is a little different, but Michigan had these canvassing boards. 
+11 It's ministerial. If you do nothing, whoever those ministers pick will be your slate. 
+12 That's deemed your legislative intent, because the legislature previously delegated that to 
+13 them. The only way for them to change their intent by default would be to take some 
+14 sort of affirmative step. 
+15 But, to me, the alternate slate concept was a design to comply with the State and 
+16 Federal statute to give the legislature time to make up its mind. 
+17 Q So what about courts? What role did they have, based on your 
+18 understanding at the time, around December 14th, in choosing among these now two 
+19 slates of electors --the Biden electors and now the Trump electors that met and cast their 
+20 votes? 
+21 A Well, the courts would have a limited role. The Federal courts are of 
+22 limited jurisdiction. The State courts would have a limited role. But I don't think the 
+23 courts could pick a slate of electors, because, under the U.S. Constitution, the judicial 
+24 branch does not pick electors. Only the State legislatures do that. 
+25 So the courts had no role in picking the outcome or picking which slate was  84 
+1 proper. But they could help clarify what the legislatures' roles were, and certainly they 
+2 could say that, under their reading of the Constitution, it was for the legislature to make 
+3 up its mind. I believe that's what the Michigan Supreme Court did in my case. It said 
+4 that the legislature had to exercise its plenary power. That's what Justice Viviano said in 
+5 his concurrence. 
+6 So I believe they did what they were supposed to. But the courts have other 
+7 roles, like preserving evidence or adjudicating guilt or fault of statutory violations. 
+8 There is lots of things that the courts could have done. But they had no role in picking 
+9 which set of electors was the authentic one, so to speak. 
+10 Q And I appreciate your precision there, because I'll just represent to you 
+11 that --and this has been stated publicly by numerous people --that some of the electors 
+12 who participated in casting votes for Trump in States that he had lost said they did so 
+13 because they would be contingent on a court case. They thought that, if a court said, 
+14 Look, there is all these issues and that Trump won, then, in some fashion, those electoral 
+15 votes would become the operative ones. Is that a different understanding than the one 
+16 you had? 
+17 A Yeah, I can't speak to what, you know, the 15 electors in Michigan thought 
+18 or what all six or seven States thought. I can tell you that's probably a misunderstanding 
+19 of what I thought the law said or would say. 
+20 Certainly the courts have a role in clarifying things. The most recent example is 
+21 1960, where three slates of electors got sent to Washington, D.C. from Hawaii. Brand 
+22 new State at the time. They sent three different slates, two for Nixon --excuse 
+23 me --two for Kennedy and one for Nixon, and there was a court case. 
+24 And the court case, although I haven't seen the opinion --I've seen the synopsis of 
+25 the opinion. It said that that was the proper thing to do. In other words, have an  85 
+1 alternate slate. But it was ultimately the legislature's whose preferred slate is the one 
+2 that got picked. 
+3 And so the courts have a role, especially in helping clarify who is responsible. 
+4 And I think lay people can misstate that. I think a lot of lawyers get that wrong. I don't 
+5 think anybody understands this. I think most of the people that were flying around filing 
+6 lawsuits hadn't read the Constitution, let alone the statutes. I had read both. So I 
+7 don't think the courts could pick which slate of electors. So, if a elector said that, I think 
+8 they would be mistaken. 
+9 Q Okay. Well, yeah. Well, let's --just using that as an example, the 1960 
+10 example, I mean, that --those electors met after a court had already started a recount. 
+11 There was no recount in Michigan, right, in the 2020 election? 
+12 A Well, I think you're mistaken about 1960. You know, those electors --there 
+13 were three different slates, one by --you know, one by the outgoing administration, one 
+14 by the incoming administration, and one by a third group. And, yes, there were court 
+15 cases, but the court didn't pick which slate of electors was the authentic one. It just said 
+16 that it's --you know, it just commented that the alternate slate was the proper process, 
+17 to give it a chance to run its course. That was an election in dispute. 
+18 Now, who is to decide that an election is in dispute? I think it's the legislature to 
+19 decide. But a court can certainly say that. 
+20 Q And that's your understanding of the 1960 case, correct, in Hawaii, what you 
+21 just explained? 
+22 A Yeah. Vice President Nixon opened up three slates and picked the one for 
+23 his opponent for Kennedy, and Kennedy became President. The rest is history. 
+24 Q Okay. So, just to get back to my question, are you aware of any recount 
+25 happening in Michigan in the 2020 Presidential election?  1 A Yeah. There were several recounts, but I don't believe that --I don't 
+2 believe for the top of the ticket. I don't think the Trump campaign filed a proper 
+3 recount challenge. 
+4 
+5 Q 
+A Right. Okay. And that's my understanding as well. 
+There were recounts all over the State, and they all involved these very 86 
+6 issues. You know, proper counting of ballots. I mean, there was a judge that's sitting 
+7 in Wayne County right now that lost the election --I use air quotes over it --and he made 
+8 the same arguments about the absent voter counting boards, and he's now the judge 
+9 because they flipped the count. So that's an example of a recount that was pending in 
+10 
+11 Michigan at the time. 
+Q Right. But that has very little to do with the top of the tickets. 
+Yeah. No, my question was about a recount for the Presidential 
+12 election, and there was no recount in Michigan in 2020 for the Presidential election. 
+13 Are you aware of any concerns that anybody raised about these 
+14 alternate --excuse me --electors meeting and casting votes for Donald Trump? 
+15 
+16 
+17 
+18 A 
+Q 
+A 
+Q I'm sorry. Am I aware of any concerns raised about them doing this? 
+Yes. 
+I don't know what --I don't know what that means. Raised by whom? 
+Well, just anybody. Did anybody say, hey, guys, we shouldn't be doing this, 
+19 or we need to --we need to do this in such a way that meets the statutes that apply to 
+20 the meeting of the electors, for example? 
+21 
+22 
+23 A 
+Q 
+A You know, I --I don't know. You know, I'm sure, if -­
+You don't recall anything like that? 
+I'm sure you could go back through the tweets of the attorney general at the 
+24 time or the Governor at the time and --and, you know, they were certainly making public 
+25 comments about alternate slates right around that time. I think they expressed some  87 
+1 concerns. But I think --
+2 Q Just to you. Not public statements, but just any concerns raised to you that 
+3 you heard about among the electors who met, or otherwise? 
+4 
+5 
+6 A 
+Q 
+A I didn't meet with the electors before they did this. I didn't -­
+What about afterwards? 
+I didn't meet with them personally. I didn't have any interactions with 
+7 them, so the answer is no. 
+8 Q You did walk to the Capitol with some of them, correct, after they met and 
+9 cast their votes? 
+10 
+11 A No. That's not quite right either. 
+were turned away at the Capitol. That's true. I met with them afterwards, after they 
+I'd be happy to discuss that. But, no, I 
+12 did not meet with any of these people ahead of time. 
+13 Q Okay. So not ahead of time. What about just afterwards, when you did 
+14 meet with them, when they were at the Capitol trying to get in? And there is a video of 
+15 it. We can show it to you, but I don't know that it's necessary. Did anybody express 
+16 any concerns about the votes that they had cast for Donald Trump? 
+17 A Nobody expressed any concerns to me about the votes that they had cast for 
+18 Donald Trump. I got a call from --I don't think it was Daire Rendon. I think it was 
+19 either Julie Alexander or --I got a call from one of my clients who had gone --
+20 Mr. Chamberlain. Don't talk about what your client --
+21 Mr. Northan. Yeah. I mean, but I had got a call from them that said they had 
+22 been locked out of their offices and they had been turned away. And they were up at 
+23 the Capitol with the electors. Then I went up and met with my clients. 
+24 BY 
+25 Q And we don't want to get into any privileged conversations you may have  1 had about legal issues with your clients. That's --totally understand that. 
+2 Were you aware of any expectation that these electors had or anybody else had 
+3 that, on or after December 14th, the votes cast by the Trump electors would, in fact, 
+4 become the operative votes during the joint session of Congress on January 6th? 
+5 
+6 A 
+Q I'm sorry. Could you say that again? 
+Yeah. Were you aware of any belief by these electors or otherwise that 88 
+7 these Trump votes would become the operative electoral votes during the joint session of 
+8 Congress on January 6th? 
+9 A You know, I don't know. I don't remember having any conversations with 
+10 them about it afterward. I think the thought was that --I think the thought was that 
+11 they would comply with the State and Federal statute by casting these Trump electors, 
+12 and that it would get sorted out by the legislature. 
+13 Now, did they think that that was going to happen? I think probably. 
+14 Otherwise, they wouldn't have gone through the effort, although some of them --you 
+15 know, I don't know. You'd have to ask them, I guess. But no, I don't --I think they 
+16 were trying to comply with the State and Federal statute. 
+17 Q Are you aware of any concerns --I mean, I understand that Michigan law 
+18 says that the electors shall convene in the Senate chamber at the capitol at 2:00 p.m. 
+19 Any concerns about not being able to meet that requirement in Michigan law? 
+20 A Yeah. I expected --I expected that --that, if the Trump slate was somehow 
+21 endorsed or supported by the legislature, that it would be challenged on that technicality, 
+22 because they were kept out of the Capitol. In other words, they were --they were 
+23 outdoors on the steps of the Capitol, or the side door of the Capitol, but they weren't 
+24 inside the Senate chamber at 2:00 p.m. 
+25 So, I think, if the legislature had voted the Trump slate, then one of the challenges  89 
+1 would have been that that slate is no good because it didn't meet the technical 
+2 requirements of the State and Federal statutes. 
+3 Q What about --there is another law that says that --in Michigan that says a 
+4 person is not actually an elector --and I'm summarizing here, but not actually an elector 
+5 until the Governor sends a certificate to that person bearing the seal of the State 
+6 identifying them as having been elected by the popular vote --a certificate of 
+7 ascertainment issue? 
+8 A Yeah, I'm not --I'm not quite sure that that's what the statute says. I think 
+9 all of these electors had been picked some months in advance and were on the official 
+10 Governor's certificate of ascertainment. They pick them for the Democrat Party, the 
+11 Republican Party, the Green Party. All of these people were named in advance. I don't 
+12 think any of them felt like they were rogue agents or doing something untoward, but I 
+13 don't know that. 
+14 Q Okay. And I don't want to mischaracterize that --that law. Obviously the 
+15 law speaks for itself. 
+16 You made an appearance after --maybe before, actually --with, I believe, 
+17 Phill Kline's daughter, and her name is escaping me right now. I believe it might be 
+18 Jacqueline Timmer. Do you remember that? 
+19 
+20 A 
+Q What about her? I'm sorry. What about her? 
+Do you remember making an appearance --a --I believe you filmed a video 
+21 about the meeting of the electors on that same date, December the 14th? 
+22 A Yeah. So Jacqueline Timmer is also a client, or I should say not her 
+23 personally, but her entity, Got Freedom, is also a client. And I did meet with her. She 
+24 was in the Capitol that day making documentaries. That's what she primarily does, is 
+25 she makes documentaries.  1 
+2 Q 
+A And was she there to also film the meeting of the electors, if possible? 
+Yeah. I think she thought that this was --I think she thought this was 
+3 a --you know, kind of interesting historically. It's not something that had happened in 90 
+4 Michigan before, and it's only happened nine or ten times in the country's history. So I 
+5 think she thought it was interesting to get a record of it on film if she could. 
+6 Q And who kept her out of the meeting at the GOP headquarters? 
+7 A I don't know. The same people that kept me out. I mean, you know, 
+8 neither of us were let inside. 
+9 
+10 
+11 
+12 Q 
+A 
+Q 
+A Do you know who it was? 
+No. I didn't recognize the person. And, to be -­
+Was it a manager --
+You know, to be fair, I don't know the --you know, I didn't know the GOP 
+13 party officials at the time. Like, I don't know who these people are, but somebody --we 
+14 went to the door. I went with her, and we were kept out. They said, You can't come 
+15 inside unless you're an elector. And neither of us were on the certificate of 
+16 ascertainment, which they had and were looking at the list, and neither of us were on it, 
+17 so we were kept outside. 
+18 Q What was your understanding of the Trump campaign's role in that meeting 
+19 of these electors, if any? 
+20 A I have no idea. I know they were inside. I know I wasn't. I think they 
+21 were probably doing the paperwork. That's the sense I got afterwards. 
+22 
+23 
+24 
+25 Q 
+A 
+Q When you say they were inside, do you know who was inside? 
+Mark Foster and Shawn Flynn. 
+If we could pull up exhibit No. 10. 
+This is a document you provided to us. This is an email you sent to Mr. Foster  91 
+1 and Mr. Flynn 2 days later on Wednesday, the 16th. Regarding follow up. Can you see 
+2 that down on the screen? 
+3 
+4 A Yep, I see it. 
+Q All right. So, on that, you say, Shawn and Mark, thanks again for your help 
+5 on Monday and for what you're doing for the Constitution. Please send me a copy of 
+6 the green card, registered mail receipt, when you get a minute. I expect challenges, and 
+7 that's the best evidence of mailing. And I summarized the last sentence there. 
+8 So had you been in touch with either Mr. Foster or Mr. Flynn before the meeting 
+9 of the electors on the 14th about this issue? 
+10 A No, I don't believe so. This was the only email that I found when I searched 
+11 my records about this. And I didn't know who Shawn Flynn was until I met him that day, 
+12 later in the day at the GOP headquarters. 
+13 
+14 Q You say that day. You're talking about December 14th? 
+A That's right. I'm sorry if I was unclear. I met Shawn Flynn on 
+15 December 14th, and I saw Mark Foster again --if you recall, he had been a witness for me 
+16 earlier, but I saw them in person at the --at the GOP headquarters after I had gone up to 
+17 the Capitol and was turned away. 
+18 Q And did you talk to either of them --aside from this email, again about the 
+19 meeting of the Trump electors in order to get paperwork or just chat about it generally? 
+20 A Yeah, I asked them what they were doing. And you had asked me earlier if 
+21 they told me, and I don't remember them telling me or having a real concerted plan or 
+22 really a very good idea of what they were doing, except that they said they were trying to 
+23 comply with the State and Federal statute. And that made sense to me, because that's 
+24 what I thought any elector should try and do. 
+25 Q If we could pull up exhibit No. 5, please.  1 Earlier, we discussed Mr. Ken Chesebro, Chesebro, C-h-e-s-e-b-r-o. And you 
+2 identified that you found an email with a memo attached to Judge James Troupis. 
+3 We have two memos. One is dated December 9th, and it has statutory 
+4 requirements for the December 14th electoral vote meeting that walks through Federal 
+5 law and then various State laws. If you scroll down,_, we can show Mr. Northan. 
+6 Keep going. 
+7 Mr. Chamberlain. ., is this something we produced, or --
+8 
+9 
+10 
+11 
+12 
+13 Mr. Northan. I don't recognize it. 
+- Nope, this is not. 
+Mr. Chamberlain. Okay. I was just thinking -­
+- If you keep scrolling down,1111, to page 4. 
+BY 
+Q This talks about --among the other States, it talks about Michigan in 
+14 particular. 92 
+15 Is this the memo that you recalled finding in your email that we discussed earlier? 
+16 A No. I'm not sure. It looks like it could be. It's to and from the same 
+17 people. I didn't know that that guy in Wisconsin was a judge, but I don't remember 
+18 having read it in detail, so I couldn't be sure that this is the one that I got forwarded to 
+19 me. 
+20 
+21 Q Okay. And,_, if you could pull up exhibit No. 4, please. 
+This is another memo, a very similar to and from line. I'll ask if you recognize this 
+22 one. This one is called The Real Deadline for Setting a State's Electoral Votes, another 
+23 memo produced by Mr. Chesebro. And this talks a little bit more generally about the 
+24 various deadlines in law and the Constitution. So --
+25 A Okay.  1 Q We can scroll through it, but does this one look like the one that you found 
+2 in your email? 
+3 
+4 
+5 A I think --again, I couldn't tell you. 
+Q Okay. 
+A I don't think --I don't think this is the one, because it says judge in the top 
+6 line, and I didn't know that guy, James Troupis, was a judge, but maybe I'm just 93 
+7 misremembering. And it's from the same guy, so I just remember glancing at the to and 
+8 from line. 
+9 So I couldn't tell you for sure if one of those two was the one I got forwarded to 
+10 me, or if it's something different, but --I mean, I can tell you I disagree with the very first 
+11 thing that he says, January 6th is the deadline. I don't think that's right. But, again, it's 
+12 of no moment. I didn't rely on this or act on this at the time. 
+13 
+14 Q All right. If we can pull up exhibit No. 12. 
+A And if you would share --I mean, frankly, if you would share those with us or 
+15 with my counsel, I'd be happy to check to see if that's what I received. 
+16 Mr. Chamberlain. I tell you what,.. Let me suggest this. I'm going to go 
+17 get my laptop. I'll try to pull up what it is we did not produce, and maybe we can, you 
+18 know, resolve this yet today. 
+19 
+20 
+21 
+22 
+23 
+24 Mr. Northan. Okay. 
+Mr. Chamberlain. My memory is there was a huge font at the top of -­
+- And this is something I'd be happy to address after as well, but -­
+Mr. Chamberlain. Okay. Just give me 2 seconds. I'll get my laptop. 
+~ Sure. That's fine. 
+Mr. Northan, if you want to keep going while Chip is getting it, I'm certainly happy 
+25 to. I'm also happy to wait until he's back.  94 
+Mr. Northan. All right. I guess in the interest of time, we can continue. 
+Q Okay. All right. 1 
+2 
+3 
+4 So this is a document that we've located. It's called Set in Stone, written by the 
+5 Amistad Project, I believe, and Thomas Moore Society. 
+6 Do you --have you ever seen this document? 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 A 
+Q 
+A It --can you --can you scroll through the whole thing? 
+Sure. 
+Go ahead, please. Keep going. 
+You can continue, please. 
+Go ahead. 
+Thank you. You can continue. 
+Go ahead, please. 
+Thank you. Continue. 
+Go ahead. 
+Go ahead, please. 
+You can continue, thank you. 
+Continue. 
+Go ahead. 
+Go ahead, please. 
+Go ahead, please. 
+Is there any more? 
+Q 
+A 
+Q I think that's the end. 
+Okay. 
+Do you -- 95 
+1 A Go ahead. I recognize that generally. I don't --that's something that my 
+2 client would have prepared, and it's something that --I've seen drafts of that. I don't 
+3 know if the one you've got on the screen is the final version, but I know that I've seen that 
+4 in its draft form and in its final form. 
+5 Q And, without asking about any attorney-client privilege information, if you 
+6 can answer this, did you have any role in drafting it? 
+7 A I don't recall any role in drafting it, but I do recall that I would have --you 
+8 know, for example, the memo cites some of the activity that was occurring in Michigan, 
+9 and I would have been the source of that information for Phil I Kline and the folks at 
+10 Amistad that were drafting it. 
+11 In other words, it cites some of the Michigan court cases. It cites some of the 
+12 things that we saw in Michigan. It cites the Michigan statutes. I would have been the 
+13 one looking those up or providing those to the folks at Amistad before they prepared 
+14 that. So I would have had a research role, but I don't remember drafting this one. 
+15 Q Okay. If you go up just a little bit,-. It's part of the conclusion. And 
+16 just a little bit more. Actually, right there. I'm sorry. 
+17 At the top of that page, it says, Election officials in urban Democrat strongholds 
+18 are behaving similar to a football team which gained an advantage from a questionable 
+19 play and are now running up to the line of scrimmage to begin the next play before 
+20 America can throw the red flag on the field to demand a closer look. 
+21 Do you agree with that, Mr. Northan? 
+22 A Do I agree with that analogy? You know, I'm --I think I mentioned at the 
+23 start of the call, I'm more of a baseball player, but it's --I think that sounds --you know, 
+24 sounds accurate. 
+25 If you start the next play before the last play can be overturned or challenged,  96 
+1 then, in many ways, there is nothing you can do about it. The game goes on. The 
+2 game continues. 
+3 And I think Ph ill Kline and others got the sense that there were people trying to 
+4 call the next play before --before you could take a close look at the last one. 
+5 Q Okay. The reason I'm asking is because, you know, by the time the 
+6 electoral college met on December 14th, by my count, roughly 86 judges across the 
+7 United States, including nine Supreme Court Justices in Texas v. Pennsylvania, had thrown 
+8 out election challenges. 
+9 So I guess I'm trying to understand any basis for suggesting that there hasn't been 
+10 a closer look. These cases have been brought. They failed, I think except one 
+11 generally. So why isn't that litigation enough, I suppose? 
+12 A Why isn't that litigation enough for what? 
+13 Q Yeah. I mean, for this closer look? It looks like this document is asking for 
+14 a closer look. There have been ample time for lawsuits, and many had been brought. 
+15 Many had failed. Why isn't that a closer look? 
+16 A All right. I don't want to quarrel with you, sir. And I certainly don't want 
+17 to be adversarial in this hearing. I am here cooperatively, and I'm trying to cooperate. 
+18 But I think I mentioned anecdotally earlier I had been involved in fraud cases. I had 
+19 been involved in pension fraud cases. I had been in individual fraud cases. 
+20 I've never seen one proved in less than 2 years, in fewer than 2 years. The 
+21 average Federal lawsuit is about 2 years. That was before COVID. It's a little longer 
+22 now. 
+23 To suggest that a closer look had happened in the 2 weeks or 3 weeks after the 
+24 election, I think, is conclusory and unserious. Respectfully, the case that I filed in the 
+25 Michigan Supreme Court, which had stacks of evidence, affidavits, witness testimony, and  97 
+1 expert testimony did not get looked at substantively by the court. It got ruled on 
+2 procedurally. 
+3 So that's not quite the same thing. But I think people can disagree about that. 
+4 But I don't know that your characterization that 80-some courts had looked at things and 
+5 not found anything --I don't know that that's accurate or true. I just know that this was 
+6 the opinion of my client at that time, and I think it was probably fairly held.  98 
+1 
+2 [1:20 p.m.] 
+3 BY 
+4 Q Okay. Yeah. And just asking for your perspective on that, which you 
+5 provided, so I appreciate that. 
+6 Now I think that some of the --you can take this down,~- Thank you. 
+7 Some of the documents you provided, if I'm not mistaken, they were Texas versus 
+8 Pennsylvania pleadings, Supreme Court case, original jurisdiction, ultimately filed by Ken 
+9 Paxton. Are you familiar with the documents I'm talking about? 
+10 A Yeah. So that was another one of the cases that was going on around this 
+11 time. That was filed by several States against the State of Michigan and other States. 
+12 So in other words, States that claimed that they had followed their laws, but they 
+13 sued States that they claimed didn't follow their laws, Michigan being an example. 
+14 Michigan, the State of Michigan, was a defendant in that case. So I did not have 
+15 a role in filing that case directly, but some of my legislative --legislator clients, and I'm 
+16 trying to remember, but I believe many of them joined that lawsuit with, like, an amicus 
+17 brief. 
+18 I wasn't directly involved in that, but I know I helped coordinate that on behalf of 
+19 Amistad, because Amistad was filing an amicus brief, and I believe several of the 
+20 legislatures in Michigan joined it. 
+21 Although personally, I didn't write the brief or join that particular lawsuit. I had 
+22 plenty of my own lawsuits to deal with at that time. 
+23 Q Fair enough. It sounded like a very busy time. I think you answered this 
+24 question, but just to be precise, did you have any role in drafting or consulting on the bill 
+25 of complaints, so the original complaint filed at the Supreme Court, as opposed to the  99 
+1 amicus? 
+No, none. 2 
+3 A 
+Q I want to go back to a call you mentioned earlier with Mr. Giuliani. I believe 
+4 you said it happened in early November --or sometime in November. I'm sorry if I --it 
+5 wasn't early. But can you tell us again about that call and what you remember being 
+6 discussed on that call? I don't think we got into that. 
+7 A Yeah. I don't --I don't remember the exact date. I got a call from some 
+8 folks at Hillsdale that said, hey, we're having a meeting, we're trying to get some people 
+9 together to take a closer look at this issue, and it was --they were going to be legislators 
+10 there. 
+11 And some of those legislators were friends of Amistad or members of, like, its 
+12 grassroots efforts, and they ultimately became my clients, the ones I mentioned 
+13 earlier --Beth and Julie. 
+14 But they called and invited me to that meeting, and it was a group of some 
+15 legislators. I'm trying to remember. You know, I think we met --I want to say we met 
+16 in Jonesville, Michigan, which is a small town on U.S. 12, and there were a handful, maybe 
+17 6 or 8 people there. 
+18 And there were a couple of people on the phone, I don't remember who, and at 
+19 some point, Mayor Giuliani joined the call and spoke with the people that had gathered. 
+20 Q And you said at the beginning of your answer that it was a meeting to look at 
+21 this issue. What was the issue that the meeting was going to look at? 
+22 A Well, it was pretty early, and so, you know, I had filed the preelection 
+23 lawsuits over the statutory violations, and then I had filed the post election lawsuit over 
+24 the statutory violations. So it was looking at the statutory violations. 
+25 Nobody, I don't think, had a clear sense of how bad they were. You know, in  100 
+1 other words, was this a small fraction of statutory violations, or was it a large number? 
+2 Like, this was --this was at a spot where nobody knew if it was outcome determinative, 
+3 right? 
+4 So there was a narrative that said, well, don't bother to look unless it's outcome 
+5 determinative. And no one knew whether or not it was because nobody had done the 
+6 hard work to look to see how many statutory violations there really were. 
+7 Q Do you remember anything specifically, even if not his exact words, but 
+8 anything specifically that Mr. Giuliani brought up or discussed? 
+9 A No. I think it was --it was kind of one of those, hey, you know, we 
+10 think --we think this hasn't been fair. We don't think that the laws have been followed, 
+11 but we don't know. You know, it's really important for you and the people in your State 
+12 to look. 
+13 And I think they invited people to let them know, right, if they said, you know, let 
+14 us know if you find statutory violations and --but I don't --I don't remember the details. 
+15 He was not on the call for very long, and I don't know if he knew that he was 
+16 speaking to a group of legislators and lawyers in Michigan or if he was, you know --or if 
+17 he was --you know, I got the sense that he was making a lot of calls around that time. 
+18 Q Okay. And roughly when do you place this call, date wise? 
+19 A It would've been after I filed the post election lawsuit but before I filed the 
+20 Michigan Supreme Court case, so sometime in early to mid November. 
+21 Q Okay. And did you ever follow-up with Mr. Giuliani or anybody on his team 
+22 about what you were finding? 
+23 A No. I had no interaction with him directly or anybody on his team. I don't 
+24 even know who was on his team. 
+25 - Mr. Chamberlain, I think this is a good time. I don't know if you  101 
+1 were able to pull up what you had from Mr. Chesebro or if we should wait to address that 
+2 later. 
+3 Mr. Chamberlain. No, I haven't been able to find it. It's partly because the 
+4 digital file name differs, you know, so I'm going to keep --keep looking. 
+5 
+6 
+7 Q Okay. Fair enough. And we can follow-up on that. 
+BY 
+One quick follow-up too, the video that you recorded with Mr. Kline's 
+8 daughter on December 14th, sometime around the meeting of the electors, you 
+9 mentioned Dominion voting machines and a 60 percent error rate. 
+10 Did you have any role in looking into Dominion voting machines, either by a 
+11 forensic audit, analysis, or otherwise? 
+12 A I don't remember exactly what I said on that --that call with Jacqueline, but 
+13 right around that time, maybe even that day, there's a case pending up in the Grand 
+14 Traverse County, Northern Michigan, that had been filed by an attorney named Matt 
+15 De Perno. 
+16 Matt DePerno had brought a case on behalf of a candidate or a company 
+17 challenging a bill, and I forget the exact details, but I believe it was over the outcome of 
+18 the election on whether or not a local municipality would legalize marijuana or something 
+19 to that effect. 
+20 I did have some interaction with Mr. DePerno when he had filed that lawsuit. 
+21 don't know how he found me, but I've got quite a bit of experience filing for injunctions, 
+22 mostly trade secret and noncompete cases. And then I had to file for a few in the 
+23 election context already, and so I spoke with him before his injunction hearing. 
+24 And I was generally aware of what was going on, but I --the court had issued an 
+25 order earlier that day or maybe the day before, over the objections of the attorney  102 
+1 general's office and the Secretary of State's office, to release a report. 
+2 And the report, the expert report, showed an error rate of 60 percent overall, and 
+3 80 percent over adjudicated ballots. To me, that was rather shocking because I think 
+4 the statutory error rate under HAVA has got to be a fraction of a percent. 
+5 So to have an error rate that high was rather shocking, and the fact that the 
+6 attorney general's office and the Secretary of State's office had been fighting the release 
+7 of that report tooth and nail, for lack of a better word, was inconsistent with Michigan's 
+8 constitutional requirement to have a transparent and accurate election. 
+9 Q So was the information that you had about Dominion voting machines and 
+10 these error rates all based on that report that resulted from the litigation you just 
+11 described? 
+12 
+13 A 
+Q It was public record at that point. That's where I saw it for the first time. 
+Okay. And did you do any of your own, independent analysis or 
+14 investigation into those machines? 
+15 A Not those particular machines up in Antrim County, up in the Grand Traverse 
+16 court up there. I just saw that report that was reported publicly. 
+17 However, Amistad had experts on staff. Amistad paid for analysis, including of 
+18 voting machines and --but not those specific voting machines. So while I knew that 
+19 there were vulnerabilities, I could not point to any specific examples of vote-changing or 
+20 fraud. 
+21 But Dominion was one of the types of voting machines. There were several. 
+22 don't remember them all off the top of my head, but Amistad had paid for experts and 
+23 had some of those people on staff, looking at whether or not the voting machines 
+24 themselves were being manipulated. 
+25 Q Did Amistad reach any conclusions, to your knowledge, that voting machines  103 
+1 had, in fact, been manipulated and changed the outcome --or changed votes in the 
+2 election? 
+3 A Yeah, I can't speak to that broadly. I can tell you that it wasn't an issue in 
+4 my Michigan case. That was an issue that I felt like I had enough other statutory 
+5 violations, that the voting machines were a distraction. 
+6 Q All right. So on January 2nd --I believe you mentioned this call 
+7 earlier --but there's a call, organized, I understand, by Got Freedom, involving State 
+8 legislators from multiple different States, as well as Professor Eastman, John Lott Jr., I 
+9 believe Peter Navarro was on it, and Phi II Kline, as well as the President. Are you 
+10 familiar with that call? 
+11 A Yeah. I don't --I don't remember --I don't remember everything that was 
+12 on the call, but I think it was --it was a longer call. I want to say more than half an hour, 
+13 and I was on for most of it if not all of it. 
+14 Q What do you remember happening? And specifically I'll ask you first, what 
+15 do you remember the President saying during that call? 
+16 A I don't remember anything specific that he said except, you know --I'll just 
+17 leave it at that. I don't remember anything specific that he said. 
+18 I think that, you know, some of my legislative clients were there on the call --that 
+19 was the purpose --and it was a client, Got Freedom, that was hosting the call. They 
+20 have a grassroots organization. 
+21 But I think this was like an invite-only. I don't think they invited their grassroots. 
+22 I think they only invited the legislators that they were working with, if memory serves. 
+23 And I was allowed to be on the call because I was one of the attorneys, but it wasn't open 
+24 to the public. 
+25 Q It's been reported that the President said something to the effect of you,  104 
+1 meaning State legislators, are the ones with the real power here, and referring to the 
+2 election and the outcome of the election. Do you remember the President saying 
+3 anything like that? 
+4 A That sounds to me like the general theme. I don't know that he ever used 
+5 the word "plenary" but --but I think that's accurate. I think that's true. 
+6 Q What was your understanding of what he was asking the State legislators on 
+7 the call to do, if anything? 
+8 A I think he was asking them to do their own investigations in their various 
+9 States. I think there were --there were different things going on in different States, and 
+10 there was no one-size-fits-all approach. 
+11 But he was asking the State legislatures to ensure that he got a fair shake, and I 
+12 felt like he felt, it seemed, that he didn't feel like he was getting a fair shake in these 
+13 various States, especially by the States that weren't following their own laws. 
+14 Q Did the President mention the joint session of Congress that was going to 
+15 take place just 4 days later, during this call? 
+16 
+17 think --
+18 
+19 A 
+Q 
+A I don't remember that. I don't remember anything specific like that. 
+What about just generally, like, time running out? 
+No. I think --you know, I think there was a general consensus, that, you 
+20 know, the safe harbor deadlines, the 12th, the electoral slate deadlines, the 14th, 
+21 Congress was going to meet the 6th, inauguration day is the 20th, I think people were 
+22 aware of that. 
+23 And I'm trying to remember who, but I think one of the speakers walked through 
+24 that and said, you know --I know Phi II Kline at the time, said, hey, everyone, you know, 
+25 you've got to --you have got to get your act together, and you've got to do your job by  105 
+1 the 20th, because after the 20th it's really hard to undo something if it's a mistake. But I 
+2 don't remember anything specific by the President like that. 
+3 Q After that call, there's a letter that Mr. Kline --well, I shouldn't say he put 
+4 out, but --the Amistad Project at least released, I believe, with another report. It was 
+5 signed by a number of State legislators. 
+6 Do you remember the President, or anybody on that call, encouraging State 
+7 legislators to write a letter and send it to the Vice President or Members of Congress? 
+8 A I don't remember anything on that call specifically. I remember one of the 
+9 things that Amistad was pursuing was to contact --was to contact the Vice President and 
+10 say that the Electoral Count Act, which is where the date comes from, January 6th, for 
+11 that joint session --suggesting that that was unconstitutional and that they really had 
+12 more time, that the real deadline was the 20th, and that they had until the 20th to do 
+13 their work. 
+14 I remembered that concept being pushed around internally and externally. 
+15 don't remember if that's what ended up in the letter to Vice President Pence. 
+16 And I'm not sure that I saw it before it went to him. If you put something on the 
+17 screen, I'm happy to speak to it if I remember it, but nothing immediately comes to mind. 
+18 Q Okay. And I'll show you that in just a second. It's also been reported that 
+19 during call the President said something to the effect of, you know that we won the 
+20 election, and, you, meaning the State legislators, were given false numbers to certify. 
+21 Do you remember the President making comments like that? 
+22 
+23 A 
+Q No. Again, I don't remember any specific comments. 
+Yeah. And just comments like that. I mean, even generally based on your 
+24 recollection. I understand you don't remember specific words but just that idea, that 
+25 the State legislatures were given false --or the States were given false numbers to certify.  106 
+1 A Yeah, I don't know. I mean, I don't think --at that time, I don't think there 
+2 was any State legislator that hadn't delegated this role to somebody else. Like in 
+3 Michigan, it was the State Canvassing Board, but in other States, it was other things. 
+4 I don't think any State legislature met to go over the outcome of the election. 
+5 That's the way it used to be back in the day. They would have a joint session, meaning, 
+6 the States would have a joint session, and they would pick their winner. 
+7 Nothing like that happened in Michigan. So if President Trump was complaining 
+8 about it, I don't know that that would've been accurate because I don't know that the 
+9 legislatures were doing that. I think they had completely delegated that function to 
+10 other people. 
+11 Q Do you remember the President being critical of Mr. Biden and critical of the 
+12 potential that he would assume the Presidency on January the 20th? 
+13 A No, I don't remember that. And, again, I apologize, I don't have, you know, 
+14 a recollection of that --that call very well, but, no, I don't remember anything specific 
+15 about President Biden. 
+16 I think it was all about whether or not the election was fair and whether or not 
+17 Trump had won, not the fact that you liked or disliked, you know, then candidate now 
+18 President Biden. 
+19 Q Okay. And those things you don't remember that we've been talking 
+20 about, do you just not remember whether they happened at all, as opposed to them not 
+21 happening? I don't know if that was a good question, but do you understand what I'm 
+22 asking? 
+23 A Yeah, it's not a very good question, but --you know, but, yeah, I don't 
+24 remember whether or not they happened. I can't say that they did not happen, and I 
+25 cannot say that they did happen. I don't remember what the President said on that call.  1 
+2 
+3 Q 
+A 
+Q 107 
+Your answer cleaned up my question. I appreciate that. 
+I'm sorry that I'm being a bit obtuse, but, yeah, I don't remember. Sorry. 
+Okay. If you could pull up exhibit number 11,-· So this is a 
+4 letter --can you hear me okay? 
+5 
+6 
+7 A I can hear you just fine, thank you. 
+Now I can't hear you if you're still speaking. I can see the letter though. 
+Q There we go. Okay. I'm sorry. I had a moment where I couldn't hear 
+8 you. So you can see the letter? 
+9 
+10 A 
+Q I can, thank you. 
+Very good. This is dated January the 5th --excuse me --and if you scroll 
+11 down,_, it talks about State legislatures, has you looking into certain issues related 
+12 to the election. It talks about January 6th. And if you keep scrolling, and it ends 
+13 generally with a request that the Vice President delay the joint session to give more time 
+14 for State legislatures to do something. And it's signed by --I may have this count wrong, 
+15 but approximately 120 legislators from different States. Are you familiar with this 
+16 letter? 
+17 A You know, I was familiar generally that Amistad and Got Freedom were 
+18 trying to put together a consensus of their legislative clients. I see, for example, Julie 
+19 Alexander on the top alphabetically there, from Michigan. 
+20 I'm looking down the list. I see another Michigan rep, Ken Borton, that I don't 
+21 remember interacting with him. 
+22 And then I see down on the bottom right Beth Griffith --Griffin, excuse me. 
+23 Those were my clients, I remember them. And I think there was some back and forth on 
+24 who would join a letter, who wouldn't, who would be willing to sign, who wouldn't. 
+25 But I don't remember seeing the final version of the letter, just remembering that  108 
+1 I went back and forth a bit with some of these folks. We wanted to make sure that no 
+2 one stuck their neck out, so to speak, or no one signed on to something that they didn't 
+3 agree with. So I remember this happening but don't remember the specifics. 
+4 Q Do you know whether this was at all related to this call that we've been 
+5 talking about on January the 2nd? 
+6 A I don't remember that there was a takeaway from the call that said, hey, 
+7 following the call we're going to send a letter. I don't remember that. It may have 
+8 happened, but I don't think so. I think they're separate. 
+9 Q Okay. All right. You can take this down,-. Thank you. 
+10 
+11 
+12 
+13 
+14 All right, very briefly, just a few wrap-ups. January 6th, where were you? 
+A January 6th, 2020? 
+Q 
+A 
+Q 2021. I'm sorry. 
+Oh, yeah. So I was at home in Michigan --in West Michigan. 
+I understand that Meshawn Maddock, someone who's come up earlier 
+15 today, helped to organize several busloads of people to go to Washington on or before 
+16 January the 6th. Do you know anything about that? 
+17 A No. I didn't have any interaction with her about going to D.C. I found out 
+18 after --afterwards that she had gone to D.C., but I didn't know about it ahead of time. 
+19 
+20 Q 
+A Did you talk to Ms. Maddock about her purpose for being in D.C. on the 6th? 
+No. I didn't talk to her about it ahead of time. I didn't even know that she 
+21 was going, but I saw it reported, both locally and nationally, that she had been there 
+22 afterwards. 
+23 
+24 Q And did you talk to her afterwards at any point? 
+A I've talked with her. I'm trying to remember the circumstances. I think I 
+25 saw her at an event in, maybe, Jackson County, like a Jackson County GOP, like, meet the  109 
+1 candidate-type thing. I went over for that, also with my Hillsdale clients, and met with 
+2 some of the candidates that were running for --were going to be running for office. 
+3 This would've been, like, last summer or last fall. So this would've been, you 
+4 know, 6 or 12 months after her going to Washington, D.C. So I talked to her --
+5 Q Did she say --
+6 A --I saw her at that event, but I don't remember talking with her about it or 
+7 saying anything about being there or why she was there. 
+8 Q Were you aware of any plans, before the 6th, for people to travel to 
+9 Washington, whether it was a part of the buses that went or otherwise related to the 
+10 joint session of Congress? 
+11 A No. 
+12 Q Had you heard anything about people protesting or entering the Capitol on 
+13 January the 6th in D.C.? 
+14 
+15 
+16 A 
+Q 
+A Before it happened? 
+Correct. 
+No. I was watching. I thought it was interesting. I was --I was curious 
+17 as to what would happen in that I've never been alive for a joint session like this, that 
+18 wasn't a formality. And I was --I was interested to see what Vice President Pence was 
+19 going to do with these alternate slates. I was curious. 
+20 I was watching some of it on C-SPAN. I had it on C-SPAN in the morning, going 
+21 on in the background as I was working on other things. But that was the only --only, I 
+22 guess, knowledge I had about what was going on at the Capitol before --beforehand. 
+23 Q And were you curious from, like, an academic perspective of what's going to 
+24 happen, how is this going to play out, or was it from a, you know, "The situation could get 
+25 volatile, there could be problems in D.C." perspective?  110 
+1 A No. I thought it was --I thought it was interesting to see what was going to 
+2 happen academically. I didn't know whether or not Vice President Pence was going to 
+3 walk away from the podium or, you know, count the slates, or what he was going to do. 
+4 I had no idea. 
+5 I did not expect any violence, and, frankly, for the first several hours, there wasn't 
+6 any. There were people kind of parading around the Capitol rotunda. That's what was 
+7 being shown on C-SPAN, you know, a bunch of people in --you know, with their flags and 
+8 their --you know, kind of marching around the rotunda. 
+9 But that went on for hours before --before there was anything --anything that 
+10 even resembled violence. 
+11 
+12 Q 
+A Based on what you were seeing that day? 
+What I was watching on C-SPAN. 
+13 Q Right. Okay. Is there anything that --I guess I'll open it up to you --is 
+14 there anything that we haven't talked about that you think would be helpful for the Select 
+15 Committee as it moves forward and tries to understand the events of January 6th and 
+16 what may have led up to January 6th? 
+17 
+18 Mr. Chamberlain. Come on,., be fair. 
+- Yeah, no, I just wanted to give him the opportunity, if he thinks 
+19 there's something we haven't touched on. I mean, he knows what he experienced more 
+20 than I do. 
+21 
+22 Mr. Chamberlain. Yeah. 
+Mr. Northan. Well, I mean, I can tell you that I was as disappointed, I think, as 
+23 anybody to see what happened on January 6th at the Capitol. I don't condone violence. 
+24 I think I said as much a month earlier at the State Capitol. 
+25 I had nothing to do with anything that went there or went down there, absolutely  111 
+1 nothing to do with it. And to the extent I represented clients who took positions that 
+2 they filed in courts or other things, I think they did it the right way, and they did it fairly 
+3 and accurately. And I think Michigan is still a mess, and it's going to be cleaning up its 
+4 electoral mess for years, if not decades, unless it starts following the laws that it writes on 
+5 its books. 
+6 But my efforts in representing these private clients were to get people to follow 
+7 the law, not to encourage people to break it. And so, you know, that's --I guess that's 
+8 what I would say. 
+9 And the fact that I filed these cases before, during, and after the election, have 
+10 been entirely consistent the entire time and --you know, I can also say --and this isn't a 
+11 social critique, but if people follow the law, then other people are less likely to violate the 
+12 law. 
+13 And that goes for everybody, regardless of what side of the political aisle they are 
+14 on. So when you abuse a power or authority or violate statutes with some impunity, it 
+15 encourages others to do the same. 
+16 As I'm sitting here in grand rapids, we had riots in Grand Rapids last 
+17 summer --excuse me --the summer of 2020. Just this past month, businesses and 
+18 hotels downtown Grand Rapids were boarding themselves up in anticipation of riots or 
+19 other unrest. 
+20 So I'm not some --you know, I'm from a rural area and I'm from a small town in 
+21 Michigan, but at the same time, I'm not so unwise to think that riots can't happen. But I 
+22 have seen enough riots. The work I was trying to do was trying to prevent future riots, 
+23 not stoke them or foment insurrection or revolution or anything else. 
+24 I'm happy to cooperate further if you've got any specific questions, but, no, I don't 
+25 have anything else.  112 
+1 - Okay. I appreciate that. 
+2 And, Mr. Chamberlain, is there anything you'd like to put on the record before we 
+3 go off? 
+4 
+5 
+6 
+7 
+8 Mr. Chamberlain. None. We'll look for that one email. 
+- Okay. 
+Mr. Chamberlain. It's from Tom King to Mr. Northan -­
+- Okay. 
+Mr. Chamberlain. --and forwarding a Chesebro memo. And I know we both 
+9 have seen it, I just haven't been able to pull it up. 
+10 - Okay. That's great, and we'll follow-up with you, but at this point, 
+11 we can go off the record. 
+12 
+13 Mr. Chamberlain. Okay. 
+[Whereupon, at 1:49 p.m., the interview was concluded.]  1 
+2 
+3 Certificate of Deponent/Interviewee 
+4 I have read the foregoing __ pages, which contain the correct transcript of the 
+5 answers made by me to the questions therein recorded. 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 Witness Name 
+Date 113 

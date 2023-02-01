@@ -1,0 +1,518 @@
+079P-R0000745_0001 
+(2021-079) 
+OFFICE OF THE VICE PRESIDENT 
+Information Memorandum 
+TO: VICE PRESIDENT PENCE 
+FROM: OFFICE OF THE VICE PRESIDENT, LEGAL 
+SUBJECT: UNLAWFUL ELECTION CONDUCT IN SIX STATES 
+DATE: JANUARY 1, 2021 
+In six swing states-Arizona, Georgia, Michigan, Pennsylvania, Nevada, and 
+Wisconsin-the GOP and related plaintiffs have alleged both (1) procedural 
+violations of election laws by state or local election officials, and (2) substantive 
+instances of election fraud. This memorandum provides state-by-state charts that 
+summarize these allegations. 
+In general, there is strong evidence that state and local election officials committed 
+numerous procedural violations that reduced transparency and/or favored Democrat 
+candidates. However, most allegations of substantive voter fraud-defined to mean 
+the casting of illegal ballots in violation of prevailing election laws-are either 
+relatively small in number, or cannot be verified. 
+Arizona 
+Allegation Description 
+Limited Access for Observers/Poll Legal observers were told to remain at a card table which was 
+Watchers: Election officials refused ten to twelve feet away from most of the computer monitors and 
+to allow legal observers to fully screens, and the computer monitors were mostly turned away-
+observe the verification of with the few visible screens still being unreadable due to 
+signatures in Maricopa County. distance.1 
+1 [Proposed] Verified Statement of Election Contest, Ward v. ,Jackson et al., Maricopa County 
+Superior Court Case No. CV2020-015285 (Nov. 24, 2020). 
+1  079P-R0000745_0002 
+(2021-079) 
+Errors with Duplicate Ballots: 
+When original ballots could not be 
+read by electronic ballot scanners, 
+elections officials created duplicate 
+ballots and then scanned those. In 
+some instances, the officials 
+erroneously filled out the duplicate 
+ballots. A small number of these 
+errors were later verified in court 
+by comparing them to the original 
+ballots, which officials retained. 
+Statistics-based Allegations: 
+Statistical experts identified 
+numbers suggestive of the 
+possibility of voter fraud, but these 
+numbers cannot be verified. 
+Allegation 
+Limited Access for Observers/Poll 
+Watchers: On December 7th, a trial court ordered a sample of 100 
+duplicate ballots.2 Of the initial sample of 100, two were found 
+to have been miscounted to President Trump's prejudice, and 
+none to former Vice President Biden's prejudice (with one vote 
+being erroneously "flipped" from Trump to Biden, and the other 
+Trump ballot simply uncounted). This was a 2% error. On 
+December 9th, the county agreed to sample an additional 2,500 
+duplicate ballots, and 1,525 were sampled that same day. Of 
+the 1,525 ballots that were sampled that day, seven were found 
+to have been erroneously counted-with five to the prejudice of 
+Trump, and two to the prejudice of Biden. This brought the 
+total rate of error among duplicate ballots to just over half a 
+percentile (0.5%), which is material, given that the candidates' 
+total statewide vote counts were less than half a percentile 
+apart (0.8%). There were not enough total duplicate ballots in 
+the state, however, to affect the outcome of the election. 
+Experts testified that, among other things, 86,845 ballots 
+mailed to voters were never returned to the state, 219, 1:35 mail­
+in votes were recorded by voters who never requested mail-in 
+ballots, and 5,790 ballots were cast by individuals who later 
+moved out of the state.3 The official count shows that Biden 
+received 10,457 more votes than President Trump, making 
+these numbers material. Specific instances of illegal votes, 
+however, cannot be verified at this time. 
+Georgia 
+Description 
+On Election Night at State Farm Arena, election observers, the 
+media, and most election workers left after being told that 
+counting was completed for the night. Video footage, however, 
+shows some election workers actually stayed on the premises 
+for several hours and continued to count ballots largely 
+unobserved.4 Initial reports that the counted ballots were 
+taken from suitcases have been refuted by state officials. 
+Some GOP poll watchers also testified to being intimidated by 
+people working with Democrat-affiliated groups. 5 
+2 Petition for Writ of Certiorari at 8 n. 6, Ward v. ,Jackson et al., No. 20-809 (Dec. 11, 2020). 
+3 Complaint, Bowyer v. Ducey, No. 20-cv-02321-DJH (D. Az. Dec. 2, 2020). This case is under lawyer 
+Sidney Powell. 
+4 ,Justin Gray, Georgia election offi,cials show frame-by-frame what happened in Fulton surveillance 
+video, WSB-TV Atlanta, (Dec. 4, 2020), https://www.wsbtv.com/news/politics/georgia-election­
+officials-show-frame-by-frame-what-really-happened-fulton-survt~i]lance­
+video/T5M3PYIBYFHFFOD3CIB2ULD VD El 
+5 llAlive, Second Georgia Senate election hearing, YouTube, 
+https://www.youtube.com/watch?v=hRCXUNOwOjw 
+2  079P-R0000745_0003 
+(2021-079) 
+Failure to Investigate Potential 
+Fraud and Abuse in a Timely 
+Manner: 
+Questionable Signature Matching 
+Standards: Although both Republicans and Democrats alleged election 
+improprieties during early voting, the Secretary of State did not 
+announce an investigation for weeks and then when he did, he 
+announced that the results of the investigation would not 
+change the results of the election before concluding the 
+investigation.6 
+Similarly, although many people,7 have alleged issues with 
+signature matching on absentee ballots since Election Day, the 
+Secretary of State chose not to announce an audit on signatures 
+until about six weeks after Election Day. This date fell on the 
+date that the Electoral College was to vote.8 
+In Georgia, signature match is the principal way that election 
+officials verify that absentee ballots are cast by the voters who 
+requested them. Some have argued that a consent order the 
+Georgia Secretary of State entered into in early 2020 impacted 
+the state's signature matching standards.9 However, a recently 
+completed audit of over 15,000 mail-in ballots that were cast in 
+Cobb County, jointly conducted by the Secretary of State and 
+Georgia Bureau of Investigation, found that only ten absentee 
+ballots had signature mismatches that required further direct 
+follow-up with the voter. Upon further investigation, eight of 
+the ten voters whose signatures appeared to be mismatches told 
+investigators that the signatures on the baUots were their own. 
+In the remaining two cases, one voter signed in the incorrect 
+spot, and the other voter's wife mistakenly signed her 
+husband's ballot envelope.10 
+6 Kate Brumback, Georgia official announces investigations, defends election, Associated Press, (Nov. 
+80, 2020), https://apnews.com/article/election-2020-georgia-state-elections-elections-voter­
+registration-0dda2f95b4cea6506be9fu6555195alc 
+7 Secretary of State re-certifies Georgia election results; recount confirms Biden victory, 1 lAlive, (Dec. 
+7, 2020), https://www.1lalive.com/article/news/politics/elections/georgia -election-news- live-blog-dec-
+7/85-885855bd-4702-49ad-a50b- laf7 49al 17 4a 
+8 Thomas Barrabi, Georgia secretary of state orders ballot signature match audit in Cobb County, Fox 
+News, (Dec. 14, 2020), https://www .foxnews.com/politics/georgia -secretary-of-state-orders-ballot­
+signature-match-audit-in-cobb-county 
+9 AP FACT CHECK- Trump wrong on Georgia voter signature checks, Associated Press, (Nov. 15, 
+2020), https://apnews.com/article/ap-fact-check-donald-trump-georgia-elections-voter-registration-
+40b b602e6f0facf8eecc88 le88ab 86e0 
+10 https://sos.ga.gov/admin/uploads/Cobb%20County%20ABM%20Audit%20Report%2020201229.pdf 
+3  079P-R0000745_0004 
+(2021-079) 
+Election Night Errors Uncovered by 
+Recounts: 
+Trump Campaign's Numerical 
+Allegations: Floyd County found roughly 2,600 votes during the recount that 
+were not scanned due to human error. The Secretary of State's 
+office immediately called for the resignation of a local county 
+official.11 During the recount, three other counties discovered a 
+total of more than 3,300 uncounted votes on memory cards.12 
+Combined, these uncounted votes added a net 1,400 votes to the 
+Trump/Pence total. When the Secretary of State was 
+confronted with errors in the election system, he chose to 
+minimize and deflect blame. 
+The Trump Campaign has made the following numerical 
+allegations, which OVP has not been able to verify: 13 
+• As many as 2,560 felons with an uncompleted sentence 
+were allowed to register and vote in the election. 
+• At least 66,247 underage people were allowed to register 
+and subsequently illegally vote. 
+• At least 2,423 individuals were allowed to vote who were 
+not listed in the State's records as having been. 
+• At least 4,926 individuals were allowed to vote in Georgia 
+who were registered to vote in another stat. 
+• At least 395 individuals were allowed to vote in Georgia 
+who also cast ballots in another state. 
+• At least 15,700 individuals were allowed to vote in Georgia 
+who filed a national change of address with the Postal 
+Service prior to November 3, 2020. 
+• At least 40,279 individuals were allowed to vote in Georgia 
+who had moved across county lines at least 30 days prior to 
+Election Day and who had failed to properly re-register to 
+vote in their new county after moving. 
+• At least 1,043 individuals were allowed to vote who had 
+illegally registered to vote using a postal office box. 
+• At least 98 individuals were allowed to vote who registered 
+after the last day permitted under law. 
+• At least 2,664 absentee ballots were mailed to individuals 
+prior to the earliest day permitted by law. 
+• At least 217 individuals were allowed to vote whose 
+absentee ballots, according to state records, were applied 
+for, issued, and received all on the same day. 
+• As many as 10,315 or more individuals were allowed to vote 
+who were deceased by the time of Election Day. 
+11 Jason Braverman, Georgia's election audit uncovers 2,600 uncounted ballots in presidential race, 
+1 lAlive, (Nov. 16, 2020), https://www.1lalive.com/article/news/politics/elections/georgia -election­
+audit-nearly-2600-ballots-found-in-floyd-co/85-f65c3042-d4ba -4825-b 1 b3-a2b8ce5fb6f3 
+12 http://www.ajc.com/politics/recount-finds- thousand s-of-georgia -votes-missing-from -initial­
+counts/ ERDRNXPH3REQTM 4SOINPSEP72M/ 
+13 Complaint, Trump v. Raffensperger, Fulton County Superior Court No. __ , (Dec. 4, 2020), 
+https://www.democracydocket.com/wp-content/uploads/si tes/ 45/2020/ 12/Trum p-v. -Raffensperger. pdf 
+4  079P-R0000745_0005 
+(2021-079) 
+Allegation 
+Limited Access for Observers/Poll 
+Watchers: Detroit officials kicked 
+out some Trump campaign 
+observers, and further blocked 
+visibility through windows by 
+putting up paper. 
+Processing Invalid BaHots: In 
+affidavits, a handful of GOP 
+observers and one election worker 
+whistleblower allege that election 
+workers were instructed to count 
+numerous improperly cast ballots.15 
+Statistics-based Allegations: 
+Statistical experts identified 
+numbers suggestive of the 
+possibility of voter fraud, but these 
+numbers cannot be verified.16 Michigan 
+Description 
+During the counting of ballots, Detroit officials removed some 
+Trump campaign observers from the TCF Center, and denied 
+entry to others.14 USA Today's reporting indicates, however, 
+that the GOP and Democrats were both allowed to have 184 
+observers in the room, one per table for counting absentee 
+ballots. Paper was in fact taped up to block the windows, 
+supposedly because election workers felt intimidated by the 
+excluded GOP challengers taking videos through the window. 
+According to a few sworn but otherwise unverified affidavits, 
+Detroit election workers (1) coached voters to vote for the 
+Democrat party and then watched them vote, (2) backdated 
+absentee baHots, (3) accepted mail-in ballots that were mailed 
+in under names that did not match any name on the voter rolls 
+by assigning them to other people with the same last names but 
+who had not voted, ( 4) allowed people to vote in person who had 
+previously applied for an absentee ballot but did not turn the 
+absentee baHot in, and (5) made observers stand six feet away 
+from the counting process, where they could not clearly see the 
+ballots or the poll books. 
+Experts analyzed a sample of data and found 12.23% of voters 
+who voted by absentee ballot never requested an absentee 
+ballot at the clerk's office, as required by law. The experts 
+extrapolated and determined that between 326,460 and 531,467 
+of the total absentee ballots were not requested by an eligible 
+voter. The experts also allege that at least 18,248 absentee or 
+early voters were not residents of Michigan when they voted, 
+and that 317 of them voted in more than one state. 259 
+absentee ballots further illegally listed their home address as 
+" email." 
+14 Devon Link and Ashley Nerbovig, Fact check: Videos showing crowd locked out of Detroit TCF 
+Center with windows obstructed are missing context, USA Today, (Nov. 10, 2020), 
+(https://www. usa today .com/ story/news/factcheck/2020/ l 1/ l O/fact-check-videos-crowd- locked-out­
+detro it-center-lack-context/6195038002/; see also Tresa Baldas et al, 'Get to TCF:· What really 
+happened inside Detroit's ballot counting center, Detroit Free Press, (Nov. 6, 2020), 
+h ttps ://www. freep. co ml story/news/local/ michigan/ detroi t/2 0 20/ 11/06/tcf-center-detroi t-ballot­
+counting/6173577002/ 
+15 Complaint, Constantino v. Detroit, Wayne County Circuit Court No. 20-014780-AW (Nov. 8, 2020), 
+https://assets.documentcloud.org/documents/20403147/wayne-county-michigan-election-fraud­
+lawsuit.pdf 
+16 Petition for Extraordinary Writs, Johnson u. Benson, No. __ (Mich. 2020), 
+https://www.democracydocket.com/wp-content/uploads/sites/45/2020/11/oJohnson-Petition-for­
+Extraordinary-Writs-1.pdf 
+5  079P-R0000745_0006 
+(2021-079) 
+Allegation 
+Illegal Use of Signature 
+Verification Machine: The Clark 
+County Election Department 
+illegally used a machine to verify 
+30% of signatures, even though law 
+requires an employee to check the 
+signatures.17 
+Voter Fraud: When a voter showed 
+up in person to cast a ballot, she 
+was told that she had already voted 
+by mail-even though she had 
+not.19 
+Limited Access for Observers/Poll 
+Watchers: The Nevada Republican 
+Party and the President's campaign 
+accused Clark County election 
+officials of "restricting poll 
+watchers."20 
+Statistics-based Allegations: 
+Statistical experts identified 
+numbers suggestive of the 
+possibility of voter fraud, but these 
+numbers cannot be verified.21 
+Allegation 
+Elimination of Election lntegrit_y 
+Protections: The Democrat 
+17 Id. (Ex. 121). 
+18 NRS 293.8874(1). Nevada 
+Description 
+AB4 requires "the clerk or an employee in the office of the 
+county clerk shall check the signature used for the mail ballot 
+in accordance with" detailed procedures.18 Those procedures do 
+not include relying on artificial intelligence software to verify 
+matching signatures. Moreover, neither the Election Ordinance 
+of Clark County, nor the Nevada State Constitution, make any 
+provision for the electronic verification of signatures. Clark 
+County is the only county in Nevada that uses the Agilis system 
+and the only county in Nevada that does not verify signatures 
+on absentee and mail in ballots in person. 
+The voter believes that it was Clark County's use of Agilis 
+signature-verification software that allowed her mail-in ballot, 
+which she had not signed or mailed, to be accepted and counted 
+in the Election. 
+The Nevada Republican Party and the President's campaign 
+allege that observers were restricted from entering some areas 
+where ballots were being handled and reviewed. 
+Data analysis showed that up to 42,284 Nevada voters returned 
+more than one ballot. It also showed that almost 23,000 ballots 
+were mailed to voters with either non-Nevada addresses or to 
+individuals who had changed their address to a state outside of 
+Nevada within 30 days-therefore not meeting the residency 
+requirement to be eligible to vote. And potentially 1,506 voters 
+who were listed as deceased may have cast ballots. 
+Pennsylvania 
+Description 
+The Democrat Secretary of the Commonwealth entered into a 
+collusive litigation settlement to illegally aid Democrats. First, 
+19 Complaint, Stokke v. Cegavske, No. 20-cv-02046 (D. Nev. 2020), 
+https://www.democracydocket.com/wp-content/uploads/sites/45/2020/1 l/Stokke-v-Cegavske.pdf 
+2° Kristy Leonard, Trump campaign accuses Clark County of 'restricting observers,' calls for changes 
+to vote-counting process, The Nevada Independent, (Oct. 22, 2020), 
+https://thenevadaindependen t.co m/article/trump-cam pai gn -accuses-cl ark-county-of-restricting­
+observers-calls-for-changes- to-vote-counting-process 
+21 Plaintiffs' Proposed Findings of Fact and Conclusions of Law, Law v. Whitmer, Nev. No. 20 OC 
+00163 IB (1st Jud. Dist. Ct., Dec. 3, 2020) (Ex. 49, 67, 92). 
+6  079P-R0000745_0007 
+(2021-079) 
+Secretary of the Commonwealth 
+colluded with Democrat plaintiffs to 
+eviscerate election protections. 
+Processing Invalid Ballots: 
+Democrat-majority counties voted 
+to count illegal votes, and the 
+Pennsylvania Supreme Court 
+allowed it. 
+Lack of Observers: Some Democrat 
+counties refused to allow 
+Republicans to observe the the Secretary illegally permitted unsecure drop boxes at 
+locations other than the county boards of elections. The left­
+leaning Pennsylvania Supreme Court upheld that change.22 
+Second, the Secretary removed signature verification 
+requirements and secrecy envelop requirements for mail-in 
+ballots. The left-leaning Pennsylvania Supreme Court upheld 
+the signature verification change, but found the change to the 
+secrecy envelop rule contrary to law.23 Last, the Secretary tried 
+to extend the deadline for voters to resolve proof of 
+identification issues with their mail-in and absentee ballots, a 
+move that was enjoined bv a state court.24 
+Pennsylvania law prohibits counting mail-in ballots unless the 
+envelope is properly filled out, dated, and signed, but election 
+boards in Democrat-majority counties like Philadelphia and 
+Allegheny voted to count ballots that did not meet these 
+requirements,25 and further set up unlawful procedures for 
+curing defective ballots.26 
+The Pennsylvania Supreme Court ultimately decided to count 
+2,849 signed but undated mail-in ballots, even though the Court 
+acknowledged they were invahd.27 The Court concluded that 
+because the disputed ballots were received by 8:00 pm on 
+Election Day, there was no danger that they were untimely or 
+fraudulent. Therefore, according to the Court, they should be 
+counted, even though they were technically invalid. 
+A court eventually ordered on November 5 that all candidates, 
+watchers, and candidate representatives be permitted to be 
+22 Sam Gringlas, Pennsylvania Supreme Court Extends Vote By Mail Deadline, Allows Drop Boxes, 
+NPR, (Sept. 17, 2020), https://www.npr.org/2020/09/l7/914l60l22/ptmnsy1vania-supreme-court­
+extends-vote-by-mail-deadline-allows-drop-boxes 
+23 Marc Levy, Ballots can't be tossed out over voter signature, court says, Associated Press, (Oct. 23, 
+2020), h ttps:// a pnews.com/ article/ t~lection -20 20-donal d-tru m p-pennsy lvania -elections-courts­
+b7a57 deead8ae82d54ad55726a O 18f92; Kelly Mena, 'Nahed' ballot rules put thousands of 
+Pennsylvania mail-in votes at risk, Philadelphia official warns, CNN, (Sept. 22, 2020), 
+https://www.cnn.com/2020/09/22/politics/ptmnsylvania-warning-secrecy-tmvelope-2020-
+election/index.h tml 
+24 Matthew Santoni, Trump Contests Pa. Extension For Fixing Voter ID L'3sues, Law 360, (Nov. 5, 
+2020), https://www.1aw360.com/artic1es/l326200/trump-contests-pa-extension-for-fixing-voter-id­
+issues 
+25 Jeremy Roebuck and William Bender, Trump's campaign is challenging mail and provisional 
+ballots at record rates in Philly and its suburbs, The Philadelphia Inquirer, (Nov. 11, 2020), 
+https://www.inquirer.com/m~ws/philadelphia -election-results-trump- lt~gal-chal lenges-pennsy lvania -
+mail-ballots-provisional-20201111.html 
+26 Nydia Han and Heather Grubola, Lawsuits filed over curing ballots in Pennsylvania during 2020 
+election, 6 Action Nt~ws Philadt~lphia, (Nov. 4, 2020), https://6abc.com/pennsylvania-ballots-votes­
+voting-pa/7 64 7945/ 
+27 In re: Canvass of Absentee and Mail-in Ballots of November 3, 2020 General Election, No. 31 EAP 
+2020 (Pa. 2020), https://law.justia.com/cases/pennsylvania/supreme-court/2020/35-eap-2020.html 
+7  079P-R0000745_0008 
+(2021-079) 
+processing and counting of mail 
+ballot and envelops.28 
+Unlawful Curing of Defective 
+Ballots 
+Voters Receive Pre-Filled Ballots: 
+Two voters allegedly received pre-
+filled ballots. 
+Mail Carrier Throws Away Ballots 
+Allegation 
+MuniciQalities DisQensed with 
+AI.112lication Reguirements: A total 
+of 170,140 absentee ballots were 
+issued and cast in Milwaukee 
+County (108,947) and Dane County 
+(61,193) without the required 
+written application.32 present to observe Philadelphia's vote canvassing process 
+within a distance of six feet. 
+Democrat election officials in Montgomery County notified 
+when their ballots were defective so they could cure them, even 
+though they had no statutory authority to do so. Law-abiding 
+Republican counties did not extend the same (unlawful) 
+opportunity to Republicans. In addition, the office of the 
+Secretary of the Commonwealth issued guidance right before 
+Election Day stating that voters with defective mail-in ballots 
+could be issued provisional ballots, despite a legal requirement 
+that the voter must swear that the provisional ballot is the only 
+ballot cast. The Democrat party then targeted its voters with 
+printed handbills informing them of this invented right to re-
+vote.29 
+The two ballots, discovered in Brownsville and Farmington, had 
+been filled out before voters received them, the county District 
+Attorney said.30 The District Attorney opened an investigation. 
+A temporary postal worker discarded nine military general 
+election ballots. 31 Her supervisors were informed and she was 
+fired. 
+Wisconsin 
+Description 
+Wisconsin Statute § 6.SG(l) prohibits, with limited exceptions, 
+municipal clerks from issuing an absentee ballot unless the 
+clerk receives a written application from a qualified voter 
+during the 14-day in-person absentee voting period. Instead, in 
+both Dane and Milwaukee Counties, the Canvassing Boards 
+found that the Clerk's receipt of form EL-122 (the "Envelope" in 
+which the absentee ballot is placed by the voter after it has 
+already been received by the voter and after it has been 
+completed) was sufficient to satisfy the statutory written 
+application requirement.33 
+28 Keith Schweigert, ,Judge reverses Philadelphia Court ruling, orders all campaign representatives 
+can observe vote counting process from distance of 6 feet, Fox 43, (Nov. 5, 2020), 
+https://www.fox43.com/ article/news/politics/judge- reverses-philadelphia -court-ruling-orders-all­
+cam paign -representatives-can -observe-vote-counting-process-from -distance-of-6-feet/ 52 l -fa6967 48-
+c788-495f-aa64-4f8efu2e l 34e 
+29 Complaint, Metcalfe v. Wolf, No. __ , (Pa. Cmwlth. 2020). 
+3° Fayette DA: Two voters received pre-filled ballots, Pittsburgh Post-Gazette, (Oct. 31, 2020), 
+https://liber.post-gazette.com/local/south/2020/10/31/Fayette-County-election-pre-filled-ballots­
+Richard-Bower-district-attorney-KDKA/stories/202010310053 
+31 Viktoria Hallikaar, Lu.zerne County says a temporary worher threw out military ballots, Fox 56, 
+(Sept. 25, 2020), https://fox56.com/news/local/luzerne-county-responds-to-umova -ballot-investigation 
+32 Complaint, Trump v. Evers 
+33 Id. 
+8  079P-R0000745_0009 
+(2021-079) 
+Absentee Ballots with Incomplete 
+Certifications: A total of 5,517 
+absentee ballots with incomplete or 
+incorrect EL-122 Ballot Envelopes 
+on which municipal clerks in 
+Milwaukee County (2,215) and 
+Dane County (3,302) added missing 
+information were illegally 
+counted.34 
+Absentee Ballots Improperly Issued 
+to Voters Claiming Indefinite 
+Confinement Status: 
+Absentee Ballot Cast for Dead 
+Voter 
+Illegal Correcting of Ballots 
+34 fd. 
+35 Id. Wisconsin Statute § 6.87(6d) requires absentee ballots with a 
+certificate missing the address of a witness not be counted. 
+Municipal clerks in Milwaukee County and Dane County 
+illegally added missing witness information to ballot 
+certifications. In accordance with Wisconsin Statute§ 6.84(2), 
+absentee ballots accompanied by incomplete certifications or 
+those ballots which municipal clerks in Milwaukee County and 
+Dane County added missing information are illegal and 
+invahd.35 
+In March 2020 the Dane County Clerk and Milwaukee County 
+Clerk concluded that during the COVID-19 emergency and 
+based upon the Governor's Stay at Home order, all voters 
+within the county could declare themselves "indefinitely 
+confined" due to illness for purposes of obtaining an absentee 
+ballot. This designation further allowed voters claiming it to 
+circumvent the state's photo ID requirements. 
+On March 31, 2020, the Wisconsin Supreme Court granted the 
+GOP's request for preliminary injunctive relief, concluding that 
+the Dane County Clerk could not direct voters that anyone 
+could request an absentee ballot as indefinitely confined due to 
+the pandemic and governor's stay-at-home order. The Court 
+concluded that under Wisconsin law declaring oneself 
+indefinitely confided or disabled for an indefinite period is an 
+individual determination that only an individual elector can 
+make and that determination may be based only upon age, 
+physical illness, or infirmity, and that the mere presence in the 
+community of a communicable disease, such as COVID-19, does 
+not itself entitle all electors in Wisconsin to obtain an absentee 
+ballot. 
+A woman was charged with election fraud after a police 
+investigation found that she submitted an absentee ballot for 
+her deceased spouse. Investigators said the suspect not only 
+confessed, she also listed herself as the voter's witness on the 
+ballot envelope.36 The attempted fraud was caught, and the 
+ballot was not counted. 
+Clerks corrected or cured missing witness address information 
+on mail-in envelopes, which Republicans contend violated a 
+state law stating that "[i]f a certificate is missing the address of 
+a witness, the ballot may not be counted."37 The guidance 
+permitting the address correction procedure had been in place 
+since 2016. 
+36 Ben Jordan, Cedarburg woman charged with election fraud, accused of submitting dead partner's 
+ballot, TM,J4, (Nov. 24, 2020), https://www.tmj4.com/news/election-2020/cedarburg-woman-charged­
+with-election -fraud-accused-of-submitting-dead-partners-ballot 
+37 Wisconsin clerks altered ballot information according to guidance (jsonline.com) 
+9  079P-R0000745_0010 
+(2021-079) 
+Improper Completion or Delivery of 
+Absentee Ballots by Madison Clerk: 
+ss Id. 
+39 Id. In an event dubbed "Democracy in the Park, a total of 17,27] 
+absentee ballots were collected by employees of the City of 
+Madison on September 2G, 2020, and October 8, 2020, at 20G 
+separate locations."38 Representatives of the City Clerk's Office 
+registered voters, received ballots, helped in the completion of 
+Ballot Envelopes, instructed on the ballot process, and acted as 
+witnesses for voters. The creation of 20G separate locations for 
+the Clerk's Office did not comply with Wisconsin Statute§ 
+G.855(1) in numerous respects. As such, the activities 
+conducted were illegal. 39 
+10 

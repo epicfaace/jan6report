@@ -1,0 +1,36 @@
+Message 
+From: 
+Sent: 
+To: 
+Subject: Bill Stepien [BStepien@donaldtrump.com] 
+11/13/2020 6:53:28 PM 
+Limiller@donaldtrump.co m] 
+Fwd: AZ Federal ID Voters ; Justin Clark Liclark@donaldtrump.com]; Jason Miller 
+Begin forwarded message: 
+From: Alex Cannon <acannon@donaldtrump.com> 
+Date: November 13, 2020 at 6:09:57 PM EST 
+To: Bill Stepien <BStepien@donaldtrump.com> 
+Cc: Faith McPherson <fmcpherson@donaldtrump.com> 
+Subject: AZ Federal ID Voters 
+Bill-
+We completed the AZ analysis you requested. Because of the substantial uncertainty surrounding the 
+databases, this is a highly unreliable way to identify ineligible voters. 
+Summary: 
+Y = SSN available (1,639} 
+N = no SSN available (29) 
+U = unable to locate the individual in our database based on the input provided (1,015) 
+As for records that came back with a "U" flag, keep in mind, just because the expert didn't get a match 
+to a SSN based on the input data provided, doesn't mean that the individual doesn't have a SSN and it's 
+a case of fraud. There are many sources of data that contribute to the expert's files, including credit 
+resources. No SSN available for a record could just mean that the individual doesn't have much or any 
+credit activity and that SSN isn't tied to an individual in our file, among other potential reasons. 
+For records that come back with "N" flag, that means the expert was unable able to match that record 
+on the input data to their database, but were not able to find or confidently tie a SSN to that record. 
+Lastly, any records with a "Y" we have a high confidence match and SSN available for that record. 
+CONFIDENTIALITY NOTICE: This message (including any attachments) may contain confidential, 
+proprietary, privileged, and/or private information. This information is intended to be for the use of the 
+individual(s) designated above. If you are not the intended recipient of this message, please notify the sender 
+immediately, and delete the message and any attachments. Any disclosure, reproduction, distribution, or other 
+use of this message or any attachments by an individual or entity other than the intended recipient is prohibited. 
+Copyright and any other intellectual property rights are the sole property of Donald J. Trump for President, Inc. 
+MM007288 

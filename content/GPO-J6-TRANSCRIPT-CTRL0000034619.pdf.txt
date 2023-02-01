@@ -1,0 +1,3341 @@
+1 
+2 
+3 
+4 
+5 
+6 SELECT COMMITTEE TO INVESTIGATE THE 
+7 JANUARY 6TH ATTACK ON THE U.S. CAPITOL, 
+8 U.S. HOUSE OF REPRESENTATIVES, 
+9 WASHINGTON, D.C. 
+10 
+11 
+12 
+13 INTERVIEW OF: GENERAL JAMES CHARLES MCCONVILLE 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 Thursday, November 4, 2021 
+Washington, D.C. 
+22 The interview in the above matter was held in Room 4480, O'Neill House Office 
+23 Building, commencing at 9:28 a.m. 
+24 Present: Representative Lofgren .. 1  1 Appearances: 
+2 
+3 
+4 For the SELECT COMMITTEE TO INVESTIGATE 
+5 THE JANUARY 6TH ATTACK ON THE U.S. CAPITOL: 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 CHIEF INVESTIGATIVE COUNSEL 
+ENIOR INVESTIGATIVE COUNSEL 
+ETAILEE, DEPARTMENT OF HOMELAND SECURITY 
+INVESTIGATIVE COUNSEL 
+15 For the U.S. DEPARTMENT OF DEFENSE: 
+16 
+17 EDWARD RICHARDS, AGENCY COUNSEL, SENIOR ASSISTANT DEPUTY GENERAL COUNSEL, 
+18 OFFICE OF THE SECRETARY OF DEFENSE 
+19 RUSSELL NORMAN, LEGISLATIVE COUNSEL, DEPUTY CHIEF OF THE LEGISLATION, 
+20 INVESTIGATIONS, AND NOMINATIONS DIVISION, OFFICE OF THE CHIEF OF LEGISLATIVE 
+21 LIAISON, DEPARTMENT OF THE ARMY 2 
+22 MAJOR CHERYL SHEFCHIK, LEGISLATIVE ASSISTANT TO THE CHIEF OF STAFF OF THE ARMY  3 
+1 For GENERAL JAMES CHARLES MCCONVILLE: 
+2 
+3 COLONEL  1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 Good morning, General Mcconville. My name i~ 
+I'm a senior investigative counsel here at the House Select Committee. 
+This is a voluntary transcribed interview conducted by the House Select 
+Committee to Investigate the January 6th Attack on the U.S. Capitol pursuant to House 
+Resolution 503. 
+Can you state your full name and introduce everyone on your side -­
+General Mcconville. Okay. 
+-or everyone who's on the record? 
+General Mcconville. Yeah. My name is General James Charles Mcconville. 
+And I have with me personal counsel here and then Ed Richards over here. 
+12 And then Cheryl is from Congressional Liaison. 
+13 Great. 
+14 Mr. Norman. And I'm Norman Russell, Department of the Army, Office of the 
+15 Chief Legislative Liaison. 
+16 And joining me on the House Select Committee is 
+17 our chief investigative counsel. And also joining me is~ho's 
+18 investigative counsel. 
+19 I see that the committee provided you exhibits. Do you have a binder there in 
+20 front of you? 
+General Mcconville. I do have it right in front me, yeah. 4 
+21 
+22 
+23 
+24 
+25 Did you have an opportunity to review those before you came? 
+General Mcconville. I did. 
+Great. 
+And there's a court reporter who will create a verbatim record of what we discuss.  1 With that in mind, it's important that you answer the questions verbally so the court 
+2 reporter can take down the answers. 
+3 
+4 General Mcconville. Sure. 
+Although this interview is not under oath, you are required to 
+5 answer questions before Congress truthfully. This requirement applies to questions 
+6 posed by congressional staff in an interview pursuant to 18 U.S.C., section 1001, which 
+7 makes it a crime to make any materially false, fictitious, or fraudulent statements or 
+8 representations in the course of a congressional investigation. 
+9 Do you understand that? 
+10 
+11 General Mcconville. I do. 
+And, obviously, we want you to answer the questions in the 
+12 most complete and truthful manner possible. If you need a moment to consult with 
+13 either counsel, please feel free to do so. Or if you don't understand my question, I can 
+14 certainly rephrase it. 
+15 
+16 
+17 General Mcconville. Sure. 
+Do you have any questions for me before we begin? 
+General Mcconville. I do not. 
+18 Do you have anything you'd like to say before we start the 
+19 interview? 
+20 General Mcconville. Well, I just --I appreciate having the opportunity to come 
+21 before the committee. I think it's very important we get the lessons learned from this 
+22 event so it never happens again. 
+23 Okay. 
+24 EXAMINATION 
+25 5  6 
+1 Q I know that you've had a decades-long career with the Department. I was 
+2 wondering if you could just walk us through your career prior to your appointment as the 
+3 chief of staff of the Army. 
+4 A Well, I'm a 1981 graduate of the United States Military Academy at West 
+5 Point. I have a master's degree in aerospace engineering. And I was a national 
+6 security fellow at Harvard, actually, during 9/11. 
+7 I've had the privilege of serving in the Army for a little over 40 years, and I've had 
+8 all the type jobs, the various commands, you know, company, battalion, brigade. And I 
+9 had the honor of commanding the 101st Airborne Division for almost 3 years. 
+10 And I've got multiple combat tours in Iraq and Afghanistan, including commanding 
+11 the 101st Airborne Division in Afghanistan. And I've been involved in, you know, many, 
+12 many operations where we had to have quick reaction forces respond in very challenging 
+13 situations. 
+14 And I was the vice chief of staff of the Army, the number-two officer in the Army, 
+15 and, most recently, the chief of staff of the Army for a little over 2 years. 
+16 Q When were you first appointed to be the chief of staff of the Army? 
+17 
+18 
+19 
+20 A 
+Q 
+A 
+Q I was appointed in August of 2019. 
+And the Secretary of the Army at that time was? 
+Was Secretary McCarthy. 
+McCarthy. And it was Secretary Ryan McCarthy at the time of January 6th 
+21 as well, correct? 
+22 A Yes, it was. 
+23 Q And when you were appointed the chief of staff of the Army, Secretary Esper 
+24 was the Secretary of Defense. Is that right? 
+25 A I need to check on that.  Okay. 
+I know this --when I was --I'd have to check on that. I should know. 
+It's okay. 7 
+1 
+2 
+3 
+4 Q 
+A 
+Q 
+A I know --I was actually nominated by Secretary Mattis. And then Secretary 
+5 Mattis came in. So I'm just not sure exactly when Secretary --yeah, that makes sense. 
+6 Secretary Esper was right around that timeframe, because, basically, Secretary McCarthy 
+7 came in as the Secretary, Secretary Esper moved up, so that does make sense. So it was 
+8 probably Secretary Esper. 
+9 But we can confirm that for you. 
+10 Q No problem. 
+11 If you could just give us kind of a broad view of what the role of the chief of staff 
+12 of the Army was. 
+13 A Yeah, it's an interesting term, because a lot of people hear "chief of 
+14 staff" --and I know in many of your offices you have a chief of staff that works for a 
+15 Member and they do the coordination of the staff. The chief of staff of the Army is 
+16 somewhat of a different role. And it really stems back to --it used to be the commander 
+17 of the Army. And, today, the chief of staff of the Army is not the commander of the 
+18 Army. He or she is actually the number-one Army officer in the Army. 
+19 I have, really, two roles. One is as an advisor to the Secretary of the Army. 
+20 That's how we make sure that we have civilian control of the Army, that the chief of staff 
+21 provides best military advice on how we man, we equip, we organize, and train the Army 
+22 and make forces available. 
+23 The second role the chief of staff of the Army has is on the Joint Chiefs. I am a 
+24 member of the Joint Chiefs. And, in that role, we provide military advice to the 
+25 Secretary of the Defense and to the President on military-type operations.  8 
+1 Q Okay. That's very helpful --thank you --for those of us as civilians who 
+2 don't understand the chief of staff title as it relates to your role and responsibilities, 
+3 which are incredibly more vast than the chief of staff in another sense. 
+4 A Well, I think that, you know, because --you know --and, again, as the chief 
+5 of staff, you know, when you say things, you know, some people look at you as the 
+6 commander of the Army, like you're giving orders. So, you know, the orders that come 
+7 through, you know, from the generals are based on decisions made by our civilian 
+8 leaders. And those are the checks and balances that we have in place. 
+9 And, you know, we certainly will come back and, you know, make 
+10 recommendations. Is this the proper employment based on a military experience? 
+11 But, at the end of the day, it's civilian control of the military, which it absolutely should 
+12 be, and that's the type of --you know, that's the way our country is set up. 
+13 Q And as part of your experience, and particularly in your role, are you familiar 
+14 with the authorization process within the Department for the D.C. National Guard 
+15 deployment? 
+16 
+17 
+18 A 
+Q 
+A I am. 
+Can you just explain that to us? 
+Okay. So, you know, the District of Columbia, when it comes to the 
+19 National Guard, is somewhat different than the rest of the country. Because in the rest 
+20 of the country you have a Governor, and the Governor is responsible for employing the 
+21 National Guard in local domestic-type situations if they're not federalized. 
+22 But, in the District of Columbia, the D.C. National Guard actually works for the 
+23 President of the United States. That's the chain of command. Now, the President has 
+24 delegated that to the Secretary of Defense. And then the Secretary of Defense has 
+25 delegated that, in some circumstances, to the Secretary of the Army.  9 
+1 So the Secretary of the Army generally has the authority, if given, to employ the 
+2 National Guard in support of law enforcement agencies inside the District. And there's 
+3 42 of them. So, you know, there's a lot of different law enforcement agencies that could 
+4 request support. 
+5 So, if someone wants to employ the National Guard, there will be a formal request 
+6 that usually comes through the commander of the National Guard. And that comes up 
+7 to, you know, the Secretary of the Army, or it could go to the Secretary of Defense. And 
+8 based on that request, there's a decision made on whether they'll, you know, employ the 
+9 National Guard in that role. 
+10 Q When you say there's 42 agencies within the District that can make that 
+11 request --
+12 A Well, there's 42 different law enforcement agencies, you know, and some 
+13 are very small. Most of the Federal agencies that reside inside the District have some 
+14 type of law enforcement capability. It may just be for --their jurisdiction may just be 
+15 their buildings, or it can be larger jurisdictions, like the Park Police. 
+16 You know, the Park Police have responsibility for the parks. The Capitol Police 
+17 have responsibility for the Capitol Building. The Metro Police have responsibility for, 
+18 you know, basically the District. You know, the Secret Service has responsibility for 
+19 around the White House. And so you have many, many organizations that have 
+20 responsibility inside the District for law enforcement. 
+21 Q The request that the Army would receive from any of these law enforcement 
+22 agencies, is there a particular manner in which the Army receives it? Or can it just 
+23 come, as we've seen from January 6th, through a letter to the commanding general of the 
+24 D.C. National Guard? 
+25 A Yeah, that's pretty standard, for a letter to come just outlining what type of  10 
+1 request they would have. That's pretty much, in my experience, what I've seen, a letter 
+2 from either an organization or it could be from a Cabinet member. Sometimes it comes 
+3 in to the Secretary of Defense. Sometimes it comes in to the Secretary of the Army. 
+4 
+5 
+6 
+7 
+8 Q 
+A 
+Q 
+A 
+Q For --I'm starting on general questions, but specifically for January 6th -­
+Yeah. 
+--was there any request made by the Capitol Police prior to the day itself? 
+No, there was not. 
+Would it have made a difference to the Army whether the Capitol 
+9 Police --whether the chief had made that request or whether it had come through the 
+10 Capitol Police Board? 
+11 A Yeah, I think it would've made a difference in having a request, because that 
+12 would've allowed the D.C. National Guard to bring people in to support that request. 
+13 What some may not understand is that the National Guard --most of the National 
+14 Guard has civilian-type jobs. So, you know, they could be working here in Capitol Hill. 
+15 Some are law enforcement. Some are working out in the community. Some are not 
+16 necessarily even inside the District. 
+17 So, when there's a request made, what the commander of the National Guard will 
+18 do is he will go out and bring people in to fulfill that request. And so, if there's a request 
+19 made --and the sooner the request is made, the better opportunity there is to actually 
+20 bring those soldiers in, the better opportunity there is to actually develop an integrated 
+21 security plan, the better opportunity there is to make sure they have the right equipment, 
+22 the right soldiers --
+23 
+24 
+25 Q 
+A Right. 
+--to do the right task. 
+So, from where I'm at, you know, we strongly recommend that, you know, if  11 
+1 you're going to need forces or military forces, you do that prior to the actual moment you 
+2 need them. 
+3 Q And I appreciate that answer. I'm just curious whether the request itself, 
+4 does it matter if it's the Capitol Police Board --I don't know if you're familiar with the 
+5 Capitol Police Board process that's been, kind of, discussed in terms of the chief of police, 
+6 of the Capitol Police, has to go through the Capitol Police Board to make the request of 
+7 the D.C. National Guard. But from the Army perspective, would it matter if the chief of 
+8 police just directly requested it? 
+9 A Well, if you put it in writing, we --I mean, the process --because there's a 
+10 process that the Secretary has to go through. 
+11 
+12 Q 
+A Got it. 
+And if you've seen --you have some of the exhibits where they have to go 
+13 back and, you know, basically say, hey, we --and we've come back and, you know, go to 
+14 the, you know, Deputy Attorney General. So there's an information we are actually 
+15 going to do that. 
+16 
+17 Q 
+A Uh-huh. 
+We inform Congress that we're going to do those type of things, and we 
+18 have requests like that. And some of those exhibits are in the --at least the book that 
+19 you gave me. 
+20 Q Right. 
+21 As long as it's in writing, essentially, from an agency, the Army will honor the 
+22 request for the D.C. National Guard. 
+23 A Well, the --as long as, you know, if there's a request made, the Army or the 
+24 Secretary of Defense, or OSD, will act on that request. 
+25 Q Is it accurate to say that the Army does not participate in any security  12 
+1 planning for the Capitol without any request? 
+2 A That's correct. That is correct. Yeah, we don't go around, you know, 
+3 especially, you know, in a domestic situation, and provide support that is not requested. 
+4 We would have to be requested. 
+5 Now, we could offer support. You know, if you requested --you know, we have 
+6 experts in, you know, physical security. And, you know, in fact, you know, how would 
+7 you prevent people from maybe entering, you know, this situation? 
+8 So, if we were asked for that type of support, we would, you know, take a look at 
+9 the request, we'd talk to legal counsel, and then go ahead and be prepared to perform 
+10 those type of missions. 
+11 Q In a domestic situation, though, would DOD or the Army ever take the 
+12 primary role in terms of a security event? 
+13 A I have not seen that. Usually --and, again, anything could change, but, you 
+14 know, usually --at least what we recommend is that there's a lead Federal agency that's 
+15 not the military. And --
+16 
+17 Q 
+A Why is that? 
+Well, there should be someone that is going to coordinate the various law 
+18 enforcement agencies. 
+19 And, you know, there's a general feeling that, and even within the law, that, you 
+20 know, the military should only be used, you know, as more of a last resort, extreme cases, 
+21 when it comes to law enforcement. 
+22 I mean, ideally, from where we sit, and, you know, the recommendations for 
+23 lessons learned is there should be a lead Federal agency who --because you could have 
+24 multiple agencies in multiple jurisdictions, so there has to be someone that is going to 
+25 facilitate unity of effort. And then there should be an integrated security plan that  13 
+1 designates what each law enforcement agency is responsible for doing. 
+2 And then, once they have an integrated security plan, they can start to allocate 
+3 law enforcement to those type missions. We need 50 people to do this. We need 100 
+4 people to do this. We need people to do this. And, oh, by the way, here are some 
+5 contingency missions that we believe may happen, and we want someone to respond. 
+6 And when they do, they should respond with this many people. They should be maybe 
+7 armed or unarmed. They should have this type of equipment. 
+8 And all those type things that will allow the agencies or law enforcement agencies 
+9 or even the National Guard to have some idea of what they're expected to do when they 
+10 arrive at that situation. 
+11 
+12 
+13 
+14 Q 
+A 
+Q And we'll get into a little bit more about the lead Federal agency -­
+Yeah. 
+--as we get closer to January 6th. 
+Just one broader question before we go off the process: Is it by policy that the 
+15 D.C. National Guard cannot go to the Capitol without a request, or is it by statute? This 
+16 concept of a request, can you just unpack that a little bit? 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 A 
+Q 
+A 
+Q 
+A 
+Q 
+A 
+Q 
+A Well, I'm going to --because I think --I don't want to practice law if I -­
+Sure. 
+But I'll ask --can I ask my legal --because I --
+Of course. And I didn't mean to trigger anything. 
+No, no --
+The question was just in your experience. 
+No, the question is --my experience is --
+Uh-huh. 
+And, again, I don't want to practice law in front of a lot of lawyers here.  14 
+1 But the way I understand it is, you know, we do not employ military forces, especially in a 
+2 law enforcement environment, without some type of request and some type of approval. 
+3 And, in this case particularly, you know, there were requests made by the 
+4 leadership that were actually restricted when they came to us from the mayor, from the 
+5 director of emergency services, that kind of laid out what they were going to do. And, 
+6 you know, there's a letter from the mayor that goes to, you know, the Acting Attorney 
+7 General, Department of Defense, and even Secretary McCarthy that says, this is, you 
+8 know, what we want, and we don't expect any additional, you know, employment of 
+9 forces unless they're actually authorized. 
+10 So, as a general rule --and, you know, I'd defer to counsel on that --we don't 
+11 employ military forces, nor, personally, do I think we should, unless there's a validated 
+12 request from the appropriate authorities. 
+13 
+14 
+15 
+16 Q 
+A 
+Q 
+A Thank you for that. And if there's anything to add legally, we will -­
+Yeah, I'll get that. 
+--but I wanted your experience and your --
+But that's my experience. I mean, because, again, you know, deploying the 
+17 military should only, in my opinion, be the last resort, you know, especially when it comes 
+18 to law enforcement. 
+19 Q There has been a lot of comparisons about the response of the Army from 
+20 the summer protests after the murder of George Floyd and to January 6th. In your 
+21 opinion, was the summer protest response, was that a last-resort situation? 
+22 A Well, I think, when I look at the response, it was what was requested over a 
+23 build-up of days. I mean, the first response for National Guard I think I have was --let's 
+24 see if I can find it. 
+25 The first request for National Guard during the summer was by the Secretary of  15 
+1 the Interior, and it was on 30 May. And it was up for --it was from Park Police, and they 
+2 wanted 100 National Guardsmen for 30 May, and then they wanted 250 for 31 May. 
+3 So, over the days --
+4 
+5 Q 
+A Uh-huh. 
+--as these civilian law enforcement saw that things were getting, you know, 
+6 larger, they increased their request for military forces. 
+7 Q And just so we're clear on the process that occurred for that request on 
+8 May 30th and May 31st --
+9 A Right. 
+10 Q --was it similar to the process that we saw that occurred in the days 
+11 following the --
+12 A Right, there was a formal --there was a formal request. And someone 
+13 along the lines of probably the Secretary of the Interior or the Park Police requested in 
+14 writing to the Secretary of Defense or to the Secretary of the Army a request for forces. 
+15 Q And was there a similar mission analysis conducted in the sense of --as we 
+16 saw in January 6th, there was an initial request of 350 people, and then it was 250 
+17 people, and then it went up to 340 people --
+18 
+19 A 
+Q Right. 
+--that analysis that the Army had from December 31st until just January 4th. 
+20 Did a similar analysis occur during the summer? 
+21 A Well, there is --when we receive requests, you know, what will happen is, 
+22 the National Guard will take that almost as a request, and then they start to take a look at 
+23 what would it take to do that. 
+24 
+25 Q 
+A Uh-huh. 
+You know, a lot of times, rather than requesting 100 National Guardsmen,  16 
+1 ideally, you know, we would like something like, we want you to man 20 traffic control 
+2 points for this long, you know, with this amount of people. Then we can come back and 
+3 say, okay, we're going to run 8-hour shifts, this is how we need to do it. So, you know, 
+4 they would come forward and say, we think to do what you want us to do is actually 
+5 going to take 340. 
+6 And that's similar to what happened on 6 January. Initially, if you saw some of 
+7 the documentation from that, I think the National Guard came out and said, we need 250. 
+8 But as they did more analysis and, you know, you realize that, you know, it's going to go 
+9 for a longer period of time, you may need more people to do it. And that's where the 
+10 numbers came from. 
+11 
+12 
+13 Q Right. But is that a typical analysis --
+A That's a typical, yeah. And that's really what you want to do. 
+you get a request from a civilian agency, you want to do a mission analysis. Anytime 
+That --we 
+14 call it mission analysis. That's basically looking at the request and trying to determine 
+15 the best way to accomplish what they want to accomplish. 
+16 
+17 
+18 Q 
+A 
+Q And because you have the numbers in front of you from the summer -­
+Yeah. 
+--what was the outermost number that the National Guard provided during 
+19 that time, if you know? 
+20 A Well, it grew eventually to thousands. Because we brought out-of-State 
+21 National Guard in to support that during the summer. 
+22 Q And can you describe kind of the time period, the build-up of when that 
+23 occurred? 
+24 
+25 And let me just say this. There is --
+A Yeah.  1 Q Are you familiar with the picture that was kind of in social media, in the 
+2 public, of the D.C. National Guardsmen, or National Guardsmen, in front of the Lincoln 
+3 Memorial during the summer protests? I remember President-elect Biden at the time 
+4 showed that. 
+5 
+6 A 
+Q Yeah. 
+So there's this criticism of the Army of how much they responded to the 
+7 summer versus January 6th. And I'm wondering if you can explain, as you kind of 
+8 alluded to, the build-up over time and how that compares to what happened within 
+9 minutes, really, on January 6th? That's the backdrop of my question. 
+10 
+11 A Yeah. I'm just trying to see if I have the exact build-up. 
+This has the initial request. I don't think I have the build-up. There was a 
+12 request on 1 June for assistance; many National Guards made available. 17 
+13 So, if you look at the dates, it was, you know, the 30th, the 31st. And then on 1 
+14 June was when the request got a lot larger. 
+15 And then there was requests --there was concern about the reason there were 
+16 soldiers and, really, law enforcement --it wasn't all soldiers --at the monuments, there 
+17 was just concerns that the monuments may get defaced, because some of them had been 
+18 defaced, and so they put security at those monuments. 
+19 Q I want to kind of step back before we get into a little more about the 
+20 summer and talk about the Army obtains any domestic intelligence or threat information 
+21 before an event. 
+22 
+23 A 
+Q 
+24 intelligence? 
+25 A Yeah. 
+And with January 6th, what was the Department relying on for its 
+Well, the intelligence --and, you know, we're not allowed to do domestic  18 
+1 intelligence. And there's a lot of, you know, legal reasons why that doesn't happen. 
+2 So usually what will happen with us is we get information passed from law 
+3 enforcement, and that's how we get our intelligence. 
+4 Q Is there one law enforcement agency that the Army relies on, or does it 
+5 depend upon who's making the request for the D.C. National Guard? 
+6 A It really --it could come through multiple agencies. You know, we have 
+7 military police that work with their local law enforcement-type agencies. And so, you 
+8 know, as they get that type of information, if the FBI puts out something, then we might 
+9 be able to get that. 
+10 But we are dependent on local law enforcement agencies or Federal law 
+11 enforcement agencies to pass that information to us, and then we're in a position to use 
+12 it. We're not authorized to collect any type of intelligence locally --or domestically, I 
+13 guess is probably the better way to describe it. 
+14 Q I want to just turn briefly to exhibit 8, which is the slides that the D.C. 
+15 National Guard sent initially. This is a December 31st --
+16 
+17 A 
+Q Right. 
+And if you look at the slides, it says --it describes the situation. And then in 
+18 the third paragraph there, it says, "Similar to demonstrations on the 14th of November 
+19 and the 12th of December, law enforcement expect supporters of the Proud Boys and the 
+20 ANTIFA organizations will participate in the protests and seek to confront each other." 
+21 This appears to be information that was provided to the Army as part of the 
+22 request. Do you know, does the Army ever do any independent investigation or 
+23 corroboration of the threat information that's provided to them? 
+24 A No. I mean, I'm not aware of anyone that would have done that. 
+25 Certainly at our level, we're not doing any independent review of that.  19 
+1 Q So whatever --and I'm summarizing --whatever domestic intelligence is 
+2 provided to you as part of the threat landscape at the request --
+Right. 
+--is what the Army relies on in terms of responding with your --3 
+4 
+5 A 
+Q 
+A That's right, yeah. We're talking to --you know, again, on this one, I'm not 
+6 sure exactly where this came from, but I know that the National Guard was talking to --at 
+7 the top is Dr. Rodriguez. 
+8 
+9 Q 
+A Uh-huh. 
+He's the director. But I don't know how that actually is passed. But, you 
+10 know, they're in dialogue with those organizations in coordination. And, you know, 
+11 that's --I think on the next page it shows various planned activities --
+12 
+13 Q 
+A Uh-huh. 
+--you know, of who has permits. So my assessment is someone --I'm not 
+14 sure if that was Dr. --you know, who the exact person that was provided it, but someone 
+15 provided that information, you know, whether that came from the city or from 
+16 emergency services. But that shows who has permanence to actually conduct, you 
+17 know, some type of activity during that timeframe. 
+18 Q Who would be the --is there a unit within the Army that would, you know, 
+19 assess that information or contribute more information to the threat landscape? You 
+20 mentioned that you have Army police in --
+21 A Yeah. And we have a provost marshal. 
+22 But as far as, you know, going out and, you know, checking the information, again, 
+23 we're very careful when it comes to gathering intelligence domestically, especially on 
+24 American citizens. 
+25 Q And putting aside the concept of collecting or gathering intelligence, what  20 
+1 about --there's --obviously, months later, there have been a number of press articles 
+2 about these warnings that were in plain sight. 
+Right. 3 
+4 A 
+Q Was there any awareness within the Army, apart from what was provided to 
+5 you in the request, of the potential likelihood of violence at the Capitol? 
+6 A Well, you know, maybe I can try to explain this. What the Army does, or 
+7 the National Guard, in these type of situations, we're what we call a force provider. You 
+8 know, we're not actually in --you know, we support local law enforcement. So the way 
+9 the National Guard will operate is, we need 300 people to do this, or we need 200 people 
+10 to do this. 
+11 It's very different than what we would do in a combat situation, you know, like in 
+12 Afghanistan, where we would gather intelligence, we would shift forces, we would verify 
+13 what was coming in, and we would do that very, very aggressively so we could react to 
+14 the threat or whatever that was. 
+15 In this case, what the Army is involved in is providing support, if required, usually 
+16 as a last resort after all local, State, and Federal law enforcement has been exhausted. 
+17 And it's usually in a support-type role, not in a lead-type role. 
+18 
+19 
+20 
+21 Q Uh-huh. And that's helpful. 
+Do you have any questions? 
+Just a couple. 
+First of all, General Mcconville, thanks very much for being here. It's really 
+22 important for us to both look backward at what happened but also look forward --
+23 
+24 General Mcconville. Yeah. 
+--and think about all these processes, whether they work 
+25 effectively. The committee will both write a report about what happened but also  21 
+1 consider some recommendations, some additional resources, some possible process 
+2 changes to support people like you that are keeping us safe. 
+3 And that's really the point of some of these questions, is trying to understand the 
+4 process and whether there are things that Congress can do to improve the process. 
+5 EXAMINATION 
+6 
+7 
+8 
+9 Q 
+A 
+Q So I was really interested in your, what you called mission analysis. 
+Yeah. 
+And I'm trying to get a sense as to when your experts that do crowd control, 
+10 that do it all over the world, get involved in shaping a request. 
+11 It sounds like what you said is that there's dialogue between folks at the Army, the 
+12 D.C. National Guard in particular, and the civilian authorities that leads up to the request. 
+13 
+14 
+15 
+16 A 
+Q 
+A 
+Q Right. 
+Is that right? 
+Yes. 
+It's not like the request comes cold, and all of a sudden --you've informed 
+17 the request, or the Army, the National Guard have, through dialogue over time. Is that 
+18 accurate? 
+19 
+20 of --
+21 
+22 A 
+Q 
+A That is correct. Yeah. There's discussions on what's the best employment 
+Right. 
+--how we could help law enforcement do their jobs. 
+23 And even as the requests were coming in, you know, if you saw, what Secretary 
+24 McCarthy came back and said is, you know, what we were trying to shape was the fact 
+25 there would be a lead Federal agency.  22 
+Yeah. 1 
+2 Q 
+A We were trying to shape the fact there would be an integrated security plan. 
+3 We were trying to shape the fact that the appropriate, you know, State, local, and Federal 
+4 law enforcement would be in place and be in a contingency-type mode so we could best 
+5 secure that the way the system is designed to work. 
+6 
+7 Q I see. 
+So, ultimately, the request was, we're going to put, whatever it is, 150 National 
+8 Guardsmen at Metro stops to do traffic control. It sounds like that was the product of 
+9 some ongoing discussion that the National Guard was having with Dr. Rodriguez and 
+10 other law enforcement that ultimately informed the request. That wasn't dropped cold 
+11 on the Army. That was the product of some discussion. 
+12 A Yeah. My sense was that the mayor and the chief of police and the director 
+13 of emergency services, they wanted the National Guard to assist them with traffic control 
+14 points. 
+15 
+16 Q 
+A Right. 
+Because that would allow them to have their law enforcement officers an 
+17 ability not to be what we would call fixed. 
+18 Q Yeah. 
+19 A Because, you know, by putting the National Guard in place and by 
+20 establishing these checkpoints around the city, you would help with traffic control, but, at 
+21 the same time, that would allow police officers to do law enforcement. And that's what, 
+22 you know, it was agreed to. 
+23 Q Right. So, best case, when this works well, the ultimate request and plan is 
+24 a product of ongoing discussion in the days leading up to the event. 
+25 A Absolutely.  23 
+1 Q So, if, hypothetically, the Army got intelligence that there were specific 
+2 threats of violence and a crowd size projected to be, you know, 50,000, the Army's 
+3 expertise in this could be --inform the plan, right? It could say, hey, that sounds like a 
+4 situation in which maybe we need to be prepositioned to do more than traffic control; or, 
+5 here are some ways in which we, the National Guard, could help it. 
+6 Again, would that kind of discussion in advance take advantage of your Army's 
+7 collective experience in managing these kinds of things? 
+8 
+9 
+10 A 
+Q 
+A Well, it could. And I would use January 20th as an example of that. 
+Yeah. 
+You know, we were able to, you know, help with the security of the Capitol. 
+11 You know, hey, here's --you know, with fencing, with security measures that allowed, you 
+12 know, measures to be put in place where you could clearly start to align, you know --hey, 
+13 there's a fence here. 
+14 
+15 Q 
+A Right. 
+You know, it's not, like, a bicycle rack. It's actually a fence that would take 
+16 some effort to get over. And then there was another fence. And then you can start to 
+17 array your law enforcement in a way that would make it very, very challenging to get to 
+18 the Capitol. 
+19 
+20 
+21 So there's things you can do. We do this routinely --
+Q 
+A Yeah. 
+--in combat. It's something, we call them obstacles, but you can call them 
+22 security measures or fencing. 
+23 But what it does is it starts to --we would describe, kind of, defending in depth, 
+24 where, you know, people, you know --so say you have, hypothetically, a situation where 
+25 there's going to be people that are exercising their First Amendment right. From here  24 
+1 on, you're good to go. 
+2 
+3 Q 
+A Uh-huh. 
+You cross this fence, now you've trespassed, okay? Now you're starting to 
+4 get into a situation. Now there's another fence. Now you're getting to the point 
+5 where you're starting to, you know, be in a situation where, you know, what are you 
+6 doing here? 
+7 
+8 Q 
+A Right. 
+And by setting it up that way, you start to give depth, and you don't 
+9 necessarily have to have as many people, and you can --
+10 
+11 Q 
+A Yeah. 
+--respond to different situations, and you kind of spread it out. And, that 
+12 way, you start to see what maybe people's intents are when it comes to our security 
+13 situation. 
+14 Q Yeah. It's a great example of the benefit of Army experience, historically 
+15 and around the world, being brought to bear to create a situation domestically that keeps 
+16 everybody safe. 
+17 A Yeah. 
+18 And the other thing, you know, another example, if you look at 
+19 January 20th --and I think there are some really good lessons we learned. You know, 
+20 the Secret Service were the lead Federal agency. They do that --you know, the 
+21 inauguration's a big deal. There was a very sophisticated security plan. There was an 
+22 integrated security plan. 
+23 So you had a lead Federal agency, as we would like to see. You had a very solid 
+24 integrated security plan. It was very well-resourced. We brought in 25,000 National 
+25 Guard. We put the fences up.  25 
+1 But, also, there were rehearsals. So, over at Fort Myer --and, again, we were in 
+2 a support role, but they were able to bring all the interagency players in that were going 
+3 to participate in that, and they got to see the plan. 
+4 
+5 Q 
+A Yeah. 
+And it was laid out. There was a big old map there, and here's the places, 
+6 and here's what's happening. And you had the agencies that could provide intelligence, 
+7 this is what we think is going to happen, and people could walk through that. 
+8 And then what was very helpful was all the interagency, all the different law 
+9 enforcement agencies, could see what the whole plan was, so they knew who was here, 
+10 who was doing this. 
+11 The other thing they could do is --what happens --we call it contingency planning. 
+12 So what if someone does this over here, and then the lead Federal agency said, okay, 
+13 we're going to send this, or we're going to use quick reaction force, or we have these type 
+14 of people that can react to that situation. 
+15 So all the interagency got a chance to go through the integrated security plan. 
+16 They got to rehearse it. They were able to make changes right then when things didn't 
+17 work. 
+18 And then we did it again with the National Guard. And we did the same type 
+19 thing. So the leaders of the National Guard knew what their task and purpose was. 
+20 They had a chance to rehearse it. They had a chance to even go and do what we would 
+21 a reconnaissance, where you could actually go --you know, rather than just go to the 
+22 Capitol, it's like, you're going to be, you know, operating right here. You've got to know 
+23 the roads that take you to that point. You've driven the roads; you know what's going 
+24 to happen. 
+25 So all those type things come together -- 1 
+2 Q 
+A 26 
+Yeah. 
+--to give you a much better opportunity when something goes wrong. It 
+3 gives you speed, you know, so the people can move very, very quickly, not only get there, 
+4 but when they get there, they have the appropriate gear. 
+5 Like, there were units, designated civil disturbance units. So what they had is 
+6 they had all the equipment there, ready to go, you know, kind of like in the firehouse. 
+7 Q Yeah. 
+8 A They had the shields. They had the gear. And they knew exactly that 
+9 you're going to set up a perimeter here. And they had their gear. They had rehearsed 
+10 their plan. They had an opportunity to go do those type things. And, again, it turned 
+11 out they weren't needed for that day, but they were ready to execute that mission. 
+12 
+13 Q 
+A Right. 
+And, you know, some of it --again, I'm an advisor in that role, but having 
+14 watched that all come out, I felt much, much more comfortable that, you know, the law 
+15 enforcement, supported by National Guard and everything else, was in a very good 
+16 position to make sure there was a safe and secure transfer of power. 
+17 Q Yeah. So best practice is there's training, there's interagency coordination, 
+18 there's contingencies contemplated, and you're ready for, kind of, anything based on that 
+19 process. 
+20 A That's right. That's right. Because a simple thing is, you know, if you're 
+21 bringing National Guard in --and, you know, you all work around the Capitol. Imagine if 
+22 you've never been there --
+23 
+24 Q 
+A Yeah. 
+--and just go to the Capitol. Well, where do you want me to go? What 
+25 do you want me to do?  1 
+2 Q 
+A 27 
+Yeah. 
+And the other thing that I would say is, when you introduce, you know, 
+3 military with weapons --you know, these are M4 rifles. They are designed for combat. 
+4 And, you know, you run into a situation where you could get results that you don't want. 
+5 Q Yeah. And sometimes that's just not possible, is that right, because of 
+6 fast-moving events --
+7 
+8 
+9 
+10 
+11 of --
+12 
+13 
+14 A 
+Q 
+A 
+Q 
+A 
+Q 
+A Right. 
+--uncertainty of intelligence, shorter timeframe before an event occurs? 
+Sure. That's right. 
+But should we strive for as much of that as possible before any deployment 
+Well, I mean --and, again, this is how the military does it, in a way. 
+Yeah. 
+And, you know, the military is really big on after-action reviews. And, you 
+15 know, I've been through a lot of these type operations. We don't always get them right, 
+16 but we try to learn from what happened and get them right, and these are basic 
+17 principles. 
+18 
+19 Q 
+A Uh-huh. 
+Now, other organizations, you know, may operate differently. You know, I 
+20 mean, they just --they don't conduct the operations the same way we do. And I think, 
+21 you know, many of us have learned because the costs can be so much. 
+22 
+23 
+24 
+25 Q 
+A 
+Q 
+A Yeah. 
+You know, when you get them wrong in combat -­
+Right. 
+--you can have some pretty devastating results.  1 
+2 Q 
+A Yeah. 
+So it's very, very important, at least for us, you know, the tried and true 
+3 processes of how you do business. 
+4 
+5 
+6 
+7 
+8 Q 
+Q Yeah. 
+I'm sorry to keep --
+No, that's okay. Go ahead. 
+B 
+So is it fair to say, the earlier you get involved, the better information you 28 
+9 have in advance, the more prepared you --and when I say "you," I mean Army resources, 
+10 particularly National Guard --the more effective you'll be? 
+11 
+12 A 
+Q Absolutely. 
+Get involved earlier, get as much intel as possible, shape the plan so that 
+13 you're more prepared for the contingencies that might occur in a particular event. 
+14 
+15 
+16 
+17 A 
+Q 
+Q Absolutely. 
+Yeah. Okay. 
+BY 
+And just to follow up on Tim's point, if the initial December 31st request for 
+18 Mayor Bowser or Dr. Rodriguez had included a request for armed National Guard, would 
+19 it have triggered all these things you talked about --the integrated security plan, the 
+20 rehearsals, the contingency planning? 
+21 
+22 A 
+Q It would not have triggered that, no. 
+What would have had to have occurred for all of those --all the planning 
+23 that you did for January 20th, what would've had to occur for that to have occurred 
+24 before January 6th? 
+25 A What I would suggest is, you have to put someone in charge of all the  29 
+1 agencies that are going to participate in the security plan. 
+2 So, I mean, if you think about D.C., it's very, very challenging, because the Capitol 
+3 Police is like their own security force that's right here. Then you have the Metro Police 
+4 that's on the side. And then you have the Park Police that sits right here. And if you 
+5 stop to think about it, so you've got, you know, these folks, these folks, these folks. And 
+6 then you throw in, you know, is the FBI going to be involved? You know, do you want 
+7 those, you know, law enforcement involved? 
+8 So I just think it's really --even from Cabinet --so you have, you know, 
+9 Department of Justice, that's one whole Cabinet section. You have Department of the 
+10 Interior, who the Park Police work for. You've got Department of Homeland Security 
+11 when you start getting into --
+12 
+13 Q 
+A Uh-huh. 
+--Secret Service and some other folks. And you've got Department of 
+14 Defense. So there's four Cabinet departments. 
+15 And what we have learned, it's better to get together before the event and 
+16 actually do --because, you know, a lot of these people may not even know who they are, 
+17 they may not know each other --than be in a crisis when you're trying to figure out, you 
+18 know, when things are really not going very, very well. 
+19 And, in some ways, by introducing forces that have not rehearsed, that have not 
+20 planned, you can actually do more damage than making sure you get it right before you 
+21 actually employ them, especially when it comes to weapons, especially with people 
+22 coming in with lethal force. That is a very challenging mission for anybody to do. 
+23 And, you know, like, the reason we talk about having the appropriate forces that 
+24 can do the job --everyone looks at soldiers, and they go, "Well, soldiers can do it." And 
+25 we have great soldiers. They are wonderful. But not all the soldiers are the same.  30 
+1 Not all the soldiers have the same type training. 
+2 To go into the Capitol --and there were gunshots --at the time, people didn't 
+3 know --there was a report of gunshots, and there were gunshots --people did not know 
+4 at the time that it was Capitol Police. But it was being, you know, relayed to the 
+5 Secretary of the Army that, you know, this was a potential contested environment with 
+6 people with weapons. And then the question is, how do you send the National Guard 
+7 in, and what do you want them to do? And that becomes very, very important. 
+8 Because some people say, like, well, just get there, you know, get there as quick as 
+9 you can. Okay. The Capitol is a big place. A lot of people going on, a lot of --you 
+10 know, what do you want them to do? What type of equipment do you want to bring? 
+11 Because even with the weapons, the fact they didn't have weapons meant they 
+12 would've had to get them. And, you know, people often look at the timing. It takes a 
+13 good amount of time to issue people weapons if you've been in units that don't --you 
+14 know, the weapons aren't just sitting there. They have to actually go through a process 
+15 where they hand the weapon, they sign for them, and then they have to get ammunition, 
+16 and all these things have to happen. And that takes time. 
+17 
+18 
+19 Q 
+A 
+Q And for January 6th, that happened at the Armory. Is that right? 
+Well, for January 6, yeah, it did, but it didn't happen until later. 
+Right. 
+20 A Because, initially, the troops --both the quick reaction force --I'll go back to 
+21 January 6th. If you think about --and try to put it in perspective, January 6th. 
+22 You've got a whole bunch of great National Guardsmen spread out across the 
+23 entire city. You know, three or four of them, they're at --if you're seeing, like, 
+24 a --they're sitting in a road with a vehicle and usually have one police officer with them 
+25 just in case there's law-enforcement-type things need to be done.  Q 
+A Uh-huh. 
+So that's spread out across the entire city. They're just spread out. 31 
+1 
+2 
+3 And then what had to happen is, when they got called, they had to bring them all 
+4 back. So, you know, they've got to hop in their vehicles, they've got to drive back to the 
+5 Armory, they've got to get back in there. 
+6 And then it's like, okay, where do you want us to go? Some people would argue, 
+7 well, just drive to the Capitol. Just take your vehicle --very much like --because that's 
+8 how the police respond. The police are used to responding, you know, but they have 
+9 weapons. And they respond to wherever they need to go. They just drive up there. 
+10 Well, here, you've got a very serious situation. The National Guard soldiers that 
+11 were picked, they were picked because they could run a traffic control point. They're 
+12 out there in vests, a very low military signature, which was requested. So they don't 
+13 even have military vehicles. They're out in civilian vehicles. They're sitting there. 
+14 They do have their helmets and vests just because we were concerned, if there was a 
+15 situation, we do want them to be protected defensively. But they had no offensive 
+16 capability to protect themselves with weapons. And they didn't have riot gear either. 
+17 So the bottom line is, you've got to bring them back to the Armory, you had to 
+18 kind of get them all together, you had to figure out, okay, what do you want them to do 
+19 when they go to the Capitol? 
+20 You know, my recommendation was, have them reestablish the perimeter. Give 
+21 them their, you know, riot control gear and kind of spread things out. And then let 
+22 others, you know, whether it's the FBI hostage rescue team or the SWAT team, who are 
+23 highly trained professionals, you know, clear building. If you are going to clear a 
+24 building, like this room, and you are not at the level of training, you could cause a lot of 
+25 damage with weapons. You could shoot a lot of people. You know, so you want to  32 
+1 have the right people that can do that. 
+2 Q I want to go back to what you said about what could've happened if people 
+3 would just drive directly there. But before --
+4 
+5 A 
+Q Yeah. 
+--I go back to that, the initial question about whether there had been a 
+6 request for armed individuals, I think your answer was, it wouldn't have made, 
+7 necessarily, a difference for the Army's preparation without a lead agency. Is that --
+8 A Well, if you said armed, the question we still would've had was, what do you 
+9 want them to do --
+10 
+11 Q 
+A Got it. 
+--with their weapons? You know, because it's one thing to stand guard 
+12 with a weapon, and it's another thing to actually use those weapons to, like, clear, you 
+13 know, demonstrators or the people that were actually in a Capitol. That's a whole 
+14 different story about how you do that. 
+15 Q So, obviously, it's been in the report that the Army did and from you that 
+16 DOJ, according to DOD, was the lead Federal agency. 
+17 
+18 A 
+Q Yes. 
+And it's also clear that they, according to DOD, did not have an integrated 
+19 security plan or do rehearsals or do the type of work that you described --
+20 
+21 
+22 
+23 A 
+Q 
+A 
+Q Right. 
+--prior to January 20th. 
+Right. 
+During that time period, was anyone within your leadership requesting 
+24 rehearsals or integrated security plans? Was there a sense of assurance that DOJ was in 
+25 charge? Or what did you specifically see as their role and whether they were  33 
+1 succeeding or failing? 
+2 A Well, I think as we moved towards the date --you know, the requests were, 
+3 if you look at the --if you go back, it was 1 or 2 --it's 6 January, but, you know, the 
+4 requests are happening on 1, 2 January. I think there's a letter, you know, from the 
+5 mayor I think I have here that's, like, 5 --let me just see if I have it here. 
+6 Here's a letter written 5 January from the mayor that is written to Attorney 
+7 General Rosen, Secretary McCarthy, and Acting Secretary Miller, and says: Hey, we're 
+8 all prepared. You know, we have not requested personnel from any other Federal law 
+9 enforcement agency. To avoid confusion, we ask that any request for additional 
+10 assistance be coordinated using the same procedures and processes. 
+11 And her final statement is: To be clear, the District of Columbia is not requesting 
+12 other Federal law enforcement personnel, and it discourages any additional deployment 
+13 without immediate notification to and consultation with the Metro Police if such 
+14 commands were underway. The Metro Police is well-trained and prepared to lead this 
+15 law enforcement agency coordination response to allow for the peaceful demonstration 
+16 of the First Amendment rights in the District of Columbia. 
+17 
+18 Q 
+A Uh-huh. 
+And so that's the day before. And, you know, what we saw from the Army, 
+19 at least, you know, my military advice was, we were doing exactly what we were 
+20 requested to do, which was establish those traffic control points --
+21 
+22 Q 
+A Uh-huh. 
+--which is, you know, support the Metro Police. And then there was a 
+23 quick reaction force, or about 35 folks, that would reenforce the traffic control points. 
+24 There was never any plan, attempt, any discussion of any military being around 
+25 the Capitol in any way.  34 
+1 Q But had DOJ, before the January 5th letter, taken on any coordination role 
+2 that you were aware of? 
+3 A No. I'm not aware of any, other than --you know, there was no discussion, 
+4 at least that I was aware of, that --in the meetings or the phone calls that I sat in or 
+5 listened in, every agency, except for the Metro Police, said they had sufficient forces to 
+6 execute their mission, and there was no requirement for the National Guard. 
+7 
+8 
+9 Q 
+A 
+Q And those were in the interagency calls prior to January 6th? 
+Yes. 
+Let me go back to one more thing before we move on to another topic, but 
+10 in terms of the intelligence piece --
+11 
+12 A 
+Q Yeah. 
+--and with the overlay of the request for the D.C. National Guard. 
+13 If there had been a joint intelligence bulletin issued by the Bureau and DHS about 
+14 a significant likelihood of violence at the Capitol, would that have impacted the 
+15 preparation of the Army, without a request? In other words, would you have prepared 
+16 the D.C. National Guard because of a threat assessment that existed, or would you not 
+17 have done anything without a request? 
+18 A 
+19 request. 
+20 
+21 Q 
+A Well, if I saw there was --we would not have done anything without the 
+Okay. 
+That's probably the best way to describe it. 
+22 When it comes to the military and domestic law enforcement or domestic 
+23 intelligence gathering, you know, we don't get involved in domestic intelligence gathering 
+24 and we don't be respond to domestic situations unless there's a formal request from the 
+25 appropriate authorities and we have that approval.  35 
+1 Q What if it was the request that you had, the December 31st request from the 
+2 mayor --
+3 A Yeah. 
+4 Q --and there had been a joint intelligence bulletin issued about the significant 
+5 likelihood of violence? Would you have then prepared differently? 
+6 A Well, we might have had a discussion. I'd say, what are you doing, you 
+7 know, to get out --I mean, but some of that discussion is ongoing anyway. 
+8 I mean, this is where, as you deal with different agencies, the military does things 
+9 differently. And maybe it's based on the experience of being involved in a lot of 
+10 combat-type operations. But we would apply, you know --we have pretty much a 
+11 standard process on how we do business. 
+12 You talked about, we do mission analysis. We take a look at, you know, all the 
+13 intelligence coming in. And then we determine, you know, what tasks are we given. 
+14 You know, so what would be the task that --you know, we're going to defend the Capitol, 
+15 we're going to do these type things. And then we would apply the appropriate 
+16 measures based on the intelligence that we had. And then we would look at 
+17 contingencies of what we would do if this happened, or how would we do this. And 
+18 then we'd apply the appropriate forces to do this. 
+19 In this case, which is different, the way we operate in this environment is, we are 
+20 what we would call a force provider. You tell us that you want, you know --and, ideally, 
+21 we have this discussion. We would prefer to get missions from, you know, law 
+22 enforcement. You want us to establish 30 checkpoints. Okay. We know what that is. 
+23 It takes three people, it takes this much. 
+24 
+25 Q 
+A Uh-huh. 
+But we don't go: Hey, we're looking at this stuff.  36 
+1 Now, where we might be concerned and we were kind of concerned: you know, 
+2 the fact there could be violence. You know, the mayor said she did not want our 
+3 soldiers armed. And so the way we respond to that is, first of all, we give them 
+4 equipment, because, you know, well, it's --you're telling us they can't be armed. We 
+5 want law enforcement with them that is armed. Okay? If you're going to put our 
+6 soldiers out there and there's potential threat, we want law enforcement that's armed 
+7 with them so they could handle any type of situation. 
+8 But, at the same time, that's why the soldiers had their helmets and vests, so if 
+9 someone --you know, if someone came up with a weapon and started shooting at them, 
+10 at least they have some type of protection, and then they have a police officer. 
+11 But that's what we're looking at. We weren't looking at --you know, I mean, the 
+12 military was not given the mission to defend the Capitol. 
+13 Q During the summer, was the military given the mission to defend the Federal 
+14 monuments? 
+15 A Well, it was both. I mean, if you look at --a lot of those were law 
+16 enforcement too. 
+17 
+18 Q 
+A Uh-huh. 
+There was --in fact, many of the monuments were defended --the lead 
+19 agency was a Federal agency. Now, you know, some of the Federal agencies look like 
+20 they're wearing military-type --
+21 
+22 Q 
+A Right. 
+--equipment. But there was additional support given to law enforcement 
+23 in some cases to be around the Martin Luther King monument, the African museum, all 
+24 those things, you know, because people were concerned about, you know, the 
+25 monuments --all the monuments, not just Lincoln -- 1 
+2 Q Right. 
+A --you know, Martin Luther King monument and everything else, someone 
+3 defacing them. So there was security put around the monuments. 
+4 Q And we've heard a lot about the mission of manning traffic points. If the 
+5 mission or the request had come in to defend the Capitol, would that have resulted in a 
+6 different kind of mission analysis from the Army? 
+A Absolutely. 
+Q Okay. 37 
+7 
+8 
+9 Let me try to go back. This has been very informative. I'm trying to hit some of 
+10 these topics that we want to get through. 
+11 
+12 A Yeah. 
+Q You talked a lot about, you know, after-action reports and the lessons 
+13 learned. I think I provided you exhibit 38. It's the report of the U.S. Army operations. 
+14 And part of that report talks about some of these lessons learned from the summer 
+15 protests. 
+16 
+17 A Yeah. 
+Q I just want to talk, you know, briefly about the criticism DOD received for 
+18 some of the tactics they used and how that directly impacted January 6th preparations. 
+19 
+20 
+21 
+22 
+23 
+24 A Sure. 
+Q And if it's helpful, from prior interviews, if you kind of went through the --
+A Sure. 
+Q --January 4th letter to --
+A Right. 
+Q --Secretary McCarthy and Secretary Miller, but feel free to just talk broadly 
+25 about, what's that direct connection that happened from this -- 38 
+1 A Well, I think the direct connection --one of the things that we were criticized 
+2 for was low-flying helicopters. And, you know, this is where guidance to the units that 
+3 are going to operate --because if you take the idea --and this is how the National Guard 
+4 sees it. 
+5 Okay, we are what we would call a force provider. Our job was the --and I can't 
+6 remember if it was the Park Police, but one of the law enforcement agencies requested 
+7 helicopters, okay? So the helicopters were, you know, used. The Secretary of the 
+8 Army thought the helicopters were going to be up flying high, you know, and just in a 
+9 position, just like, you know --so you would know where things were going on, very 
+10 similar to what, you know, a local TV helicopter would do, is just showing you what's 
+11 happening so you have an idea of what's going on. Those helicopters requested to fly 
+12 low, and that became a problem. 
+13 And then, as we did our after-action reviews, we said, well, how could that --you 
+14 know, that's not what we would want them to do; how did that happen? Well, that's 
+15 what law enforcement requested that they do. 
+16 So, as we give, you know, various agencies military support --and, you know, 
+17 same thing from the mayors --there's restrictions. It's kind of like, here's where you can 
+18 operate in, and if you're going to do something differently, you need to come back to us. 
+19 And, really, that's the way the requests came in. The requests came in that they 
+20 did not want people on --I mean, that they would wear certain types of uniforms with 
+21 vests and it would be a very low military signature, the coordination that was done. And 
+22 so that's what the military did. The military responded --it didn't go and give more. 
+23 But that was based on the summer too, the idea that, you know, we have to be 
+24 very, very careful, I would argue, when you employ military forces, especially if they're 
+25 armed. Because, you know, if you put crew-served weapons or you put  39 
+1 weapons --these are combat weapons. They're not designed for law enforcement. 
+2 And you may get results that you don't want. 
+3 Q In your opinion, from having seen what happened in the summer and the 
+4 events of January 6th, did that criticism or scrutiny that DOD received because of that 
+5 response lead to any reluctance to respond to January 6th? 
+6 A Well, I think, you know, DOD wanted to make sure that it was very clear that 
+7 we were responding to the request almost to the T. You know, this is what you asked 
+8 for, and this is exactly what we're doing. And, you know, it wasn't like we were looking 
+9 for different mission-type things. It said, you requested these traffic control points, you 
+10 requested these Metro stations, you requested the civilian support teams and a small, 
+11 very, very small, quick reaction force, and here is exactly what we're doing. 
+12 And we are meeting all the requirements of the legislation that was out based on 
+13 from the summer, that, you know, nametags be worn in a certain way, the vests were 
+14 worn a certain --so DOD tried to comply exactly with what was asked for. 
+15 And, again, that was a lesson learned from the summer. We didn't want to have 
+16 situations where --you know, there were no helicopters. We did not fly --there were 
+17 no helicopters involved. There were no fixed-wing airplanes flying over. It was 
+18 just --you know, we were very, very careful in making sure that we did, you know, exactly 
+19 what we were requested. 
+20 Q Before I move on from the summer, just the comparison, you talked about 
+21 the concern that was raised within leadership about, kind of, having soldiers respond to a 
+22 domestic incident, whether it's for January 6th, the military response to a law 
+23 enforcement situation. 
+24 
+25 A 
+Q Right. 
+Was that same concern raised during the summer as well?  Yes. 
+Okay. Within the Army leadership? 
+Absolutely. 40 
+1 
+2 
+3 
+4 A 
+Q 
+A 
+Q General Walker, as you know, testified at a Senate hearing. And he stated, 
+5 in response to a question about whether the "optics," is the word used, of the uniformed 
+6 presence during the summer, that it was, quote, "never discussed in the June, it was 
+7 never discussed July 4th when we were supporting the city, it was never discussed 
+8 August 28th when we were supporting the city." 
+9 
+10 
+11 A 
+Q 
+A Yeah. 
+Do you have a response to that or, you know, an explanation? 
+Well, I think, if you know what happened during the summer, we alerted the 
+12 82nd Airborne Division, and we had the 82nd Airborne Division on the outside of the 
+13 districts. And, again, they are Active Duty. You know, they could not be committed 
+14 without the Insurrection Act. And, you know, many of us had strong feelings, or at least 
+15 recommendations, that the situation didn't warrant the employment of the 82nd 
+16 Airborne Division, and we didn't do that. 
+17 So I'm not going to say --I just think that, when it comes to deployment of 
+18 military, I personally feel it should be the last resort and only in the most extreme cases. 
+19 And even as you look at law enforcement, ideally you start with local law 
+20 enforcement. Let the local police handle it. If they can't handle it, maybe you have 
+21 the State. If the State can't handle it, have Federal law enforcement and its various 
+22 agencies. And then, if they can't handle it, have the National Guard. And then, when it 
+23 gets to Active Duty troops, I think, you know, it better be a very extreme case. 
+24 Q You mentioned the Insurrection Act. And there were obviously media 
+25 reports -- 1 
+2 A 
+Q Yeah. 
+--that President Trump had prepared the Insurrection Act proclamation. 
+3 Were you aware of that? And can you just describe some of the discussions that were 
+4 happening within the Army leadership? 
+5 A Yeah, I can't really describe, you know, what was going on. There's other 
+6 people that you've probably talked to that had the opportunity. I was not, you know, 
+7 involved in those type discussions. 
+8 I was involved in --or at least my recommendation, my best military advice, was 
+9 the situation didn't warrant the employment of Active Duty troops from the 82nd 
+10 Airborne Division with weapons. That was my recommendation. 41 
+11 
+12 Q 
+A Did you give that recommendation to Secretary McCarthy or to Secretary --
+1 certainly talked to Secretary McCarthy. I talked to General Milley. But 
+13 that was the general feeling of most of the military, was that that type force was not 
+14 warranted. 
+15 Q And when you say that was your best military advice, what was that based 
+16 on? 
+17 A Well, it was just based on taking a look at the situation. But, more 
+18 importantly, putting Active Duty troops with combat weapons into a domestic situation 
+19 and then, you know, kind of thinking, what does that look like, and, you know, how do the 
+20 American people respond if we had, you know, soldiers involved in using lethal force on 
+21 the streets of Washington, D.C.? I think that should only be used in the most extreme 
+22 cases, and I didn't think we were at that level. 
+23 Q On June 3rd, 2 days after the incident in Lafayette Square when Secretary 
+24 Esper and General Milley went to Lafayette Square with the President, as you're aware of, 
+25 Secretary Esper issued a statement during a Pentagon news briefing that said, "The  42 
+1 option to use Active Duty forces in a law enforcement role should only be used as a 
+2 matter of last resort and only in the most urgent and dire situations. We are not in one 
+3 of those situations now. I do not support invoking the Insurrection Act." 
+4 
+5 
+6 Were you familiar with this statement when he provided it? 
+A 
+Q Well, I've seen the statement, yes. 
+Were you involved in any way? Did your best military advice to Secretary 
+7 McCarthy and Secretary Milley inform that statement in any manner? 
+8 A Well, you'd have to ask Secretary Esper, but I stand by my recommendations 
+9 during that timeframe, which are similar. You know, I didn't get into the Insurrection 
+10 Act, but I did not think that the situation on the streets of D.C. warranted the 
+11 employment of the 82nd Airborne Division with weapons or lethal force. I just didn't 
+12 see that. 
+13 And you always --when you employ military forces with lethal force, you have to 
+14 be prepared to accept what could happen. And, you know, anytime you have weapons 
+15 with ammunition, there's a chance that, you know, something's going to happen, and 
+16 then, you know, we could have a situation that I don't think would be best for the Nation. 
+17 Q Apart from Secretary McCarthy and Secretary Milley, did you share your best 
+18 military advice with anyone else within Army leadership? 
+19 A Within Army leadership? I mean, that's the leadership. So, I mean, I 
+20 guess, when I look at the leadership, that's only --
+21 
+22 Q 
+A Right. 
+As far as, I mean, with the staff? Probably no. Yeah. But as far as Army 
+23 leadership --you know, I work for the Secretary, so the Secretary takes --
+24 
+25 Q 
+A Yeah, okay. There's no more Army leadership. 
+There's other Army leaders that would've been --and I think it was  1 important, though, that they knew where the chief of staff of the Army stood on these 
+2 type issues. 
+3 Q Sure. 
+4 A So as I'm talking to leaders, you know, I, you know, give my --what we 
+5 believe. So, yes, other leaders would've known where I stood on that issue. 
+6 
+7 
+8 
+9 Q 
+A 
+Q 
+A Sorry. What was --
+1 guess that's the best way to describe it. 
+Right. 
+And I don't know if I did talk to Secretary Esper exactly, but, I mean, I 
+10 could've talked to him too. I just don't remember. 
+11 You know, within that leadership of OSD, I think most of us were at the position, 43 
+12 you know, where we thought that the employment of the 82nd Airborne Division was not 
+13 required at that time. 
+14 Q Was there anyone who voiced a differing opinion about the Insurrection Act 
+15 or deploying the 82nd Airborne? 
+16 A I'm not aware of anybody. I was not in the inner-type, you know, 
+17 discussions that were going on. 
+18 Q Okay. 
+19 The June 3rd statement by Secretary Esper, did you view that favorably or as a 
+20 necessary step that the Secretary had to state that publicly? 
+21 A Oh, I wouldn't judge. I don't think it would be appropriate to say. You 
+22 know, I know what my feelings were. And how the Secretary tried to voice what he 
+23 did --I mean, there were certainly concerns from Lafayette Square, and how they wanted 
+24 to deal with that in the media space is certainly up to them. 
+25 Do you have any questions for him?  44 
+1 
+2 
+3 Q On November 9th, Secretary Esper was fired by former President Trump in a 
+4 tweet, days after the election had already been called in favor of Joe Biden. How did 
+5 that impact the Department, Secretary Esper's dismissal? 
+6 
+7 A 
+Q Well, we had a new Secretary of Defense, Acting Secretary of Defense. 
+Was there a sense within Army leadership or yourself that because Secretary 
+8 Esper had spoken out against the Insurrection Act that he would ultimately be dismissed 
+9 by President Trump? 
+10 A Well, I'm not sure that's why he was --I mean, I don't know why the 
+11 President decided to dismiss. I think we all know that we serve at the pleasure of the 
+12 President of the United States, and he can determine who he wants his staff to be. 
+13 You know, it was 2 months left in the administration. Secretary McCarthy and I 
+14 were, you know, going to do the right thing the right way in the Army. And so, you 
+15 know, that brought on an Acting Secretary. And so Secretary Miller come in and 
+16 continued to operate in that environment until, you know, we changed over on 
+17 January 20th. 
+18 Q Was that unusual, to have a change in the Secretary during a time of the 
+19 administration change, meaning there's, as you said, 2 months left? 
+20 A Well, you know, I was looking at --you know, I'm just thinking, like, during 
+21 that 4-year period, we had six Secretaries, I think --three Senate-confirmed and three 
+22 Acting Secretaries. So people were changing during that time period at a fairly 
+23 significant rate. 
+I realize it's 10:39. Do you need to take a break? 24 
+25 General Mcconville. No, I'm fine. No. No.  1 
+2 
+3 
+4 
+5 
+6 Okay. 
+Are you --
+The Reporter. I'm good. 
+Q Around this time of when Secretary Miller was appointed, as you said, Mr. 
+7 Kash Patel became his chief of staff. Did you work with Kash Patel in any manner? 
+8 A Not really. I think I was in a meeting or two that he was at. But, other 
+9 than that, I really don't have much interaction at all with him or really an informed 
+10 opinion about him that I know personally. 
+11 Q The prior Secretary of Defense chief of staff, Jen Stewart, were you in 
+12 contact with her or have interactions with her based upon --45 
+13 A Yeah, I knew Jen from a previous timeframe because she was the HASC staff 
+14 director from before. And, you know, over a year and a half, you know, I certainly had 
+15 interactions with her. 
+16 
+17 
+18 Q 
+A 
+Q 
+19 President? 
+20 A But were you familiar with Mr. Patel prior to his appointment? 
+I was not. 
+Did you know of his, kind of, reputation of being a loyalist to the former 
+Well, I wouldn't --you know, he's a political appointee. I'm not going to get 
+21 into what level of loyalty goes with a political appointee. 
+22 
+23 
+24 Q 
+A 
+Q Did you work with Ezra Cohen-Watnick at all? 
+No, I did not. 
+There is also media reporting about a November 11th memo that the former 
+25 President attempted to issue to withdraw from Somalia and Afghanistan by January 15th.  1 Are you familiar with that public reporting? 
+2 
+3 A I'm --now, open-source, I am. I've read some books that describe it. 
+You know, I do know that, you know, we did execute a mission from out of 
+4 Somalia. So that was done. 
+5 Q And was that as a result of the November 15th order? 
+6 A Again, I have not seen --
+7 Q Okay. 
+8 A --that letter. I do know that, you know, the administration wanted to 46 
+9 come --I mean, you know, they wanted to come out of Afghanistan, they wanted to come 
+10 out of Somalia, and there were other places that they wanted to bring troops home from. 
+11 Q But were you --is the reporting about this unvetted memo by DOD, is that 
+12 accurate reporting, based on what you know? I just want to clarify what you know from 
+13 open sources and what you actually --
+14 
+15 
+16 
+17 A 
+Q 
+A 
+Q Well, 1--
+--have direct knowledge of. 
+Yeah, I would ask General Milley on that one. 
+Okay. So you have no personal knowledge about this memo that has been 
+18 described in open-source reporting? 
+19 A I know there was --I have, you know --because I know there's a memo now 
+20 because I've --but I have not seen that memo. And I know there were discussions. In 
+21 fact, we did execute the fact --I don't think it was executed off that memo. That's 
+22 what --
+23 
+24 Q 
+A Okay. 
+--I was trying to describe. Because there's --I'm aware there's a memo 
+25 right now, because it's out, and those type things.  47 
+1 So I guess, when you ask me, I don't think the memo drove what we did, because I 
+2 think the timeline was too fast. I think, you know, when you take a look at, come out of 
+3 Somalia, at least what I think the memo said, December 15th and then come out of 
+4 Afghanistan, I think it was, like, January 15th, you know --
+5 
+6 Q 
+A Uh-huh. 
+What I do know what happened was, we went into the planning --or, 
+7 actually, the AFRICOM commander did and came back with a plan to bring the forces out 
+8 of Somalia, which we actually did execute. 
+9 We did not execute Afghanistan. Afghanistan took more time. But that did set 
+10 us on a course to do those type things. 
+11 Q So I don't want to put words in your mouth, but --
+12 A Yeah. 
+13 Q --you did not see a memo, but there was a plan that occurred in that time 
+14 period. Would it have been under Secretary Miller? 
+15 A Yes. 
+16 Q To withdraw from Somalia. 
+17 A Yes. 
+18 
+19 Q 
+A Okay. And were you involved in that planning? 
+Well, as the Joint Chiefs, yes. I mean, you certainly see the plan. You 
+20 know, you're briefed on the plan, and you have an opportunity to give advice on that. 
+21 And, again, the way that works is, the combatant commander is given, you know, 
+22 a guidance to come up with a plan. So, basically, what happened is, you know --the 
+23 thing is, that does take time. So it was like, okay, you're giving an order to come out of 
+24 Somalia, which is a legal order. You know, you want to bring the troops home. And 
+25 then the combatant commander and his staff will come up, and they will actually plan,  48 
+1 this is how we're going to do it. You know, it's going to require this many airplanes. 
+Uh-huh. 2 
+3 Q 
+A And then we get to look at the plan, and we say, hey, what if --and then we 
+4 kind of sharp---not sharp-shoot it, but we go: Hey, what about this? How are you 
+5 going to handle that? Do you want to put this force in? I wouldn't recommend you do 
+6 this. 
+7 And then, you know, there's an agreement on what the final plan is going to be, 
+8 and then the plan goes into execution. And that's what actually happened in Somalia. 
+9 Q Was there any discussion about an order coming from an outgoing President 
+10 to withdraw troops from a country in what would've been a 2-month timeframe, in terms 
+11 of the timing of the order? 
+12 A No, at least not that I'm aware of, as far as come out of --three 
+13 administrations wanted to come out of Afghanistan. So the idea that we were going to 
+14 come out of Afghanistan and the fact with the Doha Agreement, it wasn't really a 
+15 question of, you know, if; it was a question of how and when and what the conditions 
+16 were and those type things. 
+17 
+18 Q 
+A Had there ever been planning prior to withdraw from Somalia? 
+I don't --I'm not aware of a complete withdrawal. There was 
+19 certainly --you know, there was always discussions about reducing the troop strength 
+20 overseas in many of those places. 
+21 Q 
+22 Is that fair? 
+23 
+24 
+25 A 
+Q 
+A But the order to execute was post-Secretary Esper, under Secretary Miller. 
+Yes. I believe that's correct. I mean, I want to -­
+Okay. 
+Because I know there's that letter, you know, but the idea --because a lot of  49 
+1 type things is --but when it comes to us, you know, it was, hey, you know, this is --it 
+2 comes back into the Joint Chiefs, and usually it's a plan to --come up with a plan to come 
+3 out of Somalia. 
+4 And that's what people did. They back-briefed the plan, people looked at it, and 
+5 then the plan was executed. And it was actually, you know, executed fairly well. 
+6 mean, you didn't hear about it, did you? I mean, we came out of it --
+7 
+8 Q 
+A No. 
+Yeah. So, I mean, it was actually a fairly --it was a very thoughtful plan that 
+9 went through all the different contingencies and what we would put in. And, again, 
+10 when you're leaving someplace in a contested environment, that is a challenging plan. 
+11 But, you know, General Townsend and his team did a very good job of putting a 
+12 plan together. People executed it well. And we followed, you know, the legal orders 
+13 to execute what we did. 
+14 Q And was it done before January --was it done in the timeframe that was 
+15 requested of December 15th? 
+16 A I think it was later. I think --you know, that was --when we came back and 
+17 did all the planning --I'd have to check. I'd have to come back to you. 
+18 Q Okay. I'll google it. 
+19 A Yeah. I mean, it was done --I only remember it was done within that 
+20 timeframe and it was done very well. 
+21 
+22 
+23 
+24 
+25 Q 
+A 
+Q Under President Trump. 
+Yes. 
+Okay. 
+I'm going to move forward to mid-December. 
+Are you familiar with retired General Michael Flynn's comments to Newsmax  50 
+1 about advocating martial law and using the military to decide the election? 
+I am. 
+Okay. I think I provided you exhibit --
+You did. I remember. Yeah, yeah. Okay. 2 
+3 
+4 
+5 A 
+Q 
+A 
+Q I think it's exhibit 2 and 3, generally about the statement, and you signed off 
+6 on the DOD statement. And it's my phrase that you signed off on it. You can describe 
+7 the process, but --
+8 
+9 A 
+Q Yes. 
+--the statement ultimately was, "There is no role for the U.S. military in 
+10 determining the outcome" of the election. 
+11 How did this letter from the former General Michael Flynn impact the 
+12 Department? 
+13 A Well, I think, if you go to annex No. 2, you'll see a statement. And basically 
+14 what you see is a request from Curtis Kellogg, who is my public affairs officer. 
+15 
+16 Q 
+A Uh-huh. 
+And on December 18th or so, I was actually overseas, so I was traveling in 
+17 the Middle East, doing, kind of, the Christmas tour. I was in Italy, Kuwait, Qatar, Tunisia, 
+18 Spain during that timeframe. And I got, you know, basically an email, or, you know, I 
+19 might've talked to Secretary McCarthy. And basically what it says --and I think this is 
+20 true --is, you know, the national media was querying the Secretary on General Flynn's 
+21 comments about using the military to help decide the election. And, you know, national 
+22 media was coming to us, saying, you know, are you going to, you know, support --I mean, 
+23 a lot of questions. Well, what are you going to do? This, this, and this. 
+24 And, you know, in discussion with the Secretary, we agreed that, you know, in 
+25 order to, you know, be in a position to respond to all the questions, that we would say  1 that there is no role for the U.S. military in determining the outcome of an American 
+2 election. 
+3 That's what we said. That's what we responded. And we stand by that 
+4 statement. It seemed like a pretty, you know, straightforward statement. But that's 
+5 what we said. 
+6 
+7 Q 
+A So it was a result of, kind of, these --
+There was a lot of media out there. I mean, because, you know, it 51 
+8 was --usually we wouldn't comment, you know, "No comment." But the national media 
+9 was, you know, asking the Secretary, and the Secretary talked to me, and we said we'd 
+10 put out a joint statement. 
+11 And I stand by that statement, that the military has no role in determining the 
+12 outcome of an election. 
+13 Q Was there a growing concern within the military about, kind of, the 
+14 politicization of the Army in terms of now we're in a post-election world? 
+15 A Well, I think, you know, as chief of staff of the Army, you know, I believe we 
+16 need to stay out of politics. And that's, you know, very, very important to maintain the 
+17 trust of the American people. The American people have got to believe that we're going 
+18 to do the right thing the right way, and that's what we intend to do. 
+19 Q I'm now going to shift towards January 6th. I know we spent some time 
+20 talking about it, but just to get a level of clarity from you about the letter particularly from 
+21 Secretary McCarthy --
+22 
+23 
+24 
+25 A 
+Q 
+A 
+Q Sure. 
+--to General Walker. 
+Okay. 
+We talked a little bit about the mayor's initial request for unarmed troops at  1 traffic points. 
+2 
+3 A Yeah. 
+Q And just to kind of summarize what you said, it was a very limited request, 
+4 and the Army responded to the request to a T, essentially, right? 
+5 
+6 A That's what I was intending, yes. 
+Q So that was exhibits 5 and 6. And you walked us through the process of 
+7 what happens with that request when it comes in. 
+8 
+9 A 
+Q Right. 
+Exhibit 8 was, kind of, the mission analysis that was conducted. And we 
+10 talked a little about that and, kind of, the planning that happened soon after. 
+11 I want to turn to exhibit 14. And you did speak about this in terms of our 
+12 discussion about the lead Federal agency, but exhibit 14 talks about this explicitly. 
+Now, this is January 2nd. "Roger DAS," which I've learned --52 
+13 
+14 A That's a direct --"Roger" in the military means --you know, what you see is, 
+15 you see a note from the Director of the Army Staff, Walt Piatt --a great officer. And 
+16 what he's saying is, hey, here's the attached --you know, and what I'm doing is, "Roger" 
+17 in the military means "I understand." And that's his title, the Director of the Army Staff, 
+18 so we just call him "DAS." That's, like, an acronym. 
+19 
+20 
+21 And then I'm giving guidance here, you know, at least my advice --
+Q 
+A Uh-huh. 
+--to the staff. And, really, what I'm trying to do is set --you know, what 
+22 the Army staff does is, we provide plans for the Secretary of the Army. So we're the 
+23 planning staff. 
+24 And so what I'm basically telling the Director of the Army Staff is, "It's very 
+25 important we have a well-defined plan for the Secretary of the Army if the decision is  53 
+1 made to commit the D.C. Army National Guard. Local, State, and Federal law 
+2 enforcement should be committed first and then, only at the last resort, the D.C. Army 
+3 National Guard in a well-defined support role." 
+4 So that's just kind of setting the table for, you know, how we want to employ the 
+5 National Guard. 
+6 Q Right. So that is January 2nd, which --it appears, I think, at 10:44 p.m. 
+7 At the end of January 2nd, it appears there's still no decision made about whether 
+8 to honor the request from the mayor. 
+9 And then, the next day, you have a 1:00 p.m. interagency call with Secretary Miller 
+10 with select Cabinet members. Were you on that call, sir? I can't tell, really, from the 
+11 DOD --
+12 A Let me see which --because I probably --I was on some of those calls. 
+13 just have to see which one. Which day was that, the 3rd? 
+14 
+15 
+16 Q This would be at 1:00 p.m. on January 3rd. It's an interagency --
+A Right. 
+Q --call with Secretary Miller, Cabinet members, discussing DOD support to 
+17 law enforcement agencies, the potential --
+18 A I was on one of those type --I listened in on one of those calls. I'm not sure 
+19 if that was the call, but --
+20 Q Well, in the Army report, provided as exhibit 38, it states, "On January 3, 
+21 during an interagency meeting hosted by the White House, the Department of Justice was 
+22 designated as the lead Federal agency for the planned First Amendment demonstrations 
+23 on January 5-6." 
+24 Did you learn that, according to the Department of Defense, the DOJ was 
+25 designated during that phone call?  1 A I did know that they were the, you know, designated lead. I'm not sure if 
+2 that was the phone call --
+3 
+4 
+5 
+6 Q 
+A 
+Q 
+A Sure. 
+--whether it was done or not. 
+Do you know who designated the Department of Justice to be the lead? 
+I do not. You know, I was --you know, I don't know if it was the National 54 
+7 Security Advisor. I'm not quite sure how that is orchestrated, you know, if the President 
+8 goes, you know, "You are the one," or the National Security Advisor does it, or the chief of 
+9 staff for the President, or --but, no, I don't know. 
+10 Q But, on that day, the concern that you had about the lack of a lead Federal 
+11 agency and the concern Secretary McCarthy also shared about that, was that concern, 
+12 that condition, met on January 3rd, as far as you can remember? 
+13 A It was --it's --you know, ideally, it met their requirement, there was a lead 
+14 Federal agency. Again, if I was going to coach and provide advice, I would like to see the 
+15 lead Federal agency develop an integrated security plan, do rehearsals, do all those type 
+16 plannings. I think we would've had a better response if that was done. 
+17 And I would recommend as a lesson learned that that is something that, you 
+18 know, we should, kind of, learn. Hopefully people will learn from --you know, because 
+19 we've said that many times, this is what we think should happen. Hopefully someone 
+20 will come back and say, if there's going to be something, there needs to be a lead Federal 
+21 agency and this is how it needs to --
+22 
+23 
+24 Q 
+A Uh-huh. 
+Because someone has to orchestrate all the different agencies. 
+And, you know, we talk about --in the military, we like to have what we call unity 
+25 of command. And so, you know, you could look at one person and say, who is  1 responsible --you know, let's say we're having a different situation. This thing 
+2 happened, and you want to --okay, who was responsible for defending the Capitol or 
+3 defending this whole thing that happened? 
+4 
+5 Q 
+A Uh-huh. 
+It's hard to say. You know, I mean, if people --in a perfect situation, you 
+6 would go, "You," somebody, "are" --because that's the way we do it in the military. 55 
+7 You know, when I was in Afghanistan, you know, I was the commanding general of 
+8 the 101st Airborne Division. I was responsible for securing and defending, you know, 53 
+9 bases, but a big one that people know about is Bagram. It was a very, very big base that 
+10 we had there, you know, about the size of the District of Columbia. And, you know, I 
+11 had about 2,000 soldiers that were responsible for defending that against an active 
+12 enemy. So, if something went wrong there, you didn't need to try to figure out --you'd 
+13 just come right to me --
+14 
+15 
+16 
+17 Q 
+A 
+Q Right. 
+--as the commanding general of the 101st Airborne Division. 
+BY 
+General Mcconville, I appreciate that very much. 
+18 Would it ever be appropriate, in your view --and, again, we're talking prospective 
+19 and hypothetical --for the Army or the Department of Defense to assume the role of lead 
+20 Federal agency in a strictly domestic potential mass disturbance event like January 6th? 
+21 Or would that be inconsistent with --
+22 
+23 
+24 A 
+Q 
+A Well, you want my personal opinion? 
+I do, yeah. 
+I think the military certainly has the capability of doing that. You could 
+25 probably do it extremely, extremely well. The problem is, I personally --my personal  1 beliefs are, the military should protect the Nation. It shouldn't police the Nation. It 
+2 shouldn't be involved in law enforcement. 
+3 We have checks and balances in our Nation, I believe, for a reason. And, you 
+4 know, I believe in our military, and I believe in the leadership, but I think the checks and 
+5 balances that this country has put in place we should keep. It makes it a lot harder to 
+6 do --
+7 
+8 Q 
+A Yeah. 
+--you know, but I think, you know, with this thing that we call democracy, 56 
+9 having the checks and balances in place, although sometimes they can be frustrating and 
+10 bureaucratic --
+11 
+12 
+13 Q 
+A 
+Q Right. 
+--I think are best for the Nation. 
+Makes perfect sense to me. 
+14 So maybe a sweet spot is, the Army and the DOD resources are brought to bear in 
+15 the discussion, in the planning, in the training, but ultimately the decisions should be 
+16 made by a lead Federal agency that is not DOD. 
+17 A Yeah. And I truly believe in civilian control of the military. 
+18 
+19 Q 
+A Yeah. 
+I really do. And, I mean, that's not --and sometimes it can be harder. You 
+20 know, it'd be easier if we could just go --but that's --for the country, for the Nation --
+21 
+22 Q 
+A Yeah. 
+--having civilian control of the military and the checks and balances that are 
+23 in place, I think, are really important. 
+24 Q No, I take your point completely. It's just a question of how best to utilize 
+25 your vast experience without it taking over that --or violating that principle.  57 
+1 A Yeah, because, I mean, you know, if you take a look at --I mean, the military 
+2 certainly has the capability to do these type things. But we can help law enforcement. 
+3 It's just, you know --
+4 
+5 Q 
+A Yeah. 
+And I do think, you know, the American people want to see law enforcement 
+6 do those type things. 
+7 
+8 
+9 Q 
+Q 
+10 start with --
+11 
+12 A 
+Q Yes. 
+Do you think --there's been so much comparison about the --let me just 
+Yeah. 
+--the next sentence in the report says, "However, unlike in June 2020, the 
+13 lead Federal agency did not establish and man an integrated command post, nor did it 
+14 take an active role in coordinating with MPD or Federal law enforcement agencies." 
+15 
+16 A 
+Q Right. 
+So, obviously, it's clear that the Department of Defense feels like DOJ fell 
+17 short in its role for January 6th. And that's me summarizing this paragraph that's in the 
+18 review. 
+19 A Well, I'm going to let DOD characterize what DOJ did. I'm going to stay out 
+20 of that one. 
+21 Q In terms of, kind of, the perspective --problem-solving aspect here, 
+22 if --having spoken to many of the folks who were on that call in particular, from the Army 
+23 side as well as DOJ, there seems to be a disconnect about this phrase, "lead Federal 
+24 agency," the role, whether it should be coordinating, whether it's someone in charge, 
+25 whether it triggers an integrated security plan or the rehearsal.  1 
+2 A 
+Q Right. 
+Would it be helpful, if a request comes in for the D.C. National Guard, that, 
+3 for lack of a better word, there's a checklist of, this is what we want and expect a lead 
+4 Federal agency to do? 58 
+5 A Well, what I would say is, the lead Federal agency has to be willing to be the 
+6 lead Federal agency. And it's something --you know, because there's a lot of 
+7 discussions about how this could be orchestrated, but if you're going to do a very 
+8 complex, what we would call an operation --that's what defending the Capitol when it's 
+9 being contested is, or even some of these large demonstrations that could turn 
+10 violent --you have multiple jurisdictions here, and someone has to be, we would like to 
+11 say, in charge but at least somewhat, you know, the lead sled dog or herder. Someone 
+12 has to get everyone going in the right direction. Someone has to accept that 
+13 responsibility. 
+14 The military makes it very easy, because we just put a commander in charge. 
+15 You know, we say, you're responsible and accountable. But, you know, interagency, law 
+16 enforcement is very, very different. And so then you have to try to get what we would 
+17 call unity of effort, so at least everyone shares the same idea. If not, you're going to 
+18 figure it out in a situation that is really not the best way to do it. And that's when you 
+19 have, you know, results that you really won't be happy with. 
+20 I know I'm kind of being --but that's why, you know, these are really difficult 
+21 things to do, even by organizations that do it all the time. So, you know, if you don't 
+22 practice, you don't rehearse, it's like putting a --you know, what professional sports team 
+23 would go to the Super Bowl and never practice with the players that they were going to 
+24 play the big game with? 
+25 Q Uh-huh.  59 
+1 A Think about that. And then what professional football team would go to 
+2 the big game and not have a coach that is at least telling the players what to do, and let 
+3 the players just --like, it'd be almost like saying, go out in the field, you know, and just do 
+4 good stuff. 
+5 Q So, in comparison, when the Secret Service is in charge for the inauguration 
+6 as the lead Federal agency, what do they do? 
+7 A They had a very detailed, integrated plan. They were willing to --they 
+8 brought all the players together. They showed everyone what the plan would be, and 
+9 they walked through rehearsals. And they took advice from us, you know, because 
+10 there was --you know, there were a whole bunch of potential things that could've 
+11 happened on 20 January. 
+12 And, quite frankly, there was contingency after contingency, and there were plans 
+13 to respond to that contingency, which allowed, you know, the law enforcement agencies 
+14 or the military to apply the appropriate forces to do that mission. 
+15 So, you know --let me see if I can stay out of the classified --say you --okay, I'll 
+16 just --say you were anticipating some type of medical issue. You were able to have that 
+17 medical team, they were there. They knew what they were going to do. And, you 
+18 know, say someone got hurt or something happened. Okay. What do you do with 
+19 someone that got hurt here or something happened? 
+20 Well, the medical --you know, there's a little hospital here or a field surgical team. 
+21 They pick up these people, they meet them over here. Everyone knows where the 
+22 medical station is, so if something happens, you're not trying to figure it out when we just 
+23 had someone get hurt. 
+24 
+25 Q 
+A Uh-huh. 
+And there's a lot of other contingencies that probably, because this is going  60 
+1 to go open-source, I don't want to talk about. But you can think about some of the 
+2 things that could happen with sophisticated people that would want to disrupt the 
+3 inauguration. And, quite frankly, a lot of those things were planned for. There were 
+4 forces that were ready to respond to that. There were things put in place that would 
+5 prevent that from happening. 
+6 So, again, it was a very exquisite --now, the other thing, it was very 
+7 well-resourced too. I mean, we put 25,000 troops in. We brought them in from the 
+8 National Guard, and they were all there. And we put the fences up, which, again, it was 
+9 a very secure environment, given what was going on there. 
+10 Q So, when we head towards January 6th, the day of, there's a number of 
+11 other interagency calls. 
+12 A Yeah. 
+13 Q Secretary Miller --this was in the Senate report --stated he brought up his 
+14 concern about certain groups, the Proud Boys, in attendance and the permits. He stated 
+15 General Milley brought up a concern. 
+16 
+17 A 
+Q Yeah. 
+And at one of the calls --each call, he was assured by law enforcement that 
+18 everything was --they were assured that everything would be okay for January 6th. 
+19 Do you remember any type of interagency call where any concerns were brought 
+20 up about a potential likelihood of violence? 
+21 A No, I did not. I mean, there was, you know, kind of, chatter, so to speak, or 
+22 atmospherics. And, you know, I think --and, again, some of this I can't remember, you 
+23 know, was it open-source, or how I remember it. But, you know, I think it was like, hey, 
+24 if there's going to be a problem, why are we giving them permits? You know, why are 
+25 we --you know, there was some discussion of that.  61 
+1 But, again, getting back to the mayor and --you know, the general feeling that I 
+2 saw in the calls that I was on --and I wasn't on all of them, but I was on some of 
+3 them --was, they had what they needed to do the job. And they were specifically 
+4 asked, too, you know, like, does everyone have what they need, as we kind of went 
+5 around, at least on the calls I was on. 
+Uh-huh. 6 
+7 Q 
+A And then, you know, I go back to, on the 5th, from the mayor, coming back: 
+8 We've got, basically, everything we need, and don't introduce anything else that is going 
+9 to --you know, without us directly. So, I mean, there was concern. If we understood 
+10 them, they did not want to, you know, have agencies on the streets that they were not 
+11 directly in control. 
+12 You know, so I think, when it came to the military, it comes back to, we met 
+13 the --we did exactly what we were told to do, and we didn't try to do any more than 
+14 what we were expected to do. 
+15 Q I want to talk a little bit about the January 4th and January 5th --the 
+16 January 5th letter from Secretary McCarthy to General Walker outlying the authorities for 
+17 January 6th. I think that's exhibit 41. 
+18 Before I get there, though, are you familiar with the January 3rd publication in The 
+19 Washington Post from the 10 living Secretaries of Defense --
+20 
+21 A 
+Q Yes, I am. 
+--to refrain from any political action? Did that letter and, kind of, again, 
+22 the atmospherics as we marched towards January 6th, how did that play out with Army 
+23 leadership, and was it discussed? 
+24 A You know, I think that just shows the atmospherics, you know, when you 
+25 look at --for us, the Secretary and myself, we were going to do the right thing the right  62 
+1 way. I mean, it didn't take a --you know, I stand by that statement, the military has no 
+2 role in determining the outcome of the election. And I get plenty of emails, I get letters 
+3 that, you know, I failed because, you know, we didn't use the Army to do certain things. 
+4 But, you know, the American people can trust the Army are going to do the right thing the 
+5 right way. 
+6 But this was the atmospherics. You know, there was a lot of, you know, chatter 
+7 going on, those type things. And, you know, the fact that the Secretaries wrote that 
+8 letter, you know, I mean --we were going to do --it didn't take a --I guess the way to 
+9 describe it, I was certainly, you know, exploratory, but, from the Army's standpoint, we 
+10 were going to do the right thing the right way. 
+11 
+12 Q 
+A 
+13 determining. You didn't need the letter to reinforce what you were going to do. 
+No. No. The military, particularly the Army, was going to have no role in 
+14 And the Army, because we're on the ground --I mean, the Navy, you know, 
+15 they're off --it's hard to influence elections when you're out, you know --it'd be probably 
+16 hard to do, or, you know, airplanes over the top. But the Army is going to be on the 
+17 ground, and that's where that could happen. 
+18 But the Army is going to play no role in determining the outcome of an election. 
+19 Q Exhibit 40 is the January 4th memo from Secretary Miller to McCarthy giving 
+20 the guidelines from the Secretary of Defense to Secretary McCarthy. So let's just start --
+21 
+22 
+23 
+24 
+25 A 
+Q 
+A 
+Q 
+A Sure. 
+--briefly with that one. 
+Yes. 
+Now, in that, he has outlined eight restrictions. 
+Uh-huh.  63 
+1 Q Before January 4th, did any such written guidance exist within DOD about 
+2 the employment of the D.C. National Guard? 
+3 A I'm not aware of a letter this descriptive, as far as the left and right limits of 
+4 the National Guard. But, as you said earlier, I think there was a lesson learned from the 
+5 summer, and, you know, there were hearings, there were investigations conducted. 
+6 And, again, we're a learning organization, and the lessons that came out was that we 
+7 need to provide a little more, you know, guidance on how they would be employed. 
+8 
+9 
+10 
+11 Q 
+A 
+Q 
+A So -­
+And -­
+Sorry. 
+--not only that, it was, their request came with guidance. If you look at the 
+12 requests --you know, the requests that we saw were, okay, I don't --if you look at the 
+13 mayor's --again, I think all sides took a look at the summer and said, how can we do this 
+14 better? So, when it came time for the mayor and even these other Federal agencies to 
+15 request military support, or request Federal support, I think that, you know, they were 
+16 certainly taking the lessons learned from the summer. 
+17 That's why, when I think you look at the --I can't speak for the mayor, but the 
+18 letter she sent us was very --and the director of emergency services --was pretty specific 
+19 about they will not do this, they will not do that. 
+20 
+21 Q 
+A Uh-huh. 
+And what you're seeing is really the Secretary of Defense and the Secretary 
+22 of the Army capturing that request with the guidance in the request and then putting it 
+23 out for the National Guard. 
+24 
+25 Q 
+A So it's both, it's the request itself from the mayor as well as -­
+Right.  1 Q --some of these control measures were born out of the lessons learned 
+2 from the summer? 
+3 
+4 
+5 A 
+Q 
+A Yeah, they were from the lessons learned, that's right. 
+So --
+And some of that was even from the National Guard soldiers, you know, as 
+6 far as the low-flying helicopters. 
+7 
+8 Q 
+A Right. 
+I mean, basically, when that was looked at, they were following the 
+9 instructions they were given. And, you know, technically not something --you know, 
+10 within the airspace, they had the authority to do that, but we wanted to make 64 
+11 sure --even though you could, that's not the type of thing we thought you maybe should. 
+12 And that's, you know, how that was kind of true. 
+13 
+14 
+15 
+16 Q 
+A 
+Q 
+A So was it unusual to have a memo for a D.C. National Guard request? 
+I don't think so. I mean, I think it's probably smart --
+Okay. 
+--to have a memo that lays out the guidance, because, you know, as we 
+17 came out of the summer, there were investigations, there were hearings. And I think 
+18 many learned that, you know, just like we're trying to remember what happened, you 
+19 know, a year ago, when you're being asked these type questions, it's good to memorialize 
+20 what the guidance was so you have something to go back to many years later. 
+21 Q Just starting with Secretary Miller's January 4th memo: "Without my 
+22 subsequent personal authorization, the D.C. National Guard is not authorized the 
+23 following: to be issued weapons, ammunition, bayonets; to interact physically with 
+24 protesters; to employ any riot control agents; to share equipment with law enforcement 
+25 agencies."  65 
+1 And, obviously, the helicopters is the one thing that you've spoken about from the 
+2 summer, but --
+3 
+4 A 
+Q 
+5 the summer. 
+6 
+7 
+8 A 
+Q 
+A Right. 
+--there appears to be direct links on these other control measures to back to 
+Yes. 
+Can you describe that? 
+Well, I think --and I'd go right above it. "Use ISR assets to conduct ISR." 
+9 You know, the idea that you would use intelligence, that's one thing. You know, there 
+10 was an airplane flying over that they used during some of the demonstrations. 
+11 You know, I think the idea of, you know, the weapons and --I mean, if you bring 
+12 weapons in, if you're going to give weapons, you've got to be prepared to, you know, take 
+13 on the consequences of what happens when someone shoots somebody. You know, I 
+14 mean, you've got to be prepared for that. If you're going to put soldiers with, you know, 
+15 ball ammo and you're going to give them, you know, guidance that they have for 
+16 self-defense --so, if someone comes after them, now you start to get into what happens, 
+17 you know? You know, deescalation of force. And so you've got to be prepared for 
+18 those consequences. 
+19 And then you've got to, you know, take a look at and go, do you want American 
+20 soldiers, you know, shooting people on the streets of America? 
+21 
+22 Q 
+A During the summer, did the National Guard have weapons on them? 
+They did have --in some cases, they were armed, but their weapons --I can 
+23 talk to you offline, but I'll just say, they were armed, but we have procedures of when 
+24 they actually use their weapons in, we call it escalation of force. And the status of their 
+25 weapons is determined by the commanders on the ground. So you may not have --you  1 don't necessarily have bullets, you know, in the weapon. 
+2 I guess that's the best way to describe. Kind of, because I don't like to --we're 
+3 careful about how we describe that, because part of the reason having weapons 
+4 is --there's reasons why we do that. 
+5 Q Let me just ask about the last --the January 4th --the second-to-the-last 
+6 paragraph, it says that "at all times the DCNG will remain under the operational and 
+7 administrative command and control of the commanding general of the D.C. National 
+8 Guard, who reports to the Secretary of Defense through the Secretary of the Army." 
+9 At that time, was it clear that the Secretary --who had the authorities over the 
+10 D.C. National Guard? 
+11 In other words, in the very beginning, we talked about D.c.'s unique position --
+Yes. 
+--and the President oversees the D.C. National Guard. 
+Right. 66 
+12 
+13 
+14 
+15 A 
+Q 
+A 
+Q But, now, on January 4th, did the Secretary of Defense and Secretary of the 
+16 Army have those authorities over General Walker? 
+17 
+18 
+19 
+20 A 
+Q 
+A 
+Q Yes. 
+So there were --
+That's what I believe. I means, that's how I see it, yeah. 
+Okay. Was there any need to get any additional authorities on January 6th 
+21 once that power is given to the Secretary of the Army and Secretary of Defense? 
+22 
+23 
+24 
+25 A 
+Q 
+A 
+Q You mean for the President? 
+Yes. 
+I don't think so. 
+The last paragraph -- 67 
+1 A I mean, that's the way we saw it. I don't know if --on the legal side, did 
+2 you --I mean, I think it's delegated. I mean, I --
+3 
+4 Q 
+A Okay. From your --
+From my perspective, there was no need to get any further than above the 
+5 Secretary of Defense. 
+6 Q The last paragraph says you employed a D.C. National Guard quick reaction 
+7 force only as a last resort and in response to a request from an appropriate civil authority. 
+8 
+9 A 
+Q Right. 
+You spoke a little bit about the quick reaction force. And Secretary Miller 
+10 uses this phrase, "as a last resort." 
+11 
+12 A 
+Q Yeah. 
+So can you explain what that means in practicality, in terms of when to use 
+13 the quick reaction force, based on that January 4th memo? Because it gets tweaked a 
+14 little bit with Secretary --
+15 A Yeah. Well, I think when you look at the quick reaction force, you want to 
+16 make sure that you're using them within their capabilities. 
+17 And I don't know if you've had a chance to talk to General Walker or anyone else, 
+18 what the quick reaction force is. And I haven't had a chance to really delve into it, but, 
+19 you know, the report I got --because I just asked the question, what was the quick 
+20 reaction force? 
+21 Well, it was supposed to be 40. It was actually 34 soldiers from the Air National 
+22 Guard. Sixteen of them were what we would call security personnel, who were more 
+23 along the lines --and I think 18 were actually what we would call, you know, mechanics 
+24 and crew chiefs and logisticians. 
+25 So this becomes important because, you know, as people start to think about the  68 
+1 employment of a quick reaction force, you always want to employ them in line with what 
+2 their capabilities are. You know, if you're a medic --you don't want a medic doing brain 
+3 surgery, you know? Because --they could, but it's probably not what you want to do. 
+4 In this case, again, what's not shown here, the intent of the quick reaction force 
+5 was really to send these troops over to help if they had a problem at one of the traffic 
+6 command posts. Like I say, if we've got a whole bunch of stuff going on and we need a 
+7 few more people over here, that was the intent. 
+8 There never was an intent for a quick reaction force to go to the Capitol, to clear 
+9 the Capitol, to get involved in some type of contested clearing operation where you had, 
+10 you know, armed people involved. There was never --at least from where I sat, there 
+11 was never any plan. 
+12 In fact, most of what I saw was, there was no plan to put any military anywhere 
+13 near the Capitol because of what we had said, the military has no role in determining the 
+14 outcome of elections. So there was a lot of reluctance even to have that discussion 
+15 about where the military would go.  1 
+2 [11:17 a.m.] 
+3 Q General Walker testified at a Senate hearing. 
+4 A Yeah. 
+5 Q And in his opening statement, because there was this discussion of, as a 
+6 layperson, you think a quick reaction force is --
+7 
+8 
+9 
+10 A 
+Q 
+A 
+Q Yeah. 
+--a quick, like a force that can go there quickly. 
+Yeah. 
+And I appreciate you explaining that. 69 
+11 He stated in his opening statement, The standard component of such a unit is the 
+12 stand-up of an off-site quick reaction force, an element of guardsmen held in reserve with 
+13 civil disturbance response equipment, helmet, shields, batons, et cetera. They are 
+14 postured to quickly respond to an urgent and immediate need for assistance by civil 
+15 authority. 
+16 Further in his statement, generally in substance, he believes those folks could 
+17 have gone there immediately, as well as the rest of the guardsmen that were supporting 
+18 the Metropolitan Police Department. 
+19 What's your response to his view? 
+20 A Well, first, I have very much respect for the D.C. National Guard. I mean, 
+21 they did a great job. Not only did they do it during this time, they did it during --
+22 think, in some ways, is people have, you know --it just takes time to do --you know, 
+23 having been involved in a lot of type of operations and having been involved in operations 
+24 that maybe didn't go as well, and we've learned from is if you think about how --so you 
+25 can say the quick reaction force, the quick reaction force was out at Andrews.  70 
+1 So, first of all, you have to bring that quick reaction force over. The quick 
+2 reaction force didn't have weapons. And so now, you've got to stop to think about, are 
+3 you going to put them into the Capitol where, again, there were gunshots fired, and that 
+4 35 people and 34 people are going to turn the tide, which is really interesting --as I 
+5 watched this thing, people are going, well, you know, the guard was late or they were this 
+6 or this. We're going, do you think 34 people when there's 2,000 police officers, you 
+7 know, on the Capitol, 8,000 police officers and 2,000 marshals, but, for some reason, this 
+8 34, you know, personnel-size mechanics was going to turn the tide on what was 
+9 happening. 
+10 And even then, they can pretty --you know, when you look at the timeline, at 
+11 least the way I look at it, at about 1430 is when this thing --you know, we can argue, but 
+12 about 1430, and they were given the order to go, at least by our 1630, so it was 2 hours 
+13 to turn this whole thing, to get people in place, to bring --you know, I mean, just think 
+14 about, right now we've got 30, you know, four-man teams out on street corners all over 
+15 D.C. 
+16 You have got to bring all of these people back that thought they were doing traffic 
+17 command, you know, things. They don't have the shields. Now, the quick reaction 
+18 force did, but now you've got to issue them all of this equipment, you know, where they 
+19 going to get together, you've got to get them on buses. 
+20 
+21 Q 
+A Uh-huh. 
+And now you've got to bring them down to the Capitol. And when they go 
+22 to the Capitol, what do you want these people to do? Because some people would say, 
+23 Just go the Capitol. Just go help. Well, how do you want them to help? 
+24 And even in the discussion of who should do what, our recommendation, my best 
+25 military advice was have the National Guard reestablish the perimeter. Basically put  71 
+1 them in, you know, have them go with civilian, you know, kind of the civil defense 
+2 equipment and allow them to basically, you know, reestablish the perimeter around the 
+3 Capitol is secured. And that's kind of what they did, but that took time. 
+4 
+5 Q 
+A Uh-huh. 
+I think when I testified before, I talked about to board an airplane, it takes 
+6 you 15 --I mean, when you think about, you know, the National Guard about who we're 
+7 talking about, we're talking about 150 people. And just to get on buses, I mean, think 
+8 about, you know, in an aircraft, it takes up 15, 20 minutes just to get on an aircraft and 
+9 then to drive and move. 
+10 And the other thing, you know, with Secretary McCarthy, you think about the 
+11 Secretary, he drove to the Metro Police Station. They go, Okay, I've got the people 
+12 coming. You know, what he's doing is he's saying, you know, bring the guard back. 
+13 Let's get them in place. Let's get their equipment. Get them ready to go. I'm going 
+14 to go over and come up with a plan, because we've got to figure out, you know, what 
+15 we're going to do to try and solve this situation. And that was done in 2 hours, that 
+16 whole thing. 
+17 Q And I'm wondering --and I appreciated the analysis of what happened in 
+18 those 2 hours from the request and the arrival. 
+19 
+20 A 
+Q Yeah. 
+I wonder if you could explain, you know, the perspective of what was 
+21 happening on the ground there from General Walker --
+22 
+23 A 
+Q Yeah. 
+--who stated, you know, in his opinion --I'm summarizing the testimony I 
+24 have in front of me --he would have immediately put all the guardsmen that were 
+25 supporting the MPD, and they had their gear in the vehicle, but they were equipped with  72 
+1 force protection, helmets, shin guards, body protection, and vehicles. 
+2 His position was 150 folks could have arrived in 20 minutes, and that would have 
+3 made a difference. But --which is the counter to everything that had to be done in 
+4 terms of re-missioning, re-equipping, and authorizing weapons? 
+5 A Yeah. Again, I would be interested in his thoughts on that, how 
+6 that --what would that look like. 
+7 
+8 Q 
+A Okay. 
+You know, I mean, again, my experience is, you know, 40 years in the Army 
+9 commanding. Again, I'm not --I'm not trying to --
+10 
+11 Q 
+A And I'm not asking you to --
+No, I'm trying to criticize. I'm not going to --it's all about, you know, risk 
+12 management when it comes to these type things, you know, and you can study some 
+13 military operations where, you know, we responded very, very quickly and, you know, we 
+14 have, you know, even elite forces that have lost their lives because, you know, sometimes 
+15 it's to have a little bit of tactical patience, where you try to, you know, make sure you 
+16 have a basic plan before you just rush right in there, and you will have better results in 
+17 the long term. 
+18 Sometimes --what you want to be careful, at least from where I sit, is you don't 
+19 want to rush to failure, you know. Because the thing is, let's just say it's true, they could 
+20 have been there in 20 minutes. Everyone hopped in their vehicles, and they drove to 
+21 the Capitol and there in 20 minutes. How would they, you know --so take --you know, 
+22 someone just take one of the vehicles. They just rush to the Capitol. There's people all 
+23 over the place. And you're a, you know, Private E-4, great soldier in the National Guard, 
+24 what do you do? Go find somebody, you know. And you have your helmet and you've 
+25 got your vest. You don't have riot gear equipment. You've got your protection.  73 
+1 So what does that look like? You just park your car, and then you run up to the 
+2 Capitol and go, How can I help? And is the 120 people coming, and they're coming from 
+3 different roads, and they're showing up --and there's roadblocks too. There's all of 
+4 these things going on. 
+5 And, again, I think maybe he probably was not wrong, they could have been 20 
+6 minutes. But what would have been the results of employing the force that way? 
+7 And, again, I would come back to that that is a way --and I'm not going to, you 
+8 know, challenge that, that that could have happened, but what if there was people 
+9 shooting on the Capitol, and you sent the troops up there and they had no weapons? 
+10 Or, you know, you wanted them to clear and they don't have the capability? That's kind 
+11 of what you have to do is to command, think your way through it. You know, how can I 
+12 provide the best value to do that? 
+13 And I think, quite frankly, from what they did, you know, within 2 hours, they 
+14 went and they brought everyone back in. They brought a lot of folks in. I know he 
+15 wants to do more. But in some ways, you know, what I would say, from a military 
+16 standpoint, that's how long it takes to do things if you're going to do them pretty right. 
+17 And once they get up there and they had a good plan, they set the perimeter, they 
+18 kind of came with the stuff, and they cleared. Now, if we had --the question from at 
+19 least the lesson learned is how could you do this better and still get the same results? 
+20 would not advocate lesson learned that we're going to put people out there. I mean, if 
+21 the lesson learned is we should take people who are on traffic control points and just tell 
+22 them go straight to the Capitol, and that's the lesson learned, I would say that's not a 
+23 good lesson to be learning from what we needed to do. 
+24 Ideally, we would have had, you know, a plan that had various people to respond 
+25 to that type of capability.  74 
+1 Q And I think when we spoke earlier, that was the question, is what could have 
+2 gotten them --the D.C. National Guard their faster, and you stated --
+3 A Yeah. I mean, ideally --you know, because the other thing too is, again, 
+4 some of these --and, again, I can't speak for all the guardsmen because I don't know 
+5 who's on the checkbook. But some of these don't even live in D.C. You know, 
+6 some may, you know, not even know where the --1 remember going up and seeing, you 
+7 know, young guardsmen on the Capitol. I used to run up there on the weekends and 
+8 take --you know, just check on the troops, see how they're doing, undercover boss in my 
+9 PT stuff. But what was interesting was a lot of those kids had never been in the Capitol. 
+10 So you think about this, you know, they wouldn't even know where to go, I think. 
+11 You know, I don't know. I mean, I go up to the Capitol a lot and you have someone take 
+12 you around, and you all work there, so you know it. But for people that haven't been 
+13 there, where do you go and what do you do? 
+14 And I think, again, we can take a hard look at that, but I would not recommend 
+15 that's the plan. You know, if we think that's a good plan, we didn't have a good 
+16 contingency plan to get those people up to where they needed to be. 
+17 
+18 
+19 Q 
+A 
+Q I appreciate your walking us through the response to that. 
+Okay. 
+I wanted to finish up the January 5th memo of Secretary McCarthy to 
+20 General Walker --
+21 
+22 A 
+Q Yeah. 
+--which now includes this concept of operation before the QRF deployment, 
+23 which I think you mentioned this was a requirement that was kind of borne out of the 
+24 summer lessons learned in terms of having a control measure before any decision is 
+25 made. Is that fair to say?  75 
+1 A Yes. I think what would be clear to say is they were bound --they weren't 
+2 unbounded in the employment of military forces. And I would recommend that we 
+3 always bound military forces in your employment. And especially, when you're acting as 
+4 a force provider, maybe, you know, giving those --you're basically providing those forces 
+5 to someone that may not even know how to employ them, which may not get you the 
+6 results that you wanted to. 
+7 Q So Secretary McCarthy included this concept of an operations that was not 
+8 included in the Secretary Miller letter. 
+9 Do you know the reasons --
+10 
+11 
+12 
+13 A 
+Q 
+A 
+Q Which one? I've got his letter here. 
+So the January 5th letter to General Walker -­
+Right. 
+--includes, at the top of page 3, I will withhold authority to approve 
+14 deployment of the D.C. National Guard quick reaction force and will do so only as a last 
+15 resort, in response to a request from civil authority. I will require a concept of 
+16 operation. 
+17 
+18 
+19 yours. 
+20 
+21 
+22 
+23 A 
+Q 
+A 
+Q 
+A 
+Q Right. 
+So, again --and I'm certainly not pitting General Walker's testimony against 
+Sure. 
+It's more for you to have the opportunity to explain. 
+Yeah. 
+He found that this concept of operations to be unusual. Was it unusual, or 
+24 is this typical as --
+25 A Oh, for military, it's absolutely the way we do business. And so, I try to  76 
+1 understand like, you know, again, there's different cultures within even law enforcement. 
+2 You know, the military has learned from, you know, many, many types of operations. 
+3 Again, I don't want to judge General Walker, but I try to see perspectives. And the law 
+4 enforcement perspective that I'm seeing at least --again, I'm not speaking for law 
+5 enforcement, but I've watched a lot of movies with law enforcement. 
+6 And, you know, I mean, I remember growing up as a kid, 1 Adam 12, you know, 
+7 respond --you know, when you think about how I see --I may be wrong, but how I see 
+8 police officers, you know, they're in their car, they have their equipment, and it's like, 
+9 Hey, we've got something going on here. You know, go over here, and they put their 
+10 lights on and they drive fast, and they get there very, very quickly, and then they try to 
+11 react to the situation. 
+12 The way the military operates is, you know, we tend to have --first of all, we're 
+13 not sending one person in one car. We're going to send an organization. That's why 
+14 they like the military. They're going to come with a disciplined organization that is going 
+15 to have 250 people, or 25,000 people. 
+16 And for us, what we do is we come up with a concept of operation of what those 
+17 organizations are going to do. Part of the concept of operation, we expect you to do 
+18 this, this, and this. And then once we know that, then we can say this is the type of 
+19 equipment that you're going to need to do this, this, and this. 
+20 And I will take two kind of simple missions that were done on the Capitol on that 
+21 day. You know, one was clearing the Capitol, which is a --and, again, at least what I 
+22 saw, was the FBI had their hostage rescue team up here. They're all kitted up, you 
+23 know, and they're going through. They are trained at a very elite level to come into 
+24 rooms where there's, you know --people that are, you know, armed or insurgents or are, 
+25 you know, just being criminals and those type of things and to deal --that's a very high  77 
+1 skill level. It's a difference between a medic and maybe a neurosurgeon. They operate 
+2 at that level. 
+3 You know, it's not a huge level to be part of failings where you're coming with, you 
+4 know, like the shields and helmets. You're basically --you know, you line up and you 
+5 kind of stand there and, you know, you fit, you can do that type of thing. That's to 
+6 establish a perimeter. Those are two different tasks. 
+7 And even then you have to stop and think about it, but we think about it too. 
+8 When we put the National Guard in a civil disturbance role, which they do, we want 
+9 someone there with weapons, because what if someone comes up to them and starts 
+10 shooting them? And they don't carry weapons when they do that because when you're 
+11 in the phalanx, you don't want to have a weapon on you that somebody could grab and 
+12 do those types of things. So they're unarmed, even though they have the shields and all 
+13 those other type things. 
+14 So you have to start thinking through what happens, what are the contingency 
+15 plans? What if somebody gets hurt? So we do a concept of operation. We go 
+16 through this is the threat that they're going to face; this is their mission; this is what their 
+17 intent is; this is how they're going to get there; this is what they're going to do. Here's, 
+18 you know, what happens when someone gets shot; here's where the medical station is; 
+19 here's where they're getting food; here's where they eat; here's where they're going to 
+20 sleep. And then who's in charge? Who is responsible for doing that? 
+21 That's very different than saying, Just go there and figure it out. It's a different 
+22 philosophy. You can get there quicker, but our experience, certainly in military 
+23 operations, is in combat that doesn't work very well. 
+24 I think we have come to January 6th, the day of, so we're kind 
+25 of towards the end here. Do you want to take 5 minutes before we start with the day?  1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 General Mcconville. Whatever you want to do. Want to take a break? 
+Mr. Hayden. We can take a quick break. 
+General Mcconville. Okay. 
+Thank you. 
+[Recess.] 
+Q 
+A 
+Q Before we broke, we said we would begin with January 6th. 
+Sure. 
+If you could just --we have the time line from the DOD. We have the 
+10 timeline from the Army. We also have the D.C. National Guard timeline. 
+11 If you could just kind of, maybe let's start around 1 o'clock that day. Were you 
+12 located at the Pentagon? 
+13 
+14 A 
+Q I was, yes. 
+And according to the timeline, I believe it's the Department of Defense 
+15 timeline, the Secretary arrived 1:15, the Secretary of Defense was informed of 
+16 demonstrators, that they were beginning to march to the Capitol. 78 
+17 From your perspective, when did you become aware of kind of the activity at the 
+18 Capitol, around what time? 
+19 A I think for me it was right around 2:20, 2:30. I mean, you know, that's 
+20 when --you know, there was certainly TVs were on, but we're actually in a meeting 
+21 schedule. It's kind of the way the Army works is, you know, we're not what we would 
+22 call an operational headquarters, you know. I mean, it's a big Army. We've got 
+23 worldwide events going on. The way the Army sees this is we were required to provide 
+24 this amount of soldiers, you know, 340 National Guardsmen. We have a two-star 
+25 general in charge, and, you know, they're providing that support.  1 And, you know, we get a report, hey, you know, they're out there; they're in the 
+2 right place; they're doing the right thing. And then we're on to running global 
+3 operations for the Army. 
+4 But around, I think it was about 2:30 there was a phone call that was made --I 
+5 think this --
+6 
+7 Q 
+A Right. So --
+Yeah, I think it was about 2:30 they made a phone call. And this is when 79 
+8 the support started to, you know, get at the serious level. In fact, what happened was I 
+9 think it was myself, the Secretary --it was in the Secretary's office. The 
+10 Secretary --because the calls come right to the Secretary. The Chief of Staff of the Army 
+11 really doesn't play in the employment of the National Guard, except as advisor to the 
+12 Secretary. You know, the Secretary will ask me to come in, Hey, what do you think, 
+13 Chief, based on my experience. But I'm not in the chain of command when it comes to 
+14 National Guard, if that makes sense. 
+15 Q Yes, it does. I think, according to the Army timeline, it says 2:22, the 
+16 Secretary of the Army was on a phone call with the D.C. Mayor, Deputy Mayor, Dr. 
+17 Rodriguez, and MPD leadership to discuss the situation. 
+18 And then at 2:30, the call you just referenced, there's the Acting Secretary of 
+19 Defense, I believe General Milley, Secretary McCarthy meet to discuss --
+20 A Yes. I think what happened is the way --at least in the Pentagon the way 
+21 the offices are set up, the Secretary and myself's office, you know, they abut each other, 
+22 so they're on either side. So, you know --and we leave our door, we go back and forth. 
+23 So the Secretary, the call that I'm aware of --and I think I'm on the checklist 
+24 here --was about 2:30, and there was a call going on. 
+25 Q Uh-huh.  80 
+1 A And that's, you know, when there was this serious discussion. So the 
+2 Secretary and I left that call, and Walt Piatt stayed to kind of get some particulars, Hey, 
+3 get this thing moving. And we went down to basically, you know, brief the Secretary of 
+4 Defense and get this thing moving, and we did. 
+5 Q So the benefit of talking to you in November versus the last time I talked, I 
+6 think was April --
+7 A Yeah. 
+8 Q --is there is a lot of open-source reporting about the particular time period 
+9 and the 2:30 call. 
+10 
+11 A 
+Q Yes. 
+So when you left General Piatt, what --prior to that, who was on the call and 
+12 what was the tone of the call that you remember? 
+13 
+14 
+15 
+16 
+17 
+18 
+19 A 
+Q 
+A 
+Q 
+A 
+Q 
+A You mean who was on the call as far as the --
+Before you left the office to go to the Secretary of Defense's office? 
+Let's see --
+And you're aware that 2:30 call was in the press about -­
+Right. 
+--the use of the word "optics"? 
+Optics, yeah, yeah. Yes. So I think the mayor --you know, I was kind of 
+20 listening --like you --I know what people have said about the call, and I'm very aware 
+21 that, where was General Flynn and where --I mean, the bottom line is the phone calls 
+22 goes on. It's on speaker phone. People are ducking their heads in. People are 
+23 walking by. 
+24 I think the only reason that General Piatt was even there is he walked over, and I 
+25 think he came over to tell us they found two --I think there were two pipe bombs that  81 
+1 were, you know --I think it was at the DNC and the RNC. So he just happened to walk 
+2 in. 
+3 So that's why I think there was confusion with people going, Hey, he said he 
+4 wasn't there; he was there. I mean, it was --you know, first of all, we're doing meetings 
+5 and imagine, you know, all of a sudden, we become kind of like this little phone that sits 
+6 on a desk, and it becomes like an operation center. And there's people on the phone. 
+7 I think it was the mayor, I think --you know, there were a bunch of folks on this end, We 
+8 need help right now. 
+9 And, of course, the TV is up and we're starting to see that stuff. So basically 
+10 what happened then was the Secretary and I just went --like, we weren't running, but we 
+11 were moving pretty fast. We go, let's go down, you know, to SECDEF, kind of met up in 
+12 the SECDEF's office and said, Hey, we've got to do that. That's when the decision was 
+13 made to basically mobilize the entire Guard, get the things going. Let's get them in 
+14 position. 
+15 And then really what we're trying to figure out is, what type of support did they 
+16 want us to do? Some of it was like, Hey, can we do things with the National Guard to 
+17 relieve police officers so they can get down there and respond to what's going on at the 
+18 Capitol? So that's kind of the some of the discussion that was going on. 
+19 And then it gets --you know, and then we start bringing the National Guard in, 
+20 right around 1500 I think it was. 
+21 Q So just getting back to that 2:30 call --
+22 
+23 A 
+Q Yes. 
+--do you remember any discussion about any suggestions that were made 
+24 by General Piatt to the Mayor, to Chief Sund, or to Chief Conte? 
+25 A See, I was not there during that part, but here is what I do remember.  82 
+1 talked to some of my staff, and they said that General Piatt did an incredible job. He 
+2 was like the --you know, in a very calm, just saying, let's just settle --the Secretary has 
+3 gone down to do that, you know. And a lot of people were talking optics. I was not 
+4 one of them, but, you know, there were different phone --because I think that's why 
+5 there was confusion about --you know, you're seeing the open-source stuff that's come 
+6 out. There were a lot of people saying that they did not like the optics of the military 
+7 being on Capitol Hill. 
+8 I mean, there was certainly concern. You can call an optic, call it whatever you 
+9 want, but there was certainly concerns about a military signature giving, you know, a 10 
+10 star --someone has got their phone going off. 
+11 Okay. Given that with the SECDEF, there was just a lot of opensource material 
+12 about what the military was going to do or not do during that time. And so, from where 
+13 the Army was, the Army was going to do what was requested, and that's what we did, 
+14 you know. 
+15 Q From that 2:30 time frame on, was there any sense that there was not going 
+16 to be an approval of activating the D.C. National Guard to assist? 
+17 A No. There was no discussions. Because I've heard open source, like there 
+18 was --no. In fact, the entire National Guard was basically mobilized right at that 1500 
+19 hour. 
+20 
+21 Q 
+A The 3:04, I believe? 
+Yeah. Because some people looking at that, was that the decision to 
+22 launch the troops? I mean, really what you had was right then, because you only had, I 
+23 don't know, about 150 National Guardsmen. If you look at the way it was set up, there 
+24 was 340 National Guardspeople total. Half of them were on the streets, and the other 
+25 half was going to be the second shift kind of coming in. So as you take a look at it, you  83 
+1 know, the 340 weren't all there. They were running shifts. And so, you know, about 
+2 150 were spread out throughout the whole district. 
+3 And then the decision that was made with the Secretary of Defense was mobilize 
+4 the National Guard. Get everyone coming in. So now, you know, you're talking about 
+5 1,000 National Guard folks coming into the Army and getting all of this stuff up. 
+6 And then the real thing was, and what the Secretary was challenged for is, you 
+7 know, What do you want me to do? You know, because, again, from a fleet 
+8 law-enforcement type scenario, it's just send them to the Capitol, where from a military 
+9 standpoint is, what do you want them to do so we can configure them so they're ready to 
+10 do the operation? 
+11 And the question was, do you bring them back in? You know, because they 
+12 didn't have riot --what we call civil disturbance gear. I think that's the proper term for 
+13 it, not riot gear; I think civil disturbance. They didn't have that stuff with them. 
+14 And the other thing is, did you want them armed, because they were not armed. 
+15 And that was kind of the decision that people were trying to make. And at the same 
+16 time, even as I was sitting in that meeting with the SECDEF and there was a team up there 
+17 talking about, we got a note that said there's been shots fired. 
+18 So now the situation totally changed to where we had a disturbance. No one 
+19 knew at that time that there were shots fired by a Capitol Police officer. 
+20 
+21 Q 
+A Uh-huh. 
+But that's the type of, you know, information that you're getting. And that 
+22 changes the whole situation. And I think what people were wrestling with the National 
+23 Guard was, do you put them without weapons into a situation where there's weapons? 
+24 And the other thing, there was a discussion is there things they can do that will 
+25 keep them --you know, that will allow law enforcement to do law enforcement.  84 
+1 Because a lot of times with these things that we do with the military in the support role is 
+2 allow law enforcement to do what they need to do. So, you know, we will do the traffic 
+3 control points so they can be doing law enforcement. We're not doing the arresting. 
+4 They're doing the arresting. So you don't have military doing what a lot of people think 
+5 is traditional law enforcement actions. 
+6 
+7 
+8 
+9 Q I just want to go back a little bit to the timeline. 
+A Yeah. 
+Q So the 2:30 call happens. You're not there --
+A Well, no. I was there. I was there for the first part. Because the way it 
+10 kind of happened was the phone call --imagine, you know, the Secretary's office is right 
+11 there. There's a desk there, and he's got a phone on there. He puts it on speaker 
+12 phone. They're starting to talk, Hey, we need this, this, and this. And so it's, like, the 
+13 Secretary and I, let's go --we've got to get ready to employ the National Guard. Let's go 
+14 down and talk to the Secretary of Defense. 
+15 And we go zipping down there and go down to the meeting with the Secretary of 
+16 Defense, and during the time, the chairman is there and the rest of the folks. 
+17 
+18 Q Right. 
+A And we are getting ready to --you know, we mobilize the National Guard, 
+19 and we're getting ready to decide how we employ the National Guard. 
+20 
+21 
+22 
+23 
+24 
+25 Q So when you leave the call that started at 2:30 --
+A Right. 
+Q --to go to Secretary Miller's office --
+A Right. 
+Q --General Piatt has left? 
+A He's left there with a few other people. I think our acting general counsel  1 were there. There were a few other folks, a couple of the XOs. I mean, there were a 
+2 couple of people that were staying in the office, yeah. 
+3 Q And at that time when you go to the Secretary of Defense office with 
+4 Secretary McCarthy --
+5 
+6 A 
+Q Yes. 
+--there's reporting, and I believe Secretary McCarthy spoke about this as 85 
+7 well that because of the confusion of that 2:30 call, at 2:55 a reporter tweeted that DOD 
+8 is not going to provide D.C. National Guard. 
+9 Were you aware of when that occurred? 
+10 A Yeah. You know, it was --again, I was not in the phone call, but I heard, at 
+11 least talking to some of my people there --
+12 
+13 Q 
+A Uh-huh. 
+--there was a lot of emotion on the phone call, and there was questions like 
+14 to General Piatt, Are you telling me you're not going to support? And he said, No. 
+15 We're going to get the authority right now, you know, and that's what --you know, at 
+16 least I was told about three times he said, We're getting the approval right now. And, 
+17 you know, the discussion was, at least I was told, was, you know, General Walker, get 
+18 your forces ready to go and try and work that out. 
+19 And what would have been helpful is if there was a clear plan. Because even 
+20 after that, even after we got the authority to do that, Secretary McCarthy ended up going 
+21 over to the Metro Police, getting with them and coming up with a concept of how they're 
+22 going to employ on the fly, which he did. And then he called back to the Secretary of 
+23 Defense, said, We've got a concept, we're ready to go. And that was about 1630, and it 
+24 was like, you know --by this time the guard had a chance to come back in, get their 
+25 people on buses, and then move out and head over to what they needed to do.  86 
+1 Q Secretary McCarthy said after the 2:55 tweet went out that said DOD is not 
+2 going to support, he made some calls to Congressional Members. 
+3 Were you involved in those phone calls? 
+4 A I might have been. Like, there were phone calls going on that some I 
+5 was --because he was really running --you know, it was one of those things where he 
+6 had a lot going on. He had a lot of people calling him. And, you know, we had, at the 
+7 time, General Chris La Neve make kind of as his Acting General to help him run these type 
+8 of things. 
+9 And then he went over. He did a press conference with the Mayor. You know, 
+10 he went and met with Metro Police. He put all of this together to facilitate the proper 
+11 deployment of the National Guard. 
+12 
+13 Q 
+A And you stayed at the Pentagon the whole time? Is that correct? 
+I did because, again, you know, I'm an advisor. I did not leave the 
+14 Pentagon, that's right. 
+15 Q I want to highlight one of the issues that has been discussed about these 
+16 conflicting timelines. 
+17 
+18 
+19 
+20 A 
+Q 
+A 
+Q Yes. 
+Which I remember we asked you about before on the Senate side. 
+Right. 
+According to the DOD timeline, at 4:32, Christopher Miller provides the 
+21 verbal authorization to re-mission the D.C. National Guard --
+22 
+23 A 
+Q Yeah. 
+--to conduct the perimeter and clearance operations in support of the USCP. 
+24 Now, I just want to break down the time period from 3:04 when the Acting 
+25 Secretary of Defense gave the order to formally mobilize.  1 
+2 A 
+Q Yes. 
+Now, again, to break it down, the full mobilization for the D.C. National 
+3 Guard at 3:04 meant they were going to the D.C. Armory to get re-missioned and 
+4 re-equipped? Is that correct, generally? 
+5 A No. What I would say is --the way I would understand full mobilization is 87 
+6 you only had 340 of the National Guard involved in, you know, the request. What he did 
+7 was bring everybody in, most of the entire National Guard, which means you're calling up, 
+8 you know, like 1,000, maybe 12 --so it's everyone available, bring them in. And that's 
+9 what they did. You know, that's what they did. That's how they set up the perimeter 
+10 and everything. 
+11 So the mobilization is --and, again, that's the way I understand it. You know, 
+12 Secretary Miller may have a different, you know, assessment of it, because I can see 
+13 confusion between what did he mean by the mobilization. You know, I see it as a 
+14 two-step --mobilization means you're bringing everybody in. 
+15 
+16 Q 
+A Right. 
+You know, muster the National Guard, because that's a decision. I mean, 
+17 what you're doing is you're pulling people out of their jobs and you're paying for them to 
+18 come in there and basically to kit up and get ready do something. So that's a big deal. 
+19 
+20 
+21 
+22 
+23 
+24 
+25 Q 
+A 
+Q 
+A 
+Q 
+A 
+Q So, again, if we look at the timeline, the 2:30 request -­
+Yes. 
+--when do you see the official request coming in, at what time? 
+The official request for --
+For assistance from the D.C. National Guard? 
+14 --about 1430. 
+Okay. So, sorry, I'm doing it as a layperson.  I mean, sorry. 2:30 p.m. in the afternoon. Sorry about that. 
+I'm already confused with all the acronyms. 88 
+1 
+2 
+3 A 
+Q 
+A No, I will go back. No. I see, you know, like basic hard line about the call. 
+4 That is what I see as basically --it wasn't in writing, but the official request is 2:30. 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 Q So then the 2:30 call --
+A Right. 
+Q --request --
+A Right. 
+Q --the 3:04 full mobilization --
+A Right. 
+Q --by Chris Miller? 
+A Yes. 
+Q Now, as a layperson, people say the use of the confusion is at 3:04 they were 
+14 ready to go. 
+15 
+16 
+17 
+18 A Right. 
+Q But that's not accurate, correct? 
+A No, I don't believe so. 
+Q So from 3:04 until 4:32, when Acting Secretary Miller provides the verbal 
+19 authorization to re-mission the D.C. National Guard to go to the Capitol --
+20 
+21 
+22 as --
+23 A Right. 
+Q --what happens during that hour and a half? Is that what you described 
+A Well, what I would think was happening during that hour and a half is they're 
+24 moving the quick reaction force down from Andrews over to the Armory. They're 
+25 leaving their check points, the traffic control points, the 30 traffic control points so that all  89 
+1 of those vehicles, they're hopping in their cars and they're driving back in traffic through 
+2 the armory and getting set. And you're bringing in maybe 150 people, and now you are 
+3 going to go to the Capitol. 
+4 And what you want to do, you've got 150 people there, and then they have 
+5 probably get their buses or how they transport large people. And then probably --you 
+6 know, again, I wasn't over there, but what I would think they would be doing is one of 
+7 two things. They didn't have a mission request, but they might have been anticipating a 
+8 mission request. What I think, you know, they're probably doing is let's get all of the 
+9 civil disturbance gear out. You know, let's get in the lockers. Let's get, you know, the 
+10 shields and this stuff. They're over there trying to get all the stuff, so everyone has got 
+11 their stuff. And then they're getting them ready to get on a bus and getting ready to 
+12 come over. 
+13 Q So the confusion is, the DOD timeline has the verbal order at 4:32 and 
+14 their --the DOD timeline has that verbal order was given to General Walker. 
+15 
+16 A 
+Q Yes. 
+However, the D.C. National Guard timeline says he received the order at 
+17 5:08 from yourself. 
+18 
+19 
+20 A 
+Q 
+A I know, I know. 
+Can you explain that? 
+No. No, I will. But it was interesting because, again, what I was 
+21 told --and, again, I was not on the phone call --was the Secretary of the Army and Chris 
+22 LaNeve called General Walker right around 1635 --I mean, excuse me, right around 4:35 
+23 and said, Execute. 
+24 And so I was at a meeting, and what we have is --you look at your screen in my 
+25 office, we had a visual teleconference going with all of the people that were involved, you  90 
+1 know, like from the various staff sections. So as this thing was going on, we could keep 
+2 everyone, you know, online with what's happening. 
+3 And I walked in, I looked up there, and I saw General Walker. I walked into my 
+4 office, and I go --I looked at him and I said, Hey, you've got all the authorities you need. 
+5 He goes, Yeah. And I go, Okay. You know, are you --and he said, Well, what do you 
+6 want me to do, Chief? And I go, Well, my recommendation is go command your unit 
+7 and get on down there and get after it. 
+8 And I don't know what happened, why he didn't take the call from the Secretary 
+9 because I'm not in the chain of command. I was just kind of giving advice. 
+10 
+11 Q 
+A Uh-huh. 
+And he was asking me where I thought he should be, and I personally 
+12 thought he should be at the Capitol because that's where his troops were. I would have 
+13 been there a long time ago. It's just one of those, you know, how you do business. 
+14 Q And to clarify, that conversation you had with him, was that an order or was 
+15 that your recommendation? 
+16 A Well, see, it was my advice to him. Now, having said that --and I'll be 
+17 straight --you know, is when you're the Chief of Staff of the Army and you go, You ought 
+18 to go down there and command your units, you know, I'm giving advice because, 
+19 technically, I'm not in the chain of command. But sometimes that is anticipated as, you 
+20 know, an order maybe, but it's not an order. I mean, I was pretty careful about how I 
+21 discussed that. Now, you would have to ask him, did he see that as an order. 
+22 But the bottom line was, the way I see it, he was given an order at 4:30 from the 
+23 Secretary. The Secretary of the Army is in the chain of command. And when I look at 
+24 this, at least our time line is --at 1635 --okay, 4:35, Secretary of Army notified General 
+25 Walker of the approval and authorized the D.C. National Guard to park at the Armory,  91 
+1 and then General La Neve provided the link up location and the lead. So basically --
+2 
+3 
+4 
+5 
+6 
+7 
+8 Q And I'm sorry. You're referring to the Army timeline? 
+A That's right. 
+Q That's Exhibit 36? 
+A That's right. 
+Q So the Army timeline has it at 4:35? 
+A Yeah. 
+Q The DOD timeline has it at 4:32, and the D.C. National Guard timeline has it 
+9 at 5:08. 
+10 So 5:02 to 5:08, I'm not that concerned about. I'm more concerned about the 
+11 4:30 to 5:08. 
+12 
+13 A 
+Q Right. 
+How do you explain that 30-minute gap between what DOD believes the 
+14 order was given to General Walker and then General Walker's belief that he received the 
+15 order at 5:08? 
+16 A Yeah, I don't know. I mean, I just don't know. I would think that if the 
+17 Secretary of the Army called you, you know, that's like --that is an order. So if the 
+18 Secretary of Army called General Walker and said, Execute. And then, you know, Chris 
+19 La Neve --the way this kind of works is --you know, the way the chain of command was 
+20 set up --I was not in the chain of command, not that I'm trying to --you know, I would 
+21 love to be the chain of command, but, you know, that was not my role as the Chief of 
+22 Staff of the Army. I was an advisor. And, quite frankly, by this thing, we were well 
+23 past --the Secretary of Army, who had the authorities, you know, did the coordination, 
+24 got the mission set up, had a concept --and usually the Secretary of Army is not 
+25 developing concepts for the employment, but because of the situation that wasn't done,  92 
+1 he actually went and did that with Chris La Neve, and they got --you know, they 
+2 coordinated this whole thing out, quite frankly, to bring some order to chaos. And so 
+3 that's what they did. 
+4 And then he came back to --you know, according to this --and, again. I've talked 
+5 to Chris La Neve and, you know, he said that's what, you know --now, why General 
+6 Walker didn't see that as an order or he didn't see it or --I don't know where he was in 
+7 the process. 
+8 
+9 
+10 
+11 move? 
+12 Q 
+A 
+Q 
+A As you described your conversations with General Walker -­
+Yeah. 
+--did it appear to you that it was news to him that he had the authorities to 
+No. He told me he had the authorities. I mean, I go, You got all the 
+13 authorities you need to do the mission. He said --I mean, the conversation went 
+14 something like this was, I walked in. I looked at the screen. I go --I was kind of 
+15 surprised, you know. I go, You have all the authorities you need to execute the mission. 
+16 And he goes, Right. And he goes, Hey, Chief, where do you think I should be? I go, You 
+17 need to go command your units. And that's what he did. 
+18 
+19 
+20 
+21 Q 
+A 
+Q 
+A Where was he at the time of the call? 
+He was in his office at the National Guard. 
+I see. 
+So he was over in the complex. He was in his headquarters. 
+22 Q And then the next kind of time line piece is that DOD --on the DOD time line, 
+23 at 5:02, the D.C. National Guard departs the Armory. And at 5:40, I believe, is the arrival 
+24 at the Capitol by the DOD, but the D.C. National Guard timeline has it at 5:20. 
+25 A Okay. Yeah. I mean, you know, the thing is on times, you know, if  93 
+1 you knew that --times are always a little --I mean, actually this is pretty good. I know 
+2 this may not seem good as an investigator. But there's chaos going on, and people 
+3 aren't necessarily --even as I look at the logs, because I see things that I was supposedly 
+4 in phone calls or involved, and I know I wasn't there. You know, I mean, but that's just 
+5 because it's very --you know, people aren't sitting there going who was on the phone call 
+6 at this time? 
+7 
+8 Q 
+A Right. 
+Who was doing this? Who did that? I mean, in fact, this is --you know, 
+9 even when people said --because a lot chimes you may --you know, I can even go back 
+10 and look at my transcripts. So sometimes you may say something, I didn't remember, I 
+11 didn't know that's exactly, you know, how it came out. 
+12 So I feel pretty comfortable with the Army report, at least what we know. 
+13 Because a lot of people looked at this, and it's our best recollection of the events that 
+14 happened. 
+15 And I see that Mr. Richards from agency counsel is probably 
+16 reviewing the transcript prior where we asked some more questions on the Senate side. 
+17 And is there anything to clarify? 
+18 No. We have no clarifications for the Senate Homeland Security 
+19 Committee transcript of General McConville's testimony. 
+20 BY 
+21 Q I want to kind of wrap up January 6th with just some general questions 
+22 about this, again, focusing on the 2-hour turnaround time. 
+23 
+24 A 
+Q Yes. 
+Would any call from President Trump to the Secretary of Defense or 
+25 Secretary McCarthy, would a call have expedited that 2-hour time frame in any manner,  94 
+1 meaning a call saying, Let's get going quickly? 
+2 A You know, I don't --I don't think a quicker call or a quicker response would 
+3 have been more effective, I guess, is the way I would describe it. So, I mean, we could 
+4 have gotten people there sooner, but I'm not sure they would have been effective getting 
+5 there sooner. In fact, I think they might have been less effective. 
+6 
+7 Q 
+A So --
+Because it's really --and I guess the way I would describe that, and going to 
+8 what General Walker said is that it's kind of a physics problem. I mean, if you just said, 
+9 How long does it take you to drive from the traffic control point, assuming, you know, 
+10 every soldier knew where they were going to go and there was no traffic. And, again, 
+11 I'm not --there were roadblocks all over the place, but I was not out in the streets, so I 
+12 really don't know --you know, you drive around Washington, D.C., sometimes it can take 
+13 you 5 minutes to get someplace. I don't know. Sometimes it can take you an hour to 
+14 get to the place. Sometimes you can't get through the traffic. And I don't know that 
+15 they would have been able to get through to the Capitol in that aspect, so I don't know. 
+16 What I do know is you have a whole bunch of people coming together in a very 
+17 chaotic response to a very chaotic situation, and they wouldn't come as a cohesive unit 
+18 that could quickly establish some type of, you know, significant capability. 
+19 Q Was there any sense that you ought --in the midst of that chaos, in the crisis 
+20 from 2:30 on --
+21 
+22 A 
+Q Yeah. 
+--that there was a need to speak to the President to clarify any authorities 
+23 that were necessary? 
+24 
+25 A 
+Q No. 
+Were there any communications with the White House that you're aware  95 
+1 of? 
+2 A I did not have any. And I'm not aware of any --you know, I'm not sure, you 
+3 know, what was going on back and forth at the Secretary of Defense level. 
+4 Q Was there any concern that the President may have prevented the D.C. 
+5 National Guard's arrival? 
+6 
+7 
+8 
+9 
+10 A 
+Q No. 
+Do you have anything on that? 
+In the time period after January 6th --leading up to January 6th and the days 
+11 after, there was, you know, this discussion that media reports indicate that the former 
+12 President Trump was considering to declare martial law to maintain his power because of 
+13 the alleged stolen election. 
+14 Were you aware of any discussions within DOD about any efforts the former 
+15 President may take to stay in office? 
+16 
+17 A 
+Q No. 
+You mentioned the open sources about what was occurring during this time. 
+18 There was some reporting that General Milley took steps to reassure leaders about the 
+19 stability of the country. 
+20 Were you aware of those calls at the time they were made? 
+21 
+22 Pelosi. 
+23 
+24 A 
+Q 
+A I was not. I mean, the only call I was aware of was his call with Speaker 
+And when did you become aware of that? 
+I was either --I can't remember. I was either there for the call, I was right 
+25 around when the call happened. It was either he discussed it with me or --I just can't  96 
+1 quite remember if I was actually in the office when the call came. 
+2 Q And as it has been reported, Speaker Pelosi asked General Milley questions 
+3 about the stability of the President at the time and expressed concerns about that. 
+4 Is that how you remember it? 
+5 A Well, I think the way I remember the discussion with the call was the 
+6 Speaker asked the chairman to put out a statement saying that, you know, your weapons 
+7 were secure. And the way I recall was that General Milley came back and said, you 
+8 know, I can't do any --that would be a political statement. I'm not going to --you know, 
+9 we're staying out of politics. But he did assure her that there were processes in place to 
+10 make sure that our weapons were safe. 
+11 Q And I believe there was an article that was published with General Milley's 
+12 statements that there were open sources about that conversation that occurred? 
+13 A Yeah. I think there were --I mean, there are open source --you know, 
+14 there's certainly discussions about that in books and other type things that there --well, 
+15 the Speaker actually tweeted right after that. She said that she talked to General Milley 
+16 and said, you know, he assured her that, you know, the weapons were safe. 
+17 
+18 
+19 Q 
+A 
+Q And that was on January 6th itself? 
+I don't remember when that happened, exactly the date. 
+Was there a discussion about, you know, the potential efforts President 
+20 Trump could take to maintain power as a result of that conversation with Speaker Pelosi, 
+21 and what precautions to take within DOD? 
+22 A I think that, from a military standpoint, is we're going to do the right thing 
+23 the right way. And I think, you know, there was a lot of conjecture, open media, on 
+24 social media. There were people, you know, sending us notes, you know, and letters 
+25 saying that --you know, whether it was on social media or --that we should take certain  97 
+1 actions. 
+2 And from a military standpoint, I did not receive any type of orders to, you know, 
+3 conduct anything to affect the outcome of the election at any time, nor would I have if I 
+4 had. 
+5 Q Let's segue into the January 12th letter that was issued. I believe that's 
+6 Exhibit 32. 
+7 The Joint Chiefs issued a signed statement condemning the events of January 
+8 6th --do you have that --specifically stating: We witnessed actions inside the Capitol 
+9 Building that were inconsistent with the rule of law. The rights of freedom of speech 
+10 and assembly do not give anyone the right to resort to violence, sedition, and acts of 
+11 insurrection. 
+12 Can you explain what was happening within the Army that the Joint Chiefs of Staff 
+13 felt that this statement was necessary? 
+14 A Well, I think at the time in the country is, you know, we looked at what 
+15 happened to the Capitol, and at least I've never seen anything in my lifetime that equated 
+16 to that. And, you know, when we met as the Joint Chiefs, we thought it was necessary 
+17 to make sure that Joint Force understood where the chiefs stood on that. And, you 
+18 know, we stand by those statements that the actions inside the Capitol Building were 
+19 inconsistent with the rule of law, although we --in fact, we risked our lives for the rights 
+20 of freedom of speech and assembly, but that doesn't give the right to anyone to resort to 
+21 violence, sedition, insurrection. 
+22 So that's what it was about. 
+23 Q Was there a discussion whether to issue this just for the force or whether it 
+24 should be a public statement? 
+25 A Well, this was a memorandum for the Joint Force. However, you know, I  98 
+1 mean, if we're going to put something out to the Joint Force, there's a good opportunity 
+2 that others will get a chance to see it. 
+3 
+4 Q 
+A Did you assist in drafting the language at all? 
+We had the ability to, you know, agree with the language. You know, I'm 
+5 not saying I didn't, you know, necessarily --I think we talked about it, and we all had a 
+6 chance to provide input on the letter before we signed it. 
+7 Q Was there any discussion or reluctance to use the specific words "sedition" 
+8 and "insurrection" to describe the events of January 6th? 
+9 
+10 A 
+Q Not from me. 
+What --again, going back to open-source reporting, there has been a 
+11 narrative that January 6th was indeed a peaceful protest with only a few outliers who 
+12 caused some violence. What's your response to that reporting that's out there? 
+13 A Well, I think I've seen demonstrations during the summer, and I saw 
+14 demonstrations at the White House. I thought there was violence at both of them, I 
+15 mean, because at both of them we had people hurt. We had National Guardsmen hurt 
+16 during the summer, and we would police officers hurt during the winter. So, you know, 
+17 at both of these, you know, demonstrations, there were people hurt. 
+18 Q I want to just go back, we talked a little bit about that 2:30 call with General 
+19 Charles Flynn. There was the denial by the Army afterwards. 
+20 A Yeah. 
+21 
+22 Q 
+A Are you aware how that occurred and why that happened? 
+Yeah. I think there was just confusion --I know some people are trying, 
+23 you know, to make it something else, but I think there was just confusion. There were a 
+24 whole bunch of meetings going on because, you know, I didn't think he was there, 
+25 because when I was there, he wasn't there. So I was kind of surprised that --you know,  99 
+1 basically what happened was phone calls were going on, people were wandering --you 
+2 know, if you know how the office is set up, it would be like that door right there, people 
+3 going in and out. If you can picture, you know, Walt Piatt is kind of on this thing. 
+4 We've got people that are very emotional that maybe have not been in a very challenging 
+5 situation like this before. So there's a lot of emotion on the phone call, people coming 
+6 in and out. And then there were a whole bunch of other phone calls and discussions 
+7 going on where other things were discussed. You know, optics was discussed by many 
+8 people during many type of the meetings. 
+9 And, quite frankly, some people, they try to come back and right at this thing. 
+10 It's like, okay, when was this said? Who said what? And, you know, quite frankly, as I 
+11 talked to some of the, you know, people that were in the room because I was not, I go, 
+12 Did anyone --and some people said, No, it wasn't said. And then some people said it 
+13 was said. And, then it was like, okay, So what do we think? 
+14 Here's what I can say about those two officers: You know, they are great 
+15 officers. My son served under General Piatt, and I would send my kids to combat with 
+16 him and Charlie Flynn. I think that I have tremendous confidence in their ability and, 
+17 quite frankly, they did a fabulous job during that time frame. And there was no intent to 
+18 deceive anybody, or there's no conspiracy because of who Charlie Flynn's brother is. 
+19 You know, Charlie Flynn will say my name is Charlie Flynn, and that's who he is. And I've 
+20 served --he was my G-3 for 2 or 3 years, which the director of operations runs the entire 
+21 Army, and he is a great officer of the highest integrity. 
+22 And the same thing with Walt Piatt. Again, a lot of times you say, Well, I would 
+23 allow my kid to serve in combat. I know I served with him in combat. My kid did serve 
+24 under him when he was the commander of the 10th Mountain Division, and I give 
+25 complete faith and trust.  100 
+1 And, you know, the mistake is we probably should have done a better job of 
+2 getting everyone together because even I asked --you know, I had aides or, you know, 
+3 XOs inside. I go, Did they say that? And, No, that wasn't said. And I'm, like, okay. 
+4 Because I was almost ready to come out and say, you know, and there were people going 
+5 in and out of the room, and whether he was there or not, there was just confusion. 
+6 So we are --you know, there was confusion. But what is not true --and I 
+7 will --there was no conspiracy or idea that, you know, Charlie Flynn was trying to stop 
+8 anything or Walt Piatt was trying to deny anything. What they're really trying to do is 
+9 bring calm to chaos, and what they're really trying to do is when we employed the 
+10 National Guard, we did it in a measured manner where they could get the outcome that 
+11 everyone was looking for. 
+12 Q I appreciate that, the overview of the Army's response there. 
+13 And this might be a question that there's an obvious answer, but when we talked 
+14 about the DOD timeline and the Army time line --I don't want you guys laughing --why 
+15 are there two different timelines? Why weren't they merged? 
+16 
+17 us. 
+18 
+19 A 
+Q 
+A I think DOD came out with a timeline, you know, maybe a little sooner than 
+Okay. 
+And what we did was the report, you know, we went back and really brought 
+20 people --because you're right, we had discrepancies, you know. And, quite frankly, I 
+21 was not happy with the fact that we had, wait a minute, you said you --well, he wasn't 
+22 really in the room. Well, wait a minute. You know, now we're looking, you know, 
+23 which bothers me, we're getting into a credibility issue, and we can't have that in the 
+24 United States Army. Because not only was there a confusion and everything like that, 
+25 we have to be very, very precise in what we're saying to the best of our ability because  101 
+1 people are going to look at this thing that were not there. They're not going to realize 
+2 the chaos that was going on. They're not going to realize all these type of things, and 
+3 they're going to sit there and go, you know, Chief of Staff of the Army, at 12:47 what were 
+4 you, you know, doing? 
+5 And that's why, quite frankly, some of the letters are very precise in the guidance 
+6 given because, quite frankly, during the summer, you know, after the investigations, what 
+7 did you tell those helicopter pilots? What was the guidance given to those helicopter 
+8 pilots? Well, we didn't have precise left and right limits. We said, you know, Go there. 
+9 Get those helicopters over there as fast as you can. Put these people over there. 
+10 And, you know, from where we sit is we like to have, ideally, written concepts of 
+11 the operation so we know what was said and what was done, so we can properly employ 
+12 the force. 
+13 Q And just to follow up on your point there about the DOD timeline, the I think 
+14 the DOD timeline came out in January 2021 --
+15 
+16 A 
+Q Yeah. 
+--at some point, obviously, towards the end of the month, and the Army 
+17 timeline was issued March 18th as part of the report. 
+18 A Right. So, again, I thought --you know, and the other thing too, you would 
+19 like to think that people were taking notes at different places. And, you know, even 
+20 with my office's interest in what time was this at or that at, you know. Even the 
+21 meetings I'm in, I left one meeting early, I was not at this meeting, you know, I mean, but 
+22 trying to get it down to precisely that time, unless you have someone on a clock, you 
+23 know, you look at something and you go, That can't be true or this can be true. 
+24 And I think there's a lesson to be learned, too, is, you know, actually, I think it's a 
+25 pretty good timeline given what was going on that day.  102 
+1 Before I go into the last two, we're at the very end here, is 
+2 there anything else? 
+3 General stuff at the end, but no. 
+4 BY 
+5 Q Again, public reporting after January 6th stated there were conversations 
+6 amongst Cabinet members, including General Milley, about invoking the 25th 
+7 Amendment on January 6th and the weeks after. 
+8 Were you aware of any of these types of conversations occurring? 
+I was not. 9 
+10 
+11 A 
+Q 
+A Did you learn of these conversations after from General Milley or from -­
+Well, I didn't really talk to him, but I did --you know, open source, there's a 
+12 lot of discussions, you know, both in the printed media, you know. I mean, there's a 
+13 lot --I mean, there's a whole bunch of discussions about what was going on. 
+14 Q After the November election towards the middle of --towards probably after 
+15 the election, middle to end of November, a transition process began for the Biden-Harris 
+16 administration. 
+17 Did you have any interaction with Mr. Patel who was leading the transition for the 
+18 Department? 
+19 
+20 
+21 A 
+Q 
+A I did not. 
+And who was leading the transition for the Army, if you --
+Well, I mean, there's two pieces, I guess. One is our --Ms. Cathy Miller 
+22 would have been the one who is the administrative assistant. She is the senior 
+23 nonpolitical civilian in the Department of the Army. So she orchestrates that. 
+24 And then actually, interesting enough, our now Secretary Wormuth was actually 
+25 the person that was leading the transition for the Department of Defense, and I certainly  103 
+1 met with her as part of that transition. 
+2 I think that wraps up all of my questions. 
+3 
+4 Q So, General Mcconville, as I said earlier, we are looking ahead at sort of 
+5 prospective possible recommendations. And I'm just wondering, I wanted to give you 
+6 an opportunity, the Army is good at after actions, does a really good job of thinking about 
+7 mining from particular experience in how to improve processes. 
+8 Do you have any general thoughts about --stemming from the issues we have 
+9 discussed today, the appropriate use of Army resources domestically, deployment of the 
+10 National Guard, anything along those lines that you personally or you or others in the 
+11 Army think would be useful for members of the Select Committee to be aware of? 
+12 A Yeah. I think --you know, I go back, I have said this a couple of times. But 
+13 I will really think that the Nation should take a look at how you're going to secure the 
+14 District of Columbia. With so many agencies that are involved, there really needs to be 
+15 a lead Federal agency. And you may not want to leave that to a pickup team every time 
+16 something happens, I mean, because this is the Nation's Capitol. 
+17 
+18 Q 
+A Right. 
+And this is the Super Bowl, and we would never let --you know, I mean, the 
+19 world watches what happens inside this district. 
+20 
+21 Q 
+A Right. 
+And I think it's so important that we have an organization, and it can't 
+22 be --you know, because we're focused on the Capitol Police, but that's just one 
+23 organization. 
+24 
+25 Q 
+A Of 42. 
+And then, you know, it was the White House, you know, during the summer.  104 
+1 Q Yeah. 
+2 A But there's different --and, you know, things like --you asked about the 
+3 monuments. I was really concerned. In fact, I was talking to General Will Walker, and I 
+4 go, Do you have people monitoring Martin Luther King's statue? 
+5 
+6 Q 
+A Yeah. 
+And this was during the summer, and he looked at me, like, you know, and 
+7 he was like, Chief, we don't, you know, no. But here is how we could even create 
+8 more --somebody defaces Martin Luther King's statute. How does that play out? 
+9 
+10 
+11 So we have to have the capability to orchestrate these --you know, the security. 
+Q 
+A Yeah. 
+Someone has got to be somewhat --as much in charge as you can get within 
+12 the interagency. 
+13 
+14 
+15 
+16 Q 
+A 
+Q 
+A Yeah. 
+And this should be some type of --
+Instead of days before emails about who is the lead agency? 
+Yeah. Because this is the perfect storm where, you know, you're looking 
+17 at --first of all, you know, people in this city tend to go on vacation, you know, over --and 
+18 that's a good time, even for us, because Congress is out of session. It's New Year's 
+19 coming up. 
+20 
+21 Q 
+A Right. 
+Now, we are kind of --if you look at, you know, when things start, New 
+22 Year's Eve, 1 January, a lot of people aren't around, and now 6 January. And, again, 
+23 you're working with people that haven't worked together before. Some people are 
+24 brand new. And, you know, you are going whose responsibility is it to bring together 
+25 this extremely complex organization.  1 
+2 Q 
+A 105 
+Yes. 
+And we mentioned January 20th. Now, you know, the Secret Service takes 
+3 that on, and they do it like, you know, every 4 years and, you know, they were planning it. 
+4 And we provide --usually we fly Active Duty troops for that, but they're more --they're 
+5 not in law enforcement. They do the ceremonial stuff, the old guard, the parades, and 
+6 all that stuff, all of those soldiers standing around. 
+7 We start planning, you know, months out --
+8 
+9 Q 
+A Yeah. 
+--to be able to do that. And, you know, so an integrated security plan and 
+10 then taking a look at, you know, what are we willing to accept, you know. People like to 
+11 use optics --I'm going to stay away because that's a political term in my eyes. But what 
+12 type of signature do you want on the streets in Washington, D.C.? Do you want a police 
+13 signature? Do you want a military signature? Do you want a Federal signature? You 
+14 know, because it really comes down to even with the guns that people carry. You know, 
+15 it's one thing to have a pistol. It's another thing to have --you know, we see it with 
+16 police officers, all the sudden we militarize them and, you know, they get vests on and 
+17 they look a lot like soldiers --
+18 Q Yeah. 
+19 A --and that creates a reaction from the American people, and we need to 
+20 think our way through that and come up with it. 
+21 
+22 Q 
+A Yeah. I appreciate that. 
+But if we keep, you know, learning the same lessons, that's fine, you know, 
+23 we're going to learn, you know, if we're not going to change and you got new people in 
+24 jobs, you know, who is going to be responsible, so when this happens again, which it will, 
+25 we know what to do.  106 
+1 And in some ways, just my personal opinion, is, you know, people came after the 
+2 National Guard that we would have saved the world if the National Guard --you know, 
+3 you're only talking a couple of hundred people at the most, at best case. And there's, 
+4 you know, between Metro Police, there's tens of thousands of law enforcement here that 
+5 can do those type of things. But what we can help is get back to, you know, the Capitol 
+6 definitely shouldn't get harmed. The Capitol is a very easy place, at least in my eyes, to 
+7 secure. That's a great building, you know, but there's certain things you can do with 
+8 doors and gates to harden those type of things, so you shouldn't be able to get in the 
+9 Capitol. That should not be --you should not be able to get in there. And they can do 
+10 things to windows and they can do things that can make that --they should harden that. 
+11 And then you're going to have in even how you do, you know, things that people don't 
+12 want the --I hate to say it --signature of having big fences or having people, but there's 
+13 things you can do to make the Capitol a lot more safe, and it needs to be. This is, you 
+14 know, democracy. 
+15 Q Yes. I take it from your answer that there needs to be a lead Federal 
+16 agency that is default in charge, that that should not be the Department of Defense, that 
+17 your view is the Army should not --
+18 A I think the Department of Defense should protect the Nation. It shouldn't 
+19 police the Nation. I think this is a police role. 
+20 
+21 
+22 
+23 Q 
+A 
+Q 
+A Yeah. 
+And I think there's really good reasons for that. 
+Yeah. 
+Again, you always have to think about the worst unimaginable situation, and 
+24 then structure your organizations for that. There's a reason why we have civilian control 
+25 in the military. There's a reason why we have checks and balances. There's a reason  107 
+1 we have three branches of government. You know, all those types of things I think are 
+2 really important. 
+3 Q Yeah. So, in your view, the best role for the military's involvement is in the 
+4 planning, in the discussion, but a subordinate role --
+5 
+6 
+7 A 
+Q 
+A Absolutely, and really in a support role. 
+Yeah. 
+Any type of--because some people will come back and say, Hey, why don't 
+8 you, you know put up a battalion of National Guard? First of all, it's much more 
+9 expensive. And, second of all, if you're going to pay for them to be full-time, why 
+10 wouldn't you just hire law enforcement and do it that way --
+11 
+12 Q 
+A Yeah. 
+--and have them do law enforcement. And if you think you need, you 
+13 know, people that are, you know, like a special weapons team or something like that, you 
+14 can train them. But you can do the same thing with law enforcement. You just have 
+15 to put the resources. 
+16 And it's not cheaper to --I mean, when you take a look at what it costs to put the 
+17 Guard in, at least the figures we had was $500 million, which was more than the budget 
+18 for the Capitol to have them --you know, for the Capitol Police. So that was a lot of 
+19 money just to put the guard in there for a couple of months. 
+20 
+21 
+22 
+23 
+24 
+25 Q 
+A 
+Q 
+A Yeah. 
+So, again, that's not necessarily law. That's just my personal opinion --
+1 appreciate that. 
+--on how we separate the powers within the Nation. 
+It's very helpful. Thank you. 
+Nothing else for me.  108 
+Thank you. 
+General Mcconville. Well, thank you, and thank you all. Appreciate it. 1 
+2 
+3 
+4 
+5 Thank you so much. Thanks for your service to the country. 
+General Mcconville. Well, I appreciate that. 
+Thanks for doing this. I think this is, again --you know, what's really important is 
+6 the right lessons are learned, and hopefully people implement the lessons. 
+7 We should all be as good at that as you are. 
+8 
+9 All right. This concludes it. Thank you. 
+[Whereupon, at 12:36 p.m., the interview was concluded.]  1 
+2 
+3 Certificate of Deponent/Interviewee 
+4 I have read the foregoing __ pages, which contain the correct transcript of the 
+5 answers made by me to the questions therein recorded. 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 Witness Name 
+Date 109 

@@ -1,0 +1,2224 @@
+1 
+2 
+3 
+4 SELECT COMMITTEE TO INVESTIGATE THE 
+5 JANUARY 6TH ATTACK ON THE U.S. CAPITOL, 
+6 U.S. HOUSE OF REPRESENTATIVES, 
+7 WASHINGTON, D.C. 
+8 
+9 
+10 
+11 DEPOSITION OF: KELLI WARD 
+12 
+13 
+14 
+15 Wednesday, March 16, 2022 
+Washington, D.C. 1 
+16 
+17 
+18 
+19 
+20 The deposition in the above matter was held via Webex, commencing at 2:30 p.m.  1 
+2 Appearances: 
+3 
+4 
+5 For the SELECT COMMITTEE TO INVESTIGATE 
+6 THE JANUARY 6TH ATTACK ON THE U.S. CAPITOL: 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 PROFESSIONAL STAFF MEMBER 
+SENIOR INVESTIGATIVE COUNSEL 
+INVESTIGATIVE COUNSEL 
+CHIEF CLERK 
+PARLIAMENTARIAN 
+INVESTIGATIVE COUNSEL 
+PROFESSIONAL STAFF MEMBER 
+17 For KELLI WARD: 
+18 
+19 LAURIN MILLS 
+20 ALEX KOLODIN 2  3 
+1 
+2 - Good afternoon, everyone. 
+3 This is a deposition of Dr. Kelli Ward conducted by the House Select Committee to 
+4 Investigate the January 6th Attack on the United States Capitol pursuant to House 
+5 Resolution 503. 
+6 Dr. Ward, could you please state your full name and spell your last name for the 
+7 record? 
+8 The Witness. Dr. Kelli Ward, W-a-r-d. 
+9 - Thank you very much. 
+10 This will be a staff-led deposition today, and members of the select committee 
+11 may, of course, choose to join us and will also ask questions. 
+12 Since we're doing this remotely, there's a participant list on the side of our Webex 
+13 screen. We will try to identify any members of the select committee if they join and 
+14 you'll be able to see their names appear there. And then, if they have any questions, 
+15 the convention usually is that they'll turn on their video, so they'll pop up on your screen 
+16 at that time as well. 
+17 My name is I'm investigative counsel with the select committee. 
+18 And I'll let my colleagues here in the room today with me also introduce themselves. 
+19 Good afternoon, Dr. Ward. My name is I'm a 
+20 senior investigative counsel to the committee. 
+21 Good afternoon, Dr. Ward. My name's I'm a 
+22 professional staff member with the committee. 
+23 - Thank you. 
+24 We're joined by a couple of other members of the select committee staff, 
+25 including also investigative counsel with the committee, and- 1 - our chief clerk. 
+2 Before we begin, we'd like to go through a few ground rules. 
+3 We will be following the House deposition rules today that we provided to your 
+4 counsel previously. Under the House deposition rules, counsel for other persons or 
+5 government agencies may not attend, and you are, Dr. Ward, permitted to have your 
+6 attorneys present. 
+7 Under the House rules neither committee members nor staff may discuss the 
+8 substance of your testimony that you provide today unless the committee approves 
+9 release. And you and your attorney can have an opportunity to review the transcript if 
+10 you wish. 
+11 At this time, counsel, could you please note your appearances for the record? 
+12 
+13 
+14 
+15 Mr. Mills. Good afternoon. Laurin Mills for Dr. Ward. 
+Mr. Kolodin. And good morning. Alexander Kolodin for Dr. Ward. 
+- Great. 
+There is an official reporter transcribing the record of this deposition. So we'll 
+16 ask you, Dr. Ward, to please wait until each question is completed before you begin your 
+17 response, and we will try to wait until your responses are all complete before we ask our 
+18 next question. 
+19 The stenographer cannot record nonverbal responses, such as shaking your head, 
+20 so it's important that you please answer each question with an audible verbal response. 
+21 We are, as you noted at the beginning, we are recording this deposition that's 
+22 being conducted virtually, but the official record of the deposition is the record that the 
+23 official reporters are taking down. 
+24 We ask that you provide complete answers based on your best recollection. If 
+25 the questions are not clear, please ask for clarification and we'd be happy to provide it. 4  5 
+1 And then if you do not know the answer, please simply say so. 
+2 You may only refuse to answer a question to preserve a privilege that is 
+3 recognized by the select committee. If you refuse to answer a question based on a 
+4 privilege, staff may either proceed with the deposition or seek a ruling from the chair on 
+5 the objection. If the chair overrules an objection, you are required to answer the 
+6 question. 
+7 Again, please don't hesitate to ask us to repeat a question if you have any trouble 
+8 hearing us or if it's not clear, and if you need to consult with your counsel at any time 
+9 during this interview --or during this deposition, sorry --that's not a problem at all. 
+10 Because we're doing this virtually, we recommend that you mute and turn off 
+11 your cameras to facilitate any sort of --any private conversation that you need to have 
+12 with your lawyers. 
+13 If you need to have a break for any other reason during the deposition, please just 
+14 let us know and we'd be happy to accommodate that. 
+15 And finally, I want to remind you that it is unlawful to deliberately provide false 
+16 information to Congress. And since this deposition will be under oath, providing false 
+17 information could result in criminal penalties for perjury and/or for providing false 
+18 statements. 
+19 Do you understand that, Dr. Ward? 
+20 
+21 The Witness. Yes. 
+- Okay. So at this time, could you please stand and raise your right 
+22 hand to be sworn by the official reporter? 
+23 The Reporter. Do you solemnly declare and affirm under the penalty of perjury 
+24 that the testimony you are about to give will be the truth, the whole truth, and nothing 
+25 but the truth?  1 
+2 
+3 
+4 The Witness. I do, so help me God. 
+Mr. Mills. At this point, I'd like to make my statement before you continue. 
+- Sure. That makes sense, Mr. Mills. Go right ahead. 
+Mr. Mills. Yeah. 
+5 In light of Deputy Attorney General Lisa Monaco's statements to CNN on January 
+6 the 25th that there is an ongoing criminal investigation into the exact subject that you 
+7 want to examine Dr. Ward on, and in light of this committee's written filings in the 
+8 Central District of California, Santa Anna Division, in the Eastman case, Dr. Ward is going 
+9 to state her name, but she is going to invoke her right not to be a witness against herself 
+10 under the Fifth Amendment to the United States Constitution to every other question. 
+11 And what she will answer is, if it's okay with you guys, she will answer, "I rely on 
+12 my Fifth Amendment privilege," and that will be the shorthand for that. 
+13 And so Mr. Kolodin or I may assert another privilege or objection depending on 
+14 your question just to preserve it. But every answer you're going to get from Dr. Ward 
+15 after she states her name under oath will be, "I rely on my Fifth Amendment privilege." 
+16 - Okay. Thank you for that, Mr. Mills. 
+17 I think, as we previously discussed, we have questions here that we'd like to ask 
+18 Dr. Ward and we'll hear her objections to each of those questions. 
+19 I think we may need to hear a more fulsome statement at the outset, so that we 
+20 have a really clear record about what exactly it is in Dr. Ward's own words that she's 6 
+21 asserting. And then once we have that on the record, I think a shorthand will suffice for 
+22 the majority of the remaining questions. 
+23 Mr. Mills. You have her statement. She is going to say, "I rely on my Fifth 
+24 Amendment privilege." And so that's what she is going to say. 
+25 - Understood. Well, we appreciate your statement at the outset  7 
+1 here. I think we should go ahead and get started. We'll ask a couple of questions 
+2 really sort of preliminarily to get started and when we reach the point that Dr. Ward feels 
+3 it's appropriate to assert those privileges we can get that on the record. 
+4 Does that work? 
+5 
+6 Mr. Mills. It does. 
+- Okay. Any other issues that we should discuss? 
+7 Or, Dr. Ward, did you have any questions about the kind of ground rules that we 
+8 set out? 
+9 
+10 The Witness. Nope. 
+- Okay. Great. Let's get going then.  8 
+EXAMINATION 
+BY 
+Q could you please pull up exhibit No. 1? 1 
+2 
+3 
+4 
+5 Dr. Ward, we have several exhibits that we'd like to show you today. Since we're 
+6 doing this virtually, we'll do it in the screen share. 
+7 So for this first one, can you just confirm that you're able to see this document on 
+8 the screen? 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 A 
+Q 
+A 
+Q 
+A Yes. 
+Okay. Do you recognize this document? 
+No. 
+Okay. 
+Well, yes. I mean --I can't see the entire --
+Mr. Kolodin. I advise Dr. Ward to assert her Fifth Amendment privilege. 
+-Okay. 
+BY-
+Q Dr. Ward, do you understand that you're appearing here today pursuant to a 
+18 subpoena issued by the select committee dated February 15th, 2022? 
+19 
+20 A 
+Q I rely on my Fifth Amendment privilege. 
+Dr. Ward, are you declining to answer our questions today based on the Fifth 
+21 Amendment because you reasonably believe your factual responses to specific questions 
+22 may tend to incriminate you? 
+23 
+24 A 
+Q I rely on my Fifth Amendment privilege. 
+Dr. Ward, let me just read to you the relevant section of the Fifth 
+25 Amendment to the United States Constitution so that you can confirm for us that this is  9 
+1 the provision of the Fifth Amendment that you're relying on today for your objections. 
+2 So the Fifth Amendment in relevant part reads, "No person shall be compelled in 
+3 any criminal case to be a witness against himself." 
+4 Is that the provision of the Fifth Amendment that you are asserting as a privilege 
+5 against your testimony today? 
+6 A I rely on my Fifth Amendment privilege. 
+7 Mr. Mills, I think it makes sense, we need to have the witness 
+8 confirm what she is asserting, and there are multiple provisions of the Fifth Amendment. 
+9 So if you want to take a moment to speak with Dr. Ward about that just to confirm 
+10 that that is, in fact, the provision of the Fifth Amendment that she is asserting, we'd 
+11 appreciate that, and then we can move forward with her just saying I'm asserting the Fifth 
+12 Amendment privilege. 
+13 Mr. Mills. I believe I made it clear in, at least, two communications with you the 
+14 exact provision of the Fifth Amendment that we were asserting, and I made it clear on the 
+15 record the exact provision that she is asserting and what the shorthand would stand for. 
+16 But I'm not taking any chances that you guys will argue waiver. And so she is 
+17 going to say, "I rely on my Fifth Amendment privilege." It's very clear what privilege she 
+18 is asserting. 
+19 And it's just, it's hers to assert, Mr. Mills. So we just need her to 
+20 say, yes, that that is, in fact, the provision, what you have explained is the one she's 
+21 relying on. 
+22 
+23 
+24 
+25 Mr. Mills. Okay. I will do that. 
+Dr. Ward, you can say yes, that that's the provision. 
+Mr. Kolodin. Can we consult briefly? 
+Mr. Mills. Yeah.  1 
+2 
+3 
+4 
+5 
+6 - Sure, yes. Why don't we go off the record for a moment here? 
+[Discussion off the record.] 
+- Let's go back on the record now. 
+Mr. Mills. Why don't you ask your question again? 
+- I'd be happy to. 
+Ms. Ward, I've asked you a few questions. You've asserted your Fifth 10 
+7 Amendment rights. And I asked you whether that was because you reasonably believed 
+8 your factual responses to those questions may tend to incriminate you. 
+9 Mr. Mills. Objection. That's not what you said. You cited a provision of the 
+10 Fifth Amendment and that's --because the Fifth Amendment mentions nothing about 
+11 incrimination. 
+12 
+13 - Understood. 
+Mr. Mills. So read the exact words. 
+14 - Yes, I was getting there, yes, Mr. Mills. 
+15 So, Dr. Ward, is the provision of the Fifth Amendment that you are citing to in 
+16 response to our questions today the one that reads in relevant part, "No person shall be 
+17 compelled in any criminal case to be a witness against himself"? 
+18 
+19 The Witness. Yes, as well as my due process. 
+- Okay. Thank you. So we will understand as we go through the 
+20 remainder of our questions today that when you assert your Fifth Amendment rights that 
+21 it's that provision of the Fifth Amendment to which you're referring. Okay? 
+22 
+23 
+24 could you please bring back up exhibit No. 1. 
+Okay. 
+Dr. Ward, on the screen is exhibit No. 1, the subpoena issued to you by the select 
+25 committee. Can you see that document?  1 
+2 The Witness. Yes. 
+- Okay. Thank you. 
+3 The part of the subpoena that you received from the select committee requires 
+4 you to produce documents and information, including any electronically stored 
+5 information. 
+6 Do you understand that obligation? 
+7 Mr. Kolodin. I advise my client to assert her Fifth Amendment privilege. 
+8 
+9 
+10 The Witness. I rely on my Fifth Amendment privilege. 
+BY 
+Q Okay. Dr. Ward, have you reviewed the schedule of requests attached to 
+11 the subpoena? 
+12 
+13 A 
+Q I rely on my Fifth Amendment privilege. 
+Did you conduct a search for records that might be responsive to the 
+14 schedule attached to the subpoena? 
+I rely on my Fifth Amendment privilege. 11 
+15 
+16 A 
+Q Dr. Ward, you've not produced any documents to the select committee that 
+17 are responsive to the requests attached to the subpoena. Is that correct? 
+18 
+19 A 
+Q I rely on my Fifth Amendment privilege. 
+Dr. Ward, do you intend to assert your Fifth Amendment privileges in 
+20 response to any further questions that I ask you about the documents, any search or 
+21 relevant documents that you discovered that were responsive to the subpoena? 
+22 
+23 
+24 
+25 A 
+Q 
+A 
+Q I rely on my Fifth Amendment privilege. 
+Okay. Dr. Ward, do you have a Twitter handle? 
+I rely on my Fifth Amendment privilege. 
+Okay. We're aware of a Twitter account with the name @kelliwardaz,  1 k-e-I-I-i, w-a-r-d, a-z. Are you the individual that posts through that Twitter account? 
+2 
+3 A 
+Q I rely on my Fifth Amendment privilege. 
+Dr. Ward, we're also aware of another Twitter account that posts with the 
+4 name @AZGOP. Are you an individual with control over posts under that account? 
+5 
+6 A 
+Q I rely on my Fifth Amendment privilege. 
+Dr. Ward, can you tell us a little bit about your professional background? 
+7 Where did you attend undergraduate and graduate education? 
+A I rely on my Fifth Amendment privilege. 
+Q Did you graduate from Duke University? 
+A I rely on my Fifth Amendment privilege. 
+Q And medical school at the West Virginia School of Osteopathic Medicine --
+A I rely on my Fifth --12 
+8 
+9 
+10 
+11 
+12 
+13 Q Sorry. I was just going to pull it together. And also A.T. Still University in 
+14 Arizona? 
+15 
+16 
+17 
+18 A 
+Q 
+A 
+Q I rely on my Fifth Amendment privilege. 
+Dr. Ward, what is your current occupation? 
+I rely on my Fifth Amendment privilege. 
+Have you held political office? And, in particular, did you serve as a 
+19 member of the Arizona State Senate between 2013 and '15? 
+20 
+21 
+22 2019? 
+23 
+24 A 
+Q 
+A 
+Q I rely on my Fifth Amendment privilege. 
+Have you been chair of the Republican Party of Arizona since approximately 
+I rely on my Fifth Amendment privilege. 
+Dr. Ward, I'd like to ask you some questions today about the 2020 election. 
+25 I'll refer to it as the Presidential election or the 2020 election, but what I mean by that is  1 the election held on November 3rd, 2020, to elect the President of the United States. 
+2 My first question for you in that topic is, what role did you have with the Trump 
+3 reelection campaign leading up to and before election day? 
+4 
+5 
+6 
+7 
+8 
+9 A I rely on my Fifth Amendment privilege. 
+Q Where were you on election day, November 3rd, 2020? 
+A I rely on my Fifth Amendment privilege. 
+Q Did you have any official role for the Trump campaign on election day? 
+A I rely on my Fifth Amendment privilege. 
+Q What responsibilities did you have for the Trump campaign between 
+10 election day and November 7th, 2020, when the television networks called the 
+11 Presidential race for the Biden-Harris ticket? 
+12 
+13 A I rely on my Fifth Amendment privilege. 
+Q On November 3rd, 2020, FOX News called Arizona for then Vice President 
+14 Biden at approximately 11:20 in the evening on the East Coast with AP News following 
+15 with their call about 3 hours later. Do you recall that? 
+16 
+17 A 
+Q I rely on my Fifth Amendment privilege. 
+Dr. Ward, did you ever exchange text messages with Mark Meadows, then 
+18 the White House chief of staff? 
+19 
+20 
+21 
+22 A I rely on my Fifth Amendment privilege. 
+Q could you bring up exhibit No. 2, please? 
+Okay. Thank you. 
+Ms. Ward, this is an exhibit that shows text message communications. It's a 
+23 bit --a bit hard to read, so please let us know if you need us to zoom in. 
+24 
+25 There we go. That's perfect. 
+I'd like to draw your attention to a line in this document that has the date 13  1 November 6th, 2020. It is in blue. And it reads --it's a text message that you sent to 
+2 Mark Meadows, and it reads, "Do NOT concede," with the "NOT" capitalized. 
+3 Dr. Ward, why did you send this message to Mr. Meadows? 
+4 
+5 
+6 A 
+Q 
+A I rely on my Fifth Amendment privilege. 
+Dr. Ward, do you use a phone number that ends in the numbers­
+I rely on my Fifth Amendment privilege. 
+7 Q Do you still have access to the text messages sent through the phone 
+8 number that ends in-? 
+9 
+10 A 
+Q I rely on my Fifth Amendment privilege. 
+Dr. Ward, the remaining television networks called the Presidential race in 
+11 Arizona for then Vice President Biden on November 12th, 2020. 14 
+12 Did you communicate with Mark Meadows about whether or not President Trump 
+13 should concede after the Presidential race was called in Arizona? 
+14 
+15 A 
+Q I rely on my Fifth Amendment privilege. 
+I'd next like to ask you some questions about allegations of election fraud 
+16 that arose following the November 3rd, 2020, election. 
+17 The first question I'd like to ask you there is, what investigation did the Trump 
+18 campaign do into allegations of election fraud that arose following the Presidential 
+19 election? 
+20 
+21 
+22 
+23 A 
+Q 
+A 
+Q I rely on my Fifth Amendment privilege. 
+What, if any, was your role in those efforts, Dr. Ward? 
+I rely on my Fifth Amendment privilege. 
+Two days after the Presidential election, on November 5th, 2020, did you 
+24 post a tweet about ways to, quote, "fix election chaos"? 
+25 A I rely on my Fifth Amendment privilege.  15 
+Q could you please bring up exhibit No. 3. 
+Can you see exhibit 3, Dr. Ward? 
+Yep. 1 
+2 
+3 
+4 A 
+Q Okay. So this is a tweet by @kelliwardaz posted November 5th, 2020. It 
+5 writes, "How do we fix election chaos?" and then, "Let me think," and suggests several 
+6 items, including vote on one specific day, require voter identification, use paper ballots, 
+7 and use pens not #Sharpies. 
+8 Dr. Ward, why did you tweet, "Vote on one specific day"? 
+9 
+10 
+11 1992? 
+12 
+13 
+14 
+15 A 
+Q 
+A 
+Q 
+A 
+Q I rely on my Fifth Amendment privilege. 
+Dr. Ward, are you aware that Arizona has utilized early voting since at least 
+I rely on my Fifth Amendment privilege. 
+Why did you tweet, "use pens not #Sharpies"? 
+I rely on my Fifth Amendment privilege. 
+Dr. Ward, what investigation did you do into what were known as 
+16 "SharpieGate" allegations before posting this tweet on November 5th? 
+17 
+18 A 
+Q I rely on my Fifth Amendment privilege. 
+Did you speak with any Maricopa County election officials regarding these 
+19 allegations about Sharpie markers? 
+20 
+21 
+22 A 
+Q I rely on my Fifth Amendment privilege. 
+could you please bring up exhibit No. 4? 
+Dr. Ward, this is another tweet posted by the account @MaricopaVote on 
+23 November 3rd, 2020. Did you review this or any other voter education materials that 
+24 Maricopa County distributed before and on election day informing the public that 
+25 Sharpies were safe to use when marking their ballots?  A 
+Q I rely on my Fifth Amendment privilege. 
+Let's bring up exhibit No. 5, please. 
+Dr. Ward, do you recognize this document? 16 
+1 
+2 
+3 
+4 Mr. Kolodin. I advise my client to, in addition to asserting her Fifth Amendment 
+5 privilege, to also assert the attorney-client privilege. 
+6 - Okay. Just to be clear, my question was just whether she 
+7 recognized this document, which is a complaint filed in, I believe, State court in Maricopa 
+8 County. 
+9 The Witness. I rely on my Fifth Amendment privilege and attorney-client 
+10 privilege as it applies. 
+11 - Dr. Ward, the Arizona Republican Party was a plaintiff in an election 
+12 contest lawsuit, along with the Trump campaign and the Republican National Committee. 
+13 This is a complaint in that case filed on November 7th, 2020. Is that correct? 
+14 Mr. Kolodin. I advise my client to assert, in addition to her Fifth Amendment 
+15 privilege, the attorney-client privilege. 
+16 The Witness. I rely on my Fifth Amendment privilege and attorney-client 
+17 privilege. 
+18 - Understood. Your objections are noted. Just to be clear, I'm 
+19 not asking --none of my questions and certainly not this one will I be asking for any 
+20 privileged communication between you and your counsel, merely directed at the fact of 
+21 the existence of this lawsuit and the fact that this is the complaint that was filed in 
+22 Federal Court --or in State court, forgive me. 
+23 This suit centered on allegations relating to the use of Sharpies to mark ballots, 
+24 specifically contains allegations of, quote, "ink permeating the paper," end quote. And 
+25 it relates to the use of the quote, "green button," end quote, on Maricopa County  1 tabulation devices. 
+2 Is that correct? 
+3 
+4 Mr. Kolodin. Same advice. 
+The Witness. I rely on my Fifth Amendment privilege as well as attorney-client 
+5 privilege. 
+6 BY 17 
+7 Q Dr. Ward, have you seen any actual evidence that votes for Trump were not 
+8 counted because Sharpies were used to mark ballots? 
+9 
+10 
+11 A I rely on my Fifth Amendment privilege. 
+Q Let's bring up exhibit No. 6, please. 
+Dr. Ward, this is a tweet. It was posted on November 11th, 2020, by the account 
+12 Brahm Resnik, B-r-a-h-m R-e-s-n-i-k. And it has a video embedded in it that we're going 
+13 to try to play for you. Here we go. 
+14 [Video shown.] 
+15 Q Thank you. 
+16 Dr. Ward, that video that we just played you that was embedded in the tweet, 
+17 exhibit 6, is an interview conducted on FOX News by Arizona Attorney General Mark 
+18 Brnovich. Is that correct? 
+19 A I rely on my Fifth Amendment privilege. 
+20 Mr. Kolodin. I also advise my client to assert her attorney-client privilege in 
+21 response to that question. 
+22 
+23 The Witness. As well as attorney-client privilege. 
+- Understood. Just to be clear, the question was about a public 
+24 statement made by the Arizona attorney general. Are you saying that it may implicate 
+25 an attorney-client privilege between Dr. Ward and the attorney general?  1 
+2 Mr. Kolodin. Same advice. 
+The Witness. I rely on my Fifth Amendment privilege as well as attorney-client 
+3 privilege. 18 
+4 - Okay. In this interview, the attorney general in Arizona stated that 
+5 State officials had received approximately 1,000 complaints about the election, but 
+6 found, quote, "no evidence of widespread voter fraud." He then stated, "If indeed there 
+7 was some great conspiracy, it apparently didn't work," close quote. 
+8 Dr. Ward, did you agree with the statement? 
+9 
+10 
+11 The Witness. I rely on my Fifth Amendment privilege. 
+Mr. Kolodin. I also advise my client to assert the attorney-client privilege. 
+The Witness. As well as attorney-client privilege. 
+12 - Dr. Ward, were you aware of any information about widespread 
+13 voter fraud on or around November 11th, 2020, that was not yet presented in litigation or 
+14 to State and local election officials? 
+15 
+16 Mr. Kolodin. Same advice. 
+The Witness. I rely on my Fifth Amendment privilege as well as attorney-client 
+17 privilege. 
+18 BY 
+19 
+20 Q Let's bring up exhibit No. 7. 
+We will to try to zoom in a little bit. That's great. 
+21 So, Dr. Ward, again, these are some text messages that you exchanged with Mark 
+22 Meadows, then the White House chief of staff. 
+23 On November 11th, 2020, you texted two images to Mark Meadows. Can you 
+24 describe those images for us, please? 
+25 A I rely on my Fifth Amendment privilege.  1 Q You then texted a link to the same Twitter post that we showed you in the 
+2 previous exhibit, which included the video of the Arizona attorney general being 
+3 interviewed on FOX News. Your text accompanying that tweet that you sent to Mr. 
+4 Meadows read, "What are these people on 'our side' doing here in Arizona??" followed 
+5 by two question marks. 
+6 Did you send this text message to Mr. Meadows? 
+7 
+8 
+9 I rely on my Fifth Amendment privilege. 
+Okay. Why did you send that text message? 
+I rely on my Fifth Amendment privilege. 19 
+10 A 
+Q 
+A 
+Q Dr. Ward, did you think it would be harmful for Republican State officials to 
+11 publicly state that they had found no evidence of widespread election fraud? 
+12 
+13 A 
+Q I rely on my Fifth Amendment privilege. 
+When you sent those text messages to Mr. Meadows, had you seen actual 
+14 evidence that the statements made by the attorney general of Arizona were wrong? 
+15 Mr. Kolodin. I advise my client, in addition to asserting the Fifth Amendment 
+16 privilege, to assert the attorney-client privilege. 
+17 The Witness. I rely on my Fifth Amendment privilege, as well as attorney-client 
+18 privilege. 
+19 The Reporter. Excuse me, counsel, can we get the camera on both of you, the 
+20 counsel with the witness in the room, so that we can see you speak? 
+21 Mr. Kolodin. Unfortunately, our technical setup doesn't allow for that, at least I 
+22 don't know how to do it, so I apologize. 
+23 - Maybe we can go off the record for a moment here. 
+24 [Discussion off the record.] 
+25 - Let's go back on the record now.  20 
+1 I want to ask you a few more questions about the complaint that we showed you 
+2 in exhibit 5, Dr. Ward. It was a complaint that the caption of the case is the Trump 
+3 campaign, Republican National Committee, and Arizona Republican Committee against 
+4 Hobbs, et al., in Maricopa County Court. 
+5 And this is a lawsuit that was widely referred to as the SharpieGate suit. But on 
+6 November 12th, 2020, it was also widely reported that counsel for the plaintiffs in that 
+7 case, Kory Langhofer, appeared in court in Maricopa County and stated clearly, quote, 
+8 "This is not a fraud case. We are not alleging fraud. We are not alleging that anyone is 
+9 stealing the election," end quote. 
+10 Do you recall that, Dr. Ward? 
+11 
+12 Mr. Kolodin. Same advice. 
+The Witness. I rely on my Fifth Amendment privilege, as well as attorney-client 
+13 privilege. 
+14 - Okay. Just to be clear, my question was not directed at any 
+15 privileged communication that you may have had as a representative of the Arizona 
+16 Republican Party with Mr. Langhofer, but rather what was reported that he said in a 
+17 hearing, open hearing, in court. Do you understand that? 
+18 
+19 
+20 Mr. Kolodin. Form. 
+- Do you understand the basis of my question? -
+The Witness. I rely on my Fifth Amendment privilege and my attorney-client 
+21 privilege. 
+22 
+23 - Okay. Thank you. 
+As has been publicly reported, during the hearing the defendants in this case 
+24 represented that the issues alleged in the complaint affected less than 200 ballots. Is 
+25 that correct?  1 
+2 Mr. Kolodin. Same advice. 
+The Witness. I rely on my Fifth Amendment right and privilege, as well as 21 
+3 attorney-client privilege. 
+4 - Okay. And following the hearing, lawyers for the Trump campaign 
+5 acknowledged that the relief sought in the suit, which was a hand recount of potential 
+6 overvotes, would not affect the outcome of the Presidential contest because the margin 
+7 of victory was significantly greater than the number of these potential overvotes. 
+8 Did you attend or listen to the hearing in that case, Dr. Ward? 
+9 Mr. Kolodin. Same advice. 
+10 The Witness. I rely on my Fifth Amendment privilege and my attorney-client 
+11 privilege. 
+12 - Okay. Also, as reported after that hearing, the court questioned 
+13 plaintiffs' counsel regarding the method of gathering evidence in support of the 
+14 allegations, which apparently included some allegations submitted through an online 
+15 portal that about which the campaign lawyers were not able to determine their veracity. 
+16 Do you recall that reporting about the court's questioning during a hearing in this 
+17 case, Dr. Ward? 
+18 
+19 Mr. Kolodin. Same advice. 
+The Witness. I rely on my Fifth Amendment privilege and attorney-client 
+20 privilege. 
+21 - Were you aware of or involved in these efforts to gather and 
+22 investigate evidence in support of the allegations of election fraud raised in this 
+23 complaint? 
+24 
+25 Mr. Kolodin. Same advice. 
+The Witness. I rely on my Fifth Amendment privilege, as well as attorney-client  22 
+1 privilege. 
+2 - On November 13th, 2020, the lawyer representing plaintiffs in this 
+3 case, Trump v. Hobbs, Kory Langhofer, filed a Notice of Partial Mootness alerting the 
+4 court that, quote, "The tabulation of votes statewide has renderer unnecessary a judicial 
+5 ruling as to the Presidential electors," end quote. 
+6 Is that correct, Dr. Ward? 
+7 
+8 Mr. Kolodin. Same advice. 
+The Witness. I rely on my Fifth Amendment privilege and attorney-client 
+9 privilege. 
+10 
+11 - Okay. I'd like to show you now exhibit No. 8. 
+Okay. These are additional text messages between yourself and Mark Meadows, 
+12 then the White House chief of staff, exchanged on November 13th, 2020. 
+13 After that hearing, do you recall exchanging a number of text messages with Mr. 
+14 Meadows regarding the litigation developments and legal strategy? 
+15 Mr. Kolodin. Same advice. 
+16 The Witness. I rely on my Fifth Amendment privilege, as well as attorney-client 
+17 privilege. 
+18 - Just to be clear, Mr. Meadows was at that time the White House 
+19 chief of staff, is not a lawyer, to the extent of my knowledge. Are you asserting that 
+20 your communications with Mr. Meadows may implicate an attorney-client privilege? 
+21 
+22 Mr. Kolodin. Same advice. 
+The Witness. I rely on my Fifth Amendment privilege and attorney-client 
+23 privilege. 
+24 - On November 13th, 2020, you sent a link in a text message to Mr. 
+25 Meadows. It links to a CNN news article with the headline, "Trump Campaign Drops  1 Arizona Lawsuit Requesting Review of Ballots." 
+2 Is that correct? 
+3 
+4 Mr. Kolodin. Same advice. 
+The Witness. I rely on my Fifth Amendment privilege and attorney-client 
+5 privilege. 
+6 - And at the same time, you sent a text message to Mr. Meadows 23 
+7 saying, "WTH?" which I think is an abbreviation for "what the hell?" Is that correct, Dr. 
+8 Ward? 
+9 
+10 Mr. Kolodin. Same advice. 
+The Witness. I rely on my Fifth Amendment privilege and attorney-client 
+11 privilege. 
+12 - In light of the issues that were raised in the hearing in court in 
+13 Maricopa County the preceding day, why did you send this article to Mr. Meadows with 
+14 the commentary "WTH"? 
+15 
+16 Mr. Kolodin. Same advice. 
+The Witness. I rely on my Fifth Amendment privilege and attorney-client 
+17 privilege. 
+18 
+19 
+20 - Okay. Mr. Saunders, if you could scroll down a little bit. 
+BY 
+Q Dr. Ward, I'd like to direct your attention to the next text message in time 
+21 there. Less than an hour later, still on November 13th, 2020, you texted Mr. Meadows 
+22 and said, "Just talked to POTUS. He may call the Chairman of the Maricopa Board of 
+23 Supervisors (BOS). Want to be sure he's briefed on what to discuss." You then 
+24 provided what appear to be some talking points for that discussion. 
+25 Do you recall this, Dr. Ward?  24 
+I rely on my Fifth Amendment privilege. 1 
+2 A 
+Q Okay. The talking points that you provide were, "1. BOS has full authority 
+3 (and obligation) to ensure integrity of the election in Maricopa County. Because State 
+4 law is being ignored in Maricopa as they are unable to verify/hand audit by precinct (as 
+5 required by law), a hand count audit of all votes cast in voting centers is necessary." 
+6 Did you send that text message, Dr. Ward? 
+7 
+8 A 
+Q I rely on my Fifth Amendment privilege. 
+These talking points went on. Number 2, "The BOS can ask for increased 
+9 hand counting before certifying the election." And number 3, "There are potential 
+10 issues with Dominion systems that MUST," in capital letters, "be adjudicated before 
+11 certification should ever be considered by BOS." 
+12 Did you send this text message to Mr. Meadows, Dr. Ward? 
+13 Mr. Kolodin. Same advice. 
+14 The Witness. I rely on my Fifth Amendment privilege and attorney-client 
+15 privilege. 
+16 BY 
+17 Q Did you recommend that President Trump call members of the Maricopa 
+18 County Board of Supervisors? 
+19 
+20 A 
+Q I rely on my Fifth Amendment privilege. 
+Dr. Ward, why did you recommend that the President of the United States 
+21 call members of the Maricopa County Board of Supervisors? 
+22 
+23 A 
+Q I rely on my Fifth Amendment privilege. 
+What was the factual basis for your statement in this text message that 
+24 there were, quote, "potential issues," close quote, with Dominion systems that needed to 
+25 be adjudicated before certification?  1 
+2 Mr. Kolodin. Same advice. 
+The Witness. I rely on my Fifth Amendment privilege and attorney-client 
+3 privilege. 
+4 - Okay. You then asked Mr. Meadows why lawyers in Arizona had 
+5 dropped the campaign lawsuit following the 6-hour hearing in Maricopa County State 
+6 court. 
+7 Do you recall Mr. Meadows' response? 
+8 
+9 Mr. Kolodin. Same advice. 
+The Witness. I rely on my Fifth Amendment privilege and attorney-client 
+10 privilege. 
+11 - -can you just scroll down a little bit so we can see the next? 
+12 That's great. Yeah, keep going a little bit. There we are. Yep. 
+13 Dr. Ward, I just wanted to direct your attention to the text messages on 25 
+14 November 13th, 2020, with the time stamp 14:25 and 14:26. Mr. Meadows responded 
+15 suggesting that there was a concern about a counterclaim for sanctions. 
+16 Do you recall discussing this with Mr. Meadows? 
+17 Mr. Kolodin. Same advice. 
+18 The Witness. I rely on my Fifth Amendment privilege and attorney-client 
+19 privilege. 
+20 - Dr. Ward, do you think that lawyers for the Trump campaign should 
+21 have continued seeking to overturn the election result even after being notified that their 
+22 arguments were potentially sanctionable? 
+23 
+24 Mr. Kolodin. Same advice. 
+The Witness. I rely on my Fifth Amendment privilege and attorney-client 
+25 privilege.  1 - Just to be clear, my question is not directed at any privileged 
+2 communications that you may have had with lawyers that were representing you in this 
+3 case, but rather to your impressions of the circumstances then and in connection with 
+4 your communications to Mr. Meadows, the White House chief of staff. 
+5 
+6 Mr. Kolodin. Form. 
+The Witness. I rely on my Fifth Amendment privilege and attorney-client 
+7 privilege. 
+8 - Okay. Let's look at exhibit No. 10, please. And if you could just 
+9 scroll down a little bit so we can see the caption. That's great. Thank you. 
+10 
+11 
+12 Q 
+A BY-
+Dr. Ward, do you recognize this document? 
+I rely on my Fifth Amendment privilege and attorney-client privilege. 26 
+13 Q Okay. This document, exhibit No. 10, is a verified amended complaint filed 
+14 in the Superior Court in Arizona for the County of Maricopa. The plaintiff is reflected in 
+15 the caption as Kelli Ward. 
+16 Is that you? Are you the same person that filed this complaint, Dr. Ward? 
+17 
+18 A 
+Q I rely on my Fifth Amendment privilege and on attorney-client privilege. 
+Okay. This complaint was filed on November 24th, 2020. It was a petition 
+19 seeking to block certification of the 2020 Presidential election and require a, quote, 
+20 "reasonable inspection," close quote, through sampling of ballots. The court convened 
+21 an evidentiary hearing and heard witness testimony in this case. 
+22 Is that correct? 
+23 
+24 A 
+Q I rely on my Fifth Amendment privilege and attorney-client privilege. 
+You were in this case the plaintiff, Dr. Ward, you as the plaintiff, you were 
+25 successful in obtaining a sampling review of ballots cast in Maricopa County. Is that  1 correct? 
+2 
+3 A 
+Q I rely on my Fifth Amendment privilege and on attorney-client privilege. 
+Okay. Just to be clear, I'm asking not for any privileged communications 
+4 between you and lawyers that represented you in this case, but rather asking as to the 
+5 fact that the court ordered and the Maricopa County elections officials participated in a 
+6 sampling review during the pendency of this case. Is that correct? 
+7 
+8 Mr. Kolodin. Form. 
+The Witness. I rely on my Fifth Amendment privilege and attorney-client 
+9 privilege. 
+10 - As is reflected in the decision order issued by the Arizona Supreme 
+11 Court on appeal from this case that we have in front of you right now, a total of 1,626 
+12 ballots were reviewed and nine errors were identified, seven of which would have been 
+13 Trump votes. Is that correct? 
+14 
+15 The Witness. I rely on my Fifth Amendment privilege. 
+Mr. Kolodin. I also advise my client to assert the attorney-client privilege. 
+16 The Witness. I also assert attorney-client privilege. 
+17 - The Arizona Supreme Court in this matter held that, quote, the 
+18 "review confirmed the witness testimony that there were mistakes in the duplication 
+19 process, the mistakes were few, and when brought to the attention of election workers, 
+20 they were fixed." Further, the court held that the error rate was insufficient to call the 
+21 election results into question. 27 
+22 Your election contest suit in the complaint that we just had before you, Dr. Ward, 
+23 it was decided on the merits. Is that correct? 
+24 
+25 Mr. Kolodin. Same advice. 
+The Witness. I rely on my Fifth Amendment privilege and my attorney-client  28 
+1 privilege. 
+2 BY 
+3 Q Okay. After receiving this decision order from the Arizona Supreme Court, 
+4 did you accept the results of that litigation, Dr. Ward? 
+5 
+6 A 
+Q I rely on my Fifth Amendment privilege and attorney-client privilege. 
+Okay. Dr. Ward, did you file a cert petition seeking to appeal that decision 
+7 to the United States Supreme Court? 
+8 
+9 
+10 A 
+Q 
+A I rely on my Fifth Amendment privilege and attorney-client privilege. 
+Okay. What was the result in the Supreme Court on the cert petition? 
+I rely on my Fifth Amendment privilege and attorney-client privilege. 
+11 Q I'd now like to bring up exhibit 38, please, which is another video that we'll 
+12 play for you, Dr. Ward. 
+13 [Video shown.] 
+14 - Thank you. 
+15 Dr. Ward, in this video posted on or around November 19th, 2020, you discussed 
+16 Dominion voting system software. You cited to Sidney Powell, among other sources, 
+17 and election night vote dumps in this video message. Is that correct? 
+18 
+19 Mr. Kolodin. Same advice. 
+The Witness. I rely on my Fifth Amendment privilege and attorney-client 
+20 privilege. 
+21 - Ms. Ward, I'm asking you about your own statements in a video that 
+22 was posted to YouTube that we just played for you. So I'm certainly not asking for any 
+23 privileged communications that you had between yourself and any lawyer that 
+24 represented you. 
+25 That being said, let me ask you again, did you discuss Dominion voting system  29 
+1 software in that VouTube video posted on or around November 19th, 2020? 
+2 Mr. Kolodin. Form. 
+3 The Witness. I rely on my Fifth Amendment privilege and attorney-client 
+4 privilege. 
+5 - This, the video posted on VouTube, also provided a contribution link 
+6 that traced back to the Arizona Republican Party's Audit the Vote page. Is that correct? 
+7 The Witness. I rely on my Fifth Amendment privilege. 
+8 - Dr. Ward, what investigation did you do into the various allegations 
+9 that you discussed during this video? 
+10 
+11 
+12 The Witness. I rely on my Fifth Amendment privilege. 
+Mr. Kolodin. I also advise my client to assert her attorney-client privilege. 
+The Witness. As well as attorney-client privilege. 
+13 - Dr. Ward, in this video you repeated several claims made by Sidney 
+14 Powell, including, for instance, that substantial sums of money had been given to family 
+15 members of State officials who bought this software. 
+16 What was your understanding of the factual basis for this statement? 
+17 Mr. Kolodin. Same advice. 
+18 The Witness. I rely on my Fifth Amendment privilege and attorney-client 
+19 privilege. 
+20 - In this video, Smartmatic is described as a subsidiary of Dominion. 
+21 What was your understanding of the factual basis for this statement? 
+22 The Witness. I rely on my Fifth Amendment privilege and attorney-client 
+23 privilege. 
+24 - In fact, Dr. Ward, there are no ties between Smartmatic and 
+25 Dominion. Isn't that correct?  1 
+2 Mr. Kolodin. Same advice. 
+The Witness. I rely on my Fifth Amendment privilege and attorney-client 
+3 privilege. 
+4 BY-
+5 
+6 Q I would now like to direct your attention to exhibit No. 11, please. 
+And if we could scroll down a little bit just to see the caption. That's great. 30 
+7 Dr. Ward, this is a complaint filed in the United States District Court for the District 
+8 of Arizona on December 2nd, 2020. There are several names in the plaintiffs' part of the 
+9 caption. The last two listed are Kelli Ward and Michael Ward. 
+10 Are you the same Kelli Ward that filed this complaint in Federal Court? 
+11 
+12 A 
+Q I rely on my Fifth Amendment privilege and on attorney-client privilege. 
+Okay. And if we could just scroll back up to the top, the very top of the 
+13 page. There's a signature block there for counsel in that case. 
+14 
+15 
+16 Were you represented by Sidney Powell in this matter? 
+A 
+Q I rely on my Fifth Amendment privilege and attorney-client privilege. 
+Okay. Dr. Ward, what investigation did you do into the factual basis for the 
+17 allegations made in this complaint? 
+18 
+19 A 
+Q I rely on my Fifth Amendment privilege and attorney-client privilege. 
+As was later reported by The Washington Post, you received a cease and 
+20 desist notice from lawyers representing Dominion. Is that correct? 
+21 
+22 A 
+Q I rely on my Fifth Amendment privilege and attorney-client privilege. 
+Have you issued any retraction or any other --of any of the statements that 
+23 you made regarding Dominion? 
+24 
+25 A 
+Q I rely on my Fifth Amendment privilege and attorney-client privilege. 
+Okay. I'd now like to direct your attention to exhibit No. 12. These are  31 
+1 some additional text messages exchanged between yourself and Mark Meadows. And I 
+2 would just direct your attention --maybe if we could zoom in a little bit more on the far 
+3 right-hand side,-. That's great. Thank you. 
+4 So that we don't lose context here, Dr. Ward, the blue lines on this exhibit are text 
+5 messages sent from you, from Kelli Ward, with a phone number ending.. The white 
+6 lines are the outgoing text messages from Mark Meadows to yourself, to Kelli Ward, with 
+7 the phone number ending 1111. 
+8 In the, let's see, fifth line down there is a message from you to Mr. Meadows 
+9 providing the name and contact information of an individual named Bobby Piton. 
+10 Why did you provide this individual's name and phone number to Mr. Meadows? 
+11 
+12 A 
+Q I rely on my Fifth Amendment privilege. 
+You described Mr. Piton as "the algorithm guy." What algorithm are you 
+13 referring to here? 
+14 A I rely on my Fifth Amendment privilege. 
+15 Q Back in the first text message at the top of this page, which is dated 
+16 December 9th, 2020, at 22:11, you --which is about 3 days before you provided the 
+17 contact information for Mr. Piton to Mr. Meadows, did you send a text to Mr. Meadows 
+18 about a, quote, "guy who says he's cracked the whole election fraud and wants to speak 
+19 to someone"? 
+20 
+21 A 
+Q I rely on my Fifth Amendment privilege. 
+Was the individual that you were referring to in that text message Mr. Piton 
+22 or someone else? 
+23 
+24 A 
+Q I rely on my Fifth Amendment privilege. 
+In this same text thread, you indicate that you also sent his contact 
+25 information to Molly Michael, who is President Trump's executive assistant. Is that  1 correct? 
+I rely on my Fifth Amendment privilege. 
+Do you know if President Trump contacted Mr. Piton? 
+I rely on my Fifth Amendment privilege. 32 
+2 
+3 
+4 
+5 A 
+Q 
+A 
+Q Did you ever speak with President Trump about the guy that you refer to in 
+6 this text as someone who said he cracked the whole election fraud? 
+7 
+8 A 
+Q I rely on my Fifth Amendment privilege. 
+Okay. Dr. Ward, are you going to assert your Fifth Amendment privilege to 
+9 any further questions I would ask you about your knowledge of evidence supporting or 
+10 contradicting the various allegations of election fraud that were raised by you and 
+11 lawyers representing the Trump campaign, RNC, or Arizona Republican Party following 
+12 the 2020 election? 
+13 
+14 Mr. Kolodin. Same advice. 
+The Witness. I rely on my Fifth Amendment privilege and my attorney-client 
+15 privilege. 
+16 BY-
+17 Q Okay. Let's bring up exhibit 13, please. 
+18 Dr. Ward, did you exchange text messages with any members of the Maricopa 
+19 County Board of Supervisors following the 2020 election? 
+20 
+21 A 
+Q I rely on my Fifth Amendment privilege. 
+Okay. These are text messages between yourself and Clint Hickman, who 
+22 was then chair of the Maricopa County Board of Supervisors. They're screenshots, so 
+23 they're somewhat long. I'm going to direct your attention to page 3 to begin, please. 
+24 And it's towards the bottom of the page, if you don't mind scrolling down. There 
+25 we are. Great.  33 
+1 
+2 
+3 
+4 
+5 
+6 
+7 Dr. Ward, did you text Clint Hickman, quote, "We need you to stop the counting"? 
+A 
+Q 
+A 
+Q I rely on my Fifth Amendment privilege. 
+Why did you send that text message? 
+I rely on my Fifth Amendment privilege. 
+I'd next like to show you a text message on page 10, please. 
+There we go. Right at the top. 
+This is another message sent by you to Mr. Hickman. At the top of this page it 
+8 reads, "What if election fraud was as easy as dragging votes from one folder to another?" 
+9 Did you send this text to Mr. Hickman? 
+10 
+11 
+12 
+13 A 
+Q 
+A 
+Q I rely on my Fifth Amendment privilege. 
+Was this a statement of fact or speculation? 
+I rely on my Fifth Amendment privilege. 
+Dr. Ward, had you ever been presented with evidence that election fraud 
+14 had been committed by dragging votes from one folder to another? 
+15 
+16 
+17 A 
+Q I rely on my Fifth Amendment privilege. 
+I'd also like to show you a text message on page 16, please. 
+This is a continuation of your text with Mr. Hickman. This one reflects that it was 
+18 sent on Friday, November 13th, 11:44 a.m., and the text that you sent is the first one 
+19 there in gray. It says, "POTUS will probably be calling you." 
+20 
+21 
+22 Did you send this text message to Mr. Hickman? 
+Mr. Kolodin. Same advice. 
+The Witness. I rely on my Fifth Amendment privilege and on attorney-client 
+23 privilege. 
+24 - Okay. Just to be clear, are you asserting an attorney-client privilege 
+25 between yourself and Mr. Hickman?  34 
+1 The Witness. I rely on my Fifth Amendment privilege and attorney-client 
+2 privilege. 
+3 - What was your understanding of why President Trump wanted to 
+4 talk to Mr. Hickman? 
+5 
+6 Mr. Kolodin. Same advice. 
+The Witness. I rely on my Fifth Amendment privilege and on attorney-client 
+7 privilege. 
+8 BY 
+9 Q About 4 days after this text message, on November 17th, 2020, Mr. Hickman 
+10 sent a letter to voters in Maricopa County, it was publicly released and reported, stating 
+11 that there was no evidence of fraud, misconduct, or malfunction, and imploring voters to, 
+12 quote, "dial back the rhetoric, rumors, and false claims." 
+13 Did you read that letter? 
+14 
+15 A 
+Q I rely on my Fifth Amendment privilege. 
+Mr. Hickman continued in that letter, saying, quote, "The evidence 
+16 overwhelmingly shows the system used in Maricopa County is accurate and provided 
+17 voters with a reliable election." 
+18 Do you remember that, Dr. Ward? 
+19 
+20 A 
+Q I rely on my Fifth Amendment privilege. 
+If you look at page 24 of these text messages, there is a message you sent to 
+21 Mr. Hickman on that same day. It's at the bottom of this page. 
+22 Thank you,_ 
+23 It's Tuesday, November 17th, 7:38 a.m. You texted Mr. Hickman, "Here is Sidney 
+24 Powell's number. Please call her." 
+25 Why did you want members of the Maricopa County Board of Supervisors,  35 
+1 including Mr. Hickman, to be in touch with Sidney Powell? 
+2 Mr. Kolodin. Same advice. 
+3 The Witness. I rely on my Fifth Amendment privilege and on attorney-client 
+4 privilege. 
+5 Let's look at exhibit No. 14, please, and page 3. 
+6 Dr. Ward, did you also exchange text messages with Maricopa County Supervisor 
+7 Jack Sellers? 
+8 
+9 Mr. Kolodin. Same advice. 
+The Witness. I rely on my Fifth Amendment privilege and attorney-client 
+10 privilege.  1 
+2 [3:31 p.m.] 
+3 BY 
+4 
+5 Q -if you could scroll up a little bit first. Great. Perfect. 
+At the top of this page, you see a text message that you sent to Mr. Sellers. It 
+6 appears to be a document with the --a title, and the part that we can read in the text 
+7 message that says "Keshel," K-e-s-h-e-1, "contested state." 
+8 Is this a document authored by Seth Keshel? 
+9 
+10 A 
+Q I rely on my Fifth Amendment privilege. 
+Did you speak with Mr. Keshel about alleged election fraud or about the 
+11 outcome of the Presidential election? 
+12 
+13 Mr. Kolodin. Same advice. 
+The Witness. I rely on my Fifth Amendment privilege and on attorney-client 
+14 privilege. 
+15 BY 
+16 Q And why did you send this document to Maricopa County Supervisor 
+17 Mr. Sellers? 
+18 
+19 
+20 
+21 
+22 A I rely on my Fifth Amendment privilege. 
+Mr. Kolodin. And same advice. 
+The Witness. As well as attorney-client privilege. 
+BY-
+Q Also on November 17, 2020, did you text Sidney Powell's phone number to 
+23 Mr. Sellers and ask him to call her as well? 
+24 
+25 A 
+Q I rely on my Fifth Amendment privilege and on attorney-client privilege. 
+Public reporting also indicates that, on November 14, 2020, you texted 36  37 
+1 Maricopa County Supervisor Steve Chucri that you wanted the board, quote, "to be well 
+2 armed with info as you go into this," end quote, and told him that "you all have the ability 
+3 to be real heroes." 
+4 Is that correct? 
+5 
+6 
+7 hero? 
+8 
+9 
+10 A I rely on my Fifth Amendment privilege. 
+Q What did you mean when you told Mr. Chucri that he had the ability to be a 
+A 
+Q I rely on my Fifth Amendment privilege. 
+I will now play for you an audio recording that's exhibit No. 37. 
+Mr. Kolodin. And after this is played, before you start it, we'll take a break. 
+11 She'll answer the question, obviously, so there's no question pending, but --
+12 - That's great. That sounds like a good idea. 
+13 Mr. Kolodin. Okay. 
+14 [Audio recording played.] 
+15 BY 
+16 
+17 
+18 
+19 
+20 
+21 Q Thank you, 
+Dr. Ward, is that a voicemail that you left for Mr. Hickman? 
+A I rely on my Fifth Amendment privilege. 
+Q Okay. 
+Mr. Kolodin. At this point --
+- Now sounds like a --yeah, I think it's a good idea to take a quick 
+22 break. Let's go off the record. 
+23 [Recess.] 
+24 - Let's go back on the record now, 3:55 Eastern, in the deposition of 
+25 Dr. Kelli Ward.  1 
+2 Q BY 
+Dr. Ward, before we took a brief recess, we were discussing your 
+3 interactions with local officials, in particular, members of the Board of Supervisors in 
+4 Maricopa County. 
+5 So I just want to ask, in summary, are you going to assert your Fifth Amendment 
+6 privilege in response to any questions I would ask you about your communications with 
+7 local election officials in Arizona regarding the outcome of the 2020 election? 
+8 A I rely on my Fifth Amendment privilege as well as my attorney-client 
+9 privilege. 
+10 Q Okay. 
+11 I'd next like to ask you some questions about interactions with State officials 
+12 following the election. 
+13 On November 30, 2020, Arizona Governor Doug Ducey participated in a signing 
+14 ceremony certifying the Arizona election results. Do you recall that? 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 A 
+Q I rely on my Fifth Amendment privilege. 
+Okay. 
+I would now like to direct your attention to exhibit No. 15. 
+Do you see that document, Dr. Ward? 
+A 
+Q 
+A 
+Q I rely on my Fifth Amendment privilege. 
+Okay. Just want to make sure that you can see what's on the screen. 
+I can see it the same as I've been able to see the whole time. 
+Okay. 
+Mr. Kolodin. I advise my client to rely on her Fifth Amendment privilege. 
+Okay. Thank you. 
+Mr. Kolodin. Oh --yeah. There you go. 38  39 
+BY 1 
+2 Q Exhibit 15 is a tweet by the account @AZGOP posted on November 30, 2020, 
+3 the same day that we were just discussing Governor Doug Ducey certified the Arizona 
+4 election results. In all capital letters, the tweet reads, "DO NOT CERTIFY A FALSE 
+5 ELECTION." 
+6 Did you authorize this posting by the Arizona GOP Twitter account, Dr. Ward? 
+7 
+8 A I rely on my Fifth Amendment privilege. 
+Q Okay. Why did the Arizona Republican Party Twitter account say not to 
+9 certify a false election on November 30th? 
+10 
+11 
+12 A 
+Q I rely on my Fifth Amendment privilege. 
+I will also direct your attention to exhibit No. 16. 
+This is a tweet also from November 30, 2020. It was posted by your Twitter 
+13 account, @KelliWardAZ. It responds to a Twitter post on November 30th by the Doug 
+14 Ducey Twitter account. And you tweeted in response an abbreviation, "#STHU," which I 
+15 believe stands for "shut the hell up," in response to this tweet about the strengths of 
+16 Arizona's election system. 
+17 Dr. Ward, why did you post this tweet? 
+18 
+19 
+20 A 
+Q I rely on my Fifth Amendment privilege. 
+I'll direct your attention to exhibit No. 17 next. 
+This is a full version of the Twitter thread that you were responding to in that 
+21 tweet at exhibit 16. It was posted by Arizona Governor Ducey, @DougDucey, on 
+22 November 30, 2020, at 9:48 p.m., following his signing of the certification of the election 
+23 results in Arizona. You posted this series of tweets defending the integrity of the 
+24 Arizona elections. 
+25 Do you recall reading these posts?  1 
+2 A 
+Q I rely on my Fifth Amendment privilege. 
+Okay. 
+3 He starts in the first tweet here by saying, quote, "I've been pretty outspoken 
+4 about Arizona's election system, and bragged about it quite a bit, including in the Oval 
+5 Office. And for good reason." 
+6 He continues in the second post, "We've been doing early voting since 1992. 40 
+7 Arizona didn't explore or experiment this year. We didn't cancel election day voting as 
+8 some pushed for --we weren't going to disenfranchise any voter." 
+9 Dr. Ward, did you read these Twitter posts before responding to them on 
+10 November 30th? 
+11 
+12 A 
+Q I rely on my Fifth Amendment privilege. 
+Do you agree with Governor Doug Ducey's statement that Arizona has been 
+13 doing early voting since 1992? 
+14 
+15 A 
+Q I rely on my Fifth Amendment privilege. 
+Governor Ducey continues in the tweet thread, quote, "In Arizona, we have 
+16 some of the strongest election laws in the country, laws that prioritize accountability and 
+17 clearly lay out procedures for conducting, canvassing, and even contesting the results of 
+18 an election." 
+19 Do you agree with that post? 
+20 
+21 A 
+Q I rely on my Fifth Amendment privilege. 
+Governor Ducey continued, quote, "We've got ID at the polls. We review 
+22 EVERY signature (every single one) on early ballots --by hand --unlike other states that 
+23 use computers. Prohibitions on ballot harvesting. Bipartisan poll observers. Clear 
+24 deadlines, including no ballots allowed after Election Day." 
+25 Dr. Ward, do you agree with Governor Ducey's summary of Arizona election law  41 
+1 and procedures? 
+I rely on my Fifth Amendment privilege. 2 
+3 A 
+Q Were you aware at the time that you made public statements following the 
+4 November 2020 election of these election procedures in Arizona? 
+5 
+6 A 
+Q I rely on my Fifth Amendment privilege. 
+If we could scroll down a little bit, Governor Ducey actually posts a link to a 
+7 provision of Arizona election law relating to the canvass for State offices, amendments, 
+8 and measures. It's code provision 16-648. 
+9 And then he continues on to explain that the canvass "can ONLY be delayed if 
+10 counties DECLINE to certify their results. ALL 15 counties in Arizona --counties run by 
+11 both parties --certificated their results." 
+12 Dr. Ward, were you aware on November 30th that all counties in Arizona had 
+13 certified their results of the Presidential election? 
+14 
+15 
+16 A I --
+Mr. Kolodin. Same advice. 
+The Witness. I rely on my Fifth Amendment privilege and attorney-client 
+17 privilege. 
+18 BY-
+19 Q Just to be clear, I'm not asking for the contents of any privileged 
+20 communications between you and any of your counsel. I am merely asking for your 
+21 understanding of the facts of whether all counties in Arizona had certified their election 
+22 on November 30th. 
+23 
+24 Mr. Kolodin. Form. 
+The Witness. I rely on my Fifth Amendment privilege as well as attorney-client 
+25 privilege.  1 
+2 Q BY 
+Dr. Ward, are you going to assert your Fifth Amendment privileges to any 
+3 questions I would ask you about your communications with State election officials, 
+4 including Governor Doug Ducey, regarding the outcome of the 2020 election? 
+5 
+6 
+7 
+8 A 
+Q 
+A 
+Q I rely on my Fifth Amendment privilege. 
+Dr. Ward, how many times have you been to the White House? 
+I rely on my Fifth Amendment privilege. 
+How many times have you met --did you meet with former 
+9 President Trump? 
+I rely on my Fifth Amendment privilege. 42 
+10 
+11 A 
+Q Did you ever speak to former President Trump about claims of election fraud 
+12 while he was still in office? 
+13 
+14 A 
+Q I rely on my Fifth Amendment privilege. 
+Did you ever speak to former President Trump about options for overturning 
+15 the results of the 2020 Presidential election? 
+16 
+17 A 
+Q 
+18 election? I rely on my Fifth Amendment privilege. 
+Were you involved in any discussions about rerunning the 2020 Presidential 
+19 A I rely on my Fifth Amendment privilege. 
+20 Mr. Kolodin. And same advice. 
+21 
+22 
+23 The Witness. As well as my attorney-client privilege. 
+BY 
+Q Were you involved in any discussions regarding the seizure of voting 
+24 machines? 
+25 A I rely on my Fifth Amendment privilege as well as my attorney-client  43 
+1 privilege. 
+2 Q Did you have any discussions about seizing voting machines following the 
+3 2020 election with any members of the legal team representing President Trump or his 
+4 campaign? 
+I rely on my Fifth Amendment privilege and attorney-client privilege. 5 
+6 A 
+Q Did you have any discussions regarding the seizure of voting machines with 
+7 General Mike Flynn? 
+8 
+9 A 
+Q I rely on my Fifth Amendment privilege and attorney-client privilege. 
+Did you have any discussions regarding the seizure of voting machines with 
+10 any other White House staff or Federal officials? 
+11 
+12 A 
+Q I rely on my Fifth Amendment privilege and on attorney-client privilege. 
+Did you have any discussions about imposing martial law related to the 2020 
+13 Presidential election? 
+14 
+15 A 
+Q I rely on my Fifth Amendment privilege and on attorney-client privilege. 
+Did you make any calls to local law enforcement or prosecutors regarding 
+16 voting machines or the outcome of the 2020 Presidential election? 
+17 
+18 A 
+Q I rely on my Fifth Amendment privilege and on attorney-client privilege. 
+Did you have any discussions or were you involved in any efforts to gain 
+19 access to Dominion voting machines following the Presidential election? 
+20 
+21 A 
+Q I rely on my Fifth Amendment privilege as well as attorney-client privilege. 
+Okay. 
+22 Dr. Ward, before November 2020, what was your understanding of the role of 
+23 State legislatures in the process of electing the President of the United States? 
+24 
+25 A 
+Q I rely on my Fifth Amendment privilege. 
+Did you ever speak or write on this topic?  1 
+2 A 
+Q I rely on my Fifth Amendment privilege. 
+Are you aware of whether there was a plan in place as early as 
+3 September 2020 that involved appointing alternate electors in contested States? 
+4 
+5 
+6 
+7 
+8 2020? 
+9 
+10 A 
+Q 
+A 
+Q 
+A 
+Q I rely on my Fifth Amendment privilege as well as attorney-client privilege. 
+Who was involved in any such discussions? 
+I rely on my Fifth Amendment privilege as well as attorney-client privilege. 
+Dr. Ward, did you attend a hearing in Phoenix, Arizona, on November 30, 
+I rely on my Fifth Amendment privilege. 
+What role did Lyle Rapacki play in the Trump campaign's effort to overturn 
+11 the outcome of the election in Arizona? 
+12 
+13 A 
+Q I rely on my Fifth Amendment privilege. 
+Did you play any role in organizing a meeting with State legislative 
+14 leadership, including State House Speaker Rusty Bowers and Senate President Karen 
+15 Fann, the day after the hearing in Phoenix? 
+16 
+17 
+18 
+19 A 
+Q 
+A 
+Q I rely on my Fifth Amendment privilege. 
+What was the purpose of this meeting? 
+I rely on my Fifth Amendment privilege. 
+I will now direct your attention to exhibit No. 18. 
+20 Okay. Exhibit 18 is a tweet by your account, Dr. @KelliWardAZ, retweeting a 
+21 post dated December 6, 2020, by Christina Bobb. 
+22 Who is Christina Bobb? 
+23 
+24 A 
+Q I rely on my Fifth Amendment privilege. 
+What role did she play in the Trump campaign's efforts to overturn the 
+25 outcome of the election in Arizona? 44  1 
+2 
+3 
+4 
+5 A I rely on my Fifth Amendment privilege. 
+Mr. Kolodin. And same advice. 
+The Witness. As well as my attorney-client privilege. 
+BY 
+Q In this Twitter post, Christina Bobb writes --reports, essentially, that 
+6 "Arizona Speaker of the House Rusty Bowers has closed the Arizona House for a week 
+7 'due to COVID."' 
+8 She continues, "Sounds like he needs an excuse to give his angry constituents 
+9 about why he's refusing to call a session and examine the fraud in his state. First time 
+10 it's been closed the whole pandemic." 
+11 Then you respond in a tweet, "This is a 100% unnecessary, cowardly move." 
+12 Did you post this tweet, Dr. Ward, on December 6, 2020? 
+A 
+Q I rely on my Fifth Amendment privilege. 
+Okay. 
+I'll direct your attention next to exhibit 19. 45 
+13 
+14 
+15 
+16 This is a public statement, a news release, by Arizona Speaker of the House Rusty 
+17 Bowers dated December 4, 2020. So it was just 2 days before those posts that we were 
+18 looking at in exhibit 18. 
+19 In this statement, Speaker Bowers was very clear about the limits of the 
+20 legislature's authority in Arizona. He writes, quote, "This week, Rudy Giuliani, Jenna 
+21 Ellis, and others representing President Donald Trump came to Arizona with a 
+22 breathtaking request: that the Arizona Legislature overturn the certified results of last 
+23 month's election and deliver the state's electoral college votes to President Trump. The 
+24 rule of law forbids us to do that." 
+25 Do you see that statement in exhibit 19, Dr. Ward?  1 
+2 A 
+Q I rely on my Fifth Amendment privilege. 
+Do you recall reading this press release when Speaker Bowers issued it on 
+3 December 4th, Dr. Ward? 
+4 
+5 
+6 A 
+Q I rely on my Fifth Amendment privilege. 
+Okay. 
+Later in this document --if you don't mind scrolling a little bit for me, -it's 
+7 the second sentence of the fourth paragraph. There we go. 
+8 Dr. Ward, I'd like to direct you to another portion of this statement by Speaker 46 
+9 Bowers. He writes, "The U.S. Constitution authorizes each state to appoint presidential 
+10 electors 'in such Manner as the Legislature thereof may direct.' For decades, Arizona 
+11 law has required that the voters elect the state's electors on Election Day--this year, on 
+12 November 3rd." 
+13 Then, a little bit later, he continues, "Nothing in the U.S. Constitution or the 
+14 decisions of the U.S. Supreme Court even suggest that the Arizona Legislature could 
+15 retroactively appoint different electors who would cast their ballots for different 
+16 candidates." 
+17 Do you see that portion of Speaker Bowers' statement, Dr. Ward? 
+18 
+19 
+20 
+21 A 
+Q 
+A 
+Q I rely on my Fifth Amendment privilege. 
+Do you recall reading it when he issued it publicly on December 4th? 
+I rely on my Fifth Amendment privilege. 
+Dr. Ward, did you ever ask Speaker Bowers or any other Arizona legislator to 
+22 appoint Trump electors despite the fact that Trump had lost the election in Arizona? 
+23 
+24 
+25 A 
+Q I rely on my Fifth Amendment privilege. 
+I will now direct your attention to exhibit 20, please. 
+Dr. Ward, this is a post you made to Twitter, the account @KelliWardAZ, on  47 
+1 January 4, 2021, at 2:01 p.m. You wrote, "I believe the AZ Legislature has the ability & 
+2 responsibility to call themselves into session for the purpose of certifying (or decertifying) 
+3 this election. Short of that, I urge Gov @dougducey to call the AZ Legislature into 
+4 session immediately & not wait for 1/11/21." 
+5 Dr. Ward, do you recall tweeting this on January 4th? 
+6 
+7 
+8 
+9 A I rely on my Fifth Amendment privilege. 
+Q Why did you post this? 
+A I rely on my Fifth Amendment privilege. 
+Q Dr. Ward, you continued to call for the Arizona legislature to decertify the 
+10 election results up to and including on January 4, 2021. Is that correct? 
+11 
+12 A 
+Q I rely on my Fifth Amendment privilege. 
+Dr. Ward, are you going to assert your Fifth Amendment privilege in 
+13 response to any questions I would ask you about the role of State legislatures or attempts 
+14 to pressure Arizona legislative leaders to overturn the outcome of the Presidential 
+15 election? 
+16 A I rely on my Fifth Amendment privilege and attorney-client privilege where it 
+17 applies. 
+18 
+19 Q Okay. 
+Dr. Ward, you were a Republican elector for the 2020 Presidential election. Is 
+20 that correct? 
+21 
+22 
+23 
+24 
+25 A 
+Q 
+A 
+Q 
+A I rely on my Fifth Amendment privilege. 
+Had you been a Presidential elector before? 
+I rely on my Fifth Amendment privilege. 
+How did you become a Republican elector for the 2020 election? 
+I rely on my Fifth Amendment privilege.  48 
+1 Q As chair of the State Republican Party in Arizona, did you select the other 
+2 Arizona Republican electors? 
+I rely on my Fifth Amendment privilege. 3 
+4 A 
+Q Did you know about the Trump campaign's plan to convene alternate slates 
+5 of Trump-Pence electors in certain contested States and send purported slates of 
+6 Trump-Pence electoral votes to Federal authorities? 
+7 
+8 A 
+Q I rely on my Fifth Amendment privilege and attorney-client privilege. 
+Dr. Ward, in your understanding, why was it necessary for alternate electors 
+9 to convene in these States? 
+10 
+11 A 
+Q I rely on my Fifth Amendment privilege and on attorney-client privilege. 
+Did you speak with Trump campaign staff or advisors about the plan to 
+12 convene alternate electors in Arizona, among other contested States? 
+13 A I rely on my Fifth Amendment rights and privileges as well as my 
+14 attorney-client privilege. 
+15 Q Okay. 
+16 I am going to ask you a list of several names of specific individuals who were 
+17 affiliated with the Trump campaign either as staff or advisors potentially in a legal or 
+18 other capacity. And my question for each of them is whether you spoke with them 
+19 about the plan to convene alternate electors in Arizona, among other States. 
+20 So did you speak to Thomas Lane about this? 
+21 Mr. Kolodin. Form. 
+22 The Witness. I rely on my Fifth Amendment privilege and attorney-client 
+23 privilege. 
+24 BY 
+25 Q What about Mike Brown?  1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 A 
+Q 
+A 
+Q 
+A 
+Q 
+A 
+Q 
+A 
+Q 
+A 
+Q 
+A 
+Q 
+A 
+Q 
+A 
+Q 
+A 
+Q 
+A 
+Q I rely on my Fifth Amendment privilege and attorney-client privilege. 
+What about Mike Roman? 
+I rely on my Fifth Amendment privilege as well as attorney-client privilege. 
+Nick Trainor? 
+I rely on my Fifth Amendment privilege and attorney-client privilege. 
+And Boris Epshteyn? 
+I rely on my Fifth Amendment privilege as well as attorney-client privilege. 
+Rudy Giuliani? 
+I rely on my Fifth Amendment privilege as well as attorney-client privilege. 
+Jenna Ellis? 
+I rely on my Fifth Amendment privilege as well as attorney-client privilege. 
+Bernard Kerik? 
+I rely on my Fifth Amendment privilege as well as attorney-client privilege. 
+Christina Bobb? 
+I rely on my Fifth Amendment privilege as well as attorney-client privilege. 
+John Eastman? 
+I rely on my Fifth Amendment privilege as well as attorney-client privilege. 
+Judge James Troupis? 
+I rely on my Fifth Amendment privilege as well as attorney-client privilege. 
+What about an individual named Kenneth Chesebro? 
+I rely on my Fifth Amendment privilege as well as attorney-client privilege. 
+I'm going to direct your attention to exhibit 21, please. 
+Dr. Ward, this is a memo written by Kenneth Chesebro. The header indicates 
+24 that it was to Judge James Troupis and dated November 18, 2020. The subject line is 
+25 "The Real Deadline for Settling a State's Electoral Votes." 49  1 
+2 
+3 Have you ever read this memorandum? 
+A 
+Q I rely on my Fifth Amendment privilege and attorney-client privilege. 
+Dr. Ward, what attorney-client privilege is implicated by us presenting you 
+4 with this memorandum? 
+I rely on my Fifth Amendment privilege and attorney-client privilege. 50 
+5 
+6 A 
+Q Okay. Are you asserting that you have an attorney-client privilege with any 
+7 of the individuals reflected in the header of this memorandum? 
+8 
+9 A 
+Q I rely on my Fifth Amendment privilege and attorney-client privilege. 
+On the first page of this memo --if we could scroll down to the second 
+10 paragraph under "Summary," please. 
+11 Great. Thank you. 
+12 This memo reads, "Assuming the electors pledged to Trump and Pence end up 
+13 meeting [in a State] on December 14 to cast their votes, and then send their votes to the 
+14 President of the Senate in time to be opened on January 6, a court decision (or, perhaps, 
+15 a state legislative determination) rendered after December 14 in favor of the 
+16 Trump-Pence slate of electors should be considered timely." 
+17 Dr. Ward, do you recall receiving advice, either in this memo or elsewhere, similar 
+18 with this proposition? 
+19 
+20 A 
+Q I rely on my Fifth Amendment privilege and attorney-client privilege. 
+What was your understanding of the relevance of January 6th to the concept 
+21 of convening alternate electors? 
+22 
+23 A 
+Q I rely on my Fifth Amendment privilege and attorney-client privilege. 
+In this memo, in the paragraph that I just read to you, it refers to the 
+24 possibility of a State legislative determination. Were you aware of any possible State 
+25 legislative determination in Arizona that would have affected the outcome of the  1 Presidential election? 
+2 
+3 A 
+Q I rely on my Fifth Amendment privilege and attorney-client privilege. 
+It also refers to the possibility of a court decision. And I have the same 
+4 question for you. Were you aware of any court decision that might have affected the 
+5 outcome of the Presidential election in Arizona? 
+6 
+7 A 
+Q I rely on my Fifth Amendment privilege and attorney-client privilege. 
+Okay. 51 
+8 I'll direct your attention to exhibit 22 --unless there's anything else you want to do 
+9 on that. 
+10 Let's look at the next one please, -
+11 Thank you. 
+12 Dr. Ward, this is another memo drafted by Kenneth Chesebro to James Troupis. 
+13 This one is dated December 9, 2020, and the subject line reflects that it concerns 
+14 "Statutory Requirements for December 14 Electoral Votes." 
+15 Did you receive this memo? 
+16 
+17 
+18 
+19 
+20 A 
+Q 
+A 
+Q I rely on my Fifth Amendment privilege and attorney-client privilege. 
+Okay. When did you receive the memo? 
+I rely on my Fifth Amendment privilege and attorney-client privilege. 
+If we could please look at the beginning of page 3. 
+This is under the header "Statutory Requirements for December 14 Electoral 
+21 Votes" in a subsection on "STATE LAW." It begins alphabetically, I believe, with Arizona. 
+22 It describes the State law requirements and describes Arizona as, quote, "the most 
+23 straightforward State," end quote, because it has no additional State law requirements 
+24 beyond what is set forth in Federal law. 
+25 Is that a correct statement of Arizona law regarding Presidential electors,  1 Dr. Ward? 
+2 
+3 A 
+Q I rely on my Fifth Amendment privilege and attorney-client privilege. 
+Did you conduct a review of Arizona State law to confirm whether there 
+4 were any other applicable rules or regulations related to Presidential electors? 
+I rely on my Fifth Amendment privilege and attorney-client privilege. 52 
+5 
+6 A 
+Q Okay. Did you have any discussions related to any legal issues surrounding 
+7 convening the alternate electors in Arizona? 
+8 
+9 A 
+Q I rely on my Fifth Amendment privilege and attorney-client privilege. 
+In any of those discussions, did you discuss Arizona State law regarding the 
+10 appointment of Presidential and Vice Presidential electors? 
+11 
+12 A 
+Q I rely on my Fifth Amendment privilege and attorney-client privilege. 
+Were you aware, Dr. Ward, that Arizona law, State law, requires electors to 
+13 vote for the winner of the popular vote in the State? 
+14 
+15 
+16 
+17 
+18 
+19 A 
+Q I rely on my Fifth Amendment privilege and attorney-client privilege. 
+Okay. 
+I'd now like to play a video for you. This is exhibit 39, please. 
+[Video shown.] 
+BY-
+Q Okay. Thank you. 
+20 Dr. Ward, is this a video of the meeting of the purported alternate electors from 
+21 Arizona on December 14, 2020? 
+22 
+23 
+24 Party? 
+25 A 
+Q 
+A I rely on my Fifth Amendment privilege and attorney-client privilege. 
+Did this meeting take place at the headquarters of the Arizona Republican 
+I rely on my Fifth Amendment privilege and attorney-client privilege.  53 
+1 Q Okay. 
+2 In the video that we just watched, there are a number of individuals sitting around 
+3 the table, and then there is one individual who walks around and hands out papers. 
+4 Who is that person who handed out the papers? 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 A I rely on my Fifth Amendment privilege and on attorney-client privilege. 
+Q Okay. 
+I'd next like to direct your attention to exhibit No. 23. 
+Okay. If we could just scroll down to the body of the memo part. 
+Yeah, that's perfect. 
+Dr. Ward, do you recognize this document? 
+A I rely on my Fifth Amendment privilege and attorney-client privilege. 
+Q Okay. This is a document that starts with "MEMORANDUM" at the top and 
+13 then says it's from Nancy Cottle, chairperson of the "Electoral College of Arizona." It's 
+14 dated December 14, 2020. And in the subject line, it states it's regarding "Arizona's 
+15 Electoral Votes for President and Vice President." 
+16 Dr. Ward, is this the certificate of electoral votes prepared by the Trump-Pence 
+17 electors in Arizona? 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 A I rely on my Fifth Amendment privilege and attorney-client privilege. 
+Q Okay. 
+If we could please look at page number 3, towards the bottom. 
+Dr. Ward, is that your signature, the second from the bottom on page 3 here? 
+A I rely on my Fifth Amendment privilege and attorney-client privilege. 
+Q Okay. 
+-if you could just go back to page 2, at the top of the page, please. 
+Great.  54 
+1 Dr. Ward, on the top of this page, under the header "Certificate of the Votes of 
+2 the 2020 Electors from Arizona," it states, "WE, THE UNDERSIGNED, being the duly 
+3 elected and qualified Electors for President and Vice President of the United States of 
+4 America from the State of Arizona." 
+5 Is this a document that you signed and submitted to Federal authorities following 
+6 the meeting on December 14, 2020? 
+7 
+8 A 
+Q I rely on my Fifth Amendment privilege and attorney-client privilege. 
+What was your understanding of the meaning of the language in this 
+9 paragraph, "duly elected and qualified"? 
+10 
+11 A 
+Q I rely on my Fifth Amendment privilege and attorney-client privilege. 
+By signing this document, did you represent that you and the other 
+12 Republican electors were the electors, quote, "duly elected and qualified," end quote, 
+13 under State law? 
+14 
+15 A 
+Q I rely on my Fifth Amendment privilege and attorney-client privilege. 
+Dr. Ward, did you have any discussions before the meeting on 
+16 December 14th about modifying this language in any way? 
+17 
+18 A 
+Q I rely on my Fifth Amendment privilege and attorney-client privilege. 
+Did you consider adding language that would indicate that the Republican 
+19 electors were in some way contingent? 
+20 I can restate my question if you didn't hear it. 
+21 
+22 A 
+Q Okay. Go ahead. 
+Okay. Did you have any discussions before December 14th about 
+23 modifying the language in the certificate to reflect that the Republican electors were in 
+24 any way contingent? 
+25 A I rely on my Fifth Amendment privilege and attorney-client privilege.  1 
+2 
+3 Q Okay. 
+Let's look at exhibit 24 next. 
+Dr. Ward, this is a tweet by the Arizona GOP account on Twitter posted on 
+4 December 14, 2020. It's a photo with a caption. 
+5 Are the individuals in that photo the same ones that we saw sitting around the 
+6 table in the video I played for you a moment ago? 
+7 
+8 A 
+Q I rely on my Fifth Amendment privilege and attorney-client privilege. 
+Okay. 
+9 At the top, the caption on this tweet says, quote, "Some person tried to issue a 
+10 forged slate of Arizona electors to the National Archives. This was quickly caught and 55 
+11 debunked, thank goodness! Vet, oddly, the #FakeNews can't get enough of it. Below 
+12 is the only slate of 11 you need to worry about --ignore the 'others."' 
+13 Dr. Ward, did you post this tweet on December 14, 2020? 
+14 
+15 A 
+Q I rely on my Fifth Amendment privilege and attorney-client privilege. 
+Did you believe that the slate of electors for President Biden and Vice 
+16 President Harris were a forged slate of electors? 
+17 
+18 A 
+Q I rely on my Fifth Amendment privilege and attorney-client privilege. 
+Okay. 
+19 I will next direct your attention to exhibit 36, please. This is another short video 
+20 I'd like to show you. 
+21 [Video shown.] 
+22 
+23 Q BY-
+That's great. Thank you. 
+24 Dr. Ward, this is an interview conducted by The Epoch Times of Arizona 
+25 Representative Anthony Kern.  1 Was Mr. Kern one of the Republican electors that met on December 14th and 
+2 signed the certificates we were looking at a moment ago? 
+3 
+4 A 
+Q I rely on my Fifth Amendment privilege and attorney-client privilege. 
+In that interview that we just played you, Representative Kern states that, 
+5 quote, "On January 6th, Vice President Mike Pence gets a choice on which electors he's 
+6 going to choose," end quote. 
+7 Did you share that understanding at the time of the meeting of Republican 56 
+8 electors on December 14th or right around there, Dr. Ward, that there would be a choice 
+9 for Vice President Pence to make? 
+10 
+11 A 
+Q I rely on my Fifth Amendment privilege and attorney-client privilege. 
+Okay. What was your understanding on December 14 and 15, 2020, of the 
+12 role of the Vice President at the joint session of Congress certificating the outcome of the 
+13 election? 
+14 
+15 A 
+Q I rely on my Fifth Amendment privilege and attorney-client privilege. 
+Did you communicate with any members of the Arizona State House or 
+16 Senate about the meeting of Republican electors in Arizona? 
+17 
+18 A 
+Q I rely on my Fifth Amendment privilege and attorney-client privilege. 
+Did you ask any member of the Arizona legislature to take action to 
+19 recognize the Republican electors? 
+20 
+21 A 
+Q I rely on my Fifth Amendment privilege and attorney-client privilege. 
+Did you communicate with any Members of Congress about the meeting of 
+22 Republican electors in Arizona? 
+23 
+24 A 
+Q I rely on my Fifth Amendment privilege and attorney-client privilege. 
+Did you ask any Members of Congress to take action to recognize the 
+25 Republican electors of Arizona?  1 
+2 A 
+Q I rely on my Fifth Amendment privilege and attorney-client privilege. 
+Did you communicate with Vice President Pence or his staff about the 
+3 meeting of Republican electors in Arizona? 
+4 
+5 A 
+Q I rely on my Fifth Amendment privilege and attorney-client privilege. 
+Did you ask the Vice President or his staff to take action to recognize the 
+6 Republican electors from Arizona? 
+7 
+8 
+9 A I rely on my Fifth Amendment privilege and attorney-client privilege. 
+Q I will direct your attention to exhibit 26, please. 
+Dr. Ward, this is a tweet that you posted on January 4, 2021, at 9:18 p.m. It 
+10 reads, "I hope our great @VP comes through for us, too. #PrayForPence 
+11 #Georgia MAGA." 
+12 Did you post this tweet, Dr. Ward? 
+I rely on my Fifth Amendment privilege. 57 
+13 
+14 A 
+Q What did you mean when you said you hope that the Vice President "comes 
+15 through for us, too"? 
+16 
+17 A 
+Q I rely on my Fifth Amendment privilege. 
+On this same day, January 4th, did you participate in a call or a 
+18 videoconference organized by the Groundswell coalition? 
+19 
+20 A 
+Q I rely on my Fifth Amendment privilege. 
+This is a call that occurred on that day featuring speakers including yourself 
+21 and Newt Gingrich, as well as the executive directors of the House and Senate 
+22 conservative caucuses. Do you recall that? 
+23 
+24 A 
+Q I rely on my Fifth Amendment privilege. 
+The discussion during that call apparently focused on State legislatures 
+25 sending alternative slates of electors as the only remaining path forward as of  1 January 4th. Is that accurate? 
+2 A I rely on my Fifth Amendment privilege. 
+3 Q Do you know whether the former President wanted alternate electors to 
+4 submit electoral college votes in States that he had lost so that the Vice President could 
+5 choose them during the joint session of Congress on January 6th? 
+6 
+7 A 
+Q I rely on my Fifth Amendment privilege and attorney-client privilege. 
+Dr. Ward, are you going to assert your Fifth Amendment privilege in 
+8 response to any further questions I would ask you about the alternate slates of electors 
+9 or the submission of the electoral votes to Federal authorities, including the National 
+10 Archives and the Vice President in his capacity as president of the Senate? 
+11 A I rely on my Fifth Amendment privilege and attorney-client privilege as it 
+12 applies. 
+13 Q Okay. 
+14 Dr. Ward, on November 7, 2020, a "Stop the Steal" rally was held at the Arizona 58 
+15 capitol, which then moved to the Maricopa County Recorder's Office, where protests had 
+16 been occurring since election day. 
+17 Do you recall that? 
+18 
+19 
+20 
+21 A 
+Q 
+A 
+Q I rely on my Fifth Amendment privilege. 
+Did you participate in that protest? 
+I rely on my Fifth Amendment privilege. 
+Representative Paul Gosar later stated about this protest that he, quote, 
+22 helped organize the very first "Stop the Steal" rally in Arizona. Is that accurate? 
+23 
+24 
+25 A I rely on my Fifth Amendment privilege. 
+Q I will direct your attention to exhibit 27 next, please. 
+Mr. Kolodin. And after the pending question, we're going to eat some pizza. So  59 
+1 we'll need about 10 minutes. 
+2 - Okay. Let's finish this question. I will say, though, to the extent it 
+3 is helpful to you all --if you want to take a break, that's fine --we are getting close to the 
+4 end of our planned questions. So if you wanted to take a shorter break and push 
+5 through --
+6 
+7 
+8 
+9 
+10 Mr. Kolodin. Yeah. We'll just take 10 minutes after you ask this question. 
+- Sure. Okay. 
+Mr. Kolodin. And I'm on camera. 
+- Yeah. Thank you. 
+All right. Let's ask the questions about this remaining exhibit, and then we'll take 
+11 a brief recess. 
+12 BY 
+13 Q Okay. Exhibit 27 are a number of tweets, Dr. Ward, that have subsequently 
+14 been deleted. They're no longer available to the public. 
+15 The first one ---if you don't mind scrolling down a little bit --is on or around 
+16 December 8, 2020. The Twitter account of the Arizona Republican Party retweeted a 
+17 tweet by Ali Alexander under the hashtag "StopTheSteal." 
+18 The original post read, "I am willing to give my life for this fight." And then the 
+19 Arizona GOP account stated, "He is. Are you?" 
+20 
+21 
+22 
+23 
+24 Do you see those tweets there, Dr. Ward? 
+A 
+Q 
+A 
+Q I rely on my Fifth Amendment privilege. 
+Did you authorize this posting by the Arizona Republican Party? 
+I rely on my Fifth Amendment privilege. 
+If we can scroll up to the top, there is a further post here, again by the 
+25 Arizona Republican Party account, posting a video from the movie "Rambo" and stating,  1 quote, "This is what we do, who we are. Live for nothing, or die for something." 
+2 
+3 
+4 
+5 
+6 Do you see that post in exhibit 27, Dr. Ward? 
+A I rely on my Fifth Amendment privilege. 
+Mr. Kolodin. All right. Pizza time. 
+- Didyou--
+Mr. Kolodin. We'll be back in 10 minutes, before you put another question 
+7 pending, and look forward to it. Thanks, guys. 
+8 - Okay. Let's take a brief recess. We'll come back again at 
+9 10 minutes of the hour. Thank you. 
+Mr. Kolodin. Thank you. 
+[Recess.] 60 
+10 
+11 
+12 - Let's go back on the record. It is 4:51 here in Washington. This is 
+13 the continued deposition of Dr. Kelli Ward. 
+14 BY 
+15 Q Before we took a little break, Dr. Ward, we were looking at exhibit 27, so I 
+16 want to bring that back up on the screen for you. 
+17 So, again, I think before the break I had asked you about these tweets that started 
+18 with Ali Alexander with the hashtag "StopTheSteal" and then two subsequent tweets by 
+19 the Arizona Republican Party. 
+20 My question for you is, did you authorize these posts on or around December 8, 
+21 2020? 
+22 
+23 
+24 
+25 A I rely on my Fifth Amendment privilege. 
+Q Dr. Ward, who is Ali Alexander? 
+A I rely on my Fifth Amendment privilege. 
+Q What did you understand him to be referring to in this tweet saying that he  1 was willing to give his life for this fight? 
+2 
+3 A I rely on my Fifth Amendment privilege. 
+Q And what did you or the Arizona Republican Party intend to convey by 
+4 retweeting this and saying, "He is. Are you?" 
+I rely on my Fifth Amendment privilege. 61 
+5 
+6 
+7 
+8 
+9 A 
+Q I will next direct your attention to another tweet. This is exhibit 28, please. 
+Dr. Ward, do you recognize this? 
+A I rely on my Fifth Amendment privilege. 
+Q This is a tweet that you posted, KelliWardAZ, on December 19, 2020, at 
+10 8:53 p.m. 
+11 In this tweet, you were tweeting support for President Trump and stated that you 
+12 were, quote, "working every avenue to stop this coup." You ended the post with 
+13 "#CrossTheRubicon" and tagged General Flynn, "@GenFlynn." 
+14 First question is, did you post this tweet, Dr. Ward? 
+15 
+16 
+17 
+18 A I rely on my Fifth Amendment privilege. 
+Q What is the coup that you referred to in this tweet? 
+A I rely on my Fifth Amendment privilege. 
+Q And when you said you were working every avenue to stop it, what were you 
+19 referring to there? 
+20 
+21 
+22 
+23 
+24 
+25 A I rely on my Fifth Amendment privilege. 
+Q Why did you include the phrase "cross the Rubicon"? 
+A I rely on my Fifth Amendment privilege. 
+Q Just generally, what does the phrase "cross the Rubicon" mean to you? 
+A I rely on my Fifth Amendment privilege. 
+Q I would next like to show you exhibit No. 29.  1 The next several exhibits are tweets that you posted around the days leading up 
+2 to January 6th. 
+3 This first one, exhibit 29, is a tweet from your account, KelliWardAZ, posted 
+4 January 4, 2021. Did you tweet this quote, "'It's really 
+5 #FightForOurCountry!' --President @realDonaldTrump. We know that when we 
+6 #FightForTrump we #FightForAmerica !"? 
+7 
+8 
+9 
+10 
+11 
+12 A I rely on my Fifth Amendment privilege. 
+Q What were you referring to with this repeated reference to "fight"? 
+A I rely on my Fifth Amendment privilege. 
+Q The next document is exhibit No. 30, please. 
+This is a tweet from your account, KelliWardAZ, January 4, 2021, at 10:07 p.m. 
+Dr. Ward, did you tweet this? "We caught them. We cannot legitimize 
+13 #ElectionFraud. Stand up, Republicans. Wake up, America." 
+14 
+15 
+16 
+17 
+18 
+19 A I rely on my Fifth Amendment privilege. 
+Q What did you mean when you said "we caught them"? 
+A I rely on my Fifth Amendment privilege. 
+Q Who did you catch doing what? 
+A I rely on my Fifth Amendment privilege. 
+Q Dr. Ward, was this tweet related to the January 6th joint session of 
+20 Congress? 
+21 
+22 
+23 
+24 A I rely on my Fifth Amendment privilege. 
+Q Okay. 
+The next document I'd like you to look at is exhibit No. 31, please. 
+Dr. Ward, this is another tweet from you on January 5, 2021. It reads --it's 
+25 essentially-- it's a post on Twitter encouraging people just to participate in rallies. 62  63 
+1 You write, "If you can't make it to DC tomorrow then gather with America-loving 
+2 patriots in YOUR state capital. If you can't get to the capital, gather in YOUR town. Let 
+3 them hear us ROAR! #StopTheSteal #FightForTrump." 
+4 
+5 
+6 Did you tweet this on January 5th, Dr. Ward? 
+A I rely on my Fifth Amendment privilege. 
+Q What was your understanding of the purpose of encouraging people to rally 
+7 in D.C. on January 6th? 
+8 
+9 A I rely on my Fifth Amendment privilege. 
+Q Why were you encouraging people to gather in their State capitals or in their 
+10 towns on January 6th? 
+11 
+12 
+13 
+14 A I rely on my Fifth Amendment privilege. 
+Q Okay. 
+The next one is exhibit 32, please. 
+Dr. Ward, this is another tweet by you, @KelliWardAZ, on January 5, 2021. This 
+15 is retweeting a post by the account "Stephanie Hamill" that reports that Apple Maps 
+16 would not give directions to D.C. before a pro-Trump rally the following day. And your 
+17 tweet says, "Patriots: if you don't have a printed atlas, I think it's time to get one!!" 
+18 
+19 
+20 Did you post that tweet on January 5th, Dr. Ward? 
+A I rely on my Fifth Amendment privilege. 
+Q Was this tweet intended to encourage people to participate in a rally in 
+21 Washington on January 6, 2021? 
+22 
+23 
+24 2021? 
+25 A 
+Q 
+A I rely on my Fifth Amendment privilege. 
+Did you speak at a rally at the Arizona State Capitol in Phoenix on January 6, 
+I rely on my Fifth Amendment privilege.  64 
+1 Q At that rally, did you state that the violence that had already occurred that 
+2 day in Washington could've been avoided by taking certain steps, including auditing the 
+3 results of the 2020 Presidential election? 
+I rely on my Fifth Amendment privilege. 4 
+5 A 
+Q Dr. Ward, do you have any information about the planning of the rally on the 
+6 Ellipse or other rallies to be held in Washington, D.C., on January 6th? 
+7 
+8 
+9 
+10 A I rely on my Fifth Amendment privilege. 
+Q Were you asked to speak at any rallies in Washington on January 6th? 
+A I rely on my Fifth Amendment privilege. 
+Q Okay. Did you have any information before the rally on the Ellipse on 
+11 January 6th that the crowd could become violent? 
+12 
+13 A 
+Q I rely on my Fifth Amendment privilege. 
+Let's look at exhibit No. 33, please. 
+14 Dr. Ward, this is a tweet that you posted, @KelliWardAZ, on January 6, 2021, at 
+15 3:30 p.m., so this would've been after the rioters had broken into the Capitol in 
+16 Washington. 
+17 You retweeted a post by an individual associated with OANN, One America News 
+18 Network, I believe. This original post reported that a source close to White House 
+19 discussions told OANN, quote, "only reason Pence did not send contested electors back to 
+20 respective states was that he believed 'he did not have authority to adjourn congress."' 
+21 And then reported, "#StopTheSteal Protesters have adjourned Congress. 
+22 Awaiting to hear Pence's current stance." 
+23 Do you see that original tweet here, Dr. Ward, in exhibit 33? 
+24 
+25 A I rely on my Fifth Amendment privilege. 
+Q Okay.  65 
+1 You then retweeted it, commenting, "Congress is adjourned. Send the elector 
+2 choice back to the legislatures." 
+3 Did you know about the violence at the Capitol at the time that you tweeted this, 
+4 Dr. Ward? 
+5 
+6 A 
+Q I rely on my Fifth Amendment privilege. 
+Were you encouraging Congress to send the outcome of the election back to 
+7 the States even after the riot at the Capitol on January 6th? 
+8 
+9 
+10 A 
+Q I rely on my Fifth Amendment privilege. 
+I'll now show you exhibit 34, please. 
+This is another tweet that you posted on January 6th about 3 minutes or so after 
+11 the previous one that we were just looking at. You tweeted this statement describing 
+12 various election integrity measures that you say could have prevented the attack on the 
+13 Capitol, I believe, including, quote, "full evaluation of Dominion machines," and then 
+14 ending with, quote, "Remember, Democrats refused." 
+15 So my first question is, did you tweet this on January 6th? 
+16 
+17 
+18 
+19 A 
+Q 
+A 
+Q I rely on my Fifth Amendment privilege. 
+What did you mean by including a full evaluation of Dominion machines? 
+I rely on my Fifth Amendment privilege. 
+In the last sentence of this tweet, who are the Democrats that you were 
+20 referring to as having refused? 
+21 A I rely on my Fifth Amendment privilege.  66 
+1 
+2 [5:01 p.m.] 
+3 BY-
+4 Q Okay. 
+5 Dr. Ward, are you going to assert your Fifth Amendment privileges to any 
+6 questions I would ask you about the events of January 6, 2021, including regarding the 
+7 attack on the Capitol? 
+8 A I rely on my Fifth Amendment privilege as well as attorney-client privilege as 
+9 it applies. 
+10 
+11 Q 
+A Okay. What's the attorney-client privilege that is implicated here? 
+I rely on my Fifth Amendment privilege and attorney-client privilege as it 
+12 applies. 
+13 Mr. Kolodin. Form founda---form objection. Sorry. 
+14 
+15 - Mr. Kolodin, yeah, make sure that you're on camera, please. 
+Mr. Kolodin. Yeah. 
+16 Can you please restate your objection, Mr. Kolodin, while you're on 
+17 camera? 
+18 
+19 
+20 
+21 Mr. Kolodin. Objection to form. 
+Thank you. 
+- Okay. Thank you. 
+Okay. Thank you very much, Dr. Ward. 
+22 Based on the objections that we've heard today, including your various assertions 
+23 of attorney-client privilege, which we plan to discuss with your attorneys after this 
+24 deposition, at this time this deposition will be in recess, subject to the call of the chair. 
+25 And we can go off the record.  67 
+1 Mr. Mills. Before you go off the record, we object to that. We believe we've 
+2 fully complied with the subpoena at this point. 
+3 - Mr. Mills, your objection is stated on the record, but this deposition 
+4 at this time will be recessed, subject to the call of the chair. 
+5 Mr. Mills. You have my objection. 
+6 - Okay. Thank you. 
+7 We can go off the record now. 
+8 [Whereupon, at 5:03 p.m., the deposition was recessed, subject to the call of the 
+9 chair.]  1 
+2 
+3 Certificate of Deponent/Interviewee 
+4 I have read the foregoing __ pages, which contain the correct transcript of the 
+5 answers made by me to the questions therein recorded. 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 Witness Name 
+Date 68 

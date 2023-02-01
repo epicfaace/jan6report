@@ -1,0 +1,1540 @@
+1 
+2 
+3 
+4 SELECT COMMITTEE TO INVESTIGATE THE 
+5 JANUARY 6TH ATTACK ON THE U.S. CAPITOL, 
+6 U.S. HOUSE OF REPRESENTATIVES, 
+7 WASHINGTON, D.C. 
+8 
+9 
+10 
+11 DEPOSITION OF: JAMES P. WALDRON 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 Friday, February 18, 2022 
+Washington, D.C. 
+20 The deposition in the above matter was held via Webex, commencing at 11:14 
+21 a.m. 
+22 Present: Representative Aguilar. 1  1 
+2 Appearances: 
+3 
+4 
+5 For the SELECT COMMITTEE TO INVESTIGATE 
+6 THE JANUARY 6TH ATTACK ON THE U.S. CAPITOL: 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 STAFF ASSOCIATE 
+SENIOR INVESTIGATIVE COUNSEL 
+, CHIEF INVESTIGATIVE COUNSEL 
+, CHIEF CLERK 
+PROFESSIONAL STAFF MEMBER 
+15 For the WITNESS: 
+16 
+17 S. MICHAEL MCCOLLOCH 
+18 KAREN COOK 2  1 
+2 
+3 Mr.. Let's go on the record. 
+This is the --ah, yes, I meant to mention that beforehand. The meeting is being 
+4 recorded. While there is a --there'll be a recording of this video, the official record will 
+5 be the transcript that's prepared by the official reporters, who you'll see are participants 
+6 here in the meeting. I'll talk a little bit more about sort of the ground rules as we move 
+7 forward. 
+8 Mr. Mccolloch. I hate to interrupt but just before I forget, as with most 
+9 depositions, we will need to review the transcript draft before it goes final, and I assume 
+10 we can get a copy of the recording once it's --once this is concluded? 
+11 Mr. - So, no, I'm going to cover that. Let me get to that. Let me just 
+12 sort of introduce the deposition and the players, and then I'll talk a little bit about the 
+13 ground rules and the transcript, Mike. 
+14 This is the deposition of James P. Waldron, conducted by the House Select 3 
+15 Committee to Investigate the January 6th Attack on the United States Capitol pursuant to 
+16 House Resolution 503. 
+17 This deposition is being conducted remotely through the Webex platform. This 
+18 will be a staff-led deposition, though members may choose to ask questions as they so 
+19 desire. At the present time, no members are present. I will try to keep my eye on the 
+20 participant list. The members may come and go, and I'll try to introduce them or note 
+21 their presence when they arrive. 
+22 My name is-· I'm a senior investigative counsel with the select 
+23 committee. Joining us remotely also from the select committee are- who is 
+24 the chief investigative counsel; and who are staff for the 
+25 select committee; an , who's the chief clerk. Other members of staff may  1 join from time to time. 
+2 We'll be holding the deposition under House rules that we previously provided to 
+3 Mr. Waldron's counsel. Under those rules, Mr. Waldron, you're permitted to have your 
+4 attorneys present. I'll note for the record that your attorneys are present, and in a 
+5 moment I'll ask them to identify themselves. But counsel for other persons or other 
+6 government agencies may not attend. So, in other words, only the lawyers who are 
+7 present today are the select committee counsel and your counsel. 
+8 At this time, I'd ask counsel to identify themselves. 
+9 
+10 
+11 Mr. Mccolloch. Mike Mccolloch for the witness. 
+Ms. Cook. I'm Karen Cook for the witness. 
+Mr~ Before we get started, let me cover a few ground rules. As you 
+12 heard me mention earlier, we are recording this, but the official reporter will be 
+13 transcribing it, and that will be the official record of this proceeding. You will have an 
+14 opportunity to review the transcript after it's prepared. You will not receive a copy of 
+15 the video recording. 4 
+16 Because the reporter is taking down all the testimony, it's important that you wait 
+17 until I finish my question before responding, and I will do my best to wait until you finish 
+18 your answer before I ask another question, just to avoid any cross-talk, which makes it 
+19 very difficult for the reporters to take down. 
+20 The reporters cannot note any nonverbal response, such as shaking or nodding of 
+21 your head and so forth, so it's important that you respond to each question with an 
+22 audible verbal response. 
+23 Any questions on any of that? 
+24 
+25 The Witness. No. 
+Mr.- If you need to take any breaks to discuss anything with your  5 
+1 attorneys or just take a break at any time, just let me know and we'll accommodate that 
+2 as best we can. And I hope to be as efficient as we can to go through this process today. 
+3 You may refuse to answer questions to preserve a privilege if that privilege is 
+4 recognized by the select committee. 
+5 If you refuse to answer a question based on privilege, staff may either proceed 
+6 with the deposition or pause the deposition to seek a ruling from the chair on the 
+7 objection at that time. If the chairman overrules the objection, either after it's made or 
+8 at the end of the deposition, you'll be required to answer the question. 
+9 I want to remind you --and we do this for all witnesses, so I don't want you to 
+10 read anything into this admonition --that it's unlawful to deliberately provide false 
+11 information to Congress. And because you will be taking an oath to tell the truth at this 
+12 deposition, a knowingly false answer could subject you to prosecution for perjury. 
+13 Any questions about anything I've said thus far? 
+14 
+15 
+16 The Witness. No. 
+Mr.- Madam Reporter, could you swear the witness, please. 
+The Reporter. Do you solemnly declare and affirm under the penalty of perjury 
+17 that the testimony you are about to give will be the truth, the whole truth, and nothing 
+18 but the truth? 
+19 
+20 
+21 
+22 
+23 
+24 The Witness. I do. 
+Q 
+A 
+Q EXAMINATION 
+Sir, could you state your name and spell it for the record, please? 
+James P. Waldron, J-a-m-e-s, middle initial P, last name W-a-1-d-r-o-n. 
+From time to time today, Mr. Waldron, I'm going to show you some exhibits. 
+25 And because we're not in the room together, we're going to have ---is going to put  6 
+1 them up on the screen and share his screen with us all. 
+2 And I think we'll start with exhibit 1. Seems like the right one to start with. Can 
+3 you see that okay? 
+4 
+5 A 
+Q Yes. 
+Now, I understand this is only a portion of the document, and we'll scroll 
+6 through them. And if there's --with any of these exhibits, if you want us to scroll up or 
+7 scroll down to see the document better, we can do our best to accommodate that. 
+8 And although we're only seeing just the very top of the first page of this 
+9 document, do you recognize it? Have you seen this before? 
+10 
+11 A 
+Q It appears to be a subpoena that was received by counsel. 
+And you understand that you're appearing here today pursuant to this 
+12 subpoena, correct? 
+13 
+14 A 
+Q Correct. 
+Have you produced any documents to the committee pursuant to the 
+15 subpoena? 
+16 
+17 A No. 
+Q -if we could put up exhibit 2. 
+18 And,_ is there a way for us to expand that page so we're seeing --maybe 
+19 even in portrait mode? Maybe that's better. Great. Thank you. 
+20 So, Mr. Waldron, do you recognize this document? And I'll represent to you this 
+21 is the first page of an 18-page document. 
+22 
+23 
+24 
+25 A 
+Q 
+A 
+Q Yes. 
+And is that a document that was prepared by you and/or your counsel? 
+It appears to be a document that was prepared by counsel. 
+And submitted in response to the subpoena?  7 
+Correct. 1 
+2 A 
+Q Did you or your counsel search to see whether you had custody or control of 
+3 any documents that would be responsive to the subpoena? 
+4 A Because the select committee has asserted that the promotion of claims of 
+5 election fraud in connection with the 2020 election is among causes of violence on 
+6 January 6th at the Capitol, a position that I understand has been adopted, in substance, 
+7 by the Department of Homeland Security and the Department of Justice, and because 
+8 causation or intended causation is a direct or implied element of inchoate offenses of 
+9 various prosecution theories under Federal statutes which have been applied to 
+10 defendants who were actual participants in the violence on January 6th at the Capitol, 
+11 upon the advice of my counsel, I must respectfully decline to answer that question and 
+12 instead assert my rights under the Fifth Amendment of the U.S. Constitution, since an 
+13 answer could be exploited by prosecutors under these theories to assert a claim of 
+14 liability under such statutes. 
+15 Q Are you asserting that the act of producing documents as opposed to the 
+16 content of the documents would somehow incriminate you? 
+17 A Because the select committee has asserted that the promotion of claims of 
+18 election fraud in connection with the 2020 election is among the causes of violence on 
+19 January 6th at the Capitol, a position that I understand has been adopted, in substance, 
+20 by the Department of Homeland Security and the Department of Justice, and because 
+21 causation or intended causation is a direct or implied element of inchoate offenses of 
+22 various prosecution theories under Federal statutes which have been applied to 
+23 defendants who were actual participants of the violence on January 6th at the Capitol, 
+24 upon the advice of my counsel, I must respectfully decline to answer that question and 
+25 instead assert my rights under the Fifth Amendment of the U.S. Constitution, since an  8 
+1 answer could be exploited by prosecutors under these theories to assert a claim of 
+2 liability under such statutes. 
+3 Q I'm going to ask you a series of questions, Mr. Waldron, and if your answer is 
+4 the same as the one you've given to the first --or my last two questions, it's fine with me 
+5 if you'd like to say "same answer" or you can read the answer again or any other answer, 
+6 of course, is fine. Any other truthful answer is fine. But if you'd like to say "same 
+7 answer" rather than read that over and over again, that would be acceptable. 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 A 
+Q 
+A 
+Q 
+A 
+Q 
+A 
+Q 
+A 
+Q Understood. 
+Do you know Russell Ramsland? 
+The same reply. 
+Did you ever work for Russell Ramsland? 
+The same reply. 
+Do you know Adam Kraft? 
+Same reply. 
+Did you ever work for or with Allied Security Operations Group? 
+The same reply. 
+Were you involved in any meetings or discussions prior to 2020 regarding 
+18 vulnerabilities of electronic voting machines? 
+19 
+20 A 
+Q The same reply. 
+Did you meet with any government officials regarding electronic voting 
+21 issues prior to November 2020? 
+22 
+23 A 
+Q Same reply. 
+Are you going to assert your Fifth Amendment privilege not to answer any 
+24 questions I would ask you about your work with Russell Ramsland or Allied Security 
+25 Operations Group?  1 
+2 A The same reply. 
+Q And is that because you believe the answers to those questions may tend to 
+3 incriminate you? 
+A The same reply. 
+Q Do you know Michael Flynn? 
+A The same reply. 
+Q How do you know Mr. Flynn? 
+A The same reply. 9 
+4 
+5 
+6 
+7 
+8 
+9 Q Did you speak with him at any point in 2020 about the Presidential election? 
+10 
+11 A Same reply. 
+Q Did you work with Mr. Flynn on developing a strategy to overturn the results 
+12 of the Presidential election? 
+13 
+14 A The same reply. 
+Q Were you involved in drafting Presidential findings related to the proposed 
+15 seizure of voting machines? 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 A Same reply. 
+Q -if we could pull up exhibit 3. 
+Mr. Waldron, are you able to see or make out the first page of that document? 
+A 
+Q Not clearly. 
+It's kind of small print. Okay, let's try and zoom in on it if we can. 
+How about that? Are you able to make it out? 
+A Yes. 
+Q And I'll represent to you that this is a four-page document, which the first 
+24 page is what you see on the screen, and then behind that is a three-page document dated 
+25 December 16 --there it is --with the first line being "Presidential findings."  1 
+2 Have you seen this document before? 
+A Same reply. 
+3 Q Did you send the email that is the first page of this document to Mr. Flynn 
+4 and others on December 16th, 2020? 
+5 
+6 A 
+Q 
+7 document? 
+8 
+9 
+10 
+11 A 
+Q 
+A 
+Q The same reply. 
+Did you copy Bernie Kerik, Katherine Friess, and Michael Flynn on this 
+The same reply. 
+Excuse me, on this email. 
+Same reply. 
+Have you discussed the contents of the document that's attached to this 10 
+12 email with Mr. Kerik, Ms. Friess, and General Flynn before you sent them the document? 
+13 
+14 
+15 
+16 A 
+Q 
+A 
+Q The same reply. 
+Did you have any role in drafting the document that's attached to this email? 
+Same reply. 
+The document proposes that the President use his authority under certain 
+17 executive orders to direct the Secretary of Defense to seize voting machines and election 
+18 materials throughout the United States. Is that a fair characterization of this document? 
+19 A Same reply. 
+20 Q The justification that's set forth in this document for that action by the 
+21 military is that Dominion Voting Systems and related companies are, quote, "owned or 
+22 heavily controlled and influenced by foreign agents, countries, and interests." 
+23 Did you write that? 
+24 A Same reply. 
+25 Q The document refers to issues in Antrim County, Michigan. Were you  11 
+1 relying on the situation in Antrim County to justify the seizure of voting machines by the 
+2 military? 
+Same reply. 3 
+4 A 
+Q At the time you wrote this, were you aware of any evidence that the voting 
+5 machines in Antrim County had been hacked or otherwise manipulated by any foreign or 
+6 malign actor? 
+7 
+8 A 
+Q Same reply. 
+Were you aware at the time that you wrote this document that all of the 
+9 leading election security experts, as well as CISA and other agencies, had determined that 
+10 there had not been any hacking of our election system? 
+11 A Same reply. 
+12 Q -if you could pull up exhibits 9 and 10. We'll start with 10, actually. 
+13 
+14 small. 
+15 
+16 
+17 
+18 
+19 
+20 
+21 Are you able to make out the print on that, Mr. Waldron? I know it's kind of 
+A 
+Q It's pretty small. 
+If we can zoom in a little bit. 
+How about that? 
+A 
+Q 
+A 
+Q Good enough, I guess. 
+Are you able to tell whether you've seen this document before? 
+Same reply. 
+The document is a joint statement from Elections Infrastructure Government 
+22 Coordinating Council and the Election Infrastructure Sector Coordinating Executive 
+23 Committees. It was issued on November 12th, and I've highlighted a portion of it in the 
+24 third paragraph that says: There is no evidence that any voting system deleted or lost 
+25 votes, changed votes, or was in any way compromised.  1 Were you aware of that determination by the Coordinating Council at the time 
+2 that you prepared the document that is part of exhibit 3? 
+3 A Same reply. 
+4 
+5 
+6 
+7 Q Let's look at exhibit 9. 
+Have you seen exhibit 9 before? 
+A Same reply. 
+Q Exhibit 9 is a statement that was issued on November 16, 2020, signed by 
+8 more than 50 election security experts. The title of the document is "Scientists say no 
+9 credible evidence of computer fraud in the 2020 election, but policymakers must work 
+10 with experts to improve confidence." 
+11 If we can scroll down a little bit. 
+12 And that's about the fourth or fifth paragraph down. There's a highlighted 12 
+13 section that says: To our collective knowledge, no credible evidence has been put forth 
+14 that supports a conclusion that the 2020 election outcome in any State has been altered 
+15 through technical compromise. 
+16 Had you heard by December of 2020 of this statement by election security experts 
+17 regarding the absence of evidence of technical compromise of the 2020 election? 
+18 A Same reply. 
+19 Q Did you consider this statement by the country's foremost experts in that 
+20 area when you wrote the document that's referenced in exhibit 3? 
+21 
+22 A 
+Q Same reply. 
+When you wrote the memo that's attached to exhibit 3, did you intend for 
+23 Mr. Flynn to present it to President Trump for his signature? 
+24 A Same reply. 
+25 Q Do you know if the document was presented to President Trump for his  13 
+1 signature? 
+Same reply. 2 
+3 A 
+Q I'm going to pull up exhibit 4. This is an email dated December 17th, 2020. 
+4 It's from the lette■and then the rest of the email address is blacked out. 
+5 Did you send this email? 
+6 A Same reply. 
+7 
+8 
+9 
+10 Q Did you use --strike that. 
+Did you work with Mr. Ramsland on the document referenced in this email? 
+A Same reply. 
+Q Did you --actually, I will --and we can scroll down to the second page,_ 
+11 Pages 2 through 4 of this document appear to be a document entitled 
+12 "Presidential Findings to Seize, Collect, Preserve and Analyze National Security 
+13 Information Regarding the 2020 General Election." And it seems to roughly correspond 
+14 to the document that was attached to exhibit 3, but there have been some changes 
+15 made. 
+16 Did you make the changes to this document? 
+17 A Same reply. 
+18 Q Did you communicate with Mr. Ramsland using encrypted email or 
+19 messaging apps during this time period? 
+20 
+21 
+22 A 
+Q Same reply. 
+Exhibit --if we can go back up to the top of this one again,_ exhibit 4. 
+The body of the email says: Final draft finding -includes DHS switch language as 
+23 well as foreign interference expansion and warrant issuance language. 
+24 Why was the Presidential findings document switched to provide for DHS seizure 
+25 of voting machines as opposed to Department of Defense?  1 
+2 
+3 
+4 A 
+Q 
+A 
+Q Same reply. 
+The body of the email looks as if it's signed off by PW. Is that you? 
+Same reply. 
+Are you going to assert your Fifth Amendment privilege to any questions I 14 
+5 would ask you about these exhibits, exhibits 3 and 4, or your role in drafting Presidential 
+6 findings relating to the seizure of voting machines? 
+7 
+8 
+9 
+10 A 
+Q 
+A 
+Q Same reply. 
+So you are going to refuse to answer those questions? 
+The same reply. 
+Well, let me --I'm hoping for a yes or no answer on this. Are you refusing 
+11 to answer questions about --any other questions about exhibits 3 or 4 or your role in 
+12 drafting Presidential findings relating to the seizure of voting machines? 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 A 
+Q Yes, it'll be the same reply. 
+Thank you. 
+Have you ever spoken with John Ratcliffe? 
+A Same reply. 
+Q 
+A 
+Q Have you ever discussed the 2020 election with Mr. Ratcliffe? 
+Same reply. 
+If we can pull up exhibit 5, please. 
+Mr. Waldron, have you seen this document before? And if you need us to scroll 
+21 down a little, we can. 
+22 
+23 
+24 
+25 A 
+Q 
+A 
+Q The same reply. 
+Did you play any role in the preparation of this document? 
+Same reply. 
+The first paragraph of the document says that former DOD and IC analysts  15 
+1 have gathered evidence that foreign entities were involved in altering the vote counts in 
+2 the 2020 election. What evidence do you have of that? 
+3 A Same reply. 
+4 Q Are you aware of evidence that suggests that foreign entities were involved 
+5 in altering the vote counts in the 2020 election? 
+6 
+7 A 
+Q The same reply. 
+Does the claim of foreign involvement in altering votes relate to the false 
+8 Antrim County claim that was referenced in exhibit 4? 
+9 
+10 
+11 
+12 
+13 
+14 A 
+Q 
+A 
+Q 
+A 
+Q 
+15 election? 
+16 
+17 
+18 
+19 A 
+Q 
+A 
+Q Same reply. 
+When did you first meet Rudy Giuliani? 
+Same reply. 
+Were you ever retained to work for the Trump campaign? 
+The same reply. 
+Were you ever retained to work on any aspects of challenging the 2020 
+The same reply. 
+Were you ever retained by Sidney Powell? 
+The same reply. 
+Were you a --did you consider yourself part of the legal team that was being 
+20 run by Rudy Giuliani? 
+21 A Same reply. 
+22 Q Did you consider yourself part of any legal team that was seeking to 
+23 challenge or overturn the results of the 2020 election? 
+24 A Same reply. 
+25 Q Were you paid for any of the work that you did in challenging the results of  1 the 2020 election? 
+2 
+3 
+4 
+5 
+6 
+7 A 
+Q 
+A 
+Q 
+A 
+Q Same reply. 
+By whom were you paid? 
+Same reply. 
+During what period of time did you work for the Trump campaign? 
+Same reply. 
+During November and December of 2020, were you working for any 
+8 individual or company other than the Trump campaign? 
+9 A Same reply. 
+10 Q Are you going to --are you going to refuse to answer any questions about 
+11 your relationship with Rudy Giuliani or your work to assist the Trump campaign? 
+The same reply. 16 
+12 
+13 A 
+Q I'm just trying to avoid going through too many more questions on this topic 
+14 if your answer will be the same. 
+15 Are you able to tell me whether your answer will be the same to any questions I 
+16 ask about Rudy Giuliani or work to assist the Trump campaign? 
+17 A Yes, it will be the same reply. 
+18 Q I'm going to ask you about some allegations of election fraud that I believe 
+19 you've made publicly. First, let me ask you, who asked you to appear at public hearings 
+20 where you discussed claims of election fraud? 
+21 
+22 
+23 
+24 
+25 fraud? A 
+Q 
+A 
+Q The same reply. 
+Who prepared the materials that you used at those hearings? 
+Same reply. 
+What investigation did you personally conduct regarding claims of election  1 
+2 A 
+Q The same reply. 
+Are you aware of any evidence that fake ballots were brought into Fulton 
+3 County, Georgia, in connection with the 2020 election? 
+4 
+5 
+6 
+7 A 
+Q 
+A 
+Q The same reply. 
+You've made that claim publicly, haven't you? 
+Same reply. 
+Are you aware of any evidence that voter turnout exceeded 100 percent in 
+8 certain precincts or counties during the 2020 election? 
+Same reply. 
+Have you made that claim publicly? 
+The same reply. 17 
+9 
+10 
+11 
+12 A 
+Q 
+A 
+Q Are you aware of any evidence that there were improper injections of votes 
+13 in contested States during the 2020 election? 
+14 A Same reply. 
+15 
+16 
+17 Q 
+A 
+Q Have you made that claim publicly? 
+Same reply. 
+Are you aware of any evidence that an algorithm was used to manipulate 
+18 votes during the 2020 election? 
+19 A Same reply. 
+20 
+21 
+22 Q 
+A 
+Q Have you made that claim publicly? 
+The same reply. 
+Are you aware of any evidence that votes were improperly switched from 
+23 Trump to Biden in the 2020 election? 
+24 A Same reply. 
+25 Q Have you made that claim publicly?  18 
+The same reply. 1 
+2 A 
+Q Are you aware of any evidence that votes were counted on servers in foreign 
+3 countries? 
+4 
+5 A 
+Q Same reply. 
+Did you ever tell Representative Louie Goh me rt that votes were routed 
+6 through Frankfurt, Germany? 
+7 A Same reply. 
+8 Q Have you ever publicly claimed that voting machines manufactured by 
+9 Dominion Voting Systems were used to switch or delete votes? 
+10 
+11 A 
+Q Same reply. 
+Have you ever publicly claimed that large numbers of votes were cast on 
+12 behalf of deceased individuals? 
+13 
+14 
+15 
+16 A 
+Q 
+A 
+Q Same reply. 
+Did you ever conduct any research to determine if that happened? 
+Same reply. 
+Did you ever direct anyone to conduct research to determine whether votes 
+17 had been cast on behalf of deceased individuals? 
+18 A Same reply. 
+19 Q Did you ever tell Rudy Giuliani that you had determined that large numbers 
+20 of votes had been cast on behalf of dead people? 
+21 
+22 A 
+Q Same reply. 
+Are you aware of claims that votes being cast by dead people have been 
+23 debunked in every State in which they've been made? 
+24 A Same reply. 
+25 Q Are you going to give the same reply to any questions I would ask of you  1 about particular claims of election fraud regarding the 2020 election? 
+2 
+3 A 
+Q Yes, the same reply. 
+And the same reply if I ask you questions about the evidence that you 
+4 developed to support those claims? 
+5 
+6 A 
+Q Yes, the same reply. 
+I'm going to ask you about --I'm getting an error message here. Can you 
+7 still see me okay? Is the camera working? 
+8 
+9 A No. 
+Mr.- Okay. Give me one moment. That was the error message I was 
+10 getting. 
+11 Can we go off the record for a moment. 
+12 [Off the record.] 
+Mr.- Let's go back on the record. 
+BYMR.-19 
+13 
+14 
+15 Q I'm going to ask you about a meeting or --a meeting and some other events 
+16 in November of 2020. 
+17 Did you attend a public hearing in Gettysburg, Pennsylvania, on November 25th, 
+18 2020? 
+19 
+20 A 
+Q Same reply. 
+You spoke at several public hearings regarding claims of election fraud. 
+21 Isn't that right? 
+22 
+23 
+24 
+25 A 
+Q 
+A 
+Q Same reply. 
+Were you ever sworn in at any of those hearings? 
+Same reply. 
+Was your testimony given under oath in any of those hearings or  1 quasi-hearings? 
+2 
+3 A 
+Q The same reply. 
+You were presented as a cybersecurity expert. What specific training do 
+4 you have in computer forensics? 
+5 
+6 
+7 
+8 A 
+Q 
+A 
+Q 
+9 matters? 
+10 
+11 A 
+Q Same reply. 
+Prior to 2020, what experience or training did you have in cybersecurity? 
+Same reply. 
+Prior to 2020, what experience or training did you have in election security 
+Same reply. 
+After the November 25th hearing in Gettysburg, did you drive down to 
+12 Washington with Bernie Kerik and Katherine Friess? 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 A 
+Q 
+A 
+Q 
+A 
+Q 
+A 
+Q 
+A 
+Q 
+A 
+Q 
+A Same reply. 
+Did you attend a meeting at the White House that evening? 
+Same reply. 
+Who else attended that meeting? 
+The same reply. 
+Was the President at the meeting? 
+Same reply. 
+Was Mr. Giuliani present at the meeting? 
+The same reply. 
+Was Representative Scott Perry at the meeting? 
+The same reply. 
+Were members of the Pennsylvania State legislature at the meeting? 
+Same reply. 20  21 
+1 Q What was discussed at the November 25th White House meeting attended 
+2 by Scott Perry and members of the Pennsylvania State legislature? 
+A The same reply. 3 
+4 Q Will you have the same answer to any questions I ask you about a November 
+5 25th White House meeting? 
+6 
+7 A Yes, the same reply. 
+Q Did you meet with any Members of Congress in either December 2020 or 
+8 Januaryof2021? 
+9 
+10 A The same reply. 
+Q And I'm specifically asking about --well, let me just leave it at that. 
+11 During those months, December of 2020 and January of 2021, did you meet or 
+12 speak with Representative Louie Gohmert? 
+13 
+14 
+15 
+16 A The same reply. 
+Q Do you know Representative Gohmert? 
+A Same reply. 
+Q Did you meet during that timeframe with the White House chief of staff, 
+17 Mark Meadows? 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 A The same reply. 
+Q Did you meet with Mr. Meadows in his office on December 21st? 
+A The same reply. 
+Q Were Members of Congress present for that meeting? 
+A The same reply. 
+Q Was Paul Gosar present for that meeting? 
+A Same reply. 
+Q Was Mo Brooks present for that meeting?  1 
+2 
+3 House? A 
+Q 
+A 
+Q 
+A 
+Q 
+A Same reply. 
+Was Matt Gaetz present for the meeting on December 21st in the White 
+Same reply. 
+Was Andy Biggs present for the meeting? 
+Same reply. 
+Was Rudy Giuliani present for the meeting? 
+The same reply. 22 
+Q What was discussed in the December 21st meeting at the White House that 
+10 involved Mr. Giuliani, yourself, Mr. Meadows and several Members of Congress? 
+11 
+12 A The same reply. 
+Q Did you request at that meeting that the President issue orders to involve 
+13 national security agencies in your search for evidence of election fraud? 
+14 
+15 
+16 
+17 
+18 
+19 
+20 A Same reply. 
+Q Did you meet with the President on December 21st of 2020? 
+A Same reply. 
+Q _, if we can pull up exhibit 6. 
+Have you seen this document before, Mr. Waldron? 
+A Same reply. 
+Q The email appears to have been sent from the email address 
+21 OmniTen@omnibuffalo.com. Is that an email address that you've used? 
+22 
+23 
+24 to that. 
+25 A The same reply. 
+Q Why did you send this --actually, let me ask one other question before I get 
+The email is sent to Do you see that?  23 
+A Same reply. 1 
+2 Q And do you understand that to be the email address for --the personal email 
+3 address for Mark Meadows? 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 A Same reply. 
+Q Why did you send this email to Mr. Meadows on December 22nd, 2020? 
+A The same reply. 
+Q There's a Gmail account listed in the cc line. It says 
+Is that an email address for Rudy Giuliani? 
+A Same reply. 
+Q Why did you copy Mr. Giuliani on this email? 
+A The same reply. 
+Q Whose email is 
+A Same reply. 
+Q Attached to this email is a 17-page document. 
+And,_, if we could just scroll down to see the first page of the attachment. 
+16 There it is. Actually, just go up to the top so we can just see the date. There it is. 
+17 Thank you. 
+18 Did you prepare this document, Mr. Waldron? 
+19 
+20 
+21 
+22 A The same reply. 
+Q Have you seen the document before? 
+A The same reply. 
+Q Are you going to refuse to answer any questions that I ask you about this 
+23 document or exhibit 6? 
+24 
+25 A The same reply. 
+Q So you will offer the same reply to any questions that I ask about the  1 document or exhibit 6? 
+2 
+3 A 
+Q Yes, the same reply. 
+And you'd give the same reply to any questions, any further questions I 
+4 might ask you about a December 21st meeting with Mr. Meadows? 
+5 
+6 
+7 
+8 A 
+Q 
+A 
+Q Yes, the same reply. 
+Have you ever communicated with Mr. Meadows by text? 
+Same reply. 
+On December 23rd, 2020, did you send a text message to Mr. Meadows 
+9 advising him of a negative ruling in a court case in Arizona? 
+10 
+11 A 
+Q Same reply. 
+During that timeframe, late December of 2020, were you monitoring 
+12 litigation in various States regarding the election? 
+Same reply. 
+Were you keeping Mr. Meadows apprised of court cases? 
+Same reply. 24 
+13 
+14 
+15 
+16 A 
+Q 
+A 
+Q Did you tell Mr. Meadows that you were disappointed in the result because 
+17 Arizona was, quote, "our lead domino that we were counting on to start the cascade"? 
+18 
+19 A 
+Q Same reply. 
+What cascade were you referring to in your text message to Mr. Meadows 
+20 on December 23rd, 2020? 
+21 
+22 A 
+Q 
+23 election? 
+24 
+25 A 
+Q The same reply. 
+Did your plan have anything to do with overturning the results of the 2020 
+The same reply. 
+On December 28, 2020, did you text Mr. Meadows regarding election  25 
+1 challenges in Georgia? 
+A Same reply. 2 
+3 Q Did you claim that there was some sort of election fraud going on in Walton 
+4 County, Georgia? 
+5 
+6 A Same reply. 
+Q What was the basis for your claim that there was election fraud in Walton 
+7 County, Georgia? 
+8 
+9 A Same reply. 
+Q On December 29th of 2020, did you meet with Mr. Meadows at the White 
+10 House at around 3:30 in the afternoon? 
+11 
+12 
+13 
+14 A The same reply. 
+Q Were you with Representative Scott Perry for that meeting? 
+A Same reply. 
+Q Who arranged the meeting with Mr. Meadows at the White House on 
+15 December 29th, 2020? 
+A 16 Same reply. 
+20 
+21 
+22 
+23 
+24 
+25 issues? Q 
+A 
+Q 
+A 
+Q 
+A 
+Q 
+A Do you know Scott Perry? 
+The same reply. 
+Have you talked with Mr. Perry or Representative Perry about election fraud 
+The same reply. 
+Do you know Richard Higgins? 
+The same reply. 
+Was Mr. Higgins with you at the White House meeting on December 29th? 
+The same reply.  1 
+2 
+3 
+4 
+5 26 
+Q Do you know John McGuire? 
+A Same reply. 
+Q What's your relationship with John McGuire? 
+A The same reply. 
+Q Why were Mr. Higgins and Mr. McGuire with you at that meeting on 
+6 December 29th at the White House? 
+7 
+8 A Same reply. 
+Q What was discussed during the December 29th meeting with Mr. Meadows 
+9 and others at the White House? 
+10 
+11 
+12 
+13 
+14 
+15 A Same reply. 
+Q How often have you met with Representative Scott Perry? 
+A The same reply. 
+Q Have you ever met or spoken with Representative Jim Jordan? 
+A Same reply. 
+Q Mr. Waldron, can you explain why it was that you were talking and meeting 
+16 with the White House chief of staff so frequently during the latter part of December of 
+17 
+18 
+19 
+20 2020? 
+right? A Same reply. 
+Q By that point, the electoral votes had been certified in every State. Is that 
+A 21 Same reply. 
+Q 
+A 
+Q How many times did you speak with Mr. Meadows after the 2020 election? 
+The same reply. 
+Is it true that you spoke with him eight to ten times and visited the White 
+25 House on multiple occasions after the 2020 election?  1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 today? A 
+Q 
+A 
+Q 
+A 
+Q 
+A 
+Q Same reply. 
+Did you ever say that to a reporter for The Washington Post? 
+Same reply. 
+Have you spoken to a reporter for The Washington Post? 
+Same reply. 
+Have you ever spoken to reporters from The New York Times? 
+Same reply. 27 
+Have you ever talked to them about issues that you're refusing to talk about 
+A 10 Same reply. 
+Q Did you attend a briefing on Capitol Hill on January 5th, 2021, to discuss a 
+12 strategy to overturn the 2020 Presidential election? 
+13 
+14 
+15 
+16 
+17 
+18 A Same reply. 
+Q Which Members of Congress attended that meeting? 
+A The same reply. 
+Q Did you prepare a PowerPoint presentation for that meeting? 
+A Same reply. 
+Q Take a look at exhibit 7, please. So I will represent to you, Mr. Waldron, 
+19 that this is a 38-page document. 
+20 And if we can go,_ just really quickly to the last page. 
+21 And I'm not going to ask any specific questions about the last page, but I'll 
+22 represent to you that I've seen other versions of this document that are 36 pages long or 
+23 that do not include this last page. So I just wanted you to be aware of the full scope of 
+24 the document that's part of this exhibit. And if you want to scroll through page by page, 
+25 we're happy to --I'm happy to do that.  1 
+2 
+3 
+4 
+5 
+6 
+7 Have you seen this document before? 
+A Same reply. 
+Q Did you prepare any --
+Can we go up to the top again, -
+Did you prepare any portion of this document? 
+A The same reply. 
+Q Was any portion of this presentation given to Members of Congress on 
+8 either January 4th or January 5th, 2021? 
+9 
+10 A Same reply. 
+Q Do you know how White House Chief of Staff Mark Meadows got this 
+11 document? 
+A Same reply. 
+Q Did you give it to him? 
+A Same reply. 28 
+12 
+13 
+14 
+15 Q Did you tell The New York Times that you did not send this document to Mr. 
+16 Meadows? 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 A Same reply. 
+Q Have you ever used the email address p@bonfiresearch.org? 
+A The same reply. 
+Q If we can look at exhibit 8. And I'm going to come back to 7, but if we could 
+flip to 8 for a moment. 
+Exhibit 8 appears to be an email sent from p@bonfiresearch.org to 
+, which is the personal email address for Mark Meadows. 
+Did you send this email to Mr. Meadows on January 5th, 2021? 
+A Same reply.  29 
+1 Q It appears that there's a --although the email doesn't reference an 
+2 attachment, the body of it says: FYI -This is the briefing that we are going over on the 
+3 Hill today. 
+4 Was exhibit 7 attached or some version of exhibit 7 attached to this email, exhibit 
+5 8, when you sent it to Mr. Meadows? 
+6 
+7 A Same reply. 
+Q Did you use exhibit 7 or some version of it for a briefing on the Hill on 
+8 January 5th, 2021? 
+9 
+10 A Same reply. 
+Q Did you tell The New York Times that you circulated exhibit 7 or a document 
+11 like it to allies of former President Trump, including lawmakers on Capitol Hill? 
+12 
+13 A The same reply. 
+Q Did you tell The New York Times that you met with Members of the House of 
+14 Representatives on January 5th? 
+15 
+16 
+17 
+18 A The same reply. 
+Q Which House Members did you meet with on January 5th, 2021? 
+A Same reply. 
+Q Did you present the PowerPoint deck or portions of it that's included in 
+19 exhibit 7 at that meeting? 
+20 
+21 A Same reply. 
+Q Mr. Waldron, how many media interviews have you given about the topics 
+22 that I've been asking you about? 
+23 
+24 A 
+Q Same reply. 
+If we can go back to --oh, we're on exhibit 7. The first page appears to be a 
+25 title for a PowerPoint presentation, and it says: Election Fraud, Foreign Interference &  30 
+1 Options for 6 JAN. 
+2 Did you tell Members of Congress that there had been foreign interference in the 
+3 2020 election? 
+4 
+5 A 
+Q Same reply. 
+And I'm speaking specifically about a January 5th meeting. Did you tell 
+6 Members of Congress there had been foreign interference in the 2020 election? 
+7 A Same reply. 
+8 Mr.. I'll note for the record it appears that Representative Aguilar has 
+9 joined us. 
+10 BYMR.-: 
+11 Q What evidence are you aware of that there was foreign interference in the 
+12 2020 election? 
+13 
+14 A 
+Q Same reply. 
+By January 2021, were you aware that the Department of Homeland Security 
+15 had determined that there was no foreign manipulation of electronic voting machines? 
+16 
+17 A 
+Q Same reply. 
+By January 2021, were you aware that there was a hand recount in Antrim 
+18 County that confirmed the results generated by the electronic vote tabulators and that 
+19 they were accurate? 
+20 
+21 A 
+Q Same reply. 
+At the time of your meeting with House Members on January 5th, did you 
+22 have any evidence that voting machines were hacked or otherwise altered through 
+23 technical compromise? 
+24 
+25 A 
+Q Same reply. 
+Did you tell members in your meeting on January 5th, Members of Congress,  1 that voting machines had been hacked or otherwise altered through technical 
+2 compromise? 
+3 
+4 A 
+Q Same reply. 
+If we can go to page 23. 
+5 In your January 5th meeting with Members of Congress, did you offer the 
+6 recommendations that are set forth in this slide? 
+7 
+8 
+9 
+10 A 
+Q 
+A 
+Q Same reply. 
+Did you suggest that the President declare a national security emergency? 
+Same reply. 
+Did you suggest to the Members of Congress that all electronic voting in all 
+11 States be declared invalid? 
+12 
+13 
+14 
+15 A 
+Q 
+A 
+Q Same reply. 
+Did you draft this slide? 
+Same reply. 
+Were you recommending that the vote of every person who voted using 
+16 electronic voting machines should be thrown out? 
+17 
+18 A 
+Q Same reply. 
+Did you suggest to the Members in your meeting on January 5th that votes 
+19 for them be declared invalid? 
+20 
+21 A 
+Q Same reply. 
+Did any Member of the House that you met with on January 5th express 31 
+22 concern that this proposal of throwing out or declaring votes invalid would result in all of 
+23 their elections being invalidated? 
+24 A Same reply. 
+25 Q The last bullet point on this page says: Legal & genuine paper ballot counts  1 or constitutional remedy delegated to Congress. 
+2 What did you mean by "constitutional remedy delegated to Congress"? 
+3 
+4 
+5 
+6 A 
+Q 
+A 
+Q Same reply. 
+Did you draft that language for this slide? 
+Same reply. 
+Was the constitutional remedy that's suggested here as this 
+7 recommendation that Congress would decide the election? 
+8 
+9 A 
+Q Same reply. 
+Did you suggest in that January 5th meeting to the Members of Congress 
+10 that you met with that an alternative to counting every vote in the country by hand 
+11 would be for Congress to decide who should be the next President? 
+12 A Same reply. 32 
+13 
+14 
+15 Q 
+A 
+Q Did you consult with any legal scholar before making that recommendation? 
+Same reply. 
+When you met with House Members on January 5th, did you discuss with 
+16 them the options that you believed were available for Vice President Pence during the 
+17 joint session of Congress that was scheduled for the next day? 
+18 A Same reply. 
+19 
+20 Q -if we can go down to page 35 of the same exhibit. 
+We're on exhibit 7, page 35. The top of the slide says: Options for 6 JAN. First 
+21 option is: Vice President Pence seats Republican electors over the objections of 
+22 Democrats in States where fraud occurred. 
+23 Did you write that language? 
+24 A Same reply. 
+25 Q Who did you talk to to come up with the idea that that was an option for  33 
+1 January 6th? 
+The same reply. 2 
+3 A 
+Q Did you tell the House Members that you met with on January 5th that Vice 
+4 President Pence could seat Republican electors in States that had been certified for 
+5 Mr. Biden? 
+6 
+7 A 
+Q Same reply. 
+What legal authority are you aware of or were you aware of at the time that 
+8 gave Vice President Pence the right to count electors for Mr. Trump from States that had 
+9 been certified for Mr. Biden? 
+10 
+11 A 
+Q Same reply. 
+The second bullet point as an option for January 6th is that Vice President 
+12 Pence rejects the electors from States where fraud occurred, causing the election to be 
+13 decided by remaining electoral votes. 
+14 Did you tell House Members that you met with on January 5th that Vice President 
+15 Pence could reject electors from certain States that had been certified for Mr. Biden? 
+16 A Same reply. 
+17 
+18 
+19 Q 
+A 
+Q What was the legal basis for that suggestion or recommendation? 
+Same reply. 
+Are you going to refuse to answer any questions that I ask you about your 
+20 January 5th meeting with House Members regarding overturning the results of the 2020 
+21 election? 
+22 
+23 
+24 
+25 A 
+Q 
+A 
+Q The same reply. 
+So you're not going to answer any of my questions on that topic? 
+Yes, the same reply. 
+And are you going to offer the same reply to any questions I ask you about  1 exhibit 7 and the information that's included in that document? 
+A 
+Q 
+4 2021? 
+A 
+Q 
+A 
+Q 
+A 
+Q 
+A 
+Q The same reply. 
+Did you meet with Members of the United States Senate on January 4th, 
+Same reply. 
+Was that meeting at the Trump International Hotel? 
+Same reply. 
+Who else was with you for that meeting? 
+Same reply. 
+Which United States Senators were present? 
+The same reply. 
+Were there Senators who participated by videoconference? 
+A 13 Same reply. 34 
+Q Did you present any portion of the presentation that's reflected in exhibit 7 
+15 during this January 4th meeting with United States Senators and others? 
+16 
+17 A Same reply. 
+Q Did you tell the Senators that there had been foreign interference in the 
+18 2020 election? 
+19 
+20 A The same reply. 
+Mr. - I'll note that Representative Aguilar appears to have dropped off the 
+21 call or out of the deposition. 
+22 BY MR. 
+23 Q What evidence were you aware of that there was foreign interference in the 
+24 2020 election? 
+25 A Same reply.  1 Q Did you tell the Senators that you believed Vice President Pence could 
+2 disregard certain electoral votes for Mr. Biden or count those votes for Mr. Trump? 
+3 
+4 A 
+Q Same reply. 
+Are you going to refuse to answer any additional questions I might have 
+5 regarding your January 4th briefing of United States Senators? 
+A 
+Q 
+A 
+Q The same reply, yes. 
+How many times have you been to the White House? 
+Same reply. 
+How many times have you met with former President Trump? 
+A 10 Same reply. 
+Q Have you ever spoken to former President Trump about claims of election 
+12 fraud? 
+A 13 Same reply. 
+Q Have you ever spoken to former President Trump about options for 
+15 overturning the results of the 2020 Presidential election? 
+16 
+17 A 
+Q Same reply. 
+Did you ever talk with the President about his expectations for what was 
+18 going to happen on January 6th? 
+Same reply. 35 
+19 
+20 A 
+Q We saw in exhibit 7 there were some options for January 6th. Did you ever 
+21 discuss any of those with former President Trump? 
+22 
+23 A 
+Q Same reply. 
+Did former President Trump ever tell you what he expected or hoped would 
+24 happen on January 6th? 
+25 A The same reply.  1 Q Did you ever talk with Mr. Meadows about what he hoped or expected 
+2 would happen on January 6th? 
+3 
+4 
+5 
+6 A Same reply. 
+Q Did you ever talk with Mr. Giuliani about that subject? 
+A Same reply. 
+Q Did you ever talk with anyone on Mr. Giuliani's team about what they 
+7 expected to happen on January 6th? 
+A The same reply. 36 
+8 
+9 Q In the days leading up to January 6th, what did you expect to happen during 
+10 the joint session of Congress? 
+11 
+12 A The same reply. 
+Q In November 2020, did you meet with President Trump and propose to him 
+13 that he declare a national emergency and order a recount of all paper ballots in certain 
+14 counties? 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 A The same reply. 
+Q How did he respond to that proposal? 
+A The same reply. 
+Q Did you have any discussion with him on that topic? 
+A The same reply. 
+Q Did you meet with him again in December of 2020? 
+A Same reply. 
+Q Did you ever propose that President Trump use the military to seize voting 
+23 machines? 
+24 
+25 A The same reply. 
+Q Did you ever propose to President Trump that he impose martial law and use  1 the military to re-run the election? 
+2 
+3 
+4 
+5 A 
+Q 
+A 
+Q The same reply. 
+Did you ever hear Michael Flynn make that proposal to the President? 
+Same reply. 
+Are you going to refuse to answer any questions I ask you about meetings 
+6 with former President Trump regarding the 2020 election? 
+7 
+8 
+9 
+10 A 
+Q 
+A 
+Q The same reply. 
+You would refuse to answer? 
+Yes, the same reply. 
+Do you believe that former Vice President Pence is responsible for the 
+11 violence at the Capitol on January 6th? 
+12 A Same reply. 
+13 Q Did you ever tell a reporter that Vice President Pence's refusal to go along 
+14 with the plan to block Bide n's certification was the primary cause of the riot? 
+15 
+16 A 
+Q Same reply. 
+In December 2020, were you in touch with members of the Arizona State 
+17 legislature regarding auditing the election results in that State? 
+18 A Same reply. 
+19 
+20 
+21 
+22 2021? 
+23 
+24 
+25 Q 
+A 
+Q 
+A 
+Q 
+A Who put you in touch with Representative Finchem and Senator Borrelli? 
+The same reply. 
+Did you have any meetings with them in December of 2020 or January of 
+Same reply. 
+Did you speak with them by phone in that time period? 
+Same reply. 37  38 
+1 Q In 2021, did you have any interactions with Senator Karen Fann regarding an 
+2 audit of the 2020 election results in Arizona? 
+3 
+4 A 
+Q Same reply. 
+Did you or Mr. Ramsland submit a proposal for ASOG --that's Allied Security 
+5 Operations Group --to conduct an audit for the State of Arizona? 
+6 
+7 A 
+Q The same reply. 
+Are you going to refuse to answer any questions I have for you regarding 
+8 your interactions with members of the Arizona State legislature regarding the 2020 
+9 election? 
+10 
+11 A 
+Q Yes, the same reply. 
+In November and December of 2020, did you meet with any State legislators 
+12 from any other State? 
+13 A Same reply. 
+14 Q Other than your public appearances in legislative hearings and other 
+15 gatherings involving legislators, did you have any meetings with State-elected officials in 
+16 November or December of 2020 or January of 2021? 
+17 A Same reply. 
+18 Q And when I say other gatherings, I'm referring to things like the meeting in 
+19 Gettysburg, which I believe was in a hotel, but members of the legislature were present 
+20 and it was a public gathering with members of the public also in attendance. 
+21 Same answer? 
+22 
+23 A 
+Q Same reply. 
+Did you provide any --and so I'm distinguishing those types of meetings, 
+24 public meetings, whether it's actually in the State Capitol or some other gathering 
+25 involving legislators.  1 Did you have any meetings besides that with State-elected officials? So private 
+2 meetings where the public wasn't present or it was not publicly announced that there 
+3 was such a meeting. 
+4 
+5 A 
+Q The same reply. 
+Did you provide any materials to State legislators regarding claims of 
+6 election fraud? 
+Same reply. 39 
+7 
+8 A 
+Q Did you ever discuss with any State-elected official strategies for overturning 
+9 the results of the 2020 Presidential election? 
+10 
+11 A 
+Q Same reply. 
+Did you play any role in procuring alternate slates of electors in any 
+12 contested States? 
+13 
+14 
+15 
+16 
+17 A 
+Q Say that again, please. 
+Yeah. That was a bad question. 
+Did you play any role in lining up or procuring alternate slates of electors? 
+A 
+Q The same reply. 
+Have you ever talked with anyone about whether it would be helpful in 
+18 efforts to overturn the election to have alternate slates of electors? 
+19 
+20 
+21 
+22 
+23 A 
+Q 
+A 
+Q 
+A Same reply. 
+Do you know Phill Kline? 
+Same reply. 
+Have you ever met Ian Northan? 
+Same reply. 
+24 Q Did you or Mr. Ramsland ever submit a proposal --sorry, I asked you that 
+25 question already. Strike that.  40 
+1 Are you going to refuse to answer any questions regarding your interactions with 
+2 State election officials regarding the 2020 election? 
+3 
+4 A 
+Q Yes, same reply. 
+And I said State election officials. I meant to say State-elected officials. 
+5 So not just those who were involved in administering elections but any State-elected 
+6 official, will you refuse to answer questions regarding your interactions with those folks? 
+7 
+8 A Yes, the same reply. 
+Mr. - Okay. If we could just --I think I'm just about done. If we could 
+9 take a moment, I'm going to --we can go off the record. I'm going to turn off my video 
+10 and mute my mike and I'll be back momentarily. 
+11 
+12 
+13 
+14 [Off the record.] 
+Mr.- Mr. Waldron, thank you. I don't have any further questions for you. 
+Mike, is there anything else that you want to put on the record? 
+Mr. Mccolloch. No. Just wanted to reiterate what's in our written response to 
+15 the subpoena that all of this is, of course, subject to our other objections that we're not 
+16 waiving that are outlined in our written response. 
+17 And so, other than that, I believe that's all we have to say. If you're finished with 
+18 the questions, then we will adjourn the deposition. 
+19 Mr. - Well, we're going to keep the deposition open, subject to the call of 
+20 the chair. Your objections are part of the record as exhibit 2. I just want to make sure 
+21 you're --
+22 
+23 Mr. Mccolloch. Yes. 
+Mr.- --you're clear on that as well. 
+24 So, with that, the deposition will remain open, subject to the call of the chair, but 
+25 we will adjourn for the day.  41 
+1 Thank you. We can go off the record. 
+2 Mr. Mccolloch. Thank you. 
+3 [Whereupon, at 12:14 p.m., the deposition was recessed, subject to the call of the 
+4 chair.]  1 
+2 
+3 Certificate of Deponent/Interviewee 
+4 I have read the foregoing __ pages, which contain the correct transcript of the 
+5 answers made by me to the questions therein recorded. 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 Witness Name 
+Date 42 

@@ -1,0 +1,105 @@
+Message 
+From: Jason Miller Limiller@donaldtrump.com] 
+11/13/2020 6:15:03 AM Sent: 
+To: 
+Subject: Jason Miller Limiller@donaldtrump.com] 
+Dominion Voting Systems 
+In short, we can credibly say there's valid questions about the security and reliability of Dominion's systems. 
+Important to note they are operating in a number of states, but not necessarily statewide. 
+Toplines below, full report attached. 
+TOPLINES 
+Dominion Voting Systems 
+• Dominion Voting Systems is a private company originally founded in Canada, but which now has a 
+significant U.S. presence 
+• Dominion has headquarters in Colorado under the subsidiary Dominion Voter Systems, Inc. 
+• Dominion is reportedly 75% owned by private equity firm Staple Street Capital, 12% owned by it's 
+Co-Founder John Poulos, with the remainder owned by other members of the firm's leadership 
+• Prior to its 2018 acquisition by Staple Street. the firm appears to have been 100% owned 
+by its Canadian parent company, and in turn, that firm's leadership 
+• Dominion is the second largest provider of U.S. election systems 
+• Dominion provides election hardware and software in 28 states and Puerto Rico 
+Foreign Ties/Concerns 
+• Dominion Voting Systems was originally a Canadian company, but now has substantial U.S. 
+operations 
+• Dominion's CEO John Poulos has confirmed that parts of its voting systems are made in China, 
+specifically citing LCD screens and small components like capacitors and resistors 
+• Dominion has used Serbian software developers, and at one point had an office in Serbia 
+• Dominion has been a vendor for elections in The Philippines and Mongolia 
+Political Ties/Connections 
+• Dominion employees have made less than $1,300 in political contributions, but 93% of those 
+contributions have gone to Democratic candidates or committees 
+• Dominion has retained lobbyists from Brownstein Hyatt Farber Schreck, including a pair of former 
+Democratic aides 
+• Brownstein lobbyist Brian McKean previously worked for the Obama campaign and as an 
+aide to Sens. Jeanne Shaheen and Barbara Boxer 
+• Brownstein lobbyist Nadaem Elshami is a former Chief of Staff to Nancy Pelosi 
+MM007666  • In 2019, Brownstein lobbyists donated to Sen. Mitch McConnell as the Senate was setto consider 
+legislation that would have negatively impacted Dominion and other large voting machine 
+vendors; the legislation as ultimately sidelined 
+• Staple Street Capital board member William E. Kennard was the Obama Administration's 
+Ambassador to the EU 
+Rumors/False Allegations 
+• Allegations connecting Dominion to Democrats and prominent liberals are based on some real 
+connections, but have been overstated 
+• George Soros does not own Dominion; Mark Malloch-Brown, who is connected to Soros, is 
+the Chairman of Smartmatic, which previously worked with Dominion 
+• Dominion donated between $50,000 and $100,000 to the Clinton Foundation, and was 
+previously a part of a Clinton Foundation commitment to provide election equipment to 
+developing countries 
+• Nancy Pelosi's former Chief of Staff, Brownstein Hyatt Farber Schreck lobbyist Nadeam 
+Elshami, currently lobbies for Dominion 
+• Blum Capital, the firm of Feinstein (D-CA)'s husband Richard Blum is a previous investor in 
+software company Avid Technology which makes election software, but he does not have a 
+"financial relationship" with Dominion 
+• A conspiracy theory claims secret computer programs called "hammer" and "scorecard" have been 
+used to "steal" votes for Biden 
+• Chris Krebs, the head of the U.S. Cybersecurity and Infrastructure Security Agency, said that 
+this theory was "nonsense" 
+• The theory comes from information given by Dennis Montgomery, a former government 
+contractor who allegedly 'conned' the Pentagon into paying millions of dollars for anti­
+terrorism technology that did not work 
+• Associates of Sheriff Joe Arpaio say Montgomery defrauded them by claiming that the 
+"Hammer" software program could show a federal judge was "colluding" against Arpaio 
+• The theory also claims that a company named VR System siphoned votes in battleground 
+states, but VR systems does not make vote-counting machines, and its software was not 
+used in the battleground states were votes were allegedly "stolen" 
+Technical Failures In The 2020 Election 
+• Machines from Dominion Voting Systems did experience technical failures on election night, but 
+these errors were reportedly fixed and did not lead to improper vote counts 
+• Antrim and Oakland Counties in Michigan counties saw tabulation mistakes that were reportedly 
+the result of human error, and the totals were corrected 
+• A third Michigan county -which was not using Dominion -also saw a tabulation error 
+• Georgia experienced problems on election morning with machines made by Know Ink, a 
+subcontractor of Dominion, in the counties of Morgan and Spalding, which prevented voters from 
+casting ballots 
+MM007667  • The technology glitch was allegedly due to a software upload the night before the election, 
+but Dominion has disputed that 
+• Election officials extended voting hours and used paper ballots to work around the issue 
+Prior Instances Oflssues With Dominion's Machines 
+• In 2017 and 2019, hacking conferences were able to successfully hack and exploit vulnerabilities 
+in Dominion voting equipment 
+• In 2013 and 2019, Texas twice rejected Dominion's voting machines due to both "multiple 
+hardware and software issues," with an examiner saying the machines were "fragile and error 
+prone" 
+• In Georgia's 2020 primary elections, Dominion voting machines saw numerous problems, with 
+some being delivered late, some suffering power problems, and other failing to work 
+• Dominion's electronic poll books "were plagued by freezing software and user error" 
+• Nevada's 2018 primary elections saw more than 300 reported errors from Dominion voting 
+machines, including candidates being left off ballots in some instances 
+• In 2018, there were reports that Dominion voting machines had overheated in Palm Beach, 
+Florida 
+• In 2012, Dominion voting machines in Florida awarded two Wellington Village council seats to 
+losing candidates due to the machine being set up incorrectly 
+Potential Security & Vulnerability Issues 
+• Some Dominion voting machines include modems that could potentially connect to the internet, 
+posing a hacking vulnerability 
+o Dominion has modems in their vote tabulators and scanners 
+• The National Institute of Standards and Technology recommend that voting systems do not have 
+wireless connections, since it makes it possible to connect them to external networks 
+CONFIDENTIALITY NOTICE: This message (including any attachments) may contain confidential, 
+proprietary, privileged, and/or private information. This information is intended to be for the use of the 
+individual(s) designated above. If you are not the intended recipient of this message, please notify the sender 
+immediately, and delete the message and any attachments. Any disclosure, reproduction, distribution, or other 
+use of this message or any attachments by an individual or entity other than the intended recipient is prohibited. 
+Copyright and any other intellectual property rights are the sole property of Donald J. Trump for President, Inc. 
+MM007668 

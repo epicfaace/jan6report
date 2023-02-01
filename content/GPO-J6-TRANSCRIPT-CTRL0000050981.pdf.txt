@@ -1,0 +1,2419 @@
+1 
+2 
+3 
+4 SELECT COMMITTEE TO INVESTIGATE THE 
+5 JANUARY 6TH ATTACK ON THE U.S. CAPITOL, 
+6 U.S. HOUSE OF REPRESENTATIVES, 
+7 WASHINGTON, D.C. 
+8 
+9 
+10 
+11 DEPOSITION OF: JUSTIN CAPORALE 
+12 
+13 
+14 
+15 Tuesday, March 1, 2022 
+Washington, D.C. 1 
+16 
+17 
+18 
+19 
+20 The deposition in the above matter was held via Webex, commencing at 9:02 a.m.  1 
+2 Appearances: 
+3 
+4 
+5 For the SELECT COMMITTEE TO INVESTIGATE 
+6 THE JANUARY 6TH ATTACK ON THE U.S. CAPITOL: 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 STAFF ASSOCIATE 
+INVESTIGATIVE COUNSEL 
+PROFESSIONAL STAFF MEMBER 
+CHIEF INVESTIGATIVE COUNSEL 
+, CHIEF CLERK 
+PROFESSIONAL STAFF MEMBER 
+SENIOR INVESTIGATIVE COUNSEL 
+17 For THE WITNESS: 
+18 
+19 PAUL BROTHERS 
+20 EDWARD GREIM 
+21 Graves Garrett LLC 
+22 1100 Main Street 
+23 Kansas City, MO 64105 2  1 
+2 Good morning. This is the deposition of Mr. Justin Caporale 
+3 conducted by the House Select Committee to Investigate the January 6th Attack on the 
+4 United States Capitol, pursuant to House Resolution 503. 
+5 This deposition is being taken remotely via Webex. 
+6 This will be a staff-led deposition, and members may join and choose to ask 
+7 questions. 
+8 Mr. Caporale, if any members join during the course of the deposition, I'll just 
+9 pause briefly to acknowledge that they've joined us for the record. 3 
+10 
+11 
+12 
+13 My name is I'm an investigative counsel with the select committee. 
+With me from the select committee staff are a senior investigative counsel, 
+and who's a professional staff. 
+Under House deposition rules, neither committee members nor staff may discuss 
+14 the substance of today's testimony unless the committee approves its release. Mr. 
+15 Caporale, you and your attorneys will have an opportunity to review the transcript before 
+16 it's released. 
+17 I note that, under House rules, Mr. Caporale, you may have your attorney present, 
+18 but counsel for other individuals may not be and, therefore, are not present. And the 
+19 same thing goes with attorneys for other government agencies. In other words, the 
+20 only lawyers who are here are your lawyers and lawyers for the select committee. 
+21 At this time, I'd actually ask that your counsel identify themselves for the record. 
+22 Mr. Brothers. Paul Brothers and Edward Greim of Graves Garrett on behalf of 
+23 Mr. Caporale. 
+24 
+25 - Thanks, Paul. 
+Just to lay out some ground rules for today's deposition.  4 
+1 Mr. Caporale, we do have official reporters transcribing our conversation. You 
+2 probably heard the prompt at the beginning that notified us that there is a video feed 
+3 being recorded using the Webex platform, but the reporters' transcription is the official 
+4 record of today's proceeding. 
+5 Now, because of that, it's important that we don't talk over each other. So I'd 
+6 ask that you wait to respond until questions are finished and I'll do my best to wait to ask 
+7 the next question until you're done giving your answer. 
+8 Does that make sense? 
+9 
+10 The Witness. Yes, sir. 
+- Great. We're already practicing. The reporter cannot note any 
+11 nonverbal responses, such as nodding heads or shaking heads. So it's important that 
+12 you respond to each question with an audible, verbal response. I ask that you just give 
+13 complete answers to the best of your recollection. If any of my questions are unclear, 
+14 just say so and I'll try to clarify. And, of course, if you don't know the answer, it's fine for 
+15 you to say so. 
+16 You may refuse to answer questions only to preserve a privilege that's recognized 
+17 by the select committee. In the event that you refuse to answer a question based on a 
+18 privilege, we may seek a ruling from the chairman on that objection or we may proceed 
+19 with the deposition and return to the objection later on. 
+20 In any event, if the chairman overrules the objection, then you'd be required to 
+21 answer the question. 
+22 Do you understand that? 
+23 The Witness. Yes, sir. 
+24 - And, finally, I'd remind you --as I remind all witnesses, so don't take 
+25 it personally --it's unlawful to deliberately provide false information to Congress and  5 
+1 doing so could result in criminal penalties, including under title 18, United States Code, 
+2 section 1001. 
+3 Do you understand that? 
+4 
+5 The Witness. I understand. 
+Now, in terms of logistics, I'm happy to take breaks whenever you 
+6 might need it, whether it's to talk to your attorneys, stretch your legs. For whatever 
+7 reason, we can accommodate that. I did share with your attorneys my intent to be 
+8 efficient and move as efficiently as we can to try to be done by the lunchtime today, but, 
+9 you know, it's your car too to drive. So if you want to take a break for whatever reason, 
+10 we can accommodate that. Just let us know, and we'll find a good place to pause. 
+11 And now might be a good time, Paul, if you want to note for the record the 
+12 objections that you've raised on behalf of your client. 
+13 Mr. Brothers. Thank you,_ 
+14 Mr. Caporale has a few objections this morning to preserve for the record. We 
+15 would note that Mr. Caporale is not asserting these objections to not appear before the 
+16 committee this morning or to not refuse to provide deposition testimony. However, he 
+17 is raising these objections to preserve them in the event the committee subpoenas him 
+18 for further deposition testimony or document production. 
+19 The first testimony --or the first objection is that the committee is not properly 
+20 composed, and, therefore, all actions taken by the committee are invalid. This objection 
+21 is based on the resolution authorizing select committee, and that resolution provides that 
+22 the Speaker shall appoint 13 Members to the committee and that the Speaker shall 
+23 appoint five of those 13 members after consultation with the minority Member. 
+24 The Speaker's failed to do both of these things. The speaker only appointed nine 
+25 Members to the select committee, and none of the nine committee Members appointed  6 
+1 were appointed in consultation with the minority leader. The Speaker's rejection of the 
+2 minority leader to requested appointees and appointment of all nine members on her 
+3 own does not comply with the resolution authorizing the committee and invalidates all of 
+4 the committee's action, including the issuance of Mr. Caporale's subpoena. 
+5 The second objection is that Mr. Caporale's subpoena is not properly issued. The 
+6 basis for his objection is similar to the first objection. Once again, the resolution 
+7 requires that the Speaker appoint 13 members to the committee and five of those 
+8 members should have been appointed after consultation with the minority leader. As 
+9 I've just discussed, the Speaker failed to do both of these things. The resolution 
+10 authorizes the chairman of the committee to issue subpoenas for deposition testimony, 
+11 but importantly it only authorizes the chairman to do so after consultation with the 
+12 ranking member. This committee lacks a ranking member due to the Speaker's decision 
+13 not to appoint any members in consultation with minority leader. This failure to do so 
+14 deprives the committee of a ranking member [inaudible] Representative Cheney holding 
+15 the title of vice chair rather than ranking member. 
+16 The lack of a ranking member prevented the chairman from properly subpoenaing 
+17 Mr. Caporale for a deposition as he had no ranking member to consult with. This failure 
+18 makes Mr. Caporale's subpoena invalid. 
+19 Our third objection is that the subpoena for deposition testimony is not supported 
+20 by a valid legislative purpose. As Mr. Caporale outlined in the document production to 
+21 the committee, he asserts numerous objections, one of those being that the committee 
+22 does not need to look any further into the events of the rally on the Ellipse on January 6th 
+23 to legislate. 
+24 What happened that day, the speakers that spoke, the people who attended, 
+25 where those people went, all of those things are part of the public record and should be  7 
+1 sufficient information for Congress to legislate therefrom. Congress does not need to 
+2 probe into the details of the planning of the rally and plans that came to fruition and did 
+3 not come to fruition to legislate. 
+4 Mr. Caporale also preserves all additional objections he raised in his document 
+5 production, as well as common law objections and does not waive them by appearing and 
+6 testifying today. 
+7 Thank you,_ 
+8 Sure. Thanks for that, Paul. As you know, the select committee 
+9 disagrees with the characterization of the composition of the committee and the basis for 
+10 your objections, but I also understand that that's not standing in the way of us proceeding 
+11 today. Is that right? 
+12 
+13 Mr. Brothers. That's correct. 
+All right. Well, with that, because the deposition is under oath, Mr. 
+14 Caporale, I'd ask that you raise your right hand and be sworn by the reporter. 
+15 The Reporter. Do you solemnly declare and affirm under the penalty of perjury 
+16 that the testimony you are about to give will be the truth, the whole truth, and nothing 
+17 but the truth? 
+The Witness. I understand. 
+EXAMINATION 18 
+19 
+20 
+21 Q Mr. Caporale, today during the deposition, we're going to be showing you 
+22 some exhibits that should appear on your screen. And, if you need us to zoom in or 
+23 manipulate it so that you can see it better, just let me know. 
+24 I will note for the record that yesterday we provided some secured copies of these 
+25 exhibits to your counsel. I don't know whether you were able to review those with  8 
+1 them, and I'm not asking you to tell me about conversations you had, but I just note that 
+2 in case you're already familiar with these exhibits if you did --did you get a chance to look 
+3 at some of these yesterday? 
+4 
+5 A 
+Q Yes. 
+Okay. That'll just help us so that we can --if you want to re-review them, 
+6 we can pause them, and you can look at them again, but it helps us be a little bit more 
+7 efficient. 
+8 So, first, let's pull up exhibit 1. 
+9 Mr. Caporale, I can tell you this is the subpoena that was issued by the select 
+10 committee to you and the date at the bottom of the first page indicates it was signed by 
+11 the chairman on December 29th, 2021. 
+12 Mr. Caporale, I'd just like you to confirm, if we go back up to the top, that having 
+13 reviewed this subpoena you are the Justin Caporale named in the subpoena? 
+14 
+15 
+16 
+17 A 
+Q 
+A 
+Q Yes. 
+And you understand you're appearing here today pursuant to the subpoena? 
+Yes. 
+All right. And I acknowledge that through counsel you have produced 
+18 some documents to the select committee. Those documents covered a time period of 
+19 roughly November 2020 through January 2021, which aligns with the document schedule 
+20 requesting documents within that time period. 
+21 And I just want to cover some basics about methods of communication that you 
+22 used and more or less confirm if my understanding is correct. 
+23 So it's my understanding that, during this time period, November 2020 through 
+24 January 2021, about the topics called for in the subpoena, chiefly, the organization and 
+25 planning and implementation of the rally on the Ellipse on January 6th, you only used two  1 email addresses, one at eventstrategies.com and another personal gmail account. Is 
+2 that correct? 
+3 
+4 A 
+Q That is correct. 
+It's also my understanding that, during the same time period, you only used 
+5 personally one phone number, a personal cell phone that has an upstate New York area 
+6 code and- Is that correct? 
+7 
+8 A 
+Q That is correct. 
+You also produced screen shots from your phone indicating that you used 
+9 that personal cell phone to text with other individuals. Is that correct? 
+10 
+11 A 
+Q Correct. 
+I just want to confirm that you did not use any other messaging 9 
+12 applications --examples would be Whatsapp, Telegram, Signal --about subjects identified 
+13 in the subpoena? 
+14 
+15 A 
+Q I did not use any other apps. 
+And I'd also just like to confirm a few things in addition to that. It's my 
+16 understanding that, for this time period, you did not retain any hard copy documents that 
+17 would have been called for by the subpoena. Is that correct? 
+18 
+19 A 
+Q 
+20 last year. That's correct. 
+And we previously had a conversation with your attorneys in November of 
+21 Do you remember that? 
+22 
+23 A 
+Q I'm not sure exactly the conversation you're speaking of. 
+Sorry. I'm using conversation and different things. You met with 
+24 investigators from the select committee last November. 
+25 Do you remember that?  1 
+2 A 
+Q Yes, sir. 
+And, during that, you explained to us that there was a single text message 
+3 that would have been called for by the subpoena with an individual named Robert 
+4 Gabriel. 
+5 Do you remember that? 
+6 A I do. 
+7 Q And, at that time, you explained to us that you no longer had it on your 
+8 phone. Is that correct? 
+9 A That's correct. 
+10 Q Could you just explain to us, to the best of your recollection, what that 
+11 conversation was about and why you could not produce it? 
+12 A Sure. The conversation was regarding logistics behind the President's 
+13 speech, and I couldn't produce it because I had deleted it from my text messages in just 
+14 normal routine cleanup. At that point, it was still the beginning of the year, so we 
+15 hadn't received any of the subpoena documents or knew what was about to happen. 
+16 Q 
+17 phone? 
+18 
+19 
+20 A 
+Q 
+A Do you remember around when you deleted that text message from your 
+I do not. 
+And Robert Gabriel was a White House employee on or about January 6th? 
+Yes, sir. 
+21 Q And you believed that you communicated with him about content for the 
+22 speech that the President was going to give. Is that right? 
+23 A Logistics behind the speech, what was in it --I'm sorry --what the set up 
+24 was, things of that nature. 10 
+25 Q To the best of your knowledge, are there any documents or communications  11 
+1 that you have withheld from the select committee that otherwise would have been called 
+2 for by the subpoena? 
+3 A No, sir. 
+4 Q Now, I would like to just summarize some of the context about your personal 
+5 background. You have professional experience in event production for political 
+6 campaigns and government officials. Is that fair to say? 
+7 A Correct. Yes, sir. 
+8 Q And it's my understanding that this sort of world is often referred to as 
+9 "advance." Is that a fair way to understand what advance is? 
+10 
+11 A 
+Q Yes. It's a fair way to understand it. 
+You previously provided advance and production services for the Trump 
+12 campaign in 2016 and 2020. Is that right? 
+13 
+14 A 
+Q 
+15 campaigns? 
+16 
+17 A 
+Q That's correct. 
+But, during those time periods, were you actually an employee of those 
+Yes. I was a contractor in 2016 and an employee in 2020. 
+And, also, between the two Presidential campaigns, you were at some point 
+18 a full-time employee at the White House. Is that correct? 
+19 
+20 A 
+Q That's correct. 
+Could you just briefly summarize what those roles were and the general time 
+21 periods when you held them? 
+22 
+23 
+24 A 
+Q 
+A In the White House? 
+Yes. 
+I entered the White House as a lead advance representative in the Office of 
+25 Presidential Advance from approximately January 20th through the end  12 
+1 of --January 2017 through the end of that year. At the beginning of 2018, I transitioned 
+2 into the East Wing and retained the title of director of operations of the Office of Melania 
+3 Trump. 
+4 Q And the East Wing can frequently refer to working within the Office of the 
+5 First Lady. Is that right? 
+6 
+7 
+8 
+9 
+10 
+11 
+12 A Yes. Yes, sir. 
+Q And how long did you work in the East Wing? 
+A About 3 months. 
+Q And around when did you leave the East Wing? 
+A Early March. 
+Q Where did you go after that? 
+A After that, I went back to --well, I took a small break and then ended up on 
+13 the Ron Desantis campaign. And in between that,_, I did some work with ESI just 
+14 on small events, but then I went and worked for Ron Desantis' gubernatorial campaign. 
+Q And remind me what year is this? 
+16 2018 A 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 right? Q 
+A 
+Q 
+A 
+Q 
+A 
+Q So, after 2018 until 2020, you did not work in the White House. Is that 
+That is right. 
+Are you currently an employee of Event Strategies? 
+Yes. 
+And what's your job title with Event Strategies right now? 
+CEO and managing partner. 
+It's my understanding that, during the time period that we're focused on 
+25 today, late 2020 through January 6th, 2021, you were not an employee of ESI. Is that  1 right? 
+2 
+3 A 
+Q That is correct. 
+But you did provide services using ESI as --I'm not sure how you would 
+4 characterize it --a contractor or having a day rate? Is that fair? 
+Yes. That's fair. 13 
+5 
+6 A 
+Q So I just want to make clear that, although we're talking about your role with 
+7 ESI during this time period, you're not an employee, but you're essentially acting on 
+8 behalf of them to provide the services that ESI would provide. Is that right? 
+9 
+10 A 
+Q Yes, sir. 
+Perfect. 
+11 Mr. Caporale, are you familiar with an organization called Women for America 
+12 First? 
+13 
+14 A 
+Q Yes. 
+And are you aware that Women for America First held political rallies in 
+15 Washington, D.C., in November and December 2020? 
+16 
+17 
+18 A 
+Q 
+A Yes, sir. 
+Did you have any professional role in either of those events? 
+Yes. ESI provided jumbotron screens for --I believe it was the event in 
+19 early December, and that was --our role was limited to that. 
+20 Q So, when you say the role was limited as to jumbotrons, you didn't have any 
+21 larger oversight role with the Women for America First event in December? 
+22 
+23 A 
+Q No, sir. 
+Now, moving forward to January 6th, are you aware that on permit 
+24 paperwork submitted by Women for America First for that event at the Ellipse on 
+25 January 6th, 2021, you were listed as a project manager?  1 
+2 A 
+Q Yes, sir. 
+Could you just explain to us, to the best of your own understanding, what 
+3 that project manager role covered? 
+4 A Sure. The project manager role covered overseeing the production, 
+5 logistics, and operations behind the event. 14 
+6 Q And where in the org chart, so to speak, for this specific event did you stand 
+7 in relation to the people sponsoring the rally and the people on the ground who were 
+8 making sure that all of the chairs were unfolded and the, you know, stanchions were put 
+9 up? 
+10 A I mean, I guess I stood in between our client, Women for America First, the 
+11 Kremers, and then the advance and production teams on the ground. 
+12 Q I guess another way to put it, is, who did you answer to for that event? 
+13 A My client, Women for America First. 
+14 Q And I'd like to discuss, to the best you recall, how you came to be hired for 
+15 that event. Do you remember how that came about? 
+16 A I do. Around Christmas 2020, I started to receive messages. The first one 
+17 came in from Cindy Chafian about an event on January 6th, but it was still unclear what 
+18 exactly the vision was. Shortly after Christmas, Kylie Kremer had reached out with a bit 
+19 more vision and made the ask if we were willing to come on and be their production 
+20 management partner of the event. 
+21 Q Let's take a look at exhibit 2. 
+22 This is a text message thread that you produced, Mr. Caporale, that indicates 
+23 you're chatting with a user name Cindy with the initials CC and on here this first message 
+24 says: Hi, Justin. 
+25 It's sent on December 23rd, 2020, around 12 p.m. noon. It says: Hi, Justin.  15 
+1 I'm coordinating another event for January 6th and wanted to get a quote for you. This 
+2 is separate from Women for America First so the quote will go to --and then it's redacted. 
+3 I believe there's contact information there. 
+4 Is this the contact that you're recalling from Cindy Chafian? 
+5 
+6 A 
+Q Yes, it is. 
+Do you recall seeing that second sentence that there's a separate --it's 
+7 separate from Women for America First when she contacted you about this event? 
+8 A Yes. I remember reading it, but the exact moment in time, you know, I 
+9 don't recall that specifically. 
+10 Q So I think that we all --we both understand that there was a conflict that 
+11 arose between the Kremers, who were the heads for Women for America First, and Cindy 
+12 Chafian, who at one point was associated with them. Is that fair to say? 
+13 
+14 A 
+Q Yes, sir. 
+Why don't you just briefly, so we can get it out of the way now, tell us what 
+15 your understanding of that conflict was and when you first learned of it? 
+16 A I honestly don't know what the conflict was about between the two of them. 
+17 The only thing I knew is that Cindy was no longer affiliated with Women for America First, 
+18 and that's kind of where my knowledge stops at that --on that situation. 
+19 Q But fair to say December 23rd is the first time anybody contacted you about 
+20 being involved with an event on January 6th? 
+21 
+22 
+23 A 
+Q Yes. 
+Let's take a look at exhibit 3. 
+Mr. Caporale, this is a text thread between you and Caroline Wren. You did 
+24 produce text from your side, but just for convenience and how they were presented, 
+25 we're showing you the version that shows Ms. Wren as the local user. So the person in  16 
+1 blue is Caroline Wren, and the person with the gray text is you. 
+2 And you can see here, December 26th, at about 11:14 a.m., Ms. Wren texts you: 
+3 Do you know who is organizing the January 6th rally in D.C.? 
+4 And the response is from you: I thought it was Women for America First, but I 
+5 do not believe it is. I'll find out for you today. 
+6 What's your --how did you know Caroline Wren around this time period, 
+7 December 26th, 2020? 
+Caroline and I were colleagues on the 2020 Donald Trump campaign. 8 
+9 A 
+Q Did you understand why she was reaching out to you about the January 6th 
+10 rally? 
+11 A I guess it would have been a normal text message to receive just given our 
+12 role. You know, she --her and I worked together, and she knew me as kind of the 
+13 events guy. So, other than that, you know, I didn't think much of it. 
+14 Q Did Ms. Wren ever call you on the phone to discuss getting you involved with 
+15 January 6th? 
+16 A I don't recall specific a conversation on the phone. It wouldn't surprise me 
+17 if we had chatted on the phone about it, though. 
+18 Q Did you get any communications from an individual named Taylor Budowich 
+19 about January 6th around this time period? 
+20 A Yeah, I believe I did. 
+21 Q And what did Mr. Budowich ask you or talk to you about with respect to 
+22 January 6th? 
+23 A I don't recall the exact conversations, but it was about, you know, who was 
+24 involved in the event production behind it. 
+25 Q Do you recall who the first person was to raise to you the prospect of having  17 
+1 President Trump speak on January 6th, 2021? 
+2 A Yes. I'll have to just say Women for America First because I don't recall if it 
+3 was Kylie or Amy who made that ask. 
+4 Q Let's go down on this exhibit to page 4. 
+5 Here this is --and we can scroll up a little bit just so you can see the context, just 
+6 where we can see the dates of this message, December 28th, 2020. 
+7 
+8 A 
+Q Uh-huh. 
+And the message that you send to Ms. Wren says: Let's decide what group 
+9 we want to put the permit in and have them do it for the Ellipse. 
+10 Were you --help me understand this message in the context of being hired by 
+11 Women for America First as your client --
+12 
+13 A 
+Q Yeah. 
+--but then telling Caroline Wren: Let's pick who we want to have the 
+14 permit and do the event? 
+15 A Sure. So, when I was using the words "let's decide" more in the global 
+16 sense, right? This is, I guess, a symptom of the unclarity between that internal conflict 
+17 with Cindy and the Kremers. And I don't recall, again, specifics of that conflict, but I 
+18 know that there was a lot of back and forth and, you know, who was actually going to be 
+19 the client that day. Was it going to be Amy and Kylie with Women for America First or, 
+20 you know, were they going to use another group that they were affiliated with? 
+21 And my understanding was that they were trying to get away from Cindy Chafian. 
+22 So, when I say, you know, something like that to Caroline Wren, she was --she had an 
+23 understanding of the drama and the conflict as well internally at Women for America 
+24 First. 
+25 So, when I text her that, it was kind of, like: All right, someone decide what  18 
+1 we're doing so we can move forward and actually submit this and have an event. 
+2 Obviously, we're coming up on New Year's Eve, so --
+3 Q So why did you ask --why did you, you know, seemingly say to Caroline 
+4 Wren: Hey, let's us decide this? What role did Caroline Wren hold that would've 
+5 made you go and say: Let's do this together? 
+6 A I would chalk this up to just poor usage of wording here, you know, almost 
+7 shorthand. It wasn't directed at her or her and I to make the decision. It was, I guess, 
+8 kind of out of frustration of, all right, let's decide, let's figure this out, you know. 
+9 So it wasn't us making the decision of whose group; it was more --the client has to 
+10 make a decision. 
+11 Q Well, so, during these initial days here, this time period between Christmas 
+12 and New Year's Eve, did anyone tell you who would be paying for these services? 
+13 A I don't recall exact conversation, but I will highlight that these days here, 
+14 obviously, this is right when the idea for the event was born was just a very fast-paced 
+15 time and a lot of people --Women for America First dealing with their drama and us 
+16 trying to get our ducks in a row to actually produce an event, which was taking place, 
+17 again, over a Federal holiday at the beginning of January, you know, on a national park, 
+18 whether that was, you know, Freedom Plaza or the Ellipse. 
+19 So I don't really recall that exact conversation because so much was going on in 
+20 that time period. I don't know when we discussed payment for the first time. 
+21 Q Well, let me just take a step back. 
+22 Ms. Wren's role with respect to the Presidential campaign had to do with finance 
+23 and fundraising, correct? 
+24 
+25 A 
+Q Correct. 
+And so did you understand that Ms. Wren, with respect to January 6th, was  1 helping to coordinate payment for putting on the event? 
+2 
+3 A 
+Q Yes. 
+So is it fair to say then that one of the reasons to include Ms. Wren in this 
+4 decision making is because she was, in effect, a way to ensure that the event could be 
+5 paid for? 
+6 A No. I don't think it's fair that that's why we included her in the 
+7 decisionmaking. Caroline as a fund raiser is often involved in Republican events, 
+8 especially large-scale ones, especially when there's a donor class that is coming to the 
+9 event. 
+10 So my understanding was that Caroline and the Kremers had an existing 
+11 relationship, and, you know, that's how Caroline came into the mix. My conversations 
+12 with her were, you know, normal. Caroline and I talk a lot and work together closely a 
+13 lot. 
+14 So, no, I don't think it's fair to say, like, that's why I included her in the 19 
+15 decision making process. It was just kind of normal operating procedure for her and I to 
+16 have overarching discussions about event production, logistics, and operations. 
+17 Q At some point in this time period, again, between Christmas and New Year's, 
+18 did you learn that Charlie Kirk or his organization, Turning Point, would help provide some 
+19 of the funding for January 6th? 
+20 
+21 
+22 
+23 A 
+Q 
+A 
+Q Yes. 
+And who made that connection for you? 
+Caroline Wren. 
+And did you also receive payments from Turning Point to cover the invoices 
+24 and the costs incurred for the January 6th event? 
+25 A Yes, sir.  1 
+2 
+3 Q 
+A 
+Q Did you also receive payments from Women for America First? 
+Yes, sir. 
+Did you know whether this money was coming from separate sources or 
+4 from a single source, ultimately? 
+I did not know. 20 
+5 
+6 A 
+Q How soon did the White House get involved in conversations with you about 
+7 the January 6th event? 
+8 
+9 
+10 A 
+Q I guess right around that end of December time period. 
+Let's take a look at exhibit 5, and zoom in. 
+Mr. Caporale, this is a text message you produced. It's my understanding it's a 
+11 text message between you and your parents. I'm not going to ask you any details about 
+12 them, but I'll just --if we scroll down on December 27th, 2020, the time stamp on this is 
+13 17:07, which is military time for 5:07 p.m., but I'll just note as a matter of, I think, the 
+14 technical production, because your attorneys are based in the central time zone, I think 
+15 it's possible that this was a text message actually sent at 6:07 of that day. 
+16 And the reason I say that is you can see there's a screen shot, a tweet, from the 
+17 President from that same date, that is, from an eastern time zone, I believe, from later 
+18 on. But anyways, that may become relevant in terms of looking at something in a 
+19 moment, but you can see here there's a screen shot of a tweet from President Trump on 
+20 December 27th: See you in Washington, D.C. on January 6th. Don't miss it. 
+21 Information to follow. 
+22 Do you see that? 
+23 
+24 
+25 A 
+Q Yes. 
+And, below that, you wrote: WH. 
+Does that mean White House?  1 
+2 A Yes. 
+Q Called me and asked if ESI was producing the rally on the 6th, then said 
+3 good, and 10 minutes later this tweet came out. 
+4 And you added: Looks like the 6th just got very large. 
+5 Was December 27th the first time that you got outreach from the White House 
+6 about the January 6th event? 
+7 
+8 
+9 A It appears to be correct. 
+Q Who from the White House called you? 
+A I don't recall if it was Bobby Peede or Max Miller, but the Office of 
+10 Presidential Advance. 
+11 
+12 Q 
+A Do you recall what that conversation was about? 
+Based on the text message you're showing me here, it was about if ESI, 
+13 myself and ESI were involved and contracted to provide the AV production and logistics 
+14 management of the event. 21 
+15 Q During that conversation, did you or anyone else raise the prospect of having 
+16 the President speak at the event on the 6th? 
+17 
+18 A 
+Q I don't recall the exact conversation that I had on the phone,_ 
+But is it fair to say that the White House would not have gotten involved if 
+19 there wasn't a possibility that the President would be speaking on the 6th? 
+20 
+21 
+22 A 
+Q Yes. That's fair to say. 
+Let's take a look at exhibit 6. 
+Mr. Caporale, these are call log records for the personal cell phone of Max Miller. 
+23 If we go down to --actually, maybe I can explain the captions at the top. You can see 
+24 the columns that we're going to see are --show "record open date/time," which I think is 
+25 self-explanatory, "called number" refers to the recipient of a phone call, and "CPN" is the  22 
+1 call placing the number, so the person who's dialing it, and S-O-U is an acronym that 
+2 essentially means the number of seconds that a phone call lasted. So 60 would be 
+3 1 minute. 
+All right. Let's scroll down to --that's great. Thanks- 4 
+5 So you can see here, December 27th, 18:23 East Coast time, so 6:23 p.m., there's a 
+6 592-second phone call placed from Max Miller to you. Is this consistent with your 
+7 recollection that this was the time period when people from the White House started 
+8 reaching out to you about the event? 
+9 
+10 A 
+Q 
+11 Is that right? 
+12 
+13 A 
+Q That appears to be correct. 
+Now, ultimately, Women for America First submitted a permit for the Ellipse. 
+Can you repeat the question? 
+Yeah. Ultimately --well, let me take a step back. When Women for 
+14 America First first reached out to you, where did they intend to hold their January 6th 
+15 event? 
+16 
+17 
+18 Plaza? A 
+Q Freedom Plaza was their identified location. 
+Now, what was your reaction to them wanting to have the event at Freedom 
+19 A I had an understanding that they wanted to invite the President to come and 
+20 speak. And, when that piece of information became known to me, I looked around 
+21 Freedom Plaza and knew that it was a site that wasn't suitable for Secret Service just 
+22 given the line of sight issues with the buildings around, and what we would have to do to 
+23 shut down the streets in order to get a sitting President to Freedom Plaza would have 
+24 been very difficult, disruptive. 
+25 Q So let's take a look at exhibit 7.  1 This is a text message you produced with Taylor Budowich. At this time --can 
+2 you just briefly give us the background on how you know Mr. Budowich? 
+3 A I met Taylor Budowich when we were on the Ron Desantis campaign in 
+4 2018. He was a member of that team, and that's how I first got to know him. And 
+5 then our working relationship continued in 2020 on the Donald Trump campaign. 
+6 Q So, for this time period in the week and a half or so leading up to 
+7 January 6th, what was Mr. Budowich's role in relation to helping to put on the 
+8 January 6th event? 
+9 
+10 A 
+Q Can you repeat the timeframe that you're asking? 
+Well, I'm just trying to distinguish to say we're really only looking at, from 
+11 the time that you got brought on by Women for America First through the event, what 
+12 was Mr. Budowich's role with helping to produce that event? 
+13 A In the beginning, he was --he didn't have an official role, and then his role 
+14 kind of evolved into helping oversee the promotional efforts behind the event. 
+15 
+16 Q 
+A But professionally where was Mr. Budowich affiliated at this time? 
+I don't know that he was affiliated anywhere. I don't know the answer to 
+17 that question. 
+18 Q But he wasn't working --he didn't work for ESI? 
+No, sir. 23 
+19 
+20 A 
+Q If we scroll down, it says, on December 29th, 2020, 13:49, which may be, you 
+21 know, 1 o'clock or 2 o'clock, close to it, depending on which time zone we're in here, but 
+22 Mr. Budowich texts you: Rally is at Freedom Plaza, right? 
+23 And the response is: Ellipse. Women for America First just submitted the 
+24 permit for the Ellipse. Freedom Plaza doesn't work for you USSS or POTUS. 
+25 That refers to United States Secret Service, right?  Yes. 
+Who made the suggestion to hold the event at the Ellipse? 
+I don't recall who made the exact suggestion. 
+Had you ever produced an event at the Ellipse? 
+Not to my immediate knowledge. 24 
+1 
+2 
+3 
+4 
+5 
+6 A 
+Q 
+A 
+Q 
+A 
+Q And when you say, Secret Service --or that Freedom Plaza doesn't work for 
+7 Secret Service, was that based on any conversations you had with Secret Service up until 
+8 that point? 
+9 A No, sir. It was just based on my experience in working with Secret Service 
+10 over time. 
+Q And if we take a look at exhibit 8. 11 
+12 This is a document produced by the Secret Service. If we scroll down to the 
+13 bottom, it's just a one-page email thread. The Secret Service policy in producing these 
+14 documents to us, Mr. Caporale, is to redact the names of any members of the service. 
+15 That's what those redactions are, but you can see here, December 31st, 9 o'clock in the 
+16 morning, a member of Secret Service emails Bobby Peede and Max Miller and essentially 
+17 is saying, you know: We're getting hit up from some of our counterparts regarding a 
+18 possible event on the Ellipse on 1/6. We haven't heard anything about this. And 
+19 they're asking to be looped in about the event. 
+20 And, if we go up, you can see that Mr. Peede responds, he writes it: Justin, can 
+21 you reach out to --and then the person's name --about setting up a meeting. 
+22 And then, if we go up to the top, you can see here that the --somebody from 
+23 Secret Service is asking --is saying thanks for the call, also on December 31st, and 
+24 basically providing contact information to people in the loop? 
+25 Does this reflect, to the best of your knowledge, the first time you had any  25 
+1 conversations with Secret Service about the January 6th event was on December 31st, 
+2 2020? 
+3 A To the best of my knowledge, yes. 
+4 Q Now, ultimately, Women for America First submitted their permit for use of 
+5 the Ellipse. Is that right? 
+6 A Yes. 
+7 Q Now, I'd like to talk to you about the level of support that you got from the 
+8 White House in making that decision. So if we take a look at exhibit 9, and, Mr. 
+9 Caporale, I'll just take a moment to acknowledge that we've been joined remotely b 
+10 -who's the chief investigative counsel for the select committee. 
+11 
+12 A 
+Q Yes, sir. 
+So exhibit 9, this is a text thread between you and Max Miller. Again, just 
+13 for convenience, we've produced --we're using the version that shows Max Miller as the 
+14 local user. So you're the user in gray, and Max Miller's texts are on the right in blue. 
+15 So, on December 29th, in the early afternoon, you write to Max Miller: Women 
+16 for America First's lawyer is submitting the permit in person right now. And then write 
+17 in all caps: HOLD. Don't call yet. 
+18 And then if you scroll down a little farther, Max Miller says: Oh, you duck. 
+19 just did. 
+20 What was this phone call --I mean, does this refer to a phone call you expected 
+21 Mr. Miller to make regarding a permit application? 
+22 A I don't recall the phone call that I was talking about in this text. 
+23 Q Well, do you recall generally Max Miller's assistance with coordinating the 
+24 submission of the permit for the Ellipse? 
+25 A Coordinating the submission, no. Max is --I will say this: You know, Max  26 
+1 was in the Office of Presidential Advance so working closely with them, it's standard for 
+2 the event producer, the event host to keep the Office of Presidential Advance completely 
+3 aware of what is happening with the event. So then the Office of Presidential Advance 
+4 can make decisions regarding the President's participation mainly, you know, scheduling, 
+5 what time does he need to be there, is the event actually happening, can we hold this 
+6 date. 
+7 Q Well, let's take a look at exhibit 5, which is back at Max Miller's phone 
+8 records and recall that this time period we were just looking at from your text messages 
+9 December 29th early afternoon, on exhibit 5, if we go to page 2, and we go down to 
+10 December 29th, in the early afternoon, right there in the middle of the page, you can see 
+11 there at 1500, there is an outgoing call from Max Miller to a number associated with 
+12 someone named Katharine MacGregor. 
+13 Mr. Caporale, do you know who Katharine MacGregor is? 
+14 
+15 
+16 
+17 A 
+Q 
+A 
+Q Not personally, no. 
+Are you aware of what position she held at this time? 
+I've heard her name, but I'm not aware of the position, no. 
+I can represent to you that during this time period, she was the Deputy 
+18 Secretary of the Interior Department, and it appears from these records that this phone 
+19 call in the early afternoon of December 29th is book ended by phone calls from you and 
+20 to you. 
+21 And so I'll just ask you directly, do you know if Max Miller reached out to the 
+22 Interior Department to help Women for America First secure their permit for the Ellipse? 
+23 A I do not know that for sure. I assume that he was working, you know, with 
+24 the Department of Interior to keep them updated on what was happening, you know, in 
+25 their national park. From where I was sitting during this process,_ I was working  27 
+1 incredibly closely with Amy Dailey from the National Park Service to submit the permit. 
+2 So, on our end, you know, I didn't really need any assistance with the actual permit itself. 
+3 Q Did you have any concerns at this time that the permit would not be 
+4 granted? 
+5 
+6 A 
+Q No. 
+And so you didn't have any conversations with Mr. Miller about just looking 
+7 for some extra assistance to ensure before you put in all this work that you'd actually be 
+8 able to have an event at this location? 
+9 A Again, my conversations with Max Miller were more about updating him on 
+10 process where we were. Any issues that I was having, yes, I did let Max know, and that's 
+11 kind of, you know, standard in what we do. So, no, I didn't make that phone call with an 
+12 assumption that, you know, anything would happen. 
+13 Again, at that time, we had been doing very detailed conversations with National 
+14 Park Service about the requirements on the Ellipse. So, by the time we submitted the 
+15 permit, you know, Amy Dailey and the superintendent and Marissa Richardson (ph), you 
+16 know, were working closely with us, knew the permit was going to be submitted, and 
+17 providing us guidance, you know, on its approval. 
+18 So I was confident when our client submitted that permit that we were going to 
+19 receive an approval. 
+20 Q But it is fair to say that this involvement of the White House keeping things 
+21 whatever --however, it may have been, helping to coordinate logistics for this event, 
+22 again, was all with the mind towards this is the way possible to have the President speak 
+23 at the January 6th event? 
+24 
+25 Mr. Brothers. Objection. Vague. 
+- Do you understand the question?  28 
+1 The Witness. No. Can you repeat the question, please? 
+2 So I'm just trying to confirm, again, that the level of coordination you 
+3 had with Max Miller and folks in the White House was with a mind to ensure that the 
+4 President could come speak at the January 6th event? 
+5 
+6 
+7 
+8 
+9 Mr. Brothers. Same objection, still with the mind who you're referring to,_ 
+Q 
+A 
+Q BY 
+Mr. Caporale, do you understand the question? 
+Not quite, no. 
+I'm asking you to confirm that the reason that you are in touch with Max 
+10 Miller to coordinate logistics is because the organizers would like to have President 
+11 Trump come speak at the event. Is that right? 
+12 
+13 A 
+Q Yes. That's correct. 
+Thank you. Let's take a look at exhibit 10. 
+14 This is an email you can see here from a personal email account associated with 
+15 Max Miller, but this email shows --it was sent by you on December 29th, 2020, in the 
+16 evening to Robert Peede and Max Miller, both at gmail addresses. 
+17 And it says here that below you're listing some rules and regulations for the 
+18 Ellipse, some of them are expected, and then you go on to explain, you know, largest 
+19 concern is that National Park Service will not allow us to build out in the vista sight line 
+20 running directly down the center of the Ellipse. 
+21 Why did you send this message to Max Miller and Bobby Peede? 
+22 A As members of the Office of Presidential Advance, I wanted to keep them 
+23 updated, again, on the event planning and production and any issues that I was running in 
+24 to. 
+25 Q And why did you send it to their Gmail addresses rather than their White  29 
+1 House accounts? 
+2 A I don't recall. I mean, this came from my Gmail so it's likely that that's the 
+3 addresses that popped up for them. 
+4 Q Now you're aware that employees of the White House are not supposed to 
+5 use their official White House methods of communication to coordinate political events. 
+6 Is that fair? 
+7 A I'm not aware of that exact rule that I can confidently say yes to that 
+8 question. 
+9 Q Well, I'll just ask you, did your use of personal contact information for folks 
+10 who were working at the White House have anything to do with whether this was an 
+11 official White House event versus a political event? 
+12 
+13 
+14 A 
+Q 
+A No, sir. 
+But, in your view, was this an official White House event? 
+In my view, it was an event hosted by Women for America First that the 
+15 President was invited to attend. 
+16 
+17 Q 
+A So not an official event being put on by the White House? 
+Yes. That was my understanding; it was not an official event put on by the 
+18 White House. 
+19 
+20 Q Let's take a look at exhibit 11. 
+If you --just scroll down briefly. I don't remember if there's something 
+21 below this to look at. 
+22 Here we go. This email thread relates to that issue that you identified in 
+23 exhibit 10, the vista sight line, I believe. Is that right? 
+24 
+25 A 
+Q Yes, sir. 
+And here there's an email, December 31st, 12:35 p.m., from you to Amy  30 
+1 Dailey making --the subject line is "request for consideration." 
+2 You write: Hi, Amy. Following up from my phone call to request consideration 
+3 and approval of the following. And there's two items. Number one is that, referring to 
+4 the 2019 menorah lighting with the National Menorah Council, they had a site layout that 
+5 looks as if it was justified inside the sight line vista. I'm seeking approval for waiver to 
+6 build our stage out within that vista. 
+7 And then the second issue I won't read but has to do with the placement of a 
+8 chain-link fence that surrounded the White House Christmas tree. If we scroll up, you 
+9 can see here that this message is forwarded --keep going up,-- to Max Miller about 
+10 7:49 p.m. on New Year's Eve and you write to Max: Here's what we're getting right now 
+11 for stage placement. This is what it was for the menorah's lighting. 
+12 And you forwarded what appears to be a response that says, essentially, we can 
+13 offer you the same position afforded to the rabbi in 2019, but my understanding is that, 
+14 at this time, the Park Service was not allowing you to build directly in the center of the 
+15 sight line vista. Is that correct? 
+16 A That is correct. I had some objections with how they defined the rabbi's 
+17 stage positioning in 2019, but, yes, that's correct. 
+18 Q What was your understanding of this sight line vista tradition that the Park 
+19 Service was trying to maintain? 
+20 A My understanding at the time that it wasn't a tradition --oh, I'm sorry --it 
+21 was a tradition to keep that line of sight vista completely clear from the Truman Balcony 
+22 to the Jefferson Monument, and that was kind of my full understanding of it. 
+23 Q And so was it conveyed to you that the Park Service was not going to allow 
+24 you to build --to obstruct that entire sight line vista with the stage build-out for the 
+25 event?  1 
+2 A 
+Q I mean, can you repeat that question? I'm sorry. 
+I'm just trying to get a sense of what the state of play was when you're 
+3 making these requests for consideration from the Park Service on New Year's Eve? 
+4 A Sure. Sure. To the best of my recollection, when I was talking with, you 31 
+5 know, Amy Dailey in making these requests for consideration, it was more of not a strict 
+6 no; it was more of: Well, we've never done this before. This is not something that 
+7 we've done. It's not something that we typical do. 
+8 So when it wasn't a no, I continued the conversation with Ranger Dailey of, you 
+9 know, well, is there any consideration that the National Park Service would provide us 
+10 given the current state of the Ellipse construction, Christmas trees, things of that nature. 
+11 Q So, with this --in response to this request for consideration, am I correct to 
+12 understand that this text here that's quoted and forwarded to Max Miller, that's the park 
+13 service's response to your request. Is that right? 
+14 
+15 A 
+Q I would say that's correct. 
+Okay. Now, but is it fair to say that this --affording the same position as 
+16 the rabbi in 2019 and also saying that we can't allow you to move the fence, which is 
+17 what the second paragraph says, why wasn't that satisfactory to you from a production 
+18 standpoint? 
+19 A If I recall this correctly, there was two main reasons why where the rabbi 
+20 stage wasn't going to work. One of them was, I believe, there were standing water in 
+21 that west quadrant of the Ellipse at that point, and the other was where they wanted it 
+22 was basically on the steam pipe tracks underneath the Ellipse, and our production plans 
+23 called for a rather large mobile stage. 
+24 So placing a stage like that on top of ground that has steam pipes under it would 
+25 have been ill-advisable from a production standpoint and certainly a National Park Service  32 
+1 standpoint. 
+2 So they offered me the position of the rabbi's stage, but, again, we were happy for 
+3 that, but it wasn't going to work logistically given the production equipment we were 
+4 bringing in. 
+5 Q Well, how about the visual presentation of the rally? Was that a 
+6 consideration? 
+7 
+8 A 
+Q Yeah, of course. 
+And so, if it were not in the center of the Ellipse, you wouldn't have the 
+9 White House in the background at least center framed in the stage. Is that right? 
+10 A We wouldn't have the White House in the background, and we wouldn't 
+11 have been placed, you know, in appropriate location on the Ellipse to facilitate, you know, 
+12 an efficient and organized crowd management. You know, being in the center of land 
+13 just it helps make everything more organized and symmetrical. 
+14 Q Let's take a look at exhibit 9 --this takes us back to text messages with Max 
+15 Miller --and go to page 3. 
+16 So, on page 3 here, December 31st, in the mid-afternoon, so I believe this is 
+17 maybe before this email correspondence is forwarded, Mr. Miller writes to you: So it's a 
+18 resources issue with the fence. Offered to pay and reposition it. That was her lame 
+19 excuse. 
+20 Do you know who he was talking about regarding "her" in this text message? 
+21 
+22 A 
+Q I would assume Amy Dailey based on my followup. 
+And --right. So you write back: I did. She said no. We cannot allow 
+23 another part --maybe party --but part to move our fencing as it would present a host of 
+24 liability concerns. 
+25 So you're keeping Mr. Miller in the loop on this ongoing discussion to try to get an  33 
+1 accommodation for the sight line. Is that fair to say? 
+2 A I'm keeping him updated is, again, normal operating procedure as the Office 
+3 of Presidential Advance knowing where we were in terms of producing the event and the 
+4 vision. 
+5 
+6 
+7 
+8 Q Let's scroll down,. 
+And here Mr. Miller writes: Just saw your email. I'll fix it. 
+What did you understand Mr. Miller to mean when he said, "I'll fix it"? 
+A I don't know that I understand exactly what he meant, but, again, I assumed 
+9 that he was working with his colleagues at the Department of Interior, which is something 
+10 that, you know, I'm aware of that has happened many times in the past. 
+11 For example, the convention was held across multiple national parks, and I knew 
+12 that the Department of Interior was involved there because the President was visiting and 
+13 participating in an event in a national park. Same thing with Mount Rushmore. 
+14 So I assumed he was speaking with the Interior when he says "I'll fix it." You 
+15 know, I can't comment on exactly what I thought he meant there. I just don't --I don't 
+16 know. 
+17 
+18 Q Let's take a look at exhibit 12. 
+Now, I'll tell you, you're not on this email. This was an email thread produced by 
+19 the Interior Department. And, if we go down --there's two emails on this. On 
+20 January 1st, so New Year's Day, about 6 o'clock p.m., Katharine MacGregor --you can see 
+21 from the email signature is the Deputy Secretary for the Department of the 
+22 Interior --she's writing a group of people asking: Could you please send me the 
+23 regulation handbook citation or internal guidance regarding permitting within the sight 
+24 line of Washington Monument in President's park? I need today, if possible. 
+25 If you go up, the response comes from Margaret Everson, who I can tell you at this  34 
+1 time period was the Acting Director of the National Park Service. So nationwide. She 
+2 writes back: My understanding, and I am copying John Stanwich to confirm, is that we 
+3 have not memorialized the practice in any documents that you listed below. There is 
+4 reference to the sight line in the original Olmsted Plan. And I will ask by way of this 
+5 email he send us all a copy. 
+6 Mr. Caporale, were you aware that the Deputy Secretary and the Director of the 
+7 National Park Service were looking into the sight line issue at this time? 
+8 
+9 A 
+Q I don't recall if I was unaware of those specifically. 
+Well, did you know --you mentioned that it's common to involve the Interior 
+10 Department for advance work if the work calls for it, if you're going to be using Park 
+11 Service land. Is that --I don't want to mischaracterize it, but I think that's essentially 
+12 what you said? 
+13 
+14 A 
+Q Yeah, no. That is correct. 
+Is it common for high-level leadership within the Department of Interior to 
+15 be involved in running down those issues? 
+16 A I guess I don't have enough experience working internally to know if it's 
+17 common for certain level of employees to be involved. I can tell you that I recently had 
+18 experiences --well, our team did; I didn't personally --with ESI at a National Park Service 
+19 for Senator Dole's funeral, you know, where my understanding is the White House, you 
+20 know, and the Department of Interior got involved to make sure that Senator Dole's 
+21 event could be produced in a way that he envisioned it. 
+22 
+23 
+24 Q 
+A 
+Q Were you involved in that event you mentioned for Mount Rushmore? 
+No, sir. 
+So you don't know what level of communication was had for an event that 
+25 the President was speaking at with the Interior Department?  1 
+2 A 
+Q No. 
+Let's take a look at exhibit 13. 
+3 And we might need to zoom in a little bit on this. 
+4 This is a --produced from Max Miller, and you can see here, it is January 1st, at 
+5 about 7:21 p.m., from you at your personal gmail account to him at his personal gmail 35 
+6 account and regarding the line of sight vista. And the email starts, "Take two," and then 
+7 it appears to be a draft email to Superintendent Stanwich. 
+8 Can you tell us what this email that you sent to Max Miller is about? 
+9 A The email that you're showing me now was the email I prepared to send to 
+10 Superintendent Stanwich in order to continue to request consideration to build our stage 
+11 and our event site out within the line of sight vista. This email was compiled under, you 
+12 know, advisement with Amy Dailey, you know, at 7 o'clock at night or sometime in that 
+13 time period, on January 1st. 
+14 So, again, this is me just keeping max in the loop as a director of Presidential 
+15 advance: These are the steps I'm taking to try to rectify the issue that I'm having.  1 
+2 [9:59 a.m.] 
+3 BY 
+4 
+5 Q 
+A And you said Amy Dailey had a role in helping you prepare this? 
+Yes. Amy Dailey and I worked incredibly close together throughout this 
+6 entire project. 
+7 Q So what role did she have with respect to drafting this request to 
+8 Superintendent Stanwich? 
+9 A Her role was, you know, affording me the opportunity to speak with her 
+10 about these considerations and kind of have the back and forth of, you know, okay, we 
+11 all --the National Park Service has concerns about the line-of-sight vista. I have 36 
+12 logistical and operational concerns about where we're placing the stage given the unique 
+13 circumstances of the Ellipse, the construction, the Christmas tree fence, the standing 
+14 water, the steam pipes. 
+15 So Amy and I had a nice back and forth about, you know, is this --is this something 
+16 that we can do and here are some of the points that should be highlighted when you're 
+17 speaking to the superintendent. 
+18 So at this point in time, my understanding was Amy, Ranger Dailey was starting to 
+19 understand, you know, why I was requesting this for consideration. So I talked to her 
+20 about the situation at hand and then drafted this email and showed it to Max as an FYI. 
+21 Q So you've mentioned now a couple of times issues with steam pipes and 
+22 standing water. 
+23 And we can --- can you put that back up, please. 
+24 We can take a moment to allow you to review. Does this draft email that you 
+25 sent to Max Miller on the evening of January 1st mention standing water or steam pipes?  37 
+1 And we can make it bigger if we need to. 
+A Yeah. Can we scroll down a little bit, please. 
+No, it does not. 2 
+3 
+4 Q So at 7:00 p.m. on January 1st, you weren't advising, or you weren't planning 
+5 to advise on issues related to the steam pipe or standing water. Is that fair to say? 
+6 A It's fair to say, but I remember verbally talking about those two things, along 
+7 with a multitude of other issues, -or sir. So, yes, this email does not reflect that, 
+8 but those were major components in the conversations between myself and the National 
+9 Park Service. 
+10 Q Now, I'll just note for you before we move away from this exhibit that you 
+11 did not produce this email to us. Do you have any idea why we would not have received 
+12 this email from you in your production to the select committee? 
+13 A No, sir, I do not. When I searched my emails, I used the date range through 
+14 both in-boxes, so, no, I'm unsure why this didn't come through my production. 
+15 Q Let's take a look at exhibit 14. And just to be fair to you, Mr. Caporale, we 
+16 can go down to the bottom of this exhibit. I think you have had a chance to review this, 
+17 but we can certainly let you take a look at it. 
+18 That's a little too far. 
+19 This is, I believe, ultimately the email that you did send to Superintendent 
+20 Stanwich on the evening of January 1st. 
+21 -if we can just show the portion that has the beginning of the email. Sorry, 
+22 -I mean the beginning of Mr. Caporale's email to John Stanwich making the request. 
+23 There you go. Great. 
+24 And so does this reflect the request that you made to John Stanwich at about 8:00 
+25 in the evening of January 1st?  38 
+Yes. 1 
+2 A 
+Q Okay. And if we scroll down, this is where I say I just want to be fair to you, 
+3 I think that the email does mention issues with the steam pipe if we keep going. Right. 
+4 Right there in the middle of the page. 
+5 A Yeah. 
+6 
+7 
+8 
+9 
+10 Q 
+A 
+Q 
+A 
+Q Do you see that? 
+Yes, sir. 
+Eliminating potential damage or obstruction to the steam line track system. 
+Yes, sir. 
+So we just saw what appeared to be a draft email sent to Max Miller at 
+11 about 7:00, and now we have an email sent to Superintendent Stanwich about 8:00. Do 
+12 you know how these additional justifications to make the request ended up being added 
+13 to that request to be sent to Superintendent Stanwich? 
+14 
+15 
+16 
+17 
+18 
+19 
+20 A 
+Q 
+A 
+Q 
+A 
+Q 
+A I don't know exactly, no. 
+Did you get input from Max Miller about what you should say in the email? 
+No. I got input from Amy Dailey at National Park Service. 
+And ultimately, the superintendent granted your request. Is that right? 
+That's correct. 
+The very same evening, on New Year's Day, right? 
+To be honest, I don't recall exactly when that request came in, but that 
+21 general time period, yes. 
+22 Q Sure. And we can just scroll up to the next email that's within the same 
+23 thread here. So you can see here January 1st, 21:53, so almost 10:00 at night on New 
+24 Year's Day, same day you sent the request. Does this refresh your recollection that 
+25 Superintendent Stanwich granted your request the same evening you made it?  39 
+1 A Can we scroll down a little bit so I can just reread that email? I'm going to 
+2 assume, yes, that's correct. 
+3 Q Let's go ahead and take a look at page 4 of exhibit 6. I may have 
+4 misspoken. I believe I should have said exhibit 9. Looks like we're having some Adobe 
+5 issues. 
+6 Mr. Greim. Hey, -are you good, after you get this pulled up and ask your 
+7 questions on it, taking our first break? 
+8 Sure. Why don't we just go ahead and take that break now while 
+9 we figure out --just let the computers catch up for technical purposes. 
+10 
+11 Mr. Greim. Okay. So now, do we --do I want to leave this meeting? 
+Yeah. Let's --well, hold on. Let's --it's 10:08. Let's just go off 
+12 the record. 
+13 [Recess.] 
+14 BY 
+15 Q Mr. Caporale, before we took a break we were reviewing the email traffic 
+16 with the Park Service granting your request for consideration to set up in the center of 
+17 the vista sight line. Do you remember that? 
+18 
+19 A 
+Q Yes, sir. 
+Let's take a look at exhibit 9 at page 3. Sorry, page 4 of exhibit 9. And we 
+20 can zoom in. These are your text messages with Max Miller again. 
+21 I guess, maybe go up one page. Here we have Friday, January --sorry. Too far. 
+22 To the bottom there. 
+23 Friday, January 1st, 19:29, you wrote to Mr. Miller, Sent another draft. And his 
+24 response was, Launch it. Does this reflect that you were coordinating with Mr. Miller 
+25 what the request for consideration was going to be to the Park Service?  40 
+1 A I think it reflected I was keeping Mr. Miller abreast of the steps I was taking 
+2 to request consideration for the issues that I was having. 
+3 Q But when you say "sent another draft," do you mean, Hey, Max, I've sent you 
+4 another email? 
+5 
+6 
+7 
+8 
+9 mean? A 
+Q 
+A 
+Q Oh, yes, sir. That would --go ahead. 
+I didn't mean to interrupt. 
+No, please. 
+And so, in response, when he says, Launch it, what did you take that to 
+10 Send i A 
+Q So he had reviewed --did you understand then he had reviewed your email 
+12 and he thought it was good to send? 
+13 
+14 
+15 
+16 A 
+Q 
+A 
+Q I guess I took that as, you know, he acknowledged receiving it. 
+When he said "launch it," he's telling you, I've received your email? 
+I received it. Good to send, so, yes, is the answer to your question. 
+Okay. And then the next message down here at about 10:00 p.m., Friday, 
+17 January 1st, you write to Mr. Miller, "Permission has been officially granted. I just sent 
+18 you the correspondence to your Gmail." 
+19 So here it seems like you are acknowledging you're sending an email to his Gmail 
+20 account. I'm curious if there's, in your mind, when you're sending these emails, a 
+21 reason why you would send to Gmail versus a different email address? 
+22 
+23 
+24 A 
+Q No, sir. 
+Let's scroll down farther so we can continue the conversation. 
+Here Mr. Miller writes, "Ahahahsh, ahahahhs, ahahahaha." And you write back, 
+25 LOL. It means laugh out loud, right?  1 
+2 A 
+Q Yes, sir. 
+And he writes back, "God, I'm going to miss this." And you wrote back, 
+3 "same. Just means we need a bunch of money now to make things go away." 
+4 I understand you guys are friends and there's nothing wrong with sharing a joke. 
+5 I'm just curious what it was that --explain to me the context of what you understood he 
+6 was saying he was going to miss and what your response means? 
+7 A In terms of Mr. Miller's response going to miss this, my understanding was 
+8 producing events, you know, for the sitting President of the United States, being 
+9 forwarded the opportunity to work on national parks. That was my understanding of 
+10 what he meant by that. 41 
+11 Q And when you wrote, "We just need a bunch of money now to make things 
+12 go away," what's that mean? 
+13 A That means we would no longer be working in the White House or in the 
+14 government after this, so our jobs as event producers, you know, take a little bit different 
+15 turn. If we're not working with the National Park Service or an organization like that 
+16 where we have good partners in helping us produce events, there has to be other, you 
+17 know, alternatives to make considerations. 
+18 Q So when you say, "make things go away," is it fair to say that you're 
+19 acknowledging there was some assistance from the White House to help resolve the 
+20 problem of the sight line vista, and in the future, because we won't be in the 
+21 White House, we'll have to have other means to solve problems when we're putting on 
+22 events? 
+23 A I honestly can't confirm what I meant by that text message. It was clearly a 
+24 poor choice of words on my part in trying to be humorous, but I really can't recall what 
+25 my mindset was when I sent that text.  42 
+1 Q So, you know, two messages down where Mr. Miller says, No more calling 
+2 dep secs or having people call secretaries. Did you understand what he meant by that? 
+3 A Not by that specific text message. And as I referenced earlier, like I had a 
+4 general understanding that he was in contact with his colleagues at the Department of 
+5 Interior. 
+6 Q And you wrote back, "We were saved by a wall and a Christmas tree. 
+7 Nothing is more Trump than that. And a few well-placed phone calls, but the wall and 
+8 the tree ranked." What did you mean by well-placed phone calls? 
+9 A My phone calls that were placed to Amy Dailey and Superintendent Stanwich 
+10 and Marisa Richardson about the request for consideration. I worked incredibly closely 
+11 with Amy Dailey throughout this entire process, and was as transparent as I could 
+12 possibly be about why we were making these requests for consideration. Given some of 
+13 the unprecedented, you know, construction, the Christmas tree, you know, replacement 
+14 of the wall around the White House, you know, those were unprecedented 
+15 circumstances, you know, at the time. 
+16 Q Let's take a look at exhibit 4, and we'll go to page 15 of exhibit 4. This is a 
+17 text thread you produced, your text messages with Kylie Kremer. And page 15, she asks 
+18 you, in the middle of this, and I'll tell you, this is from January 4th, she's sending you 
+19 pictures of the buildout on the Ellipse, and she asks, "Can I say it's historic where it's being 
+20 held because it hasn't been done since the 1800s or no?" And your response was, "Nah, 
+21 let's not bust their balls." 
+22 Did you know what she meant by "hasn't been done since the 1800s"? 
+23 A I'm assuming that that meant that it hasn't been done since the 1800s. You 
+24 know, we knew that National Park Service was making a consideration for us based on 
+25 the circumstances of the Ellipse.  43 
+1 Q Right. And I guess, though, I should have been more specific. When she's 
+2 saying "it hasn't been done," did you know what she meant by "it"? 
+3 
+4 
+5 to? A 
+Q I'm sure I did, and by "it," it meant the placement of the stage. 
+Okay. And when you say let's not bust their balls, what were you referring 
+6 A Not taking a victory lap given, you know, that our considerations had been 
+7 granted. I have a lot of respect for our national parks and our National Park Service. 
+8 And given my working relationship with Amy Dailey and Superintendent Stanwich and 
+9 Marisa Richardson, I didn't want to give an impression that I wasn't fully appreciative and 
+10 respect the approval that they gave us. 
+11 Q Understood, and I appreciate that. Let's move on. Mr. Caporale, during 
+12 the planning for the January 6th event, did you hear anyone suggest that rally-goers 
+13 should march or walk to the Capitol following the President's speech? 
+14 A In the early days of the planning around that end-of-December timeframe, 
+15 you know, it was discussed that it would include a march. And after consulting and 
+16 working with the National Park Service, we decided not to move forward with planning, 
+17 you know, a march from the Ellipse to anywhere. 
+18 
+19 
+20 Q 
+A 
+Q When you say "it was discussed," who were those discussions with? 
+The National Park Service. 
+Sorry, it sounded like you said it was discussed that there might be a march, 
+21 and then you had consultations with the Park Service. Were there discussions about a 
+22 march before you brought it up with the Park Service? 
+23 A There were --I don't recall the exact discussions, no. But I remember 
+24 talking with the Park Service about it during the permit and application process under the 
+25 general question of, you know, what is the vision for your event.  44 
+1 Q Let's go ahead and take a look at exhibit 3, and this might refresh your 
+2 recollection a little bit. Exhibit 3 are your text messages with Caroline Wren. And if we 
+3 go to page 7, she sends you an image with a question right there in the middle. And we 
+4 can zoom in a little bit. This is December 29th, about 2:00 in the afternoon. She 
+5 writes, any updates from WH on your end? And you write back later that evening, 
+6 schedule proposal will work its way around tomorrow. Noon seems to be a good time. 
+7 Then maybe a call to action to march to the Capitol and make noise. 
+8 Did you have conversations with people in the White House about having a call to 
+9 action to march to the Capitol and make noise? 
+10 
+11 A 
+Q No, not to my recollection. 
+So where did you get this information that you sent to Caroline Wren about 
+12 a call to action to march to the Capitol and make noise? 
+13 A I would really view my response at 10:50 as two separate conversations. 
+14 So, the scheduling proposal will work its way around about noon, noon seems to be a 
+15 good time, that was in reference to any updates from the White House on your end. 
+16 And then maybe a call to action to march to the Capitol and make some noise is referring 
+17 to the discussions we as planners were having with the National Park Service to see if that 
+18 would be something that would even be possible given the timeframe that we had to 
+19 plan. 
+20 Q So my question is, whose idea was it to have a march to the Capitol and 
+21 make noise? 
+22 A I don't recall whose idea it came from. It was, again, conversations with 
+23 the client at that point. You know, their event was branded, March for Trump, and it 
+24 had been for the year leading up to it. So, it was part of those natural discussions, well, 
+25 should we, you know, submit a permit for a march and coordinate that end of things.  45 
+1 Q I think we've established that by this point you had been in touch with folks 
+2 from the White House. That text message you sent to your parents was December 27th, 
+3 2 days before, and this is the same day, December 29th, that you're texting Max Miller 
+4 about Women for America First submitting the permit for the Ellipse. Was anybody in 
+5 the White House conveying to you plans about having a call to action to march to the 
+6 Capitol and make noise at this time? 
+7 
+8 A 
+Q No, sir. 
+Why don't we take a look then at exhibit 15. This is from --this is a text 
+9 message that you produced. KP is Katrina Pierson, and the other person on the thread 
+10 is Taylor Budowich. And on January 3rd, at 10:10 in the morning, Ms. Pierson texts, 
+11 "WH has not approved these speakers. I was asked to modify, and I'll send over a new 
+12 draft to you guts" --I think it's a typo for "guys" --"and POTUS." And then she writes, 
+13 "POTUS expectations are intimate and then send everyone over to the Capitol." 
+14 So by this time, were you aware that the White House, or representatives from 
+15 the White House, were considering sending rally-goers to the Capitol following the 
+16 President's speech? 
+17 A My awareness was limited to, you know, receiving a text message like this. 
+18 But I was, you know, never given official instructions by my client or anybody to 
+19 coordinate a march, to plan a march, and we didn't. 
+20 Q Okay. You say you were never given any instructions from your client to 
+21 plan or coordinate a march? 
+22 
+23 A 
+Q No. 
+So what was the December 29th message to Caroline Wren about a call to 
+24 action to march to the Capitol and make noise about? 
+25 A I'm sorry, if I can, let me be a little bit more clear. So in the text message  46 
+1 that you're referring to earlier in late December, that's when the conversations were 
+2 happening between myself and the client, is do we want to include a request for a march 
+3 in our permit process. 
+4 During that late December time period, we would host calls with National Park 
+5 Service every morning that included, you know, members of Metro PD and Park Police, all 
+6 the relevant authority members in the permitting process. Sometime in that late 
+7 December, I don't remember the exact date, it became very clear that, given the 
+8 timeframe we had to plan, you know, the manpower that it would take and the resources 
+9 that it would take, that we --we were not going move forward with planning a march. 
+10 So in that time period, you know, we decided, the client decided that they no 
+11 longer wanted to pursue that, and that we would focus our attention on the event on the 
+12 Ellipse and in our permitted area. And that's what we did. 
+13 So the reference I'm saying is, after the client decided we're not going to move 
+14 forward with this permit process, they never once came back to me and said, Hey, we 
+15 would like to revisit the march, we would like to submit the permit, we would like to 
+16 coordinate a march or plan a march. Our --we were laser-focused on inside of that 
+17 Ellipse and our permitted area. So, I hope that provides more clarity to what I meant. 
+18 Q I think it does a little bit, and maybe if we take a look at exhibit 16, it will 
+19 provide additional context to what you just said. Exhibit 16 is an email, you can see here 
+20 at the top, Amy Dailey, who you've mentioned, ranger with the Park Service, sending to 
+21 you on December 30th in the morning, here is the email that I sent to Kylie this morning 
+22 and talks about some details that I don't think are relevant to what we're talking about 
+23 right now, flooring material and Verizon maybe for some kind of cables for media. 
+24 But if we scroll down, the email that she sent to Kylie indicates there, number one, 
+25 right, and she's confirming, my view of this as, is recapping a conversation they had  47 
+1 previously. And the number one point says, you indicated that your plan is to remain on 
+2 the Ellipse and not use Freedom Plaza. You further indicated that you did not intend to 
+3 march to the U.S. Capitol. 
+4 And just for the record, there is highlighting on this exhibit. I believe it was 
+5 added by the select committee on review of the exhibits. It was not originally 
+6 highlighted when it was produced. 
+7 So is that consistent with your recollection that, by December 30th, Women for 
+8 America First had decided there would not be a march as a part of their event? 
+9 
+10 A 
+Q Yes, sir. 
+Okay. So now let's go back to that Katrina Pierson text on exhibit 15. So 
+11 this is 4 days later, January 3rd, talking about POTUS expectations are intimate, and then 
+12 send everyone to the Capitol. Did you tell Ms. Pierson we're not putting on a march? 
+13 A I don't believe I even acknowledged that she had sent me that text message, 
+14 because I didn't view her as the client at that point. 
+15 
+16 
+17 Q 
+A 
+Q Why don't --
+And I just want to put --please, go ahead. 
+Oh, well, scroll down. The response following that text message from you 
+18 to her is, "great news." So I understand she's telling you two different things there in 
+19 her messages to you, but I'm just trying to understand from your perspective as a project 
+20 manager when your clients have expressly disclaimed doing any march to the Park 
+21 Service, and then Katrina Pierson says, "POTUS expectations are to send everyone to the 
+22 Capitol," did you have a reaction to that that you can recall in terms of whether or not 
+23 there would be a march? 
+24 
+25 A 
+Q Not a reaction that I can recall, no. 
+Do you know why it was that Women for America First was avoiding --or not  48 
+1 avoiding. That's not the right word. Do you know why Women for America First 
+2 declined to do a march on January 6th? 
+3 A To the best of my recollection, it was a decision made based on the amount 
+4 of manpower, planning, logistics that would go into coordinating that march. And I, you 
+5 know, would just like to state again that this time period, you know, over a Federal 
+6 holiday, right after a Federal holiday, it was very difficult for the client to execute that 
+7 based on the requirements from the National Park Service. 
+8 Q So maybe just --let's quickly talk about what those logistics might have 
+9 looked like to coordinate a march. What kinds of things would've needed to be put in 
+10 place? 
+11 A Bike rack, signage, Porta Potties, you know, medical resources, you know, 
+12 required for standard permitting in any event really, things of that nature, the sheer, you 
+13 know, volunteers, staff to oversee it. There was a lot that was going into that, and, you 
+14 know, as you can see, our production on the Ellipse was not insignificant. 
+15 So if we're looking at both of those things, you know, my recommendation to the 
+16 client was, you know, we should focus on our event on the Ellipse, and I think the client 
+17 understood that. And then, again, our relationship with the National Park Service, you 
+18 know, they were very upfront with us in saying, You know, we can do this. If you want 
+19 to put the application in, it will be granted consideration. However, please acknowledge 
+20 that your timeframe for planning is extremely limited. 
+21 Q So in terms of the logistics to coordinate a march it's --you might --you just 
+22 tell me if this is right --would you need volunteers to help guide people where they 
+23 should be going? 
+24 
+25 A 
+Q Yes. 
+Same thing with bike racks to help direct foot traffic?  1 
+2 A 
+Q Yes, sir. 
+And you'd probably want to coordinate with law enforcement so that they 
+3 were aware of heavy foot traffic on the roads, right? 
+4 
+5 A 
+Q Yes, sir. 
+And you mentioned first aid. It's possible that with large people moving 49 
+6 from one location to another you might need to have medical services available. Is that 
+7 right? 
+8 A Yeah. Oftentimes permits based on the amount of people expected 
+9 require certain things when it comes to medical services available on site, the number of 
+10 Porta Potties that are available, access to water. So a lot of those requirements are 
+11 dictated through the permit process. 
+12 Q And ultimately, like we said, Women for America First declined to organize 
+13 any kind of formal march, right? 
+14 
+15 A 
+Q That's correct. 
+And so, to your knowledge, from Women for America First's perspective, 
+16 none of those logistical considerations were put into action for January 6th? 
+17 
+18 A 
+Q That is correct. 
+But January 3rd, Katrina Pierson says, POTUS expectation is to have a march 
+19 to the Capitol. But to the best of your knowledge, was there any effort from any other 
+20 group to coordinate those kinds of logistics that would enable a safe march to the 
+21 Capitol? 
+22 
+23 A 
+Q No. 
+Were you aware that Women for America First at one point was planning to 
+24 have a second stage at the Supreme Court on January 6th? 
+25 A I'm aware that a second stage was discussed in passing, but I wasn't aware  50 
+1 that it was Women for America First or what group. 
+2 Q What was your understanding of this passing discussion of a second stage of 
+3 the Supreme Court? 
+4 A I honestly don't recall,_ I was so laser-focused on that event on the 
+5 Ellipse that I just kind of blocked everything else out. There was a lot going on at that 
+6 time period. 
+7 Q I understand that. Let's take a look at exhibit 17. This is an email from 
+8 Katrina Pierson to Taylor Budowich and Caroline Wren. So you're not copied on it, but 
+9 I'm showing it to see if it's something that maybe somebody else had spoken to you 
+10 about. 
+11 If you see down below, she's --I think she's sharing a Google document, Google 
+12 spreadsheet of some kind. But she writes, "Hey, guys. I spent the better part of the 
+13 day on the phone with these organizers and was able to get a little guidance from the 
+14 White House." 
+15 And I should also note, the subject line is, "1/6 Speaker Schedule," and it includes 
+16 an attachment that is of the same name. 
+17 And she indicates, Green marks are those who are already confirmed speaking on 
+18 the 5th. The red marks are suggested to move to the 5th and/or SCOTUS. Yellow 
+19 marks either don't pass vetting or there may be an issue to explore. 
+20 And then she writes, "Number four, POTUS expectations are to have something 
+21 intimate at the Ellipse and call everyone to march to the Capitol. This actually works out 
+22 because Ali's group is already setting up at the Capitol and SCOTUS is on the way. 
+23 "Number five, I think we should secure a SCOTUS stage and have the higher 
+24 profile, more serious policy speakers, who are not speaking on the 5th, speak there right 
+25 after POTUS on the way to the Capitol."  51 
+1 So I know you're not on this email, but having seen this, did anyone talk to you or 
+2 share with you that this second SCOTUS stage was a way to have additional speakers who 
+3 might not otherwise get a chance to speak at an event on January 6th? 
+4 
+5 A 
+Q I didn't know that much detail, no. 
+If we go to exhibit 18, this is --if we zoom in a little bit so we can see better. 
+6 I'll tell you, this is a text message between Taylor Budowich and Katrina Pierson. So 
+7 you're not on this, but you're mentioned here at the --on January 3rd. She writes to 
+8 Taylor, I'm going to finish the schedule today and we'll edit. What did Justin say about 
+9 SCOTUS? And a couple of texts down, Taylor writes back, "SCOTUS is doable but just 
+10 needs time. Problem isn't stage, it's sound, especially if you have thousands." 
+11 So do you recall Ms. Pierson or any of the other organizers for this event asking 
+12 you to look into having a stage or an additional event at the Supreme Court? 
+13 A I don't recall the actual person that brought it up to me, but I do remember 
+14 at some point somebody asking, can ESI support another event? And my immediate 
+15 answer was, no, we cannot. 
+16 Q So what was your understanding ultimately of the conclusion, if you knew 
+17 one, what Women for America First was going to do at the Supreme Court on 
+18 January 6th? 
+19 
+20 A 
+Q I don't know that I had an understanding of that. 
+So did you know that they were planning to ultimately have that event even 
+21 if ESI wasn't involved? 
+22 
+23 A 
+Q No, I did not. 
+And Katrina Pierson, in an earlier message, mentioned Ali. Did you know 
+24 Ali Alexander and groups affiliated with him were planning to have an event on the 
+25 Capitol Grounds on January 6th?  52 
+1 A I don't know that I knew that for certain. I can't recall, you know, ever 
+2 being told that or acknowledging it or anything. So I can't answer that with a yes 
+3 because I don't know. 
+4 Q Let's take a look at exhibit 19. This is a text thread that is between Kylie 
+5 Kremer and Mike Lindell. Are you familiar with who Mike Lindell is? 
+6 
+7 A 
+Q Yes, sir. 
+So on January 4th, at 9:32 a.m. --we may need to zoom in a bit. I think it's 
+8 the large block there. We can just zoom in on that. 
+9 Mr. Lindell is asking, can you check the times for me to speak tomorrow. This is 
+10 an January 4th. And in response, Ms. Kremer writes, about the second paragraph, "This 
+11 stays only between us. We are having a second stage at the Supreme Court again after 
+12 the Ellipse. POTUS is going to have us march there at the Capitol. It cannot get out 
+13 about the second stage because people will try and set another up and sabotage it. It 
+14 can also not get out about the march, because I will be in trouble with the National Park 
+15 Service and all the agencies, but POTUS is just going to call for it," and she puts in quotes, 
+16 "unexpectedly." 
+17 "POTUS is confirming speaking schedule for Ellipse and we should have by COB 
+18 today. If anyone tells you otherwise, it's not accurate info. Only myself and Katrina 
+19 know full story of what is actually happening and we are having to appease many people 
+20 by saying certain things." 
+21 Did you know about this --I don't want to mischaracterize it, but it appears to the 
+22 reader, to me, Ms. Kremer is suggesting there's a secret plan to have a stage at the 
+23 Supreme Court. Did you know anything about this plan that Women for America First 
+24 was putting together on January 4th? 
+25 A No, I did not.  1 Q And so you weren't aware then that the Kremers, after having disclaimed 
+2 doing the march, were planning to then have people march after the President called 
+3 them to do it? 
+4 
+5 A 
+Q No, I did not. 
+She mentions in quotes unexpectedly, that the President will just call for it 53 
+6 unexpectedly. And of course, in the context this message she's saying this 2 days before 
+7 the speech is even going to happen. During the course of your discussions in 
+8 coordination with people from the White House, did anybody tell you that the President 
+9 was going to make an impromptu call for people to go to the White House? 
+10 A Not that I recall, no. 
+11 
+12 Q This --thanks. We can take that exhibit down. 
+This gets into a dynamic that I think we have discussed previously in our earlier 
+13 conversation with you in November, so we can maybe summarize some of this. But is it 
+14 fair to say that by January 6th, you understood that there had been an effort to limit who 
+15 would be allowed to speak on stage at the Ellipse on January 6th? 
+16 A Yes, that's fair to say. And my involvement with the speakers was looking 
+17 at the list and seeing a large timeframe of people speaking. It was like 7:00 in the 
+18 morning until dark. And when I saw that people were speaking for 1 minute, I knew that 
+19 that was an issue. No one speaks for 1 minute. So my response to that was, yeah, we 
+20 definitely need to limit this and cut it down so we can have an actual stage program. 
+21 Q But you also knew that there was conflict between different organizers 
+22 about whether people should even be allowed the stage to speak with the President, 
+23 right? 
+24 A I knew that there was conversations about who was going to be approved to 
+25 speak, who --you know, a lot of people requesting to speak that day. My colleague,  54 
+1 Megan Powers handled the day-to-day in compiling the most recent drafts of everything, 
+2 so I can't speak about, you know, the actual details of those conversations. But like 
+3 many --like every event, we'll say, especially those when a sitting President or 
+4 high-ranking government official are there, it's not abnormal for many, many, many, 
+5 many people to request to speak, and have to go through that consideration process. 
+6 Q So let's take a look at exhibit 29. Exhibit 29 is an email from Taylor 
+7 Budowich to Caroline Wren, and it's in response to an email that Caroline Wren wrote to 
+8 a group, and this is all happening on January 2nd. I think we might have --Mr. Caporale, 
+9 are you still there? 
+10 Let's go off the record for a minute. 
+11 [Discussion off the record.] 
+12 BY 
+13 Q Let's go back on the record. All right. We very briefly had a technical 
+14 glitch, and Mr. Caporale appears to have resolved it, so his video is working again. 
+15 We're looking at exhibit 29, which is an email from Taylor Budowich to Caroline 
+16 Wren in response to an email she sent on January 2nd, 2021, where she's asking, can we 
+17 go ahead and publicize the following speakers on the website? And you can scroll down 
+18 briefly. It's a fairly long list of speakers. 
+19 You can see it's listing folks, Donald Trump, Jr., Kimberly Guilfoyle, Eric Trump, 
+20 Amy Kremer, Katrina Pierson, Rudy Giuliani, Boris Epshteyn, but it goes on to list other 
+21 folks including --Ali Alexander is listed on there, and we see Brandon Straka and Scott 
+22 Presler. We go a little further down and we see Roger Stone as well. 
+23 So let's scroll back up to the top of this email here. And Taylor writes to 
+24 Caroline, "I thought my text was clear earlier. Gonna help Kat and Justin if they need it, 
+25 but this isn't what I agreed to help on --a separate event limited to the family, Ken Paxton  55 
+1 and Rudy as speakers and organizers as attendees. Ali Akbar and Alex Jones are 
+2 destructive to what the President is working toward and terrible for Don and Kim to share 
+3 a stage with. I don't want to be involved with that." 
+4 Now, I know you're not on this email, Mr. Caporale, but I'd like to ask you, did 
+5 Mr. Budowich ever share the concerns that he's raising in this email with you? 
+6 A Before I answer that question, I just want to make note that I'm getting a 
+7 message from Cisco about my connectivity to this meeting. So if I drop again, I 
+8 apologize, and if that happens, I will switch networks over to my hot spot. But I'm 
+9 scared to close this out, so that's what I'm seeing on my end. 
+10 
+11 Q 
+A Okay. 
+To answer your question, I'm sure it was brought up to me in passing in 
+12 conversations just given, you know, how I speak regularly and often to people like Taylor 
+13 Budowich and Caroline Wren. Alex Jones' and Ali Alexander's names get thrown around 
+14 a lot, so I can't recall a specific conversation in which we discussed that. 
+15 And, again, I'll highlight that I kind of removed myself from the day-to-day of the 
+16 speakers, the compilation of the speakers list. You know, that was handled by my 
+17 colleagues as I focused on, you know, the production and logistics behind everything 
+18 coming in and out of the Ellipse. 
+19 Q So let me make sure I understand, and don't let me get it wrong. You were 
+20 aware that people were raising concerns about speakers like Ali Alexander or Alex Jones, 
+21 but you were not involved in decision-making on that because you were only concerned 
+22 with logistics for the event? 
+23 A I was --I was aware that there were many conversations regarding approval 
+24 of speakers on that stage that did include, you know, Ali and Alex Jones. My 
+25 decision-making, well, I delegated that down to one of my colleagues to handle the  56 
+1 day-to-day conversation. And what we were concerned about was the logistics behind 
+2 the stage program, how many people are speaking, how many --how much time is 
+3 allotted to each of them, you know, do they need a teleprompter, things of that nature. 
+4 So that's kind of how myself and my team looked at the speakers list and the 
+5 importance of it. To us, no, we didn't approve or request or, you know, get involved in 
+6 those decision-making. That was left to the client. We were more involved with the 
+7 logistics behind it. 
+8 You know, for another example, I needed to know if, you know, like a --like 
+9 Representative Cawthorn was going to be included. You know, that entails some 
+10 additional logistical products that we need to bring in --I'm sorry, some additional 
+11 equipment that we need to bring in to facilitate that. So that was our role in the 
+12 speakers list and the why we were involved and why a member of my team was 
+13 delegated to be a part of those conversations. 
+14 
+15 
+16 Q 
+A 
+Q Was that Megan Powers? 
+Yes, sir. 
+So my question is not about whether you were involved in the 
+17 decision-making, but my question is about your awareness of concerns about, as Taylor 
+18 Budowich put here, destructive. Let me just ask you differently. Did Mr. Budowich 
+19 ever tell you he thought that Ali Akbar or Alex Jones were destructive? 
+20 
+21 
+22 A I don't recall him ever using those exact words to me, no. 
+Q Let's take a look at exhibit 20. 
+A _, I'm going to X out of this Cisco Webex meeting alert just so I can 
+23 see the exhibits more clearly. Unsure what's going to happen when I press this X 
+24 though, so just bear with me, please. Okay. Am I still here? 
+25 Q Yep, we still got you.  1 
+2 A 
+Q Thank you. 
+So I'm going to take you back to the days leading up to the January 6th 
+3 event. Did you know that Katrina Pierson was planning to meet with people at the 
+4 White House about the final run of show for the January 6th event? 
+I don't recall if I knew that at the time or not. 57 
+5 
+6 A 
+Q But before January 6th, did you, at some point, become aware that she had 
+7 spoken with President Trump about who would speak at the event? 
+8 A Based on the text message that you showed me earlier, yes, I guess, I was 
+9 aware. But I --I knew she was saying it, but I didn't know that the meeting had actually 
+10 happened. 
+11 Q So this is a text message between Katrina Pierson and Max Miller, January 
+12 4th, about 4:00 in the afternoon. Mr. Miller texts to Ms. Pierson, "You did a great job 
+13 killing some of those speakers." And she writes back, "Hallelujah, praise the Lord Jesus, 
+14 amen. Hahaha, crushed it, but, man, he thinks a million people are coming." And if 
+15 you keep scrolling down on this, she writes, "I tried to help manage expectations. And 
+16 Mr. Miller writes, "You did. Just glad we killed the National Guard and a procession." 
+17 Did Mr. Miller or Ms. Pierson ever talk to you about a meeting in the dining room 
+18 off the Oval office with the President on January 4th? 
+19 
+20 A 
+Q No, not that I recall. 
+Did anyone ever recount for you a meeting that they had about the event 
+21 with President Trump at any time? 
+22 
+23 A 
+Q I can't recall anybody bringing that to my attention or making me aware of it. 
+Do you see there a procession is mentioned. Did anyone talk to you about 
+24 efforts to stop the President from trying to walk to the Capitol after the Ellipse event? 
+25 A No, sir.  1 Q Did you ever suggest that the President should lead a march, or join the 
+2 march, to the Capitol from the Ellipse? 
+3 
+4 A 
+Q No, sir. 
+Let's go to January --sorry, exhibit 21. This is a text message with you, as 
+5 you produced this with Taylor Budowich. And you can see here January 5th, you're 
+6 talking about how many people have registered for the event. We scroll down, Taylor 58 
+7 asks you, who is in charge now? You? And you wrote back, Katrina, but also things are 
+8 starting to get better with CW and everyone else. 
+9 What are you referring to in terms of getting better with CW? 
+10 A There was a lot of drama between, you know, the organizers during this time 
+11 period, Caroline Wren, the Kremers, Katrina, Cindy Chafian. Just when I refer to getting 
+12 better that we stopped spending a majority of our time talking about the drama and went 
+13 back to our actual jobs, which was to produce this event. 
+14 Q Taylor writes back, okay. "I guess the fear is that there's an attempt to fall 
+15 back to CW's original lineup that POTUS nixed, and people are allowed on stage prior to 
+16 the approved program. Is that a concern you have or worried about?" And in 
+17 response, you wrote, "Nope, no one is allowed on stage other than what POTUS signed 
+18 off on." 
+19 So does this refresh your recollection that you knew the President had approved 
+20 the final run-up show for January 6th? 
+21 A Yeah, I guess that's fair. And I apologize if I answered that unclearly earlier. 
+22 You know, I had the assumption, but based on what people were telling me, and those 
+23 people were not, I guess, official White House employees. So I was trusting what they 
+24 were saying, and I'll reference that text from Katrina earlier. 
+25 So, like, yes, I had an understanding that that's how it was going, but I can't  59 
+1 confirm that, you know, the President is looking at lists and actually approving. 
+2 physically never saw him do that or participated in any meetings where, you know, he 
+3 was a part of those discussions. So I'm trusting, you know, secondhand sources. 
+4 
+5 
+6 Q 
+A 
+Q And the CW referenced here, did you understand that to be Caroline Wren? 
+Yes. 
+If we scroll down a little more, Taylor writes, "I was just on with Katrina. 
+7 Just be wise about pins. Only way to really ensure control. We know how DJTFP rallies 
+8 can get. This is that times 10,000 'cause no one actually works for anyone after 
+9 tomorrow." 
+10 DJTFP, that's Donald J. Trump for President, right? 
+11 
+12 
+13 
+14 
+15 mean? 
+16 A 
+Q 
+A 
+Q 
+A Correct. 
+So that's referring to campaign rallies? 
+Correct. 
+So when Taylor says just be wise about pins, what did you understand him to 
+The pins he is referring to are the Secret Service SARGE pin systems, and 
+17 those pins are designed to grant access levels at events where Secret Service is present 
+18 and protecting them. What I understood that to mean was, you know, make sure that 
+19 the folks who are working the event and part of the event have pins so they can do their 
+20 jobs. 
+21 But also at this point, you know, who was given a pin is always a major topic of 
+22 conversation at Secret Service events so that's not an uncommon thing for somebody to 
+23 tell me. You know, make sure you're not giving pins to too many people. I'm limited 
+24 to, you know, I think it's 20 pins, you know, please don't quote me on that, so it's not like 
+25 we can just give them out willy-nilly.  60 
+1 So I took that as just the general thing that people always say to me before a 
+2 presidential event, Oh, you know, just be judicious of who you're giving pins to, because 
+3 like speaking on the stage, everybody wants a pin. Most people don't understand what 
+4 the pins mean. They just know it's, you know, a cool thing to have at a Secret Service 
+5 event. 
+6 So I didn't view that as something abnormal. You know, we're always very 
+7 careful of who would get pins. And honestly, at the end of the day, it's really a decision 
+8 that Secret Service approves or denies with the pins. 
+9 Q Yeah, I understand the importance of just being cognizant of who gets a pin 
+10 at these events where Secret Service is present, but this is coming up in the context of a 
+11 text about concerns over a fallback to Caroline Wren's original lineup, and he's saying, 
+12 this is the only way to really ensure control. So isn't this actually about more than just 
+13 the normal course of how pins should be judiciously handed out? 
+14 A Yes and no. I mean, yes, in terms of pins should be judiciously handed out 
+15 so only the folks that need access levels to places like backstage have them. In this 
+16 regard, yes, Taylor is saying, you know, we don't want to have somebody pinned that we 
+17 don't trust to maintain the plan that's been, you know, agreed upon. 
+18 Q Did you hear anybody raise concerns about the possibility certain speakers 
+19 or --would rush the stage at the Ellipse on January 6th? 
+20 A I don't recall anybody ever bringing that concern to me. You know, 
+21 "rushing" the stage is a big word. You know, I just don't recall having that specific 
+22 conversation. You know, I recall having conversations about the amount of people that 
+23 wanted to speak and we have one approved list, because I was involved in saying, you've 
+24 got to cut it down, you have to cut it down. So I knew, again, that there were a lot of 
+25 people that wanted to speak and that there would be an approved speakers list, you  61 
+1 know, handed to me by my client at some point when it was, you know, ready. 
+2 Q Well, let me ask you just nuts and bolts, right. At an event like this 
+3 where --tell me if I'm wrong --to get on stage you'd have to go through an area where 
+4 you'd either have to have a pin or be accompanied by somebody with a pin, right? 
+Yes, that is correct. 5 
+6 A 
+Q Okay. So if you're trying to maintain control of who can get on the stage at 
+7 this event, it matters very much whether a person who wants to speak is themselves 
+8 pinned, or they have someone who is pinned that can get them to the stage, right? 
+9 
+10 A 
+Q That's correct. 
+So is that why you're saying, Listen, I'm controlling this --I'm paraphrasing it, 
+11 but you're reassuring Taylor, I'm controlling this, no one is getting on the stage that I 
+12 don't let on the stage? 
+13 
+14 A 
+Q That's correct. 
+Okay. So let's go to exhibit 22. This is a text message thread that you 
+15 produced. It's from --so the text messages on the left are from Katrina Pierson to you. 
+16 She texts at about 5:43 in the morning on January 6th, "Is there a plan to keep those 
+17 people off the stage or should I call COS to elevate?" Do you know who she meant by 
+18 "those people"? 
+19 
+20 
+21 A 
+Q 
+A I would assume those who were not approved to speak in the general sense. 
+And what does COS mean to you? 
+Chief of Staff.  1 
+2 [11:10 a.m.] 
+3 BY 
+4 Q So did you --do you understand her to be saying "I can call Mark Meadows 
+5 about this if I have to"? 
+6 
+7 A 
+Q Yes. 
+If we scroll down a little farther, she says: Just spoke to Max. Said I can 62 
+8 start escorting people out and pulling credentials. If things get worse, we'll bring on COS 
+9 and POTUS. I'll pull everything from back there if I have to. No one has time for this, 
+10 especially after last night. 
+11 Do you know what she's referring to about last night? 
+12 
+13 A 
+Q No, sir. 
+Do you recall being told about a conflict over who was holding physical VIP 
+14 credentials for the Ellipse event? 
+15 
+16 A Yes, sir. 
+Q And then she writes: I want Caroline's cronies out. If you want to keep 
+17 Maggie, fine. 
+18 And he said: Don't pin Caroline. And if we need to pull pins, I'll let him know. 
+19 So, when you read this, he said "don't pin Caroline," do you understand Ms. 
+20 Pierson's instructing you don't give Caroline Wren a pin that would give her access to the 
+21 secure area? 
+22 
+23 
+24 
+25 A Yes. That's what I understand her text message to mean. 
+Q Did you ultimately give a pin to Ms. Wren? 
+A Yes, I did. 
+Q Did you remember receiving this text message from Ms. Pierson before you  63 
+1 gave Ms. Wren a pin? 
+2 A Obviously, I received it, but I can't recall, you know, when I read it, when I 
+3 received it, what I was doing. We were already, you know, at work at that point in the 
+4 morning, so --
+5 Q So my question is, actually, when you gave the pin to Caroline Wren, at that 
+6 moment, did you know Katrina Pierson didn't want Caroline Wren to have a pin? 
+7 
+8 A 
+Q I don't know if I knew in that moment, no. 
+Now, ultimately, you mentioned drama. It sounds like there were a lot of 
+9 personalities to navigate in a compressed time period. So understand that. 
+10 Ultimately, there was a conflict that required law enforcement to --it didn't require law 
+11 enforcement; someone called park police to come. Do you recall that? 
+12 
+13 
+14 
+15 
+16 
+17 
+18 A 
+Q 
+A 
+Q 
+A 
+Q 
+A I do. 
+Do you know what that conflict was about? 
+I believe that the conflict was about the seating section. 
+Okay. And do you know who it was between? 
+Caroline and Kylie and Katrina played a role in it as well. 
+Now, did you witness any of that argument or the police response? 
+Yes. Someone called me to come backstage. I don't remember if it was 
+19 Katrina or Kylie or the Park Police, but I witnessed it and, you know, talked with the law 
+20 enforcement officer and Kylie Kremer about the situation that was going on. 
+21 Q And just tell us what you remember about, sort of, what Ms. Kremer said to 
+22 you and how it was resolved? 
+23 A Yes. What I remember is showing up to that situation, and I don't 
+24 remember what Kylie was saying to me at that point, but it was just an extension of the 
+25 drama that we'd been experiencing for the past couple of days leading up to it.  64 
+1 My best recollection is that I kind of stopped Kylie immediately and asked her to 
+2 reconsider, to stop being a brat, and let everybody get back to work managing the event 
+3 that was already under way. 
+4 
+5 Q 
+A And how did it resolve with law enforcement? 
+Caroline remained on site and performing her duties. I believe Kylie did as 
+6 well, and law enforcement, you know, departed the situation. 
+7 Q Let's take a look at exhibit 23. 
+8 This is a text thread between Katrina Pierson and Max Miller, and it kind of 
+9 provides some of --an additional sort of set of perspectives on the events that we've 
+10 been discussing here. If we start at the bottom of that first page, Katrina Pierson writes 
+11 to Max Miller: Can we keep Caroline out? 
+12 And the next page shows that, at 6:46 a.m., on January 6th, Ms. Pierson again 
+13 writes: Seriously, what are my options? 
+14 And Mr. Miller responds: Don't pin her. 
+15 And she writes back: I haven't slept, still putting out her fires. She's not 
+16 pinned. She got Maggie pinned. Can I pull that? She's going to try and get Roger 
+17 Stone on the stage. I'm not going to embarrass POTUS, can't have it. 
+18 Mr. Caporale, did Ms. Pierson convey to you her concern that Ms. Wren was going 
+19 to try to get someone on stage that would embarrass the President? 
+20 A Outside the text messages that you've referenced for me, you know, I guess 
+21 that was my level of awareness. I don't recall an exact conversation, you know, that 
+22 Katrina and I had about her concerns or what was going to happen with the stage, so I 
+23 can't recall a specific time where I had that conversation with her. 
+24 Q If we go to the third page of this thread here, she says: I'm so furious I 
+25 need options. I don't know how far she will go today after the USSS situation. Should I  1 call Mark? 
+2 
+3 And Mr. Miller writes back: We can pull her credential. 
+And Ms. Pierson says: Okay. That's an option. Ali is nuts and I think they'll 
+4 rush the stage. I've seen them before. 
+5 
+6 
+7 Mr. Miller responds: Rush the stage --with three question marks. 
+She says: Yes. 
+In response, Mr. Miller says: Tim Unes is controlling OSA. Justin will be back 
+8 there as well. 
+9 What is OSA? 
+10 
+11 A 
+Q Offstage announce. 
+And then she writes back: Alex Jones tried at our last one and someone 65 
+12 jumped up and too --too I think maybe took --the mic out of his hands. They are nuts. 
+13 So, again, specifically, did anyone raise concerns about Ali Alexander or Alex Jones 
+14 getting on stage and embarrassing the President? 
+15 
+16 A 
+Q I don't recall that exact conversation, no. 
+But do you recall Ms. Pierson raising concerns specifically about Ali 
+17 Alexander or Alex Jones at the Ellipse event? 
+18 A Not that I recall, no. Katrina raised a lot of concerns that day, but most of 
+19 them based in drama. So I got to be honest with you,_, like, Katrina was saying 
+20 a lot of things and a lot of them were rooted in drama. And I don't think that they were, 
+21 you know, based in reality. 
+22 Q And, if we go to page 6 --actually, maybe go up to page 5, and we'll go to 
+23 where Mr. Miller says: Do we have our own security? If so, get whose name on the 
+24 permit to have security escort her out. 
+25 In response, Ms. Pierson says: I have the permit. Okay.  66 
+1 And Mr. Miller says: If your name is on it, you can have security give her the 
+2 boot. 
+3 And she says: Wasn't sure what the options were. I need this resolved now so 
+4 things can go smoothly. 
+5 Mr. Miller responds: Or you can call Mark and see if he can talk to Don to talk to 
+6 you know who --to talk you know who down to get rid of her today. 
+7 And then Katrina says eventually: Making the call. She's blocking program 
+8 speakers. 
+9 And then, halfway down, she writes: Have it on hold, but the officers are there. 
+10 I'm almost there --maybe --there's some typos. But then she writes: Justin is 
+11 freaking. 
+12 Sounds to me like, from your explanation, you showed up to try to resolve this, 
+13 but what was your state of mind when you're called to handle this? 
+14 A My state of mind at that point was frustration with the drama, you know. 
+15 As you can see from this text message, Katrina clearly spent a good portion of that 
+16 morning, you know, talking about drama, creating drama instead of doing her actual job. 
+17 So, when I show up backstage and I have, you know, multiple members of the 
+18 team that is supposed to be working just dealing with drama, that is a frustrating moment 
+19 for me. 
+20 Q Understood. During this drama between Women for America First, you 
+21 know, Katrina Pierson, the Kremers on one time and it appears Caroline Wren on the 
+22 other, did Ms. Wren ever threaten to withhold payment during the course of these 
+23 discussions with you? 
+24 
+25 A 
+Q No. 
+So you didn't have any concern about how to resolve it to make sure that ESI  67 
+1 was still going to be compensated for its services? 
+2 A No, sir. I want to be clear: My concern was rooted in the success and 
+3 organization of the event to fulfilling, you know, the requirements that we agreed to with 
+4 National Park Service. 
+5 
+6 stage? 
+7 
+8 Q 
+A 
+Q Ultimately, during the event, did you have to intervene to keep anyone off 
+Not to my knowledge, no. Not that I remember. 
+Was there anybody who was brought back with somebody who had a pin 
+9 who you had to find, you know, a way to say, hey, that person can't be back here? 
+10 
+11 A 
+Q Just not a specific situation that I recall doing that. 
+As a separate question, we know that there were some elected officials on 
+12 varying drafts of the run of show that evolved in the days leading up to January 6th. Do 
+13 you know who was responsible for reaching out to members of Congress to ask them if 
+14 they would speak? 
+15 
+16 A 
+Q No, I do not. 
+Were there any elected officials that were lined up to speak, but that, you 
+17 know, turns out on the morning of January 6th, to your knowledge, weren't able to get on 
+18 stage? 
+19 
+20 
+21 A 
+Q I'm sure there were, but there's not a specific situation that I can recall. 
+Let me --I think there's maybe one example from text messages. 
+If we go to exhibit 25, this is a text message that you produced. It's with a Zach. 
+22 I think initials are ZR. 
+23 
+24 
+25 A 
+Q 
+A Uh-huh. 
+Do you know who that is? 
+Yes.  1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 Q 
+A Is that Zack Rugen (ph)? 
+No, sir. 
+Q Okay. Who is ZR? 
+A Zack Rutherford. 
+Q And who is Mr. Rutherford? 
+A A friend of mine that I met through, you know, the political world. 
+Q Okay. Professionally, was he --what was his job on January 6th? 
+A He was an attendee, to my knowledge. I saw him in passing walking, you 
+9 know, through the crowd. 
+Q Okay. What does Mr. Rutherford do for a living? 68 
+10 
+11 A Right now --right now, I believe he works on a campaign, but I can't say that 
+12 with certainty. 
+13 Q Okay. To the best of your knowledge, what was he doing for a living on 
+14 January 6th? 
+15 
+16 A I do not know. 
+Q Okay. So this text message on January 6th says: They're taking Lauren 
+17 Boebert back. 
+18 Do you know why Mr. Rutherford would have known about the whereabouts of 
+19 Congresswoman Boebert on January 6th? 
+20 A When I recall seeing Mr. Rutherford, he was kind of sitting in the front row. 
+21 So I guess he would have been able --he would've had a clear line of sight to who was 
+22 going backstage and who was not. 
+23 Q Okay. So, on January 6th, was he a part of somebody's --this is not a trick 
+24 question. 
+25 A No.  69 
+1 Q I'm just trying to understand professionally was he a member of somebody's 
+2 staff, was he working for a campaign, was he working for a PAC, or you literally just don't 
+3 know what he was doing for a living on January 6th? 
+4 A I literally do not know. My relationship with Zach Rutherford is more 
+5 personal than professional. 
+6 Q Okay. So, if we scroll down further here, the response, later on in the day, 
+7 you write back: Sorry. We had to tell her the speaking line up changed. Crazy day. 
+8 
+9 Is that in reference to Congresswoman Boebert? 
+A I would assume so, but I don't recall that actual conversation or being a part 
+10 of it. So, yes, I said this to him, but I don't know that I was present for that moment, I 
+11 don't really recall, you know, ever seeing or talking to Lauren Boe be rt that day. It's very 
+12 possible that I could've. It's very possible I knew that that happened, but I can't recall 
+13 the exact moment in time or how it went down. 
+14 Q Now, on the morning of January 6th, when people are going on stage, was 
+15 there any need to adjust on the fly to add in additional speakers, reconfigure the 
+16 schedule, that kind of thing? 
+17 
+18 
+19 A 
+Q 
+A Yes. 
+Okay. And what was the reason for needing to do that? 
+The speakers line-up kept evolving up to and during the event, which, again, 
+20 is not something that's, you know, abnormal. 
+21 Q Do you know who made a decision to have Rudy Giuliani speak at the Ellipse 
+22 on January 6th? 
+23 A To my recollection, I don't know who made the decision, but I was --I 
+24 became aware that Mayor Giuliani was going to speak through Max Miller. 
+25 Q We can take a look at exhibit 9 and go to page 12 of that exhibit.  70 
+1 And maybe, actually, if we go up just to the bottom of page 11 here. This 
+2 is --Max Miller text to you --sorry --you can stay at the bottom: Rudy is a go. 
+3 And this is about 10 a.m. on January 6th, and we can keep going down. And Max 
+4 says: Eastman will go up with him and not speak. 
+5 
+6 And he writes: Vernon is fine. 
+And then the response from you back to Mr. Miller is: Rudy is on the phone at 
+7 the Willard. His security is going to have a hard time getting him around because he's so 
+8 late. I'm trying to work with everyone to maybe get him in. 
+9 So does this reflect morning of attempts to fill speaking spaces or walk me 
+10 through the process of how Rudy Giuliani ends up --isn't on the speaking list and then 
+11 you're coordinating to get him from the Willard? 
+12 A I don't have the knowledge of how he ended up on the speaking list, you 
+13 know. You can see this text here. That was kind of my understanding, my limited 
+14 understanding of he's approved, get him on stage. 
+15 Q Okay. I want to ask you very briefly about some of the signage. There 
+16 was an exhibit that we sent to your attorneys last night, and if you didn't have a chance to 
+17 review it, we can look at it now, but this is exhibit 30. And this is an email chain with a 
+18 vendor I think Ace Specialties. Are you familiar with Ace Specialties? 
+19 
+20 A 
+Q Yes, sir. 
+Okay. And Ace Specialties, they may do other things, but one of the things 
+21 they do is they print signs, right? 
+22 
+23 A 
+Q Yes, sir. 
+All right, and if we go down to, I think, there are some images further down 
+24 here that maybe show some proofs of signs. There's a Women for Trump sign and then 
+25 further down there's a sort of multi-layout: Stand with Trump, Save America, and Stop  1 the Steal. 
+2 Do you see those? 
+3 
+4 A 
+Q Yes, sir. 
+Did the signs that are shown here get printed and distributed at the 
+5 January 6th rally? 71 
+6 A I recall seeing the "save America" signs, but I can't confirm if any of the other 
+7 ones ended up making it or being distributed. 
+Q So you don't know if "stop the steal" signs were distributed at the rally? 
+9 I do not know. A 
+12 
+13 events. Q 
+A 
+Q 
+A 
+Q Do you know whose idea it was to have these signs? 
+Not specifically, no, but rally placards are very common for these type of 
+And ESI paid the invoice to this vendor for these signs. Is that right? 
+I would have to review, you know, our financial documents to confirm that. 
+And do you know --well, from your experience having worked on the Trump 
+16 campaign and at other events, had "stop the steal" signs been used at previous Trump 
+17 events? 
+18 
+19 
+20 
+21 A 
+Q 
+A 
+Q Not that I have knowledge of. 
+Do you know why people wanted to use that phrase on signs? 
+Not that I have knowledge of. 
+Do you know if anyone specifically requested that phrase to be used for the 
+22 January 6th event? 
+23 
+24 
+25 A 
+Q Not that I have knowledge of. 
+All right. I promise we're getting close to the end here. 
+So let me ask you some questions about security. How was security managed for  72 
+1 the Ellipse event? 
+2 A There's several levels of security. Obviously, the United States Secret 
+3 Service played the leading role in designing a site that protected the President. Women 
+4 for America First had an existing relationship with a security company, and they were 
+5 contracted as well to help provide, you know, guest management type services inside the 
+6 Ellipse. 
+7 Q Let's take a look at exhibit 26. This is a text message that came from Kylie 
+8 Kremer, and it's with a group of folks affiliated with the Women for America First bus 
+9 tour, but you can see if we go down a little further, there's a reference to, I think, from 
+10 Jennifer Hulsey --keep going. Here we go. 
+11 Jennifer Hulsey writes, January 2nd, at 1 o'clock in the afternoon: Just talked to 
+12 Justin. Can we get 50 volunteers? 
+13 And there's a response back from Charles Bowman: Let me check. To be clear, 
+14 10 Marshalls and 40 volunteers? 
+15 And she says: 10 Marshal ls and 50 volunteers. Let me know if you can't get to 
+16 50. 
+17 Do you remember having conversations with Women for America First organizers 
+18 about having volunteers for the event? 
+19 A I don't remember the specific conversation, but, yes, we would've had that 
+20 conversation. 
+21 
+22 Q 
+A And what's the job for volunteers at an event like this? 
+To act as an extension of kind of the guest management team, you know, 
+23 provide way finding, be greeters, you know, make sure if someone needs to find a rest 
+24 room or food or water, that we can help them get to where they need to go. 
+25 Q Was there ever an instance where you thought these volunteers might be  1 used for security purposes at the Ellipse event? 
+No, sir. 
+Do you know who Charles Bowman is? 
+I do not. 
+Do you remember having any conversations with a Charles Bowman? 73 
+2 
+3 
+4 
+5 
+6 A 
+Q 
+A 
+Q 
+A It's very likely that I did, but I don't --I don't know or I don't remember those 
+7 conversations. His name does not ring a bell to me. I couldn't pick him out of a 
+8 line-up. 
+9 Q Okay. And, if we go up here, we see that Mr. Bowman ultimately sends a 
+10 list of, you know, several names, including a Jeremy Liggett, L-i-g-g-e-t-t, and others: 
+11 Robinson, Hernandez, Clark. 
+12 For volunteers, do you know if there's any vetting done for who's selected to be a 
+13 volunteer for these kinds of events? 
+14 A Most of the time, there's not vetting done unless that volunteer is required 
+15 to be in a secure location. 
+16 Q And so there would not have been a way for you to know, as the person 
+17 requesting volunteers, whether any of these individuals were associated with a militia 
+18 organization or paramilitary group like the Three Percenters or Oath Keepers or that kind 
+19 of thing? 
+20 
+21 A 
+Q No, sir. 
+Now, during the President's speech, he mentioned walking to the Capitol, 
+22 marching to the Capitol, and encouraging people to go there. 
+23 Do you remember being present for when the President said those remarks? 
+24 A I mean, I was definitely present on site, but I don't remember where I was 
+25 when I heard him say that or even if I did hear him say that.  1 
+2 Q 
+A Following the rally, where did you go? 
+I stayed on site at the Ellipse to help kind of shut the site down, secure it. 
+3 And then I left, based on the mayor's curfew. 74 
+4 Q So, when do you recall first hearing that there was a conflict that had broken 
+5 out at the Capitol? 
+6 A Sometime that afternoon whenever I received --it was like a news push 
+7 notification on my phone or a tweet alert or something like that. 
+8 
+9 
+10 
+11 
+12 Q 
+A 
+Q 
+A 
+Q 
+13 Building? 
+14 
+15 
+16 A 
+Q 
+A Okay. Where were you when you got that notification? 
+Honestly, I was somewhere backstage. 
+Now, following the --did you leave from the Ellipse and go directly home? 
+I tried to stop at McDonald's first, but it was closed. 
+Did you go with a group of people into the Eisenhower Executive Office 
+No, sir. 
+What was your reaction to seeing the conflict that broke out at the Capitol? 
+I mean, I don't know that I fully comprehended what was happening at the 
+17 time, but I remember thinking, you know, that is kind of a disgusting display, you know. 
+18 It's the United States Capitol Building. 
+19 Q So, if we take a look at exhibit 22, these are the text messages with Katrina 
+20 Pierson, and if we scroll down here, January 6th, 14:19, so 2:19 p.m. This may be 3:19 
+21 p.m. eastern time because it was produced by your lawyers from the central zone. Ms. 
+22 Pierson writes: And THIS --this in all caps --is why I fought so hard to keep certain 
+23 people off that damn stage. 
+24 Did you understand Ms. Pierson to be referring to this conflict with Caroline Wren 
+25 about who could have access to the stage on January 6th?  I'm honestly unsure what she meant by this text message still to this day. 
+Now, what's your view of the folks who attacked the Capitol? 75 
+1 
+2 
+3 A 
+Q 
+A I mean, my view is the same what I said a moment ago, you know. Having 
+4 respect for our institutions and, you know, obviously our monuments, and I obviously use 
+5 that based on the last few years is, I thought it was a disgusting display that should've 
+6 never happened, you know. 
+7 That's not how, you know, we have our voices heard, and I do not agree with it. 
+8 do not support it, and wholeheartedly condemn, you know, what happened at the Capitol 
+9 that day. 
+Q Let's take a look at exhibit 27. 10 
+11 Twenty-seven is a group text with you and Megan Powers. This is produced by 
+12 you, and if we scroll down a little farther here, January 6th, 14:28, but, again, because I 
+13 think this was produced in the central time zone, it could be an hour later than that. 
+14 So, somewhere between 2:30 and 3:30 p.m., January 6th Katrina Pierson writes: 
+15 Good news is that I was able to keep the crazies off the stage. I stripped all branding of 
+16 those nuts and removed videos of all of Caroline's psychos that would have been calling 
+17 for civil unrest. So we're good. 
+18 To the best of your recollection, Mr. Caporale, is it true that Ms. Pierson tried to 
+19 keep particular people off stage because of concerns over civil unrest? 
+20 
+21 A 
+Q I do not know. 
+So, I mean, I'm just trying to really come to a landing on that point. You 
+22 seem to have been aware that there was conflict over who could speak on the stage. 
+23 There were logistical considerations from your perspective about it's not realistic to have 
+24 a bunch of people speaking 1 minute at a time; we need to narrow this down. I think 
+25 we've also agreed that you were aware that there were considerations as a matter of  76 
+1 substance about who should be allowed on the stage. 
+2 What I'm asking is, to the best of your recollection, was there ever a concern 
+3 raised over the possibility of violence or civil unrest depending on who spoke at the 
+4 Ellipse? 
+5 A To the best of my knowledge, no, I was not involved in any conversations 
+6 dealing with civil unrest. 
+Q Let's take a look at exhibit 21. 7 
+8 This is your text thread with Mr. Budowich, and if we go down to page 2 --keep 
+9 going. Here we are. January 6th in the afternoon, Mr. Budowich says: Please don't 
+10 hate me forever for pulling you into that shit show. Thanks for helping save the day and 
+11 making the most of it. 
+12 And, later on, you write: Today was awesome up until it ended. I'm just 
+13 thanking God we didn't do it near the Capitol. 
+14 What do you think would've happened if the event had been held near the 
+15 Capitol? 
+16 A I wouldn't want to speculate about what I think would happen if our event 
+17 location was down there. I don't know. 
+18 Q Well, so when you say "I'm thanking God we didn't do it near the Capitol," 
+19 why? 
+20 A Because I didn't want to be anywhere down close to that, you know. 
+21 Would you? 
+22 Q Okay. And then further down here, Taylor says: Yeah, yikes. Glad we 
+23 got it to a more reasonable place. If Alex Jones and the nuts spoke, the Capitol would 
+24 be burning. 
+25 He says "We got it to a more reasonable place"; do you --in your own opinion, did  77 
+1 you play a role in helping to resolve the issue over Alex Jones and the nuts as Taylor says? 
+2 
+3 A 
+Q I don't believe I did, no. 
+All right. We're close to wrapping up, but let me pause just to see if I think 
+4 Sean is still on. I don't know if he has any questions to follow up on. Nope. 
+5 Okay. All right. Well, Mr. Caporale, on or about November 3rd of last year, 
+6 Rolling Stone published an article explaining that Matt and Mercedes Sch la pp had put 
+7 together, with the assistance of the former Acting Attorney General Matt Whitaker, a 
+8 fund to cover the legal expenses of several former aides who have been subpoenaed by 
+9 the select committee, and that reporting indicated that the fund that would be using the 
+10 services of Attorney General Whitaker's law firm, which I note is the same firm that is 
+11 representing you, the Graves Garrett Law Firm. 
+12 I want to be clear that I am not asking for any communications that you may have 
+13 had with legal representation or counsel, but I'd like for you to confirm that your legal 
+14 expenses are being covered by the fund that's described in that Rolling Stone article? 
+15 Mr. Greim. Objection. This has nothing to do with the legislative purpose. It 
+16 has nothing to do with the credibility of the witness. Credibility of the witness is not 
+17 open to serious dispute, and the identity of anyone who has come to support this witness 
+18 in the investigation itself is also protected by the First Amendment privilege. And we'd 
+19 also reassert all the objections that Mr. Brothers read at the outset. 
+20 Well, I will just note for the record that the questions that we would 
+21 like to ask regarding this have to do with confirming that those fees are being covered by 
+22 someone else, whether there were any conditions that were placed on Mr. Caporale as to 
+23 enable his use of those resources for legal fees and including whether there were other 
+24 offers other than the ones that he may or may not have taken up. 
+25 Eddie, is it fair to say that you'd object to him answering to all those questions?  78 
+1 Mr. Greim. Well, I would say this, because if --if this law firm accepted payment 
+2 from a third party for any client and that client had to agree to certain conditions about 
+3 their testimony, that would be professional misconduct, and it's a very serious allegation. 
+4 I take it you're not alleging it, but I don't think that's something that's generally inquired 
+5 into in every case where there's third-party payment as if, you know, professional 
+6 misconduct just might have occurred. And so to avoid --I think what I would do is this: 
+7 I think Mr. Caporale could answer a question about whether any person has asked him, as 
+8 a condition of receiving third-party payment, that he testify or produce documents in any 
+9 particular way. I think that's a fair question. 
+10 
+11 
+12 - Okay. Mr. Caporale, do you understand that question? 
+The Witness. Can you repeat it-
+Sure. Have you been asked by any third party to testify or comply 
+13 with the subpoena in any particular way? 
+14 
+15 The Witness. No. 
+- Now, I think that still leaves unresolved, however, whether Mr. 
+16 Caporale himself is covering his own legal fees, which I think is not a privileged 
+17 consideration, and it does go to the credibility of the witness in terms of the testimony 
+18 that he would have. I mean, I think there's no question that he has personal knowledge 
+19 of events that are squarely within the scope of our investigation, and I think that's true 
+20 even within the narrowest view of what the scope of that investigation is, facts and 
+21 circumstances about the attack on the Capitol itself. 
+22 And I would just say, for the record, that that knowledge includes, as early as 
+23 December 29th, discussing whether the White House wanted to hold an event where the 
+24 President would speak and then direct attendees to the Capitol and then, on top of that 
+25 knowledge, that there were certain people who may or may not have spoken at that  79 
+1 event who were viewed by some as being too extreme, including statements about 
+2 whether there might be civil unrest if those folks were given a platform. 
+3 And all of that information appears to be information that may have come in front 
+4 of Mr. Caporale, but also numerous others within the White House and apparently other 
+5 folks within the President's inner circle. 
+6 So the question is quite simple: Are allies of the President paying the legal bills 
+7 of people who have knowledge of this information that might potentially guide how he 
+8 should respond to the inquiry? 
+9 Mr. Greim. I think we've already made our position clear. The witness has 
+10 testified that no one has asked him to testify or produce documents in a certain way. 
+11 think we've also seen that this is not a key witness, and most of the questions that were 
+12 asked about him were about whether somebody else who actually was making decisions 
+13 or actually had information shared it with him. 
+14 And so I just don't --I don't think the credibility of this witness is important for the 
+15 drafting of legislation. I don't think it's important for telling the story of what happened, 
+16 and I don't even know that there are disputes among the witnesses. I guess you would 
+17 know better than we would about these issues. 
+18 I mean, you're asking somebody who generally heard things from someone else 
+19 and whether they heard it or not. And so --I just think, if you're ever going to ask that 
+20 question of someone, this is not the witness where third-party payment becomes 
+21 essential? 
+22 Well, I just want to clarify for the record then that I think that we still 
+23 stand apart on resolving that objection. I will say that, at this point, I don't have any 
+24 further questions for Mr. Caporale. But I also know that, given today --you may or may 
+25 not be aware, the State of the Union is this evening --I don't think it would be  80 
+1 constructive at this point to try to get the chairman, so what I think we can do is stand in 
+2 recess, subject to the call of the chair, but I will represent to you, Eddie, that if we were to 
+3 reconvene the deposition, it would be limited to this sole line of questions that objection 
+4 has been raised to. 
+5 
+6 Mr. Greim. Absolutely. 
+- And we can confirm later on with you about whether it's information 
+7 that we are interested in continuing to pursue, but I'm just --we have to take the 
+8 objection back and consider it. 
+Mr. Greim. Very good. 9 
+10 - So, Mr. Caporale, I promised your attorneys we'd be done by 
+11 lunchtime, and I think I delivered on that. So we very much appreciate your time. 
+12 
+13 
+14 
+15 
+16 Paul and Eddie, appreciate your time and professionalism and assistance in this. 
+So, at this time, we will stand in recess, subject to the call of the chair. 
+Mr. Greim. Thank you. 
+The Witness. Thank you,_ 
+Mr. Brothers. Thank you. 
+17 [Whereupon, at 11:47 a.m., the deposition was recessed, subject to the call of the 
+18 chair.]  1 
+2 
+3 Certificate of Deponent/Interviewee 
+4 I have read the foregoing __ pages, which contain the correct transcript of the 
+5 answers made by me to the questions therein recorded. 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 Witness Name 
+Date 81 

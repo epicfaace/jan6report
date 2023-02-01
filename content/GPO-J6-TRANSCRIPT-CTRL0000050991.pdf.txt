@@ -1,0 +1,1601 @@
+1 
+2 
+3 
+4 SELECT COMMITTEE TO INVESTIGATE THE 
+5 JANUARY 6TH ATTACK ON THE U.S. CAPITOL, 
+6 U.S. HOUSE OF REPRESENTATIVES, 
+7 WASHINGTON, D.C. 
+8 
+9 
+10 
+11 INTERVIEW OF: JAMES RAHM, Ill 
+12 
+13 
+14 
+15 Friday, March 4, 2022 
+Washington, D.C. 1 
+16 
+17 
+18 
+19 
+20 The interview in the above matter was held via Webex, commencing at 10:04 a.m.  1 
+2 Appearances: 
+3 
+4 
+5 For the SELECT COMMITTEE TO INVESTIGATE 
+6 THE JANUARY 6TH ATTACK ON THE U.S. CAPITOL: 
+7 
+8 
+9 
+10 
+11 
+12 
+13 SENIOR ADMINISTRATIVE ASSISTANT 
+CHIEF CLERK 
+INVESTIGATIVE COUNSEL 
+INVESTIGATIVE COUNSEL 
+14 For the COMMITTEE ON HOUSE ADMINISTRATION: 
+15 
+16 JIM LEVINE, COUNSEL 
+17 
+18 
+19 For JAMES RAHM, Ill: 
+20 
+21 HEATHER SHANER 2  1 
+2 
+3 - Let's go on the record. It is 10:04 a.m. on March 4th. 
+Good morning. This is the transcribed interview of James Douglas Rahm, 111, 
+4 conducted by the House Select Committee to Investigate the January 6th Attack on the 
+5 United States Capitol pursuant to House Resolution 503. 
+6 At this time, I'd ask the witness to please state your full name and then spell your 
+7 last name for the record. 
+8 
+9 
+10 Mr. Rahm. James Douglas Rahm, 111, R-a-h-m. 
+- Great. 
+This will be a staff-led interview. Members of the committee may join at some 
+11 point. I don't expect that to happen, but it's possible. 3 
+12 And then, as I explained before, I'll be asking most of the questions. -might 
+13 be asking some questions as well. And if a member joins, it's possible that they would 
+14 ask a question also. 
+15 And then, just for the record, speaking is- investigative counsel with 
+16 the select committee. We've also got- also an investigative counsel. And 
+17 the~ is also in the room, and he's a professional staff member with the select 
+18 committee. 
+19 We've got a couple of court reporters and other staff members that will be 
+20 helping us with logistical things throughout the interview. 
+21 And then also, Ms. Shaner, could I have you state your name for the record, 
+22 counsel? 
+23 
+24 
+25 Ms. Shaner. Heather Shaner, counsel for James Rahm, Ill. 
+- Great. 
+And then, James, I understand we will be addressing you as JD, short for James  4 
+1 Douglas. 
+2 As I mentioned, we've got a couple reporters on the line, court reporters. They'll 
+3 be taking a transcription of the interview. So, to make their life a little bit easier, just try 
+4 to wait until I finish asking a question before you begin your answer, and then I'll do the 
+5 same thing, wait for you to finish your answer before I start a new question. It's just 
+6 very hard for them to record when there's two people talking at the same time. 
+7 Mr. Rahm. Of course. 
+8 - And then, also kind of relatedly, they can only record verbal 
+9 responses, so try not to shake your head yes or no. Use a verbal yes or no. And then 
+10 if --you know, we all make that mistake sometimes, so if I need to, I might prompt you to 
+11 use a verbal response. 
+12 
+13 Mr. Rahm. Okay. 
+- And then today all we're asking of you is to provide complete 
+14 answers to the best of your recollection. If a question I ask isn't clear, which happens 
+15 sometimes, just ask me to rephrase the question or ask for clarification. Always happy 
+16 to do that. And then, if you don't know the answer to a question, just simply say so. 
+17 
+18 Mr. Rahm. Okay. 
+- There are a few kind of background or ground rules that we should 
+19 go over before we get into questions. 
+20 The first is that it's important that you understand that today is a voluntary 
+21 interview. If at any time you want to stop speaking with us, that's your choice. 
+22 Similarly, if at any point you need to take a break to talk to your counsel in private, 
+23 just let us know and we can all take a break, turn off our cameras and mikes, and you can 
+24 talk with Ms. Shaner if you need to. 
+25 Does that make sense?  1 
+2 Mr. Rahm. Yes. Thank you. 
+- Great. 
+3 While this interview is voluntary and it's not under oath, it's important that you 
+4 understand that, because this is a formal congressional investigation, you're obligated 
+5 under Federal law to tell the truth, the same as if you were speaking to FBI or DOJ. 
+6 So it's unlawful to deliberately provide false information to Congress. For this 
+7 interview, providing false information could result in criminal penalties for false 
+8 statements. 
+9 Do you understand that? 
+10 Mr. Rahm. Okay. Yes, sir. 
+11 
+12 -Okay. 
+And then also, you're not obligated to keep the fact of this interview or what we 
+13 discuss confidential. You're free to tell whomever you wish that you met with us, 5 
+14 including the prosecutor or the judge in your case, or you could tell nobody at all. That's 
+15 totally your decision. 
+16 Mr. Rahm. Okay. 
+17 - And then also, I just want you to understand that the select 
+18 committee is separate and distinct from the DOJ. We don't have any involvement in the 
+19 prosecutions, and the DOJ is not a partner of the select committee in this investigation. 
+20 Kind of similarly, the select committee is not a party to your criminal case and isn't 
+21 agreeing to submit anything on your behalf to the judge, nor can we make any 
+22 representations whether, if you tell the judge that you met us, that the judge will be more 
+23 favorable to you at the end of your case during sentencing. 
+24 
+25 Mr. Rahm. Okay. 
+- Does that make sense?  1 
+2 Mr. Rahm. Yes, sir. 
+- And then lastly, in general we will not be sharing our conversation 6 
+3 with the DOJ. There are a couple possible exceptions to that. If we felt like you did not 
+4 tell the truth during the interview, that could potentially trigger an obligation to share 
+5 some of that information with the DOJ. Or if you gave us information about a crime that 
+6 we don't think the DOJ is currently aware of, then that could also trigger a similar 
+7 obligation. 
+8 
+9 
+10 
+11 Mr. Rahm. Understood. 
+- Does that all make sense? Okay. 
+Mr. Rahm. Yes. 
+- Great. And then also, just let us know throughout the interview if 
+12 you need a break at any point to use the bathroom, get some water, or just need a 
+13 minute or two, and I'm happy to take a break at any point. 
+14 
+15 Mr. Rahm. Thank you. 
+- Great. 
+16 And then also, as I explained earlier, I'll be asking most of the questions, but-
+17 or some others --other folks might jump in at different points and ask some follow-up 
+18 questions as well. 
+19 
+20 
+21 
+22 Mr. Rahm. Okay. 
+EXAMINATION 
+BY 
+Q Great. Then with that, I think we can start. And I just want to start with a 
+23 little bit of background information about you. 
+24 If you could just tell me how old you are and where you're from. 
+25 A Twenty-seven, and I live in Atlantic City, New Jersey.  1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 with? 7 
+Q Okay. And did you grow up there? 
+A No. I grew up in Philadelphia. 
+Q Okay. How long have you been in Atlantic City? 
+A Since about 2006 --or 2005, I believe. 
+Q Okay. And before that were you in Philadelphia? 
+A Yeah, south Philadelphia. 
+Q Okay. And who --what's your living situation now? Who do you live 
+9 A I was working and living in Philadelphia, but ever since COVID I've been living 
+10 back with my mother in Atlantic City. 
+11 Q Okay. And then can you give us a quick run-through of your educational 
+12 background? 
+13 A Yes. I've gone to Catholic school my whole life, including university, Holy 
+14 Spirit High School in Absecon, New Jersey, and then La Salle University in Philadelphia. 
+15 And I graduated with a bachelor degree in business administration. 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 Q Okay. And when was that that you graduated? 
+A In 2017. 
+Q And then I know you said that you are living with your mother. 
+A Yes. 
+Q Do your mother and father live together? 
+A No, they do not. My father lives in Philadelphia. 
+Q Okay. And are they divorced? 
+A Yes. 
+Q Okay. And then, sorry, you might have mentioned this, but what do you do 
+25 now for a living?  8 
+1 A Currently, I'm a DJ. That's like my main thing. And then I also do like the 
+2 various like delivery services. I just started doing those actually, like it's like Grubhub 
+3 and Shi pt and those kind of things. 
+4 Q Okay. 
+5 A I was doing construction full time in Philadelphia up until COVID kind of shut 
+6 down the city. And then our company never survived COVID actually. So that's why 
+7 I'm back in Atlantic City now. 
+8 Q Let's move to kind of discussing the period just before the general election in 
+9 2020 and kind of time before that. I just want to understand generally your level of 
+10 political activity kind of heading into the general election. 
+11 A I'm not very political at all. I do follow some things. But for me, I was 
+12 more interested in, you know, just the craziness of it all, where, like, where you would 
+13 see, you know, stuff in the streets. 
+14 I just --you know, that's kind of the extent of my political stuff, is just watching 
+15 videos online and --you know, I'm not very political as far as, you know, considering 
+16 myself Democrat or Republican. I don't really like to just fall into one side, because I 
+17 agree with things, you know, on all sides. 
+18 So as far as like politics go, I'm not very heavily involved. I wish I knew more 
+19 than I did actually. 
+20 Q Okay. Leading --so during the 2020 election, would you say that you were 
+21 a supporter of President Trump? 
+22 A I'd say to make my parents happy. But, again, I didn't know enough to 
+23 really, you know, make my own decision, I guess. But, yeah, just because my parents 
+24 were, you know, I played with, you know, with that side of it a little, but I wouldn't 
+25 consider myself like a Trump supporter.  1 
+2 Q 
+A 
+3 of the 6th. 
+4 Q Had you ever attended any Trump rallies during the election? 
+No. That was my first, the, I guess, if you want to call it a rally, on the day 
+Okay. Let's talk a little bit about kind of where you got your political and 
+5 news information around that time, so the 2020 timeframe. 
+6 Did you watch news on television? 
+7 A I'd flick through the channels just to see the headlines. But at a certain 
+8 point we didn't have cable anymore. I don't really remember exactly when that point 
+9 was. So most of my information all came from like VouTube channels. And I would 
+10 watch like, you know, the same channels that, you know, are on cable, have their own 
+11 VouTube channels. So, you know, that's where the majority of my news, like, headlines 
+12 would come from. 
+13 
+14 Q 
+A Which --were there particular networks that you favored over others? 
+I think just like ABC, NBC, whatever --honestly, whatever would pop up on 
+15 my feed that would give me headlines. I wasn't like actually like searching up a specific 
+16 news organization. I'd watch, you know --sometimes I'd watch different, you know, 
+17 VouTubers if they popped up on my feed. But for the most part it was just like those 
+18 little clips that the media organizations upload to VouTube. 
+19 
+20 Q 
+A Okay. And most of the ones that --oh, sorry, go ahead. 
+Oh, I was just going to say, I wasn't very --you know, it was just like maybe, 
+21 you know, if I saw it here and there, I'd click on it. It wasn't like every day I was like, 9 
+22 "Oh, what's going on today? What's going on today?" It was just kind of like whatever 
+23 would pop up in my feed I would see the headlines. 
+24 Q The networks that you mentioned, you know, ABC, NBC are sort of the 
+25 primary couple, two or three networks. Did you ever look at VouTube news sources of,  10 
+1 so, for example, like lnfoWars or Newsmax, some of the nonprimary networks? 
+2 A I've seen them, yes. I don't think I was, you know, watching them too 
+3 often. I do remember seeing them pop up here and there on my feed, you know. Not 
+4 so much lnfoWars. Maybe years ago. 
+5 
+6 
+7 And what was the other one you said? 
+Q 
+A Newsmax. 
+Newsmax? I may have seen --I'm not extremely familiar with them, but I 
+8 may have seen them pop up on my feed as well. 
+9 - Go for it,_ 
+10 BY 
+11 
+12 
+13 
+14 
+15 
+16 Q 
+A 
+Q 
+A 
+Q What about OAN? 
+OAN? 
+Yeah. One America Network, I believe, is the -­
+I'm not very familiar with them either. 
+That's fine. 
+Andllllmight have been about to ask this. So is it fair to say then that you 
+17 weren't searching for news, you were trusting the algorithm in sort of what popped up? 
+18 A Yeah. I mean, if there was a specific topic I was more interested in on a, 
+19 you know, on any given day, maybe I would go search up some more, maybe like on 
+20 Google or something. 
+21 But, yeah, I wasn't doing that much. I was just casually watching the headlines, I 
+22 guess you could say. 
+23 Q And do you have a sense of like how long you would spend watching the 
+24 headlines or whatever per day? 
+25 A I mean, a few minutes maybe. I mean, yeah, it didn't really interest me all  1 too much. 
+2 
+3 
+4 
+5 
+6 news? 
+7 Q 
+A 
+Q 
+A Got it. Thank you. 
+Yep. 
+BY 
+How about any print publications, printed news, did you read any of your 
+No, sir. 
+8 Q Okay. And then how about using social media to kind of obtain news? 
+9 Like did you use Facebook or anything like that? 
+10 A No, I'm not very big on Facebook. I only use Facebook as far as like my DJ 
+11 career to connect with people. 
+12 But other than that, the only news I would ever see was on Snapchat, how they 11 
+13 have like the Discover page and like different --and then, again, it's the major, you know, 
+14 media organizations putting out their stories. 
+15 So a lot of it was just the same exact thing you'd see on the YouTube videos just, 
+16 you know, transformed into Snapchat. 
+17 Q I have sort of a laundry list of some social media applications, and I'm just 
+18 going to run through it quickly with you, and if you tell me if you used the app and then 
+19 particularly if you used it for news purposes at all. 
+20 
+21 
+22 
+23 A 
+Q 
+A 
+Q Okay. 
+I think, I know you mentioned, and I know you've used Snapchat, right? 
+Yeah. 
+Okay. Did you, when you used Snapchat, did you ever post political 
+24 content on Snapchat? 
+25 A I don't think I ever have. I mean, maybe a meme or something that I  1 thought was funny. But I can't even --I can't remember me posting anything political. 
+2 
+3 
+4 Q Okay. I know you said Face book mostly just for your DJ'ing. 
+How about Reddit, did you use Reddit? 
+A I maybe --I've never used like Reddit the app. I've come across Reddit 
+5 when I've been googling certain questions not related to politics where a Reddit thread 
+6 would pop up, but that was the extent of my Reddit use. 
+7 
+8 
+9 Q 
+A How about TikTok? 
+No, I've never --I've never had TikTok. 
+Q Okay. What about Twitter? 
+I have Twitter, but I've --I never really use it. 
+Let's see. You said VouTube was sort of your primary viewing source? 
+Probably, yeah. 
+Do you post content on VouTube? 12 
+10 
+11 
+12 
+13 
+14 A 
+Q 
+A 
+Q 
+A I have posted stuff related to my DJ career and whatnot, and I think maybe a 
+15 snowboarding video. But that would be all that I've posted. 
+16 Q How about --so following specific individuals. Was there anybody that you 
+17 followed that was kind of politically tied or motivated that you followed on any social 
+18 media apps that we just discussed? 
+19 
+20 
+21 media? 
+22 A 
+Q 
+A Not that I can think of, honestly. 
+How about President Trump, did you follow President Trump on any social 
+I honestly don't know. I don't think so, but I don't know. I would say 
+23 maybe I've seen his posts on Twitter back like years ago, like when I actually did like 
+24 sometimes open it. But I haven't opened it in so long that I don't even know. 
+25 But I don't think I was even following him. I think I maybe have just seen, you  13 
+1 know --or maybe I've just seen it just from all the internet stuff that you see from his 
+2 tweets, and I'm just like misremembering. But as far as like following, I don't really think 
+3 so. 
+4 Q Okay. Do you remember seeing any of President Trump's Twitter activity 
+5 around the election or the time after, November, December, January? 
+6 A Not really, no. I mean, like I said, maybe some of the things, you know, 
+7 that it would be pulled from Twitter and put into some type of media, but not the actual 
+8 Twitter feed itself. 
+9 Q Okay. I want to ask some of your feelings about the general election. 
+10 And just to preface these questions, really we're just interested in kind of understanding 
+11 your mindset leading into January 6th, not meaning to kind of cast any disparagement on 
+12 any particular views, just kind of want to understand what you thought of the general 
+13 election. 
+14 So did you, after the general election in early November 2020, did you think that 
+15 the election had been stolen from President Trump? 
+16 A No. I mean, I saw a bunch of things that, you know, people were trying to 
+17 point at. And, you know, I did look into some things and try to see if anything was valid. 
+18 But I just didn't find any --anything concrete with the little bit of stuff that I did see. 
+19 So, yeah, there was nothing that led me to the immediate conclusion: Okay, this 
+20 election was stolen. 
+21 Q Did you participate in any political activities or any other sorts of rallies after 
+22 the general election? 
+23 A No. I think January 6th was the only political event or rally that I've ever 
+24 been to in my life, as far as I can remember. 
+25 Q All right. Any other kind of just general feelings about the election or  1 thoughts that you had at that time that you recall? 
+2 A Not that I can recall. I mean, of course, you couldn't get away from the 
+3 news, but I wasn't trying to pay attention too deliberately to it all. 
+4 
+5 
+6 
+7 Q Okay. And did you vote in the election? 
+A Yes, I did. 
+Q Okay. And do you mind saying who you voted for? 
+A Yeah. I did vote for Trump. But, again, like I said about my parents, I 
+8 really just did it to kind of make them happy. 
+9 Q Okay. I think■■lhas a couple questions for you. 
+10 
+11 
+12 
+13 
+14 A Okay. 
+BY-
+Q Yeah, just in terms of your thoughts on whether the election was stolen. 
+What kind of research did you do? 
+A Honestly, I did such little stuff that I don't even really remember. I think 14 
+15 maybe I've --you know, if I saw something, I'd try to go to like some type of fact-checking 
+16 site or something like that just to kind of get some validation to see if that 
+17 person --because maybe I was having like a discussion with somebody, and I thought that 
+18 it was a little crazy what they were saying. 
+19 I don't really remember the specifics, but I do remember there was a couple 
+20 instances where I was like, "All right, let me look into this a little bit," and then didn't 
+21 really find much. 
+22 Q Do you have a sense of how long it took you to debunk some of those 
+23 statements? 
+24 A I mean, I'd say I only probably looked into things maybe a few minutes at a 
+25 time. So I didn't really dive too deep. But it didn't lead me to want to look further, if  15 
+1 that makes any sense. 
+2 Q No, it does. So a few minutes was enough then for you to be able to have 
+3 the conversation with whoever you were having the conversation with? 
+4 A Yeah. And I don't even think I continued that conversation after that. 
+5 think it was just something that I heard from somebody in a conversation, and then later, 
+6 you know, I kind of looked up on it and then didn't really have any interest to look any 
+7 further. 
+8 
+9 Q 
+A Understood. Were these friends, family, both? 
+I think it was a friend, yeah. I'm remembering a specific conversation, and 
+10 I'm not remembering exactly who it was. 
+11 
+12 
+13 Q 
+A 
+Q That's okay. 
+But, yeah. 
+And so you're remembering one specific conversation, but I think you 
+14 mentioned a couple of times. 
+15 How often --do you remember how many times you went and did this sort of 
+16 fact-checking? 
+17 A I'd say only like two or three maybe. 
+18 Q Okay. Thank you. 
+19 BY 
+20 Q Let's talk about the decision to go to D.C. for the 6th. 
+21 A Sure. 
+22 Q When did you start considering that trip? 
+23 A Well, it was my father's trip that he was going on, and he was going by 
+24 himself. And he told me probably on like the 3rd or the 4th that he was thinking about 
+25 going. And at that point it wasn't even really definite for him. And I told him, "I'm not  16 
+1 really interested." 
+2 And then I think it was maybe later on the 4th or earlier on the 5th, he said he like 
+3 made this spur-of-the-moment decision to get a room and to go. 
+4 And, you know, I really --I wasn't comfortable with letting him just go all by 
+5 himself. I kind of started to feel bad because he was like looking for, you know, a 
+6 companion to go with him, his son. And I just decided to go with him because I didn't 
+7 want to see him go alone. 
+8 One of the other big motivations for me was I had just purchased a Go Pro camera. 
+9 Have you ever heard of that? 
+10 Q Yeah, I have. 
+11 A And after seeing like some of the stuff, like protests and stuff on like 
+12 different VouTube videos, you know, kind of like how there would be like different 
+13 counterprotesting clashes, I thought that that was kind of a possibility, and I thought it 
+14 would be my chance to get, you know, a viral video with my GoPro. 
+15 So not wanting my father to go alone, and then wanting to, you know, record 
+16 some action, was my kind of main motivation for going to D.C. 
+17 Q Okay. Can you describe for me sort of your dad's political activity to the 
+18 extent you're aware of it? Was he more active than you were? 
+19 A Definitely more active. I think he's definitely influenced a little easily, 
+20 whereas me, like I need to kind of look into things a little bit more. 
+21 So, yeah, I mean, he's definitely --he's not like crazy involved, but he definitely like 
+22 has his strong views. 
+23 Q Do you know if he had attended any other rallies or --either in the 
+24 post-election period or before, like a Trump rally? 
+25 A Not to my knowledge. I can't remember if he's ever attended anything.  17 
+1 Q Okay. What was --as your dad was kind of describing his desire to go down 
+2 to D.C. on the 4th and the 5th, what was he telling you about the rallies? What was his 
+3 interest? 
+4 A He just was --I think he was more interested in just like the amount of 
+5 people that were going to be there and just thinking like he --like I could feel like it was a 
+6 FOMO kind of thing, like he didn't want to miss out on it. 
+7 That was my --he didn't say that, but that was kind of my feeling, because it was 
+8 such just like an, "All right, I'm going to book a room and go." 
+9 Yeah, that's as much as I know of like his actual like motivations. Obviously, he's 
+10 a --he is a big Trump supporter, so he wanted to go support Donald Trump. But that 
+11 was the extent of, as far as I know, his desires for wanting to go. 
+12 Q Okay. You said he was a big Trump supporter. Were there any politicians 
+13 that he particularly disliked that you heard him talking about? 
+14 A Not that I can remember by name. I mean, you know, he's had comments 
+15 here and there. I don't really remember the specifics though. 
+16 
+17 Q Okay. 
+A Like I said, if I knew politics a little bit more, I might be able to remember 
+18 certain names, but I don't know as much as I probably should. 
+19 
+20 
+21 Q How about Vice President Pence, did you ever hear him talk about him? 
+A Not that I can remember, no. 
+Q So it was, you think, later on the 4th or the 5th that he ended up booking a 
+22 hotel and making the final decision to go down to D.C.? 
+23 A Yeah, I think it was probably like early --earlier on the 5th that I finally made 
+24 like the decision to go. 
+25 Q Okay.  1 
+2 
+3 
+4 
+5 
+6 - -do you have a question? 
+- Yes. Sorry, I'm having computer problems. Can you all hear me? 
+- We can hear you. 
+Mr. Rahm. Yes. 
+BY 
+Q Sorry, my internet cut out and my computer had some problems. So I 
+7 apologize if you already answered these questions, JD. 18 
+8 But I'm interested in sort of your sense of trying to get a viral video. Did you talk 
+9 to other people who do videos or content about going to January 6th? 
+10 A No, I didn't really talk to --I don't really know anybody personally that 
+11 creates content really like that. 
+12 Q Did you get a sense from on line that this was a hot topic for content 
+13 creators --or, sorry, a hot day for content creators? 
+14 A No. I was kind of just basing it off of what I've seen in the past. Like 
+15 whenever there's been kind of like a Trump rally or Trump supporters, sometimes you see 
+16 like that counterprotest. And I was kind of just fascinated by like the whole dynamics of 
+17 all of that. So I thought that would be kind of like my moment of the day to kind of 
+18 catch a viral video if I was going to. 
+19 
+20 Q Understood. 
+A And just like the amount of people that I heard were going to D.C., I thought 
+21 that alone could be a cool thing to video because I never really heard of like that many 
+22 people going to D.C. at once. 
+23 So I thought that would be kind of --if there wasn't going to be any crazy 
+24 counterprotesting that I can record, I thought it would be just, you know, the mass 
+25 numbers of people that would at least be worth recording, which I did record throughout  19 
+1 the day. 
+2 Q Understood. Thank you. And I apologize again if you already answered 
+3 that question, so thank you. 
+4 A No worries. 
+5 - Were there any particular counterprotesters or types of 
+6 counterprotesters that you were interested in or did research on before you went to 
+7 D.C.? 
+8 Mr. Rahm. I mean, the only group I've ever really heard of was antifa. But I 
+9 wasn't expecting them to show up necessarily. I just thought it could be any type of 
+10 counterprotesters. 
+11 - Okay. And then did you do any kind of research ahead of time or 
+12 were there people or accounts that you followed through social media that were giving 
+13 you information about what was going to happen on the 6th? 
+14 Mr. Rahm. No, not really. I really knew --I honestly didn't even really 
+15 understand fully like politically what that day was until, you know, days after. 
+16 But, yeah, I didn't really know much except that there was a Trump rally and a 
+17 crazy amount of people were showing up. That was, you know, as far as like leading up 
+18 to those days, that was really all I knew. 
+19 BY 
+20 Q Did you have a sense of any --so you knew there would be a lot of people 
+21 showing up. In terms of your thought that there might be counterprotesters, did you 
+22 have any sense of who the Trump supporters would be or what they would look like 
+23 when you're filming them? 
+24 A Can you say that again? Did I have a sense of what Trump supporters 
+25 would look like? Is that what you said?  20 
+1 Q Yes. I'm trying to get a sense, you were interested in the Trump 
+2 supporters, counterprotesters, and it seems like you have --you had some at least sense 
+3 of like what antifa was. Did you have any thoughts of what the filming the Trump 
+4 protesters would look like? 
+5 A I mean, obviously some red hats and, you know, flags and whatnot. 
+6 But from what I've seen, it looked like mainly just normal dressed people in the 
+7 videos besides, you know, the red hats and whatnot in like previous videos that I've seen 
+8 with these kind of clashes. And then you would see, you know, the counterprotesters 
+9 would usually dress in like all black, so you could tell the difference between the two. 
+10 So that was kind of, if I expected to see like a big clash, I expected to see, you 
+11 know, normal dressed people with flags, you know, Trump hats here and there, and then, 
+12 you know, whether it be all-black dressed individuals or not. That's kind of what I was 
+13 expecting. 
+14 Q Did you ever see in previous videos people dressed in military fatigues 
+15 clashing with antifa? 
+16 
+17 
+18 A 
+Q 
+A I want to say maybe, maybe I have, yeah. 
+Camouflage or other sort of tactical gear? 
+I can't say like for sure in my head what I've seen, but I feel like I may have 
+19 seen something similar, nothing like full military gear, but maybe like some brief 
+20 military-type equipment, like clothes and whatnot. But I can't put anything specific in 
+21 my head. 
+22 Q That's okay. And did you ever think before January 6th that if you saw a 
+23 clash it would be between maybe the people dressed up in the military and antifa? Is 
+24 that what you were expecting? 
+25 A No, I never really would expect anybody in military, like a group of, if that's  1 what you're saying, a group of like military-type people. I would have never expected 
+2 that, no. 
+3 
+4 
+5 
+6 Q Okay. Thank you. 
+A Yes. 
+BY 
+Q I know you said that your dad was going alone and that you wanted to 
+7 accompany him because you didn't feel comfortable with him doing that alone. 
+8 
+9 A Yeah. 
+Q So did he ever talk about knowing of anybody else going or coordinating 
+10 with or making plans with anybody else? 
+11 A I think --he didn't have plans to go with anybody else or meet up with 
+12 anybody, but he did know friends that were in D.C. that he --or that were going to D.C. 
+13 And I don't know if he had any plans to meet up with them or not, but at one 
+14 point in the day, which, you know, I'm sure we'll get to, we did separate, and he was 
+15 going to go try to find anybody that he knew that was there. 
+16 Q Okay. Do you know, were these just kind of individual friends or was it a 
+17 group that he was part of? 
+18 A I think just individual friends, like maybe a guy and his wife, I think it was. 
+19 But I never met those friends of his, so I don't even know them by name. 
+20 Q Once you decided to go to D.C. for the 6th, did you post anywhere about 
+21 going? 21 
+22 A No, I don't think so. I don't even think I told anyone. It was such like just 
+23 a fast thing, like, "All right, I guess I'm going." 
+24 
+25 Q And then how did you guys end up traveling down to D.C.? 
+A Just in my dad's pickup truck.  22 
+1 Q Let's go through just some of the logistics of getting down there and when 
+2 you arrived. Why don't you just start with, what day did you drive down? 
+3 A On the 5th, the day before the rallies. 
+Q Okay. And then when did you arrive on the 5th? 4 
+5 A I'd say sometime like mid-afternoon. I honestly don't really remember, but 
+6 I'd say sometime like mid-afternoon, early evening. 
+7 Q Did you guys do anything on the 5th? There were also some, you know, 
+8 political activities on the 5th. Did you participate in any of those? 
+9 A We walked around D.C. a bit. We actually --we took the like rental 
+10 scooters. We don't have those in Philadelphia, so I thought it would be a fun thing to 
+11 do, and we kind of just rode those around. 
+12 And we ended up --we did see some rallies and my dad wanted to stop for a bit. 
+13 But we weren't there very long. 
+14 
+15 
+16 
+17 Q Where did you stay when you were in D.C.? 
+A It was a hotel. I don't remember the name though, unfortunately. 
+Q Was it in D.C. proper or were you in northern Virginia? 
+A It was in D.C. proper, yeah. It took --it took --I would say, it was probably 
+18 about a 10-minute drive. Like I said, we took the scooters and we did bicycles anytime 
+19 we traveled into like the more metro areas. But it would probably be about a 
+20 10-minute, 5-to 10-minute drive depending on traffic. 
+21 
+22 Q 
+A How did you travel down to the Mall area on the 6th? 
+I think it was by --I can't remember if it was scooter or bike, but I want to 
+23 say it was the rental bikes. 
+24 Q Okay. And then why don't you just start me with the --start with the 
+25 morning of the 6th. What did you do and then how did you end up going to the rally?  23 
+1 A I think just woke up and had breakfast. And then it was probably --we 
+2 knew stuff was starting like early, like 8 or something, so we were up probably like 7. 
+3 And our plan was to just go to all these scheduled rallies, and then by then we 
+4 would already be checked out of our hotel, because it would be past the checkout time. 
+5 So we were just going to get back to the truck that was at the parking garage and try to 
+6 leave D.C. before, well before nightfall. That was like our original plan. 
+7 So, yeah, it was probably about 8 by the time we got down there after taking the 
+8 bikes. And we kind of just cruised around for about an hour and just, you know, seeing 
+9 what we could see. 
+10 And then I don't remember exactly at what point we ended up going towards like 
+11 the big rally where Trump was speaking, but we did --that was our first like main 
+12 destination, I guess you'd say. 
+13 Q Okay. Let's stop there for one second. 
+14 Leading into the 6th, either the morning of or the day before, did you expect there 
+15 to be any violence or --on that day? 
+16 A I thought there was a good possibility for it based off stuff I've seen from 
+17 other past stuff on the internet, but I had no indication that there would be like definitely 
+18 something happening. It was just like kind of more like a feeling, like, all right, like there 
+19 are groups of people who don't like these groups of people that live in this area, so 
+20 there's the potential for some clashes. 
+21 Q Did you do anything to prepare for that possibility, like change maybe what 
+22 you were wearing? Or did you bring any particular gear to prepare for that? 
+23 A No. I really only had just like basic essentials, like I had like lunch and water 
+24 and I think a few Band-Aids if I got blisters on my feet and whatnot. But other than that, 
+25 just very basic, you know, ChapStick and those kind of things.  24 
+1 Q And then I know you mentioned that you planned to go to the rally that 
+2 Trump was speaking at, that was at the Ellipse. 
+3 A Yes. 
+4 Q And then you said, I think, that you also planned to go to some rallies after 
+5 that one. Is that right? 
+6 A The only other one we really knew about that we planned on was the rally 
+7 that was scheduled at the Capitol. There was, I guess, one that was scheduled on, you 
+8 know, the perimeter outside. And that the Capitol was on our way back to our hotel, so 
+9 it was like the perfect plan for us. We'll leave here, stop at that rally on our way by, and 
+10 then go home. 
+11 Q Do you know which rally that was, or do you remember what group was 
+12 putting on that rally? 
+13 A I have no idea. We just --we --I think we were handed out like fliers or 
+14 something and then ended up seeing it, like maybe a 1 o'clock rally or something, I think 
+15 it was. But --and maybe my dad knew who they were, but I had no idea who it was. 
+16 Q And then do you remember what time you ended up arriving at the Ellipse 
+17 rally that President Trump was speaking at? 
+18 A Sometime either late morning or early afternoon. It's really hard to 
+19 remember. 
+20 Q Okay. Why don't you --so let's --you just arrive at the Ellipse rally. Take 
+21 me through your experience of that rally specifically, and then we'll stop before you start 
+22 to head towards the Capitol. 
+23 A Just massive amounts of people. So I was just recording and we were 
+24 walking just, you know, getting the different angles and perspectives of the crowd that 
+25 we could. We mainly stayed like in the back near the Washington Monument.  1 We did move up a little bit further into some deeper crowds, but there was just 
+2 far too many people and just it wasn't worth it. So we just stuck towards the back. 
+3 Q So you went into the area. Did you pass through metal detectors to get 
+4 into that area? 
+5 A No, no, no. We --no, no, no. So the big area where the Washington 
+6 Monument is, the big patch of grass, and there's a street dividing where the metal 
+7 detectors were. We only got up as far as the street and, you know, walked maybe 
+8 50 feet down and it ended up being huge amounts of people. 
+9 So we turned around. We had no plan of going into the actual like metal 
+10 detector area. 
+11 Q Okay. Do you remember any of the speeches in particular? Did you see 
+12 anybody whose name you remember speaking? 
+13 
+14 
+15 A 
+Q 
+A No. Only --the only person I remember was Trump. 
+Okay. And were you there for --oh, sorry, go ahead. 
+I was going to say, I really --I wasn't even paying attention much, honestly, 
+16 so I couldn't even tell you what was said. 
+Okay. 25 
+17 
+18 Q 
+A I was more like just amazed by the amount of people that were --it was the 
+19 most amount of people I'd ever seen in one place, and I go to music festivals and stuff. 
+20 So it was kind of amazing just to see that many people. That was really what I was more 
+21 interested in. 
+22 Q What --how would you describe the mood at that point during the Ellipse 
+23 rally speeches? 
+24 A A lot of smiling faces, high, happy, happy energy, you know, some people 
+25 with like --I remember seeing there was somebody that had like a boom box, and people  26 
+1 were like dancing and stuff. 
+2 And there was like a big --there was like a huge like poster on the ground that 
+3 people were signing and, you know, little side stuff like that. 
+4 But it was pretty --pretty good spirits honestly. There wasn't much negative 
+5 energy in the air. 
+6 Q I know you said you don't recall the specifics of the speeches. Is that also 
+7 true for President Trump's speech? Do you remember anything specifically from his? 
+8 A I can't. I mean, I've seen clips afterwards, you know, through different 
+9 media, but even those clips I barely even remember. 
+10 - Voucango,_ 
+11 - Onesec. 
+12 - I could ask a few questions while you sort out your technical issues. 
+13 BY-
+14 Q Do you recall the mood of the crowd changing at all during President 
+15 Trump's speech? 
+16 
+17 
+18 A 
+Q 
+A Not that I can recall, no. 
+Do you recall him telling people to go march towards the Capitol? 
+I believe I saw --that was one of the clips I've seen. But I don't remember 
+19 him actually saying it in person. 
+20 Q Okay. And then what led you all to leave that rally and then go towards the 
+21 
+22 Capitol? 
+A I think it was just tired of standing. It was just time to just change 
+23 locations. And, yeah, we just decided to get a move on. 
+24 And we also wanted to --it was quite a walk. So we wanted to try to see if we 
+25 could hop on one of those little scooters, the rental scooters. And we knew that we  27 
+1 kind of had to get ahead of the crowd a little bit in order to do that. 
+2 And at that point there was already massive amount of people flooding down that 
+3 direction, like a really good amount of people that had already been heading that way for 
+4 probably a good hour or so. 
+5 
+6 Q So when you left the rally had President Trump finished speaking? 
+A I don't really remember, but I think he was still towards the end of his 
+7 speech, if I can remember. 
+8 
+9 
+10 Q Okay. 
+- Still having technical issues? Okay. 
+Okay. Then how about just take me through from your kind of journey from the 
+11 Ellipse and then to the Capitol, and then we'll kind of stop when you get to the Capitol. 
+12 A So we just got out of the big crowds, and we started to look for either the 
+13 scooters or bikes that we could rent. We found two bikes. 
+14 And we were kind of just cruising, you know, weaving in and out of the crowd, 
+15 really just slowly riding and just getting through the crowd. 
+16 I recorded it. I thought it would be a cool thing to record on my GoPro, like a 
+17 moving shot through the crowd, so I recorded all that. 
+18 And then, yeah, we just kept heading down --heading down that way. 
+19 Q Did, as you were heading towards the Capitol, did you see any particular 
+20 groups that were gathered that you could identify or notice anything about kind of how 
+21 the crowd was organized? 
+22 A The only like specific groups that I can remember besides like actual just 
+23 plain clothes, regular clothes Trump supporters with maybe red hats and whatnot, the 
+24 only other --the only group I like could pick out that was like distinguishable was --it was 
+25 a group of Chinese people that, I guess, they were against like Communist China. That  28 
+1 was kind of like what their signs were saying. But that was really the only like group that 
+2 I remember seeing. 
+3 Q And how about the mood of the crowd as they're marching towards, kind of 
+4 the same, everybody excited and happy or --
+5 A Yeah, very similar and just, you know, high spirits, everybody just kind of 
+6 moseying along. 
+7 Q Okay. And then where, when you get closer to the Capitol, what area did 
+8 you arrive in or where did you kind of first get to Capitol Grounds? 
+9 A When I first stopped I was near just like a bunch of food trucks. And at that 
+10 point I had been texting with a friend who --he lives in Virginia and works in D.C. So he 
+11 was already in D.C. and with a couple other, his cousin and the cousin's girlfriend, I 
+12 believe it was. I don't really know who she was. 
+13 But they had already been in D.C. that day kind of just checking out the spectacle 
+14 of everything because they live there. And he's my friend from home, so I planned on, 
+15 you know, at least saying hello to him, because we had been on --in the same like general 
+16 area of D.C. 
+17 So at that point, I told my dad like, "Hey, like, I'm going to go meet up with one of 
+18 my friends. We'll meet up in, you know, 30 minutes or so." 
+19 At this point, we had no idea what was happening at the Capitol. We just 
+20 thought it was rallies. 
+21 Would you like me to continue with meeting my friend? 
+22 Q Let's stop there. 
+23 When you said 30 minutes or we'll meet up in 30 minutes, did you mean you were 
+24 going to leave your dad and then come back and meet him in 30 minutes or --
+25 A Yeah, like, you know, like, "I'll see if I can find my friend; if not, I'll probably  29 
+1 see you in 30 minutes." Because at that point there were so many people, I wasn't even 
+2 sure if I was going to be able to find my friend. 
+3 Q Okay. And then as you're marching to the Capitol and kind of getting closer 
+4 to the Capitol Grounds, were you --I know you were recording. Were you like actively 
+5 engaged in any social media? Were you posting at all? Snapping? 
+6 A I posted some Snapchats throughout the day, but that was about it, just, you 
+7 know, of where I was, not really me saying anything, just kind of my surroundings. 
+8 Q Okay. And were you following anybody that was like maybe livestreaming 
+9 or posting about what was happening kind of on a, you know, moment-by-moment basis? 
+10 A No, besides just a couple of the quick videos I took, I barely had my phone 
+11 out that day. 
+12 
+13 
+14 - Okay. -BY-
+15 Q Sorry for the technical problems. I have no idea what's happening. And 
+16 apologies again if-already asked you this. 
+17 But I was interested, back at the rally, you mentioned people seemed happy. Did 
+18 you overhear anybody or get a sense of why they were happy? 
+19 A Not really. I mean, I didn't really stop to look at people or to talk to people 
+20 and, you know, get their perspective. It was just --it was, you know, just kind of like a 
+21 party atmosphere at times, like people were just happy. It was a really, you know, 
+22 sunny day, and it was just --I don't know. 
+23 I don't really know how to explain it. It was just there was no negativity. And it 
+24 wasn't like overly joyful people, you know, but there wasn't much, you know, negative 
+25 energy, I guess you could say.  1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 Q Okay. And- might have asked this. 
+When you were walking towards the Capitol, was that happiness still present? 
+A Yeah, it was a very similar vibe as far as I could tell. 
+Q When did that --did you ever notice that vibe changing? 
+A Yes. And that was when I got up to the actual like grounds. 
+Q I'll turn it back over to- Thank you and sorry again. 
+A No worries. 
+BY 
+Q Well, why don't you just take us through. 
+So you arrive at the Capitol Grounds and you start to --or you leave your dad at 
+11 that point. Is that right? 
+12 A Yeah. Yes. 
+13 Q Okay. Just take us through that. 
+14 A So I leave my dad. He says, "All right, I'll go see if I can find anybody that I 
+15 know here." So he heads off. And --
+16 Q Do you remember --sorry --do you remember where you were when you 
+17 guys split up? Like can you describe your surroundings? 
+18 A Definitely like approaching the like perimeter of like the initial Capitol 
+19 Grounds, like the last --is it Pennsylvania Ave that leads to --well, let's just call it the 
+20 avenue that I was on. 
+21 
+22 Q There's Constitution and then there's also Pennsylvania, yeah. 
+A Okay. So I think it was Pennsylvania Ave. But where the actual like 30 
+23 buildings end and it starts to be just like big, open area, I was kind of like right around that 
+24 area. And there was like a bunch of food trucks like off to like one of the buildings that 
+25 were on the like side perimeter, and that's kind of where I held up for a second and  31 
+1 figured out where my friend actually was. 
+2 And I realized he was coming the same direction that I was going just on the next 
+3 street over. So I proceeded to kind of intercept him where I thought he would be 
+4 coming out of that avenue. And we ended up --I think we ended up just like finding a 
+5 landmark and meeting there. 
+6 
+7 Q 
+A Okay. Do you recall what that landmark was? 
+I think it was just --I don't remember. I think maybe a statue or something. 
+8 I don't really remember. I just remember meeting somewhere. 
+9 
+10 
+11 Q 
+A 
+Q One of many statues around there? 
+Yeah. 
+Do you remember --so as you're walking towards the Capitol, in front of the 
+12 Capitol, if the Washington Monument is behind you, there's like a large empty pool area 
+13 with some statues at the top of it near to the Capitol. Do you know what area I'm 
+14 talking about? 
+15 A Maybe. I could be mistaken, but I think I know. 
+16 Q And so if you're looking --well, let me just ask this question. If you're 
+17 looking at the Capitol coming from the Washington Monument, were you to the left side 
+18 of the Capitol, to the right side, or right in front of the Capitol? 
+19 A I was more to the left, and then moved a little bit to the middle to find my 
+20 friend, and then we proceeded to stay towards the left. 
+21 Q Okay. So then you eventually find your friends, and then what happens 
+22 from there? 
+23 A And then we just all --you know, most of the crowds and stuff, you know, 
+24 were heading towards the Capitol, so we just continued to follow the crowds. 
+25 And at this point, we were still expecting that we were just going to be walking up  32 
+1 on a rally. At this point, we had no idea what was happening, and I'm pretty sure it was 
+2 already --things were already happening as far as the crowds moving past where they 
+3 were supposed to be. 
+4 And at that point, when we had actually moved into that, I guess, like more 
+5 restricted area on the outskirts of the Capitol, we still had no idea that, you know, people 
+6 had pushed through that area. It was only until the days after that I realized, wow, like 
+7 the whole crowds were supposed to be like pretty far back. 
+8 And, yeah, we just kept pushing our way through, not even pushing because it 
+9 wasn't even like we had to like go through really tight crowds. It was very easy to walk 
+10 through. And, yeah, we just walked --we walked all the way up. 
+11 
+12 
+13 
+14 Should I stop, or do you want me to continue? 
+Q Let's --I'll ask you a couple questions first before we get into the building. 
+What do you recall about what time this was that you met up with your friends? 
+A It was early in the afternoon, I want to say like sometime after 1 o'clock, but 
+15 it's really hard to remember the exact time. 
+16 Q Right. Okay. 
+17 And then how about from the time that you met your friends to, let's say, just 
+18 before you enter the Capitol Building, about how long did it take for you to walk from the 
+19 meeting point with your friends to entering the building? 
+20 A Well, to get to the actual like steps where the front of the crowds were, it 
+21 took about 10 minutes from the time that I like first saw my friend. You know, we 
+22 talked for a couple minutes, and then we just said, "Hey, let's keep walking." Probably 
+23 about 10 minutes to that point. 
+24 
+25 Q Okay. 
+A And then I can kind of go through the some of the things like out to that  33 
+1 point. 
+Q Yeah, let's do that. 
+So you've gotten to the steps now --
+Yeah. 
+--in front of the Capitol. What happens there, after that? 2 
+3 
+4 
+5 
+6 A 
+Q 
+A Then, as soon as we start to approach that front area of the crowd, then we 
+7 start to realize, okay, something isn't right here, because we started to hear a couple loud 
+8 bangs. And we were super confused what the bangs could be at first. And then I guess 
+9 it was some type of crowd control device. 
+10 And, you know, we heard the bangs and we just kept walking. We didn't --we 
+11 still really didn't think much of it. It wasn't until we could get a clear view of like the 
+12 front that we realized, okay, like there's something off here, like something's going on. 
+13 Q And what were the things that kind of alerted you to the fact that something 
+14 was off or something was going wrong? 
+15 A I mean, people were trying to go up the Capitol steps, for one. I didn't see 
+16 many --like much like direct resistance between police at first. 
+17 Eventually I did see, you know, some instances, more off to the middle part of 
+18 where the crowds were, because I was off to the left, you know, saw more resistance 
+19 with police over there. 
+20 And then there was some like crowd riot control police officers that came in from 
+21 a separate angle, and they kind of just stood in the middle of the crowd for a while and 
+22 then continued on. 
+23 And at a certain point people just started flooding up, and they just --you know, 
+24 right up the stairs. Yeah.  34 
+1 
+2 [11:00 a.m.] 
+3 BY-
+4 Q You mentioned that more towards the middle of the building you saw more 
+5 clashes with the police. What did you --what do you recall observing of those people? 
+6 What did they look like? Were they saying anything that you can remember? Just tell 
+7 me any details you can remember about the people that were clashing with the police. 
+8 A Okay. So it seemed the majority of the people were just plain clothes 
+9 dressed people, you know, some Trump hats here and there as far as like the people that 
+10 I saw, like, directly in the front. There were very strange groups of people that had 
+11 more like militaryish gear, and helmets, and like goggles and stuff. 
+12 And somebody told me that --I don't know, there was like a group of people and 
+13 they all had like a certain color, like, arm band or like color on their --and somebody told 
+14 me that they were, like, a group of, like, lawyers or something that go to, like, political 
+15 protests and stuff. And I don't know, something. So that was, like, one group that I 
+16 saw. And --
+17 Q Were the people in the arm bands --sorry, to interrupt you --were the 
+18 people in the arm bands also in the kind of military gear or this is a different group? 
+19 
+20 
+21 A Yeah, yeah. The same people --
+Q Okay. 
+A --that were in the military gear had the arm bands I guess so they could kind 
+22 of recognize each other. And they were, like, they weren't actively doing anything 
+23 besides just like huddling up in a group and, like, whispering to each other and stuff, 
+24 which I thought was a little strange. But I didn't see them do anything crazy at that 
+25 point.  35 
+1 Then there were just the random people dressed in non, you know, traditional 
+2 civilian clothes, helmets and stuff that you'd see here and there. But as far as, like, the 
+3 people that I saw, like, in the front front, it was a mixture of regular people and then a 
+4 couple, like, weirdly dressed militaryish clothes. 
+5 Q Do you remember what color the band was, the arm band that people were 
+6 wearing? 
+7 A You know, in my GoPro footage I am sure that can be easily detectable. 
+8 want to say maybe green, but I am not 100 percent sure off memory. 
+9 Q And then I take it at this point, as you are observing that, the mood had 
+10 changed. Is that right? 
+11 A Yeah. It was definitely a little bit more of a negative energy in the air --a 
+12 way a way different feel than the rest of the day. 
+13 Q Okay. Okay. So then you are observing these folks clashing kind of 
+14 towards the middle of the building, but you still continue up towards the Capitol 
+15 entrance. Tell me about that. 
+16 A Well, I --at some point --sorry to talk over you. But at some point, the 
+17 clashes kind of stopped, like, the police just backed off. And they kind of just let 
+18 everybody flood up the stairs. And I didn't go up immediately. I wasn't planning on 
+19 going up at all. But I do tend to just kind of like jump into action sometimes. Like if 
+20 there's a fight, I will jump in to try break it up. 
+21 One time I was standing outside of an establishment a few months ago and there 
+22 was a fire in a house, like, a block over. And me and my friend ran and we kicked down 
+23 the door, and ran in, and made sure somebody was in there. So I do tend to, like, jump 
+24 into action sometimes, usually for good. 
+25 So that, you know, was some of my thought process. But the majority of it was,  36 
+1 okay, I can get some really cool videos right now. So I planned, all right let me go up the 
+2 stairs and just film what I could film people flooding up the stairs. Film the whole vast 
+3 amount of crowds that were, you know, on the Capitol Grounds outside. So my drive to 
+4 want to capture something viral kind of led me up the stairs. 
+5 Q Okay. So the police seemed to back off a little bit and the crowds kind of 
+6 surge up the stairs. 
+7 
+8 
+9 A 
+Q 
+A Yeah. 
+And then what happens next? 
+So I got up the stairs, you hear people screaming, we stormed the Capitol, 
+10 we did it, we stormed the Capitol, whatever. And there was --at that point it was just 
+11 like a lot of excitement, less hostility. Just people kind of, like, amazed like how are we 
+12 walking up these stairs right now. But because the vast majority of the people that 
+13 went up were not people that were, like, it seemed like at least it wasn't people that were 
+14 actually clashing with police. It was just people that were kind of just standing around 
+15 and were like, oh, cool, lets go up the stairs. You know? 
+16 So I went up the stairs. I filmed the whole thing. At the top of the stairs --and 
+17 is where something in my mind, something crucial happened for my thought process of 
+18 actually going into the Capitol, and that was --we were almost in a way, like, greeted by 
+19 police officers at the top. There was a police officer with a case of water. And he was 
+20 just handing out waters to people. And it was, like, a very like welcoming attitude. 
+21 You know, like, he was, like, answering questions and talking to people. And it was just, 
+22 like, okay, I guess they, like --I guess they want us to do this. I guess this is all right. 
+23 And there was other cops just kind of standing around just observing. So there 
+24 wasn't any, like, hostility as soon as I got up the stairs. It felt, like I said, almost 
+25 welcoming in a sense.  37 
+1 And then I proceeded to follow the rest of the crowds towards I guess it was the 
+2 main entrance --not the main entrance of the Capitol, but I guess like, the main entrance 
+3 that the majority of the people were flooding into. 
+4 Should I stop there or do you want me to continue? 
+5 Q Just a couple of questions. 
+6 As you are heading towards that entrance, was there anybody directing you in 
+7 that direction or anybody kind of helping the crowd decide where to go? 
+8 A I mean, I may have seen a couple of people waving people up. But there 
+9 was nobody, like, screaming like we have to go this way, this way, this way. It was kind 
+10 of like a little bit of just confusion and people were just going, you know, with the 
+11 direction of everybody else. 
+12 
+13 Q 
+A Okay. And were you still with all of your friends at this point? 
+No. So --yeah, I forgot to get to that part. So as soon as we got towards 
+14 the front of the crowds, as soon as we saw there was any type of, like, we smelled like 
+15 some tear gas I guess in the air and that immediately upset the female that was with us. 
+16 So they kind of just took off. I didn't even get a chance to say good-bye to them because 
+17 there was, like, so many people around us towards the front at that point. And I guess 
+18 she was like so freaked out by all, like, the people and everything that they just kind of 
+19 just left. And at that point I was just on my own. I was, like, all right, I guess I am going 
+20 to keep filming. 
+21 Q Maybe I lost count of how many people you were with. Was it a friend, 
+22 their cousin, and a girlfriend? 
+23 
+24 
+25 A 
+Q 
+A And a girl. Yes. 
+Okay. And so --
+1 don't remember if the girl was a girlfriend, but it was a girl that was with  38 
+1 them. 
+2 Q Okay. So the cousin and the girl left. Did you friend also leave? 
+3 A All three of them left, like, he was kind of, like, taking responsibility for her. 
+4 They both were, both of the guys. They kind of just were, like, all right, we need to --I 
+5 think they just made the split decision, like, all right, we to get her out of here because 
+6 she's not very comfortable here. 
+7 Q Okay. So you described some of the groups that were --that you saw 
+8 before you entered the building. How about around this time that you are entering the 
+9 building, did you notice any particular groups of people that you remember? 
+10 A Any of the people that were in, like, gear I did not see at this point. There 
+11 was one guy who was really sketchy looking who had --at the very bottom of the stairs, 
+12 who had some type of military gear on. And he was trying really hard to hide his face. 
+13 He had like this visor that came down on his helmet that he put down. And he was just 
+14 like, keep moving people, keep moving, keep them moving. And it didn't even look like 
+15 he was going himself. He was just kind of, like, telling everybody to go up and it didn't 
+16 look like he was going to actually do it himself. 
+17 That was the only --that was last of anybody, in like, last gear that I saw until 
+18 maybe we were like actually in there in there. And even then, I am not really even kind 
+19 of pinpointing in my mind those people. 
+20 Q Why? This guy was sketchy because you thought he was concealing his 
+21 identity or what made you think he was sketchy? 
+22 A It was just his demeanor. And just, like, his, like, calmness of, like, this is 
+23 normal, everybody up the stairs, go ahead, go ahead. And it just seemed like he was 
+24 almost trying to, like, convince people to go up. In my mind, it felt like he was going to 
+25 go himself, he was more convincing people to go and, like, just trying to make some  39 
+1 direction. 
+2 Q And then what was your attitude at this point or your mood as you are 
+3 entering the building? 
+4 A Well, first off I --before I entered, I saw a VouTuber that I've seen before. 
+5 don't remember his name, but I know he's, like, kind of a political VouTuber. And he 
+6 was with his camera as well, just by himself with his camera. And I saw him go in. And 
+7 in my mind I am, like, all right. Well, he knows what he's doing. Like, I am pretty much 
+8 doing the same thing as him. Like, I am not reporting on it, but I felt like at that point, 
+9 like, all right, I am doing what he's doing, I am just recording everything. 
+10 And yeah, I did have a sense of, like, maybe I shouldn't do this, like --but at that 
+11 point, I didn't realize, like, how crazy of a thing it was to actually, like, to take the steps in 
+12 there. It was just kind of like, all right, I will just go, like, record and see what is going 
+13 on. I just felt, like, really --like, I was like, this is a historic day. So I was, like, all right, 
+14 let me just try to record as much as I can from this day. 
+15 Q A couple questions. One, would you recognize the name of the VouTuber if 
+16 I tried to give it to you, do you think? 
+17 A I think I just remember seeing him by face. I don't re --like, it's not 
+18 somebody I would, like, watch videos of. 
+19 
+20 
+21 Q 
+A Does the name Nick Fuentes ring a bell? 
+I have never heard that name before. No. 
+Q Okay. And then I think at this time were you still posting on Snapchat as 
+22 you are entering the building? 
+23 
+24 
+25 A Yeah. I posted a couple, like, right at the entrance. 
+Q Okay. 
+A I don't remember what else I posted. But I do remember specifically, like,  40 
+1 posting one like right after I walked in. 
+2 Q Okay. Is that the --I will just for the record I have seen transcripts of some 
+3 of those posts. There's one where it is a Snapchat post, I think it is right before you 
+4 entered the building. You say, holy shit, holy shit, oh my fucking God, we just stormed 
+5 the Capitol. Holy fuck. 
+6 
+7 
+8 A 
+Q 
+A Yeah. 
+Is that one you remember posting? 
+Yeah. I remember seeing that, afterwards, yeah. And that was just, like, 
+9 all, like, excitement. And there were so many people saying, like, we are storming the 
+10 Capitol, we are storming the Capitol. That just like just spewed out of my mouth, you 
+11 know. I was just like caught up in all the excitement of it. 
+12 Q I am just going to ask, where did you get that language using the words 
+13 storming the Capitol? 
+14 A I probably heard that a hundred times before I actually said it. It was kind 
+15 of just like had been beaming in and out of my ear ever since I first walked up to the 
+16 Capitol. So, yeah. It was just kind of, like, just spewed out. 
+17 Q Okay. Did --I know you have described kind of your purpose of entering 
+18 the Capitol is that you wanted to capture that on video and see what everybody was 
+19 doing. Any other motivations behind entering the building? Were you trying to make 
+20 a statement? Did you have an idea of wanting to achieve something by wanting to 
+21 enter the Capitol? 
+22 A No. I was not driven besides anything just wanting to film and then just, 
+23 like, my excitement of, like, always just jumping to action and just, like, jumping in those 
+24 situations. 
+25 Q Okay. It sounds like maybe not the best context for an extended  41 
+1 conversation, but did you talk to anybody else about why they were entering the Capitol? 
+2 A I never talked to anybody, like, directly and ask them. No. I mean, I 
+3 remember hearing some things, but even then, I don't really exactly, like, remember the 
+4 details of those comments. 
+5 Q Okay. I know you said that it wasn't until later that you understood what 
+6 the significance of the day January 6th was. 
+7 
+8 A Yeah. 
+Q By the time you are entering the Capitol, did you understand what was going 
+9 on on that day and what was happening in Congress? 
+10 A I understood there was some type of --I don't even know what to call it, but 
+11 I do know, like, Mike Pence was deciding something. 
+12 
+13 Q Okay. And how did you figure that out? 
+A I think I just overheard people talking about Pence and, like, you know, his 
+14 decision or something. I don't know, something like that. 
+15 
+16 Q Okay. And do you remember what they were saying about Pence? 
+A I can't specifically pinpoint in my mind what they were saying. I just 
+17 remember hearing his name. 
+18 Q Okay. How --well, let's just talk about, so now you have kind of gone 
+19 through those doors and you've entered the Capitol. What happened after that? 
+20 A Then I kind of just stood at the entryway filming people walking in. And 
+21 then I didn't know at that point if I was going to continue on. I thought it would just be 
+22 a good angle to have people coming in and then I thought maybe I would just go out from 
+23 there. But just my curiosity kept me in there, kept me following the crowds. And 
+24 again, my pursuit to try to film some stuff. And I did film everything thought that day. 
+25 So, I mean, I got what I wanted, but at what cost obviously.  42 
+1 Q Yeah, understood. 
+2 Can you tell me to the extent you can describe it or that you remember it the 
+3 route you took once you entered? 
+4 A So we went in and then made a right turn. And then we eventually got to 
+5 an area with a few officers standing there like kind of I guess forming some type of wall. 
+6 There wasn't really enough officers to form, like, side-by-side kind of wall. But they 
+7 were standing there. And then there were so many people flooding in there, that it was 
+8 pretty impossible for, you know, only a few officers to direct the crowd to not move any 
+9 further. And people just kept flooding more and more. 
+10 Q Okay. At some point, I understand you are inside the building and there's 
+11 another door that's shut, that's --you are on the interior, there is a door that's shut, and 
+12 then there's also protesters outside of the door. Do you know what I am talking about? 
+13 There is a moment where a door opens up and you are near that door area? 
+14 
+15 
+16 
+17 
+18 A 
+Q 
+A 
+Q 
+A Are you speaking of exterior door? 
+Yes. So it is an exterior door and then rioters come in that door as well. 
+Yes. Yes. 
+Do you recall this door opening up? 
+Yeah. Yeah. At that point, I thought that was, like, a pivotal moment to 
+19 record. So I kind of just got in there and tried to film the best angle that I could. I see 
+20 now that I probably shouldn't have been around those people, based off, you know, what 
+21 the DOJ was kind of insinuating me being around them. I guess I kind of look like I may 
+22 have been, like, actively with that group. But my only motivation for being in there, 
+23 around them was just to get the best shot with my GoPro, which I had recording. 
+24 Q Okay. Okay. Can you tell me how you got to that group and then kind of 
+25 what you saw as you got near the door?  43 
+1 A So we ended up in the rotunda area and then eventually we were kind of 
+2 sectioned off in that area of the rotunda and then that next lobby area where that entry 
+3 door is. 
+4 So I end up in that area because that was just kind of where the crowd funneled 
+5 through and ended up at. And then that was kind of where we were contained. 
+6 
+7 Q 
+A Okay. So then what started happening in what is there in that area? 
+Just a lot of just confusion and chaos. I was --I hit a point where I was just 
+8 stuck in the middle of the crowd with nowhere to go. And this was when I was like kind 
+9 of at the entry door to the rotunda, in between the lobby and the rotunda. And then 
+10 the police started to use, like, extreme, you know, force to try to push us even further. 
+11 But the people who were in front of me, like, didn't want to move. And then I 
+12 had the police coming from this way pushing. So then at one point I was, like, really 
+13 stuck in the middle of the crowd. At that point I really just wanted --I was like, all right, 
+14 I should just leave here, this isn't worth the video. Yeah --
+15 Q Just so that I understand, which direction were the police trying to push you 
+16 in? 
+17 A They were pushing us towards that lobby area where the entry door is. 
+18 And that side of the Capitol is the complete opposite side from when we first entered. 
+19 Q And then just describe to me how --what you observed as this group starts 
+20 to try to open that exterior door? 
+21 A Well, there was people on the outside pushing on the door and whatnot or 
+22 pulling. I don't really remember if it was pushing or pulling. And then I guess a few 
+23 people on the inside decided to try to help that effort. And that's when I saw one of the 
+24 doors start to, you know, creep open, I guess. And I got in there to get, you know, the 
+25 best angle, because I saw a vast amount of people on the outside.  1 So it was, like, a really, like, interesting view from where I was, you know, the 
+2 doorway with just a bunch of people on the outside trying to get in. 
+3 Q Okay. And so, you understood that the people were trying to open that 
+4 door, but you said you weren't there to try to open the door, you were just trying to cut 
+5 through the --
+6 
+7 A I yeah, I was trying to get myself in the best position to film the best angle. 
+Q Okay. And then at this point are you still kind of solo going through the 
+8 Capitol, or had you met anybody, or paired up with anybody? 
+9 A No. No. I was still solo. I barely talked to anybody. There was a few 
+10 people I talked to when I was --just like brief conversations when everybody --when it 
+11 was, like, calm and everybody was just standing in the rotunda before, like, the police 44 
+12 were forcing everybody out of that area. You know, a couple of conversations like that I 
+13 overheard and maybe, you know, I said something, but I never had really any concrete 
+14 conversations with anybody. 
+15 Q Were you there when the doors fully opened up, those exterior doors that 
+16 we talked about? 
+17 A I believe so, yeah. I mean, we were kind of --there was nowhere else to go 
+18 besides right there. 
+19 Q Okay. All right, then take me through kind of next steps. After you are in 
+20 that area filming this conflict at the door, what happens after that? 
+21 A I kind of realized, like, okay, like, people might start flooding in here if they 
+22 get the doors all the way open. So I kind of took a step back and just kind of observed 
+23 from the side, even though it wasn't a good angle for recording. I just decided, all right, 
+24 let me just get out of the way here and wait for my turn to leave. 
+25 Q Okay. And then you can continue. What happened after that?  45 
+1 A Just, you know, some people started to come in that door. I --the only, 
+2 like, specific thing I remember is an older gentleman, like, got like pepper sprayed, I 
+3 guess, and he was just kind of sitting there on a bench. He seemed like he was one of 
+4 the people who came in through that one door. 
+5 And then I kind of just waited for things to calm down as far as, like, people 
+6 coming in that door. And I just decided to get out as soon as I could. 
+About how long do you think you were inside the building? 7 
+8 Q 
+A I would say --it's really hard to like gauge the time, because there was like so 
+9 much going on, but I want to say like 30 minutes maybe. 
+10 Q Okay. So after you kind of wait in that lobby area near the external door 
+11 and wait for things to calm down, at some point you decide to leave. What prompted 
+12 you to leave? 
+13 
+14 A 
+Q The police officers that were telling us to leave. 
+Okay. Did --so I know you described when you first entered the Capitol 
+15 you mentioned there was a police officer there who was handing out water and it felt sort 
+16 of like a welcoming atmosphere --
+17 
+18 A 
+Q Yeah. 
+--or he wasn't telling you to leave. At what point when you were inside did 
+19 you come to understand that the police actually wanted you to leave the building? 
+20 A Well, definitely by the time that they were all, like, pushing us in the rotunda 
+21 to be, like, contained towards the lobby. As soon as I --you know, obviously I knew. 
+22 Like. This is probably something that people aren't going to like, like law enforcement. 
+23 But up until that point it kind of seemed like maybe this is just, you know, a peaceful, like, 
+24 protest where people are just going to sit in and, you know, peacefully protest inside. 
+25 Yeah.  46 
+1 It wasn't until I realized, like, there was, you know, extreme force with riot police 
+2 and stuff in the rotunda. Because up until that point, it was still like people were in high 
+3 spirits, a like really like kind of happy atmosphere again as soon as possible people were 
+4 inside. And then like I said, as soon as those riot police started moving through, that 
+5 was in my mind like, all right, I should get out of here. Like they really want us to get out 
+6 of here. 
+7 Q Okay. So at that point you leave through that door that's opened up. 
+8 What happens after that? 
+9 A I just got out of the crowd just as soon as I could, and got down the steps, 
+10 and just kind of observed from the bottom for a couple of minutes. And then I was, like, 
+11 all right, let me try to find my dad. And I gave him a call to see where he was. 
+12 Q Okay. And then --am I right, I think I have seen in some of the other 
+13 pictures or videos, did your dad come in that door near where you were when it had 
+14 opened up? 
+15 
+16 
+17 A Yeah. So I had no idea he was in there. 
+Q Okay. 
+A Like, apparently, he was --like, with my FBI interview, DOJ interview, 
+18 whatever it was, they showed me how he, like, came through the door. And I was like, 
+19 wow, I was standing very close to that. But there were so many people it's impossible 
+20 to, like, look at everybody. 
+21 So it wasn't until --you know, I talked to him after and he said that he walked in 
+22 briefly --but it wasn't until that interview that I realized how close he was actually to me. 
+23 Q Okay. So you leave, you call your dad. Did he pick up? Or how did you 
+24 end up getting back in contact with him? 
+25 A Yeah. He picked up the phone and he at that point was down the steps  47 
+1 somewhere waiting for me as well. 
+Q Okay. And now this is on the other side of the building --
+A Yes. 
+Q --from where you entered? 
+A The complete opposite side, yep. 
+Q Okay. Great. 2 
+3 
+4 
+5 
+6 
+7 So we have been going for almost an hour and a half now. Do you need to take a 
+8 break or anything? 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 record. A 
+Q 
+A 
+Q 
+A 
+Q 
+A 
+Q Yeah. I would like to use the bathroom really quick. 
+Okay. Let's do that. It's 11:28, why don't we come back at 11:35. 
+Okay. 
+So feel to turn off your camera, and mute your mike, and we will go off the 
+Okay. 11:35 you said? 
+Yes, 11:35. 
+Okay. Thank you. 
+Yep. 
+[Recess.] 
+B~ 
+Q Let us go back on the record. 
+Okay. So James, we had or J.D., sorry. We had kind of left off where you leave 
+22 the Capitol Grounds and you've met back up with your father after calling him. I did 
+23 have some questions about some communications that your father sent while he was 
+24 either on the Grounds or afterwards that evening and some representations he made in 
+25 those texts?  48 
+A Yes. 1 
+2 Q So one of the things --and you have probably seen these, but one of things 
+3 that he said was that he was in Speaker Pelosi's office and that he urinated in the office 
+4 and that you had videos of that. Are you familiar with that text? 
+5 
+6 
+7 
+8 
+9 
+10 
+11 friends. A 
+Q 
+A 
+Q 
+A 
+Q Yeah. 
+Okay. And I take it from your account that that's not true? 
+Absolutely not. Yeah, he kind of just said that, I guess to seem cool to his 
+Okay. 
+He tends to do that sometimes, he kind of exaggerates. 
+Can you just elaborate on that a little bit. Do you know did he actually go 
+12 into the Speaker's Office? Did he urinate at all? Obviously you don't have videos of 
+13 that? 
+14 A He didn't either. I believe he was in the Capitol for a few minutes and then 
+15 he left. And he barely even went in besides the, like little lobby area. 
+16 Q And do you know who the individual is that he was sending these messages? 
+A I don't think I ever met that person. I have no idea really who they are. 17 
+18 Q Okay. Let's just go through --so you are on the other side of Capitol 
+19 Building now and you've met up with your dad. What happens then? Let's first start 
+20 when you guys first meet, what do you talk about? What is his impression of what just 
+21 happened? 
+22 A Well, he may have known that I was already in there, because while he was 
+23 in there he did call me to see where I was and I couldn't hear him. So I kind of just said, 
+24 like, I am inside, I don't know if you can hear me or not and then I hung up. So at that 
+25 point he was like, you are inside. And then I said --I said I honestly forget the exact  49 
+1 conversation we had, but it was something along the lines of, like, I went in, yeah. Oh 
+2 you went in. I went in for a second, yeah. And it was kind of just like, all right, let's just 
+3 leave here. This is enough chaos for one day. 
+4 Q And then so what did you guys end up doing after that? How did you 
+5 leave? 
+6 A We --I believe we found some more bikes and just headed right back to the 
+7 parking garage. Because at that point we were already checked out of the room, but 
+8 the car was still in the hotel parking garage. So we just road right back to the truck and 
+9 headed back north. 
+10 Q Any other recollections about kind of things that you and your dad talked 
+11 about on the way back? Were you following any news sources and watching coverage 
+12 of what had happened? 
+13 A I don't really remember what we talked about. I am sure I was, you know, 
+14 interested in some of the news coverage and whatnot. But I believe that most of that 
+15 ride home I just took a nap because we were up pretty early and whatnot. It was a long 
+16 day. 
+17 Q Do you remember in the period of time that you were in the Capitol or 
+18 immediately after --do you remember seeing or hearing about any of the messages from 
+19 President Trump that he was sending to people at the Capitol? 
+20 
+21 A 
+Q No. I didn't even know that was a thing. 
+Sorry. I should be more clear, it wasn't. He released a statement, a video 
+22 statement, speaking to the people at the Capitol and then asking at one point for them to 
+23 leave and go home peacefully. Do you recall hearing about that? 
+24 A I do not. I remember hearing about it after the fact. But while I was 
+25 actually in the Capitol, I don't remember that. No.  50 
+1 Q Okay. After you left the building and on your way back home, did you call 
+2 your mom at any point or update her on what had happened? 
+3 
+4 A I honestly don't remember, but I am sure I did. Yeah. 
+Q Okay. Do you remember either that day or afterwards conversations with 
+5 her and what her reaction was to what had happened? 
+6 A I mean, she wasn't happy, you know, that I put myself in that situation. As 
+7 far as besides that, I can't really remember what was said. But she definitely, you 
+8 know --she was just like, you know, I am glad you are all right type of thing. 
+9 Q And then how about your dad's attitude as you are heading back? What 
+10 was his kind of take on the whole day? 
+11 A I mean, he didn't have any really, like, strong emotions or anything. Yeah, I 
+12 mean, honestly, we didn't talk about it much. It was just kind of like something that 
+13 happened, and had some brief conversations about it, and that was it. 
+14 Q Why don't you --you have gotten back home, why don't you tell me kind of 
+15 what happened with you and your dad as far as interaction with the FBI or DOJ about 
+16 your involvement on the 6th? 
+17 
+18 
+19 
+20 
+21 A I am sorry. I am just confused what you are asking. 
+Q When did you first hear from the FBI after the 6th? 
+A When they raided my house. 
+Q Okay. And when was that? 
+A It was either late February or early March, I would say. I can't exactly 
+22 remember. I was actually not even home, I was on a snowboarding trip. 
+23 Q Right, okay. And then it can be pretty high level, but just tell me after that 
+24 how many times did you meet with FBI? I know you interviewed with them. Just give 
+25 me kind of the run through of that interaction.  51 
+1 A I believe it was like two major interviews that I did. It's kind of hard to 
+2 remember, but I was on a separate ski trip, that had already been planned and whatnot, 
+3 when I did the initial interview I believe. 
+4 I am having a hard time remembering if there was an actual second interview that 
+5 I did on Zoom. But I know the next interactions were just, you know, giving them my 
+6 GoPro material and my phone for, you know, the data dump and whatnot. 
+7 They already had my computer so I had to give them the password for that. And 
+8 then the only thing after that where I had actual contact with them was when I had to go, 
+9 like, turn myself in and do the whole processing stuff. 
+10 Q Okay. I want to talk about just sort of looking back on January 6th and kind 
+11 of your current feelings about that day. What --well, I guess just looking back on that 
+12 day if you kind of want to just give me your general thoughts or how you feel about what 
+13 happened? 
+14 A I mean, at the end of the day I think it was not the best day for our Nation's 
+15 history. I had no idea the extent that this would be going as it was unfolding. But I can 
+16 definitely see, you know, how big of a thing it is now. 
+17 I am definitely regretful for going in there. I mean, I got some good video, but it 
+18 was not worth it at all looking back. And if I, you know, could make that decision again, I 
+19 may have went up to the bottom steps, but I never would have went up those steps. 
+20 Q Has that experience, the 6th and then afterwards, kind of changed your 
+21 views on politics or your engagement with politics? I know you said before you weren't 
+22 very engaged? 
+23 A It's not something that I guess you'd say, like, triggered me to be like more 
+24 political or anything. No, I can't say that made me, like, you know, pushed me into 
+25 politics more or anything.  52 
+1 Q Okay. And then how about your views on President Trump? So I know 
+2 you said that you voted for him in the general election and were generally a supporter. 
+3 What are your feelings about President Trump now? 
+4 A I mean, at first I just took what my parents would tell me and a little bit of 
+5 things and, you know, things that other people would tell me that were supporters of his. 
+6 Now looking back, like, there's a lot of things like I don't necessarily like about him when I 
+7 actually, like, dive deeper into --besides the obvious things like the Twitter stuff, like, kind 
+8 of childish things like that. 
+9 Yeah, I don't have many strong views like --it's not like I really like --like I said, I 
+10 am not a Trump supporter. Like I did vote for him, but I don't consider myself currently 
+11 a Trump supporter or even when I did go into the Capitol, I wouldn't consider myself a 
+12 Trump supporter, even though I did vote for him because I was not, you know --I didn't 
+13 know enough I would say. 
+14 Q Okay understood. And then I know you also mentioned that on the 6th or 
+15 shortly after that you came to somewhat understand Vice President Pence's role on that 
+16 day? 
+17 
+18 
+19 A Yeah. 
+Q Do you have any thoughts about Vice President Pence after the 6th? 
+A I mean, as far as I can tell, he did exactly what he was supposed to do. And 
+20 I don't think he had any kind of power that people think he did to do what they were 
+21 expecting him to do. That's kind of my feelings on it. 
+22 Q Okay. Then I am pretty much done with my questions. I just kind of 
+23 wanted to give you an opportunity, if there's anything you wanted to say or any other 
+24 thoughts you had about the events of 6th that we haven't already covered, feel free to let 
+25 me know.  53 
+1 A I mean, all is I can say is like I said, I deeply regret going in. You know, not 
+2 to justify what I did, but I --my only motivation was to record video and to just get in the 
+3 action. In fact, like while I was in there like I was even screaming, you know, yelling 
+4 loudly saying to people, like, be peaceful, don't break anything. Because I remember 
+5 hearing, like, something aggressive like maybe like somebody hitting a door or something 
+6 and immediately my reaction was just be peaceful, don't break anything. 
+7 Other than that, yeah I am definitely pretty apologetic that I did go in that building 
+8 after realizing the magnitude of it all. 
+9 Q Okay. Then I will just end by saying while we are still on the record that we 
+10 really appreciate your time in coming in to talk to us today. It's really helpful for our 
+11 mission just to understand, you know, kind of people's motivations for coming there that 
+12 day and helps us understand how to prevent that sort of event from happening again in 
+13 the future. So thank you very much. 
+14 A Absolutely. And if you ever, you know, need to get in contact with me 
+15 again for any further questions, I'd be happy to help in any way I can. 
+16 Q Okay. Great. That's good to know. Thanks, J.D. 
+17 And Ms. Shaner, did you have anything? 
+18 
+19 
+20 
+21 
+22 
+23 Ms. Shaner. I have one minor question. 
+- Do you want to do it on the record. 
+Ms. Shaner. Yeah. 
+- Okay. Great. 
+BY MS. SHANER: 
+Q Who gave you the flier or how did you get the flier on the 5th which told you 
+24 about the rallies? 
+25 A Honestly I think we just found something on the ground. Because there  54 
+1 were people passing stuff out. And it was actually the day of the 6th, not the 5th. So 
+2 how did I here about the initial rallies? 
+3 
+4 
+5 day? 
+6 
+7 Q No. 
+A Or the Capitol rally that we heard about that was going to be later in the 
+Q 
+A No. The rallies in Washington, either on the 5th or the 6th? 
+Oh, just the general rallies? I mean, I don't even remember. I think I just 
+8 heard of it from my dad and I don't know how he found out. 
+9 Q And on the 6th, you found a piece of paper on the ground that people were 
+10 handing out. 
+11 A Yeah, there was like --I remember seeing, like, a map of where the rallies 
+12 would be taking place. And it was like just a basic little map. And I think we found that 
+13 on the ground. 
+14 And then yeah, I think I maybe, like, followed that up by doing a Google search 
+15 just to confirm that there was something going on further before we wasted our time. 
+16 But yeah. 
+17 
+18 
+19 Ms. Shaner. Okay. That's my only question. 
+- Okay, great. Then with that, I think we can go off the record. 
+Well, let me just make sure, does anybody else have anything? -I see you are 
+20 still on the call. Do you have any questions? Are you good to go. 
+21 Okay. I think that's it then. So we can go off the record it's 11:51 and that's it. 
+22 And again, thanks, James. We appreciate it. 
+23 
+24 
+25 Mr. Rahm. Absolutely. 
+- Have a good Friday and weekend. 
+Mr. Rahm. Thank you, you as well.  55 
+1 - Okay. Thanks, Ms. Shaner as well. And also thank you,-for 
+2 transcribing us today. 
+3 [Whereupon, at 11:52 a.m., the interview was concluded.]  1 
+2 
+3 Certificate of Deponent/Interviewee 
+4 I have read the foregoing __ pages, which contain the correct transcript of the 
+5 answers made by me to the questions therein recorded. 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 Witness Name 
+Date 56 

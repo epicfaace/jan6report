@@ -1,0 +1,869 @@
+1 
+2 
+3 
+4 
+5 SELECT COMMITTEE TO INVESTIGATE THE 
+6 JANUARY 6TH ATTACK ON THE U.S. CAPITOL, 
+7 U.S. HOUSE OF REPRESENTATIVES, 
+8 WASHINGTON, D.C. 
+9 
+10 
+11 
+12 DEPOSITION OF: ROGER STONE 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 Friday, December 17, 2021 
+Washington, D.C. 
+21 The interview in the above matter was held in room 5480, O'Neill House Office 
+22 Building, commencing at 10:00 a.m. 
+23 Present: Representatives Luria, Schiff, Aguilar, Raskin, and Cheney. 1  1 
+2 Appearances: 
+3 
+4 
+5 For the SELECT COMMITTEE TO INVESTIGATE 
+6 THE JANUARY 6TH ATTACK ON THE U.S. CAPITOL: 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 , CHIEF INVESTIGATIVE COUNSEL 
+, INVESTIGATIVE COUNSEL 
+, INVESTIGATIVE COUNSEL 
+, CHIEF CLERK 
+, CHIEF ADMINISTRATIVE OFFICER 
+, PARLIAMENTARIAN 
+, RESEARCHER 
+, STAFF ASSOCIATE 
+18 For THE WITNESS: 
+19 
+20 GRANT J. SMITH, ESQ. 
+21 STRATEGYSMITH 
+22 Bank of America City Centre 
+23 401 East Las Olas Blvd., Suite 130-120 
+24 Fort Lauderdale, FL 33301 2  1 
+2 -· We are here this morning for the deposition of Mr. Roger Stone, 
+3 conducted by the House Select Committee to Investigate the January 6th Attack on the 
+4 United States Capitol, pursuant to House Resolution 503. 
+5 This will be a staff-led deposition, though members may choose to ask questions. 
+6 I will note for the record we are joined by the vice chair, Ms. Cheney, though we may be 
+7 joined by other members during the deposition, and I will endeavor to recognize them 
+8 when they appear. 
+9 My name is_, and I'm the investigative counsel who has been 3 
+10 designated to conduct this deposition by the select committee. With me today are -
+11 
+12 - who's the chief investigative counsel; 
+counsel;_, parliamentarian; and , an investigative 
+, professional staff. 
+13 Under the deposition rules, neither committee members nor staff may discuss the 
+14 substance of the testimony given today unless the committee approves its release. 
+15 Mr. Stone, you and your attorney will have an opportunity to review the 
+16 transcript. 
+17 I would note that, under the House rules, you may have an attorney present, but 
+18 counsel for other individuals may not be, and therefore are not, present. And the same 
+19 thing goes with counsel for other government agencies. 
+20 At this time, I'd ask that your attorney identify himself for the record. 
+21 
+22 
+23 
+24 Mr. Smith. Grant Smith, counsel to Roger Stone. 
+-· Thank you. 
+Let's lay out some of the ground rules for today. 
+As you can see, we have an official reporter --two official reporters who will be 
+25 transcribing the conversation. The deposition is also being videotaped, but the  4 
+1 reporters' transcription is the official record of the proceeding. 
+2 I'd ask that you please wait until my questions are finished before you start to give 
+3 your answer, and I will do the best to wait until you give your response before I ask 
+4 another. The reporter cannot note nonverbal responses such as shaking or nodding a 
+5 head, so it's important that you respond to each question and give an audible, verbal 
+6 response. 
+7 I'd ask that you give complete answers to the best of your recollection. If a 
+8 question is unclear, please just ask for clarification. If you do not know the answer, just 
+9 say so. 
+10 You may refuse to answer a question only to preserve a privilege that is 
+11 recognized by the select committee. If you refuse to answer a question based on a 
+12 privilege, we may proceed with the deposition or we may seek a ruling from the chairman 
+13 on the objection. If the chairman overrules the objection, you're required to answer the 
+14 question. 
+15 Finally, I would remind you that it is unlawful to deliberately provide false 
+16 information to Congress. Doing so could result in criminal penalties, including under 
+17 Title 18, United States Code, Section 1001. 
+18 In terms of logistics, we can take a break at any point if you need to, whether for 
+19 comfort or to speak with your attorney. We'd be happy to accommodate that. 
+20 Because this deposition is under oath, I'd ask that you raise your right hand to be 
+21 sworn. 
+22 The Reporter. Do you solemnly declare and affirm, under penalty of perjury, 
+23 that the testimony you're about to give will be the truth, the whole truth, and nothing but 
+24 the truth? 
+25 The Witness. I do so swear.  1 
+2 
+3 Q 5 
+EXAMINATION 
+Mr. Stone, in front of you and your attorney there are binders with some 
+4 documents that we're going to look at today. I'd ask that you first look at what's behind 
+5 tab No. 1. It's marked as exhibit 1. 
+6 This is a copy of the subpoena issued by the select committee on November 22nd, 
+7 2021. The exhibit itself contains the subpoena, a cover letter from the chairman, a 
+8 document schedule providing production instructions, and a copy of the House rules and 
+9 regulations regarding the conduct of the deposition. 
+10 First, can you please confirm that you are the Roger Stone named in this 
+11 subpoena? 
+12 
+13 A 
+Q 
+14 subpoena? 
+15 A 
+16 duty. 
+17 Q My name is Roger Stone, and I believe that is correct. 
+And you understand that you're appearing here today pursuant to this 
+I'm here in fulfillment of the subpoena as required by law and to do my civic 
+Thank you. 
+18 The subpoena also required production of documents that were described in the 
+19 schedule attached to the subpoena. Do you understand the documents were required 
+20 to be produced? 
+21 A I do understand that. 
+22 Q Your counsel delivered a letter to the select committee on or about 
+23 December 6th, 2021, that you were declining to produce any documents or answer any 
+24 questions pursuant to the Fifth Amendment. 
+25 The chairman responded to your counsel on December 9th, 2021, noting that a  6 
+1 blanket assertion of the Fifth Amendment was insufficient and, to that point, the 
+2 select committee is not aware of any basis for you to fail to produce any documents that 
+3 would be called for by the subpoena. 
+4 The chairman's letter also noted that you would need to sit for the deposition and 
+5 assert objections on a question-by-question basis. 
+6 I say all this to let you know that my goal for today is to ask questions that are 
+7 relevant to the select committee's investigation with the hope that you will answer. If 
+8 you have an objection or a privilege assertion, we'll ask that you assert it for the record. 
+9 I will seek to clarify the basis for the objection to see what the contours of it are. 
+10 I understand from your counsel that you do intend to assert the Fifth Amendment 
+11 to each and every question I ask. Be that as it may, I will say that our goal is simply to 
+12 understand the basis for your objection and fairly evaluate it. And, ultimately, the more 
+13 detail that you can provide as the basis for the Fifth Amendment objection, the easier it 
+14 will be for the select committee to understand and consider it. 
+15 
+16 
+17 
+18 -· I'd note for the record that Mrs. Luria has joined us. 
+Q 
+A BY-: 
+Mr. Stone, where do you reside? 
+On advice of counsel, I will be availing myself of my Fifth Amendment rights 
+19 in all of the questions today, including that one. 
+20 
+21 Q 
+A How old are you? 
+On the basis of the advice of counsel, I will yet again assert my Fifth 
+22 Amendment rights to respectfully decline to answer your question. 
+23 Q Mr. Stone, I understand that you'll be asserting your Fifth Amendment right 
+24 to each question that we ask today. 
+25 I will note that your position from the public record has been and I think continues  7 
+1 to be that you have done nothing wrong with respect to January 6th. In fact, we note 
+2 that yesterday on your Telegram account you wrote that you would plead the Fifth not 
+3 because you had done anything wrong but, because of past experience, your concern 
+4 about fabricating perjury charges based on statements made in the deposition today. 
+5 Do you understand that the Fifth Amendment protects your right to refuse to 
+6 answer questions if the truth itself would be incriminating? 
+7 A On advice of counsel, I will yet again invoke my right to decline to answer 
+8 your question respectfully on the basis of the Fifth Amendment. 
+9 Q I will just say that all we want is the truth, which, I believe by your own 
+10 assertion in the public record, you have stated is not itself incriminating. 
+11 And so, again, I would ask you: Is your position that, by telling the truth today, 
+12 you believe you are being made a witness against yourself for prior conduct that you 
+13 believe you could be prosecuted for? 
+14 A On advice of counsel, I will be yet again invoking my Fifth Amendment right 
+15 pursuant to the U.S. Constitution. 
+16 Q And you understand that it is not a valid basis to assert the Fifth Amendment 
+17 if you do not believe that the truth itself could lead to prosecution? 
+18 A Once again, I will assert my Fifth Amendment right to respectfully decline to 
+19 answer your question. 
+20 
+21 Q We will note for the record your position on these. 
+The documents that were called for --excuse me. Exhibit 1 called for the 
+22 production of documents. 
+23 Did you search for or locate any documents called for by the subpoena? 
+24 A Once again, on the advice of counsel, I respectfully decline to answer your 
+25 question on the basis of my Fifth Amendment rights.  8 
+1 Q Well, we would ask you whether it's the case that you are taking the position 
+2 that the act of searching for or identifying any documents responsive to the subpoena 
+3 would implicate the Fifth Amendment. Same thing with whether a privilege log would 
+4 implicate your Fifth Amendment privilege. 
+5 A Once again, I respectfully decline to answer your question on the basis of my 
+6 Fifth Amendment constitutional protections. 
+7 
+8 
+9 
+10 - I'd note for the record that Mr. Raskin has joined us. 
+Thank you for being here, Mr. Raskin. 
+BY-: 
+Q If you would flip to tab 2 --
+11 Mr. Smith. - before your next question, is it possible, so we can 
+12 shorten the statement, that Mr. Stone just says "the Fifth" or something shorter so we 
+13 move this along --
+14 
+15 
+16 
+17 
+18 -· Certainly. 
+Mr. Smith. --just in the interest of time? 
+- Certainly. That's fine. Thank you. 
+Mr. Smith. Okay. 
+- Moving forward, we'll understand that if you say "Fifth" or "Fifth 
+19 Amendment" or something thereto, that it will capture the statement that you have 
+20 responded with. 
+21 
+22 The Witness. I'm sorry. Could you repeat the tab that you want me to look at? 
+- Tab2. 
+23 Before I proceed to ask questions about the exhibits we have, I'll stop to see if any 
+24 of the members have questions. 
+25 Ms. Cheney. Thank you. I would like to ask a question.  Mr. Stone, do you believe the violence on January 6th was justified? 1 
+2 The Witness. On the advice of counsel, I respectfully decline to answer your 
+3 question on the basis of the Fifth Amendment. 
+4 Ms. Cheney. Have you ever spoken with President Trump on his private cell 
+5 phone? 9 
+6 The Witness. On the basis of the Fifth Amendment, I will once again avail myself 
+7 of my constitutional right to decline respectfully to answer your question. 
+8 Ms. Cheney. Did you speak to President Trump on his private cell phone on 
+9 either January 5th or January 6th? 
+10 The Witness. Once again, on advice of counsel, I will assert my Fifth Amendment 
+11 right to respectfully decline to answer your question. 
+12 Ms. Cheney. And, Mr. Stone, did you have any role in planning for the violence 
+13 on January 6th? 
+14 The Witness. Once again, I will assert my Fifth Amendment right to decline to 
+15 answer your question. 
+16 
+17 
+18 
+19 Ms. Cheney. Thank you. 
+-· Are there any other questions? 
+BY 
+Q Okay. Hearing none, Mr. Stone, behind exhibit 2 are photographs 
+20 appearing to show you at the President's residence at Mar-a-Lago in Florida on or about 
+21 December 27th. 
+22 I will tell you that, with respect to this photo and events related to it, the 
+23 select committee would like to ask you about this trip, whether you spoke directly with 
+24 President Trump --
+25 A I --I'm sorry.  10 
+1 Q --with whom else you may have spoken, whether those conversations were 
+2 about the November 2020 Presidential election result, conversations that you had 
+3 regarding strategies that the administration or his campaign may be deploying going 
+4 forward at this point, and, in particular, whether President Trump or his advisors 
+5 explained to you what they expected to happen on January 6th, 2021. 
+6 Is it your intention to assert your Fifth Amendment privilege to all questions that 
+7 we would ask about your communications with President Trump or his advisors about 
+8 their actions or expectations regarding the outcome of the 2020 election? 
+9 A With all due respect to the committee, I will yet again invoke my Fifth 
+10 Amendment right and decline to answer your question. 
+11 
+12 
+13 Q If you'd take a look behind tab 3 --
+Mr. Smith. May I just say something? 
+Mr. Stone is here to answer each and every question that you may have. You 
+14 may not appreciate the answer, but he's here to give a response to each and every 
+15 question. So, if you have more questions, I don't want it to be deemed that he's giving a 
+16 blanket answer to a series of questions. He's here to answer each and every question. 
+17 So, if you have more questions, ask them. We'll stay as long as possible. But I 
+18 don't want it to be seen as him giving a blanket answer to, you know, all questions you 
+19 may have. 
+20 
+21 
+22 -· Thank you. We appreciate that clarification. 
+BY-: 
+Q Behind tab 3, Mr. Stone, is a screenshot from a website that is titled 
+23 "Support the Stop the Steal Security Project." And it has a video that shows you and, in 
+24 the top left corner, a logo with a ballot box with the words "Stop the Steal." 
+25 Are you familiar with the phrase "Stop the Steal"?  1 A On advice of counsel, I will avail myself of my Fifth Amendment rights and 
+2 respectfully decline to answer your question. 
+3 Q Are you aware that that phrase was taken on and used by an individual 
+4 named Ali Alexander in response to the 2020 Presidential election? 
+5 
+6 
+7 A 
+Q 
+A Vet again, I assert my Fifth Amendment right. 
+Do you know Mr. Alexander? 
+Vet again, I respectfully decline to answer your question on the basis of my 
+8 Fifth Amendment constitutional protections. 11 
+9 Q During the 2020 Presidential election, did Ali Alexander talk to you regarding 
+10 his use of the phrase "Stop the Steal"? 
+11 A With all due respect, I once again invoke my Fifth Amendment right to 
+12 decline to answer your question. 
+13 Q Well, the select committee would like to ask you about your conversations 
+14 with Mr. Alexander regarding his and your use of the phrase "Stop the Steal" and, in 
+15 particular, your interactions and conversations with him following the 2020 Presidential 
+16 election, including whether you gave assistance to him or other individuals in regard to 
+17 the "Stop the Steal" campaign. 
+18 Is it your intention to assert the Fifth Amendment privilege to all questions that 
+19 we would ask about those communications or others regarding the so-called "Stop the 
+20 Steal" movement and Mr. Alexander? 
+21 A With all due respect, I yet again assert my Fifth Amendment right to decline 
+22 to answer your question. 
+23 Q And, to be clear, are you asserting that Fifth Amendment privilege in 
+24 response to those questions because you have a good-faith belief that the answers could 
+25 expose you to potential criminal prosecution?  12 
+1 A Once again, I will invoke my Fifth Amendment right to respectfully answer 
+2 your question. 
+3 Q Exhibit 3A is the video that was found on this website. And if we could play 
+4 that, it's going to be on the screen up here. 
+5 [Video shown.] 
+6 BY 
+7 
+8 Q 
+A Mr. Stone, that's you in the video, correct? 
+On the basis of the Fifth Amendment, I will decline respectfully to answer 
+9 your question. 
+10 Q Well, in this video, you encourage viewers to visit a website, 
+11 stopthesteal.org, to make donations to, quote, "help us pay for the staging, the 
+12 transportation, and, most importantly, the security of our peaceful protesters," end 
+13 quote, for a January 6th "Stop the Steal" rally. 
+14 Did anyone make donations to the project? 
+15 A 
+16 question? 
+17 
+18 Q 
+A On the basis of the Fifth Amendment, I respectfully decline to answer your 
+Who had control over the donations that were made? 
+Once again, on the advice of counsel, I will avail myself of my Fifth 
+19 Amendment constitutional protection and therefore respectfully decline to answer your 
+20 question. 
+21 
+22 Q 
+A Did you hire professional security for January 6th? 
+Once again, counsel, I will assert my Fifth Amendment right and decline to 
+23 answer your question. 
+24 Q Mr. Stone, the select committee would like to ask you questions about your 
+25 fundraising efforts for January 6th events, including who had control over the money;  13 
+1 how much money was raised; how, if at all, it was spent; and whether it actually, in fact, 
+2 went to staging, transportation, and security. 
+3 Is it your intention to assert the Fifth Amendment privilege to all of those 
+4 questions because your honest answers might expose you to possible criminal 
+5 prosecution? 
+6 A On the advice of counsel, I will avail myself of my Fifth Amendment 
+7 constitutional protections and once again decline to answer your question. 
+8 -· I'll pause to see if any members have followup questions based on 
+9 what we've covered. 
+10 Mr. Raskin? 
+11 Mr. Raskin. Mr. Stone, would you answer a question that did not expose you to 
+12 potential self-incrimination? 
+13 The Witness. On the basis of the advice of my counsel, I'm not going to respond 
+14 to that question based on my Fifth Amendment rights. 
+15 Mr. Raskin. I yield back. Thank you. 
+16 
+17 
+18 -· Thank you, Mr. Raskin. 
+BY-: 
+Q Mr. Stone, if you could look behind tab 4, this is marked as exhibit 4. These 
+19 are a series of screenshots from a chat on a messaging application called Signal. The 
+20 title at the top is "Jan 5/6 DC OK security/VIP Chat." And the date says January 1, 2021. 
+21 
+22 Mr. Stone, have you seen this chat thread before? 
+A On the basis of my Fifth Amendment constitutional protections, I will 
+23 respectfully decline to answer your question. 
+24 
+25 Q The center of the page --
+Mr. Smith. Can I ask a question?  1 
+2 
+3 
+4 
+5 
+6 - Yes. 
+Mr. Smith. Are these books for us to take with us? 
+-· They are not. 
+Mr. Smith. Okay. 
+BY 
+Q In the center of the first page of exhibit 4, the text reads, "Stewart added 
+7 Roger Stone." 
+8 Were you added to this Telegram group --or, excuse me, Signal chat? 
+9 A On the basis of the Fifth Amendment of the U.S. Constitution, I will once 
+10 again respectfully decline to answer your question. 
+11 
+12 Q 
+A Do you know an individual named Stewart Rhodes? 
+Once again, as I said earlier, I will assert my Fifth Amendment right and 
+13 decline to answer your question. 
+14 Q Well, on the second page of this exhibit --
+15 ~ And I'd note for the record that Mr. Schiff has joined us. 
+16 BY-: 
+17 Q On the second page, under the username "Stewart," the text says, "This 
+18 group is for all event organizers and VIP speakers who need Oath Keepers PSD or event 
+19 security on Jan 5/6, so they can talk to me and my top OK team leaders all in one place." 
+20 On the following page, page 3, Stewart again writes, "So far we are planning on 
+21 providing PSD teams for Ali Alexander and Roger Stone." 
+22 Mr. Stone, were you provided a personal security detail by an individual named 
+23 Stewart in Washington, D.C., on January 5th or 6th? 
+24 A Once again, on the advice of counsel, I respectfully decline to answer your 
+25 question on the basis of my Fifth Amendment constitutional right protections. 14  1 
+2 Q Are you familiar with a group called the Oath Keepers? 
+A Once again, counsel, with no disrespect, I would decline to answer your 
+3 question on the basis of my Fifth Amendment rights. 
+4 Q If you'd flip to the fourth page of this exhibit, the user Stewart, at the 
+5 bottom --
+6 
+7 
+8 A One second. 
+Okay. Thank you. 
+Q At the bottom of the fourth page, Stewart indicates that he has designated 
+9 certain individuals who will be involved in, quote, "leadership/coordination," unquote, 
+10 including, quote, "Kelly Meggs from FL (who ran the PSDs for Roger Stone)," end quote. 
+11 Do you know a Kelly Meggs from Florida, Mr. Stone? 
+12 A On the basis of the Fifth Amendment of the U.S. Constitution, I respectfully 
+13 decline to answer your question. 
+Q And did Mr. Meggs provide security detail for you before January 2021? 15 
+14 
+15 A Once again, on the basis of my Fifth Amendment constitutional protections 
+16 and rights, I respectfully decline to answer your question. 
+17 Q On the fifth page, the last page, of exhibit 4, in the center, an individual with 
+18 the username "Roger Stone" posts a graphic with your photograph on it appearing to 
+19 advertise a MAGA Freedom Rally D.C. at the United States Capitol on January 6th with 
+20 Roger Stone as a keynote speaker at 3:45 p.m. 
+21 The caption beneath the graphic says, "I am very proud to be talking about health 
+22 Freedom and the fight to save America at the MAGA Freedom Rally Jan 6." 
+23 Mr. Stone, is that your message in this Signal chat? 
+24 A Once again, I respectfully decline to answer your question on the basis of the 
+25 constitutions as afforded by the Fifth Amendment of the U.S. Constitution.  16 
+1 Q Mr. Stone, as I think you are aware, it's been publicly reported that you were 
+2 interacting with members of the Oath Keepers on January 5th and 6th in Washington, 
+3 D.C., and previously had interacted with members of a group called the Proud Boys on 
+4 trips to D.C., at least in December 2020. 
+5 We would like to ask you about those interactions, as well as other interactions 
+6 you may have had with additional groups purporting to provide personal or private 
+7 security details, such as the Three Percenters. 
+8 Is it your intention to assert your Fifth Amendment privilege to all the questions 
+9 we would ask you about your use of personal security details or interactions with 
+10 members of these groups under the Fifth Amendment? 
+11 A Yes, counsel, it is my intention, on the advice of my counsel, to assert my 
+12 Fifth Amendment rights in response to any such questions, including that one. 
+13 Q I'd like to ask you to look at exhibit 5. This is a printout of a post from what 
+14 is your personal website, stonecoldtruth.com. The title of this post is "Guilt By 
+15 Association," and it indicates "by Roger Stone." 
+16 Stonecoldtruth.com is your website, is it not? 
+17 A I decline to answer your questions on the basis of my Fifth Amendment 
+18 constitutional protections with all due respect. 
+19 Q At the bottom of the second page of exhibit 5, if you count up, the third 
+20 paragraph from the bottom, in the middle of that paragraph, you wrote, "The 
+21 Oathkeepers came forward to voluntarily provide free security for me as they graciously 
+22 had done at three previous rallies in Miami and Tampa." 
+23 Is that true? 
+24 A I decline to respond to your question once again on the basis of my Fifth 
+25 Amendment right to do so under the U.S. Constitution.  17 
+1 Q Mr. Stone, assuming that you wrote this blog post and that the words 
+2 contained in it are the truth, is it your position that, by writing this blog post, you exposed 
+3 yourself to potential criminal prosecution? 
+4 A I respond to answer your question once again on the basis of my Fifth 
+5 Amendment rights under the U.S. Constitution. 
+6 
+7 -· I'll pause to see if any members have followup questions on that line. 
+Mr. Raskin. I'd like to ask Mr. Stone whether you believe that coups are allowed 
+8 in our constitutional system. 
+9 The Witness. I most definitely decline to respond to your question based on my 
+10 Fifth Amendment constitutional protections with all due respect. Therefore, I will not 
+11 answer the question on the basis of the Fifth Amendment. 
+12 Mr. Raskin. Do you believe violent insurrections are allowed in our 
+13 constitutional system? 
+14 The Witness. I respectfully decline to answer your question on the basis of my 
+15 Fifth Amendment rights. 
+16 Mr. Raskin. Do you believe fascist street violence is allowed in our constitutional 
+17 system? 
+18 The Witness. I respectfully decline to answer your questions based on my Fifth 
+19 Amendment rights. 
+20 
+21 
+22 
+23 
+24 
+25 rights. Mr. Raskin. I yield back. 
+-· Thank you, Mr. Raskin. 
+Q 
+A BY-: 
+Mr. Stone, do you know an individual named Julie Fancelli? 
+I decline to answer your questions on the basis of my Fifth Amendment  1 
+2 Q 
+A What about Caroline Wren? 
+Once again, I will assert my Fifth Amendment privilege under the U.S. 
+3 Constitution not to answer your question. 
+4 Q Did Caroline Wren arrange for you to travel to Washington, D.C., for the 
+5 events on January 5th and 6th? 
+6 A Once again, I will assert my Fifth Amendment right and respectfully decline 
+7 to answer your question. 
+If you could take a look at exhibit 6. 
+Yes. 18 
+8 
+9 
+10 Q 
+A 
+Q I can represent to you this is a screenshot from a text conversation between 
+11 Caroline Wren and an individual identified as "Kristen" with the initials "K.D." 
+12 
+13 
+14 rights. 
+15 There is an individual named Kristen Davis who works for you. Is that right? 
+A I decline to answer your question on the basis of my Fifth Amendment 
+Q Well, this text exchange shows Ms. Wren writing on January 1st, 2021, 
+16 "Good for the plane will book it tomorrow," and providing an email address that has been 
+17 identified as Ms. Wren's 
+18 At the bottom of this exhibit, Kristen with the initials "K.D." responds on January 
+19 3rd, 2021, "Good morning. It's just me and Roger on the plane." 
+20 
+21 You are the Roger that this individual is referring to, correct? 
+A With no disrespect, I yet again decline to answer your question on the basis 
+22 of my Fifth Amendment constitutional right protections. 
+23 Q Well, if you'd look at exhibit 7, I can represent to you that this is a flight 
+24 itinerary from a company called Private Jet Services for a private jet that was billed to 
+25 Bluebonnet Consulting, which is Caroline Wren's consulting company, and it lists as its  19 
+1 passengers, among others, Roger Stone and Kristen Davis. The itinerary reflects a 
+2 January 5th, 2021, flight from Fort Lauderdale, Florida, to Washington Dulles 
+3 International Airport. 
+4 Is this the flight that you took to Washington, D.C., on that date? 
+5 A With no disrespect, counsel, I decline to answer your question on the basis 
+6 of my Fifth Amendment constitutional rights. 
+7 Q If you look at exhibit 8 behind tab 8, this is a record from the Willard 
+8 Intercontinental hotel in Washington, D.C., reflecting a stay between January 5th, 2021, 
+9 and January 7th, 2021, for a Mr. Roger Stone. 
+10 Was this the time period that you stayed at the Willard hotel, Mr. Stone? 
+11 A I'm going to yet again assert my constitutional right under the Fifth 
+12 Amendment and decline to answer your question. 
+13 Q The company listed on this information from the Willard Intercontinental is 
+14 Intentional Lite and Wellness. Do you know what that company is? 
+15 A I yet again assert my Fifth Amendment right and respectfully decline to 
+16 answer your question. 
+17 Q Mr. Stone, the select committee, as you can see, has information suggesting 
+18 that you were on a private flight from Florida to Washington, D.C., on January 5th and 
+19 stayed at the Willard hotel. 
+20 We'd like to ask you about the accommodations that were made, including who 
+21 organized and arranged these flights and hotel room and who paid for it, and what the 
+22 purpose of this trip to Washington was. 
+23 Is it your intention to assert your Fifth Amendment privilege against answering all 
+24 the questions that we would ask you regarding these accommodations in January of 
+25 2021?  20 
+1 A I respectfully decline to comment or respond to your questions based on my 
+2 Fifth Amendment constitutional protections. 
+3 Q Is your refusal to answer those questions based on a good-faith belief that 
+4 the answers could potentially expose you to criminal prosecution? 
+5 A I will respond yet again, counsel, to your request to answer that question 
+6 based on my Fifth Amendment constitutional rights. 
+7 Q If you look at exhibit 9, exhibit 9 contains a series of images that were found 
+8 on open sources, websites, advertising speakers for various events in Washington, D.C., 
+9 on January 5th and 6th. 
+10 For example, the first page shows an event under the caption "One Nation Under 
+11 God," sponsored by Virginia Women for Trump, and, as you can see, the first speaker 
+12 listed is Roger Stone. According to this flyer, the event was to be held on Tuesday, 
+13 January 5th, from 2:00 to 5:00 p.m. 
+14 Were you slated to speak at this event? 
+15 A Once again, I will assert my Fifth Amendment right to respectfully decline to 
+16 answer your question. 
+17 Q The second page of exhibit 9 is another image that identifies Roger Stone 
+18 and has your image. And it says this is for the "Rally to Save America," "Presented By: 
+19 Eighty Percent Coalition." And it identifies Freedom Plaza as the location, on Tuesday, 
+20 January 5th, from 7:00 to 8:00 p.m. 
+21 Were you slated to speak at this event? 
+22 A I decline to answer your question both on the advice of counsel and under 
+23 my Fifth Amendment constitutional right to do so. 
+24 Q The third page of exhibit 9 is yet another image, and, this one, you can see 
+25 your face in the center of the page. And it's for an event called "Freedom Rally." This  21 
+1 is now on Wednesday, January 6th, from 12 p.m. to 4:00 p.m. at the United States 
+2 Capitol. 
+3 Were you asked to speak at this event? 
+4 A I again assert my Fifth Amendment right to respectfully decline to answer 
+5 your question. 
+6 Q Finally, the next three pages of exhibit 9 reflect screenshots from the 
+7 archived website wildprotest.com. 
+8 As you can see, the wildprotest.com website indicates an event, among others, 
+9 from 1:00 p.m. to 5:00 p.m. on January 6th at the Capitol Building. And the final page of 
+10 the exhibit identifies, among others, Ali Alexander, Roger Stone, Representative Paul 
+11 Gosar, Representative-elect Marjorie Greene, Representative-elect Lauren Boebert, and 
+12 others as invited speakers and featured guests. 
+13 Were you invited to speak at the Capitol Building on January 6th at 1:00 p.m.? 
+14 A I will respectfully decline to answer your question yet again on the basis of 
+15 my Fifth Amendment constitutional rights and protections. 
+16 Q Behind exhibit 10, I can tell you this is an archived blog post from the 
+17 website thegatewaypundit.com. The title is "Roger Stone Associate,: 'We had no part 
+18 in Jan 6th."' And it indicates, a guest post written by "Roger Stone Associate Kristen 
+19 Davis." 
+20 Is Ms. Davis your associate? 
+21 A I decline to answer your question on the advice of counsel and my Fifth 
+22 Amendment constitutional right to do so. 
+23 Q At the bottom of the second page of exhibit 10, Ms. Davis writes: 
+24 "So what exactly happened on January 6th in Washington D.C. as it pertains to 
+25 Roger Stone. The facts are simple and crystal clear. I booked Roger to speak at the  22 
+1 Rally to Save America the night prior and was led to believe by Women for America First 
+2 that he was supposed to speak the following afternoon on January 6th, at a rally they 
+3 organized which featured President Donald J. Trump. After a completely peaceful rally 
+4 on January 5th, which attracted thousands of brave American patriots, we woke up the 
+5 next morning expecting to attend the rally at the Ellipse." 
+6 Is it true that you were expecting or had been invited to speak at the rally where 
+7 the President would speak on January 6th, 2021? 
+8 A With no disrespect, I will yet again assert my Fifth Amendment right to 
+9 decline to answer your question. 
+10 Q Well, Mr. Stone, as you can see, we've identified multiple events where you 
+11 were advertised as a speaker on January 5th and 6th by different groups in Washington, 
+12 D.C. 
+13 The select committee would like to ask you questions about how you were 
+14 recruited to those events, what guidance you may have been given about the purpose of 
+15 the events, whether you were given any guidance or participated in coordination about 
+16 the messaging for those events, and then ultimately why you may or may not have 
+17 spoken at those events on January 5th and 6th. 
+18 Is it your intention to assert your Fifth Amendment privilege to all the questions 
+19 that we would ask you regarding your speaking engagements on January 5th and 6th, 
+20 2021? 
+21 A I believe I understand your question. I will yet again assert my Fifth 
+22 Amendment right and respectfully decline to answer such questions. 
+23 
+24 Q Mr. Stone --
+Mr. Smith. And, again, I'm just going to reiterate, it's your prerogative not to ask 
+25 the list of questions that you have. He's here and will, you know, provide a response to  1 each and every question should you choose to ask them. 
+2 
+3 
+4 -· I understand. 
+BY-: 
+Q To be clear, Mr. Stone, are you asserting your Fifth Amendment privilege 
+5 against answering our questions about your speaking engagements on January 5th and 
+6 6th because you believe that your truthful and honest answers could expose you to 
+7 potential criminal prosecution? 
+8 A I once again invoke my Fifth Amendment right and respectfully decline to 
+9 answer that question. 23 
+10 
+11 
+12 
+13 -· I'll pause to see if any members have followup questions on that line. 
+Mr. Schiff. I do have some questions. It's Adam Schiff. 
+Mr. Stone, were you previously convicted of making false statements to Congress? 
+The Witness. I respectfully decline to answer that question based on my Fifth 
+14 Amendment rights. 
+15 Mr. Schiff. Mr. Stone, are you invoking your Fifth Amendment rights because of 
+16 a concern over potentially making additional false statements to Congress or for your 
+17 involvement in the underlying conduct that led to the insurrection? 
+18 The Witness. Based on the advice of my counsel, I will respectfully decline to 
+19 answer that question based on my Fifth Amendment rights as guaranteed by the 
+20 U.S. Constitution. 
+21 
+22 Mr. Schiff. I have no further questions. Thank you. 
+Mr. Raskin. I'd like to ask Mr. Stone about an article that appeared in The New 
+23 Yorker magazine on May 23rd, 2008, called "The Dirty Trickster." 
+24 And, in that article, Mr. Stone, you're quoted as saying, "Admit nothing. Deny 
+25 everything. Launch counterattack."  1 
+2 Is that an accurate quote? 
+The Witness. On the basis of the Fifth Amendment of the U.S. Constitution, 
+3 which I revere, I will respectfully decline to answer that question. 
+4 
+5 Mr. Raskin. Did you ever seek any kind of correction for that quotation? 
+The Witness. Once again, on the basis of the Fifth Amendment of the 
+6 Constitution of the United States, I will respectfully decline to answer that question. 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 Mr. Raskin. Okay. Thank you very much. I yield back. 
+The Witness. Thank you. 
+BY 
+Q Mr. Stone, later in the post by Ms. Davis, at page 4 --
+A Tab 4 or page 4? 
+Q Page 4 of exhibit 10. 
+Mr. Smith. The previous tab. 
+Mr. Stone. Oh. 
+Mr. Smith. I think one more. There you go. 
+BY-: 
+Q I apologize, maybe it's not on page 4. But it's been publicly reported 24 
+18 that --I apologize, it is here on page 4. She writes that you and others remained in your 
+19 suite at the Willard hotel and watched TV rather than go to the Ellipse rally. 
+20 Is that accurate? 
+21 A I decline to answer your question on the advice of counsel, once again 
+22 asserting my Fifth Amendment constitutional right. 
+23 Q If we look behind tab 11 at what's marked exhibit 11, this appears to be a 
+24 photograph of you inside the Willard hotel. Is that what this photograph is? 
+25 A I decline to answer your question based on my Fifth Amendment  25 
+1 constitutional rights. 
+2 Q And the photograph shows numerous folks, including an individual who 
+3 appears to be holding a video camera. Do you know who that individual is? 
+4 A I decline to answer, once again, your question on the basis of my Fifth 
+5 Amendment constitutional rights. 
+6 Q Behind exhibit 12, tab 12, are a series of text messages between Ali 
+7 Alexander and an individual whose name is Roger Stone, indicating both incoming and 
+8 outgoing messages on January 6th, 2021. 
+9 As you can see, the exhibit reflects that Mr. Alexander received an incoming text 
+10 message from Roger Stone at approximately 10:02 on January 6th saying, "As I expected 
+11 no speaking spot, no VIP entrance for any of my people." 
+12 Were you denied a speaking spot on January 6th, 2021, Mr. Stone? 
+13 A On the basis of the Fifth Amendment of the U.S. Constitution, I respectfully 
+14 decline to answer your question. 
+15 Q How was the information conveyed to you that you wouldn't be speaking on 
+16 January 6th, 2021? 
+17 A Once again, counsel, with no disrespect, I decline to answer your question 
+18 based on my Fifth Amendment constitutional protections. 
+19 Q You can see a, few lines later, outgoing message from Ali Alexander to Roger 
+20 Stone, January 6th, 2021, at 12:46, quote, "Get your ass to the US Capitol," followed a 
+21 minute later by, "We have a stage & the presidents order." 
+22 Do you remember seeing these messages from Ali Alexander? 
+23 A Once again, counsel, I respectfully decline to answer your questions on the 
+24 basis of my Fifth Amendment constitutional rights and protections. 
+25 Q Did the President order individuals to go to the U.S. Capitol, as Ali Alexander  1 indicates in the text message? 
+2 A Once again, counsel, with no disrespect, I decline to answer your question 
+3 on the basis of the Fifth Amendment protections afforded by the U.S. Constitution. 
+4 Q If we look at --
+5 -· And I'll pause to note that Mr. Aguilar has joined us. 
+6 BY-: 
+7 Q Exhibit 13 is a video. If we could play exhibit 13, but we can start it at 43 
+8 seconds in. 
+9 And I'll say for the record that this is a video that was posted to the lnstagram 
+10 account , which we understand to be your wife's lnstagram account. 
+11 And it was posted January 13th, 2021. 
+Let's go ahead and play it. And we can stop it at 1 minute and 20 seconds. 
+[Video shown.] 
+BY-: 
+Mr. Stone, that's you in that video, correct? 26 
+12 
+13 
+14 
+15 
+16 Q 
+A I decline to answer your question on the basis of the Fifth Amendment of the 
+17 United States Constitution. 
+18 Q In the video, you state, quote, "While I was supposed to speak at the Ellipse 
+19 and lead a march from the Ellipse to the Capitol or speak at the Capitol, or at least 
+20 allegedly was so, I decided I was not interested in doing any of those things," end quote. 
+21 Was there, in fact, a proposal for you to lead a march to the U.S. Capitol on 
+22 January 6th, 2021? 
+23 A Once again, I will decline to answer your question on the basis of my Fifth 
+24 Amendment constitutional rights and protections. 
+25 Q Who else was supposed to be leading the march with you?  27 
+Once again, I will assert the Fifth Amendment rights. 1 
+2 A 
+Q Now, you say in the video that you were to, quote, "speak at the Capitol, or 
+3 at least allegedly was so," end quote. Why do you say "allegedly" in the video? 
+4 A Once again, I will decline to respond to your question based on my Fifth 
+5 Amendment rights. 
+6 Q Do you think someone else was using your name without your knowledge to 
+7 put you at the U.S. Capitol on January 6th? 
+8 A With no disrespect, I will once again assert my Fifth Amendment rights and 
+9 decline to answer your question. 
+10 Q And, in the video, you say that you declined to march to the Capitol. Why 
+11 did you decline? 
+12 A I once again will assert my Fifth Amendment rights to decline to answer your 
+13 question. 
+14 Q And, later in this video, the portion that immediately follows where we 
+15 pause, you describe leaving the Willard hotel to go to the airport on January 6th. 
+16 Is it true that you never left the Willard hotel on January 6th except to go to the 
+17 airport? 
+18 A I decline to answer your question on the basis of my Fifth Amendment 
+19 rights. 
+20 Q Well, we do have another video that's exhibit 14. This is a clip from your 
+21 appearance on the "Tucker Carlson Today" program on December 3rd, 2021, which was 
+22 just 2 weeks ago. 
+23 During this clip, Mr. Carlson has just asked you whether you think you would have 
+24 been arrested had you gone into the Capitol on January 6th. 
+25 I'd ask --we'll play this from the beginning and pause it at 41 seconds.  1 
+2 
+3 [Video shown.] 
+BY-: 28 
+Q Mr. Stone, you say in this portion of this interview with Tucker Carlson just 2 
+4 weeks ago that you got a call at the Willard hotel on January 6th which you understood to 
+5 be from the Secret Service, offering to escort you to the Capitol. 
+6 Did that really happen? 
+7 A I decline to answer your question on the basis of my Fifth Amendment 
+8 rights. 
+9 Q How would you have known that those individuals were from the Secret 
+10 Service? 
+11 A I decline to answer your question on the basis of the constitutional 
+12 protections afforded by the Fifth Amendment. 
+13 
+14 Q 
+A You also say in the video that you think you were set up. Set up by who? 
+I decline to answer your question on the basis of my Fifth Amendment 
+15 constitutional rights. 
+16 Q Now, as you can see, the select committee would like to ask you about these 
+17 plans to march or not to the U.S. Capitol. And it would appear from text messages and 
+18 public interviews and postings that you have made that you were willing to speak publicly 
+19 about what you understood to be the plans to go to the U.S. Capitol on January 6th and 
+20 ultimately your decision not to go to the U.S. Capitol. 
+21 Is it your intention to assert the Fifth Amendment privilege to any questions that 
+22 we would ask you about your plans or not to march to the U.S. Capitol on January 6th? 
+23 A And that is correct. I assert my Fifth Amendment rights not to respond to 
+24 that question or any other related question as you indicated. 
+25 Q Is it your position that the statements in the video posted to your wife's own  1 lnstagram account, themselves, would expose you to potential criminal prosecution? 
+2 A I decline to answer your question on the basis of my Fifth Amendment 
+3 constitutional rights. 
+4 Q Is it your position that the statements you gave 2 weeks ago to Tucker 
+5 Carlson, themselves, implicate potential criminal liability on your part? 
+6 A I decline to answer your question on the basis of my Fifth Amendment 
+7 constitutional rights. 
+8 ~ I'll pause to see if any members have followups on that line of 
+9 questions. 
+10 BY-: 
+11 Q Mr. Stone, have you been interviewed by law enforcement regarding your 
+12 knowledge of events in Washington, D.C., on January 5th and 6th, 2021? 
+13 A I decline to answer your question on the basis of my Fifth Amendment 
+14 constitutional rights. 
+15 
+16 
+17 rights. 
+18 Q 
+A 
+Q Have you been contacted by the FBI regarding January 6th? 
+I decline to answer your question on the basis of my Fifth Amendment 
+Have you been contacted by any attorneys representing individuals who 
+19 have been charged for conduct regarding January 6th? 
+20 A I respectfully decline to answer your questions on the basis of my Fifth 
+21 Amendment rights. 29 
+22 Q Is it your intention to assert your Fifth Amendment privilege to all questions 
+23 that we would ask you regarding your contacts by anyone regarding the events of 
+24 January 6th, 2021? 
+25 A I decline respectfully to answer that question and any related questions as  30 
+1 indicated in your question. 
+2 -· At this point, I would note for the record that Mr. Stone has asserted 
+3 the Fifth Amendment privilege as a basis to refuse to answer all of the select committee's 
+4 questions today. Under these circumstance, we will not close the record on the 
+5 deposition as the select committee determines the appropriate course of action in order 
+6 to move forward. 
+7 But, before we go off the record, I'll pause to see if any members wish to offer 
+8 anything else today. 
+9 Mr. Smith. I have a question. 
+10 I mean, this deposition was called for a 1-day deposition. I'm not sure by what 
+11 rule you can hold it over or keep it open. So, from our standpoint, I believe this would 
+12 be closed. 
+13 Mr. Stone appeared for the time that was shown in the deposition. And I don't 
+14 know of any rule or --and there was nothing in the deposition. As you know, many 
+15 deposition notices do have, you know, "or until completed" or "held over" or something. 
+16 But we're not agreeing to hold it open or to keep it open. 
+17 We'll note your objection, but, as I explained at the outset, when 
+18 there are objections based on privilege, it is the prerogative of the committee to move 
+19 forward with questions and later seek a ruling from the chair on those objections. 
+20 And so what we will do is we will hold the deposition in recess, subject to the call 
+21 of the chair, in order to potentially seek a ruling on that objection. 
+22 Of course, we will give appropriate notice to you so you can be present if and 
+23 when that will need to occur. 
+24 
+25 Mr. Smith. Okay. As long as my objections are on the record. 
+-· I understand.  31 
+1 Well, at this time, the deposition will stand in recess, subject to the call of the 
+2 chair, and we'll go off the record. 
+3 [Whereupon, at 10:51 a.m., the deposition was recessed, subject to the call of the 
+4 chair.]  1 
+2 
+3 Certificate of Deponent/Interviewee 
+4 I have read the foregoing __ pages, which contain the correct transcript of the 
+5 answers made by me to the questions therein recorded. 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 Witness Name 
+Date 32 

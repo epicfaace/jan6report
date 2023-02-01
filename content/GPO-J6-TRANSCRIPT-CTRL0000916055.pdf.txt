@@ -1,0 +1,1149 @@
+1 
+2 
+3 
+4 SELECT COMMITTEE TO INVESTIGATE THE 
+5 JANUARY 6TH ATTACK ON THE U.S. CAPITOL, 
+6 U.S. HOUSE OF REPRESENTATIVES, 
+7 WASHINGTON, D.C. 
+8 
+9 
+10 
+11 DEPOSITION OF: GARRETT ZIEGLER 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 Tuesday, July 19, 2022 
+Washington, D.C. 
+20 The deposition in the above matter was held in Room 5480, O'Neill House Office 
+21 Building, commencing at 10:17 a.m. 
+22 Present: Representative Schiff. 1  1 Appearances: 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 For the SELECT COMMITTEE TO INVESTIGATE 
+THE JANUARY 6TH ATTACK ON THE U.S. CAPITOL: 
+PROFESSIONAL STAFF MEMBER 
+SENIOR INVESTIGATIVE COUNSEL 
+, CHIEF CLERK 
+, INVESTIGATIVE COUNSEL 
+PROFESSIONAL STAFF MEMBER 
+13 For GARRETT ZIEGLER: 
+14 
+15 JOHN KIVONAGA 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 2  3 
+1 Let's go on the record. 
+2 This is the deposition of Garrett Ziegler conducted by the House Select Committee 
+3 to Investigate the January 6th Attack on the United States Capitol pursuant to House 
+4 Resolution 503. 
+5 This will be a staff-led deposition, though members may choose to ask questions 
+6 as they so desire. 
+7 
+8 My name is I am a senior investigative counsel with the select 
+committee. Present in the room with me is professional staff member. 
+9 Members may join the deposition either in person or by Webex, and I'll do my best to 
+10 note their presence as they join. 
+11 We'll be holding this deposition under House rules that we've previously provided 
+12 to Mr. Ziegler and his counsel. 
+13 Under those rules, Mr. Ziegler, you're permitted to have your attorney present. 
+14 I'll note for the record that your attorney is present and I'll have him identify himself in a 
+15 moment. 
+16 Counsel for other persons or other government agencies may not attend. In 
+17 other words, the only lawyers who are present today are those from the select 
+18 committee and your counsel. 
+19 At this time, I'd ask Mr. Ziegler's counsel to please state his name for the record. 
+20 Mr. Kiyonaga. My name is John Kiyonaga, K-i-y-o-n-a-g-a. I'm counsel for 
+21 Garrett Ziegler, Z-i-e-g-1-e-r, the deponent in this matter. 
+22 - Thank you, John. 
+23 Before we get started, I'd like to cover a few grounds rules for today's deposition. 
+24 As you heard me mention before --well, maybe you didn't hear me mention 
+25 because I didn't say it --we have an official reporter who's transcribing the deposition.  4 
+1 The deposition's also being video recorded, but the reporter's transcription is the official 
+2 record of the proceeding. So it's important that you wait to answer each question until 
+3 it's completed before you give your answer, and I'll do my best to wait until you complete 
+4 your answer before I ask the next question. 
+5 The reporter cannot note nonverbal responses, such as shaking or nodding of the 
+6 head, so it's important that you respond to each question with an audible verbal 
+7 response. 
+8 If you need to take any breaks or would like to discuss anything with your attorney 
+9 privately, we're happy to accommodate you and take breaks as best we can. 
+10 You may only refuse to answer a question to preserve a privilege recognized by 
+11 the select committee. If you refuse to answer a question based on privilege, staff may 
+12 either proceed with the deposition or seek a ruling from the chair on the objection at that 
+13 time. If the chairman overrules such an objection, either after the objection is made or 
+14 at the end of the deposition, you will be required to answer the question. 
+15 I want to remind you that it's unlawful to deliberately provide false information to 
+16 Congress. And because you will be taking an oath to tell the truth in this deposition, a 
+17 knowingly false answer could subject you to prosecution for perjury. 
+18 Do you have any questions on anything I said thus far? 
+19 
+20 
+21 The Witness. No. 
+Madam Reporter, I'd ask you to swear the witness, please. 
+The Reporter. Yes, sir. 
+22 Please raise your right hand. 
+23 Do you solemnly swear and affirm, under the penalty of perjury, that the 
+24 testimony you will give will be the truth, the whole truth, and nothing but the truth? 
+25 The Witness. I do.  1 
+2 
+3 start? 
+4 5 
+The Reporter. Thank you. 
+- John, is there something you wanted to say on the record before we 
+Mr. Kiyonaga. Yes. Mr. Ziegler has complied fully with the subpoena for 
+5 documentation. That should not be taken as any concession on his part of the authority 
+6 of the committee to seek such. He is going to be, beyond acknowledging his identity 
+7 and the fact that he is the person subject to the subpoena and has provided documents 
+8 and plenary compliance therewith, he is going to be refusing to answer any further 
+9 questions based on his Fifth Amendment privilege against self-incrimination, 
+10 acknowledging the fact that incrimination does not connote any consciousness of guilt. 
+11 Rather, it is any disclosure or statement that could tend to excite or encourage a 
+12 surmise of guilt on the part of a third party, specifically any law enforcement entity, which 
+13 definition I would take for purposes of this hearing to include the committee, and which 
+14 concern is manifestly well-founded given the fact that his previous boss has been arrested 
+15 in a very public manner. 
+16 But also comprised within his invocation of privilege will be an executive privilege, 
+17 deliberative privilege, Presidential communication privilege, privilege founded on 
+18 freedom of association and First Amendment and privacy as the case may be. 
+19 But I've instructed him in response to specific questions beyond the initial 
+20 questions acknowledging who he is and why he's here simply to invoke his privilege. 
+21 And I'm explaining ahead of time what that means to avoid a word salad every time a 
+22 question is asked. 
+23 If there develops a disagreement between myself or himself and the committee as 
+24 to whether or not he is entitled to invoke privilege, he is going to require a ruling from an 
+25 Article Ill judge, a United States district judge, compelling responses. He will not be  1 bound by a determination by the committee. 
+2 So ask away. 
+3 
+4 - Okay. So I'm not going to respond to sort of all that. 
+I do want to point out that we are not a --this committee is not a law 
+5 enforcement agency. So I want to state that for the record and don't want my silence 
+6 on that issue to connote any sort of type of agreement with your --with the assumption 
+7 that you've made in connection with that statement. 6 
+8 Mr. Kiyonaga. Yeah, I understand, and I note your disagreement. We'll have to 
+9 disagree on that. But my position, his position, is that the committee is acting as one. 
+10 So the fact that it's part of the legislative branch doesn't change the practical effect, in 
+11 our view, of its operations. 
+12 - Okay. And in terms of invoking privileges --well, I take it that Mr. 
+13 Ziegler is going to, on your advice, is going to invoke the Fifth Amendment to any 
+14 substantive question that I ask. 
+15 Mr. Kiyonaga. Yes. 
+16 - And I'd be fine --I think it would be helpful to articulate that clearly. 
+17 If there are other objections that you also have that you'd like to reserve, I think that's 
+18 also fine as well and not have to sort of state those every time. 
+19 But I do want it to be clear, if there's a particular question to which Mr. Ziegler is 
+20 asserting his Fifth Amendment rights, then that should be stated for the record. 
+21 Mr. Kiyonaga. Well, what I'd like to do is assert his rights in the plural, 
+22 understanding ahead of time that those comprise principally his Fifth Amendment right, 
+23 but also on an individual basis the other rights that I've mentioned. I'm not sure I want 
+24 to be bound by an analysis that I make on the fly in here today as to exactly which other 
+25 privileges might apply.  7 
+1 But I would state at the outset that the Fifth Amendment privilege should be 
+2 taken, as far as we're concerned, to apply to any question you ask beyond the initial 
+3 questions confirming who he is. 
+4 So in other words, the other privileges that I mentioned a moment ago may or 
+5 may not apply to particular questions that you ask, but the Fifth Amendment privilege will 
+6 always apply. So that that will --that should cover basically any substantive question 
+7 that you're going to be asking beyond the initial confirmation of who he is. 
+8 
+9 - Okay. Anything else we need to cover before we get started? 
+Mr. Kiyonaga. I don't think so. 
+10 EXAMINATION 
+11 BY-
+12 Q All right. Mr. Ziegler, if you can take a look at exhibit 1 in your binder. 
+13 Exhibit 1 is the subpoena from this committee dated April 27th, 2022. 
+14 Do you understand that you're appearing here today pursuant to that subpoena? 
+15 
+16 A 
+Q Yes. 
+The subpoena also calls for production of documents and information, 
+17 including electronically stored information. 
+18 Have you conducted a diligent search for records that are responsive to the 
+19 subpoena? 
+20 
+21 A 
+Q Yes. 
+Have you produced to the committee all documents and communications in 
+22 your possession, custody, or control that are responsive to the requests described in the 
+23 subpoena? 
+A Yes. 24 
+25 Mr. Kiyonaga. Speak up when you say yes. Don't mutter it into your chest.  1 
+2 
+3 The Witness. Okay. BY-
+Q Could you describe, generally, what efforts you took to comply with this 
+4 subpoena, exhibit 1? 8 
+5 A I conducted a search based on all of the electronic devices that I have access 
+6 to and own and went through them diligently, including the electronic accounts, to mean 
+7 email accounts, most of which I do not have access to anymore, particularly my former 
+8 White House account where the lion's share of this correspondence would reside. 
+9 And I understand that, based on my cursory knowledge of the Presidential 
+10 Records Act, that account and all the materials therein are in the National Archives. 
+11 Q When you say the account information, do you mean that you went online, 
+12 for example, to Gmail or some other ISP, and tried to access your records that way as 
+13 well? 
+14 
+15 
+16 
+17 
+18 
+19 
+20 A 
+Q Yes. 
+Did you look for hard --
+Mr. Kiyonaga. Could you indulge me one minute. 
+[Discussion off the record.] 
+Mr. Kiyonaga. Thank you. BY-
+Q Did you look for hard copy documents, including any notebooks or notes of 
+21 meetings? 
+22 
+23 A 
+Q Yes. 
+In your search for electronically stored information, did you also look for 
+24 documents in addition to electronic communications? So, for example, Word 
+25 documents or Excel spreadsheets or things of that nature?  1 
+2 A 
+Q All the above, yes. 
+And in terms of emails that you searched, did you --I think you mentioned 
+3 your work email and maybe difficulty --your prior work email --difficulty getting access 
+4 to that. 
+5 Did you look for documents, responsive documents connected to all of the email 
+6 addresses that you had in the relevant time period? 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 A 
+Q 
+A 
+Q 
+A 
+Q 
+A 
+Q 
+A 
+Q Yes. 
+Including your iCloud account? 
+Yes. 
+With respect to messages, did you search for text messages? 
+Yes. 
+On which phones? 
+My personal. And then, obviously, I don't have the work phone anymore. 
+Did you just have one phone during the relevant timeframe? 
+Yes. 
+Did you look for responsive messages under various messaging applications, 
+17 for example, Signal or Telegram or WhatsApp? 
+Yes. 9 
+18 
+19 A 
+Q How about social media private messages? During the relevant timeframe, 
+20 did you use those platforms to communicate with other individuals? 
+21 
+22 
+23 
+24 A 
+Q 
+A 
+Q Yes. 
+And did you search those platforms to see if you had responsive documents? 
+Yes. 
+Have you destroyed, deleted, or otherwise manipulated any documents 
+25 responsive to the requests described in the subpoena?  1 
+2 A 
+Q No. 
+Have you withheld from production any responsive documents based on a 
+3 claim of privilege? 
+4 
+5 A No. 
+Q So there's no document that you found that appeared responsive, but you 
+6 felt that because of any other privileges that your counsel has referenced or otherwise 
+7 that you feel you needed to or could produce the document? 
+8 
+9 A To my recollection, no. 
+Q Okay. Could you briefly describe your educational background, starting 
+10 after high school? 
+11 A I attended Saint Louis University in St. Louis, Missouri. I graduated with a 
+12 degree in economics. And that is it. 
+13 
+14 
+15 Q When did you graduate? 
+A May 2018. 
+Q What jobs have you held since graduating from college? 10 
+16 A Just at the White House from February of 2019 to January of 2021, and then 
+17 now I run a 501{c)(3) nonprofit. 
+18 Q So your job at the White House was your first job upon graduation from 
+19 college? 
+20 
+21 
+22 
+23 
+24 
+25 A Yes, sir. 
+Q What was your title in the White House beginning in February 2019? 
+A Policy analyst. 
+Q Within a particular office within the White House? 
+A Yes, the Office of Trade and Manufacturing Policy. 
+Q How did you get that position?  1 
+2 Mr. Kiyonaga. I'm going to ask you to invoke. 
+The Witness. I'm invoking my right under the Fifth Amendment to not answer 
+3 particular questions. 
+4 BY-
+5 Q And so you're --sorry. Something else you wanted to say in response to 
+6 that question? 
+A No. 11 
+7 
+8 
+9 Q So you're invoking your Fifth Amendment right not to answer that question? 
+10 
+11 
+12 
+13 
+14 
+15 
+16 A Yes. 
+Q How long did you work in the Office of Trade and Manufacturing Policy? 
+A Twenty-three months. 
+Q What were your job responsibilities? 
+A I invoke my right to silence. 
+Q Under the Fifth Amendment? 
+A Yes. 
+Q To whom did you report during the 23 months that you worked at the Office 
+17 of Trade and Manufacturing Policy? 
+18 
+19 
+20 
+21 A I invoke my right to silence. 
+Q Under the Fifth Amendment? 
+A Yes. 
+Q In late 2020, approximately how many people worked in the Office of Trade 
+22 and Manufacturing Policy? 
+23 
+24 
+25 A I invoke my right to silence. 
+Q Under the Fifth Amendment? 
+A Yes.  1 Q While you were working in the White House, did you do any work for the 
+2 Trump 2020 campaign? 
+3 
+4 
+5 
+6 
+7 A 
+Q 
+A 
+Q 
+A I invoke my right to silence. 
+Under the Fifth Amendment? 
+Yes. 
+Was that the direction of Peter Navarro? 
+I invoke my right to silence under the Fifth Amendment. 12 
+8 Q Mr. Navarro had said publicly that he allowed several members of his staff to 
+9 help out in battleground States on their own time. Did that include you? 
+10 
+11 
+12 
+13 A 
+Q 
+A 
+Q I invoke my right to silence under the Fifth Amendment. 
+What campaign activities, if any, were you involved with in 2020? 
+I invoke my right to silence under the Fifth Amendment. 
+Are you going to assert your Fifth Amendment privilege against 
+14 self-incrimination to any questions I would ask you about your work on the 2020 
+15 campaign? 
+16 
+17 A 
+Q Yes. 
+After the 2020 election, did you assist with any efforts by the Trump 
+18 campaign to challenge the results of the election? 
+19 
+20 A 
+Q I invoke my right to silence under the Fifth Amendment. 
+Did Mr. Navarro direct you to assist the Trump campaign in its efforts to 
+21 challenge the 2020 election? 
+22 
+23 A 
+Q 
+24 election? 
+25 A I invoke my right to silence under the Fifth Amendment. 
+What discussions did you have with Mr. Navarro regarding the 2020 
+I invoke my right to silence under the Fifth Amendment.  1 
+2 
+3 Q 
+A 
+Q Did you ever discuss with him strategies for overturning the election? 
+I invoke my right to silence under the Fifth Amendment. 
+Did other members of the staff of the Office of Trade and Manufacturing 
+4 Policy participate in efforts to challenge or overturn the 2020 election? 
+5 
+6 A 
+Q I invoke my right to silence under the Fifth Amendment. 
+Which staff members from the Office of Trade and Manufacturing Policy 
+7 assisted in efforts to challenge the 2020 election? 
+I invoke my right to silence under the Fifth Amendment. 
+Did Joanna Miller participate in those efforts? 
+I invoke my right to silence under the Fifth Amendment. 
+Did Hannah Robertson assist in those efforts? 
+I invoke my right to silence under the Fifth Amendment. 
+Alexander Szarka, did he participate in those efforts? 
+I invoke my right to silence under the Fifth Amendment. 
+Did Brendan McCommas participate in those efforts? 
+I invoke my right to silence under the Fifth Amendment. 
+Do you know someone named Christopher Abbott? 
+I invoke my right to silence under the Fifth Amendment. 13 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 A 
+Q 
+A 
+Q 
+A 
+Q 
+A 
+Q 
+A 
+Q 
+A 
+Q Were there any analysts within the Office of Trade and Manufacturing Policy 
+20 who were not tasked with work relating to overturning the 2020 election during the time 
+21 you were there? 
+22 
+23 A 
+Q I invoke my right to silence under the Fifth Amendment. 
+Between mid-November 2020 and early January 2021, approximately how 
+24 many hours per day did you spend working on issues related to contesting the 2020 
+25 election?  1 
+2 A 
+Q I invoke my right to silence under the Fifth Amendment. 
+Are you able to estimate what percentage of Mr. Navarro's time he spent 
+3 working on election-related matters in November and December of 2020? 
+4 
+5 A 
+Q I invoke my right to silence under the Fifth Amendment. 
+Mr. Ziegler, are you going to assert your Fifth Amendment privilege against 
+6 self-incrimination to any questions I would ask of you regarding your efforts to assist in 
+7 challenging or overturning the results of the 2020 election? 
+8 
+9 A 
+Q Yes. 
+And would you likewise assert your Fifth Amendment privilege against 
+10 self-incrimination to any questions I would ask you about Mr. Navarro's efforts in that 
+11 regard? 
+A 
+Q Yes. 
+Did you work with someone --Strike that. 12 
+13 
+14 
+15 
+16 Do you know someone named Christos Makridis? 
+A 
+Q 
+17 election? 
+18 
+19 
+20 
+21 A 
+Q 
+A 
+Q 
+22 campaign? 
+23 
+24 
+25 A 
+Q 
+A I invoke my right under the Fifth Amendment to silence. 
+Did Mr. Makridis assist in the efforts to challenge or overturn the 2020 
+I invoke my right to silence under the Fifth Amendment. 
+Do you know someone named Riley? 
+I invoke my right to silence under the Fifth Amendment. 
+In November 2020, did you have any contact with attorneys for the Trump 
+I invoke my right to silence under the Fifth Amendment. 
+Have you ever spoken to Rudy Giuliani? 
+I invoke my right to silence under the Fifth Amendment. 14  1 
+2 
+3 
+4 
+5 Q 
+A 
+Q 
+A 
+Q Have you ever spoken to Sidney Powell? 
+I invoke my right to silence under the Fifth Amendment. 
+Have you ever spoken with Emily Newman? 
+I invoke my right to silence under the Fifth Amendment. 
+Did you speak with any attorneys who were representing or assisting the 
+6 Trump campaign regarding strategies for overturning the results of the 2020 election? 
+7 
+8 A 
+Q 
+9 Arlington? 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 A 
+Q 
+A 
+Q 
+A 
+Q 
+A 
+Q 
+A 
+Q 
+A 
+Q I invoke my right to silence under the Fifth Amendment. 
+In November of 2020, did you attend any meetings at the Westin Hotel in 
+I invoke my right to silence under the Fifth Amendment. 
+Have you ever been to the Westin Hotel in Arlington? 
+I invoke my right to silence under the Fifth Amendment. 
+Did you ever meet Ms. Powell there? 
+I invoke my right to silence under the Fifth Amendment. 
+Did you ever meet Mr. Giuliani there? 
+I invoke my right to silence under the Fifth Amendment. 
+Did you ever meet Mike Trimarco there? 
+I invoke my right to silence under the Fifth Amendment. 
+Did you ever meet or speak to Phill Kline at the Westin at Arlington? 
+I invoke my right to silence under the Fifth Amendment. 
+Is it your intention to assert your Fifth Amendment privilege against 
+22 self-incrimination to any questions I would ask of you regarding interactions with Trump 
+23 campaign attorneys or investigators? 
+24 
+25 A 
+Q Yes. 
+Have you ever been to the Trump Hotel? 15  1 
+2 A 
+Q I invoke my right to silence under the Fifth Amendment. 
+In November of 2020, did you meet with anyone assisting the Trump 
+3 campaign at the Trump Hotel in Washington? 
+4 
+5 
+6 
+7 A 
+Q 
+A 
+Q 
+8 election? 
+9 
+10 A 
+Q I invoke my right to silence under the Fifth Amendment. 
+Do you know Patrick Byrne? 
+I invoke my right to silence under the Fifth Amendment. 
+Have you ever spoken with Mr. Byrne about issues relating to the 2020 
+I invoke my right to silence under the Fifth Amendment. 
+Have you ever spoken to any analysts who you understood to be working 
+11 with Mr. Byrne regarding the 2020 election? 
+I invoke my right to silence under the Fifth Amendment. 
+Do you know General Michael Flynn? 
+I invoke my right to silence under the Fifth Amendment. 
+Have you ever spoken to Mr. Flynn regarding the 2020 election? 
+I invoke my right to silence under the Fifth Amendment. 16 
+12 
+13 
+14 
+15 
+16 
+17 A 
+Q 
+A 
+Q 
+A 
+Q Have you ever spoken with any investigator or analyst working on behalf of 
+18 President Trump regarding the 2020 election? 
+19 
+20 A 
+Q I'm invoking my right to silence under the Fifth Amendment. 
+Are you going to assert your Fifth Amendment privilege against 
+21 self-incrimination to any questions I would ask of you regarding your interactions with 
+22 attorneys, investigators, or analysts who were working on behalf of President Trump in 
+23 connection with the 2020 election? 
+24 
+25 A 
+Q Yes, I am. 
+Have you ever been to a ranch in South Carolina owned by Lin Wood?  1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 A 
+Q 
+A 
+Q 
+A 
+Q 
+A 
+Q I'm invoking my right to silence under the Fifth Amendment. 
+Do you know Lin Wood? 
+I'm invoking my right to silence under the Fifth Amendment. 
+Have you ever met or spoken with Steve Bannon? 
+I'm invoking my right to silence under the Fifth Amendment. 
+What is Steve Bannon's relationship with Peter Navarro, if you know? 
+I'm invoking my right to silence under the Fifth Amendment. 
+Do you know whether Mr. Bannon and Mr. Navarro worked together in 
+9 devising a strategy to overturn the results of the 2020 election? 
+I'm invoking my right to silence under the Fifth Amendment. 
+Have you ever heard the term Green Bay Sweep? 
+I'm invoking my right to silence under the Fifth Amendment. 
+Have you heard that term used with respect to the 2020 election? 
+I'm invoking my right to silence under the Fifth Amendment. 17 
+10 
+11 
+12 
+13 
+14 
+15 A 
+Q 
+A 
+Q 
+A 
+Q Mr. Ziegler, did you play any role in devising or implementing the Green Bay 
+16 Sweep as a strategy for overturning the results of the 2020 election? 
+17 
+18 
+19 
+20 A 
+Q 
+A 
+Q I'm invoking my right to silence under the Fifth Amendment. 
+Have you ever discussed the Green Bay Sweep with Peter Navarro? 
+I'm invoking my right to silence under the Fifth Amendment. 
+Are you going to assert your Fifth Amendment privilege against 
+21 self-incrimination to any question I would ask you about concerning conversations with 
+22 Mr. Bannon or Mr. Navarro regarding the 2020 election? 
+23 
+24 A 
+Q Yes. 
+Take a look at exhibit 2. I'll represent to you this is the cover sheet of a 
+25 much longer document or set of documents that's commonly referred to as the Navarro  18 
+1 Report. 
+2 Did you play any role in the preparation of the Navarro Report? 
+3 
+4 
+5 
+6 A 
+Q 
+A 
+Q I'm invoking my right to silence under the Fifth Amendment. 
+When did you begin working on the Navarro Report? 
+I'm invoking my right to silence under the Fifth Amendment. 
+You've said publicly that there's a time when you were spending 6 hours a 
+7 day on this project. Is that accurate? 
+8 
+9 
+10 
+11 
+12 
+13 
+14 A 
+Q 
+A 
+Q I'm invoking my right to silence under the Fifth Amendment. 
+What was the purpose of the Navarro Report? 
+I'm invoking my right to silence under the Fifth Amendment. 
+The introduction to volume 1 --actually let's take a look at exhibit 3. 
+Have you seen this document before? 
+A 
+Q I'm invoking my right to silence under the Fifth Amendment. 
+I'll represent to you this is what I understand to be volume 1 of the Navarro 
+15 Report released in December of 2020. 
+16 If you take a look at the introduction on page 5, the very end of the introduction, 
+17 it says, "If, in fact" --the second to last paragraph --"If, in fact, compelling evidence 
+18 comes to light proving the election was indeed stolen after a fait accompli Biden 
+19 inauguration, we as a country run the very real risk that the very center of our American 
+20 union will not hold." 
+21 At the very end of the next paragraph it says, "It is, therefore, critical that we get 
+22 to the bottom of this matter. That is the purpose of this report." 
+23 
+24 
+25 Do you agree with that description of the purpose of the Navarro report? 
+A 
+Q I'm invoking my right to silence under the Fifth Amendment. 
+Volume 1 of the report purports to describe election irregularities in six  1 States. 
+2 Where did the information come from for this report? 
+3 
+4 A 
+Q I'm invoking my right to silence under the Fifth Amendment. 
+The report frequently refers to alleged irregularities, but at various times it 
+5 cites --or purports to cite --evidence supporting certain election fraud claims. 19 
+6 Was it the intent of the report to highlight the allegations that had been made or 
+7 to reach conclusions regarding the veracity or strength of the allegations that were made 
+8 regarding the 2020 election? 
+9 
+10 A 
+Q I'm invoking my right to silence under the Fifth Amendment. 
+A portion of exhibit 3 refers to allegations of bribery that 
+11 occurred --supposedly occurred --in connection with the 2020 election in the State of 
+12 Nevada. 
+13 Did you personally investigate allegations of election-related bribery in Nevada? 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 A 
+Q 
+A 
+Q 
+A 
+Q 
+A 
+Q I'm invoking my right to silence under the Fifth Amendment. 
+What did you do to investigate those allegations? 
+I'm invoking my right to silence under the Fifth Amendment. 
+Did you travel to Nevada? 
+I'm invoking my right to silence under the Fifth Amendment. 
+Who paid for your travel to Nevada? 
+I'm invoking my right to silence under the Fifth Amendment. 
+Did you personally conduct any investigation or analysis regarding any of the 
+22 claims of election fraud raised by the Trump campaign? 
+23 
+24 A 
+Q I'm invoking my right to silence under the Fifth Amendment. 
+Are you going to assert your Fifth Amendment privilege against 
+25 self-incrimination to any questions I would ask of you regarding the preparation of the  1 Navarro Report? 
+2 
+3 
+4 
+5 
+6 
+7 A 
+Q 
+A 
+Q 
+A 
+Q 
+8 campaign? 
+9 
+10 
+11 
+12 
+13 A 
+Q 
+A 
+Q 
+A Yes. 
+Do you know someone named Mark Cook? 
+I'm invoking my right to silence under the Fifth Amendment. 
+Who is Mr. Cook? 
+I'm invoking my right to silence under the Fifth Amendment. 
+Did Mark Cook investigate any claims of election fraud raised by the Trump 
+I'm invoking my right to silence under the Fifth Amendment. 
+Did you assist him in investigating claims of election fraud? 
+I'm invoking my right to silence under the Fifth Amendment. 
+Do you know Phil Waldron? 
+I'm invoking my right to silence under the Fifth Amendment. 20 
+14 Q Have you ever had any discussions with Phil Waldron about anything related 
+15 to the 2020 election? 
+16 
+17 A 
+Q I'm invoking my right to silence under the Fifth Amendment. 
+Did you assist Mr. Waldron in the preparation of any materials that were 
+18 shared with Members of Congress in December 2020 or January of 2021? 
+19 
+20 
+21 A 
+Q 
+A I'm invoking my right to silence under the Fifth Amendment. 
+Do you know Ivan Raiklin? 
+I'm invoking my right to silence under the Fifth Amendment. 
+22 Q Have you ever had any discussions with Mr. Raiklin about anything related to 
+23 the 2020 election? 
+24 
+25 A 
+Q I'm invoking my right to silence under the Fifth Amendment. 
+Did you assist Mr. Raiklin in the preparation of any materials that were  21 
+1 shared with Members of Congress or White House personnel in December 2020 or 
+2 January 2021? 
+3 
+4 A 
+Q I'm invoking my right to silence under the Fifth Amendment. 
+Take a look at exhibit 4, please. Exhibit 4 is an email chain beginning on 
+5 Sunday, December 27th, 2020, at 11:18 p.m., which you're not copied on. And I'll 
+6 represent to you that's an email to Mark Meadows. 
+7 But the last in time --or second to last in time --email is from Mr. Raiklin to what 
+8 appears to be your work email address on December 27th at 11:27 p.m. 
+9 Do you recognize that email? 
+10 
+11 A 
+Q I'm invoking my right to silence under the Fifth Amendment. 
+Did Mr. Raiklin send you this email in late December of 2020 describing a 
+12 path to victory for President Trump? 
+13 
+14 A 
+Q I'm invoking my right to silence under the Fifth Amendment. 
+The email says, "Please disseminate accordingly." 
+15 Did you take any steps to disseminate the email and materials provided by Mr. 
+16 Raiklin? 
+17 
+18 
+19 
+20 A 
+Q 
+A 
+Q I'm invoking my right to silence under the Fifth Amendment. 
+Had you spoken to Mr. Raiklin prior to receiving this email? 
+I'm invoking my right to silence under the Fifth Amendment. 
+In the latest in time email in this chain, you send --it appears that you send 
+21 the email chain from your White House email to an email of 
+22 Was that your email at the time? 
+23 
+24 
+25 A 
+Q 
+A I'm invoking my right to silence under the Fifth Amendment. 
+Is that one of the emails that you searched for responsive documents? 
+I'm invoking my right to silence under the Fifth Amendment.  22 
+1 Q Is there a reason you did not produce this document in response to the 
+2 subpoena? 
+I'm invoking my right to silence under the Fifth Amendment. 3 
+4 A 
+Q Did you take any steps following up on the email that you received from Mr. 
+5 Raiklin and the proposed path to victory? 
+6 
+7 A 
+Q I'm invoking my right to silence under the Fifth Amendment. 
+Are you going to assert your Fifth Amendment privilege against 
+8 self-incrimination to any questions I would ask of you regarding Ivan Raiklin or this email 
+9 and its attachments? 
+10 
+11 A 
+Q Yes. 
+If you look at the documents that are attached to or behind the email chain 
+12 in exhibit 4, including various scenarios proposed for January 6th, 2021, and some 
+13 spreadsheets that describe certain actions to be taken by the legislative, executive 
+14 branch, and others. 
+15 Have you seen these documents before? 
+16 
+17 A 
+Q I'm invoking my right to silence under the Fifth Amendment. 
+Take a look at exhibit 5. Exhibit 5 is an email from Ivan Raiklin to Mark 
+18 Meadows and others within the White House sent on December 23rd, 2020, at 7:43 p.m. 
+19 Have you seen this document before? 
+20 
+21 A 
+Q I'm invoking my right to silence under the Fifth Amendment. 
+The document includes an attachment or a portion of the email --it's not 
+22 clear whether it was attached or just pasted in the bottom of the email --which is a 
+23 memorandum for the President, "Subject: Operation Pence Card," December 23rd. 
+24 
+25 Have you seen this document before? 
+A I'm invoking my right to silence under the Fifth Amendment.  1 Q Have you ever talked to Mr. Raiklin about a proposal or a strategy hat that 
+2 he had that he referred to as the Pence card? 
+3 
+4 A 
+Q I'm invoking my right to silence under the Fifth Amendment. 
+Did you receive an email similar to this one in the same general timeframe, 
+5 late December of 2020? 
+I'm invoking my right to silence under the Fifth Amendment. 23 
+6 
+7 A 
+Q In this email and its attachments, Mr. Raiklin talks about various powers that 
+8 he believed the Vice President had and actions that the Vice President could take on 
+9 January 6th of 2021. 
+10 Have you ever had any discussions with anyone about the role of the Vice 
+11 President in the joint session of Congress on January 6th? 
+12 
+13 
+14 
+15 A 
+Q 
+A 
+Q I'm invoking my right to silence under the Fifth Amendment. 
+Have you ever talked about that with Mr. Navarro? 
+I'm invoking my right to silence under the Fifth Amendment. 
+Have you ever talked about that with anyone on the staff of the Office of 
+16 Trade and Manufacturing Policy? 
+17 
+18 
+19 
+20 
+21 A 
+Q I'm invoking my right to silence under the Fifth Amendment. 
+Take a look at exhibit 6, please. 
+Do you recognize this document? 
+A 
+Q I'm invoking my right to silence under the Fifth Amendment. 
+The document is entitled, "Analyzing the Election: A Simple, Realistic, and 
+22 Understandable Path for Uncovering Hard Evidence in the 2020 Election as Described by 
+23 Election Experts." 
+24 Did you prepare this document? 
+25 A I'm invoking my right to silence under the Fifth Amendment.  24 
+1 Q Do you know which election experts are referred to or referenced in the title 
+2 of the document? 
+3 
+4 A 
+Q I'm invoking my right to silence under the Fifth Amendment. 
+Did you ever interview or talk to election experts regarding a path to 
+5 uncovering hard evidence with respect to the 2020 election? 
+6 
+7 A 
+Q I'm invoking my right to silence under the Fifth Amendment. 
+Do you know whether any of the steps that are set forth in this document 
+8 were ever taken by anyone who was working on President Trump's behalf to overturn the 
+9 2020 election? 
+10 
+11 
+12 
+13 A 
+Q 
+A 
+Q I'm invoking my right to silence under the Fifth Amendment. 
+Mr. Ziegler, when did you first meet Patrick Byrne? 
+I'm invoking my right to silence under the Fifth Amendment. 
+Was he sharing information with you regarding projects that he was working 
+14 on with respect to the 2020 election? 
+15 
+16 A 
+Q I'm invoking my right to silence under the Fifth Amendment. 
+Were you acting as a conduit of information between Mr. Byrne and the 
+17 analysts that he was working with and people at the White House? 
+18 
+19 A 
+Q I'm invoking my right to silence under the Fifth Amendment. 
+Were you acting as a conduit of information between others who were 
+20 working on President Trump's behalf, lawyers and investigators and folks at the White 
+21 House? 
+22 
+23 A 
+Q I'm invoking my right to silence under the Fifth Amendment. 
+Did Mr. Byrne call you on December 18th and ask that you help him get into 
+24 the White House? 
+25 A I'm invoking my right to silence under the Fifth Amendment.  1 Q Prior to December 18th, had you spoken with Mr. Byrne about ideas for 
+2 gaining access to voting machines in disputed States? 
+3 
+4 A 
+Q I'm invoking my right to silence under the Fifth Amendment. 
+Did you ever talk with anyone within the White House or elsewhere about 25 
+5 the authority that the President might have to authorize the seizure of voting machines? 
+6 
+7 A 
+Q I'm invoking my right to silence under the Fifth Amendment. 
+Did Mr. Byrne ever tell that you that he was trying to get a meeting with the 
+8 President to discuss that issue? 
+9 
+10 A 
+Q I'm invoking my right to silence under the Fifth Amendment. 
+Have you ever had any discussions with Patrick Byrne about your view that 
+11 the President was not being well-served by his White House advisers? 
+12 
+13 A 
+Q I'm invoking my right to silence under the Fifth Amendment? 
+Did you ever assist Mr. Byrne, Mr. Flynn, Sidney Powell, and Emily Newman 
+14 to get past security at the White House on December 18th, 2020? 
+15 
+16 A 
+Q I'm invoking my right to silence under the Fifth Amendment. 
+What was your understanding as to why that group was at the White House 
+17 on December 18th? 
+18 
+19 
+20 2020? 
+21 
+22 
+23 
+24 A 
+Q 
+A 
+Q 
+A 
+Q I'm invoking my right to silence under the Fifth Amendment. 
+Who else assisted getting the group into the West Wing on December 18th, 
+I'm invoking my right to silence under the Fifth Amendment. 
+Do you know Patrick Weaver? 
+I'm invoking my right to silence under the Fifth Amendment. 
+Did you and Mr. Weaver take steps to get Mr. Byrne, Mr. Flynn, Ms. Powell, 
+25 and Ms. Newman into the White House without an appointment that night?  26 
+I'm invoking my right to silence under the Fifth Amendment. 1 
+2 A 
+Q Do you know what that group was hoping to accomplish at the White House 
+3 that evening? 
+4 
+5 A 
+Q I'm invoking my right to silence under the Fifth Amendment. 
+Did you ever talk to either Patrick Byrne, Michael Flynn, or anyone else 
+6 about what happened in the White House on December 18th? 
+7 
+8 
+9 
+10 A 
+Q 
+A 
+Q I'm invoking my right to silence under the Fifth Amendment. 
+Have you ever spoken with Michael Flynn? 
+I'm invoking my right to silence under the Fifth Amendment. 
+And I may have asked you this earlier, but did you ever discuss with Mr. 
+11 Flynn any plans to overturn the results of the 2020 election? 
+12 
+13 
+14 
+15 A 
+Q 
+A 
+Q I'm invoking my right to silence under the Fifth Amendment. 
+Have you ever spoken to President Trump, Mr. Ziegler? 
+I'm invoking my right to silence under the Fifth Amendment. 
+Did you have a conversation with President Trump shortly before the end of 
+16 his term in office in the Oval Office? 
+17 A I'm invoking my right to silence under the Fifth Amendment. 
+18 Q When you met with President Trump in the Oval Office in mid-January 
+19 of 2021, did you discuss the 2020 election? 
+20 
+21 A 
+Q I'm invoking my right to silence under the Fifth Amendment. 
+Did you tell him that you didn't believe that the people who worked with 
+22 him --let me start that again. 
+23 Did you tell him that you did not believe that the people working for him were 
+24 fighting hard enough for him? 
+25 A I'm invoking my right to silence under the Fifth Amendment and other  1 privileges. 
+2 
+3 Q 
+A Did you tell him that you believed the election was stolen? 
+I'm invoking my right to silence under the Fifth Amendment and other 
+4 privileges. 
+5 
+6 Mr. Kiyonaga. He is saying "other privileges." 
+I at the outset made clear that you were invoking under the Fifth, not to the 
+7 exclusion of any other privileges, specifically the ones I articulated. So just say, "I'm 
+8 invoking under my privileges." 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 The Witness. Yeah. 
+BY 
+Q I see Mr. Schiff has joined --just in the nick of time, I might add. 
+Mr. Ziegler, where were you on January 6th? 
+A I'm invoking my right to silence under the Fifth Amendment. 
+Q Did you attend the rally on the Ellipse? 
+A I'm invoking my right to silence under the Fifth Amendment. 
+Q Did you watch the President's speech that afternoon? 
+A I'm invoking my right to silence under the Fifth Amendment. 
+Q Were you at or near the U.S. Capitol that day? 
+A I'm invoking my right to silence under the Fifth Amendment. 
+Q Were you at the Willard Hotel for any portion of that day? 
+A I'm invoking my right to silence under the Fifth Amendment. 
+Mr. Kiyonaga. I'm sorry, what hotel was that. 
+The Willard. 
+Mr. Kiyonaga. Willard. 
+Willard Intercontinental, I think, might be the full name. 27  1 
+2 
+3 Mr. Kiyonaga. Yes. I didn't hear the word clearly. 
+B~ 
+Q And your answer is you're refusing to answer that question on Fifth 
+4 Amendment grounds? 
+5 
+6 
+7 
+8 
+9 Yes. 
+Did you speak with Mr. Navarro on January 6th? 
+I'm invoking my right to silence under the Fifth Amendment. 
+Did you speak to Mr. Bannon on January 6th? 
+I'm invoking my right to silence under the Fifth Amendment. 28 
+10 A 
+Q 
+A 
+Q 
+A 
+Q Did you speak with anyone affiliated with the President Trump campaign on 
+11 January 6th? 
+12 
+13 A 
+Q I'm invoking my right to silence under the Fifth Amendment. 
+Mr. Ziegler, is it your intention to invoke your Fifth Amendment right against 
+14 self-incrimination to any questions I would ask of you regarding your activities on 
+15 January 6th and who you spoke to that day? 
+16 
+17 A 
+Q Yes. 
+Were you expecting violence in the Capitol --or in the Nation's Capital, 
+18 meaning Washington, D.C. --on January 6th prior to that date? 
+19 
+20 A 
+Q I'm invoking my right to silence under the Fifth Amendment. 
+Did you instruct your wife or suggest that you wife leave town prior to 
+21 January 6th because of concerns about violence? 
+22 
+23 
+24 
+25 A I'm invoking my right to silence under the Fifth Amendment. 
+Mr. Schiff, do you have any questions of the witness? No? Okay. 
+Hearing none, I think we're done. 
+Mr. Schiff. I don't. Sorry. It took me long to hit the unmute button. I don't  29 
+1 have any questions. Thank you, sir. 
+2 - Thank you. 
+3 Okay. We can go off the record for a second. 
+4 [Discussion off the record.] 
+5 Back on the record. 
+6 Okay. We're going to be in recess subject to the call of the chair. Now we can 
+7 go off the record. 
+8 [Whereupon, at 10:58 a.m., the deposition was recessed subject to the call of the 
+9 chair.]  1 
+2 
+3 Certificate of Deponent/Interviewee 
+4 I have read the foregoing __ pages, which contain the correct transcript of the 
+5 answers made by me to the questions therein recorded. 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 Witness Name 
+Date 30 

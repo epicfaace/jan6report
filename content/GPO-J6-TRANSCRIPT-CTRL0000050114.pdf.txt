@@ -1,0 +1,2271 @@
+1 
+2 
+3 
+4 SELECT COMMITTEE TO INVESTIGATE THE 
+5 JANUARY 6TH ATTACK ON THE U.S. CAPITOL, 
+6 U.S. HOUSE OF REPRESENTATIVES, 
+7 WASHINGTON, D.C. 
+8 
+9 
+10 
+11 INTERVIEW OF: MIKE SENA 
+12 
+13 
+14 
+15 Thursday, February 24, 2022 
+Washington, D.C. 1 
+16 
+17 
+18 
+19 
+20 The interview in the above matter was held via Webex, commencing at 11:00 a.m.  1 Appearances: 
+2 
+3 
+4 For the SELECT COMMITTEE TO INVESTIGATE 
+5 THE JANUARY 6TH ATTACK ON THE U.S. CAPITOL: 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 , INVESTIGATOR 
+INVESTIGATIVE COUNSEL 
+SENIOR ADMINISTRATIVE ASSISTANT 
+, SENIOR INVESTIGATIVE COUNSEL 
+, RESEARCHER 
+, CHIEF CLERK 
+INVESTIGATIVE COUNSEL 2  1 
+2 
+3 This is an interview of Mike Sena conducted by the House Select 3 
+4 Committee to Investigate the January 6th Attack on the United States Capitol, pursuant to 
+5 House Resolution 503. 
+6 Mr. Sena, could you please state your full name and spell your last name for the 
+7 record. 
+8 Mr. Sena. I'm Mike Sena. Last name is spelled S, as in Sam, e-n-a. 
+9 I'm going to introduce for the record everyone in the virtual room 
+10 today, beginning with the colleagues on my side. 
+11 
+12 We have present senior investigative counsel 
+investigative counsel , researcher 
+13 professional staff member 
+14 And I think, on your end, it's just you, sir, right? 
+Mr. Sena. That's correct. There is 
+, and I see now present 
+15 
+16 Okay. This will be a staff-led interview, and members, of course, 
+17 may choose to also ask questions. If any of them join the call, I will acknowledge their 
+18 presence and let you know when and if they participate or enter. 
+19 My name is , and I am investigative counsel for the select 
+20 committee. 
+21 Before we begin, I'd like to describe a few ground rules. 
+22 There is an official reporter transcribing the record of this interview. Please wait 
+23 until each question is completed before you begin your response, and we will try to wait 
+24 until your response is complete before we ask our next question. 
+25 The stenographer cannot record nonverbal responses, such as shaking your head,  1 so it is important that you answer each question with an audible, verbal response. 
+2 We ask that you provide complete answers based on your best recollection. If 
+3 the question is not clear, please ask for clarification. If you do not know the answer, 
+4 please simply say so. 
+5 I also want to remind you, as we do with all of our witnesses, that it is unlawful to 
+6 deliberately provide false information to Congress, and you will have an opportunity to 
+7 review the transcript once it is prepared. 
+8 EXAMINATION 
+9 BY 
+10 
+11 Q 
+A Let's start with if you could briefly describe your professional experience. 
+Definitely, and thank you for the question. 
+12 My professional role over the last 28 years has been in law enforcement and 
+13 criminal intelligence, started off in vice and narcotics, worked major crimes, worked 4 
+14 mainly major narcotics operations between Mexico and South America. And then, after 
+15 9/11, was assigned to start new program operations and ultimately leading a lot of those 
+16 operations across the country in a network called the National Network of Fusion 
+17 Centers. 
+18 I also served as not only the president of the National Fusion Center Association, 
+19 but, in my day job, I am the director of the Northern California Regional Intelligence 
+20 Center, one of the 80 fusion centers in the Nation. And I am also a director for the 
+21 HIDTA program in northern California, Northern California HIDTA, of which the HIDTA 
+22 program has 33 high-intensity drug-trafficking areas that focus Federal, State, local, 
+23 Tribal, territorial resources on narcotics threats. 
+24 Q When did you begin your role as the head of the Northern California 
+25 Regional Intelligence Center?  1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 A 
+Q 
+A 
+Q 
+A 
+Q 
+A 
+Q 
+A 
+Q In 2012. 
+And is that where you still currently serve, correct? 
+I do. 
+When did you become President of the National Fusion Center Association? 
+Approximately 9 years ago. 
+And you are still serving as President. Is that correct? 
+That's correct. 
+And both of those positions you held on January 6th of 2021. Is that right? 
+That's correct. 
+Can you tell us what fusion centers, like your own, the Northern California 
+11 Regional Intelligence Center, what they do? 
+12 A The role of fusion centers after 9/11 was to identify potential threats, you 
+13 know, both physical and virtual in cyber environment, and to basically train Federal, 
+14 State, local, Tribal, territorial public safety personnel, private-sector organizations, our 
+15 critical infrastructure partners, on signs and indicators of potential behaviors that may 
+16 lead to terrorist attack or other criminal threats. 
+17 And the role of the fusion center, once the training is done, is to collect the data 
+18 from those organizations through suspicious activity reporting and coalesce the 
+19 information, validate as best we can, and then get that information to the best lead 
+20 investigative agencies for follow up to --in an attempt to thwart those threats, identify 
+21 the threats, and mitigate those threats. 
+22 And then, if the mitigation does not work, the role of a fusion center is also, you 
+23 know, to support investigations in post-event, you know, events where we need to 
+24 support those investigators and folks that need criminal intelligence. 
+25 We also produce both tactical and strategic products to educate all of our users, 5  6 
+1 and that includes our law enforcement, public safety, public health, emergency medicine, 
+2 medical professionals, along with our critical infrastructure partners, on what threats they 
+3 may be facing. 
+4 We also serve a role for special event support in many areas, where we are 
+5 looking for threats in real time, often using real-time open-source analysis and 
+6 coordinating with Federal, State, and local law enforcement agencies, to identify those 
+7 threats and give them at least a lead to help them to follow up before a threat, you know, 
+8 elevates to a level of personal harm. 
+9 Q You mentioned the collection of intelligence as well as scouring certain 
+10 open-source resources yourself to pull the primary intelligence that you can get. If 
+11 you're collecting it, where are you receiving it from usually? 
+12 A Normally it's received from our partners, vetted and trained personnel that 
+13 we have given the --the --you know, the knowledge on kind of what is suspicious activity. 
+14 We give them the overview of what the threats may be. And then, once they see the 
+15 threat, the goal is to collect it --and it's collected many ways, either telephonically, or via 
+16 people going online to their various fusion centers --and then sending a suspicious 
+17 activity report to the fusion center. And that's our primary collection methodology, is 
+18 either the telephone, text, or on line reporting methods. 
+19 
+20 Q 
+A And by partners, who do you mean? Can you just list some of them? 
+Absolutely. It's --our partners are Federal, State, local law enforcement. 
+21 It's our emergency medical professionals. It's, you know, our first responders in the 
+22 field. It's our partners that may be, you know, critical infrastructure, which, in many 
+23 cases, includes social media companies. It includes, you know, our, you know, critical 
+24 infrastructure from utilities --oil, gas, electricity, water. Also, our cyber partners that 
+25 protect cyber networks.  7 
+1 We also reach out to the public health community and our partners in --the 
+2 medical professionals who may see indicators of, you know, preplanning activity or 
+3 injuries that are unexplained. 
+4 We also reach out to, you know, local schools and --and try to educate them on, 
+5 you know, the threats that may be posed by individuals that may want to be involved in 
+6 some type of mass-casualty incident, things like that. 
+7 Q As the head of the fusion center, what is your role as in could you give us 
+8 maybe a job description for your post? 
+9 A Yeah. In my role as the president of the National Fusion Center 
+10 Association, my role is to help it facilitate, coordination, collaboration among the 80 
+11 fusion centers that we have out there and all of our partners. So, from our Federal law 
+12 enforcement executives in the FBI, Department of Homeland Security, our partners that 
+13 manage the criminal intelligence investigative functions within all of our States, our 
+14 National Governors Association and our other major law enforcement associations from 
+15 Major County Sheriffs, Major City Chiefs of Police, our International Association of Chiefs 
+16 of Police, National Sheriffs Association, all of the major groups out there that have a 
+17 stake hold, our International Association of Firefighters, to coordinate with all of them and 
+18 to help facilitate kind of best practices, identify, you know, a strategy for where fusion 
+19 centers should be in the future, and to provide education to our members, which our 
+20 members of the NFCA are each of the 80 centers and their staff. 
+21 We normally facilitate that through annual training conferences, webinars, 
+22 seminars that we provide, subcommittees that we have that provide education, and also 
+23 to look into best practices for information sharing and collaboration. 
+24 Q Can you describe the relationship that fusion centers possess with the 
+25 Department of Homeland Security and, in particular, the Office of Intelligence and  8 
+1 Analysis, which I'll henceforth refer to as DHS l&A? 
+2 A DHS l&A by statute has responsibility for the coordination of the fusion 
+3 center network and the collaboration. They're our primary Federal POC. 
+4 So, on a day-to-day basis, in many centers across the country, DHS Office of 
+5 Intelligence and Analysis, l&A, personnel are assigned in centers. They're not in every 
+6 center right now, but we do have a close working relationship with them on a daily level 
+7 at the fusion center level in many fusion centers across the country. 
+8 At the national level, my closest POC there is and has always been the Under 
+9 Secretary of l&A, the lead person there that is responsible for the organization. And 
+10 that currently is being held by John Cohen, who is the designated official acting in that 
+11 role. And, you know, from a day-to-day perspective, he's the person I probably talk to 
+12 most daily on activities, coordination, collaboration throughout the network and 
+13 throughout l&A. 
+14 And so we have very strong ties with l&A both statutorily and kind of what we 
+15 have done as far as over the last, you know, 20 years of getting personnel integrated into 
+16 fusion centers. 
+17 Q That POC, point of contact, was that the --you mentioned a --quite a good 
+18 relationship, facilitation of information between the two of you. Was that the case 
+19 with --on January 6th with the person in that position at that time? 
+20 A At --the person at that time --and that was one of the --one of the things 
+21 we've had a lot of ups and downs as far as personnel in the position. Currently, great 
+22 with John Cohen. He's been one of my long-term friends. But, at the time, we had, I 
+23 believe --I think everyone was acting at the time of January 6th, and --and we didn't have 
+24 the greatest communication just because, you know, there was a lot of people in flux at 
+25 the time.  9 
+1 Q Are there any restrictions, Federal or local, that guide your collection --the 
+2 fusion center's collection of intelligence like other agencies within the IC, intelligence 
+3 community? 
+4 A There are a lot of --you know, and I can only speak from the outside of what 
+5 I see from l&A, but there are a lot more restrictions on kind of what l&A can do as a 
+6 title 50 intelligence community member with the collection of data on U.S. persons. 
+7 The role of fusion centers are in the realm of criminal intelligence, and we are 
+8 working at the State and local level as far as our authorities, so each State has various 
+9 authorities that allow them to collect information based on criminal predicates and 
+10 suspicious activity. 
+11 So, in many ways, the fusion centers have kind of a wider breadth of collection 
+12 capability as, you know, the majority of centers are law enforcement or homeland 
+13 security based that allow us to collect information based on indications of some type of 
+14 criminal activity. 
+15 Q Can you tell me about the structure of certain fusion centers where they're 
+16 either housed, maybe even physically, within law enforcement agencies or they partner 
+17 up with law enforcement agencies, some do and some don't? Can you describe that 
+18 sort of --the wide breadth of structure of fusion centers across the country? 
+19 A Absolutely. So fusion centers are organically built, and they're built on the 
+20 requirements of the local jurisdictions in which they're housed. So, in many areas of the 
+21 country, the National Network of Fusion Centers, each center was built out --and, at the 
+22 time, we didn't have baseline capabilities. We didn't have the guidelines for fusion 
+23 centers, and many of them were built on the existing State or local criminal intelligence 
+24 units that we had within those law enforcement jurisdictions. 
+25 For example, when I started out, it was with the California Department of Justice,  10 
+1 and we actually established a Bureau of Intelligence, and, you know, that Criminal 
+2 Intelligence Bureau that was established post-9/11 was a reiteration of a previous bureau 
+3 that the State had. 
+4 In other areas, we have fusion centers that were built out of newly formed 
+5 homeland security, emergency management agencies, or an agency that had an 
+6 emergency management function. So there are a handful of agencies that were built 
+7 out of emergency management, you know, foundation, and the majority were built out of 
+8 a law enforcement, criminal intelligence foundation. 
+9 Q And can you tell me your opinion as to whether you think that's a good 
+10 thing, an advantage, or a disadvantage that the wider breadth of collection available to 
+11 fusion centers, because of their partnerships with local law enforcement? 
+12 A I think that's a --the reason that fusion centers were built, because we have 
+13 the ability to look at all threats and especially the way the law enforcement function 
+14 works within our Nation. 
+15 You know, each organization of the Federal Government has very restrictive roles 
+16 and responsibility as far as what they can investigate. And, as you go down towards the 
+17 local level, they have a much wider breadth of things that they can investigate at the local 
+18 level and more tools and authorities that they can use. 
+19 So I think the capability and capacity for each of the fusion centers kind of 
+20 leverage the State and local authorities, gives them probably a lot more capability to 
+21 identify threats, especially threats that originate at the local level, whereas many of them 
+22 do. 
+23 So, having that capacity and capability, I think, is really advantageous versus our 
+24 Federal agencies, which many times have a lot more restrictions on what they can collect 
+25 and what they can share.  11 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 Q I'd like to shift now to the events leading up to January 6th. We're going to 
+10 go back in a little bit to more structural issues. I'll hand it off to my colleague, 
+for him to --at the end of my questioning to sort of zoom out and talk 
+more broadly about the institutions we'll be talking about here today. 
+So let's start, then, with the first two MAGA marches on November 14th and 
+December --yes --November 14th and December 12th of 2020. So, as the head of the 
+San Francisco fusion center and president of the national association --and it may be 
+nothing at all, but did you come across anything related to those first two events that 
+piqued your interest? 
+A You know, there were discussions and things that started coming --and I 
+11 have to go back to kind of, you know, our collection, especially from social media 
+12 companies and the work that we were doing with them. 
+13 Back in 2018, the local San Francisco FBI field office was being inundated with calls 
+14 from social media companies on, you know, threats to life, things that were immediate 
+15 threats that need to be handled, but there wasn't a good triage methodology. 
+16 So we started to work with a number of the social media companies on reporting 
+17 those as suspicious activity reports to the fusion center. So that methodology started to 
+18 grow and expand as those companies now had an outlet to push threats that they were 
+19 seeing --their top-tier threats. 
+20 So, as we started getting, you know, closer to, you know, election day and many 
+21 things that were happening in the Capital and across the country, we started getting an 
+22 increasing number of implied threats from social media companies regarding, you know, 
+23 potential criminal activity, regarding people making implied threats about violence. 
+24 And, at a certain point, my staff started to become inundated with threat 
+25 reporting each day to the point where some of my staff were having some serious  12 
+1 problems. I mean, all the threats we receive from these companies, the majority are 
+2 very serious threats where people are, you know, discussing going out and murdering 
+3 folks and killing folks and sharing, you know, things online which are horrendous. 
+4 And it got to the point where, back in 2019, our FBI partners started to build up 
+5 the National Threat Operations Center in the hope of, you know, collecting these types of 
+6 threats from social media companies. So, at a certain point, I reached out to the 
+7 companies, and I said: Hey, we are being inundated. We don't have the staff to 
+8 handle this. We would like to switch you over to the FBl's National Threat Operations 
+9 Center to collect the information. 
+10 And then we started to push those threats directly over to the NTOC, and the 
+11 companies started to move those threats over to the NTOC, implied threats, just because 
+12 there were so many coming through. 
+13 And, at that point, we lost visibility on the threats that we had, but I can only tell 
+14 you that we had too many coming in for our personnel to handle without breaking down. 
+15 And that's kind of the things that we saw, were those implied threats of violence, 
+16 and especially as we got closer to the election. 
+17 Q Can you give us --an exact date is not necessary --but an approximation of 
+18 when that switch happened? 
+19 A It was probably early November that we started to say, all right, let's start 
+20 moving --moving these threats over to the NTOC. 
+21 Q Okay. So, then, did you --would you have any visibility into a shift in the 
+22 intelligence before the infamous December 19th tweet by President Trump, which, for 
+23 the record, was, be there, will be wild, regarding January 6th, and after, or would you not 
+24 have visibility into that dynamic before and after? 
+25 A We didn't have visibility. In fact, my analyst came to me and said, you  13 
+1 know what? We've lost visibility since we've moved these threats over to the FBl's 
+2 NTOC, because we were basically out of the loop at that point. 
+3 Q Talk to me about --so these --before the switch happened and you were 
+4 seeing these threats, were these the threats related to the election in particular and 
+5 related to Washington, D.C., or just the election and across the country? 
+6 A Mainly just the election across the country. So it wasn't specific to 
+7 Washington, D.C., but a lot of angst and a lot of folks that --that, you know, were 
+8 displeased with the political environment and, you know, many of these, you know, 
+9 threats were on --some of them were, you know --or implied threats were on the verge 
+10 of First Amendment protected activities. 
+11 So, you know, our analysts are trained to look at threats based on the context, and 
+12 the social media companies, which they worked with and provided training to, would do 
+13 the same. So these threats were elevated enough that they --you know, the companies 
+14 believed that somebody should look into it. 
+15 And so that's kind of our context for that, was that, you know, someone should 
+16 look into it, but sometimes, especially with some of these threats, trying to identify the 
+17 location was not as easy. So we'd have a threat that would come through, but not 
+18 necessarily the details on where that person was who was posting it. 
+19 And one of the other issues that we had --and this is, you know, a long-going issue 
+20 with social media companies, is that they will provide oftentimes implied threats but 
+21 struggle when we do an emergency disclosure request because the implied threat doesn't 
+22 have a location of the threat or time line of the threat or, you know --or we don't have 
+23 the perpetrator or poster's information. 
+24 So, without showing some type of timeline of an imminent threat, the companies 
+25 would oftentimes say: Well, hey, we passed the threat to you, but we --we can't give  14 
+1 you anything more. 
+2 Now, we did have some companies that would provide more what they would 
+3 normally provide in emergency disclosure requests, but others basically said: Well, you 
+4 know, this doesn't meet our requirements for emergency disclosure, although they 
+5 reported it to us. 
+6 So it was a little frustrating to us to, you know, tip and lead and not have any 
+7 context or any additional information from the company that may have had that data. 
+8 Q And you mentioned that these were potentially on the line between First 
+9 Amendment, you know, aspirational, and, as you mentioned, implied, not specific. 
+10 What about them, given that some of them came across generic, implied, 
+11 potentially First Amendment --what about them still made them qualitatively or maybe 
+12 the volume different that stood out for you as a warning and made you confident or 
+13 concerned enough that it needed to be passed on? 
+14 A As far as the threats that we were getting, it quadrupled. So, when I saw 
+15 that number coming through and the inability of my staff to manage that number of 
+16 threats, we had to make a change. 
+17 And so I was concerned about, you know, the quantity that were coming through 
+18 because, you know, it wasn't as if the companies changed the employees. It was the 
+19 same employees who had been triaging threats for years with us, and all of a sudden, 
+20 they were of the belief that these threats were elevated. 
+21 So, when I saw that, I had a concern that these threats had to be managed 
+22 effectively and efficiently, and we needed help. And the FBl's, you know, National 
+23 Threat Operation Center folks were happy to take that on. 
+24 In fact, you know, earlier in the year, you know, we had four of the major 
+25 companies actually sent a letter to the Deputy Director of the FBI and said: Hey, we  15 
+1 want you to help us with this process. We know you want to help with this process, and 
+2 these are the outline of things that we want you to do that the Northern California 
+3 Regional Intelligence Center currently does. 
+4 And they were able to meet all of them except for the feedback loop part, and the 
+5 feedback loop part was providing information back to the companies on --not giving 
+6 them full details of the information of, you know, the end result, but just letting them 
+7 know if it was an effective tip or lead that came through and that there was a positive 
+8 result for it, both for closure for the company and for them to improve their process for 
+9 evaluating tips and leads and threats. 
+10 Q I'm going to shift to the January 2nd conversation you had with 
+11 Danell Harvin, but, before that, I want to ask if, between when the, you know, switch 
+12 happened in your fusion center in November until January 2nd, whether you reached out 
+13 to anyone else or heard from any other fusion centers about what they were seeing, if 
+14 between that period there is anything of importance or interest regarding the intelligence 
+15 that you can share with the committee? 
+16 A Well, you know, during that time, we were pretty much the primary center 
+17 in the country that was handling the social media threats directly with those companies, 
+18 so I didn't at that time reach out to the other companies to --or the other, I should say, 
+19 fusion centers to identify if they were seeing similar activity, just because we had --we 
+20 had the flow coming to us. And so I did not reach out to that --reach out to the other 
+21 centers. 
+22 And then, on January 2nd, you know, when Danell called me early in the 
+23 morning --Donel I Harvin, who was the Director at the time of the national or the NTIC, 
+24 the fusion center in Washington, D.C., you know, he kind of gave me an outline of all the 
+25 things that he had concerns about and said that the hair on the back of his neck was  16 
+1 standing up, and he was very scared that something very bad was going to happen. And 
+2 he gave me a detail of what he --his staff were seeing on line and the threats he was 
+3 concerned about, and I shared his concern based on what I had been seeing previously. 
+4 Q Okay. Let's go through that. For the record, NTIC being the National 
+5 Capital Region Threat Intelligence Consortium. 
+6 So, before actually I switch over to January 2nd, my last question on that interim, 
+7 you mentioned that your fusion center in San Francisco was sort of the point for --was 
+8 heavily doing the social media sort of calling. Can you explain why --what particular 
+9 vantage point your fusion center had that made it sort of the hub? 
+10 A Part of it was because many of the companies are based in Silicon Valley and 
+11 our area. So, having the ability to have in-person coordination, collaboration with the 
+12 companies, our folks providing our triage methodologies of how we evaluate threats, it 
+13 worked out, you know, very nicely between us and the companies. 
+14 And, once we started working with a couple of the companies, word spread, and 
+15 we became the go-to place for many of the companies out there in America. People 
+16 started to --you know, people in those social media companies oftentimes didn't know 
+17 where to send those leads to or those tips that they were receiving or the information 
+18 that they saw online that was disturbing. 
+19 They had a place to go if it was the exploitation of a child, sexual exploitation of a 
+20 child. They had NCMEC, National Center for Missing and Exploited Children. They had, 
+21 you know, avenues to go for that. But they didn't really have an avenue to go for, you 
+22 know, these threats that they were seeing on line other than oftentimes trying to call --if 
+23 they could figure out the local jurisdiction, trying to call a local jurisdiction and tell them: 
+24 I'm seeing this threat on line, and I need someone to respond. 
+25 And it would take --and some of these companies told me it would take them  17 
+1 4 hours to locate the right agency to respond, and oftentimes when they responded, they 
+2 spent more time trying to explain who they were and why they were calling than, you 
+3 know, getting the message of this is the threat. 
+4 So it became a really good opportunity for the companies and for us --the 
+5 companies would --through the SAR process, would send us the threats, and then we 
+6 would locate the jurisdiction where it started at. And our officers, our intelligence 
+7 officers, our law enforcement officers, our criminal intelligence analysts, would be able 
+8 to, you know, reach those jurisdictions and, in many cases, in minutes, be able to --be 
+9 able to get the problem solved. 
+10 We've had amazing saves of lives where our analyst has reached out to somebody, 
+11 and, within minutes, officers have shown up on site and saved a person's life. 
+12 And, you know, part of that is also us working --where we couldn't find the 
+13 information, working with our local law enforcement jurisdictions and the fusion centers 
+14 in those areas with the fusion center's databases, which are oftentimes more extensive at 
+15 the local level, to help identify where a person may be or who a person is based on the 
+16 information that we have. And sometimes that information was just a yearbook sitting 
+17 on the back of a shelf that the analyst saw and being able to pull up that image and figure 
+18 out what school that was and get that information to that right fusion center so they 
+19 could identify that person. 
+20 And, time and time again, everything from a child that was planning a mass 
+21 casualty, you know, event, where he was making threats online and, you know, in 
+22 one --this case, that specific case, West Virginia State Police knocking on the door and 
+23 taking the kid's gun away from them and getting them the mental help that they needed 
+24 before they did something bad. 
+25 So that was kind of the --you know, how this grew and built out between the  18 
+1 companies and what we were doing. It's just we started having so many of these 
+2 companies that started to push the information that it just became too much once we got 
+3 to the point of the election cycle and the implied threats that were coming through. 
+4 Q So, on the 2nd, the --The Washington reported that Danell Harvin, the head 
+5 of the D.C. fusion center, called you before dawn because he was, quote, growing 
+6 desperate, and, quote, Federal law enforcement agencies did not seem to share his sense 
+7 of urgency. 
+8 Did he communicate that frustration with Federal agencies with you on that call? 
+9 A He --he did. His --his main, you know, angst was that --and not 
+10 specifically that --that he wasn't getting the response from Federal agencies, but mainly 
+11 that he was concerned that there were threats out there that were not being collected 
+12 that needed to be collected to help identify if there was a specific threat to the Capitol. 
+13 And, based on what he was telling me, he said: I believe that there are 
+14 people --lots of people out there talking about bringing weapons to the Capitol, talking 
+15 about general violence. 
+16 And --you know, and his concern was that, you know, and the reason that the 
+17 network was created was to leverage all the 80 centers in the Nation to help identify 
+18 those threats. So that was kind of what he wanted to be able to do, was to --to be able 
+19 to leverage all those agencies, which already include the Federal, State, and local partners 
+20 in those regions, and territorial partners, to help collect the data that he felt he needed to 
+21 see if this is a --you know, a much larger problem than just what he was seeing as a 
+22 potential threat to the Capitol. 
+23 And that's kind of the gist of our conversation. And, at a certain point, I asked 
+24 him, you know, what he would like to do. 
+25 And he of course goes: Well, what do you recommend?  19 
+1 And I said: We will put a call together. I can put that together for you very 
+2 quickly. Our NFCA structure, we have regional co-chairs. I told him: Hey, reach out 
+3 to your regional co-chair so they're in the loop on this for the Northeast. I will start 
+4 immediately putting together a call and setting that up. And I also asked him to invite 
+5 his Federal partners on the call so that way, you know, they could hear the information at 
+6 the same time. 
+7 Q What he shared with you on that phone call, the sort of urgent things or 
+8 concerning things he was seeing --bringing guns to Washington, D.C., rhetoric of 
+9 violence --was any of that new to you, or was that in line with what you had previously 
+10 been seeing? 
+11 A The weapons and the violence were new to me. We had seen the veiled 
+12 implied threats of violence towards others, not specific discussions of weapons. And so 
+13 the weapons piece was new information to me. 
+14 Q And I can imagine why, but if you could, just for the record, explain: Why 
+15 did Dr. Harvin decide to call you in particular to assist him with this? 
+16 A And --well, Danell called me for a number of reasons. You know, we had a 
+17 close working relationship. He had reached out to me when he first became a director 
+18 and actually flew out to San Francisco. So I kind of give him an overview of, you know, 
+19 what a fusion center is and described kind of the goals and objectives that we have and, 
+20 you know, helped guide him through the process of trying to, you know, build his fusion 
+21 center the best way he could. 
+22 And then, as the president of the National Fusion Center Association, he was 
+23 looking to me for advice on, you know, how to rally the network, and also just my 
+24 experience over the last 28 years of dealing with threat mitigation and dealing with major 
+25 mass-casualty incidents. He was looking to me for those reasons.  20 
+1 Q You mentioned that, out of that conversation, you decided to convene a 
+2 phone call between --among all of the fusion centers around the country. What day 
+3 was that call held? 
+It was on January 4th -- 4 
+5 A 
+Q --the 4th. And can you describe for us how that call went? What was the 
+6 level of participation by fusion centers across the country, and what were they reporting? 
+7 A We had --and I invited the 80 fusion centers and asked them to, you know, 
+8 bring on their pertinent partners if they had any that were going to be on, and we had 
+9 under 300 or so participants that joined up of the 80 people that were invited. So we 
+10 had a lot more people show up than I had anticipated as far as people joining the call. 
+11 And the general gist of the conversations, we had the NTIC and Danell's team, 
+12 Dr. Harvin's team provide an overview of what they were seeing, and also describing in 
+13 certain cases States and areas where they were seeing specific --you know, what they 
+14 believe were implied threats to the Capitol, people talking about weapons and training, 
+15 people talking about coming with weapons and --to the Capitol to do potential harm. 
+16 And some of these groups that they had mentioned were unknown to some of the 
+17 centers out there. 
+18 So, you know, Dr. Harvin's team was able to provide them with that information. 
+19 They also sent out a request for information on, you know, a litany of threats that 
+20 were potential indicators of threat behaviors and data that they were looking for. So 
+21 that was also sent out to each of the fusion centers after the call, and it was also told to 
+22 them during the call. 
+23 Those centers or other centers around the country, also some of them said that 
+24 they were seeing some, you know, on line implied threats that they were concerned 
+25 about, but it was really an opportunity for everyone in the country who were seeing some  21 
+1 type of activity that may have been related to January 6th events that, you know, had 
+2 some level of concern. 
+3 And part of the discussion --and this was from Danell's perspective --is that he 
+4 was very concerned about a potential mass-casualty incident event. And so we 
+5 discussed a couple of things. One was we actually had --a number of years ago, I wrote 
+6 a document on the role of fusion centers during mass-casualty events and major public 
+7 safety events, and so we went over a little bit of --kind of the priorities within that, our 
+8 communication strategy; if it did become a mass-casualty event, what would we do? 
+9 Dr. Harvin's team set up a space within the Homeland Security Information 
+10 Network, a situational awareness room, that I believe approximately 32 or 33 of the 
+11 fusion centers in the country joined in that room prior to the event so that they could 
+12 share information in real time. And we also had a national situational awareness space 
+13 within the Homeland Security Information Network that is active 24 hours a day, and that 
+14 room was up as well. But the primary communications were within that situational 
+15 awareness room for the January 6th even that was managed by the NTIC. 
+16 Q How did you interpret the sort of heightened level of participation on behalf 
+17 of the fusion centers? Was that just curiosity, or was it because they were seeing things 
+18 that were concerning them that pulled a lot of people into the call? 
+19 A I believe that there were a few centers that were --that were seeing things 
+20 that they were concerned about, and there was a larger group of people that just wanted 
+21 to help, to understand what the threats people were seeing were, and to be able to 
+22 support our Washington, D.C., fusion center. 
+23 Q Those centers who --that --those centers that had --were seeing things 
+24 similar to what Dr. Harvin and his fusion center were seeing, is that typical? Were they 
+25 seeing things within their region? Were they seeing folks from different parts of the  22 
+1 country who were going to go travel to D.C.? Was that sort of their vantage point? 
+2 A Actually, you know, especially with open-source intelligence, oftentimes 
+3 you're not sure of where the person is located. So this was just, you know, people 
+4 within the social media environment doing open-source intelligence that were looking for 
+5 threat words, key indicators, things like that, that were coming across information, but 
+6 not specifically knowing what area of the country it is oftentimes. 
+7 There were some that --that said that there are things in our local area that they 
+8 were seeing, but oftentimes it was just we're seeing things online that do not look good. 
+9 Q I'll ask --I think the answer is no, but did you gain any sort of impression 
+10 from any of the centers reporting on that call, including potentially NTIC, about any sort 
+11 of shift in the volume or rhetoric concerning the January 6th event itself? So, if 
+12 previously it was surrounding the election when the President tweeted "be there, will be 
+13 wild," did you --were ever made aware of any shift in tone or rhetoric or volume after 
+14 that event was publicized by the President so widely? 
+15 A You know, a lot of the tools that we have don't quantify the volume of the 
+16 threat information, so the answer is no. And, after we had moved the threat 
+17 information over to the National Threat Operations Center, we really lost visibility on, you 
+18 know, that --especially the volume of threats that social media companies were seeing. 
+19 We did not have that anymore. 
+20 Q Okay. And so, after January 4th, up until January 6th, was there any other, 
+21 you know, conversations that you had regarding the intelligence leading up to January 6th 
+22 with anyone else? 
+23 A Only Danell. Danell and I were mainly in conversation with each other 
+24 about, you know, what was going on between those two timeframes, and mainly kind of 
+25 what the plan would be for national coordination.  23 
+1 I did send out an email that summarized kind of the overall discussions during the 
+2 call and also our response plan as well as our, you know, our plan that discusses 
+3 protection of privacy, civil rights, and civil liberties, our guidance on that. But Donel I 
+4 was my primary person that I was communicating with during that timeframe. 
+5 Q And was there anything developed --you said a plan either put in place for 
+6 on January 6th or the leading up --or the 2 days before it, anything that was created in 
+7 that time period? 
+8 A Well, I mean, Dr. Harvin created an operational plan for the event for his 
+9 center. And, at that time, we had discussed things that we had never done before, like, 
+10 you know, emergency manage --you know, EMAC agreements, emergency management 
+11 agreements between States and trying to enlist other fusion centers to support the 
+12 operations. 
+13 We did --between January 6th and, you know, inauguration, we had a number of 
+14 issues trying to get personnel that were allowed to support based on grant funding where 
+15 we had centers that said: Hey, I'm trying to get people to provide support, but, due to 
+16 grant restrictions and preauthorization of overtime and the resources, we're being told 
+17 we can't provide the resources right now. And that became an extreme pain point for 
+18 me. But, you know, we did discuss, hey, how can we make this work? 
+19 And Danell, coming from the emergency management background, you know, 
+20 went through the EMAC process and actually did --you know, later on for inauguration, 
+21 did the request through the EMAC process. But, prior to that, we didn't have any 
+22 process nationwide for typing up fusion center resources for emergency response and 
+23 coordination. And I think that, you know, that was one of the things, I think, stymied us 
+24 a little bit. 
+25 The other conversation I had with Donel I was the issue with his fusion center  24 
+1 being a Homeland Security and Emergency Management Agency fusion center and not 
+2 being a designated law enforcement fusion center or with law enforcement authorities. 
+3 That became a major issue for us with the sharing of criminal intelligence information or, 
+4 more specifically, criminal information. 
+5 I know that Donel I had contacted me. I had talked to other centers who were 
+6 trying to pass information or figure a way to pass information to Donel I, but said they 
+7 could not because their center did not have a Criminal Justice Information Services 
+8 originating agency identification number, CJIS ORI. 
+9 So his agency was, you know, unfortunately being restricted from getting some 
+10 information based on it being criminal information, which still is a --it has been a 
+11 struggle. Donel I and his team worked hard with the mayor's office to try to get some 
+12 resolution on that, but that's something that also affects and impacts a number of centers 
+13 across the country. It's hard to do criminal intelligence when you can't get criminal 
+14 information. 
+15 So Donel I and I had many conversations about the struggles of how to overcome 
+16 this to get the information that they felt they needed in near real time. 
+17 Q Did you have any visibility into how DHS l&A was preparing for the event? 
+18 So did you or other fusion centers receive any information or guidance from them as the 
+19 date approached? 
+20 A Along the whole election cycle, DHS had prepared some bulletins, FBI 
+21 general bulletins about potential threats to elections. You know, nothing specific about 
+22 the January 6th event, but we were in communication. And, on the January 4th call, I 
+23 did see a number of D.C. phone numbers. I'm not sure if they were FBI or DHS, but I did 
+24 get text messages from, you know, members of DHS and them hopping on the call and 
+25 actually saying: We will have personnel at the National Threat --or National NTIC  25 
+1 Center, you know, to be able to coordinate information at the D.C. Fusion Center. 
+2 And Donel I had also --because one of my major concerns was our coordination 
+3 with the U.S. Capitol Police, Danell told me that he would have analysts at the U.S. Capitol 
+4 Police in their offices to make sure that there was seamless communication with them at 
+5 their location. 
+6 So that made me feel a lot better. Of course, in the back of my mind I was saying 
+7 to myself, if DHS only had full-time personnel at the NTIC, we wouldn't have to have the 
+8 conversation about them having them that day and would be better integrated. 
+9 The other concern that Danell and I had was the coordination with the FBI, 
+10 and --because of limited participation at the fusion center in D.C. from the FBI. And 
+11 that was something that I was unsure of at the time, and I'm still --I'm still not sure who 
+12 from the FBI was on the call, because I kind of put that on Danell to make sure that his 
+13 local partners in that field office and the field division there, along with our partners at 
+14 DHS, were on the call. 
+15 Q And so that was going to be my second question. You said that you saw 
+16 some D.C. numbers, several of which could have been FBI. So, much like you just broke 
+17 down with DHS l&A, what role, to the extent you had any visibility, of course, did they 
+18 play in the lead-up to January 6th, FBI? 
+19 A You know, up until that time, I was not sure kind of where they were on the 
+20 events leading up to January 6th as far as information sharing, coordination. I later, of 
+21 course, found out that they had done notification to some of the national capital regional, 
+22 you know, fusion centers --Maryland, Virginia --and given them some updates or, you 
+23 know, coordinated through their JTTF somehow at least that there was some concerns 
+24 about January 6th. But that information was not widely available, and I had no 
+25 knowledge of it, you know, up until, you know, after the event and after the information  26 
+1 became more public. 
+2 Q So let's zoom out a bit. The Washington Post reported about the 
+3 purportedly low regard that the FBI holds for fusion centers, derogatorily calling them 
+4 confusion centers, for example. 
+5 Have you encountered this viewpoint, how prevalent would you characterize it 
+6 being, and do you feel that it --if you have, did it negatively impact the working 
+7 relationship between fusion centers and the FBI in the lead-up to January 6th? 
+8 A In the coordination with the FBI, you know, it --overall, we've always had, 
+9 you know, the support and good conversations with the leadership of the FBI, whether it 
+10 be the Director, Deputy Director of the Bureau. At the field level, though, each, you 
+11 know, field office of the FBI operates, you know, within their own boundaries and their 
+12 special agents in charge or assistant director, for those that have assistant directors, 
+13 coordinate with their fusion center or fusion centers, because some of them have more 
+14 than one fusion center in their AOR, individualistically. 
+15 Back in 2017, we did work with the Office of Director of National Intelligence, DHS, 
+16 the FBI --and the FBI to develop an enhanced engagement initiative, which the FBI Office 
+17 of Partner Engagement was heavily involved in. 
+18 Kerry Sleeper's office was --at the time, he was the Assistant Director for the 
+19 Office of Partner Engagement in the FBI. And Kevin Saupp, from DHS Office of 
+20 Intelligence Analysis, worked hard to develop a project that would enhance that 
+21 engagement between the fusion centers and the field offices. And it covered 10, you 
+22 know, areas of enhancement and 3 tiers of enhancement or 3 tiers of engagement, and 
+23 that was our goal back in 2017, was that we see gaps between the coordination between 
+24 the FBI and the fusion centers. 
+25 And part of even the confusion on the FBI in many of the field offices is that they  27 
+1 don't understand what a fusion center is or the roles and responsibilities. Many of them 
+2 have the misunderstanding that fusion centers are a component of the Department of 
+3 Homeland Security and that, in actuality, they are, you know, State and local public safety 
+4 operations that have DHS involvement. 
+5 And many fusion centers, including --in a number of them, I should say, we have 
+6 seamless, you know, coordination for the most part, you know, where we have all our 
+7 fusion centers are embedded in FBI space or FBI personnel are embedded in the fusion 
+8 center, and we have FBI supervisors that work within the fusion center, or an FBI analyst 
+9 or special agents. 
+10 In those areas, it works phenomenally well, and it's all based, unfortunately, 
+11 fusion center to FBI field division, on personalities, on --you know --you know, 
+12 interpersonal relationships rather than, you know, codified understandings of how the 
+13 operations are going to run. So, in those areas where there isn't the greatest of 
+14 engagement is where we oftentimes see gaps in that coordination capability. 
+15 The fusion center's role is --and DHS did publish this and post this, because 
+16 oftentimes --and even Members of Congress don't know the difference between a Joint 
+17 Terrorism Task Force, a fusion center, the High-Intensity Drug-Trafficking Area program, 
+18 the Regional Information Sharing System's programs, and what their roles are. 
+19 So DHS, you know, has posted kind of this is the roles of the JTTF, this is the roles 
+20 of the fusion center. But unfortunately there is no educational program 
+21 between --within the FBI so that they understand what fusion centers do. And 
+22 sometimes there has been, you know, misunderstandings of who has what role and how 
+23 the integration should work and the collaboration can work. 
+24 So there are centers around the country where that engagement is low. And we, 
+25 most recently, this past September, you know, we did a study to look at, from the  28 
+1 perspective of the fusion centers, where they felt they stood at that level with their FBI 
+2 field office on engagement based on those 10 areas of engagement and 3 tiers of 
+3 engagement. And we have some centers that have, based on their responses, almost no 
+4 engagement, and we have some that have --are extremely engaged and embedded with 
+5 each other. 
+6 The goal is, how do we get to that point where we have full integration between 
+7 the operations and collaboration? So that is one of the problems we have. The very 
+8 fact that we don't have full-time personnel at our Nation's Capital in their fusion center is 
+9 a problem. And, undoubtedly, if we had personnel, we would have had a better 
+10 perspective of what was going on from the FBl's side at that local level. 
+11 
+12 
+13 Q 
+A 
+Q And that last part, you mean on January 6th? 
+On January 6th. 
+Okay. So this misunderstanding, misperception about the role of fusion 
+14 centers then leads to some --a lack of communication between some fusion centers and 
+15 the FBI, in your view, that did contribute, at least partially, to January 6th and the level of 
+16 preparation? 
+17 
+18 A 
+Q In my understanding, in my conversations with Dr. Harvin, I believe it did. 
+And, for the record, I think you used the acronym AOR, which is area of 
+19 responsibility, correct? 
+20 
+21 A 
+Q That's correct. 
+What about the contribution of fusion centers to the threat picture? So, if 
+22 the FBI isn't so much sharing with the fusion centers, what is your view as to 
+23 the --whether the information or intelligence collected from the fusion centers were, 
+24 one, getting to the FBI, and, two, being treated seriously given some of the breakdown in 
+25 communication we just talked about?  29 
+1 A From the perspective of the fusion centers, I mean, their role is that 
+2 collection and --collection, analysis, and ultimate dissemination of it to the agencies that 
+3 have the authority to investigate. So I believe that, you know, based on the triage and 
+4 capacity that fusion centers have --and it varies. I mean, we have fusion centers that 
+5 have 200 people in it, and we have some that have four. And so capacity across the 
+6 Nation varies tremendously. 
+7 In my own center with --you know, our normal staffing is about 85 people in the 
+8 center. We have a very robust capability. In fact, just in --I'll give you from the 
+9 example of the Northern California Regional Intelligence Center. We have a team that 
+10 all they do is triage threats and work closely with the FBI, and we are in FBl's face to make 
+11 sure that the Joint Terrorism Task Force gets the leads and tips that they need, along with 
+12 all the background information on potential subjects that they're going to go out and do 
+13 an evaluation on. So that's where that symbiotic role works very well. 
+14 We also have local law enforcement officers that work in our office that, if 
+15 something doesn't meet the thresholds of the FBI, they do followup themselves to --in 
+16 working with local agencies to identify if there is something that could be collected that 
+17 would elevate it to a Federal investigation for the FBI to at least start doing an assessment 
+18 on. And, if it isn't something that the FBI leads --you know, an investigation that they 
+19 would lead, then they help find an agency that can do the followup and investigation on 
+20 it. Our folks do that triage for them. And that's where it works extremely well. 
+21 And the other component of that was, years ago, we had two separate systems 
+22 for the collection of suspicious activity reporting. We had a shared space system that 
+23 was being developed and where, you know, individual fusion centers had a server that 
+24 actually all their SARs, suspicious activity reports, tips and leads could go into and then be 
+25 shared with others based on roles and responsibilities.  30 
+1 We also had the FBl's eGuardian system, which is their unclassified system that 
+2 they manage their tips, leads, suspicious activity reports within. 
+3 And, at a certain point, the FBI and DHS came to me and said: Hey, we are not 
+4 going to be able to afford both systems, and I was part that decisionmaking process to say 
+5 that we would go away from shared space due to cost, and that we would go to the 
+6 eGuardian system. 
+7 So that's where tips and leads should go from across the country, into that 
+8 eGuardian system, and that eGuardian system, which is another issue that we have 
+9 nationwide is that, in many field offices of the FBI, they have no understanding of what 
+10 eGuardian is. It's their own system, but they don't know what it is. They work within 
+11 the Guardian system, the classified system. But, unless you're on a threat squad that 
+12 triages information with the eGuardian system, they have no visibility. 
+13 And so what our analysts do is a certain percentage --and it's usually about --it 
+14 averages about a third of the reports and tips and leads that we get meet the thresholds 
+15 to go into that eGuardian system. That then is assigned to a JTTF task force officer or 
+16 special agent. And then, once it's evaluated to becoming something that needs further 
+17 investigation, it goes into the Guardian system, and then more substantive squads handle 
+18 those Guardian leads. 
+19 But the whole eGuardian network, that whole understanding of what the 
+20 Nationwide Suspicious Activity Reporting Initiative is, isn't especially well-known within 
+21 the FBI. 
+22 Q And so, at the beginning of your answer, that sort of successful facilitation 
+23 and coordination between FBI and your fusion center, it's your understanding that that is 
+24 not the way, at least prior to January 6th, that the D.C. fusion center operated with its FBI 
+25 counterpart. Is that fair?  31 
+That's what I understand. That's correct. 1 
+2 A 
+Q Let's talk about DHS l&A in the same vein that we were talking about the FBI. 
+3 So, generally, are there problems in coordination between DHS l&A and the fusion 
+4 centers? 
+5 A It all depends on personnel being on site. If there are full-time personnel 
+6 on site, we have great collaboration. I mean, what's the whole point of a fusion center: 
+7 You bring all your resources in the same place, and they work together. 
+8 And it becomes problematic when we have no personnel on site or a part-time 
+9 person, which means that there is no time --yeah. There is no one there oftentimes. 
+10 That --you know, we have lower levels of engagement based on personnel not 
+11 being there because the other part of that is that, you know, each agency brings their 
+12 systems and resources to the center. So, without a DHS person on site, other than the 
+13 Homeland Security Data Network and the Homeland Security Information Network, there 
+14 are a lot of DHS systems that fusion center personnel don't have access to. 
+15 Q And how did that come about, do you think? Why are there some fusion 
+16 centers where there is not that level of engagement? And, similarly with the FBI, do you 
+17 feel that, in those fusion centers, was that a --did that contribute to the preparation for 
+18 January 6th and in creating a sort of complete threat picture? 
+19 A Oh, absolutely. I --my --I wholeheartedly believe that if you don't have the 
+20 right personnel on site to have those discussions with, to have access to their tools and 
+21 resources to bring that to the table, things will be missed. And, you know, when you 
+22 look at --and I'll go back to DHS's Office of Intelligence and Analysis. They were dealing 
+23 with --and unfortunately --a number of restrictions on being able to deploy personnel 
+24 due to congressional restrictions, and those restrictions limited their ability to send 
+25 people to the field.  32 
+1 And it takes time to get trained personnel in the field. So that contributed to 
+2 even those that they could send out, getting people out in the field. We've had huge 
+3 delays. We've had centers that, in some cases, you know, those that, if somebody 
+4 leaves, it's taken 2 years --2 to 3 years to get another person in place. And that has 
+5 caused some major problems with our ability to operate and especially see the threat 
+6 picture. 
+7 The other component of that from the threat picture perspective is, you know, 
+8 fusion centers' engagement in the threat prioritization and processes, the TRP process, 
+9 threat review and prioritization process from the FBI, without having fusion center 
+10 personnel sitting with FBI personnel to review the priorities and the threats in their 
+11 specific area of responsibility, fusion centers are left in the dark and unable to collect the 
+12 information that the FBI needs. 
+13 You know, we also, you know, in our planning process for the collection of criminal 
+14 intelligence, we need the ability to know what threats the FBI is seeing in the local 
+15 jurisdictional area. And, without that, there is a gap. And, you know, that's why it's so 
+16 important to have the personnel on site. 
+17 So, lacking that personnel from the FBI resource perspective, some field offices 
+18 say: I can't send people out to the three fusion centers in my area. In other areas, you 
+19 know, there is a misunderstanding of what does a fusion center bring to the table. And 
+20 that is something that we have not had the capacity, at least at --you know, currently to, 
+21 you know, encourage and bring all of the FBI personnel, at least the special agents in 
+22 charge and assistant directors that are in the field, up to speed on why they need to 
+23 integrate and be part of their fusion center. 
+24 And I tell this to the FBI --and I've told it repeatedly --these fusion centers are as 
+25 much theirs as anyone else. They just need to be willing to put the personnel in place.  33 
+1 
+2 [12:00 p.m.] 
+3 BY 
+4 Q Have there been any problems stemming from either an underemphasis or a 
+5 reticence to focus on domestic terrorism? 
+6 A Well, back in 2017, my biggest issue was State and local antiterrorism 
+7 training, which provided a key resource for State and local law enforcement to 
+8 understand domestic terrorism. That program through U.S. DOJ went away, and 
+9 funding was reduced. And, back then, I think it was The Kansas City Star interviewed me 
+10 on that report, and I told them it was abysmal. 
+11 We have to look and focus on domestic terrorism. That is oftentimes --although 
+12 after 9/11 the focus was on international terrorism, the focus has always, in my mind, 
+13 since I have been doing this job, has been on all terrorism threats. Doesn't matter 
+14 whether it is international or domestic; the impact is the same. 
+15 But there have been issues, especially within, you know, the FBl's resources that 
+16 they have allocated to domestic terrorism activities and issues. The big focus has been, 
+17 for a number of years, on international terrorism. More recently, it's, you know, been 
+18 reevaluated to focus resources on domestic issues. 
+19 But there's also, you know, issues even within, you know, Department of 
+20 Homeland Security, where there have been concerns about, you know, domestic 
+21 terrorism or even, you know, domestic right-wing extremism and violent extremism and, 
+22 you know, reporting on that, you know, especially when people are looking at the Title 50 
+23 authorities they have and how does that look, to collect information on U.S. persons. 
+24 But one of the things especially with that SLAT training, that State and local 
+25 antiterrorism training, that I had a concern about was that we need to train our law  34 
+1 enforcement on domestic threats. And I can't tell you the heartache I have had over the 
+2 years in dealing with grant personnel --and this is our Federal Emergency Management, 
+3 you know, grants, FEMA grants --where the focus has been on international terrorism. 
+4 And trying to say we need to do domestic terrorism training hasn't met criteria in the 
+5 past, because they said, well, it has to have an international terrorism nexus. 
+6 That has been extremely problematic for us over the years, you know, because 
+7 without the training, how are we going to collect the information? How are we going to 
+8 get the key indicators of those that may be a threat to our country? And so those have 
+9 been major issues for us. 
+10 Q In your view, did any of these --did these views at all impact the lead-up or 
+11 preparation for January 6th? 
+12 A You know, as far as domestic terrorism threat from the fusion center 
+13 perspective and the view that, you know, this could be a potential --in my mind, 
+14 that --and I always look at things, especially if there's going to be a large gathering of 
+15 people, that it could be a domestic or international terrorist that could take advantage of 
+16 large crowds of people. 
+17 The other component that we talked about on the call was, you know, our role in 
+18 protecting privacy, civil rights, and civil liberties. That's a fundamental core of all fusion 
+19 centers and what we do. You can't be a fusion center if you don't have a privacy, civil 
+20 rights, civil liberties policy and training and accountability. 
+21 And so our major discussion was, you know, that there may be violent actors that 
+22 want to take advantage of the events that are going to happen, to the point where, you 
+23 know, we need to be aware and look for any signs and signals of potential indicators of 
+24 terrorist activity. 
+25 And, years ago, the Program Manager for the Information Sharing Environment,  35 
+1 PM-ISE, which at that time was within the Office of the Director of National Intelligence, 
+2 developed standards for specific activity reporting, functional standards that, you know, 
+3 described these types of activities, but it was focused on international terrorism. But it 
+4 really doesn't matter if you put the international or domestic in; it impacts all the 
+5 coordination with terrorism. 
+6 So I don't believe that, you know, we were hindered specifically, especially on the 
+7 fusion center level, by whether we called it, you know, a potential domestic terrorist 
+8 event or an international terrorist event. I think, from our perspective, we were just 
+9 doing the collection that we needed to do to help the NTIC. 
+10 Q Do you think that it impacted, though, you know, DHS l&A or FBI, how much 
+11 they were, you know, collecting, looking at, sharing, given potentially a lack of focus on 
+12 domestic violent terrorism in the past? 
+13 A I think in a way it did. And only from the perspective that, you know, 
+14 you're dealing with U.S. persons, you're dealing with implied threats in some cases, you're 
+15 dealing with First Amendment-protected activities. So, you know --and this is from me 
+16 on the outside --my only belief is that it did impact some of their abilities and the way 
+17 that they operate. 
+18 You know, if we had said this was an international terrorist event or that the 
+19 threat was coming from al-Qaida or ISIS or a designated group, you know, there would've 
+20 been nothing stopping the FBI or DHS from going full-court press. But because of, you 
+21 know, the sensitivities to, you know, some of these folks, it may just be, you know, our 
+22 interpretation of an implied threat. 
+23 And oftentimes we deal with that, where someone may say that they're not going 
+24 to kill somebody; they just say that I wish someone would kill this person. And, you 
+25 know, that's the line that we have to walk to figure out, you know, does this person have  36 
+1 the means, capability, desire to carry out a threat or are they just, you know, talking 
+2 on line. 
+3 Q It does not appear that, outside of Capitol Police, any Federal intelligence or 
+4 law enforcement agency produced a written threat assessment for January 6th that was 
+5 meant to be shared widely. 
+6 Was that a problem, in your view? As in, do you think it would've helped if ones 
+7 had been generated by the FBI or DHS l&A, for example? 
+8 A Well --and, you know, at the time that things --our January 4th call, there 
+9 was no real time to put a threat assessment together. And things were moving very 
+10 quickly. And, you know, that's why we had the call. 
+11 You know, prior to, I mean, it would've been great to even have a joint threat 
+12 assessment that would've been done by U.S. Capitol Police, the FBI, DHS, and the NTIC. 
+13 And that is not unheard of. We have done joint threat assessments on every major 
+14 sporting event forever, you know, whether it be, the NFL Super Bowl or whether it be, 
+15 you know, a World Cup, whatever it may be, that agencies get together and do a joint 
+16 threat assessment. 
+17 That would at least have probably outlined, you know, some of the things ahead 
+18 of time and probably prepared a working group that is looking at the threats to 
+19 collaborate more closely. And that's the whole point of a joint threat assessment. 
+20 Each agency comes together and brings their piece to the puzzle. And it may just be a 
+21 Lego set with no pieces that match, but at least everyone's coming to the table. 
+22 And I think that would have helped, to have those groups get together, you know, 
+23 to do that type of threat assessment and coordination and then, also, work on the 
+24 collection strategy of, how are we going to collect information on threats and disseminate 
+25 threats? I think all of those things are helpful. And that, as far as I know, I never saw  1 it. 
+2 
+3 Q 
+A Why do you think none was completed? 
+Ha. I really couldn't say. I mean, I --you know, the U.S. capital region is 
+4 an interesting place with lots of jurisdictions and lots of agencies involved and lots of 
+5 personalities. And I couldn't really tell you why that was not done prior to that. 
+6 Q Do any of the purported constraints --and we've talked about them here 37 
+7 today --the First Amendment concerns, surveilling American citizens even in open source, 
+8 navigating the ambiguous line between actionable specific threats and aspirational 
+9 speech --do any of those constraints, in your mind, reasonably explain, sort of, the lack of 
+10 this written threat assessment or, you know, real coordination among the agencies? 
+11 Or do you think that open-source speech can, even if it doesn't lead to an 
+12 investigation, to a name, to a knocking on the door, to a warrant, can be used 
+13 nonetheless to posture security without affronting those concerns of the First 
+14 Amendment? 
+15 A Oh, absolutely. I am a firm believer that, especially in the protection of 
+16 major events, that the use of open-source intelligence plays a critical role and that, you 
+17 know, through the training of our personnel on privacy, civil rights, and civil liberties and 
+18 the appropriate methods to triage data, to collect data, and to store data, that we can 
+19 balance public safety with the protection of privacy, civil rights, and civil liberties. 
+20 And through another body that I lead, the Criminal Intelligence Coordinating 
+21 Council, as the chair, we did produce a real-time open-source intelligence guide for fusion 
+22 centers and for all public safety agencies that kind of outlines the roles and 
+23 responsibilities and capabilities. 
+24 The other thing that was produced by the Criminal Intelligence Coordinating 
+25 Council was, you know, First Amendment-protected activities and the role of law  38 
+1 enforcement, which also outlines what a fusion center should be doing and what are red 
+2 flags for a fusion center as well. 
+3 So both of those documents were distributed after our call on January 4th to our 
+4 fusion centers. And fusion centers are doing that now, and law enforcement agencies 
+5 that we work with are doing that type of work every day to identify threats online and be 
+6 able to follow up on those threats. 
+7 Whether it be a person that is on line posting a picture of them with an AK-47, 
+8 saying they're going to kill somebody, or someone that's talking about, you know, implied 
+9 threats or talking about discussing ways to get around security at an event, our personnel 
+10 have seen that and have stopped it. Or whether it's a violent assault, where a person is 
+11 almost, you know, being beaten to death and their life is saved because our analysts are 
+12 seeing that threat on line in real-time and getting medical aid to that person that's being 
+13 injured, that's the work that fusion centers are doing every day. 
+14 So I have no doubt that, you know, with that coordinated effort for special event 
+15 support, with a coordinated approach to joint special event threat assessments, and a 
+16 working group of analysts that work together to that event point, it can be successful. 
+17 I've seen it happen time and time again, whether it's been my own experience doing a 
+18 Super Bowl or major public safety events where we've had large mass gatherings of 
+19 people. When we do this well, people don't get hurt. 
+20 Q Given what you and the other fusion centers were seeing, in particular NTIC, 
+21 do you agree or disagree with the statement made by the former Capitol Police chief 
+22 Steven Sund that there was no specific credible threats leading up to January 6th? 
+23 A Well, I agree with him on the point that there were no specific threats, 
+24 nothing that said "I am going to go at the Capitol with a bomb" or "I'm going to charge the 
+25 Capitol with a gun." But I do believe that there was enough, you know, threat  39 
+1 information that we were seeing to believe that something was going to happen. 
+2 And Dr. Harvin, I know, during our discussions, he was reaching out to everyone 
+3 he could to prepare for a mass casualty event, just to say that, you know, you know, 
+4 based on what we're seeing, that he was extremely concerned that people would come 
+5 with weapons and other things, you know, that could harm the public. 
+6 Q So is that paradigm, that lens with which we look at intelligence, is that a 
+7 hindrance? So should the volume and tone of nonspecific threats still serve as an 
+8 adequate warning? 
+9 A I believe they can. But I also have to say that just because you have more 
+10 reporting doesn't mean you have a greater threat. 
+11 And an example of that is, years ago I had an attack on an electrical grid facility, 
+12 Metcalf station in our area, where in the middle of the night a person unloaded hundreds 
+13 of rounds of ammunition into the facility. They also cut the fiber-optic 
+14 cables --someone cut the fiber-optic cables underneath the facility. And that took out 
+15 that electric grid. 
+16 After that, we had an inundation of reporting about suspicious activity around 
+17 electric facilities. Now, that didn't mean that there was more of a threat; it just means 
+18 people were more observant of the threat. So we have to balance out that volume does 
+19 not always equate to an elevated threat. It's the context in which it is in. 
+20 And so I do believe that, you know, based on, you know, multiple-source 
+21 reporting, that those may be indicators, especially if there are folks that are saying that 
+22 they're going to go --as more and more users on line say they're going to go to an event, 
+23 and especially those that are using implied language that they're bringing weapons, which 
+24 was --people weren't saying, "I'm going to bring a gun." They'd say they'd bring "blank, 
+25 blank." They'd fill it in with whatever they wanted to call their weapon.  40 
+1 And so I think that, in those cases, the ability to triage that type of data --which 
+2 we still lack in our country. We still lack the ability to have that centralized triage of that 
+3 open-source information to not only identify multiple users but also deconflict agencies 
+4 that may be looking at the same person. 
+5 That is something that, one, we have had our partners in the Regional Information 
+6 Sharing System and our other two major deconfliction systems in the country, which all 
+7 have interconnected their systems, but we don't have agencies right now that are using 
+8 the deconfliction tools to the capacity, robust capacity, they should, and we don't have a 
+9 place where everyone is sharing that open-source intelligence and triaging it. So those 
+10 are problematic issues that we have in an inability to understand the volume of threats. 
+11 
+12 
+13 Q Perfect. 
+I'm going to be handing it over in short order to my colleague. 
+I want to turn now to January 6th itself. Can you just talk us through your 
+14 morning up until you hear that the Capitol has been breached? 
+15 A Well, I mean, I was actually, unfortunately, feeling comfortable with our 
+16 preparation, our discussions, our sharing of information, the 32, 33 centers that were in 
+17 Danell's space contributing information. 
+18 And then, when the surge happened on the Capitol, Danell and his team --Dr. 
+19 Harvin's team became inundated. They didn't have the resources they needed on site. 
+20 You know, it was difficult for remote folks who were seeing things and trying to relay 
+21 information to them to have the triage capability that they needed for all of the data that 
+22 was moving. 
+23 We also had a number of centers there were --and despite the fact that I had said, 
+24 "Hey, please get in this room before the date, or you won't get in the room; they just 
+25 don't have the time to vet users and bring them in," we had personnel that wanted to get  41 
+1 in the room and the space. We had so much activity that was going on in the space and 
+2 also telephonic calls that Dr. Harvin's team was getting in the work that they were trying 
+3 to do, that he was --you know, prior to it, he was hopeful that, you know, it wouldn't go 
+4 horribly wrong, although he was terrified that it would. 
+5 And, then, when it did go wrong and the Capitol was breached, he and his team 
+6 were just to the point of, you know, trying to manage just the information flow and the 
+7 coordination in his role as an emergency management person, that coordination with 
+8 other agencies, trying to get help. And he was desperately trying to get support for 
+9 partners. And it was hard. His tone to me was very frustrated. 
+10 I was trying to also get someone from the NTIC to be able to update the national 
+11 space that we have for situational awareness. And he, at that time, was unable to get a 
+12 person from his team to update the Nation in that space. And that became a problem, 
+13 because the other centers that weren't in his area had no visibility or no ability to 
+14 contribute information to him. And that became a major problem for us. 
+15 So it was heartbreaking to see what was going on, based on everything that we 
+16 said would potentially happen. Luckily, you know, the worst-case scenario of mass 
+17 casualties did not happen. But, you know, try to share information. 
+18 The other major issue that I had was with the Homeland Security Information 
+19 Network, the Adobe Connect system that is used for the situational awareness rooms. 
+20 was trying to get geospatial information up, which is critical for us to understand where 
+21 things are at, where major threats may be, or where other threats may be, to identify 
+22 those. And I was told that the system was unable to upload the GIS capability; that 
+23 component of it was not working and would probably not be up for another week. So 
+24 we had no ability to map out what was going on to explain that to the rest of the country. 
+25 Q Did you listen to the President --the former President's speech?  1 
+2 A 
+Q I did not. 
+Okay. 42 
+3 Anything else you want to share with us about January 6th as the attack unfolded 
+4 and ultimately as it was quelled and the Members returned to certify the election late 
+5 into the night, any other conversations with Dr. Harvin, or other measures that you 
+6 assisted in putting in place nationally? 
+7 A We planned a call --and this was, you know, as soon as Dr. Harvin's team 
+8 could be able to talk to people --to explain what they were seeing. So we did an 
+9 emergency call, which was part of our plan, to bring partners up to speed on what was 
+10 going on and what they were seeing. 
+11 And his deputy director got on the call and gave an overview of what they were 
+12 experiencing, kind of what they were trying to triage, the things that they were trying to 
+13 do in coordination with the U.S. Capitol Police, you know, just to try to, you know, get 
+14 back to a normal environment after, you know, basically the Capitol had been overtaken. 
+15 Q I'd like to shift to moving forward past January 6th and into the current day. 
+16 Has anything changed with regard to the relationship between fusion centers and Federal 
+17 agencies as a result of January 6th? 
+18 A We've actually had a number of conversations between DHS and the FBI 
+19 about especially the coordination with the FBI. My first priority was to say that we have 
+20 to do better and that we have to work together more closely, that we have to use the 
+21 Enhanced Engagement Initiative to develop, you know, a better capacity. 
+22 The other component of that was, you know, working with Congress on, you 
+23 know, developing a strategy within the Department of Homeland Security, not just for the 
+24 Office of Intelligence and Analysis but the Department of Homeland Security as a whole, 
+25 on how they coordinate with fusion centers. So Public Law 116-116 was passed to  43 
+1 require that they develop that strategy. 
+2 We've also since then had a meeting with the FBI, an intelligence summit, at their 
+3 office, at the Hoover Building, to discuss, how are we going to, you know, move the 
+4 Enhanced Engagement Initiative and many of the information-sharing gaps that we are 
+5 seeing? How are we going to better coordinate that information-sharing? That has 
+6 been a major focus and is now a major focus of the Director of the FBI and the Deputy 
+7 Director of the FBI. 
+8 The other part of this is that DHS has been holding biweekly calls at the --you 
+9 know, the Under Secretary of l&A has --Acting Under Secretary of l&A has been holding a 
+10 call with partners, including the FBI, to have briefings with the leadership of the major law 
+11 enforcement associations of America to talk to them about the threats, to talk to them 
+12 about concerns, and talk to them about, you know, vulnerabilities. So that has helped 
+13 us tremendously to improve communication. 
+14 The one thing that even at the intelligence summit we still lack that --although 
+15 John Cohen, as the acting head of DHS l&A, and Paul Abbate, as the Deputy Director of 
+16 the FBI, are working extremely closely together. I mean, they are talking regularly. I'm 
+17 talking with both of them. So we've improved, kind of, that coordination at the senior 
+18 level of the organization. 
+19 So I've seen, you know, more conversations than I've seen in years and people 
+20 being able to get together. But I still see gaps where DHS and the FBI are not totally in 
+21 lockstep, you know, especially as you go down the chain of command in the FBI, that we 
+22 haven't got everyone on the same page. 
+23 I've also seen some things that have not been good. One example is the role 
+24 that the Program Manager for the Information Sharing Environment. When 
+25 Kshemendra Paul had that role --and Kshemendra is leading IT for the Veterans  44 
+1 Administration now. But when he was there, his role was looking at, kind of, how do we 
+2 improve the entire information-sharing environment? Unfortunately, the focus was on 
+3 international terrorism. So any discussion of domestic terrorism was things out of their 
+4 purview, which is problematic. 
+5 And since Kshemendra Paul left that role, that role had been repeatedly, kind of, 
+6 downgraded and downgraded, and, ultimately, I have no idea who has that role and 
+7 responsibility. I have been told that it has been taken up in the White House, but I have 
+8 no idea who it is. 
+9 And so that person is probably one of the key people to making sure that this all 
+10 works, that makes sure that people, you know --they have no authority to, you know, 
+11 hold people accountable, but they can get people to convene and to have the important 
+12 discussions that we need to have. 
+13 And, oftentimes, over the years, I've seen I'm either having conversation with DHS 
+14 or the FBI or other organizations but not as a group. And the Criminal Intelligence 
+15 Coordinating Council brings people together to have discussions about best practices and 
+16 policies, but there is not a person that holds people accountable. 
+17 But without the PM-ISE role and with their limited authorities that they have 
+18 specific to international terrorism, we need a person, one, in that role in the first place, 
+19 and we need the role expanded to discuss domestic terrorism threats as well, along with 
+20 whatever major threats our Nation may encounter. 
+21 But without that one person --and that's kind of the problem that we've had 
+22 throughout the history of our country post-9/11, is that we have a lot of organizations 
+23 and agencies, agencies that should be collocated in fusion centers so that at least we have 
+24 seamless communication, but there's no one to hold people accountable to bring those 
+25 people together, require that people do collaborate.  45 
+1 And in the absence of that, I believe that not only did that contribute to the issues 
+2 we had on January 6th, but that will contribute to the next major event that we have, 
+3 whatever that event may be, that someone has to be responsible for it. So seeing that 
+4 PM-ISE role kind of diminish and, in my viewpoint right now, disappear, we have lost, you 
+5 know, over the years, a large capability that we had. 
+6 Now, that doesn't mean that the Director of National Intelligence is not heavily 
+7 supporting our efforts. They have. So one of the things that we have been doing is 
+8 developing regional intelligence coordination plans --or, regional integration 
+9 coordination plans to, kind of, define throughout six regions of country --right now we 
+10 have four of those plans, a fifth is in the works, and a sixth will hopefully be done, if not 
+11 this year, next year --but to really describe how all these agencies should work together 
+12 on a regional basis, and then ultimately develop that into a national perspective. 
+13 The other component of that is that no one is collecting from a national vantage 
+14 point, doing a national threat assessment that incorporates all the data from the fusion 
+15 centers, the High Intensity Drug Trafficking Areas, our Regional Information Sharing 
+16 System partners. We need to have that capability. 
+17 And even at the local level, if we had all of those folks working together in the D.C. 
+18 area, we would've had a better picture of what the threat is and how to prevent that 
+19 threat anywhere in the country. 
+20 So I think that since January 6th we have made some good strides, but we're 
+21 missing some key components of how to make this effective. 
+22 Q And you sort of touched on it, but I'll ask: What were the major lessons 
+23 learned that you took away from January 6th? What did you see as the major failures, 
+24 and, also, what worked well? 
+25 A I think, from my perspective, you know, especially on the January 4th call,  46 
+1 that, you know --and we have done this ever since, is that, if we have a call, I reach out 
+2 directly to the FBI and DHS and ask them to at least have someone on the call to share 
+3 their perspective, if possible. And, you know, I think that making sure that someone in 
+4 their leadership takes a key role in that. 
+5 And as I tell them when I ask them, I don't want a talking head. If you don't have 
+6 anything to say, just say your introductions. I mean, not to be rude to anybody, but 
+7 that's what calls often have turned into, is someone will spend 10 minutes talking about 
+8 their organization and how great they are and not talk about the issues. So we try to 
+9 keep the calls to the point. We try to keep them, you know, where we need to. 
+10 And that call was put together fairly hastily. I mean, I did it on Sunday and put 
+11 that out there. But not getting the perspective of the Federal partners, I think, was 
+12 problematic for me and afterwards. So I think that they've got to come to the table with 
+13 what they have. 
+14 And they have to be able to give things at a tear-line level of what they know. 
+15 And they may say that there's a classified document, or whatever it may be, and this is 
+16 the location of where it's at, or some way of dissemination. But that's a problem, is 
+17 that, you know, if there is information in the FBI systems or in DHS systems that no one 
+18 sees, then how can we, as fusion centers, have our analysts and intelligence officers make 
+19 accurate judgments without the data? 
+20 And that was one the problems I saw afterwards, is that, you know, there was 
+21 data out there that agencies had that would've given us a lot of help in making our 
+22 judgments. Or even knowing, at times, where people were going to land in their State 
+23 to show up at the capitol. That became a major issue in some of our areas, where 
+24 people are rallying together before they moved to the U.S. Capitol. There were, you 
+25 know, thousands of people that would show up at a location, and law enforcement were  47 
+1 inundated, not knowing who these people were or what they were doing. 
+2 That could've been a great opportunity for law enforcement personnel at least to 
+3 get a better understanding of the folks that are headed to the Capitol. And even if they 
+4 had weapons or whatever it may be, to be able to have at least that precursor view of 
+5 what was going on. But, in many cases, local authorities, including the fusion centers, 
+6 had no clue that people are getting together at those specific points. 
+7 So I think that having that knowledge and information ahead of time and 
+8 everybody putting everything on the table at the same time could've at least given us a 
+9 better picture of the threat and better prepared people at local resources to deal with 
+10 large groups of people. 
+11 Q So how would you characterize it, given what you've just said? Would you 
+12 characterize the failure as an intelligence failure, in your mind? A failure to 
+13 operationalize the intelligence? Neither? Or as something else altogether? 
+14 A I mean, I see it mainly as a failure to operationalize the information and 
+15 intelligence. 
+16 That's --one of the other gaps that we had is we used to have a criminal 
+17 intelligence course for executives to actually get them to be better consumers of the 
+18 information. And not only better consumers, but better be able to ask the questions of 
+19 the folks that manage their criminal intelligence. 
+20 And I think that, oftentimes, there's a misunderstanding by the executives of the 
+21 role of what an intelligence or criminal intelligence section does within their organization. 
+22 You know, in those classes --I used to teach those classes, and we would often tell the 
+23 executive that your criminal intelligence section needs to report directly to you as the 
+24 executive. You need to be aware of what threats are in your community. You need to 
+25 understand what are the right questions to ask.  48 
+1 You also need to understand the restrictions that we have through 28 CFR Part 23 
+2 of, you know, the Federal regulations and the guidance that we have and the standards 
+3 that we have for collection and protection of the privacy, civil rights, and civil liberties. 
+4 We also need to have the ability, from the intelligence perspective --and I can't 
+5 tell you how many Federal products I have seen where you go through 20 pages and the 
+6 key points are at the end. We have to be able to deliver a product that actually briefs a 
+7 person and gives them those key points up front. You know, the bottom line up front. 
+8 And I think that --you know, in retrospective, I think that there was a lot of 
+9 indicators out there. There was a lot of information. I mean, true, there was no, you 
+10 know, smoking gun that said this was going to happen at this time. But there was 
+11 enough concern and issues out there that that should've been the --you know, that 
+12 should've been up front. 
+13 And, you know, within the threat assessment process, like I said, if everyone had 
+14 worked on the joint threat assessment process, those key indicators probably would've 
+15 been expanded greatly. 
+16 And, also, the ability to disseminate those threat assessments, I mean, that's also 
+17 a major concern of folks. Okay, if we send out a specific threat assessment with, you 
+18 know, key indicators and competing hypotheses that, you know --my belief is that 
+19 analysts should step out on a ledge. That's their role, is to be able to produce a product 
+20 that is forward-leaning. 
+21 And I oftentimes feel that agencies are so concerned that they're going to be so 
+22 forward-leaning that they're going to be ridiculed. And so people pare down products 
+23 to what is safe, what they feel won't get them in trouble. And then they're afraid that 
+24 that product will go out publicly and that they will be ridiculed for being forward-leaning 
+25 in their judgments or what they believe are indicators.  49 
+1 And that's one of my concerns oftentimes, that when we have joint special event 
+2 threat assessments, is it doesn't give the people the facts that they need to make 
+3 decisions. And I think that that's a change, you know, that we need to make as a 
+4 government, that we need to be able to give people the tools and resources to do that, 
+5 both from the executive. 
+6 So I think that the real issue for me has always been that it's not that there wasn't 
+7 enough indicators. I mean, in fact, everyone says that, hell, if they were following on 
+8 social media, they saw enough themselves to be concerned. I think that it's the inability 
+9 to operationalize the information and understand, you know, what should be done. 
+10 People are always afraid that if they put out too many resources that they are, you 
+11 know --that somehow that is going to stifle First Amendment activities or that it will 
+12 appear that they're heavy-handed. But in the absence of those resources, people get 
+13 hurt. 
+14 And so I think that balance and understanding and coordination has got to be 
+15 critical. But I think it really lies within the chief executive's role of how to manage that 
+16 information cycle and to bring on the right leadership within their organization to lead 
+17 intelligence. 
+18 And, at that time, I knew the person that had just started in the U.S. Capitol Police 
+19 and had a long history with NYPD, a very sharp person. But I don't know, kind of, what 
+20 the level of the executives was, and, also, not just the U.S. Capitol Police but the other law 
+21 enforcement agency executives within the region, who may or may not have seen any of 
+22 the information, depending on, you know, what their intel sections were producing. 
+23 Q And, for the record, that individual who had previously worked for NYPD 
+24 you're referring to is Jack Donohue, correct? 
+25 A That's correct.  50 
+1 Q My final question before I ask my colleagues to step in: What sort of 
+2 recommendations should the select committee make in your space --or others, if you 
+3 have any opinions --to help avoid this from happening in the future? 
+4 A First off --and this is a big ask --we need a joint program office. A joint 
+5 program office that is not within DOJ, not within DHS. A joint program office that 
+6 focuses on these information-sharing issues, on the criminal intelligence issues. 
+7 We have tons of groups, committees, advisory groups that --and I sit on all of 
+8 them. That's the problem. I sit on all these groups, disparate groups, that each one of 
+9 these organizations have that is responsible for coordination of information-sharing. 
+10 There really should be, like, one group in the country that has that role and responsibility 
+11 and coordinates that effort. You know, I've been a part of them all, and I've led many of 
+12 them, but not everyone's on the same page. 
+13 And without a joint program office to help lead this effort, we will continue to fail. 
+14 We will have monumental failures based on just this interpersonal relations that each 
+15 part of the country and each fusion center, each FBI office, each DHS office, whoever it 
+16 may be, just on a --you know, on a --just based on the interpersonal relationships that 
+17 each individual has. That will lead us to failure. We need some capability to codify the 
+18 roles and responsibility of, you know, that PM-ISE-type role and an organization to 
+19 support it that has personnel from each of those agencies. 
+20 The other thing is, we need accountability for how we manage this process. And, 
+21 unfortunately, there are a number of committees that have jurisdiction on each one of 
+22 these entities, and no one has wanted to hold everyone accountable, so --just for the 
+23 information-sharing and how that should work. 
+24 Also, major issues with access to information. We have, you know, agencies that 
+25 are, quite frankly, being a pain to get access to data for the people that need the  51 
+1 information. And some of these things involve whether the person's a non-sworn law 
+2 enforcement officer or not, whether they're an analyst, whether they work for a specific 
+3 type of agency. 
+4 If an organization which is, you know, funded by the Federal Government or 
+5 receives funds by the Federal Government can't get the data that they need from the 
+6 Federal Government, we've failed from the beginning, whether that be criminal justice 
+7 information, whether that be information that the Treasury has on suspicious activity 
+8 reporting that they have. You know, there are data sets here that agencies will not 
+9 provide them to certain people in fusion centers or to certain fusion centers, which, you 
+10 know, have a designated role to stop the threat. 
+11 So, without the authority to access the information, to require agencies to provide 
+12 the data that they need to to the organizations that have been created with the help of 
+13 Congress to combat these threats, we're going to be in the blind in pockets of the 
+14 country. 
+15 We also need accountability on how suspicious activity reporting tips and leads 
+16 are managed and triaged in our Nation. It is a hodgepodge. If you call about a threat 
+17 or a tip or lead on something, you have no idea where that tip or lead's going to go or 
+18 how it's going to be triaged or how it's going to be accounted for and how that tip or lead 
+19 will be closed out. Those are things that we have to have the capability to do. 
+20 The other one is technology. We are using now decades-old technology to share 
+21 information. I actually after January 6th got to the point of frustration where we are still 
+22 using in the situational awareness room, the HSIN, Homeland Security Information 
+23 Network room that DHS funds and pays for, but it's in Adobe Connect, which has limited 
+24 functionality. 
+25 So, post-January 6th, I started a Microsoft Teams group with all of the major law  52 
+1 enforcement associations in America and their members so that we could communicate 
+2 across all those partners in real-time. The HSIN platform of Adobe Connect can't send 
+3 alerts out to people. So, if something bad is happening, you don't have a way to tell 
+4 people that something is going on. So having it on a mobile platform is critical. So 
+5 that's what we did. 
+6 The other component that we did --and this was with the support of DHS --is we 
+7 have a Geospatial Information Systems area, GIS information-sharing area, within the 
+8 HSIN framework that we built that has dashboards. You know, I think I mentioned 
+9 earlier that we had an inability to get a map to show where things were happening during 
+10 January 6th. So this GIS mapping dashboard we have now allows us to look at all the 
+11 threats that people are reporting in near-real-time and see where they're at and see what 
+12 type of threat they are. 
+13 And, most recently, we had a number of school threats, over 200 in a day, that 
+14 were nationwide. Through that national network of fusion centers, we had that full 
+15 picture in hours of where every threat was reported in the country, what type of threat it 
+16 is. 
+17 That's the type of visual dashboard we need for domestic international terrorism 
+18 threats. We need to be able to see that. The fusion centers should not be the last one 
+19 to know that there's a domestic terrorism investigation going on in their area until the 
+20 indictment comes down. And, you know, that's a major flaw. 
+21 And, unfortunately, some of the things that came to light after our January 6th 
+22 conversations and information-sharing gaps, some of those were major investigations 
+23 that a Federal agency was doing in a State in a threat to an elected official, and the 
+24 elected official didn't know about the threat until the indictment was in the newspaper. 
+25 And those are the things that we need to make sure that we have full visibility on.  53 
+1 So we need the technology today, and not 10-year-old technology, to 
+2 communicate. So that infrastructure has to be put in place. 
+3 And then the other component of that is that our partners at DHS l&A have 
+4 struggled for years with, you know, what they're working within in their Title 50 
+5 authorities. I mean, there's always major concerns in Congress on the breadth of 
+6 authorities that DHS l&A has. But without giving them the same level of footing that the 
+7 FBI has at both having the capacity to have a Title 50 capability and a criminal justice or 
+8 law enforcement capability, they're not able to manage all of the information that should 
+9 be available to them to understand the threat. 
+10 And the other component of that is that there has to be a, not only requirement, 
+11 but also a methodology for tracking the engagement between the FBI and the 
+12 Department of Homeland Security. 
+13 And, finally, the other gap is within the Federal Emergency Management Agency 
+14 and the grants programs. We have struggled for years to have the capability to use the 
+15 funds to deal with the threats in real-time. But I have lost funds over the years because 
+16 I have had funds denied --even for acts of mass casualty attacks where I have had funds 
+17 denied because they said it wasn't submitted in a timely manner. I should've submitted 
+18 the request for the funds before the attack. I have no idea how do that, but those were 
+19 the things that I have been told. 
+20 So we've got to have more flexibility with the grants and the grant programs and 
+21 the prioritization of those grants on the detection of the threats, both from the physical 
+22 perspective and from the cyber perspective, you know, both those that are cyber-enabled 
+23 and those that are actually attacking systems. But fusion centers have to have a better 
+24 capacity to use the money that they need in the way that they need. 
+25 And I give a great example all the time of the way that the High Intensity Drug  54 
+1 Trafficking Area program works. As a person that's a director of a fusion center program 
+2 and a HIDTA program, I see the great disparities on how it is easier, much easier, to use 
+3 the funds to adapt to the threats within the HIDTA framework. 
+4 And then I get over to the Homeland Security grant program side and the Urban 
+5 Air Security Initiative program side and I pound my head on the wall every day. It's the 
+6 most frustrating, you know, lack of coordination and capability, because the grants were 
+7 not designed for the operational activities that fusion centers do. And that's 
+8 problematic. 
+9 Even the Regional Information Sharing System programs that are funded through 
+10 U.S. DOJ Bureau of Justice Assistance grants have much more better capability to adapt to 
+11 the needs of operations to stop the threat. 
+12 So, without those changes from Congress and direction from Congress to improve 
+13 the funding to deal with the threat --I can't tell you how frustrating it was for the fusion 
+14 center director to try to support the NTIC and be told that he couldn't support that 
+15 person because --he couldn't bring on the person because they couldn't approve the 
+16 
+17 overtime that potentially would be needed. 
+support they needed. And that's just wrong. And so he was unable to give them the 
+We need to be able to leverage all the 
+18 resources that Congress has helped provide, the resources and funding and guidance over 
+19 the years, to deal with the threats every day. 
+20 And I have had funding denied. When I talked about that real-time threat 
+21 program that we did with the social media companies for their reporting, that funding 
+22 was denied. You know, trying to save people's lives was not considered something that 
+23 they believed the grant should be used for. And that hurt. And as a fusion center that 
+24 is totally funded by Federal funds, that became extremely problematic for me. You 
+25 know, I had nowhere else to go. There was no other money.  55 
+1 So it's something that each fusion center struggles with in some way, in many 
+2 ways. And we've had conversations with the FEMA Grant Program Directorate, but it is 
+3 like pulling teeth. And oftentimes they will fall back on, "Well, this is the way it is, and 
+4 this is the way Congress likes it." And so, if that's the way it is and that's the way 
+5 Congress likes it, I would ask that, if they could do something about that, that that's a 
+6 major need --the funding, the technology, the accountability for coordination 
+7 enhancement, and the expanded capability of DHS l&A to be on an equal footing with the 
+8 FBI in understanding the threats, and for the FBI to be able to share that information with 
+9 fusion centers. 
+10 And we have --you know, I said, why can't we, you know, get at least the capacity 
+11 for every fusion center to have access to FBI systems? And we've struggled with that. 
+12 And, as I said, that's the repository for at least all of the domestic terrorism threat 
+13 information and, you know, international threat information that exists, that we know 
+14 about, that's being investigated, and we don't have full visibility on that. 
+15 So those are some of the major points I'd like to ask. 
+16 
+17 Q Thank you. 
+Let me ask my blue team colleagues, 
+18 anyone who wants to ask anything? 
+Hi. Thanks, -if there's 
+19 
+20 Thanks, Mike, for being available. And this has been so thoughtful, and we 
+21 appreciate it. 
+22 B 
+23 Q I just --I might have missed it. I got kicked off because my internet went 
+24 down. But I appreciate all the points you made about --recommendations going 
+25 forward about the need for a joint program office.  56 
+1 But without that, whose responsibility is it to coordinate all of the threats? And I 
+2 think you might have mentioned it and I missed it, but I just want to be clear in my head. 
+3 A The answer is no one. 
+4 So that's the problem, is that the investigation of if it's a domestic --potential 
+5 domestic terrorism or international terrorism threat, the role for investigation is the FBI. 
+6 You know, we did do --and this was through the coordination with the Criminal 
+7 Intelligence Coordinating Council years ago --a joint message on the Nationwide 
+8 Suspicious Activity Reporting Initiative of how information should flow. And the 
+9 message to law enforcement --well, the message to the public is, please contact your 
+10 local law enforcement. Your local law enforcement, please contact your fusion center 
+11 and/or JTTF, which is not specific --I mean, the fusion centers are that triage point. 
+12 And that's one of the things that, you know, when I first built up the fusion center 
+13 in San Francisco and started doing the coordination, all the tips and leads and threats go 
+14 through the fusion center. That way, we can triage it so that JTTF task force personnel 
+15 aren't running down leads and information that are innocuous but they can't figure out 
+16 heads or tails and wasting time; that they have a --the goal is, have a full package of what 
+17 the tip/lead/threat may be, and, that way, their role is to investigate. And the role of 
+18 fusion centers is to triage and do the analysis. 
+19 That's not the way it is around the country. So, depending on where you're at, it 
+20 may go to the JTTF, it may go to the fusion center. Hell, it may not go to either 
+21 sometimes. It's a mess. So there's no one entity in the country that's responsible for 
+22 the triage and management of the threat information. 
+23 And --oh, go ahead. 
+24 Q So let me just --let me just understand it. From the fusion center threat 
+25 information that's pushed up to DHS l&A, is it your expectation that, if there is to be a  1 threat assessment issued, it would be done through DHS l&A? 
+2 A No. No. And, actually, it's really, I mean --and are you talking about 
+3 more along the lines of, like, a special event threat-assessment-type activity? 
+4 
+5 
+6 Q 
+A 
+Q Sure. Yeah, like a typical --a joint intelligence bulletin. I'm just trying -­
+Yeah. 
+--to kind of understand, as- said, what should've happened and what 
+7 needs to be, kind of, institutionalized. Because, as we talked before, a lot of this is so 
+8 personality-based, if you have a good relationship with the SAC of whatever FBI office, 
+9 whatever city you're in. And how do you make it just much more smooth in terms of 
+10 information flow? Which you touched upon, but I just want to get an idea of what the 
+11 fusion centers --where that information flows to. 57 
+12 A No, absolutely. And so that tip or lead or threat that may come through to 
+13 a fusion center that is doing the triage, that information normally goes directly to the 
+14 Joint Terrorism Task Force or through that eGuardian process. So --
+15 
+16 Q 
+A Right. 
+So they're the ones that get that data. That information does not go 
+17 directly to DHS l&A or any DHS component. So they're unfortunately not in the loop on 
+18 that, necessarily. And so --
+19 Q Well, it does go, but to the eGuardian system that heads to the Bureau, 
+20 correct? 
+21 A Yes, that's correct. But that's only for those threats that meet the 
+22 thresholds of the eGuardian system. That means there's a whole lot of other threats 
+23 that are not there across the country. 
+24 So that means those threats are being held at the local level without national 
+25 visibility. And that's one of the problems. Although eGuardian has expanded to have a  58 
+1 cyber component, a counterintelligence component, and a terrorism component within 
+2 the eGuardian platform, the majority of those threats are still being held at the local level. 
+3 That was kind of --unfortunately, when we moved from the shared space 
+4 environment where there were servers in a number of fusion centers across the country, 
+5 we lost that interconnectivity nationwide. 
+6 Q 
+7 information. 
+8 
+9 A 
+Q It just highlights so many different gaps there are to not synthesize the 
+Yes. 
+So what's your reaction to, you know, the number of press reportings that 
+10 there were so many warnings in plain sight, everybody knew this was coming? But it 
+11 seems that, from what you're saying and, you know, talking to many people, that the 
+12 information gets siloed. And then it's these certain guardrails and threshold 
+13 requirements within agencies that prevent forward-leaning threat assessments, as you 
+14 said. 
+15 Is that fair? 
+16 A That's fair. 
+17 And I was going to add that, you know, one of the issues that has come up --we, 
+18 actually, on the Criminal Intelligence Coordinating Council have been working on a 
+19 nationwide promising practices on tips, leads, and threat-to-life reporting and how to 
+20 process them. 
+21 During the discussions, we found out from the National Threat Operations Center, 
+22 you know, once they became the NTOC --it used to be the public access line for the FBI, 
+23 but, you know, they started getting in the process of, you know, receiving calls from 
+24 around the country, from the FBl's perspective, thousands of calls a day from throughout 
+25 the country. And those tips and leads are, you know, currently being held in a siloed  59 
+1 database that none of us have access to. 
+2 So we're in conversation with the FBI about: We need those tips and leads, we 
+3 need that information. Because, that way, we can --you know, if we've got specific data 
+4 that we can match in there to a local jurisdiction, that local jurisdiction needs that 
+5 information. 
+6 
+7 Q 
+A Uh-huh. 
+And so that's one of the many issues we've got, as you said. We've got all 
+8 these silos of excellence around the country that aren't cross-pollinating the information 
+9 and allowing people to do cross-analysis. 
+10 And that is one of the --the other major problem is, we really don't have a 
+11 nationwide intelligence management system. You know, there has been work that's 
+12 been done through our RISS partners, the Regional Information Sharing Systems, to 
+13 interconnect RISS intel to other intel databases. And that has been supported through 
+14 the Office of the Director of National Intelligence to make that happen, but it's not 
+15 happening across the country. 
+16 So there's, like, these great projects that just don't have enough money that 
+17 should've been implemented a long time ago to interconnect individual criminal 
+18 intelligence databases around the country so they could share information that individual 
+19 units are seeing. And that's not where we're at. 
+20 And then we currently have --I have fusion centers that don't have a system. 
+21 mean, they may have, you know, a database that they're using, but they don't have 
+22 analytical tools to the level that they need, because they can't afford it, because they're 
+23 so small in size or their State doesn't have enough, you know, Homeland Security grant 
+24 funding or there's not enough general funds. They're just operating the best that they 
+25 can. And so having the capacity to share that information effectively is critical.  60 
+1 The other thing is that cross-jurisdictional sharing --and that's been the problem 
+2 with tips and leads, is that some of these things that we receive don't meet Federal 
+3 thresholds. They may meet our local prerogative, but we don't have the ability to share 
+4 that. 
+5 The other component is dealing with juvenile information, because some of these 
+6 threats that we receive are coming from kids. And how do we manage that data? 
+7 So we've got a number of silos of data and information that, in my mind, could 
+8 prevent the next attack, but we're not sharing it. 
+9 
+10 Q Uh-huh. 
+Before I turn it over to., I just have one question about DHS l&A. Couldn't 
+11 they require the fusion centers to --or, couldn't DHS l&A be required to engage with the 
+12 fusion centers with their information? Because it sounded like that still is an ad hoc 
+13 situation and not institutionalized. 
+14 A Now, when you say required to share information, is that Federal or DHS l&A 
+15 reporting? Or --
+16 Q Just in terms of receiving the information, it didn't --and correct me if I'm 
+17 wrong --it doesn't sound like they have or are receiving all of the --or they are receiving 
+18 all the information the national fusion centers pushed out to them, or is it just based 
+19 upon whoever is leading a certain fusion center? I guess that's the question.  61 
+1 
+2 [12:58 p.m.] 
+3 Mr. Sena. Oftentimes, unfortunately, the connection is based on fusion --l&A 
+4 personnel being deployed to fusion centers. I --just yesterday, I had a DHS l&A, you 
+5 know, intel officer, you know, run up to my office and go: Hey, I've got this threat to 
+6 one of the local police departments, and it came over, you know, from a --a, you know, 
+7 foreign source, and this is X, V, Z. 
+8 If I didn't have that guy in my office, I would have not known that that information 
+9 existed. So that's the issue right now, is just based on people being in the office, having 
+10 access to systems and all the information. And, without that, then you're in the blind. 
+11 So I think that's the problem that we have, is that, without having those people, 
+12 you know, in there every day, things get lost. And, you know, kind of the reason that 
+13 these things need to be institutionalized so, that way, there is a requirement that you 
+14 have, you know, this many personnel, this type --and I would say even this type of 
+15 personnel, and I'll even say this type of role, because I --in my own experience, I have 
+16 seen fusion centers and their relationship with one of the organizations change 
+17 tremendously based on the personality of the person that shows up to work there. 
+18 
+19 
+20 Q 
+A Uh-huh. 
+I see people that have said: I am in this fusion center. I'm a part of it. 
+I even had one FBI person that sent a note to all of his colleagues in the FBI saying: 
+21 Hey, I'm working this center. Send my emails to this fusion center address. I won't 
+22 answer my FBI address. 
+23 Now, that didn't make them too happy, but it showed their commitment and their 
+24 engagement, while I've had others that show up and go: I'm just a liaison here. I'm 
+25 going to hangout, and, you know, I'm not here to work too hard. I mean, they didn't  62 
+1 actually say that, but that was kind of the attitude that was put out there. 
+2 And, without that full engagement, without that, you know, top --you know, from 
+3 the top saying that "we are --this is our fusion center, we are a part of it, and we are 
+4 supporting it with everything that we can," we're going to continue to see gaps in 
+5 engagement and capability if we don't have that commitment from leadership. 
+6 And that, I think, is probably our biggest issue as far as the exchange of 
+7 information because the technology to exchange it doesn't exist right now. I mean, it 
+8 exists, but it just has not been deployed to the level it needs to be deployed to do true 
+9 integration. 
+10 There is another problem with DHS l&A as far as, you know, their designation as 
+11 the --you know, that access to criminal justice information. So a lot of my realm is in 
+12 the criminal justice information sharing and intelligence. 
+13 So, without them, you know --you know, having that authority to access 
+14 information, we're always struggling --and I have had this happen time and time again 
+15 where folks are saying: Well, I can't really give this to, you know, DHS l&A because it's 
+16 criminal --it's got criminal justice information and, you know --and I have agencies that 
+17 will refuse to share the information with anyone that isn't a designated law enforcement 
+18 agency. 
+19 Q That --that's super helpful. 
+20 I don't know if you want to take a minute beforellll starts, if 
+21 you want to take a few minutes' break, or-s going to jump in. 
+22 -are you --there he is. 
+23 Hi. Actually, I had my --do you need to take a break? It's 
+24 a --please, if you need to take a break. 
+25 Mr. Sena. Oh, totally up to you guys. You know, I can run through, but, if folks  63 
+1 need to take a break --I'm sure folks have taken a break if they don't have their camera 
+2 on, but --
+3 Okay. If you're okay with running through and, / if 
+4 you're okay with continuing, I'll start asking some questions, and I'll try to be respectful of 
+5 your time, Mike, and of everybody else's time, leaving some time for my team --my 
+6 other --my teammates on the select committee to kind of ask final questions and such. 
+7 Both and-have done a really good job asking a bunch of questions 
+8 that have addressed some of the stuff I was going to ask you, Mike, so I'm sorry if there is 
+9 some repetition here, and you can just, you know, point that out, and we can move on. 
+10 But, with that in mind, I'd like to ask a couple of specific questions that I think 
+11 build off of stuff that we have been talking about in the last 25, 30 minutes, all right? 
+12 The first is awfully specific, and it relates to, for lack of a better term, joint special 
+13 event threat assessments, right? So that is --you know, what I'm trying to describe 
+14 there is interagency threat assessments that address particular events, special events, 
+15 you know, public activities of concern, right? Not intelligence assessments looking at 
+16 sort of, you know, threats like, you know, particularly terrorist organization, but threat 
+17 assessments or special event assessments that look at the security picture surrounding 
+18 events, right? 
+19 So is there a methodology for these in the Federal Government --a broad 
+20 methodology for --a broad methodology for how to approach that, how to do that? 
+21 A Well, there is --I wouldn't say a broad methodology, but there are practices 
+22 that we have used, doing joint threat assessments, and FBI and DHS have been doing 
+23 them for quite a while. I can tell you, it's gone up and down. I mean, I can tell you 
+24 that, you know, there have been a number of issues between the agencies on their joint 
+25 threat assessments and especially if they're doing a joint bulletin, a JIB, and some cases  64 
+1 where one agency would say: Hey, I don't feel comfortable with sharing this JIB with 
+2 you, but give me your logo because I feel that you'll send it out before I do, or, you know, 
+3 little issues like that that have come up before. 
+4 But I do think that, you know, that there are protocols between those two 
+5 agencies. I'd say that the less certain protocol and the one that needs to actually be 
+6 included more often is that joint, you know, threat assessment, or JIB, capability, 
+7 especially with the local impact of the fusion center, whatever fusion center that may be, 
+8 to make sure that you're getting the State and local perspectives in those threat 
+9 assessments. 
+10 So, oftentimes, you know, I will get reporting: All right, we're going to push out a 
+11 joint intelligence bulletin, or we're doing this joint special event threat assessment. 
+12 And my question is always: So who is the local or State and local perspective 
+13 that you've included in that? 
+14 And, more often than not, there isn't any. 
+15 And I think that's one of the key missing components of that, is that that should 
+16 always be included. You've got to get the State and local perspective for those threat 
+17 assessments. 
+18 The other one is the coordination between FBI, DHS analysts and fusion center 
+19 analysts working together on those assessments. You know, not to, you know, the last 
+20 minute getting together and going: Okay. Read this. You know, years ago --a couple 
+21 years ago, DHS l&A started, you know --we had had this discussion about, you know, 
+22 having these, you know, kind of mission centers and later called mission cells --it went 
+23 back and forth --but on specific topic areas, whether it be cyber, terrorism, you know, 
+24 criminal activity of --general criminal activity, you know, transnational organized crime 
+25 groups.  65 
+1 And, you know, during the development of that, you know, I asked DHS l&A, I said: 
+2 Hey, who are the local folks that you're going to have in these mission centers? 
+3 And they go: Well, we're going to build them out, and then we'll bring in the 
+4 locals. 
+5 And my perspective is always that you should always bring in all the partners to 
+6 start off with and not try to build something or put something together and then, as an 
+7 afterthought, say: All right, yeah, let's get the guy down the street to come in, 
+8 and --now that we have everything set up. They need to be part of the structure and 
+9 building. 
+10 
+11 
+12 
+13 
+14 Q 
+A 
+Q 
+A 
+Q Thanks. Thanks, Mike. 
+You're welcome. 
+I think I might have garbled the question a little bit, and I apologize for that. 
+That's all right. 
+So I'm not so much interested in the JIBs, because those can be used for a 
+15 variety of purposes, you know, tracking, you know, a particular threat, particular terrorist 
+16 organization, a particular emerging issue, right? 
+17 
+18 A 
+Q Yeah. 
+What I'm really kind of focused on is, is there an approach, a methodology, 
+19 for understanding the operational environment surrounding a special event, right? So 
+20 developing a product for a special event, aside from the ones that are, you know, 
+21 established for the NSSE and, you know, if you could talk about that a little bit. 
+22 A No, no. Absolutely. I mean, for those larger events, there is a 
+23 standardized, you know, format that has been used over and over again for joint special 
+24 event threat assessment capabilities. But, oftentimes, that's sometimes missing. If it's 
+25 not a major national event, you know, people may or may not even have a conversation  66 
+1 about doing a joint special event threat assessment, whether it's worth the time and 
+2 effort and trying to put together a product, whether you've got the resources and 
+3 bandwidth to do a specific product on a threat. 
+4 And, of course, the unfortunate thing is that we've seen many joint special event 
+5 threat assessments that are, you know, 12 pages long, and the bottom line is, oh, we 
+6 don't see any threat. 
+7 And so, you know, there is kind of a hesitancy on some levels that, unless it's a 
+8 major event, should one even be done? And --but, when you have a lack of any special 
+9 event threat assessment or coordination, even if it's a one-pager saying there is no known 
+10 threats, but keep a lookout for this, I think that's worthwhile. I do. 
+11 But, you know, but oftentimes people are afraid of looking at these products that 
+12 are done for a national security event --a national special security event that people are 
+13 hesitant to do joint threat assessments and bring the people together. 
+14 But I do believe that, if you bring the people together, and even if they decide 
+15 we're not going to do a full-blown, you know, joint SETA, joint special event threat 
+16 assessment, that we're going to send out a document, and we actually --I started doing 
+17 this myself. We started --and, actually, I shouldn't say we --that we started doing them 
+18 for myself. 
+19 I had a DHS l&A intelligence officer who was amazing, And 
+20 -you know, came forward, and he said: Hey, we're getting special event threat 
+21 assessments for everything under the sun. And he goes: We can't do all these threat 
+22 assessments. And he goes, but what we can do is we can look up if we have any known 
+23 suspicious activity reporting associated with an event or events like that. We can look at 
+24 past events that have happened based on this type of event that's occurring, and we can 
+25 give them our standing concerns of these are the things that you should take into  67 
+1 consideration and the information that you should collect and send us if you see it. 
+2 So --and of course, in-fashion, he called it SCAMPE. I --you know, it's --it 
+3 sounds like a food item, but it's Standing Concerns at Major Public Events. And that 
+4 document is something that, when anybody asks for an assessment of their event, we 
+5 have FBI personnel in the office, our DHS personnel, and all of our State and local 
+6 personnel there who are working on these SCAMPE assessments and can get that out to 
+7 people when we don't want to do a major, you know, joint SETA. 
+8 So there is at least something that somebody gets to say: This is what you 
+9 should be looking for; this is what's happened in the past; and this is what you should be 
+10 prepared for. And I think that's better than giving people nothing. 
+11 Q So is the SCAM PE product a formal product, or is it something that is --it is a 
+12 formal product? 
+13 A It's a formal product. So it has specific, you know, categories of 
+14 information that the analysts need to put together, and collect and review, and then 
+15 produce. And so, you know-was phenomenal before he left DHS l&A. He's still 
+16 phenomenal. He's a leader for security in our Jewish community in our area. 
+17 But he is --he and who is --actually, , who is now 
+18 with --working on the regulatory side --on the nuclear regulatory side, was an FBI 
+19 supervising intelligence analyst, and they were a dynamic duo that created many of the 
+20 products that are still standing products in my center. But it was a DHS lead and FBI 
+21 lead working with a State and local lead that developed a great foundation that, you 
+22 know --that doesn't exist in a lot of other places. 
+23 So I do think that doing something at least at the minimal level of that gets people 
+24 attuned to the potential threats and potential activities that they should be doing prior to 
+25 an event.  68 
+1 Q And, just a simple followup on that, because I'm not sure I'm clear, the 
+2 SCAM PE product is just in your fusion center, or it's DHSwide? 
+3 A It is not DHSwide. Other centers have adopted the SCAM PE model and 
+4 some of the other things that we've developed at the Northern California Regional 
+5 Intelligence Center, but it is not. And, you know, I wish it were. I wish that --you 
+6 know, that that was, you know, something that was more greatly adopted. But there 
+7 are. you know, a number of product lines that, you know, could be used nationwide 
+8 that should be, you know, more standardized. 
+9 Obviously, each community has a different need. Each fusion center, each field 
+10 division has a different need for what they're producing. But, you know, there should 
+11 be at least some level of capability that provides those types of products. 
+12 Q Thank you. 
+13 So, given your background, you are a longtime consumer of Federal intelligence, 
+14 of State and local intelligence, products --formal intelligence products, finished products, 
+15 right, as well as law reporting. 
+16 
+17 A 
+Q Yes. 
+How would you characterize FBI and DHS domestic terrorism intelligence 
+18 compared to other sorts of intelligence, its value, its worth, its --
+19 A You know, I mean, I think that the products have actually gotten better over 
+20 the years. I think that there have --obviously, I think there has been some hesitancy a 
+21 number of years ago to do domestic-type products, at least within l&A. You know, there 
+22 is --mainly because of the U.S. persons issues from their perspective. 
+23 But I do think that, you know, oftentimes the products are so vague that they 
+24 really don't give enough information to the user to take action, and I think that's probably 
+25 our biggest issue, is that --you know, they make it in such a way --and because --you  69 
+1 know, and I have told this to the FBI and DHS repeatedly, is that the media is going to get 
+2 the information we've got no matter what. But, if we don't give it to the people that can 
+3 take action on it, we're failing. 
+4 And, continually, we get products that are --don't provide the overview that a 
+5 local chief of police needs, a local sheriff needs to direct resources within their 
+6 organization agency. 
+7 And I think that's problematic, is that --you know, that --you know, and the other 
+8 part is, as I was mentioning earlier, is that, you know, the bottom line is not always 
+9 upfront, and as chief executive, if he reads the first two paragraphs in something, I'd be 
+10 amazed most of the time just because of time constraints and how busy they are. 
+11 So, if you don't catch their attention immediately, I mean, even over the last few 
+12 years, I have had chiefs who have called me and told me: Why is blank agency sending 
+13 this out? I do not have the time to read, you know, 4 pages to get to their point, and all 
+14 the caveats. 
+15 And I think that's the problem. And we have told actually our intel summit that 
+16 we had with our --many of our major law enforcement association members and the FBI 
+17 this last year, that was one of the first things that came up. And I think it broke the 
+18 hearts of the analysts that were hearing this, but they said: Hey, we don't have time to 
+19 read, you know, your 10-page analytical product that, you know, looks like your master's 
+20 thesis. Why don't you tell us what the hell we need to do, and that's the bottom line. 
+21 And I think that that is something that at least our Federal partners need to adapt 
+22 their products, because they're not writing it for the intelligence community. They're 
+23 writing it for people on the ground who are going to be able to take action. 
+24 Q To me, it sounds like --and please correct me if I'm wrong --that you are 
+25 suggesting that they're not --these products are not especially anticipatory, and they  1 don't provide valuable information that can be operationalized or useful in a clear 
+2 fashion. 
+3 
+4 A 
+Q I'd say that's correct. 
+Okay. On the issue of operationalizing intelligence, you've talked a lot 
+5 about the ISE and its evolution, the information-sharing environment and the program 
+6 manager for that environment. I believe that that environment was created to handle 70 
+7 terrorism --counterterrorism information, essentially as an intake for that information to 
+8 develop very specific FBI investigations as the lead investigative agency, right? So it's 
+9 like this intake system to produce FBI cases. 
+10 If that's the only way to effectively operationalize intelligence, what are we 
+11 missing? 
+12 A Well --and I --and going back to that part of the information-sharing 
+13 environment --and, truly, it was. It was that counterterrorism, international terrorism 
+14 focus of the PM-ISE, and the problem that I find in --especially in operationalizing 
+15 intelligence is that the threats that we see, even --whether it be international or 
+16 domestic terrorism, the indicators and the activities oftentimes aren't popping up as, you 
+17 know, bright red flags for, oh, this is a terrorist group, or this is a terrorist organization. 
+18 I mean, I can't tell you the number of times I've done investigations and led 
+19 investigations and managed investigations where it's been somebody involved in some 
+20 type of other innocuous criminal activity where that has led us to a terrorist cell or a 
+21 terrorist group or terrorist fundraising, where, you know, I think that, because the focus 
+22 has been so narrow on especially IT for such a long period of time, that it led us to be 
+23 extremely blind on some of our DT issues, and not only our DT issues, but other, you 
+24 know, criminal activity and issues that, you know, resources should be allowed to be, you 
+25 know, focused on, because, if all we're doing, like the Maytag repairman is waiting for the  71 
+1 guy to show up with a backpack bomb, we're going to miss the guy with the big Ryder 
+2 truck that's driving right into the building. 
+3 And we need to have that ability to, you know, be flexible nationwide in what 
+4 we're looking for, truly focused on that criminal intelligence perspective and the 
+5 functional standards within the information-sharing environment versus suspicious 
+6 activity reporting that we are looking at the threat perspective holistically, not waiting for 
+7 the backpack bomber. 
+8 We've got to be able to identify those threats in advance. And the only way to 
+9 do that is to develop a tripwire collection network across the country of liaison officers. 
+10 And we have some areas of the country that have fantastic, phenomenal liaison officer 
+11 programs. And it's not just police officers. It's all parts of the community that can 
+12 know and learn what these threats are. 
+13 The other thing is we've got to focus our resources and efforts that the collection 
+14 methodology needs to be consistent across the country. There is only one State in the 
+15 country that tells their fusion center they can't collect SARs. They collect tips and leads, 
+16 but they can't collect SAR reporting. That's Montana. As far as I know, everyone else 
+17 can collect the information and triage it. 
+18 But, you know, there is a lot of misdirection on where this information should go. 
+19 I mean, even with the physical SARs, it's a --in our unified message, contact FBI or JTTF, 
+20 and somehow they'll get the information together. Well, that's a little confusing, and 
+21 especially depending on which gets it. There needs to be more consistency on --and it 
+22 may be region to region, but there needs to be one agency that collects all the 
+23 information and triages the information. 
+24 The other component of that is, on the cyber threat SAR, oh, it's even worse. 
+25 They tell you five different places to go and that somehow they're going to share  72 
+1 information with each other. 
+2 So we've got to have more of a unified capability in both the planning piece for 
+3 what we're going to collect, the collection methodologies and the way we train our 
+4 partners across the country to identify threats and then push that. 
+5 And that's both for our public employees, our government employees, as well as 
+6 our partners like in the social media companies. You know, there is no training class 
+7 that's provided to social media companies on how to triage threats and how to get those 
+8 threats to the government effectively. 
+9 So, without that --and they're --you know, unfortunately, that is a large part of 
+10 our world right now, is social media. That's our insight into many things these days. 
+11 And, without that capability, without that training, and without, you know, them 
+12 understanding the process, which is confusing to even the government folks, that's how 
+13 the things get missed. 
+14 Q Just as a note, it seems like you're describing two continuums or two sets of 
+15 relationships, I guess. But I think your concerns seemed to focus, one, on figuring out 
+16 how to make things less personalized in terms of relationships and far more institutional. 
+17 So that's one dynamic. 
+18 And then there is the kind of federalism dynamic. How do you take a 
+19 decentralized system and include, at very specific points, centralized elements that help 
+20 coordinate and help with collaboration? 
+21 And, toward that end, you've laid out the --you've thrown out the idea of the 
+22 HIDTAs. You've worked in a HIDTA. You run a HIDTA. I'm sorry. And HIDTAs, I 
+23 believe, are funded by the Office of National Drug Control Policy? 
+24 
+25 A 
+Q That's correct. 
+Is there --were you suggesting earlier that, for information sharing broadly  73 
+1 or for DT or for some notion of threat here, aside from drugs, that there should be an 
+2 equivalent of ONDCP in managing grants, managing information, managing budgets, 
+3 engaging in some sort of executive review of what goes on in the program writ large? 
+4 A Absolutely. I mean, I have worked in a HIDTA program since 1997, and that 
+5 was the first time that I became part of a HIDTA task force. And I have seen how that 
+6 program has, you know, developed and been inclusive. 
+7 It's had --you know, through the Office of National Drug Control Policy, the 
+8 Director of ONDCP has a Nation --a National HIDTA Director, person whose role it is to 
+9 coordinate with all of the HIDTA directors. 
+10 And, you know, we also have a performance management program, and that's 
+11 probably one of the biggest pieces of what we do, is that we can --we have developed 
+12 metrics of success in how we operate and coordinate. 
+13 We also have a mandate within the HIDTA program that it must be Federal, State, 
+14 local, and Tribal, and territorial partners co-located, commingled, and working together. 
+15 That model has, you know, led to the largest full-time task force program in our country, 
+16 you know, almost 20,000 task force officers that are full time working on this effort and 
+17 doing amazing work every day. 
+18 Roles and responsibilities are clearly defined with a program policy and budget 
+19 guidance, so that way we know what we can do, what we can't do, what we can spend 
+20 money on, what we can't spend money on. And they leave a lot of discretion to the 
+21 HIDTA directors in the coordination and evolution of this. 
+22 The other part of it is that every HIDTA has a --has to have an executive board. 
+23 We can't spend a dime without an executive board that is balanced. Half of the 
+24 executive board has to be Federal executives. Half of the board has to be State, local, 
+25 Tribal, territorial executives. So, automatically, we get the buy-in from an executive  74 
+1 board that is made up from the region that you operate in. 
+2 We also have the ability to --if we have an issue or there is a grant question or a 
+3 funding question of, can we use money on this or that, we have people that we can 
+4 directly reach out to and solve the problem that day. 
+5 I have been unable to solve most of my problems in grants on the homeland 
+6 security side in a day, let alone a week, a year --years, things have been unsolved. And 
+7 having an office like that that helps facilitate, coordinate, I can't tell you how well it has 
+8 worked out compared to the disarray that I currently work in with, you know, the 
+9 hodgepodge of how things may or may not work. 
+10 There is standardization. I mean, each HIDTA has its ability to be flexible to its 
+11 environment to support the issues of the drug threats in their area. Now, true fusion 
+12 centers have a much wider scope of threats and things that they're coordinating and 
+13 working on, but it is, from location to location, so very different on how they operate, 
+14 whether they have the Governor's support, or whether they just work for the State 
+15 police, or the local sheriff, or the chief of police, you know, how their funding model is, 
+16 and how they work and operate. 
+17 And even the funding itself, you know, we have no clarity. I mean, it was a 
+18 struggle. And Congress asked many times, well, how much money is going to fusion 
+19 centers? And, hell, FEMA couldn't figure it out. And those are the things --and the 
+20 problems that we have is that, you know, we really don't know --I mean, we have a 
+21 number that is provided that they do in their reports that says this is the amount that 
+22 goes to fusion centers, but it is so off the charts wild in where and how it goes that, 
+23 without some type of organization that brings people together --and it's worked out well. 
+24 I know that it's been up and down the White House, ONDCP, and there have been some 
+25 folks that wanted to move, you know, the HIDTA program over to another Federal  1 agency. But I'll tell you, we have told Congress repeatedly that, if they move the 
+2 program out of the White House and into a specific Federal agency, we immediately 
+3 alienate the other agencies --
+4 
+5 
+6 
+7 
+8 Q 
+A 
+Q 
+A 
+Q And --
+--and lose participation. 
+So sorry. 
+No problem. 
+That's an interesting point, because it, to me --as an outside observer, it 75 
+9 seems that FBI owns the domestic terrorism, the counterterrorism landscape, and is that 
+10 one of the challenges that you face, is that the --that FBI and DOJ claim ownership in this 
+11 space and play an oversized role? 
+12 A I wouldn't say necessarily that it's that they've taken an oversized role. 
+13 mean, it's a really interesting dynamic between DHS and the FBI. Although, you know, 
+14 FBI has that primary, you know, programmatic responsibility for the investigation, the odd 
+15 thing is that, you know, the DHS still has the responsibility for the Nationwide Suspicious 
+16 Activity Reporting Initiative part and the policy training, the outreach, the coordination 
+17 effort. 
+18 So it's a really weird dynamic. You know, FBI has the technology; the data is in 
+19 there, and DHS is oftentimes pulling teeth. 
+20 But it is problematic, especially depending on which field office someone is in. 
+21 Either, you know, you've got the greatest symbiotic relationship between the fusion 
+22 center and the FBI possible, or you've got it where they're aliens from other universes and 
+23 dimensions where they don't even really know each other. 
+24 So it's really hard to say, all right --and there has been discussions and even 
+25 when --you know, even discussions over the last few years about, well, if FBI, you know,  76 
+1 took over the leadership on the fusion center program, the coordination, of what would 
+2 that mean? 
+3 And I have to be honest. Not a lot of people in our world thought that would be 
+4 a great idea, mainly because a number of things is that, you know, if the FBI took over the 
+5 programs, we'd have the same blind spots that the FBI has of, you know, working within 
+6 their environment that would really decrease our capacity of what we do as independent 
+7 organizations. 
+8 The other component of that was that, you know, depending on the leadership 
+9 within the organization of --within the FBI, what priority and resources they would 
+10 provide to a fusion center, and then the whole point of we have 3,000 people that are 
+11 working in fusion centers today. The FBI can't build enough space to fit 3,000 more 
+12 people anywhere. So that --there is a whole lot of logistics that have stymied that type 
+13 of conversation with the FBI. 
+14 Q So --thank you. 
+15 A far narrower question, and it builds off of some of the questioning, I 
+16 think --some of the questions that-asked around Dr. Harvin and the teleconference 
+17 that you had. This is a very basic question. How unusual was that teleconference? 
+18 Was it something that happens every year, like a similar kind of thing happens every year, 
+19 twice a year, 10 to --how unusual is it? 
+20 A At the time, it was fairly unusual. I mean, we --and, you know, I was --you 
+21 know, after we had that conversation, I actually was, you know --I felt a little bad, 
+22 because I felt it was a little late in the game to have the call, but I felt a little better than I 
+23 do normally because I said: At least the threat isn't upon us and we're not having the 
+24 emergency call to stay that we're inundated with whatever the mass-casualty attack is of 
+25 the day.  77 
+1 So I, you know --and especially getting that many people on the call --I mean, we 
+2 oftentimes will get 140, 150 people from the network that will hop on a call for a major 
+3 national call. And, since then, we've had other calls when people have asked --when 
+4 they said: Hey, we think we've got something that is a major public safety concern. 
+5 And, since we've had that call, we are actually having a lot more people join these types 
+6 of calls now. 
+7 But it was fairly unusual to have a pre-event call at that level, of that many people 
+8 joining, to prepare for, you know, just collection of information. 
+9 Q Can you speak to --a little bit about the DNI Dom program, its shortcomings, 
+10 potential strengths, things that you think you'd like to change, maybe describe the 
+11 program a little bit, and then launch into your critiques of it. 
+12 A So the --the Domestic DNI Partners Program is really designed around 12 FBI 
+13 field divisions where the FBI special agent in charge or assistant director in charge is a 
+14 representative for the Director of National Intelligence in the area and with the goal being 
+15 to bring together the intelligence community components in that region to discuss, 
+16 address threats, communicate the major issues, and, in some cases, develop products 
+17 based on those identified threats. 
+18 And --but, from the downside of it --I'll start off with the good side. At least it 
+19 brings together the components from the intelligence community that would not 
+20 otherwise get together unless there was some type of threat issue. So it at least gets 
+21 people a muscle memory to come together and know who their partners are, which 
+22 oftentimes may not happen. I mean, depending on if --you know, who you have in your 
+23 local area or, you know, your IC community, your intelligence community members that 
+24 are in a local part of the country. 
+25 And each one of them have, you know, got different authorities, especially with  78 
+1 how they collect information or share information or develop products. But, you know, 
+2 it has at least brought the folks together. 
+3 The downside is --is that many of the DNI rep meetings do not include the State 
+4 and local perspective. So it's really just the IC. So, you know, we may have areas of 
+5 the country where, you know, the fusion center representatives in those areas may not 
+6 even know there is a Dom DNI program. Many of them don't. 
+7 And so their perspectives are not heard and not brought into the conversation. 
+8 And a great example I'll give you --and this was actually --and I can't get into too many of 
+9 the details, because they're at a classified level, but the Dom DNI meeting, which is 
+10 actually facilitated by DNI personnel, their partner engagement personnel, that we held 
+11 three of them nationwide, and the three meetings were about the opioid issue and the 
+12 fentanyl threat issue. 
+13 And so we brought in partners --and this was part of my effort, was outreach on, 
+14 because it was fentanyl issues. I outreached to the other, you know, Dom DNI rep 
+15 areas, and, you know, brought in the HIDTA directors in those areas. 
+16 I also brought in the --our Nationwide Domestic Highway Enforcement Initiative 
+17 Coordinator. And, during the meeting, we had, you know, great briefings from many of 
+18 the intelligence community agencies on the fentanyl threat. 
+19 The one person that had the most information in the room was our Nationwide 
+20 Domestic Highway Enforcement Coordinator. He had more detailed information about 
+21 the threat and how its impact was. It was amazing to see every analyst in the room shut 
+22 up and taking notes during his entire session, and then having a flurry of questions for 
+23 him. He had the --he had everything that they were lacking. 
+24 And I think the problem is, although that was a --you know, an initial effort to 
+25 bring in, you know, someone with a State and local perspective, that's the piece that's  79 
+1 missing, because that integration with a State and local --especially intelligence 
+2 information sharing, collection capabilities, and dissemination capabilities, has to be in 
+3 the room, and that's not normally part of the program. 
+4 So I think that that's something that would need to be expanded. The other one 
+5 is the focus on actual production, of figuring out how to develop products. And here is 
+6 the other problem, is, if we're developing products at the classified level that is not going 
+7 to be shared beyond those folks that have a TS/SCI, we're shooting ourselves in the foot. 
+8 So, although there is plenty of laws about bringing terror lines of products for 
+9 people, I see very few times where there is actual implementation and that we get terror 
+10 lines that can be put out to the broadest audience. And I know that's a struggle, 
+11 because, you know, I mean, you may have a great TS/SCI product, but, by the time you 
+12 get to the terror line, there is bad guys out there doing bad things. I mean, that --that's 
+13 what it comes to, and we need more than that. 
+14 Q You don't remember the DNI Dom program ever addressing domestic 
+15 terrorism, do you? 
+16 A Ah. I mean, historically, I do not. I've seen it address all kinds of other 
+17 intelligence community gaps, but not off the top of my head. I can't think of anything. 
+18 And one of the, you know, issues that we have with --especially within the DNI, and 
+19 especially with what was the PM-ISE, was the focus on international terrorism. 
+20 So, I mean, as an aside, we would always, you know, have the conversations that, 
+21 well, whatever we design for international terrorism should be able to be translated to 
+22 domestic terrorism, but not specifically that I can recall, you know, previously about 
+23 OT-focused efforts. 
+24 Q I think I've heard you talk in the past about amending the 2013 National 
+25 Criminal Intelligence Sharing Plan, or revisiting that.  1 
+2 Could you talk to that a little bit? 
+A Absolutely. I mean, our 2013 plan, you know, covered a lot of wide 
+3 breadth of areas. It's a large plan. I really think that we need to update a more 
+4 focused version of it, and even if it's an abridged version of the plan, so that way, it can 
+5 be more easily adopted. 
+6 I think that, you know, it's a lengthy plan, but the problem is, with any lengthy 
+7 plan is that it's hard for people to implement, and I think that, you know, giving people 
+8 that checklist-focused capability of how criminal intelligence should work in their 
+9 organization, both as a consumer and people that are potential contributors of the 
+10 information to develop criminal intelligence, that, I think, is lacking across the country, 
+11 especially with the 18,000 agencies. We have many agencies that don't have criminal 
+12 intelligence capability as far as, you know, product development. 
+13 But every agency should be able to contribute the information to help analysts 
+14 develop products. So I do believe that the plan needs to be updated. Obviously, we 80 
+15 need resources to update the plan, and we need, you know, we need the right people to 
+16 bring it together. 
+17 And, you know, from the perspective of the Federal agency partners, I mean, 
+18 they're --they've always been engaged in supporting these efforts, but, you know, over 
+19 the last, you know, several years, I should say, the funds and resources towards these 
+20 efforts have gone down. And that's because, unfortunately, you know, we're like people 
+21 with our hats in our hands going to agencies and going: Would you please give me a 
+22 little bit of --you know, a couple of dimes so I can --I can make a phone call? 
+23 No, I know it costs more than a couple dimes now to make a phone call, but, you 
+24 know, it's that --you know, going out there and trying to go to agencies to get 
+25 contributions is hard. And, depending on, you know, who is leading an agency, it's  81 
+1 sometimes like pulling teeth to get the funding to do projects and to get the bandwidth to 
+2 do those projects. And, to do it, we've got to have resources. 
+3 And oftentimes it's contract resources to support the effort, but I can tell you --I 
+4 mean, even products over the last, you know, 3, 4 years, we have --it has taken us so 
+5 long, because we haven't had the resources to get the products, the people together, and 
+6 especially during COVID, we've had very --a huge slowdown on production of documents. 
+7 But, yeah, the National Criminal Intelligence Sharing Plan is a big, you know, document 
+8 that we need to figure out how to operationalize this so that it's easier for, you know, 
+9 people in the field to use it. 
+10 Q In the past --I think I've heard you say in the past that there is no formal 
+11 requirement for State, local, Tribal, and territorial partners to share DT information, 
+12 counterterrorism information, let alone domestic terrorism information. 
+13 Could you talk to that --speak about that as a problem, a challenge, how it might 
+14 be overcome? 
+15 A Absolutely, that's correct. I mean, you know, when you look at, you know, 
+16 State, local, Tribal, territorial agencies, I mean, there are requirements that, you know, 
+17 domestic violence, that you report domestic violence. There is requirements that --you 
+18 know, sexual exploitation of a child. You know, there are all these requirements on 
+19 certain topic areas. 
+20 But, if there is indicators of terrorism or things that, you know, may be suspicious 
+21 activity reporting, there is no requirement that anyone reports anything to anybody. So, 
+22 you know, there is a huge, you know, gap to me, along with the social media companies. 
+23 They're --I mean, same thing for the social media companies. There is no requirement 
+24 that they share the information that they're seeing on potential threats to anyone. 
+25 Now, true, you know, there is always this civil liability and litigation that people  82 
+1 are concerned about for not sharing information. But, without a requirement that 
+2 certain things get reported to a specific group, you know, bad things will happen and do 
+3 happen because someone had a piece of information and just didn't know what to do 
+4 with it. 
+5 Now, some agencies, like years ago, LAPD, started implementing, you know, a SAR 
+6 area on their reporting forms, saying that, okay, so at least it became an indicator. 
+7 More recently, one of the things that we did in my area related to privately made 
+8 firearms, ghost guns, you know, is that --you know, there no requirement that anyone 
+9 report to anybody, but I --you know, we --we created a Western Region Crime 
+10 Intelligence Working Group, and one of our local labs --the director goes: I'm going to 
+11 put that on my lab form that --you know, a little area that says: If this is a privately 
+12 made firearm, a ghost gun, did you report this to the fusion center at this location? 
+13 That type of --you know, that type of, you know, institutionalization is what needs 
+14 to happen. We need to have the ability that, if someone is receiving Federal grant 
+15 funds, that they have a requirement that they have a liaison officer and that they 
+16 have --or liaison person with their fusion center and that that agency reports. 
+17 Going back to the HIDTA program and the High-Intensity Drug-Trafficking Area 
+18 program and how that operates, every HIDTA task force initiative must submit all of their 
+19 investigations into the deconfliction system. They don't have an option. If you don't 
+20 do that, you don't get any money. 
+21 So why are we not holding people accountable, both for a deconfliction when they 
+22 receive Federal funds and for suspicious activity reporting when they receive Federal 
+23 grant funds. I mean, you would think we'd want to protect our country and make sure 
+24 that people are reporting information to the right place, but there is no requirement that 
+25 anybody does that. It's all out of the goodness of their heart.  83 
+Q I think a version of this -- 1 
+2 And this will be my last question,-and., if you have 
+3 final questions. I want to save some time for the two of you or anyone else. 
+4 
+5 Q BY 
+I think a version of this question has already been asked, and I think I'm just 
+6 going to simplify it and say: So why did we miss January 6th? 
+7 A A multitude of things. I think it was a lack of that coordinated ability to put 
+8 everything in the same space at the same time so people could see it. You know, even 
+9 within our nationwide situational awareness room that we had through HSIN, oftentimes 
+10 there are FBI personnel in the space but no contributions. Same thing for DHS. 
+11 I think that, you know, without having the unified and joint capability of having 
+12 the right people in the right room at the right time to do those --you know, do the 
+13 assessment of the threats, to share the information, I think that was one component of 
+14 this. 
+15 I think that, from the executive level, you know, just a lack of folks not getting the 
+16 full picture of what was being seen around the country and, more specifically, you know, 
+17 knowledge that these groups and folks were forming in various locations around the 
+18 Nation to all kind of show up there, I think, you know, our major inabilities to hold each 
+19 other accountable for how we cooperate, I think that really, at the gist of everything and, 
+20 you know, the point of all of this is that communication is the key to stopping any threat. 
+21 As long as people are sharing everything they have, as long as analysts who are 
+22 forward leaning have the information, as long as the officers in the field have the full 
+23 perspective of what the threat may be and have the support to implement security 
+24 measures or deploy resources appropriately, we're going to continue to miss threats. 
+25 And I think that it was that combination of many things, including, you know, fear  84 
+1 that somebody was going to overstep or that these were First Amendment protected 
+2 activities and, you know, for some reason, you know, that law enforcement --you know, 
+3 public safety should not be engaged in First Amendment protected activities. And, 
+4 ultimately, if we are not engaged in First Amendment protected activities, people will not 
+5 be able to express their First Amendment because of safety concerns, of people getting 
+6 hurt. 
+7 So the government has a responsibility to balance the protection of both privacy, 
+8 civil rights, civil liberties, and public safety, and I think we failed in this event because we 
+9 didn't find that balance. And I think there were people who were afraid to go down 
+10 some of the rabbit holes that we were seeing on line and say: Well, you know --and I 
+11 admit, you know, not every person who is on line is going to show up and do something 
+12 bad, but there is always going to be a few bad actors. 
+13 And, if we look at this from the perspective of we've got to find the bad actors 
+14 before they implement an attack, because, even in a mob situation, there's agitators. 
+15 There's the folks that will agitate the crowd and lead the mob. I have seen it very 
+16 effective where we have identified the agitators and people that are leading the mob or 
+17 carrying weapons, and we stop them before they get to their location and, in some cases, 
+18 take their weapons away. 
+19 But at least that one point of impact, that one traffic stop where somebody says 
+20 hello to them has deflated their interest in going and doing bad things. And I think we 
+21 can do that in these types of events. 
+22 I do think that, if we don't make drastic changes and do it soon, that we're going 
+23 to repeat January 6th and in a worse fashion, because people now understand the 
+24 vulnerabilities a lot more. Although it may not be as vulnerable at the Capitol anymore, 
+25 there are other locations that people will take advantage of.  85 
+1 And I think those are the failures. I think that, you know, the need for the 
+2 system to blend and give the authorities to the folks in the fusion centers so they can do 
+3 their jobs, I think that that led to this. The inability to access certain pieces of 
+4 information, that led to this. The inability for people to be accountable for not sharing 
+5 information, those are the things that I think led to this. 
+6 Thank you, Mike. Thanks for all of your time. 
+7 _, I turn it back to you or- for any final questions, and thank you for 
+8 allowing me to ask questions. 
+9 
+10 
+11 Q Sorry. I was mute. Of course. 
+Well, Mike, we appreciate your time. Is there anything else that you want 
+12 to add or if you think there is someone we should be talking to who could offer further 
+13 insight into these kinds of intelligence gaps and, you know, everything that we've been 
+14 discussing? 
+15 As you're aware, we have been talking to a number of different individuals, and 
+16 we really want to be thoughtful with our recommendations. And you've been a wealth 
+17 of information. So if you have anyone you think might be helpful to us, I'm happy to 
+18 hear that. 
+19 A No. I mean, from my perspective and the folks that, you know, I've been 
+20 working the closest with to try to figure out how to change the way we've been doing 
+21 business, I mean, John Cohen is one of those people. I know --I know DHS l&A, they 
+22 probably have their --whoever is going to be designated from DHS, but, I mean, John's 
+23 been working on this tremendously. 
+24 I know Paul Abbate has been critical in, you know, just changing --the Deputy 
+25 Director of the FBI has been critical in trying to support change in the way we do business  86 
+1 and prioritization of the way we do business at the Federal level. 
+2 And then, at the State and local level, you know, there is --there is a lot of leaders 
+3 out there, you know, whether it's, you know, Don Barnes, the sheriff of Orange County 
+4 California, that is trying to --to lead, you know, what they're doing from the Major 
+5 County Sheriffs of America, you know --you know, Mike Milstead, who serves as the 
+6 Global Advisory Committee for the Attorney General, Sheriff Mike Milstead, who is a, you 
+7 know, more of a --in a rural area of this country, but he's one of those guys that 
+8 represents the sheriffs in those smaller areas of the country. 
+9 And, you know, I always tell people that, you know, whether it's, you know, a 
+10 major city or a small area of the country, we never know where the threat is going to 
+11 come from, and we need to have coverage. That's why the Network of Fusion Centers 
+12 was developed nationwide, is to try to have better coverage. 
+13 Those folks, I think, would be --give a good perspective from a major metropolitan 
+14 area executive to a more rural executive and the challenges they face with information 
+15 sharing and stopping threats. 
+16 Q That's great. And I know John Cohen was temporarily overseeing l&A 
+17 before he was shifted over to this new position. For both Paul Abbate and John Cohen, 
+18 what changes have you --what have you seen that you think will be helpful? And then I 
+19 promise this interview is over. 
+20 
+21 A No, no worries. 
+I mean, I think that their level of bringing --and a more recent example. The 
+22 synagogue takeover in Texas, you know, immediately, you know, John and Paul started 
+23 working together to put together, you know, just some really great briefings, better than 
+24 I've seen probably in my career, from FBI and DHS and local perspective, trying to get the 
+25 information out there and trying to bring people together in a way that hasn't happened  87 
+1 before. 
+2 I mean, that's, I think, the great thing of the dynamic partnership that those two 
+3 have had and their development is that they've brought a facet to DHS and FBI that I 
+4 haven't seen really before. I have to be honest. I mean, I would have these 
+5 conversations about --with leadership in the FBI and leadership in DHS, and they 
+6 wouldn't know who the other person was --
+Yeah. 7 
+8 Q 
+A --or they'd know them in passing, but they wouldn't have a true partnership. 
+9 And I think, you know, talking about, how do you institutionalize that so that way, 
+10 you know, the head of --and Under Secretary in DHS and the Deputy Director of the FBI 
+11 can actually be coworkers and collaborators? 
+12 And so I think that's something that they have brought that really has been 
+13 missing. I mean, you have the conversations between the FBI Director and the Secretary 
+14 of DHS on various issues, but never to the point where I've seen them trying to work 
+15 hand-in-hand. 
+16 Q I'm glad we're ending on a somewhat positive note about things leaning 
+17 forward, but I --my question is: Do you think that that copartnership that you've just 
+18 described between Mr. Abbate and Mr. Cohen is by virtue of their personalities, or was 
+19 something institutionalized that made this a priority? 
+20 A Personality, I have to say. I mean, it's something that needs to be 
+21 institutionalized. Like many of the things that we currently operate within our 
+22 environment, it's personality-driven. 
+23 
+24 
+25 Q Got it. 
+Thank you, Mr. Sena. We really appreciate your time. 
+I want to make sure that I say particular language as we end this. So this  1 transcribed interview stands in recess subject to the call of the chair. So thank you for 
+2 your time. I'm --we appreciate it, and we'll be in touch. 
+3 
+4 
+5 Mr. Sena. Thank you. Thank you all for your time. 
+Thanks, all. Thanks to the court reporters. 
+Mr. Sena. Thank you. 
+6 [Whereupon, at 1:53 p.m., the interview was recessed, subject to the call of the 
+7 Chair.] 88  1 
+2 
+3 Certificate of Deponent/Interviewee 
+4 I have read the foregoing __ pages, which contain the correct transcript of the 
+5 answers made by me to the questions therein recorded. 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 Witness Name 
+Date 89 

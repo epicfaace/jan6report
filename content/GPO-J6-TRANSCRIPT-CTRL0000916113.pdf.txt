@@ -1,0 +1,1800 @@
+1 
+2 
+3 
+4 SELECT COMMITTEE TO INVESTIGATE THE 
+5 JANUARY 6TH ATTACK ON THE U.S. CAPITOL, 
+6 U.S. HOUSE OF REPRESENTATIVES, 
+7 WASHINGTON, D.C. 
+8 
+9 
+10 
+11 INTERVIEW OF: ALEX CANNON 
+12 
+13 
+14 
+15 Thursday, August 18, 2022 
+Washington, D.C. 1 
+16 
+17 
+18 
+19 
+20 
+21 The interview in the above matter was held via Webex, commencing at 12:59 p.m. 
+Present: Representative Aguilar.  1 
+2 Appearances: 
+3 
+4 
+5 For the SELECT COMMITTEE TO INVESTIGATE 
+6 THE JANUARY 6TH ATTACK ON THE U.S. CAPITOL: 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 STAFF ASSOCIATE 
+INVESTIGATIVE COUNSEL 
+PROFESSIONAL STAFF MEMBER 
+FINANCIAL INVESTIGATOR 
+SENIOR COUNSELOR TO THE VICE CHAIR 
+, FINANCIAL INVESTIGATOR 
+, SENIOR INVESTIGATIVE COUNSEL 
+17 For ALEX CANNON: 
+18 
+19 DANIEL BENSON 
+20 JACOB BENSON 
+21 JONATHAN GONZALES 
+22 Kasowitz Benson Torres 
+23 1633 Broadway 
+24 New York, NY 10019 2  3 
+1 
+2 All right. This is the transcribed interview of Alex 
+3 Cannon, conducted by the House Select Committee to Investigate the January 6th Attack 
+4 on the United States Capitol, pursuant to House Resolution 503. 
+5 At this time, I'm going to ask the witness to please state your full name for the 
+6 record. 
+Mr. Cannon. Alexander Wells Cannon. 7 
+8 And, Mr. Cannon, this will be a staff-led interview, though 
+9 Members may choose to ask questions. At this time, I do not see any members present. 
+10 My name is I'm an investigative counsel with the 
+11 select committee. With me from the select committee is to my left, 
+12 senior investigative counsel; to my right, , financial investigator; and 
+13 we are joined by-via the Webex who is senior counsel to the vice chair. 
+14 At this time, I'd ask your counsel to identify himself for the record and any lawyers 
+15 with you, Mr. Benson. 
+16 Mr. Benson. Daniel Benson, Kasowitz Benson Torres, representing Mr. Cannon, 
+17 and joining me is Jonathan Gonzales of our firm and Jacob Benson of our firm. 
+18 All right. Now, Mr. Cannon, you are voluntarily here for 
+19 this transcribed interview. The ground rules for this interview are, first, there's an 
+20 official reporter transcribing the record of this interview. The reporter transcription will 
+21 be official record. 
+22 The proceeding is also audio and video recorded, and we ask that you do not 
+23 audio or video record the proceeding. 
+24 Please wait until each question is complete before you begin to response, and 
+25 we'll do our best to wait until your response is complete before we ask the next question.  4 
+1 The reporter cannot note nonverbal responses, such as shaking or nodding your 
+2 head. So it's important that you respond to each question with an audible, verbal 
+3 response. 
+4 Please give complete answers to the best of your recollection, and if the answer is 
+5 unclear, please ask for clarification. If you don't know an answer, please just say so. 
+6 We're happy to take any breaks for you, whether comfort breaks, to speak with 
+7 your attorney at any time. Just let us know, we're happy to accommodate. 
+8 
+9 
+10 
+11 
+12 
+13 Now before we begin, do you have any questions? 
+Mr. Cannon. No, sir, I don't. Thank you. 
+All right. 
+EXAMINATION 
+BY 
+Q All right. Mr. Cannon, seeing that we had a prior transcribed interview with 
+14 you, we're not going to go over some of the biographical and educational information 
+15 that you stated the first time we met with you. 
+16 In preparation for this interview, did you collect documents that were responsive 
+17 to our request? 
+18 
+19 
+20 A 
+Q 
+A Yes, sir. 
+Can you describe that process for us? 
+I contacted our e-discovery vendor, asked them to bring down data that 
+21 would've been responsive to the request. I reviewed the data and produced the data 
+22 that was responsive to your request. 
+23 
+24 
+25 Q 
+A 
+Q And who is that e-discovery vendor? 
+That's 2M Document Management --Imaging and Management. 
+Yeah. Going forward, we'll just refer to them as 2M. Is that okay with  1 you? 
+2 Yes, sir. 5 
+3 A 
+Q And we see from --and without getting into conversations you had with your 
+4 lawyer, in the documents you produced, there are a variety of redactions in those 
+5 documents. Did you review all those redactions before the production was made to us? 
+6 A Yes, sir. 
+7 Q Okay. So it's fair to say that, to the best of your ability, you believe all 
+8 those redactions and the related substance as indicated on the face of redactions are 
+9 accurate? 
+10 
+11 A 
+Q Yes, I do, yes, sir. 
+All right. So today, Mr. Cannon, we're going to speak a bit about --just 
+12 giving you a roadmap, because we're going to try to make this a pretty relatively quick 
+13 interview and try to be precise with our questioning and kind of get to the point. 
+14 We're going to talk a bit about how the recount expense process worked both 
+15 after the election and also how that's worked since the end of the Trump administration. 
+16 So, starting on that first question, take us to post-election day. There's now 
+17 fundraising for elections. What's the process by which expenditures are approved by 
+18 the campaign? 
+19 A Are you talking about any expenditure? I mean, it's --there's a lot of 
+20 expenditures that happen. 
+21 
+22 Q 
+A To be specific, the recount expenses. 
+So what date --where are we right now in time? I mean, obviously the 
+23 recount account and recount fund was used for a number of purposes. But I want to 
+24 make sure that I'm being responsive to your question. 
+25 Q No, I appreciate that. So we're talking post-election. So let's  6 
+1 actually --I'm going to show you an exhibit that may help frame some of this, about what 
+2 we're talking about. It's an exhibit that will be up in a minute. 
+3 It's an email from you --that comes to you from an individual named Stewart 
+4 Crosland. Can you tell us who that is? 
+5 
+6 A 
+Q Yeah. Stewart Crosland is outside counsel at Jones Day. 
+And am I right that Mr. Crosland and Jones Day handled the campaign's 
+7 efficacy compliance issues? 
+8 
+9 A 
+Q That is correct. 
+Okay. So here's an email that's been marked exhibit 1. It's a November 
+10 9th email from Mr. Crosland from Jones Day, providing disclaimer language. And, if we 
+11 scroll to the bottom there, you see that Mr. Crosland --
+12 A Sorry, just one moment. It's very small on my screen. 
+13 I have to --
+14 
+15 
+16 
+17 
+18 
+19 Q 
+A 
+Q Okay. Is that --maybe we can zoom in. 
+No, it was me. It was how I had it laid out. We're fine now. 
+Oh, I'm sorry. Okay. 
+All right. Is that better now for you? 
+A Yes, sir. 
+Q Okay. So here you see it's a November 9th email from Mr. Crosland to you 
+20 and copying Sean Doi Iman, and it says: This is what a split page would need. 
+21 It then has a disclaimer that would go at the bottom of a fund raising email. Does 
+22 that seem familiar to you? 
+23 
+24 A 
+Q Yeah, it does. It looks like it's from my production, so, yes. 
+Yes. And then you see, in the second paragraph there, it says: Your 
+25 contribution to DJTFP will be allocated to DJTFP's recount account up to the maximum of  7 
+1 $2,800 per individual. Donations to DJTFP's recount account will be used solely in 
+2 connection with any post-election recounts and election contests and not for the purpose 
+3 of influencing any Federal election. 
+4 Have you seen that disclaimer before? 
+5 
+6 A 
+Q Yes, sir. 
+Okay. So here it references a campaign recount account. What did you 
+7 understand that recount account to be? 
+8 A So I think I previously gave some testimony on this subject, but after election 
+9 day, when polls close, a campaign can raise money and make expenditures for two 
+10 purposes. The first is debt retirement, and the second one is recount. 
+11 Q And, as far as the latter, the recount option, did the campaign set up a 
+12 segregated account to handle those recount-related donations? 
+13 A I believe so, but I --I don't know all of the different accounts that the 
+14 campaign has, but I believe that they would've done that, yes. 
+15 Q All right. And the campaign would've done that to be in compliance with 
+16 FEC rules. Is that correct? 
+17 A I don't know if it's required to be in compliance, but my guess is that that --I 
+18 can't answer that question, whether or not there's a specific rule that requires it, sitting 
+19 here today. 
+20 Q And who would be the person at the campaign who would be tasked with 
+21 knowing that? 
+22 A With knowing? I mean, we would've taken advice from Jones Day. It 
+23 would've been, you know, the treasury team and Sean Dallman. 
+24 Q And who would know from the campaign whether a segregated account 
+25 was, in fact, created?  8 
+I mean, Dallman, Mr. Dallman. 1 
+2 A 
+Q So your understanding was, as you just said, that when the funds --after the 
+3 debt retirement, any funds the campaign itself was raising would've been for the purpose 
+4 of post-election recounts and otherwise challenging the election. Is that fair? 
+5 
+6 
+7 A 
+Q 
+A I mean, that is --that is certainly one use of the funds. 
+Is there another use that you're aware of? 
+Well, I mean, I'll tell you that any expenditures that have been made out of 
+8 recount were made consistent with advice from outside counsel. And I'm not going to 
+9 get into the substance of, you know, privileged conversations, but outside counsel did 
+10 provide advice with respect to what can and cannot be paid out of recount, and we 
+11 followed that advice. 
+12 Q And I appreciate that, and we're not looking to get into your communication 
+13 with outside counsel, but we are looking to get a sense of your understanding as to what 
+14 these funds could and could not be used for. 
+15 A Well, my understanding is that, like it says in the disclaimer here, it can't be 
+16 used --one of the things it cannot be used for is to influence an election. So it cannot be 
+17 used for electioneering purposes --
+18 
+19 
+20 Q 
+A 
+Q And is it fair to say --
+--the specific definition under FECA. 
+And, consistent with this disclaimer that you received from outside counsel, 
+21 was it also your understanding that it could be used solely in connection with any 
+22 post-election recounts and election contests? 
+23 A No, sir, that is not correct. That is not consistent with the advice we got 
+24 from outside counsel. 
+25 Q So are you saying that the advice you got from outside counsel is not what is  1 in this disclaimer provided by outside counsel? 
+2 A Well, I mean, I'm not --I'm saying that there are categories here of 
+3 information --look, this is the disclaimer that they provided to us. We got subsequent 
+4 advice from outside counsel about how we could use recount funds, and we used the 
+5 funds in accordance with that advice from outside counsel. 
+6 I'm not going to weigh in and provide advice on what's, you know, how I interpret 
+7 this disclaimer. You guys can interpret the disclaimer. 
+8 Q Okay. Now, so, Mr. Cannon, I want to be clear. Is it --when you got this 
+9 disclaimer sent to you November 9th of 2020, it was your understanding that this 
+10 disclaimer would be what's going out to potential donors of the campaign, correct? 
+11 
+12 A 
+Q That is correct. 
+And when individuals made donations, post-election, to the campaign, they 
+13 were being told what their money would and would not be used for. Is that correct? 
+14 
+15 A 
+Q That is correct. 
+And when the disclaimer in the second paragraph says it would be used 
+16 solely in connection with any post-election recount and election contest, that was telling 
+17 donors what their money would be used solely for, is that fair, at that time? 
+A I suppose --I mean, I suppose so. 9 
+18 
+19 Mr. Benson. Excuse me. I think the language speaks for itself, and, you know, I 
+20 think it was --I think that it was provided by the same counsel that provided the later 
+21 advice with respect to the use of the funds. 
+22 No, I appreciate that, •. 
+23 
+24 Q But if we scroll up here, Mr. Cannon, you forward this language on to Darren 
+25 Centinello further up, correct?  I --I mean, I can't see. 
+Yeah. So you forward it to Mr. Centinello, right? 
+Okay. 
+I'm saying --asking, do you see that? 
+I see that, yes, sir. 10 
+1 
+2 
+3 
+4 
+5 
+6 A 
+Q 
+A 
+Q 
+A 
+Q And then Mr. Centinello, who has a datapier address, then responds: And 
+7 which disclaimer goes on the email? 
+8 
+9 
+10 
+11 
+12 And says: Standard DJTFP. 
+And then you respond: Both DJTFP and Save America. 
+A 
+Q 
+A Okay. 
+Correct? 
+Yes. 
+13 Q So is it fair to say that when you forwarded this on to Mr. Centinello, you had 
+14 an understanding as to what that disclaimer meant, the import of it? Is that fair? 
+15 A Yeah. I knew it had to go at the bottom. I knew, after election day, we 
+16 had to change the disclaimer. That's what Jones Day was telling us. 
+17 
+18 Q BY-: 
+Can I ask a, I guess, a mechanical question? And apologies if this doesn't 
+19 make sense because it is very campaign-finance related. But how can you put two 
+20 disclaimers at the bottom of an email? Are they --if they're different? Or do they 
+21 have to be consistent? 
+22 A I mean, are there two disclaimers at the bottom of any emails that you've 
+23 seen? 
+24 Q No. I'm trying to figure out what you mean when you say "both DJTFP and 
+25 Save America." Because he says, "which disclaimer goes on the emails, standard DJTFP,"  11 
+1 and you say: Both DJTFP and Save America. 
+2 A I'm not sure, sitting here right now, what I meant by that. I mean, I think 
+3 what I was getting at was that these are the disclaimers that are to be used on both DJTFP 
+4 and Save America. But I mean, it's --we're talking, I mean, this has been almost 2 years 
+5 now. 
+6 Q Yeah, no, I understand that. I guess, if it was specific to that instance, I was 
+7 just curious if it meant the ones that included donations to both entities or if you actually 
+8 meant emails both from --I was just trying to figure out what you meant there, what the 
+9 both was in reference to. 
+10 
+11 now --
+12 
+13 
+14 
+15 A 
+Q 
+A 
+Q I probably could've answered that question 2 years ago. I don't know right 
+Okay. 
+--sitting here, what I meant. 
+BY 
+All right, Mr. Cannon, I want to show you another email that we've marked 
+16 as exhibit 2, which is --we talked about this email previously in your first transcribed 
+17 interview. And I'm going to start with your --on the second page of this email. Excuse 
+18 me. 
+19 So it's 2 days later from the email we just discussed. It's November 11th, and 
+20 Cleta Mitchell, a lawyer with Foley Lardner at that time, sends you an email that says: Is 
+21 there a legal defense fund set up just for Trump campaign, or is that part of the JFC with 
+22 RNC? 
+23 Do you see that? 
+24 
+25 A 
+Q Yes, I do. 
+And then you respond: The campaign has a recount fund, and RNC has a  1 legal proceedings fund. There is fundraising occurring through the JFA. In addition, 
+2 POTUS established a leadership PAC on Monday night that has been added to the JFA. 
+3 Do you see that, sir? 
+Yes, I do. 
+And that leadership PAC is Save America, correct? 
+Yes, sir. I believe so. 12 
+4 
+5 
+6 
+7 A 
+Q 
+A 
+Q All right. If we scroll up further, Ms. Mitchell asks you questions about how 
+8 they can help, how she can help with money being raised. 
+9 We'll scroll up further, and then you provide some clarification, and you say: 
+10 There is no specific name for the recount fund. It's just a segregated, restricted account 
+11 held --it says "help," but I think you meant held --by the campaign. Not sure what Dan 
+12 Coates has to do with anything. 
+13 So here --does this refresh your recollection that you were aware that the 
+14 campaign had a segregated restricted account to which it raised recount funds? 
+15 
+16 
+17 A 
+Q 
+A It appears that at that time that was my understanding. 
+Okay. And you would've gotten that understanding from who? 
+I mean, probably from someone on the treasury team. I mean, it would've 
+18 been, you know, either Sean, or it would've been Stewart Crosland, I mean, any number 
+19 of people. 
+20 BY 
+21 
+22 Q 
+A Crosland was the attorney, or he was on the treasury team? 
+No. Stewart Crosland is the partner at Jones Day who worked under 
+23 Ben Ginsberg, who was providing outside counsel. 
+24 
+25 Q 
+A He could've told you about the fund that was created? 
+Well, yeah, because he would've been the one who advised the campaign  13 
+1 whether or not we had to have a restricted --a segregated account or a non-segregated 
+2 account. 
+3 Q Oh, I think we should be more particular. I think my colleague was asking 
+4 who would've actually told you that the account had been set up. So we want to be 
+5 careful --
+6 A We knew --sorry. We knew --I'm sorry. You can finish your question, 
+7 -
+8 Q No. I just want to --we want to be very careful because there is this issue 
+9 with your counsel, and we don't want to ask you about communications with counsel. 
+10 So, understanding that counsel may have said you need to set up a fund, the 
+11 question of, but who would've told you that the fund had actually been created, it 
+12 sounded like that would've been more Mr. Doi Iman or somebody who would've actually 
+13 been responsible for setting up the fund. Is that fair? 
+14 A Yeah, that's fair. I mean, they would've had to, in order to raise money into 
+15 it. I mean, it would've --through the WinRed process and everything, it would have to 
+16 be set up. It would have to be aimed at an account. Right? 
+17 Q Right. And so I think that's what we were asking, is, you say it's a 
+18 segregated, restricted account, which presumably you may have gotten legal advice to 
+19 create, but who would've actually created such that money could go in, that would've 
+20 been Mr. Doi Iman or somebody on the actual treasury team. That's what we were 
+21 trying to confirm. 
+22 A Yeah, I believe that's correct. Yeah, I don't know who else would've been 
+23 setting up accounts. 
+24 
+25 Q Okay. 
+BY  14 
+1 Q Now, Mr. Cannon, here in this email where you talk about the fundraising 
+2 through the joint fundraising agreement, you're talking about what's referred to as 
+3 TMAGAC, correct? 
+4 A Yeah. I think that was the only joint fund raising committee at that time. 
+Yeah. 5 
+6 Q 
+A There might've still been Trump Victory, but I don't think that we were doing 
+7 small dollar fund raising through Trump Victory. 
+8 Q And that's my understanding as well from our investigation. 
+9 So is it then fair to say that the fundraising that's occurring around this time, 
+10 November 11th, that's going through TMAGAC, the funds that were being raised for the 
+11 purpose of campaign would've been going to this recount fund, this segregated account? 
+12 A I don't know the split, though, because the RNC was a part of that, of 
+13 TMAGAC, the Trump campaign was a part of it, and I believe, at this time, Save America 
+14 was a part of it as well. So, as of November 11th, I don't know what the split would've 
+15 been. 
+16 Q Now, putting aside the split of how the money was actually --the 
+17 percentages, but the RNC funds went to whatever the RNC had set up for themselves. 
+18 Save America went to whatever account Save America set up for itself, and the Trump 
+19 campaign funds would've gone to this segregated account that you reference here. Is 
+20 that correct? 
+21 A Again, there was a waterfall also that was occurring under the JFA at various 
+22 times. I don't know if as of November 11th, the waterfall had, you know, whether it was 
+23 a split or whether it was a waterfall within the debt retirement and recount, or whether it 
+24 was a waterfall with recount on top and debt retirement below. I mean, I don't know as 
+25 of this date -- 15 
+1 Q For the purpose of our discussion, once the debt was paid off, as you noted 
+2 before, the campaign would've then been raising money for the purposes of recount 
+3 expenses, correct? 
+4 A Once the debt was paid off --I mean, I don't think debt was paid off until a 
+5 lot later because there's --you know, there's trailing expenses, right? So it's not like all 
+6 debt was paid off as of a certain date. I'm pretty sure there were trailing expenses. 
+7 
+8 Q 
+A So --
+There would've been --there would've been an estimate, I presume, at some 
+9 point that was made of what the campaign's debt situation would be, and there would be 
+10 fundraising that would occur to meet whatever that estimate is. 
+11 Q Yeah. Is it fair to say, which I believe you already testified to, that the funds 
+12 that did not go towards the debt, that the campaign fund raised post-election, would've 
+13 gone to this segregated or restricted account that you reference here? 
+14 A It would have gone --if it did not go --so if it went to DJTFP prior to DJTFP's 
+15 conversion into a multi-candidate PAC, and it did not go into debt retirement, then it 
+16 would've gone into recount. Is that clear? 
+17 - Yeah. And I'm sorry so sorry. I just need to followup. I'm 
+18 probably the one who's the worst at this, so bear with me, apologies. 
+19 
+20 
+21 Q 
+A 
+Q When you said the multi-candidate, that's MAGA PAC? 
+That's correct. 
+Okay. So, if I understand you, and I want to make sure --if I repeat it, I 
+22 have a better chance of making sure I have it right. So, if the funds were raised to DJTFP 
+23 and they were not spent on debt retirement, any remaining funds that were not spent on 
+24 debt retirement would have gone to this segregated, restricted account for recounts for 
+25 MAGA PAC?  1 
+2 
+3 
+4 
+5 A 
+Q 
+A 
+Q 
+A I believe so. 
+Okay. 
+Yes. 
+I just want to make sure I got it right. 
+I mean, that's my understanding of what should've --what should've 16 
+6 happened, but, again, there was constant communication between our treasury team and 
+7 Jones Day throughout this entire period, so. 
+8 Q And we want to make sure it's your understanding, understanding that 
+9 you're not the person hitting these buttons and you may not actually know what 
+10 happened, just what your understanding of what the process was. 
+11 A Okay. 
+14 Q Just out of curiosity, and I know this was a while ago, but do you have a ball 
+15 park of how much money would've been moved to MAGA PAC after the debt was 
+16 retired --after the debt was paid off, do you have any idea how much was then moved 
+17 into MAGA PAC, into the segregated, restricted account? 
+18 A Well, no, I don't think there would've been money moved into a recount 
+19 account. It would've been raised into that account. 
+20 Q Oh, then I misunderstood you a moment ago. 
+21 A All that happens when a --so, at the end of a campaign, the principal 
+22 campaign committee can do one of two things. It can wind down and terminate, or it 
+23 can convert into a leadership PAC, or if it meets certain qualifications, it can revert into a 
+24 multi-candidate PAC. 
+25 The decision was made, with respect to this, predominantly because of a whole  17 
+1 host of, you know, legacy civil litigations, that we needed to convert into a 
+2 multi-candidate PAC because the FEC would not let us shut down the principal campaign 
+3 committee. 
+4 Q Okay. And so the money doesn't --it would just sit and convert into MAGA 
+5 PAC, and it could only be used for recount. So I guess what I was asking was, after the 
+6 debt was retired, do you have any idea how much money was left that could then only be 
+7 used for recounts? 
+8 A Well, I mean, I object a little bit with --to the way you're leading me to say 
+9 that the money could only be used for recounts. 
+10 
+11 Q 
+A Oh, if that's not right, correct me, because if I'm getting it wrong, tell me. 
+I'm not going to --I'm not going to get into privileged conversations, and 
+12 we've already agreed to that, but there is guidance from the FEC, there are advisory 
+13 opinions, that --and specific guidance that was given to us by Jones Day, about what can 
+14 and cannot be spent out of a recount account. 
+15 Now, the recount account has that name. It has that recount account name, but 
+16 there are other expenditures that can be made, provided they're not being used to 
+17 influence an election. That is the advice that we got from outside counsel. 
+18 Q Okay. So I guess let me rephrase my question, and then you tell me if it's 
+19 still wrong. Once the debt retirement was paid, so the debt was paid off, do you have 
+20 any idea how much money was left that DJTFP had that would then have to go 
+21 somewhere else? 
+22 A No, I don't know, but it would've been --it would've been publicly reported. 
+23 I don't know if DJTFP would've had any additional money at that point. I just don't know 
+24 the answer to that. 
+25 I mean, it would --it would all be contained in FEC reports. I mean, everything's  18 
+1 publicly reported. So, if money changes accounts or is refunded to another account or 
+2 moved to another account, that's all publicly reported. Those reports are all reviewed 
+3 by Jones Day. 
+Okay. 4 
+5 Q 
+A As well as staff at the FEC, I'd like to add too, so, you know, we have --we've 
+6 been doing this, we've been filing reports now, MAGA PAC, Save America, have been 
+7 filing reports now for almost 2 years since election day. 
+8 We have yet to even receive a request for additional information from the FEC on 
+9 any of the expenditures. And that's a staff level, not talking about the Commissioners 
+10 upstairs, I'm talking about staff level at the FEC. 
+11 
+12 Q 
+A --I'm sorry. I didn't mean to cut you off. Go ahead, please finish. 
+Was your question, are RFAls common, are requests for additional 
+13 information common? 
+14 
+15 
+16 
+17 Q 
+A 
+Q 
+A Yes. Do staff members commonly file RFAls? 
+Yeah. Those are very common. 
+Okay. 
+You can get --you can get an RFAI, request for additional information, you 
+18 can get those for something as simple as, you know, you used the word "consultant" 
+19 when they would prefer that you use the word "contractor." Right? 
+20 So these are routine matters that happen at the FEC, and we have --we've not 
+21 even received an RFAI, which is why it's sort of, like, you know, I'm a little perplexed as to 
+22 why this is something that this committee is looking into, just to be completely honest. 
+23 Q When was the last time --you said you haven't received one. How long has 
+24 it been since you received an RFAI? 
+25 A Oh, I mean, I think it's been quite some time. Again, that would be, you  19 
+1 know, a question for --those usually get sent to the treasurers, right, and then they get 
+2 forwarded to legal counsel for handling. So --
+3 Q Sorry. I just want to make clear who we're talking about. When you say 
+4 the treasurer, are you talking about Red Curve, or are you talking about Mr. Doll man? 
+5 A I'm talking about --well, it would come through me to Mr. Doll man, but I 
+6 would assume that they're sent to --I know that they're sent, actually, to Red Curve if 
+7 there's an RFAI. 
+8 Q Okay. So, just in terms of understanding the process and making sure 
+9 we're using the correct terminology, when you say it would go to the treasurer, it would 
+10 go to Red Curve and then presumably to you and Mr. Doll man to respond? 
+11 A Yeah. Or to --or to Jones Day to respond. You know, usually those are 
+12 handled through either a letter back to the FEC explaining exactly what the report means, 
+13 or you do an amendment to a report. 
+14 
+15 Q 
+A Okay. 
+That's been my experience. I mean, I haven't --I am aware that RFAls 
+16 happen frequently. It's not something that we've gotten a lot from, you know, this 
+17 particular committee, which is probably the most scrutinized political committee in the 
+18 history of America politics. 
+19 
+20 
+21 Q 
+A 
+Q Which committee? 
+Donald J. Trump for President, Inc. 
+Okay. Well, I wasn't sure. There's multiples, so I just want to --we try to 
+22 be particular. When you're saying "the committee," I just want to make sure which one 
+23 we were talking about. 
+24 A Yeah. We were talking about a recount account, so I'm talking about 
+25 Donald J. Trump for President, Inc.  1 Q Got it. Okay. Thank you. That is very helpful explanation. 
+3 excuse me. 
+4 
+5 - Sorry about that. 
+Mr. Cannon. No, it's okay, you can confuse me with Mr. Dallman. He's 
+6 stronger and better looking than I am, so it's fine with me. 
+7 BY 
+8 Q Mr. Cannon, we're going to have to head to a little later in November of 
+9 2020. I'm going to show you what's been marked as exhibit 4. 20 
+10 So here --so it's an email that you sent --excuse me --that Mr. Kushner sent you. 
+11 The initial email is, Sean Dallman actually sends a cash update, and he talks about: 
+12 Below the screenshot for the current position of the three accounts. And those three 
+13 accounts, a DJTFP general is the first, recount/legal is the second, and Save America is the 
+14 third. 
+15 Do you recall receiving these preaudit cash position updates? 
+16 A I mean, I recall them because I gave a production to you guys, but I think I 
+17 testified previously that, if I hadn't done this production, I never would've recalled 
+18 receiving these, because I don't think I ever really paid a whole lot of attention to them. 
+19 Q I want to scroll up here, and here Mr. Kushner sent you an email. It says: 
+20 I'm traveling for a few days --it's November 29th --he says: When I get back, let's 
+21 discuss a new system for paying bills where we need DJT to sign off on them --and that's 
+22 Mr. Trump, the President, right, DJT? 
+23 
+24 A 
+Q I assume so, yeah. 
+He says: I want to create a tighter process for going forward. We should 
+25 have a budget we approve, and it shouldn't go to him unless approved by Sean and Justin  21 
+1 and maybe Alex. 
+2 And that's talking about a budget going to approval by President Trump, correct? 
+3 
+4 A 
+Q That seems to be what Mr. Kushner's talking about, yes. 
+Did you have any other discussions about this so-called new system that 
+5 Mr. Kushner is referring to? 
+6 A I don't believe this meeting ever happened. I mean, you know, I don't 
+7 recall it. I think I had previously testified that I don't recall having a conversation about, 
+8 you know, a budget going forward or processes for approvals and things like that. 
+9 Q Were you aware of President Trump's involvement in the approvals of 
+10 budgets --post-election budgets? 
+11 A What time period are we talking about, and what committee are we talking 
+12 about? 
+13 Q Between --from post-election through the end of the administration, 
+14 January 20th, are you aware of President Trump approving any kind of expenditures by 
+15 the Trump campaign? 
+16 
+17 A 
+Q No, I'm not aware of that. 
+Okay. Going forward, when the campaign converts to MAGA PAC, is 
+18 President Trump involved in the process for approving expenses undertaken by MAGA 
+19 PAC? 
+20 A I don't believe I've ever had a conversation with him about expenses out of 
+21 MAGA PAC and whether or not certain things can get paid. 
+22 Q Well, broader than what conversations you've had, are you aware, from any 
+23 source, about whether President Trump has any involvement with MAGA PAC's 
+24 expenses? 
+25 A I don't know the process. I mean, it would be --it would be speculation on  1 my part, and I'm just not going to --I'm not going to speculate on how expenses get 
+2 approved. 
+3 
+4 Q 
+A Do you know how MAGA PAC expenses get approved? 
+No. I mean, it --well, wait a second. What do you mean? That's an 
+5 extremely broad question, right? Because there's obviously some expenses that, you 
+6 know, are legal expenses that I'm aware of, right? But in terms of what's the process 22 
+7 from receiving a bill to a wire going out or a check being cut, in granular detail, no, I don't 
+8 know that. 
+9 Q Well, and I appreciate the clarification. You just testified, as far as 
+10 President Trump's involvement from the election day to January 20th, you don't have any 
+11 knowledge as to whether or not he was involved in the approval of expenses. Is that 
+12 correct? 
+13 
+14 A 
+Q That's correct. 
+Now, going after January 20th, and I believe in February when MAGA PAC 
+15 emerges as an entity, are you aware of whether President Trump has any involvement in 
+16 the approval of MAGA PAC's expenses, in any way? 
+17 A I --I just --it's --I don't know. I don't know for sure. Okay? I don't know 
+18 for sure. 
+19 - It's okay to say you don't know, Mr. Cannon. We --this is literally 
+20 what we're trying to find out, is, who are the people that have the information about the 
+21 process, because our understanding is, is that a lot of people left, a lot of people don't 
+22 work for them anymore. 
+23 It's who was at MAGA PAC or who was running these things or what happened 
+24 after the transition, that's what we're trying to find out. So, if you're not the proper 
+25 person who doesn't know, that's fine.  23 
+1 If you know who a better person is, who handles the mechanics of that stuff, and 
+2 say, "Oh, actually I'm not the person, this would be the person," that would be super 
+3 helpful too. 
+4 So, if you don't know, we don't want to ask the wrong people the information. 
+5 But if you do know who the proper person is, we understand people change, just that 
+6 would be helpful too, so that's fine. 
+7 BY 
+8 
+9 Q 
+A Do you know who is tasked with the approving expenses for MAGA PAC? 
+Yeah, I mean, I believe --so when you say "approving expenses," this is one I 
+10 really want to make sure we're on the same page, okay, because we may receive, you 
+11 know, a bill, from a law firm that's representing us in, you know, some civil litigation. 
+12 Okay? I'll take a look at that because a lot of times I end up working with these people, 
+13 right? So I'll take a look at that and say: Okay. This seems to make sense. 
+14 Generally I respond with "this looks good to me" or "hang on, I'm going to call this 
+15 outside counsel and figure out what the deal is with the bill." 
+16 After that, I don't know the process. 
+17 
+18 Q 
+A Well, what do you do? What's your last step in the process? 
+My last step in the process is sending an email to somebody who's on the 
+19 accounts payable group --it could be Mr. Dallman; it could be Kalina (ph) --and saying: 
+20 Hey, this bill looks good to me. 
+21 Q So is there anyone --to the extent there's a hierarchy, is there anyone more 
+22 senior than you that you would confer with or otherwise get approval from before saying 
+23 yes to someone like Mr. Doll man or Kalina (ph)? 
+24 A No, there's no one that I would go higher to. They'd go --would go up to 
+25 probably Susie Wiles.  1 
+2 And Ms. Wiles works for MAGA PAC? 
+Mr. Cannon. I mean, she's --she --I don't know exactly what her employment 
+3 situation is. 
+4 And I'll note for the --sorry, I'll note for the record that 
+5 Mr. Aguilar has joined the Webex. 
+6 Mr. Cannon, feel free to continue your answer. 
+7 Mr. Cannon. So I was saying I think that ultimately I don't know whether the 24 
+8 former President approves expenses, whether Susie Wiles approves expenses, or whether 
+9 it's some combination of the two. 
+10 BY 
+11 Q So an expense comes --and do all expenses typically come to you first, or is 
+12 there another entry point? 
+13 
+14 A 
+Q No, no, no, no, no. Only things that relate to legal. 
+Okay. So a legal expense comes from you; you may do some due diligence 
+15 to see it's right on your end. You then send that --you then give an approval for 
+16 payment to someone like Mr. Doi Iman or Kalina (ph), and then they, for lack of a better 
+17 term, go up the chain to get additional approval separate from you? 
+18 
+19 
+20 
+21 
+22 A 
+Q 
+A 
+Q 
+A That's my understanding. 
+And who do you understand to be up the chain from Mr. Dallman? 
+Well, I thought I just answered that. 
+Is it just --is it Susie Wiles and then President Trump? 
+I --I mean, I think it's --again, I don't know what happens after Sean. 
+23 believe that there's a report that gets sent to Susie. I don't know what the approval 
+24 process is after me saying: Hey, this legal expense looks good. This bill, this law firm's 
+25 bill looks good.  1 
+2 Q 25 
+BY 
+Mr. Cannon, do you know the relationship between Mr. Doi Iman and 
+3 Ms. Wiles, whether she's above him, whether --how that process works? 
+4 
+5 A 
+Q Yeah. I think she's --she's effectively everyone's supervisor. 
+Okay. And when you say "everyone," understanding that you don't know 
+6 exactly who her employer may be or who actually pays her salary, when you say she's 
+7 supervising everyone, is it your understanding that she's supervising everyone at MAGA 
+8 PAC? 
+9 A I mean, everyone at MAGA --I don't know how to --I don't --it's not 
+10 like --this isn't like corporate America, you know. I know that that's --it would be so 
+11 much more satisfying if it was, but it's --you know, it's a --it's a leadership PAC, and 
+12 people provide certain services to this PAC, provide certain services to other PACs, 
+13 provide services --I just don't --
+14 Q No, that's very helpful. But if you can explain, like, when you say it's not 
+15 like corporate America, in what sense? In the sense that, well, they don't all have one 
+16 employer? They could be doing the job --like, can you unpack that for me because it's 
+17 
+18 helpful -­
+A There's people --there's people that volunteer their time. There's people 
+19 that are 1099 consultants. There's people that are W-2 employees. People move 
+20 around a lot, you know. 
+21 Q So, if I'm understanding you, I'm oversimplifying it when I say, quote, they're 
+22 working for MAGA because that makes it sound like one entity is employing all of them, 
+23 but it could be that they're collectively doing work for MAGA and paid by all --by 
+24 different organizations or structured differently and possibly not even be employees. Is 
+25 that a fair re-characterization?  26 
+1 A Yeah, I think --I mean, for some --some people might be employees. Some 
+2 people might have their own consulting businesses. I don't know whether --what 
+3 they're charging what clients, what they're doing. 
+4 Q So is it more accurate for me to say the work that they're doing for MAGA 
+5 PAC that Ms. Wiles is reviewing in some capacity? 
+6 
+7 A Yeah. I mean --go ahead. 
+Mr. Benson. Pardon me, pardon me. I mean, I think you're asking Mr. Cannon 
+8 for speculation. I don't know what the point of that is. 
+9 - I'm asking Mr. Cannon to clarify because he clearly has expertise in 
+10 this area, and in our attempts to be clear --and what I don't want to do is to accidentally 
+11 misstate something, to Mr. Cannon's point, if my experience in corporate America is 
+12 making it so that I'm not asking the question properly. 
+13 His explanation and clarification is very helpful. He provided, based on his 
+14 knowledge and expertise, a very helpful explanation that then prevents me from 
+15 miswording the question. So that was incredibly helpful. I didn't see it as speculation. 
+16 My understanding was, it was an explanation based on knowledge and expertise. 
+17 Mr. Benson. That is fine. You know, whatever you think is helpful is fine, but, 
+18 you know, it's calling --asking him to speculate who approves what, where, when 
+19 probably doesn't make a lot of sense. And I just want to remind you that --
+20 
+21 
+22 - No, I'm just asking for his understanding of the process. 
+Mr. Benson. --I want to remind you that we have a hard stop at 3 o'clock, so. 
+Yes, sir. I just want to --we wanted his understanding of the 
+23 process, and I think he's provided that. 
+24 
+25 Mr. Benson. Great. 
+BY  27 
+1 Q All right. Mr. Cannon, let's move forward to the formation of MAGA PAC in 
+2 February of 2021. Were you involved in that process, the formation or conversion of 
+3 Trump campaign to MAGA PAC? 
+4 
+5 A 
+Q I would've been aware of it, yeah. 
+And who handled it? Who was, you know --if you were aware, who was 
+6 the person who was actually handling the actual nitty-gritty of that work? Was that 
+7 outside counsel? 
+8 A I don't know how nitty-gritty it is. I think it's just filing a form with the FEC. 
+9 That would've been probably Red Curve. 
+10 Q And when the Trump campaign converted to MAGA PAC, were you aware of 
+11 the amount of money the Trump campaign had on hand, cash, from its post-election 
+12 fundraising? 
+13 
+14 
+15 
+16 A 
+Q 
+A 
+Q No, I don't believe so. 
+Is it fair to say the Trump campaign did have millions of dollars on hand? 
+I don't know. Whatever it would be, would be in an FEC report. 
+Now, prior to --prior to the administration --the conversion to MAGA PAC, 
+17 who on the campaign team was responsible for --let me rephrase that. 
+18 What involvement, if any, did you have in disclosures made to the FEC about what 
+19 an expense was? So, when you look at FEC reports, it indicates, here's what an expense 
+20 is. What involvement did you have, and if you weren't involved, who did you 
+21 understand to be involved from the campaign side? 
+22 A No, I wasn't reviewing FEC reports or filling in FEC descriptions. Are you 
+23 asking about the descriptions in the reports? 
+24 
+25 Q 
+A Yes, sir. 
+Yeah. The descriptions would've been probably done based on GL codes  1 that kick something out into a report. That would've been reviewed by, you know, 
+2 probably internally at Red Curve, and it would've been reviewed by Jones Day. 
+And when you say "GL code," what is a GL code? 
+A general ledger code. 
+Can you give us a little bit of detail how that works? 28 
+3 
+4 
+5 
+6 Q 
+A 
+Q 
+A No, I can't tell you how it works. I just know that there's a whole bunch of 
+7 codes that go in for certain types of expenditures, right, whether it's a legal expense or 
+8 whether it's, you know, an administrative expense, a supply expense. 
+9 Q So an expense comes in and when someone's putting it for the purposes of 
+10 an FEC disclosure, this is when they use this GL code? 
+11 A No. I think when it's getting processed for payment, there's a GL code 
+12 used. Again, I think this is something that Mr. Doll man probably could speak better to 
+13 than me. 
+14 Q Okay. And is there someone --are you aware of anyone, besides kind of 
+15 the accounts receivable folks or the kind of number crunchers, would you expect that 
+16 someone on the campaign who would have substantive knowledge of the expense would 
+17 be included in the process? Meaning, they would weigh in as to whether or not that GL 
+18 code was accurate? 
+19 
+20 A 
+Q Whether the GL code is accurate, no. 
+Or the use of it. Let me simplify. So what I'm trying to understand is that 
+21 an expense comes in, the campaign pays for something, $80,000. That then ends up on 
+22 a FEC disclosure form listed a certain way, right? 
+23 So someone at Red Curve, they don't work for the campaign, they can't say that 
+24 expense is, in fact, this thing to be disclosed. I'm trying to get an insight from you, to the 
+25 extent you have it, from an expense coming in, what's your awareness as to how that  29 
+1 ends up on an FEC disclosure as a certain item? 
+2 A I don't know the answer to that. I mean, I assume Red Curve gets the 
+3 invoices and they take a look at it. I mean, the treasurer has --you know, is the ultimate 
+4 party that has responsibility for the FEC report. So I assume there's a pretty significant 
+5 amount of diligence that takes place. This is how these people make their living. 
+6 They're professionals. 
+7 BY-
+8 Q When you're saying "treasurer," we're talking about Red Curve? I just want 
+9 to be clear that we're not misunderstanding when you say "treasurer." 
+10 
+11 
+12 
+13 A 
+Q 
+A 
+Q When I say "treasurer," I'm talking about Bradley Crate --
+Okay. 
+--who is listed on the Form ls. 
+Thank you. Okay. Because I continuously forget Mr. Doll man's title, and I 
+14 thought he was treasurer of DJTFP at one point. So I just want to make sure we're 
+15 talking about the proper treasurer. 
+16 A Okay. 
+18 the person responsible in doing the due diligence to ensure an FEC disclosure is true and 
+19 accurate? 
+20 
+21 
+22 
+23 
+24 Mr. Cannon. I mean, what do you mean by true and accurate, like what -­
+Mr. Benson. Alex, if you know. 
+Mr. Cannon. Him or someone on his team. 
+BY-
+Q And is it --to the extent that you know, because what we're trying to figure 
+25 out, presumably there's some interaction between the people who know what these  30 
+1 expenses are, because Mr. Crate is a separate entity. But are there people from Red 
+2 Curve who sit with the committee and have a substantive knowledge, or does the 
+3 committee give that information to Red Curve, if you know? 
+4 A During the campaign, the entire treasury team were Red Curve folks, I think, 
+5 maybe with the exception of Sean Doi Iman. 
+6 
+7 
+8 Q 
+A 
+Q Okay. So they sit in the sauce, so to speak -­
+Yes. 
+--seeing what the expenses are, and then they provide these GL codes. 
+9 And I think earlier you said something along the lines of, at some point there might be 
+10 Jones Day interaction with the Red Curve folks? Did I --
+11 A Yeah, there would've been --if there was ever a question about how 
+12 something was categorized, there would've been conversations with Jones Day. 
+13 Q Would Red Curve have those conversations, or would somebody from the 
+14 campaign or the committee have those conversations? 
+15 
+16 
+17 
+18 
+19 
+20 A 
+Q 
+A 
+Q 
+A 
+Q I don't know. 
+Okay. 
+It depends. 
+Okay. Could it be both? 
+Yeah, it could be both. 
+Okay. And so those conversations would happen, and then it's your 
+21 understanding that as treasurer, Red Curve would enter that information in the FEC 
+22 filings. That's their job as the treasurer? 
+23 A It creates a report. The reports are reviewed by outside counsel. They 
+24 get filed with the commission. 
+25 Q Okay. Got it.  1 That's helpful, Mr. Cannon. 
+2 All right, Mr. Cannon, and thank you for giving us --we're trying to be efficient 
+3 with your time, so we may take little moments here and there to make sure we're 
+4 moving at a good pace. 
+5 We're watching that 3 o'clock clock, I promise, so we're trying to be 
+6 effective. 
+7 
+8 
+9 Q Yeah. Yeah, we are. 
+All right, Mr. Cannon, I want to move ahead and talk --I think your counsel 
+10 has previewed that we want to talk a bit about the work with the National Archives and 
+11 the relation to some disclosed payments from MAGA PAC and get a sense of that with 
+12 you. 31 
+13 So can you tell us about when you first started working with --or MAGA PAC first 
+14 started working with 2M Management? When was that, about when? 
+15 A I'm not sure the exact date. It would've been sometime in, you know, first 
+16 or second quarter of 2021. 
+17 Q And what triggered that? 
+18 A There was a House Oversight investigation into the administration's COVID 
+19 response, and there were a large number of documents that were coming through that 
+20 needed to be processed. 
+21 Q Okay. So there's a request. Those documents are then --it's 
+22 President Trump's records --and then is Mr. Trump provide --given an opportunity to 
+23 review those documents before they're disclosed to the House committee? Is that 
+24 right? 
+25 A That's a summary of the Presidential Records Act.  32 
+1 Q Yeah. 
+2 As long as we got --
+3 BY 
+4 Q Okay. And can you briefly explain what it is that 2M Management does for 
+5 MAGA PAC? 
+6 A They're an e-discovery vendor. 
+7 Q So they do --effectively they review --a first level review of documents for 
+8 privilege and other related matters, something of the sort, and they process the 
+9 documents? 
+10 A Yeah. So you get, you know, 30,000 emails that need to be turned around 
+11 in 15 days, and they'll take a first cut through that. 
+12 Q And after, the second cut, then that's when --after the second cut, you or 
+13 Mr. Clark may come in, Justin Clark, and review those documents then? 
+14 
+15 
+16 A Correct. 
+BY 
+Q A moment ago you said the House Oversight into COVID Response, was that 
+17 the Select Committee on COVID, or was it a different committee? 
+18 
+19 
+20 
+21 A 
+Q 
+A Sorry. It was Select Committee on COVID. I apologize. 
+No. It's okay. I just wanted to clarify --
+I'm referring to you guys as the select committee. 
+Q We're not that select. There's actually multiple select committees as it 
+22 turns out. 
+23 
+24 
+25 A Yeah. I'm learning this. 
+BY 
+Q Yeah. So initially the MAGA PAC, or MAGA PAC/Elections LLC engaged 2M  33 
+1 to handle the response to the COVID Committee's request though, right? 
+Yes, sir. 2 
+3 A 
+Q Okay. At that initial time, so let's go, I believe your retained --the retainer 
+4 to 2M is dated April 14th of 2021. Public disclosure stating the first payment is --it's 
+5 March 30th of 2021. So, around the March/ April time, does that sound right, that's 
+6 when this process --around when this process was up and going with 2M? 
+7 
+8 A 
+Q Yeah, I believe so. 
+And you also produced a variety of documents related to conversations with 
+9 Melra (ph) that had to both do with the Select Committee on January 6th and with the 
+10 COVID Committee. It appears, on reviewing these documents and other information we 
+11 received, that for the first, at least through the summer if not late summer, the work that 
+12 2M was doing with regard to the National Archives records, all have to do with the COVID 
+13 Committee's request. Is that correct? 
+14 A Yeah, with respect to Archives. I don't remember when the first --when 
+15 the first request came in from January 6th, but, yes. 
+16 Q I believe --1 believe the first request was actually not the January 6th 
+17 Committee but a variety of House committees. But based on your production, I believe 
+18 the first notice of a production for January 6th was around August 30th --was on August 
+19 30th is what I note for the first production being ready. Does that sound consistent with 
+20 your memory? 
+21 
+22 A 
+Q Probably, yes. 
+Okay. Now, for the approval process regarding payments to 2M 
+23 Management, were you in charge of that? 
+24 A I mean, the invoices would've been sent to either me or Justin Clark. 
+25 Sometimes they were sent to Sean Dallman.  1 Q 
+2 with those? 
+3 
+4 
+5 
+6 
+7 A 
+Q 
+A 
+Q 
+A And when an invoice came in from 2M Management, what would you do 
+I'd review it. 
+And, if you approved it, what happened next? 
+I'd say it's approved for payment. 
+And who would you tell that to? 
+Someone on the treasury team. It would've either been Mr. --whoever 
+8 sent me the invoice. It could've been any number of people. It was usually either 
+9 Mr. Doi Iman or a young lady named Kalina (ph), and I'm blanking on her last name. 
+10 
+11 
+12 Q 
+A 
+Q And does Kalina (ph) work for Red Curve? 
+I believe so, but I'm not certain. 
+And, after that process, you approved it, did you have an understanding as 
+13 to what happened next? 
+14 
+15 A 
+Q No. I mean, it got paid. 
+Okay. Was there anyone else besides you that would have to approve it 
+16 before it got paid? 
+17 A Yeah, I think --I mean, that's what I'm saying. I think it --there was like 
+18 a --I think that there's approval level above Sean. I'm just not sure what it looks like. 
+19 
+20 
+21 Q 
+Q Okay. BY-
+And, just to be clear to that point, without going into the details and any 
+22 kind of work product, your review of it is because you are --Elections LLC is the counsel, 
+23 and you're reviewing it for substantive? Did they do the work? Like, is it consistent 34 
+24 with what we directed them to do? It's a substantive review of what they're billing you 
+25 for, correct? It's not approval for it to be paid; it's a confirmation that that was, in fact,  35 
+1 the work performed, and from our perspective, they did that? 
+2 A Yeah, that's correct. 
+3 Q Okay. The question of whether it gets approved to be paid or whether 
+4 there's any negotiation, anything beyond that, would be either somebody at MAGA PAC 
+5 or --I mean, I don't know that Red Curve does that, but that would be somebody else in 
+6 the process, right? 
+7 
+8 bills. 
+9 
+10 
+11 A 
+Q 
+Q If there's any --well, I mean, yeah, I'm not aware of any negotiation on 2M 
+Okay. 
+BY 
+Okay. Now, Mr. Doi Iman, we've looked at the --and I think it's clear what 
+12 the focus of our inquiry here, what we want to gain an understanding from you. We've 
+13 looked at the FEC disclosures related to the payment that 2M Document Management, 
+14 what we are calling 2M, and those FEC disclosures indicate how the --for the vast 
+15 majority of these expenses indicate a disbursement description of recount research 
+16 consulting and are all labeled as recount. 
+17 Is that something you were aware of at the time, that they were being labeled as 
+18 such for FEC purposes? 
+19 A Are you saying that every 2M bill is labeled as recount? I don't think that's 
+20 the case. 
+21 Q No, I'm not saying that. I'm saying the vast majority, and the ones that are 
+22 not labeled recount research consulting are labeled research consulting. And I'm happy 
+23 to show you a summary if that's helpful. 
+24 
+25 A 
+Q If you want to show it to me, I'm happy to take a look at it. I don't know -­
+Sure. I'll show you what we've marked as exhibit 5. This is basically an  36 
+1 export of the FEC payments that MAGA PAC has made to 2M Management to the present 
+2 day that have been disclosed. 
+3 
+4 A 
+Q Okay. 
+So you can see, it has under "disbursement description," it has --that's 
+5 what's been provided to the FEC. And then the FEC documents, as we understand them, 
+6 allow for an indication when something is recount --is a recount expense, as we've been 
+7 discussing earlier with the recount account, and here it indicates for those items that 
+8 have been labeled recount research consulting or labeled also recount. 
+9 And then some items, starting in March of this year, do not have a recount label, 
+10 instead are just labeled as research consulting. So, going back to last year, when these 
+11 disbursements begin, were you aware that these, at the time they were disclosed, were 
+12 being labeled as recount research consulting? 
+13 
+14 
+15 
+16 A 
+Q 
+A 
+Q I don't know. 
+As in you don't recall? 
+Yeah, I don't recall what my knowledge was at the time. 
+Okay. Prior to me just telling you this, were you aware that the FEC 
+17 disclosures labeled the payments to 2M as recount? 
+18 
+19 
+20 
+21 
+22 
+23 - Wait a minute. 
+Okay. I think your lawyer might've --
+1 think Mr. Benson got kicked out. Hold on one second. 
+Dan, are you back in? 
+Mr. Benson. Yeah. Now I can --I'm back in now. 
+Okay. How long were you gone? Anything --did you 
+24 miss --I don't know how long you were out for. 
+25 Mr. Benson. Like a minute, I guess, something like that. Right before you put  37 
+1 up this document, I think. 
+2 All right. So, just to catch you up, Dan, what I pointed 
+3 out so far is that there's a column that says "disbursement description." It says "recount 
+4 research consulting," and I asked Mr. Cannon whether at the time, going back to March of 
+5 last year, whether he was aware that the FEC disclosures listed the payments to 2M as 
+6 recount. And Mr. Cannon said --
+7 
+8 Mr. Cannon, you want to tell us again what your answer to that was? 
+Mr. Cannon. Yeah, I just don't recall at the time, you know, whether I knew they 
+9 were being --it was recount or not recount at that time. 
+10 BY 
+11 Q I just want to draw a distinction. Are you saying you don't recall whether it 
+12 was disclosed as such, or you don't recall whether or not it had anything to do with 
+13 recount? I wanted to see how broad of a response you gave me. 
+14 A All of the above. I mean, I just don't --I'm not involved in that level of 
+15 granularity with respect to how things get reported. 
+16 Q Okay. Are you involved with respect to where the funds are coming from 
+17 that pay for 2M services? 
+18 
+19 A 
+Q I mean, again, to the best of my knowledge --
+And, just to be clear, I'm not asking you whether something is justifiably 
+20 labeled as something or not. I'm just asking, do you have knowledge as to where these 
+21 funds are coming from? 
+22 A At a certain point, probably, but I mean, we would've had broad discussions, 
+23 and I don't recall those discussions, but they would've involved outside counsel. 
+24 Q Now, earlier you --we saw that you were aware that the campaign had a 
+25 recount account that you referenced with Ms. Mitchell, and you reference it in other  38 
+1 documents. Are the funds that are being paid to 2M here, did any of those funds come 
+2 from that account? 
+3 A If it's labeled recount, I would assume so, but I mean, I'm not tracking 
+4 dollars. 
+5 Q And, when you say you assume so, is that because you assume that it's 
+6 being --
+7 
+8 
+9 this? 
+10 
+11 
+12 
+13 
+14 A I assume the accuracy of the report. 
+Mr. Benson. Pardon me, Alex. Do you have personal knowledge of that --of 
+Mr. Cannon. Of the report? 
+Mr. Benson. Of the question --of the answer to the question. 
+Did they just freeze? 
+Mr. Cannon. No, I'm here. I don't know if Dan froze. 
+Mr. Benson. I'm here. Can you hear me? 
+15 Mr. Cannon. Sitting here right now, I do not know exactly the discussions that 
+16 took place on how 2M's bills would be allocated. But I'm --that's it. 
+17 BY 
+18 Q Sorry, sir. Can you repeat that again? So sitting here today, you're not 
+19 aware of what? 
+20 A I'm not aware of any specific bill or --I'm aware that discussions took place. 
+21 I can't get to any level of granularity with you on, like, specific bills and specific --you 
+22 know, what was allocated to what. I just have to assume that what you guys put up, 
+23 which is something that you all created based on an FEC report, is accurate. 
+24 
+25 Q Well--
+I'm sorry. When you say you're aware that discussions took place,  39 
+1 can you unpack that? What do you mean you're aware that discussions took place?  40 
+1 
+2 [2:00 p.m.] 
+3 Mr. Cannon. As I said from the beginning, every expenditure that was made out 
+4 of the recount fund was consistent with advice that we received from outside counsel, 
+5 and that outside counsel was Jones Day. 
+6 BY 
+7 Q Okay. Oh. All right. So you're saying, based on reviewing what we put 
+8 in front of you that said "recount:", based on your understanding of how every 
+9 expenditure from the recount fund would go, there would have been some discussion 
+10 between Red Curve --or, excuse me, I don't want to put words in your 
+11 mouth --somebody at MAGA PAC and outside counsel? Is that fair? 
+12 
+13 
+14 A 
+Q 
+A Not for every line item. 
+No, no. I'm --
+Every time you get legal advice from somebody, you don't go back and ask 
+15 for it again, right? You get advice and you follow the advice. 
+16 Q Okay. So --and that's what we're trying to unpack. 
+17 So what you said a moment ago, "aware of discussions," it's based on your 
+18 understanding that for recount expenses there's at least one discussion had as to 
+19 whether, we'll say, a certain type of expense could be qualified as that. And so your 
+20 understanding is there would've been discussions with Jones Day outside counsel at least 
+21 one or more times about those expenses because it says "recount"? 
+22 
+23 A 
+Q Correct. 
+Okay. 
+24 And if I'm understanding you, you're not in those discussions; you just understand 
+25 the process enough to know, if it says "recount," at some point there would've been a  41 
+1 discussion between Jones Day and somebody at MAGA PAC. 
+2 A I mean, I'm not going --again, I'm not going to get into the substance, but I 
+3 think you're putting words in my mouth by saying I was not involved in any of those 
+4 conversations. 
+5 Q Oh, no, no. Sorry. That was the impression I got when you said you had 
+6 an awareness. If you were involved in those conversations, correct me. I just got the 
+7 impression you weren't. I'm not trying to put words in your mouth. 
+8 
+9 
+10 Were you involved in those conversations? 
+A 
+Q Yes. 
+Okay. So your awareness of those conversations comes from being 
+11 involved in the conversations with people at MAGA PAC and Jones Day about what could 
+12 be used for recount expenses. 
+13 
+14 
+15 
+16 A 
+Q 
+Q Correct. 
+Okay. 
+BY 
+And, Mr. Cannon, when we see disbursements being labeled as "recount" in 
+17 FEC disclosures, it's your understanding that that indicates that that would've been paid 
+18 from what we've been calling the recount account. Is that fair? 
+19 
+20 A 
+Q I believe in the accuracy of the reporting. 
+And so, based on that belief, is what I said then accurate, that, based on your 
+21 belief, that these disclosures are indicating that the payments came from what we've 
+22 been calling the recount account? 
+23 A If that document you put in front of me --it's not an FEC report. That's a 
+24 summary you guys had put. 
+25 Yeah. It's -- 42 
+1 Mr. Cannon. You're asking me to verify one of your documents that you've 
+2 created. 
+3 BY 
+4 
+5 
+6 
+7 
+8 Q 
+A 
+Q 
+A 
+Q Well, it's just the export Excel from FEC. You know how you export -­
+Okay. I mean, I don't know that. It's not our report, right? 
+No, no --
+You're not showing me portions of the report. 
+Right. No, I'm telling you that just so you feel more comfortable about 
+9 what we're showing you, that it's just the export function of the FEC website. It's just, it 
+10 comes in an Excel, and we made it into something that was understandable, because the 
+11 columns are kind of ugly. So it's just something that's easier for your eyeballs to see, but 
+12 it's an export of FEC data, effectively. 
+13 A Okay. Yeah. If that's all correct and it shows that it's recount, then, yes, it 
+14 would be my understanding that it'd be paid out of recount. 
+15 Q Mr. Cannon, if you'd feel more comfortable, it's a little trickier and it's not as 
+16 pretty, but we can pull up the FEC website and use that. I mean, I don't want you to 
+17 have any concerns about that. It's just easier on the eyes in the format that we put it 
+18 into, an Excel spreadsheet. 
+19 But I don't want you to have any concerns about where that data is coming from 
+20 or its accuracy. So if you --I'm cognizant of the time, but I also want you to be 
+21 comfortable with what we're showing you. So if you'd like us to do that, we are happy 
+22 to do that. 
+23 A Well, no, I think I've answered the question. If it's labeled on the report as 
+24 "recount," it's my understanding it would've been paid out of recount. 
+25 Q Okay.  43 
+1 And just to be clear --because I think you've made this clear --because it said 
+2 "recount," not on every single expense, but you would've consulted with Jones Day about 
+3 whether it could be qualified as such? 
+4 
+5 
+6 
+7 A 
+Q 
+Q There were conversations with Jones Day. 
+Okay. 
+BY 
+Now, Mr. Cannon, we also talked --you provided a variety of invoices related 
+8 to work from 2M Management, and I just want to briefly go over some of those items and 
+9 just get a sense of --without getting into privileged conversations with counsel, but just 
+10 so we can get a sense of what you meant by some of the labels on some of these 
+11 redactions. 
+12 So, starting with --there are a variety of retainers that you produced paying an 
+13 initial fee --initial amount. The first payment, according to FEC disclosures, is for 
+14 $650,000. But then there are what appear to be $100,000-a-month retainers being paid 
+15 to 2M Management. Is that correct? 
+16 
+17 A 
+Q That's correct. 
+And when we look at those payments going in March and then May and 
+18 going through the summer, those payments would've been in regards to responding to 
+19 the COVID committee's request to NARA. Is that right? 
+20 A 
+21 of work. 
+22 
+23 Q 
+A I don't know what other work they were doing now. I mean, 2M does a lot 
+2M does a lot of work for MAGA PAC you're saying? 
+Yeah. I mean, we have civil litigations that are ongoing, one of which 
+24 relates to the Coomer case, right, which is a defamation case that a Dominion employee 
+25 brought. There are technology fees. There's research projects that they undertake.  44 
+1 I mean, you know, all these questions are --you're going down a path where 
+2 you're really starting to call for privilege here on a whole host of issues. 
+3 I did my best to provide you guys with information that you needed to do the 
+4 math exercise that I understand you wanted to without waving privilege that's not mine 
+5 to wave. 
+6 And that's very helpful. And we definitely want to --I mean, we may 
+7 not necessarily agree where the parameters of the privilege are, but to the extent that 
+8 you feel that they're somewhere, like, we definitely, you know, want to have that 
+9 discussion. It's obviously not our intention to go into privileged material. We may not 
+10 agree on where the privilege line is, but we certainly want to approach it with caution and 
+11 have that discussion if that comes up. 
+12 BY 
+13 Q Now, Mr. Cannon, it's our understanding from our investigation thus far 
+14 that, while 2M did other work, the vast majority of work that MAGA PAC has been billed 
+15 for through the summer is related to the COVID committee's request. 
+16 Do you have any reason to think that that's not accurate? 
+17 A I just don't know exactly everything they were doing at that point. I mean, 
+18 we may have brought them on to do some research as well into some of the stuff that 
+19 happened on January 6th. 
+20 
+21 
+22 
+23 
+24 Q 
+A 
+Q 
+A 
+Q When you say you may have, is that something that you're recalling? Or -­
+Yeah, recalling --I'm --
+--when you say "recalling" -­
+I'm recalling that. 
+Okay. So you're saying in the summer there was work that 2M was 
+25 brought on to research regarding what happened on the 6th?  45 
+A Yeah, I mean, after the COVID stuff. 1 
+2 Q Now, when you say "after," when that was complete, or --I just want to get 
+3 a sense of just timing. 
+4 
+5 A I don't know. 
+These guys are really, really good. These guys are really good. They do a lot of 
+6 work for us. It falls into different categories. We do our best to categorize it 
+7 appropriately. 
+8 That's it. 
+9 
+10 Q Okay. 
+Now, starting in November of 2021 --you provided an invoice that's labeled 
+11 "November 18, 2021," that has a redaction, "COVID NARA." And then, from then on, we 
+12 then have a variety of different --it looks like the items start being broken out. Like you 
+13 just said, you were doing your best to break them out. 
+14 Is it fair to say that initially MAGA PAC was paying just a pure retainer but then 
+15 later on attempted to break out the work by invoice? 
+16 A Yeah, I think as they started to take on more work, we started to ask them to 
+17 create additional sub-matters. 
+18 Q Okay. And so when we see redacted "COVID NARA," for example, did that 
+19 relate to a request from the COVID committee for documents from the National 
+20 Archives? 
+21 
+22 A Yes. 
+Q And when we see "civil litigation/other," does that refer to, like, the 
+23 Dominion case you just talked about, other litigation that the campaign might be involved 
+24 in that may be something else but it's just pure civil litigation, not related to NARA? 
+25 A Correct.  1 Q And when we see "J6 NARA" listed in some, is that request from the 
+2 subcommittee on January 6th to NARA for documents and their work related to 
+3 processing those documents? 
+4 
+5 
+6 A 
+Q 
+A Correct. 
+And when we see "J6 other," what does that relate to? 
+So they may be processing documents and have relationships with people 46 
+7 who are represented by counsel that came in and produced documents to you guys --or 
+8 to your committee. 
+9 Q So, for example, if our committee asked a Trump 
+10 campaign employee --former employee for documents, MAGA PAC may have paid their 
+11 expenses of processing those documents in order to be produced to the Select 
+12 Committee on January 6th? 
+13 
+14 A 
+Q They may have paid for those expenses, yeah. 
+Okay. And when those expenses were approved --let's call them the 
+15 third-party witnesses --were you involved with approving those expenses? 
+16 A I mean, I would see the invoices, right? But I have no visibility into what 
+17 outside counsel was doing with 2M or counsel for a third party was doing with 2M. 
+18 Q So, if someone from MAGA PAC, for example --this is just a 
+19 hypothetical --Mr. Dallman has his documents produced through 2M Management, do 
+20 you or anyone else at MAGA PAC have ability to see Mr. Dollman's documents or 
+21 otherwise involved substantively in that process? 
+22 A No. No, we wouldn't see the documents that would be processed. That 
+23 would be --I would never do that. 
+24 BY-: 
+25 Q Real quickly, is there an approval process? If a third party wants to use 2M  47 
+1 and have MAGA PAC cover the expense, how would a third-party witness go through that 
+2 process or get approval to be --
+3 
+4 
+5 A 
+Q 
+A In the same way that they would get, you know, legal fees paid, right? 
+What is that process, to the extent that you know? 
+I mean, you know, it can come in from multiple angles. It could be 
+6 somebody calls Susie, somebody calls Sean, somebody calls Justin. We ask Susie, is this 
+7 something that, you know, we're willing to help this person out? There's a process. A 
+8 lot of that process is privileged too, right? 
+9 Q Well, actually, usually, the information on who's paying attorney fees isn't 
+10 privileged --
+11 A No, but the process and how we make a determination on whether or not an 
+12 individual is going to have their --gets an assistance is privileged. 
+13 Q And, to be clear, I'm not asking about your internal deliberations as to how 
+14 you decide whether to do that. I was asking in terms of the general process. 
+15 Sounds like you say somebody reaches out to, I think you identified Susie, 
+16 Justin --I don't remember who the other person was --Sean? 
+17 
+18 
+19 
+20 
+21 A It may be me; it may be Sean. I mean, somebody says: Hey, I got 
+contacted by the committee. You know, they want documents. 
+testify. Do you guys have --is there any money --I have counsel. 
+pay my legal bills? 
+Q Okay. They want me to 
+Can you guys help 
+22 And presumably some people may want help with attorney's fees and e-discovery, 
+23 and some people may have counsel and just want e-discovery, and that's just --do they 
+24 decide that? Do you decide that? 
+25 A We have a vendor that is doing a ton of work. And if they want to use the  48 
+1 vendor, it's fine that they use the vendor. That's it. I mean, that's what it comes down 
+2 to. 
+3 Q Okay. 
+4 And then, without getting into the deliberations, there is a process that they can 
+5 go through to request whether MAGA PAC will cover the expenses of that vendor? 
+6 A Yeah. If it's a --if it's --I mean, yeah. I mean, again, like I said, we have a 
+7 vendor. We already have a vendor. It's incredibly expensive to stand one up. They 
+8 have done e-discovery work in connection with your committee --
+9 
+10 
+11 Q 
+A 
+Q Okay. 
+--for other individuals who were represented by counsel. 
+And without going into --you know, again, we just want to make sure that 
+12 when you say redact---the classifications that we just went over, those are --actually, I 
+13 think we're going to talk about --let me retract that. 
+14 Go back onto your --I want to be cognizant of the time and I don't want to get us 
+15 off track, so --
+16 Mr. Cannon, if you could give us just 2 minutes. 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 Mr. Cannon. All right. I'm going to run to the restroom. 
+Let's take just a couple-minute break. 
+Thank you, sir. 
+[Recess.] 
+Mr. Cannon, are you ready to go? 
+Mr. Cannon. Yeah. I want to just clarify one thing just so that we're clear. 
+2M was only doing COVID work when they started. That was what we initially 
+25 hired them for. But we were doing and asking them to do quite a bit of research, you  49 
+1 know, into the events that occurred on January 6th, as well, and get an understanding of 
+2 what was out there and what was in the public. 
+3 And, you know, that's all work product; that's all privileged. But they were doing 
+4 quite a bit of research for us as well, which is why the retainer, frankly, says it's research. 
+5 BY 
+6 
+7 
+8 
+9 
+10 Q 
+A 
+Q 
+A 
+Q So, I guess, question: Who would've given them that instruction? 
+I mean, it would've come from, you know, me. 
+You alone, or could it have come from Mr. Clark? 
+Yeah, I mean, you know, we worked together. 
+Okay. And, to be clear, when you say "it would've come from me," do you 
+11 remember giving that instruction? 
+12 
+13 A 
+Q I mean, I remember talking to them about doing research, yes. 
+And would you have had that conversation with Matt Clarke, or would you 
+14 have had that conversation with anyone else at 2M? 
+15 A It would've been --Matt's the person I talk to at 2M, unless there's, like, a 
+16 technical issue that I don't understand. 
+17 Q Okay. So your instructions regarding what 2M should've been doing from 
+18 the beginning would've been from you directly to Matt Clarke? 
+19 A I mean, or Justin Clark. Yeah. I mean, we had conversations about the 
+20 scope of their engagement. 
+21 
+22 Q Okay. 
+And you kind of opened this door, so I don't want to go too far in, and I'm trying to 
+23 keep it to where you've opened it. But would you have emailed those instructions to 
+24 him or would you have had verbal conversations about what the scope of their research 
+25 should've been?  1 
+2 
+3 
+4 A 
+Q 
+Q 
+5 research? 50 
+It would've been all verbal conversations. 
+Okay. 
+BY 
+And when you say "research," what does that mean? Open-source 
+Correct. 6 
+7 
+8 A 
+Q 
+A So, effectively, like, just searching online what was happening with the 6th? 
+I mean, I'm not going to get into the details of what they were researching, 
+9 but it would have involved on line research, yes. 
+10 Q Well, I guess what I'm --your suggestion seemed to be that 2M --that it's 
+11 labeled "research consulting" because they were doing research. But 2M is an 
+12 e-discovery company, correct? 
+13 
+14 A 
+Q That is --that is one of the services that they perform, yes. 
+That is the service that they're --that is the core of what Matt Clarke 
+15 provides to clients, is it not? 
+16 A No, I can't speak to all of his other clients, but that is a lot of the work they 
+17 do for us. They also do some research for us. 
+18 Q And the vast majority of the work they do for you is related to their 
+19 e-discovery tools, correct? 
+20 
+21 
+22 A 
+Q 
+A That's the vast majority of my interactions with them. 
+Yeah. Is there anyone else --
+1 don't know what they're doing behind the scenes. I mean, you guys 
+23 are --like, you're really asking a lot of questions about, like, how we're looking at what 
+24 happened on January 6th, and it's --we're not trying --I'm not trying to pull the wool over 
+25 anybody's eyes. I'm trying to be as helpful as I can here.  51 
+1 No, we understand that. We're trying to understand certain things, 
+2 and we're trying to --we're trying to understand certain things, but we're also trying to 
+3 kind of, like, reconcile things that may or may not be consistent or inconsistent. And, to 
+4 your point earlier, sometimes we think we understand it and somebody says, "Well, this 
+5 process is different," or somebody says, "Well, you have the wrong person; you should 
+6 really ask this." 
+7 So I understand what you're saying. You introduced, a moment ago, the 
+8 explanation that you asked them to do research, which is quite different than what we 
+9 had earlier understood you to be saying, which was that they're an e-discovery company 
+10 that reviews documents and is, I would say, reactive to requests, not necessarily proactive 
+11 in doing research. 
+12 And so what you just said was somewhat of a shift, and so we're trying to 
+13 understand the information that you just provided versus what it sounded like you were 
+14 saying earlier. 
+15 Mr. Cannon. No, I think I provided that information prior to the break as well. 
+16 did say they were doing some research. That's it. 
+17 
+18 Q BY 
+Yeah. I think what -is referring to is that you seemed to suggest 
+19 that the reason the FEC disclosures have "recount" and "research consulting" is because 
+20 2M was doing research. And the information that we've received is that the reason why 
+21 2M was paid millions of dollars by MAGA PAC was not because it was doing research; it 
+22 was because it was doing very important e-discovery work, needed to process a lot of 
+23 documents. 
+24 
+25 A 
+Q That is correct. 
+Okay. So -- 52 
+Both of those things can be true at the same time. 1 
+2 A 
+Q Yeah. But we want to clarify, when you reference "research," any research 
+3 would've been a minority, more marginal part of the work that 2M was doing for MAGA 
+4 PAC. Is that fair? 
+5 
+6 
+7 A 
+Q I can't say on day to day. I don't know. 
+BY 
+Given what you just said about the work that you were asking them to do for 
+8 research at the beginning, what was your understanding of the part of that that was 
+9 recount-related? 
+10 
+11 A 
+Q Because it all had to do with January 6th and the events of January 6th. 
+And your understanding is that if something has to do with the events of 
+12 January 6th it can be qualified as recount? 
+13 A 
+14 Correct. 
+15 
+16 
+17 Q 
+Q That is not inconsistent with my understanding from outside counsel. 
+Okay. 
+BY 
+And, just to be clear, is it also your understanding that --was it consistent 
+18 with your understanding from outside counsel that something that had to do with 
+19 responding to the COVID committee could also be labeled as research --I mean, as 
+20 recount-related? Is that also part of that same understanding? 
+21 
+22 A 
+Q I don't recall discussing the COVID committee with outside counsel. 
+I want to move to just understanding the different folks' role. In these 
+23 matters we've been discussing with 2M, what was Justin Clark's role in all of this? 
+24 
+25 A 
+Q I mean, he was counsel. 
+I understand, but with regard to the work with 2M and the approval process,  53 
+1 what was he doing? Was he assisting you in the same kind of capacity of overseeing --
+2 A Yeah. We're colleagues. We work on everything --we work on stuff 
+3 together. Not everything together. We work on stuff together though. 
+4 BY 
+5 Q Would you say that you have the primary responsibility on maintaining the 
+6 relationship with Mr. Clark and 2M? 
+7 A I don't know. I don't know how much he talks to --how much Justin talks 
+8 to Matt Clarke. I talk to Matt Clarke fairly frequently. I don't know how often Justin 
+9 speaks to him. 
+10 Q I only asked because, a moment ago when I asked, I was trying to 
+11 understand from your reaction --we're just trying to gauge, sometimes people have, like, 
+12 a contact partner or a contact that they interact with. We were just trying to figure out, 
+13 are you the relationship partner for 2M or do you both talk to him equally. We're just 
+14 trying to understand who's the more frequent contact with 2M. 
+15 
+16 
+17 A 
+Q It's probably me. 
+BY 
+And Mr. Clark has been involved from, is it fair to say, the conversion of 
+18 MAGA PAC to the present day with --he's still involved with MAGA PAC; is that right? 
+19 
+20 
+21 
+22 A 
+Q I mean, through elections. 
+Okay. 
+What about Mr. Doi Iman? Is he still doing work with MAGA PAC? 
+A I don't know Mr. Dallman --I mean, I think he's at Red Curve. I'm not sure 
+23 what his employment relationship is right now. 
+24 Q Did Mr. Kushner have any involvement, as far as you're aware, with the 
+25 approval of expenses or expenditures from MAGA PAC?  1 
+2 
+3 
+4 A 
+Q 
+A 
+Q Probably during the --well, from MAGA PAC? So post-conversion? 
+Yeah. 
+No, I don't believe so. 
+Any other members of the Trump family that you're aware of having any 
+5 involvement post-conversion with MAGA PAC and its expenditures? 
+6 
+7 A 
+Q No, not to my knowledge. 
+Just quickly, Mr. Cannon, some of the documents you provided, they're 
+8 just --you provided an extensive amount of documents, but there are some documents 
+9 that seem to be missing, and I just want to get a sense from you whether there was a 
+10 reason why they're missing or whether it was by chance. 
+11 For example, there are letters that President Trump drafted to NARA regarding 54 
+12 the January 6th Committee's productions, whether objections, things of that nature, but I 
+13 don't believe we have any letters related to the COVID committee. Are you aware of 
+14 President Trump drafting any letters to them? 
+15 A No. I mean, this is all --no. Those letters were sent by Mr. Clark. They 
+16 don't require --right now, the COVID committee is not requiring a formal assertion of 
+17 executive privilege under the PRA. The letter from counsel is sufficient for them. 
+18 
+19 Q 
+A Okay. That's helpful. 
+And, I mean, it really is going to the Archivist, right? And then the Archivist 
+20 consults with the Biden administration, and that's how a determination is made. 
+21 
+22 Q Yeah. 
+If you could just give us a moment, Mr. Cannon. We're trying to be efficient here 
+23 and see what else we have for you. 
+24 
+25 A 
+Q That's okay. 
+Mr. Cannon, we're nearing the end. I just want to give Mr. Aguilar, who's  1 with us --whether he has any questions or anything else he wants to put forward. 
+2 
+3 
+4 Mr. Aguilar. I don't, guys. I'm good. Thank you. 
+Okay. Thank you, sir. 
+All right, Mr. Cannon, before we go, just one last question is with regard to your 55 
+5 attorney's fees. Are you paying your own attorney's fees, or is that being paid by a third 
+6 party? 
+7 Mr. Cannon. I have not discussed my arrangement on attorney's fees with my 
+8 counsel. 
+9 
+10 
+11 - l'msorry? 
+Mr. Benson. Mr. Cannon's fees are not being paid by anyone. 
+Well, I don't think that's what he said. He said he hasn't 
+12 discussed them with you, Mr. Benson. 
+13 So, Mr. Cannon, I guess, when you say you haven't discussed them with your 
+14 lawyer, the question would be more so, who is paying your attorney's fees? 
+15 Mr. Cannon. No one's paying my attorney's fees. 
+16 So is it fair to say that you're paying your own attorney's 
+17 fees? 
+18 Mr. Cannon. It is --Mr. Benson is undertaking this work on, I guess you could call 
+19 it, a pro bona basis. 
+20 - Oh, okay. 
+21 Got it. 
+23 what you were trying to say. 
+24 Mr. Cannon. No, you're jumping me on something, and I've got my wonderful 
+25 attorney here, and we have not had a discussion about that. I am -- 1 
+2 Does he know he's doing it pro bona, or is it pro bona now? 
+Mr. Cannon. That's the issue, right? And I'm absolutely serious about that. 
+3 Like --that's all. 
+4 Okay. 
+Mr. Cannon. We have not had that --56 
+5 
+6 - No, I know. I've been at that dinner where you think they're paying, 
+7 but then it's unclear, and then it's like the check hasn't come yet. So I totally get it. 
+8 totally get it. 
+9 
+10 
+11 Mr. Benson. Alex will have to take me out to dinner. Let's put it that way. 
+Mr. Cannon. Okay. 
+- And, to be clear, we ask this --well, we try to remember to ask this of 
+12 all --this is not a specific --we ask this of all witnesses. It's not privileged information, 
+13 who's paying your attorney's fees. So I don't want you to feel, you know, that this is 
+14 something special to you. We try to ask everyone. So we just didn't ask you last time, 
+15 and we noticed that after the fact, so that's why we were following up this time. 
+16 So we would just ask that, to the extent that that changes and the answer is that 
+17 Mr. Benson is no longer doing this pro bona, we do not want to have --if the information 
+18 subsequently changes and we don't have another interview with you, we would just ask if 
+19 you would voluntarily correct that. Because if for some reason it's a fact in the 
+20 investigation that later for some reason becomes different, we would like you to have the 
+21 opportunity to correct that if it changes, if that makes sense. 
+22 
+23 Mr. Cannon. No, I understand the request. 
+24 All right, Mr. Cannon, we are done early, so we've got 
+25 21 minutes.  57 
+1 Any questions that you have for --no. 
+2 You know, if you want to hang out, we're happy to stay on 
+3 with you, Mr. Cannon, if you want to spend some time with us. 
+4 Now that we know Dan's free, we'll keep you --
+5 
+6 
+7 
+8 
+9 Yeah. We'll --
+Mr. Benson. You guys can come to the dinner with me and Alex. 
+Mr. Cannon. We'll do it in Atlanta,. You can visit your family. It'll be fun. 
+All right. I mean, if Dan's paying, I'm calling bones. 
+Mr. Cannon, thank you for taking out the time again. We 
+10 know these are not great ways to spend one's afternoon, getting questioned, so we 
+11 appreciate you for taking out the time. 
+12 If at any time you want to correct anything or you remember something or you 
+13 think that for any reason we should know something, please don't hesitate to reach out. 
+14 We want to make sure we get this correct. So, please, if at any time you want us to 
+15 know something, please reach out to Dan, and he can let us know. 
+16 Otherwise, we will go off the record here. 
+17 Thank you both. 
+18 Thank you to our court reporters as well. 
+19 
+20 
+21 
+22 Mr. Cannon. Thank you. 
+Mr. Benson. Thank you. 
+Thank you both. Have a great day. 
+[Whereupon, at 2:40 p.m., the interview was concluded.]  1 
+2 
+3 Certificate of Deponent/Interviewee 
+4 I have read the foregoing __ pages, which contain the correct transcript of the 
+5 answers made by me to the questions therein recorded. 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 Witness Name 
+Date 58 

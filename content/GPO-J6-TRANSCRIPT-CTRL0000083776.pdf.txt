@@ -1,0 +1,1889 @@
+1 
+2 
+3 
+4 SELECT COMMITTEE TO INVESTIGATE THE 
+5 JANUARY 6TH ATTACK ON THE U.S. CAPITOL, 
+6 U.S. HOUSE OF REPRESENTATIVES, 
+7 WASHINGTON, D.C. 
+8 
+9 
+10 
+11 DEPOSITION OF: JOHN MATZE 
+12 
+13 
+14 
+15 Wednesday, May 25, 2022 
+16 
+17 
+18 
+19 
+20 Washington, D.C. 
+The deposition in the above matter was held via Zoom, commencing at 2:05 p.m. 1  1 
+2 Appearances: 
+3 
+4 
+5 For the SELECT COMMITTEE TO INVESTIGATE 
+6 THE JANUARY 6TH ATTACK ON THE U.S. CAPITOL: 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 , SENIOR ADMINISTRATIVE ASSISTANT 
+PROFESSIONAL STAFF MEMBER 
+INVESTIGATIVE COUNSEL 
+INVESTIGATIVE ANALYST 
+CHIEF CLERK 
+15 For THE WITNESS: 
+16 
+17 BRIAN KELLY 
+18 LAUREN MAYNARD 2  1 
+2 - Good afternoon, everyone. We can go on the record at 2:05 p.m. 
+3 This is a deposition of John Matze conducted by the House Select Committee to 
+4 Investigate the January 6th Attack on the United States Capitol pursuant to House 
+5 Resolution 503. 
+6 At this time, Mr. Matze, can you please state your full name and spell your last 
+7 name for the record? 
+8 The Witness. Yes. John Edward Gerard Matze, and the last name is spelled 
+9 M-a-t-z-e. 
+10 - Thank you for the pronunciation, too. 
+11 At this time, Mr. Matze, can you please raise your right hand to be sworn by the 
+12 official reporter? 
+13 The Reporter. Do you solemnly declare and affirm under the penalty of perjury 
+14 that the testimony you are about to give will be the truth, the whole truth, and nothing 
+15 but the truth? 
+16 The Witness. I do. 
+17 - Thank you. 
+18 So this is going to be a staff-led deposition, although members of the select 
+19 committee may, of course, choose to enter and ask questions. I'll note at the time that 
+20 we are starting the deposition there are no members in the Zoom, although some may 
+21 join. 
+22 My name is- investigative counsel. Other select committee staff 3 
+23 joining today are investigative analyst; professional staff 
+24 member; and senior administrative assistant. And as I said, there are 
+25 currently no members in attendance.  4 
+1 I would like to note for the record that what has been previously marked as 
+2 exhibit 1 is the subpoena for Mr. John Matze, which is dated April 29, 2022. The House 
+3 deposition rules are included in this exhibit and were provided to you upon service of the 
+4 subpoena. 
+5 Under House deposition rules you are permitted to have an attorney present. 
+6 So at this time, I would like to ask counsel for the witness to state their names for 
+7 the record. 
+8 Mr.~ Sure. Brian Kelly and Lauren Maynard of Nixon Peabody on behalf of 
+9 Mr. Matze. 
+10 
+11 - Great. Thank you. 
+I also want to remind you, as we do with all witnesses, that it's unlawful to 
+12 deliberately provide false information to Congress. Providing false information to 
+13 Congress could result in a criminal penalty, including for perjury and/or providing false 
+14 statements. 
+15 Under House deposition rules, you may only refuse to answer a question to 
+16 preserve a privilege recognized by the select committee. If you refuse to answer a 
+17 question based on a privilege, staff may either proceed with the deposition or seek a 
+18 ruling from the chairman on the objection. If the chairman overrules your objection, 
+19 you will be required to answer the question. 
+20 I'll note for the record that we received a letter from your attorney on Monday 
+21 regarding your objections based on the Fifth Amendment. The letter has been marked 
+22 as exhibit 7, and will be entered into the record. 
+23 I've noted in correspondence with your counsel, Mr. Kelly, that the select 
+24 committee still expects you to appear for this deposition today, and invoke the Fifth 
+25 Amendment for any questions that you believe implicate potential self-incrimination  5 
+1 concerns. And we thank you for appearing for the deposition today. 
+2 My goal today is to ask you questions relevant to the select committee's 
+3 investigation with the hope that you will answer. If you have an objection or privilege 
+4 assertion, we will ask that you or your counsel assert it for the record. I may seek to 
+5 clarify the basis for each objection. I understand from your letter that you may be 
+6 invoking the Fifth Amendment to many of our questions today. But be that as it may, I 
+7 will say that our goal remains to understand the basis for your objection and fairly 
+8 evaluate it. 
+9 Ultimately, the more detail that you can provide, or your counsel can provide 
+10 about the basis for the objection, the easier it will be for the select committee to consider 
+11 the objection in full. 
+12 In addition, under the House deposition rules, select committee members and 
+13 select committee staff may not discuss the substance of the testimony you provide today 
+14 unless the committee approves release of the transcript that is being created. You and 
+15 your attorney will have the opportunity to review the transcript. You are free to discuss 
+16 this deposition as much or as little as you like. No other recordings of this proceeding 
+17 are permitted. 
+18 So with that in mind, Mr. Matze, can you please confirm that you are not making 
+19 an audio or video recording of this deposition? 
+20 
+21 
+22 
+23 The Witness. I am not. 
+- Great. Thank you. 
+All right. So before we begin, I would just like to describe a few logistics. 
+There is an official congressional reporter on the Zoom who is recording the 
+24 deposition. Please wait until each question is completed before you begin your 
+25 response, and we will try to wait until your response is complete before we ask our next  6 
+1 question. The reporter cannot record any nonverbal responses, such as shaking your 
+2 head or nodding your head, so it's important you answer each question with an audible or 
+3 verbal response. For the benefit of the reporter and for the record, there may be times 
+4 when I spell a name or a word we are using or ask you to do the same. 
+5 We ask that you provide complete answers based on your best recollection of 
+6 events. If the question is not clear, please ask for clarification. If you don't know the 
+7 answer, please simply say so. 
+8 And please let us know if you need any breaks. As I mentioned before we went 
+9 on the record, I'll try to take a break about every hour if we need it. 
+10 Throughout the deposition we'll also be directing your attention to exhibits which 
+11 were provided to you before the beginning of this call. They will also be displayed on 
+12 your screen here on the Zoom. So when we refer to a document, you can take time to 
+13 familiarize yourself with it on the screen, or if you have a copy with you before we discuss 
+14 it. 
+15 
+16 So on that note, can we pull up exhibit 1? 
+The Witness. In the meantime, I do have a question. Am I permitted to take 
+17 notes on questions asked? 
+18 - I believe that's all right, so long as you are keeping that for your own 
+19 use during the deposition, yes. 
+20 
+21 
+22 
+23 The Witness. Understood. 
+- But I can also get back to you on that. 
+The Witness. Okay. 
+- Indeed, my intuition was correct. You are able to take notes, just 
+24 cannot record. 
+25 The Witness. Got it. Thank you.  1 - And I want to note on that chief clerk, is also in the 
+2 Zoom today. 
+3 So this exhibit 1, on this exhibit, Mr. Matze, do you recognize this subpoena that 
+4 the select committee has issued to you? 
+5 The Witness. Yes, I do. 
+6 Mr.~ That's okay to answer that, John. 
+7 - And do you understand that you're appearing for this deposition 
+8 pursuant to the subpoena? 
+9 
+10 
+11 The Witness. Yes, I do. 
+- Thankyou. 
+So I will be leading the deposition today, but- and may 
+12 chime in with questions, and others may join later on as well, but I will be asking the 
+13 majority of questions. 
+14 On that note, do you have any questions before we begin? 
+15 
+16 The Witness. No. 
+Mr.~ My question is, did you say our letter to the chairman on May 23rd is 
+17 exhibit 7 in this --
+18 
+19 - Yes,itis. 
+Mr.~ Okay. So I'll tell you at the outset that the basis of our objections 
+20 going forward is predicated on that letter, exhibit 7, both the factual and legal citations 
+21 that we put in that letter. 
+22 
+23 
+24 
+25 Great. Thank you, Mr. Kelly. 
+EXAMINATION BY-
+Q So to start off, Mr. Matze, I would like to start off with some basic 7  1 background questions before we move into a more substantive conversation. 
+2 First, what is your age? 
+3 
+4 
+5 
+6 
+7 A 
+Q 
+A 
+Q 
+A I'm currently 29 years old. 
+Great. Where did you grow up? 
+I grew up in Southern California in a town called Poway. 
+And what's your educational history? 
+Um, well, so I went to high school in Poway, and I went to college at the 
+8 University of Denver, where I received a Bachelor of Science in computer science. 
+9 
+10 
+11 Q Great. Thank you. 
+Where do you live now? 
+Mr.~ I'm going to object to that. Given the public nature of this 
+12 proceeding, I don't want his address out in public. 
+13 - So is that a First Amendment objection, Fifth Amendment objection? 
+14 The Witness. Brian, would it be okay just to say the general city that I'm 
+15 currently in and/or living in rather than my exact address? 
+16 
+17 
+18 
+19 Mr.~ General city is fine, general city is fine. 
+The Witness. Is that okay with the committee? 
+- Ofcourse. 
+The Witness. Okay. Henderson, Nevada, is both where I reside and where I 
+20 currently am? 
+21 BY 
+22 
+23 
+24 
+25 Q 
+A 
+Q 
+A Thank you. Have you ever served in the military or law enforcement? 
+I have not. 
+And where are you currently employed? 
+I am currently self-employed. 8  1 
+2 Q 
+A 9 
+Doing what? 
+I am a software engineer --well, it's hard to kind of say. It's a really unique 
+3 position, but I would say a software engineering manager of sorts and a product manager. 
+4 Q I've got a law degree, so it's all above my head, but thank you. 
+5 Have you ever been employed by the Federal Government? 
+6 A Not directly. Um, I worked for a government contractor at one point doing 
+7 software engineering. 
+8 
+9 
+10 
+11 Q 
+A 
+Q 
+A Okay. Where and when was that? 
+That was --oh, gosh, right after I graduated college. 
+2015-ish? 
+Yes, I would assume. I'm bad with dates and specifics, all that kind of stuff, 
+12 but, yes, that's kind of --right of after college, whenever that was. 
+13 Q Okay. Thank you. 
+14 And last question on this, could you give me a general sense of your employment 
+15 history over the last decade or so? 
+16 A Um, yeah. It's --so, I mean, I started kind of working when I was in high 
+17 school as an engineer. That was more mechanical engineering-focused, where I was 
+18 running a lot of --I was part of a lot of robotics programs. 
+19 And so from there, I went to college. I worked as a --pivoted and worked as a 
+20 software engineer doing website development during my college years. Then I worked 
+21 for General Atomics doing software engineering work on the MQ-9B weapon system. 
+22 After being there for about some time, I decided I would try to start my own 
+23 consultant company, did relatively poorly for quite some time. And then managed to 
+24 finally land a contract where I was doing iPhone app development, which kind of started 
+25 my career in application development and product and managing businesses, and did that  10 
+1 for a number of years, tried to work at Amazon Web Services for a while. Did --didn't 
+2 like it, didn't like the structure, so after 3 months, I quit. 
+3 And then from there I continued to do software development as a consultant for 
+4 people and management services, and at some point, I founded Parler. So that was kind 
+5 of the history. 
+6 
+7 Q Thank you. That was very helpful. 
+And that brings me right to our next question because in 2018, I believe, you 
+8 founded Parler. So is it correct you were the founder, one of the founders, and full-time 
+9 CEO of Parler? 
+10 Mr.~ Okay. I'm going to object to all questions going forward that pertain 
+11 to Parler and Mr. Matze based upon the Fifth Amendment. 
+12 And John --
+13 - Thank you, Mr. Kelly. 
+14 So I'm understanding that you're going to refuse to answer any questions 
+15 pertaining to Parler on Fifth Amendment grounds. And, obviously, the Fifth Amendment 
+16 relates to self-incrimination, and we're seeking to better understand the circumstances 
+17 leading up to the attack on the Capitol pursuant to H. Res. 503, and that includes a 
+18 mandate to examine the facts and circumstances and causes of the attack related to the 
+19 peaceful transfer of power in order to identify and evaluate lessons learned. 
+20 So I am struggling to see --and I know you mentioned your letter. I'm struggling 
+21 to see how the Fifth Amendment relates to a question about Mr. Matze's status as CEO of 
+22 Parler, which is an extremely public fact, and --
+23 Mr.~ Any questions related to Parler that you're trying to elicit from him, 
+24 the answers may link him, provide a link in the chain that could be used to prosecute him 
+25 when, in fact, your cover letter, as we stated in exhibit 7, talks about how Parler helped  11 
+1 fuel the spread of election-related disinformation, violent context in the weeks and 
+2 months prior to the attack on the Capitol, as well as January 6th itself. 
+3 And as we also explained in our letter, Congresswoman Maloney has referred to 
+4 the FBI a letter which said that Parler, you know, should be investigated as a potential 
+5 facilitator of planning and incitement relating to violence. 
+6 So in that context, in light of the uncertainties of where this is all headed, Mr. 
+7 Matze most definitely has a Fifth Amendment privilege, and he intends to rely upon it 
+8 going forward in this deposition. 
+9 - Thank you for that explanation. 
+10 And I would still ask you to --if you could explain more fully the specific grounds 
+11 for a Fifth Amendment claim that relates to basic questions about Mr. Matze's 
+12 employment at Parler, general questions, but --
+13 Mr.~ Well, Parler is under investigation. Parler is clearly under 
+14 investigation by your committee. He was the CEO of Parler. Under a Supreme Court 
+15 precedent, I think it's Ohio v. Reiner, you know, if his answers might tend to incriminate 
+16 him in your probe, that's a problem. And you have refused to give him immunity. He 
+17 would be more than willing to testify here if he was immunized and he was told whatever 
+18 he said would not be used against him, but your committee has refused to do that, 
+19 maybe because you don't have the authority to do that. But be that as it may, he finds 
+20 himself here being questioned about a company that's apparently viewed as facilitating 
+21 an attack on the United States. 
+22 So as the former CEO of that company at that time, that raises Fifth Amendment 
+23 concerns for me as his counsel, and that's why he's going to --one of many reasons why 
+24 he's going to invoke right now. 
+25 - Understood. So we'll note that objection for the record, and we can  12 
+1 return to it at the end of the deposition. 
+2 But for now we do have several questions we would like to ask Mr. Matze, and if 
+3 the objection is the same as you've just laid out, then I would ask that you state that, and 
+4 you can say it briefly. If you would like, Mr. Matze, or you, Mr. Kelly, could simply state 
+5 "Fifth" as a shorthand for Fifth Amendment, and we'll understand that to mean that 
+6 everything you just said applies to that question and the objections to that particular 
+7 question, and we can proceed like that. 
+8 Is that all right? 
+9 Mr.~ Yes. I'll say, Same objection; Fifth Amendment, and that will 
+10 encompass what I just said, as well as exhibit 7 what I said there as well. 
+11 - That sounds great. 
+12 So I'm just going to keep going through these questions, and if at any point, you 
+13 do see a Fifth Amendment objection, please say so. 
+14 BY 
+15 Q All right. Well, so is it true, Mr. Matze, that you were one of the 
+16 cofounders and CEO of the social media website Parler? 
+17 Mr.~ Same objection; Fifth Amendment. 
+18 BY-
+19 
+20 
+21 
+22 
+23 
+24 
+25 Q When did you found Parler and with whom? 
+Mr.~ Same objection; Fifth Amendment. 
+BY-
+Q What was your hope for the website when you founded it? 
+Mr.~ Same objection; Fifth Amendment. 
+BY-
+Q What was your role in Parler? Did you have any formal titles or  1 responsibilities? 
+2 
+3 
+4 Mr.~ Same objection; Fifth Amendment. 
+BY-: 
+Q Do you intend to assert the Fifth Amendment in response to all questions 
+5 the committee would ask on the topic of the founding of Parler? 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 Mr.~ Yes, he does. 
+BY 
+Q All right. Let's move on then. 
+Can you describe the leadership structure at Parler's team while you were CEO? 
+Mr.~ Same objection; Fifth Amendment. 
+BY-: 
+Q Who oversaw content moderation at Parler? 
+Mr.~ Same objection; Fifth Amendment. 
+Q How about government and law enforcement liaisons? 
+Mr.~ Same objection; Fifth Amendment. 
+BY-
+Q How many employees were there at Parler while you were CEO? 
+Mr.~ Same objection; Fifth Amendment. 
+BY-: 
+Q What was Jared Thompson's role? 
+Mr.~ Same objection; Fifth Amendment. 
+BY-: 
+Q How about Amy Peikoff? 
+Mr.~ I'm sorry? What was the name? 13  1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 - Amy Peikoff or Peikoff? 
+Mr.~ Same objection; Fifth Amendment. 
+BY-: 
+Q Rebekah Mercer? 
+Mr.~ Same objection; Fifth Amendment. 
+BY-: 
+Q Jeffrey Wernick? 
+Mr.~ Same objection; Fifth Amendment. 
+BY-
+Q Is it true that it is your intention to raise the First and Fifth Amendments in 
+11 response to all questions the committee would ask about the general structure and 
+12 management of Parler? 
+13 
+14 
+15 
+16 Mr.~ Yes, it is. 
+- Thankyou. 
+BY-
+Q I have some questions about content moderation practices at Parler now 
+17 that I'm going to turn to. 
+18 Generally speaking, how does content moderation at Parler work? 
+19 Mr.~ Same objection; Fifth Amendment. 
+20 BY-
+21 
+22 
+23 
+24 
+25 Q How many individuals were tasked with content moderation? 
+Mr.~ Same objection; Fifth Amendment. 
+BY-: 
+Q Can you explain to us the community jury system and how that works? 
+Mr.~ Same objection; Fifth Amendment. 14  1 
+2 BY 
+Q What were the major changes made to Parler's community guidelines in 
+3 July 2020 and November 2020? 
+4 Mr.~ Same objection; Fifth Amendment. 
+5 BY-
+6 
+7 
+8 
+9 Q Was Amy Peikoff in charge of making those changes? 
+Mr.~ Same objection; Fifth Amendment. 
+BY-: 
+Q Did Parler typically rely on user reports to flag dangerous or illegal content, 
+10 or were there proactive tools available to search for content that violated community 
+11 guidelines as well? 
+12 Mr.~ Same objection; Fifth Amendment. 
+13 BY-: 
+Q What was your personal role in content moderation? 
+Mr.~ Same objection; Fifth Amendment. 
+BY 
+Q How about Amy Peikoff's? 
+Mr.~ Same objection; Fifth Amendment. 15 
+14 
+15 
+16 
+17 
+18 
+19 - So I'm taking that it's your intention to invoke the Fifth Amendment in 
+20 response to all questions the committee might ask about the general content moderation 
+21 practices of Parler? 
+22 
+23 
+24 
+25 Mr.~ It is, yes. 
+- Thankyou. 
+BY-
+Q How does Parler make money?  1 
+2 
+3 Mr.~ Same objection; Fifth Amendment. BY-
+Q What is Parler's process for screening advertisements that might contain 
+4 violent or illegal content? 
+5 
+6 Mr.~ Same objection; Fifth Amendment. 
+- Is it your intention to raise the Fifth Amendment in response to all 
+7 questions that the committee would ask about the finances and fundraising practices at 
+8 Parler? 
+9 
+10 
+11 
+12 Mr.~ Yes, it is. 
+- Thankyou. 
+BY-: 
+Q I would now like to move on to the months before the 2020 American 
+13 elections. 
+14 Is it true that Parler saw an increase in users throughout 2020? About how big 
+15 an increase did Parler see? 
+16 
+17 
+18 Mr.~ Same objection; Fifth Amendment. 
+BY-: 
+Q Following the murders of George Floyd and Breanna Taylor, did Parler 
+19 implement any additional content moderation strategies or guidelines to prevent the 
+20 spread of violent racist behavior on the platform? 
+21 
+22 
+23 Mr.~ Same objection; Fifth Amendment. 
+BY-: 
+Q What was your posture towards combating disinformation related to the 
+24 2020 election? 
+25 Mr.~ Same objection; Fifth Amendment. 16  17 
+BY-: 1 
+2 Q How about your posture related to the spread of violent conspiracy theories 
+3 such as QAnon? 
+4 
+5 Mr.~ Same objection; Fifth Amendment. 
+- Is it your intention to raise the Fifth Amendment in response to all 
+6 questions the committee would ask about Parler's content moderation posture in 2020? 
+7 
+8 
+9 
+10 Mr.~ Yes, it is. 
+- Okay. Thanks. 
+BY-: 
+Q In the immediate run-up to the elections, did Parler receive any 
+11 communications from law enforcement about potential threats? 
+12 
+13 
+14 Mr.~ Same objection; Fifth Amendment. 
+Q Was Parler informing law enforcement about concerning content on its 
+15 platform in the run-ups to the election? 
+16 
+17 
+18 Mr.~ Same objection; Fifth Amendment. 
+BY-: 
+Q Did Parler implement any heightened security or content moderation 
+19 measures during the election itself? 
+20 
+21 Mr.~ Same objection; Fifth Amendment. 
+- Is it your intention to raise the Fifth Amendment in response to all 
+22 questions the committee might ask about Parler's actions during the 2020 election? 
+23 
+24 
+25 Mr.~ Yes, it is. 
+- Okay. Thank you. 
+BY- 18 
+1 Q Was it Parler's posture --or excuse me. 
+2 What was Parler's posture towards the use of its platform by individuals affiliated 
+3 with violent extremist organization, including militia, White supremacists, and nee-Nazi 
+4 groups? 
+5 
+6 
+7 Mr.~ Same objection; Fifth Amendment. 
+BY-
+Q Did Parler see an increase in coordinated calls to violence by extremists on 
+8 its platform in the run-up to 2020 presidential election? 
+9 
+10 
+11 Mr.~ Same objection; Fifth Amendment. 
+BY-: 
+Q How about a spike in activity specifically after President Trump instructed 
+12 the Proud Boys to, quote/unquote, "stand back and stand by" during the first presidential 
+13 debate in late September 2020? 
+14 
+15 Mr.~ Same objection, Fifth Amendment? 
+- Is it your intention to raise the Fifth Amendment in response to all 
+16 questions the committee would ask about any attempts by Parler to limit the use of its 
+17 platform by militia extremists, White supremacists, and other violent actors in advance of 
+18 the 2020 election? 
+19 
+20 
+21 
+22 Mr.~ Yes, it is. 
+- Okay. Thank you. 
+BY-: 
+Q In the period after the 2020 election, did you or anyone at Parler implement 
+23 policies to deal with coordinated calls to violence that were meant to protest the election 
+24 results? 
+25 Mr.~ Same objection; Fifth Amendment.  1 
+2 Q BY-: 
+Did you increase, perhaps, the monitoring of content that was encouraging 
+3 violence or spreading disinformation related to the election results? 
+4 
+5 
+6 
+7 
+8 Mr.~ Same objection; Fifth Amendment. 
+BY-: 
+Q Did you perceive a spike in that sort of content following the election? 
+Mr.~ Same objection; Fifth Amendment. 
+- Is it your intention to raise the Fifth Amendment in response to all 
+9 questions about Parle r's general action in the aftermath of the 2020 presidential 
+10 election? 
+11 
+12 
+13 
+14 Mr.~ Yes, it is. 
+- Okay. Thanks. 
+BY-
+Q Following the election, there were several reports by anti-hate watchdog 
+15 groups that criticized Parler's willingness to platform far right extremist groups, like the 
+16 Proud Boys, the Oath Keepers, and the Three Percenters, as well as host anti-Semitic, 
+17 White supremacist, racist, and Holocaust-denying speech? 
+18 Can we pull up exhibit 8, please,_ 
+19 So this is a --this will be a report from the Anti-Defamation League that was 
+20 published on November 11, 2020, that warned about the large followings that extreme 
+21 actors had garnered on Parler and its use to organize early events in the Stop the Steal 
+22 movement. 
+23 Mr. Matze, were you or others at Parler familiar with this report? 
+24 
+25 Mr.~ Same objection; Fifth Amendment. 
+BY-: 19  1 
+2 
+3 
+4 Q What were the reactions of Parler staff to this report? 
+Mr.~ Same objection; Fifth Amendment. 
+BY-
+Q Were Parler staff aware of the trends, activities in this report before its 
+5 publication? 
+6 
+7 
+8 Mr.~ Same objection; Fifth Amendment. 
+Q Following this report, was there any reaction or attempt to correct course 
+9 within Parler? 
+10 
+11 
+12 Mr.~ Same objection; Fifth Amendment. 
+BY-
+Q In that case, we can pull up exhibit 9, 
+13 This is another report from the Simon Wiesenthal Center, also from November 
+14 2020, that showcases instances in which Parler has allowed anti-Semitic, anti-Muslim, 20 
+15 anti-immigrant, anti-Black, and anti-LGBTQ content to remain on the platform, as well as 
+16 conspiracy theories related to COVID-19, inciting of violence, and content from violent far 
+17 right groups, including nee-Nazis. 
+18 Were you or others at Parler familiar with this report, Mr. Matze? 
+19 Mr.~ Same objection; Fifth Amendment. 
+20 BY-: 
+21 
+22 
+23 
+24 
+25 report? Q What was the reaction to this report among Parler staff? 
+Mr.~ Same objection; Fifth Amendment. 
+BY-: 
+Q Was there any attempt to change course within Parler because of this  1 
+2 
+3 Mr.~ Same objection; Fifth Amendment. 
+BY-: 
+Q On page 4, this report details how a November 2020 update to Parler's 
+4 community guidelines explicitly noted that, quote/unquote, fighting words would no 
+5 longer be considered a violation of the company's policies. 
+6 Is this an accurate description of the policy change? 
+7 Mr.~ Same objection; Fifth Amendment. 
+8 BY-
+9 
+10 
+11 
+12 Q What was the impetus for the policy change? 
+Mr.~ Same objection; Fifth Amendment. 
+Q When did Parler begin discussing or developing the need for this policy 
+13 change? 
+14 
+15 
+16 
+17 
+18 
+19 Mr.~ Same objection; Fifth Amendment. 
+BY-: 
+Q Was it related to rhetoric surrounding the election at all? 
+Mr.~ Same objection; Fifth Amendment. 
+BY-: 
+Q Was Amy Peikoff in charge of formulating this exchange --this change, and 
+20 what was your role? 
+21 Mr.~ Same objection; Fifth Amendment. 
+22 BY-: 
+23 Q Under Supreme Court precedent, fighting words are actually not protected 21 
+24 by the First Amendment, so I was curious to ask, how does allowing fighting words on the 
+25 platform fit with Parler's goals to be a social media platform that operates in the spirit of  22 
+1 the First Amendment? 
+2 Mr.~ Same objection; Fifth Amendment. 
+3 BY-: 
+4 Q Did this policy change make it more difficult to police coordinated cause to 
+5 violence on the platform between the election and January 6th? 
+6 Mr.~ Same objection; Fifth Amendment. 
+7 BY-: 
+8 Q What is the line between permissible fighting words and infamous calls to 
+9 incitement on Parler? Who makes that call? 
+10 
+11 
+12 Mr.~ Same objection; Fifth Amendment. 
+BY-
+Q Reflecting on the events of January 6th, would you advocate for a different 
+13 policy today? 
+14 
+15 Mr.~ Same objection; Fifth Amendment. 
+- Is it then your attention to raise the Fifth Amendment in response to 
+16 all or any questions the committee might raise about these reports and Parler's response 
+17 to them? 
+18 
+19 
+20 
+21 
+22 Mr.~ Yes, it is. 
+- Okay. Thank you. 
+And thank you, 
+BY-
+Q Prior to January 6th, there were several events that featured violent activity 
+23 by groups that still had a platform on Parler, such as skirmishes involving the Proud Boys 
+24 in Washington, D.C., on November 14 and December 12, 2020. In addition, on 
+25 December 12, Stewart Rhodes, leader of the Oath Keepers, called for President Trump to,  23 
+1 quote/unquote, "drop the hammer" on traitors and invoke the Insurrection Act, calling up 
+2 veterans as a militia to head off a much more desperate and bloody civil war, and this led 
+3 to the Jericho March in December 2020, December 12th, in Washington, D.C. 
+4 As rhetorics run and the election grew more violent in November and December, 
+5 did Parler consider any additional changes to its community guidelines or content 
+6 moderation operations to prevent such content from spreading? 
+7 Mr.~ Same objection; Fifth Amendment.  1 
+2 
+3 Q BY-
+Did militia groups such as the Oath Keepers, Fifth Amendment Praetorian, 
+4 Proud Boys, or Three Percenters maintain a presence on Parler? 
+5 Mr.~ Same objection; Fifth Amendment. 
+6 BY-
+7 
+8 
+9 
+10 Q Was this in violation of Parler's community standards or terms of service? 
+Mr.~ Same objection; Fifth Amendment. 
+BY 
+Q Was there ever any discussion of restricting the use of the platform by 
+11 extremist groups, including leaders like Stewart Rhodes and Enrique Tarrio of the Proud 
+12 Boys? 
+Mr.~ Same objection; Fifth Amendment. 
+BY-
+Q How about any other efforts to proactively search for inciteful content? 
+Mr.~ Same objection; Fifth Amendment. 
+BY-: 24 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 Q What standards did Parler use to identify implicit threats or calls to violence? 
+Mr.~ Same objection; Fifth Amendment. 
+BY-: 
+Q What were the policies for removing this kind of content? 
+Mr.~ Same objection; Fifth Amendment. 
+BY 
+Q When did Parler start to see a shift towards more violative content that was 
+25 focused on President Trump's event in Washington, D.C., on January 6th?  Mr.~ Same objection; Fifth Amendment. 
+- Could we go off the record for one moment at 2:34. 
+Are we off the record? 
+The Reporter. We are off the record. 
+[Discussion off the record.] 
+So we can go back on the record now at 2:36. 
+BY 25 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 Q And, Mr. Matze, I believe the last question we asked was about the policies, 
+9 Parler's policies for removing content that might be in violation. 
+10 
+11 Mr.~ Same objection; Fifth Amendment. 
+The Witness. Upon advice of counsel and based on my Fifth Amendment 
+12 privilege, I respectfully decline to answer. 
+13 BY-: 
+14 Q And, Mr. Matze, to be clear, is your response to all questions we've asked 
+15 since your counsel began advising you to invoke the Fifth Amendment that you would 
+16 indeed invoke the Fifth Amendment? 
+17 A If I understand that correctly, yes, upon advice of counsel and based on my 
+18 Fifth Amendment privilege, I respectfully decline to answer. 
+19 Q Thank you. 
+20 Based on the best of your recollection, Mr. Matze, was there a noticeable shift in 
+21 content on Parler after President Trump's December 19, 2020 tweet advertising his 
+22 January 6th rally for the first time and saying, "Be there, will be wild"? 
+23 
+24 Mr.~ Same objection; Fifth Amendment. 
+The Witness. On advice of my counsel and based on my Fifth Amendment 
+25 privilege, I respectfully decline to answer.  26 
+1 
+2 Q Is it your intention to raise the Fifth Amendment in response to all questions 
+3 the committee would ask about potentially violent or inciteful content seen on Parler in 
+4 the run-up to the January 6th attack, and any of Parler's attempts to proactively respond 
+5 to that content? 
+6 
+7 A 
+Q Yes. Yes, it is. 
+Thank you. 
+8 Now I would like to ask about Parler's cooperation with law enforcement leading 
+9 up to January 6th. 
+10 Mr. Matze, can you describe Parler's efforts to transmit potentially violent or 
+11 inciteful content to law enforcement? 
+12 
+13 
+14 
+15 Mr.~ Same objection; Fifth Amendment. 
+The Witness. I share that objection. So Fifth, if I may shorten to say Fifth? 
+BY-: 
+Q Sure. So if you just want to say Fifth, I will take that to mean that you are 
+16 invoking the Fifth Amendment based on advice of counsel. 
+17 
+18 A 
+Q Thank you. 
+Did Parler rely solely on user reports to identify content that was potentially 
+19 in violation during these months? 
+20 
+21 
+22 
+23 Mr.~ Same objection, Fifth Amendment. 
+The Witness. Fifth. 
+BY-: 
+Q During this time period, who was typically the point of contact at Parler with 
+24 law enforcement? 
+25 Mr.~ Same objection; Fifth Amendment.  1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 The Witness. Fifth. 
+BY-: 
+Q Who else may have been communicating with the FBI? 
+Mr.~ Same objection; Fifth Amendment. 
+The Witness. Fifth. 
+BY-: 
+Q What were the protocols for deciding what content to elevate to the FBI? 
+Mr.~ Same objection; Fifth Amendment. 
+The Witness. Fifth. 
+Q 
+A 
+Q BY-
+What role did you have --oh, sorry. Go ahead, Mr. Matze. 
+I just said Fifth. 
+Thanks. 
+What role did you have in determining whether content was elevated? 
+Mr.~ Same objection; Fifth Amendment. 
+The Witness. Fifth. 27 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 Q Were you satisfied with the amount of content that Parler was escalating to 
+19 law enforcement, or did you think that Parler was missing some content? 
+20 
+21 
+22 
+23 Mr.~ Same objection; Fifth Amendment. 
+The Witness. Fifth. 
+Q Is it your intention to raise the Fifth Amendment in response to any and all 
+24 questions the committee would ask about the methods and nature of its cooperation 
+25 with law enforcement in their run-up to January 6th?  28 
+A Yes. 
+Q All right. Thank you. 
+, can we pull up exhibit 2? 1 
+2 
+3 
+4 So, Mr. Matze, this is a Parler post that begins with the quote: "We need to mass 
+5 an armed force of American patriots 150,000 on the Virginia side of the Potomac River 
+6 prepared to react to the congressional events of January 6th." 
+7 It goes on to say towards the bottom that it is a right and a duty of the people to, 
+8 quote, "throw off an abusive government." 
+9 This post was referred to law enforcement by Parler, correct? 
+10 Mr.~ Same objection; Fifth Amendment. 
+11 
+12 
+13 The Witness. Fifth. 
+BY-
+Q Why did this post merit referral to the FBI when Parler allows fighting words 
+14 on its platform? 
+15 
+16 
+17 
+18 Mr.~ Same objection; Fifth. 
+The Witness. Fifth. 
+BY-: 
+Q Would you say this is typical of content you would see on Parler in the 
+19 run-up to January 6th? 
+20 Mr.~ Same objection; Fifth. 
+21 BY-: 
+22 Q Would you have been able to identify the user who posted this message if 
+23 law enforcement had requested that information? 
+24 Mr.~ Same objection; Fifth. 
+25 The Witness. Fifth.  29 
+BY-: 1 
+2 Q Were there any steps taken by Parler employees to actively --oh, wait. Mr. 
+3 Matze, I want to make sure that you're also saying Fifth as well. 
+4 
+5 
+6 
+7 A 
+Q 
+A 
+Q I did, I did. I said Fifth in response. 
+Okay. Thank you. 
+I think we missed one, but otherwise, yes. 
+Were there any steps taken by Parler employees to actively search for more 
+8 content that was similar to this? 
+9 
+10 Mr.~ Same objection; Fifth. 
+The Witness. Fifth. 
+11 - And, Mr. Kelly, if you want to say "Same objection" so that we don't 
+12 have the two Fifths in a row to make things go a little faster, I'll understand that to mean 
+13 what you have cited at the beginning of the deposition. 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 Mr.~ That makes sense, yes. 
+- Thankyou. 
+BY-
+Q Was there any other similar content referred to law enforcement? 
+Mr.~ Same objection. 
+The Witness. Fifth. 
+BY-
+Q Is it your intention to raise the Fifth Amendment in response to any and all 
+22 questions the committee would ask about this post or other kinds of posts prior to 
+23 January 6th? 
+24 
+25 A 
+Q Yes. 
+in that case, could we pull up exhibit 5?  1 So this is an email sent from a Parler employee to the FBI on January 2, 2021, 
+2 apparently referring to another post that Parler had sent to the FBI. In the email, the 
+3 employee writes: "More where this came from. Concerned about Wednesday." 
+Of course, that Wednesday was January 6th. 
+Are you familiar with this email? 30 
+4 
+5 
+6 Mr.~ So just so I'm clear, this is an email from Parler warning the FBI days in 
+7 advance of the attack? Is that right? 
+8 - Yes. This is an email saying concerned about Wednesday on 
+9 January 2nd. 
+10 
+11 
+12 
+13 Mr.~ Okay. Same objection. 
+The Witness. Fifth. 
+BY-
+Q Can you describe the concerns of Parler about January 6th in the days before 
+14 the attack? 
+15 
+16 
+17 
+18 Mr.~ Same objection. 
+The Witness. Fifth. 
+BY 
+Q Does the fact that there is, quote, "More where this came from," suggest 
+19 that Parler was unable to keep up with the violent content proliferating on its platform 
+20 prior to the attack? 
+21 
+22 
+23 
+24 Mr.~ Same objection. 
+The Witness. Fifth. 
+BY-: 
+Q What steps were you taking to more quickly react to the violent trends you 
+25 were seeing on the platform?  Mr.~ Same objection. 
+The Witness. Fifth. 
+BY-: 31 
+1 
+2 
+3 
+4 Q How did violent content like what's referenced here come to the attention of 
+5 Parler employees? Were there reports from individuals and users concerned with the 
+6 violence, or did Parler staff proactively identify concerning posts? 
+7 
+8 
+9 
+10 Mr.~ Same objection. 
+The Witness. Fifth. 
+BY-
+Q Thank you. 
+11 Did Parler remove this and other content over to the FBI after it had broad 
+12 concerns of violence? 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 Mr.~ Same objection. 
+The Witness. Fifth. 
+BY-
+Q What were the procedures for removing this kind of content? 
+Mr.~ Same objection. 
+The Witness. Fifth. 
+BY-: 
+Q Is it your intention to raise the Fifth Amendment in response to all questions 
+21 the committee would ask about this email? 
+22 
+23 A Yes. 
+Mr.~ And my question for you, if you will answer it, did the FBI require us to 
+24 do anything when they were warned? 
+25 - So, unfortunately, you're unable to ask me questions during the  1 deposition. 
+2 Mr.~ Okay. 
+3 
+4 
+5 
+6 
+7 Sorry. 
+8 
+9 
+10 - So I can't speak to that. 
+Q 
+A BY-: 
+Now I would like --
+That would be --sorry. That would be an interesting thing to know. 
+Mr.~ Yeah. John, cut it off here. 
+BY-: 
+Q So now, I would like to ask about what was happening at Parler on 
+11 January 6th itself. 32 
+12 Were there any emergency operational procedures in place on January 6th to help 
+13 Parler manage potential violence on that day? 
+14 Mr.~ Same objection. 
+15 
+16 
+17 
+18 
+19 
+20 
+21 The Witness. Fifth. 
+BY-: 
+Q Did you see calls to violence on the platform throughout the day? 
+Mr.~ Same objection. 
+The Witness. Fifth. 
+BY 
+Q What was your immediate response to the news the Capitol had been 
+22 breached? 
+23 
+24 
+25 Mr.~ Same objection. 
+The Witness. Fifth. 
+BY-:  1 Q What actions were you taking to coordinate with law enforcement and 
+2 remove content during the attack itself? 
+3 
+4 
+5 
+6 
+7 
+8 
+9 Mr.~ Same objection. 
+The Witness. Fifth. 
+BY-: 
+Q What was Amy Peikoff's role and Parler's response to January 6th? 
+Mr.~ Same objection. 
+The Witness. Fifth. 
+BY-: 33 
+10 Q Were there any actions Parler took to remove numbers of accounts that had 
+11 been involved in the violence on January 6th? 
+12 
+13 
+14 
+15 Mr.~ Same objection. 
+The Witness. Fifth. 
+B~: 
+Q So I take it it's your intention to raise the Fifth Amendment in response to all 
+16 questions the committee would ask about Parler's response to January 6th? 
+17 
+18 A 
+Q That is correct. 
+All right. at this point could we pull up exhibit 3? 
+19 So this is a post that was also apparently referred to the FBI by Parler which calls 
+20 for individuals to, quote, "shoot their way into D.C. if they blockade" --"they" being 
+21 nebulous and in quotes --"the city on Inauguration Day." 
+22 It seems like this post is made after January 6th. So, Mr. Matze, I want to ask 
+23 you, did calls for coordinated violence, like this one, continue to proliferate on Parler 
+24 after the attack on the Capitol? 
+25 Mr.~ Same objection.  34 
+The Witness. Fifth. 
+BY-: 1 
+2 
+3 Q What steps did Parler take to ban users who were engaged in this content or 
+4 proactively sweep the platform for calls to violence after the attack on the Capitol? 
+5 
+6 
+7 
+8 Mr.~ Same objection. 
+The Witness. Fifth. 
+BY-
+Q Was there a concern within Parler, in the wake of the January 6th attack, 
+9 that your content moderation procedures had not captured the full extent of violative or 
+10 inciteful content on the platform? 
+11 
+12 
+13 
+14 Mr.~ Same objection. 
+Q Did you take action against militia networks or other organizations, like the 
+15 Proud Boys, who had been implicated in the attack? 
+16 
+17 
+18 
+19 Mr.~ Same objection. 
+The Witness. Fifth. 
+BY-
+Q Were there any efforts to change any content moderation policies in the 
+20 wake of January 6th? 
+21 
+22 
+23 
+24 Mr.~ Same objection. 
+The Witness. Fifth. 
+BY-: 
+Q Is it your intention, Mr. Matze, to raise the Fifth Amendment in response to 
+25 all questions the committee would ask about Parler's content moderation efforts after  35 
+1 January 6th? 
+A That is correct. 
+Q Thank you. Getting through this. 2 
+3 
+4 The next thing I wanted to ask you about is the deplatforming of Parler. So a few 
+5 days after the attack on the Capitol, Parler was removed from the Apple and Google App 
+6 Stores for failure to adequately police violent content on the platform. And then on 
+7 January 10, 2021, Parler went offline altogether after Amazon Web Services banned it 
+8 from its servers. 
+9 So I want to ask you, Mr. Matze, what was your reaction to these actions by Apple, 
+10 Google, and Amazon? 
+11 Mr.~ Same objection. 
+12 
+13 
+14 The Witness. Fifth. 
+BY-: 
+Q What justification or reasoning did those providers give to you and Parler 
+15 leadership about their decision? 
+16 Mr.~ Same objection. 
+17 
+18 
+19 The Witness. Fifth. 
+BY-: 
+Q What was the reaction among Parler employees and leadership after this 
+20 decision? 
+21 
+22 
+23 
+24 
+25 Mr.~ Same objection. 
+The Witness. Fifth. 
+Q 
+A BY 
+Did you feel --thank you. Sorry, Mr. Matze. Can you restate that? 
+Fifth.  1 
+2 
+3 
+4 
+5 Q Did you feel that the action was fair? 
+Mr.~ Same objection. 
+The Witness. Fifth. 
+BY-: 
+Q At the time, did you believe that Parler should have been doing more to 
+6 remove violent content and coordinated calls to harm on its platform? 
+7 
+8 
+9 Mr.~ Same objection. 
+The Witness. Fifth. 
+BY-: 36 
+10 Q Is it your intention to raise the Fifth Amendment in response to all questions 
+11 the committee might ask about Parler's deplatforming after January 6th? 
+12 
+13 
+14 A 
+Q Yes, that's correct. 
+Thank you, Mr. Matze. 
+So at the end of January 2021, you were removed as CEO of Parler while the sites 
+15 still offline. After your removal, you claimed in public interviews that you were 
+16 terminated because you had been advocating for more effective content moderation 
+17 policies on the platform, and that you had been unsuccessfully lobbying Parler's board to 
+18 crack down on domestic terrorists, White supremacists, and other groups, like QAnon. 
+19 In fact, you claimed in interviews following your termination that you had argued to 
+20 others at Parler that January 6th was a clear indication of what could happen absent 
+21 further content moderation changes at Parler. 
+22 So, Mr. Matze, in your opinion, is it true that you were terminated from Parler 
+23 because you were pushing for more effective content moderation policies in the wake of 
+24 January 6th? 
+25 Mr.~ Same objection.  37 
+The Witness. Fifth. 
+BY-: 1 
+2 
+3 Q Would you be able to walk us through your arguments for why you believed 
+4 changes were needed? 
+5 Mr.~ Same objection. 
+6 
+7 
+8 The Witness. Fifth. 
+Q What kind of changes did you recommend to the board? What was their 
+9 reaction? 
+10 
+11 
+12 
+13 Mr.~ Same objection. 
+The Witness. Fifth. 
+Q Why did you feel, in particular, it was necessary to moderate QAnon content 
+14 more strongly? 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 Mr.~ Same objection. 
+The Witness. Fifth. 
+BY-: 
+Q In your mind, what was the link between QAnon and January 6th? 
+Mr.~ Same objection. 
+The Witness. Fifth. 
+BY-
+Q When you made these suggestions, what did Rebekah Mercer, who then 
+23 controlled the board of Parler, say in response? 
+24 Mr.~ Same objection. 
+25 The Witness. Fifth.  1 
+2 
+3 
+4 
+5 
+6 BY 
+Q What about other board members? 
+Mr.~ Same objection. 
+The Witness. Fifth. 
+BY-: 
+Q Did Ms. Mercer or anyone else ever communicate to you that you were 
+7 being terminated because of your push for more effective content moderation policies? 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 Mr.~ Same objection. 
+The Witness. Fifth. 
+Q What did other employees at Parler think of your proposals? 
+Mr.~ Same objection. 
+The Witness. Fifth. 
+BY-: 
+Q What about Amy Peikoff? 
+Mr.~ Same objection. 
+The Witness. Fifth. 
+BY-: 
+Q Is it your understanding that Parler implemented any of your suggestions 
+20 prior to coming back online with a different server in February 2021? 
+Mr.~ Same objection. 
+The Witness. Fifth. 
+BY-: 38 
+21 
+22 
+23 
+24 Q Is it your intention to raise the Fifth Amendment in response to all questions 
+25 the committee would ask about your termination as CEO of Parler?  1 
+2 A 
+Q Yes, that's correct. 
+Thank you, Mr. Matze. 
+3 I would now like to ask briefly about negotiations between Parler and the Trump 
+4 organization in 2020 about Donald Trump's potential acquisition of Parler, which has 
+5 been, of course, publicly reported. 
+6 Were you involved in these negotiations? 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 Mr.~ Same objection. 
+The Witness. Fifth. 
+BY-: 
+Q Who else at Parler was involved? 
+Mr.~ Same objection. 
+The Witness. Fifth. 
+BY-: 
+Q During the course of these negotiations, who did you interact with in the 
+15 Trump organization? 
+Mr.~ Same objection. 
+The Witness. Fifth. 
+BY-: 
+Q Were any of the President's children involved in these negotiations? 
+Mr.~ Same objection. 
+The Witness. Fifth. 
+BY-: 39 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 Q Did you ever have any indication that the President himself was interested in 
+24 these negotiations or any contact with the President? 
+25 Mr.~ Same objection.  The Witness. Fifth. 
+BY-: 
+Q What were the contours of this potential acquisition? 
+Mr.~ Same objection. 
+The Witness. Fifth. 
+BY 
+Q , at this point can we pull up exhibit 4? 40 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 So this appears to be a term sheet you signed on December 28, 2020. If we scroll 
+9 down to the bottom, we can see your signature. 
+10 Is that an accurate description of this document, Mr. Matze? 
+11 
+12 
+13 
+14 Mr.~ Same objection. 
+The Witness. Fifth. 
+BY-: 
+Q Why, to your knowledge, did the Trump organization express interest in 
+15 acquiring Parler? Did they give you any rationale? 
+16 Mr.~ Same objection. 
+17 
+18 
+19 The Witness. Fifth. 
+BY-: 
+Q When did you first become aware of the Trump organization's interest in 
+20 acquiring Parler? 
+21 
+22 
+23 
+24 
+25 Mr.~ Same objection. 
+The Witness. Fifth. 
+BY-
+Q When did negotiation begin? 
+Mr.~ Same objection.  1 
+2 
+3 The Witness. Fifth. 
+BY-: 
+Q Did negotiations for the potential purchase of Parler continue through 
+4 January 6, 2021? 
+Mr.~ Same objection. 
+The Witness. Fifth. 41 
+5 
+6 
+7 
+8 
+9 Q If they did not continue, when and under what circumstances did they end? 
+10 
+11 
+12 
+13 
+14 
+15 
+16 Mr.~ Same objection. 
+The Witness. Fifth. 
+BY-: 
+Q What was the status of negotiations when you departed as CEO? 
+Mr.~ Same objection. 
+The Witness. Fifth. 
+BY-: 
+Q At any point, did representatives at the Trump organization express concern 
+17 about violent or inciteful content on Parler as a barrier to this potential acquisition? 
+18 
+19 
+20 
+21 Mr.~ Same objection. 
+The Witness. Fifth. 
+BY-: 
+Q Did they ever inquire about Parler's content moderation policies one way or 
+22 another? 
+23 
+24 
+25 Mr.~ Same objection. 
+The Witness. Fifth. 
+BY-:  1 Q What plans or potential changes to the service did the Trump organization 
+2 discuss during these negotiations? 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 Mr.~ Same objection. 
+The Witness. Fifth. 
+BY-
+Q How about discussions after January 6th? 
+Mr.~ Same objection. 
+The Witness. Fifth. 
+BY-: 
+Q At this point, could we pull up exhibit 6? 
+11 So this is an email regarding these negotiations, and the chain includes you, 
+12 Jeffrey Wernick, and Amy Peikoff, dated in late November 2020 as well. 
+13 Was Mr. Wernick involved in these negotiations and in what capacity? 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 Mr.~ Same objection. 
+The Witness. Fifth. 
+BY-: 
+Q What about Ms. Peikoff? 
+Mr.~ Same objection. 
+The Witness. Fifth. 
+BY-: 
+Q Is it your intention to invoke the Fifth Amendment in response to all 
+22 questions that the committee would ask about Parler's negotiations with the Trump 
+23 organization? 
+24 
+25 A 
+Q That is correct. 
+Okay. Thank you. 42  43 
+1 As CEO of Parler, did you have any other contacts with the Trump administration 
+2 or Trump campaign officials? 
+3 Mr.~ Same objection. 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 The Witness. Fifth. 
+BY-
+Q What were the nature of those contacts? 
+Mr.~ Same objection. 
+The Witness. Fifth. 
+BY-: 
+Q Did you have any communications in particular with Dan Scavino? 
+Mr.~ Same objection. 
+The Witness. Fifth. 
+BY-: 
+Q How about Bill Stepien? 
+Mr.~ Same objection. 
+The Witness. Fifth. 
+BY-: 
+Q And Brad Parscale? 
+Mr.~ Same objection. 
+The Witness. Fifth. 
+BY-: 
+Q And now I would like to ask about any contacts you may have had with other 
+23 organizations. 
+24 Did you have any contacts with members of the Proud Boys? 
+25 Mr.~ Same objection.  1 
+2 
+3 
+4 
+5 
+6 
+7 The Witness. Fifth. BY-
+Q What about members of the Oath Keepers? 
+Mr.~ Same objection. 
+The Witness. Fifth. BY-
+Q Is it your intention to invoke the Fifth Amendment in response to all 
+8 questions the committee would ask about your contacts with the Trump campaign or 
+9 Trump administration, as well as other groups? 
+10 
+11 A That is correct. 
+Q Thanks. 
+12 At this point, I'm going to run through a list of individuals, and if you can let me 44 
+13 know if you had any contact with them regarding events that occurred between Election 
+14 Day 2020, and January 6th, that would be helpful. 
+15 So Ali Alexander? 
+16 Mr.~ Same objection. 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 The Witness. Fifth. BY-
+Q Alex Jones? 
+Mr.~ Same objection. 
+The Witness. Fifth. 
+Q Roger Stone? 
+Mr.~ Same objection. 
+The Witness. Fifth.  1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 BY-: 
+Q Michael Flynn? 
+Mr.~ Same objection. 
+The Witness. Fifth. 
+BY-: 
+Q Sidney Powell? 
+Mr.~ Same objection. 
+The Witness. Fifth. 
+BY-: 
+Q Michael Lindell? 
+Mr.~ Same objection. 
+The Witness. Fifth. 
+BY-: 
+Q Andrew Torba? 
+Mr.~ Same objection. 
+The Witness. Fifth. 
+BY-: 
+Q James Watkins? 
+Mr.~ Same objection. 
+The Witness. Fifth. 
+BY-: 
+Q Ron Watkins? 
+Mr.~ Same objection. 
+The Witness. Fifth. 
+BY-: 45  1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 Q Rudy Giuliani? 
+Mr.~ Same objection. 
+The Witness. Fifth. 
+BY-: 
+Q Donald Trump Jr.? 
+Mr.~ Same objection. 
+The Witness. Fifth. 
+BY-
+Q Eric Trump? 
+Mr.~ Same objection. 
+The Witness. Fifth. 
+BY-: 
+Q Jared Kushner? 
+Mr.~ Same objection. 
+The Witness. Fifth. 
+BY 
+Q lvanka Trump? 
+Mr.~ Same objection. 
+The Witness. Fifth. 
+BY-: 
+Q Mark Meadows? 
+Mr.~ Same objection. 
+The Witness. Fifth. 
+B 
+Q Enrique Tarrio? 46  1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 Mr.~ Same objection. 
+The Witness. Fifth. 
+BY-
+Q Stewart Rhodes? 
+Mr.~ Same objection. 
+The Witness. Fifth. 
+BY-: 
+Q And Donald Trump? 
+Mr.~ Same objection. 
+The Witness. Fifth. 
+BY 47 
+10 
+11 
+12 Q All right. We're almost done here, Mr. Matze. Just a few questions more, 
+13 and then some closing matters. 
+14 What was your understanding of what happened at the Capitol on January 6, 
+15 2021? 
+16 Mr.~ Same objection. 
+17 
+18 
+19 The Witness. Fifth. 
+BY 
+Q What responsibility do social media companies hold for the content on their 
+20 services? 
+21 
+22 
+23 
+24 Mr.~ Same objection. 
+The Witness. Fifth. 
+BY-: 
+Q Do you believe that social media companies have an obligation to prevent 
+25 coordinated calls to violent actions from spreading on their platforms?  1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 Mr.~ Same objection. 
+The Witness. Fifth. 
+BY-
+Q Did your experience at Parler change your views on this matter? 
+Mr.~ Same objection. 
+The Witness. Fifth. 
+BY-: 
+Q What do you think was Parler's role in the spread of disinformation and 
+9 violent content in the weeks leading up to January 6th? 
+10 Mr.~ Same objection. 
+11 
+12 
+13 
+14 The Witness. Fifth. 
+- Can we go off the record briefly? 
+Mr.~ Sure. 
+[Discussion off the record.] 48  1 
+2 [3:01 p.m.] 
+3 BY-
+4 Q Do you think Parler is at all responsible for what happened on January 6th, 
+5 Mr. Matze? 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 Mr.~ Same objection. 
+The Witness. Fifth. 
+BY-
+Q What do you think Parler should have and could still do better? 
+Mr.~ Same objection. 
+The Witness. Fifth. 
+BY-: 
+Q Is it a form of censorship for corporations or private businesses to remove 
+14 calls for violence against civilians from their services? 
+15 Mr.~ Same objection. 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 The Witness. Fifth. 
+BY 
+Q What about calls for violence against law enforcement? 
+Mr.~ Same objection. 
+The Witness. Fifth. 
+BY-: 
+Q What about calls of violence against elected officials? 
+Mr.~ Same objection. 
+The Witness. Fifth. 
+BY-49  1 Q Do you believe that social media companies have a responsibility to allow 
+2 Holocaust denialism, White supremacy, xenophobia, bigotry, inciting words by militias 
+3 and other extremists on their platform and why? 
+4 
+5 
+6 
+7 
+8 Mr.~ Same objection. 
+The Witness. Fifth. 
+- Moving along. 
+BY-
+Q Have you been interviewed or contacted by law enforcement regarding 
+9 events surrounding January 6th? 
+10 
+11 
+12 
+13 Mr.~ Same objection. 
+The Witness. Fifth. 
+BY-: 
+Q Following January 6th, have you been contacted by any attorneys 
+14 representing individuals who have been charged with criminal conduct from that day? 
+15 
+16 
+17 
+18 Mr.~ Same objection. 
+The Witness. Fifth. 
+BY-
+Q Have you been in contact with attorneys for President Trump or any of the 
+19 individuals mentioned above regarding the events of January 6th, 2021? 
+20 
+21 
+22 
+23 
+24 
+25 Mr.~ Same objection. 
+The Witness. Fifth. 
+BY-: 
+Q What about attorneys for Parler? 
+Mr.~ Same objection. 
+The Witness. Fifth. 50  51 
+BY-: 1 
+2 Q Is it your intention to assert a Fifth Amendment privilege to all questions we 
+3 ask about --with regards to contacts made by law enforcement or others regarding the 
+4 events of January 6th, 2021? 
+5 
+6 A 
+Q That is correct. 
+Thank you. So on the issue of productions pursuant to the subpoena, Mr. 
+7 Matze, I've been in discussions with Mr. Kelly about your efforts to comply with requests 
+8 for documents contained in the subpoena. 
+9 In an email on Monday, your counsel indicated that you will not produce 
+10 documents that are subject to a privilege held by Parler. 
+11 However, can you confirm that you will still be producing documents that your 
+12 attorney has indicated attorney are in your possession and are not covered by a privilege 
+13 controlled by Parler? 
+14 Mr.~ Well, if they're not privileged, whether it's Fifth Amendment privilege 
+15 or Parler's privilege, and they're responsive as indicated, we'll produce them. But we 
+16 still have --going through them now. 
+17 - I just wanted to confirm that. 
+18 The Witness. Yeah. And I will note that they should have them in their 
+19 possession. Albeit, it may take a while to download because they're quite large. 
+20 
+21 
+22 
+23 
+24 
+25 - You mean Parler? 
+The Witness. No. I meant my attorneys have the documents. 
+- Got it. Thank you, Mr. Matze, for the update. 
+Mr. Kelly, we can keep in touch about that understanding the privileges. 
+Mr.~ I'm sorry, - You're fading there. 
+- We can keep in touch on that-- 1 
+2 
+3 
+4 Mr.~ Yes. 
+- --and the issues at play. 
+Mr.~ Yes. 
+- I just want to make it clear that failure to produce the proper 
+5 documents, your ability to produce, will be considered a failure to comply with select 
+6 committee's subpoena, but seems like Mr. Kelly and I can continue discussing all that. 
+7 BY-
+8 Q Have you been in discussion with Parler about your compliance with this 
+9 subpoena? 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 Mr.~ Same objection. 
+The Witness. Fifth. 
+Mr.~ Are you directing that to me or John? 
+- Mr.Matze. 
+Mr.~ Well then, I'm objecting. 
+The Witness. Fifth. 
+BY-
+Q Has anyone at Parler discouraged you from producing documents or 
+18 providing information to the select committee today? 
+19 
+20 Mr.~ Same objection. 
+The Witness. Fifth. 52 
+21 - So at this point, Mr. Matze has asserted his Fifth Amendment privilege 
+22 as a basis to refuse to answer virtually all of the select committee's questions today. 
+23 Under these circumstances, we will not close the record on the deposition to let the 
+24 Select Committee determine the appropriate course of action to move forward. 
+25 Before we go off the record, I would just ask for a five-minute break, could be  53 
+1 shorter, but let's go off the record because I need to talk about something with Mr. Kelly 
+2 and Mr. Matze. 
+3 Let's go off the record at 3:06. 
+4 [Discussion off the record.] 
+5 BY 
+6 Q Pursuant to our conversation, I'm just going to, again, ask Mr. Matze to 
+7 invoke the privilege to clarify that he indeed wanted to invoke his Fifth Amendment 
+8 privilege for categories of questions that we discussed at the beginning of our deposition. 
+9 So I will start, sort of, where we began earlier this afternoon. And I'll ask you, 
+10 Mr. Matze, was it your intention to assert the Fifth Amendment in response to all 
+11 questions the Committee would ask on the topic of the founding of Parler? 
+12 
+13 
+14 
+15 A 
+Q 
+A 
+Q Yes, it is. 
+How about your role as CEO of Parler? 
+Yes, it is. 
+And was it your intention to assert the Fifth Amendment in response to all 
+16 questions about the general structure of Parler? 
+17 
+18 A 
+Q Yes, it is. 
+And what about all questions in response to the general content moderation 
+19 strategies at Parler? Was it your intention to invoke the Fifth Amendment to all 
+20 questions in that topic area? 
+21 
+22 A 
+Q Yes, it is. 
+And is it your intention to invoke the Fifth Amendment in response to all 
+23 questions the committee has about the finances and fund raising practices of Parler? 
+24 
+25 A 
+Q Yes, it is. 
+And is it your --was it your intention and is it your intention to raise the Fifth  54 
+1 Amendment in response to all questions the committee would ask about Parler's content 
+2 moderation posture in 2020? 
+3 
+4 A 
+Q Yes, it is. 
+And is it your intention to raise the Fifth Amendment in response to all 
+5 questions the committee would ask about Parler's actions during the 2020 election itself? 
+6 
+7 A 
+Q Yes, it is. 
+And is it your intention to raise the Fifth Amendment in response to all 
+8 questions the committee would ask about any attempts by Parler to limit the use of the 
+9 platform by militia extremists, White supremacists, and other violent actors in advance of 
+10 the 2020 election? 
+11 
+12 A 
+Q Yes, it is. 
+And was it and is it your intention to raise the Fifth Amendment in response 
+13 to all questions about Parler's general actions in the aftermath of the 2020 election? 
+14 A Yes, it is. Sorry. I had to think about it twice. 
+15 Q Thanks. And under the next category, was it your intention to raise the 
+16 Fifth Amendment in response to all questions about the reports that we discussed earlier 
+17 and Parler's response to them? 
+18 
+19 A 
+Q Yes. Yes, it is. 
+And I think the last category this applies to is it and was it your intention to 
+20 raise the Fifth Amendment in response to all questions the Committee would ask about 
+21 potentially violent or inciteful content seen on Parler in the run-up to January 6th, and 
+22 any of Parler's attempts to proactively respond to that content? 
+23 
+24 
+25 A Yes, it is. 
+Q Thank you for clarifying all those for the record, Mr. Matze. I appreciate it. 
+- So as I noted, we're going to keep the record open so that the  55 
+1 chairman will have the opportunity to review any of these objections, and the select 
+2 committee can determine the best course of action moving forward. 
+3 Before we go off the record, I wanted to pause to see if any of my colleagues, 
+4 _, 
+had anything they wanted to offer? 
+5 Seeing nothing, I wanted to give Mr. Matze or Mr. Kelly the opportunity to say 
+6 something. 
+Mr.~ We're all set here. 7 
+8 - Okay. In that case, the deposition will stand in recess subject to call 
+9 of the chair. 
+10 [Whereupon, at 3:12 p.m., the deposition was recessed, subject to the call of the 
+11 Chair.] 
+12 
+13 
+14 
+15 Certificate of Deponent/Interviewee 
+16 I have read the foregoing __ pages, which contain the correct transcript of the 
+17 answers made by me to the questions therein recorded. 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 Witness Name  1 
+2 Date 56 

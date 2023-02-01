@@ -1,0 +1,1523 @@
+1 
+2 
+3 
+4 
+5 SELECT COMMITTEE TO INVESTIGATE THE 
+6 JANUARY 6TH ATTACK ON THE U.S. CAPITOL, 
+7 U.S. HOUSE OF REPRESENTATIVES, 
+8 WASHINGTON, D.C. 
+9 
+10 
+11 
+12 DEPOSITION OF: JOHN EASTMAN 
+13 
+14 
+15 
+16 Thursday, December 9, 2021 
+17 
+18 
+19 
+20 Washington, D.C. 
+21 The interview in the above matter was held in Room 1309, Longworth House 
+22 Office Building, commencing at 12:57 p.m. 
+23 Present: Representatives Lofgren, Raskin, Cheney, and Kinzinger. 1  2 
+1 
+2 Appearances: 
+3 
+4 
+5 For the SELECT COMMITTEE TO INVESTIGATE 
+6 THE JANUARY 6TH ATTACK ON THE U.S. CAPITOL: 
+7 
+8 , SENIOR INVESTIGATIVE COUNSEL 
+9 AND OF CHAIR TO THE VICE CHAIR 
+10 , INVESTIGATIVE COUNSEL 
+11 -DETAILEE 
+12 SENIOR INVESTIGATIVE COUNSEL 
+13 PROFESSIONAL STAFF 
+14 CHIEF CLERK 
+15 
+16 
+17 For JOHN EASTMAN: 
+18 
+19 CHARLES BURNHAM  1 
+2 
+3 - Good afternoon. 
+4 This is a deposition of Dr. John Eastman conducted by the House Select 
+5 Committee to Investigate the January 6th Attack on the U.S. Capitol. 
+6 My name is I'm a senior investigative counsel for the committee, 
+7 and I'm also of counsel to the vice chair of the committee, Representative Liz Cheney. 
+8 And I'll let everybody introduce themselves. 
+9 
+10 
+11 
+12 
+13 
+14 
+15 -_, senior counsel to the vice chair. 
+investigative counsel to the select committee. 
+-_, senior investigative counsel to the committee. 
+, professional staff member. 
+Mr. Burnham. Charles Burnham, counsel for Dr. John Eastman. 
+The Witness. Dr. John Eastman. 
+- And just to let you know, there may be members of the committee 
+16 that will either come in person or participate by video. We will keep an eye on that to 
+17 try to let you know and say on the record when members join. 
+18 We probably won't say on the record when they leave just because if they're by 
+19 video, they can just hit exit and we won't necessarily notice when they leave. So the 
+20 record might not always show when the members leave. 
+21 The questions will be led by staff, but we will occasionally pause and see if any of 
+22 the members want to ask any questions before we move on. 
+23 As you know, there is a court reporter here. 
+24 And why don't we go ahead and administer the oath? 
+25 The Reporter. Please raise your right hand. 3  4 
+1 Do you solemnly declare and affirm under the penalty of perjury that the 
+2 testimony you are about to give will be the truth, the whole truth, and nothing but the 
+3 truth? 
+The Witness. I do. 4 
+5 - So, Dr. Eastman, as you know, there is a court reporter here who will 
+6 be making a verbatim transcript of the interview. You will be given an opportunity --or 
+7 your counsel --to review the transcript, probably here in the House office buildings, and 
+8 to identify any errors you identify. The committee can take those into consideration 
+9 before finalizing the transcript. Also, as we said, there's a video as well as audio 
+10 recording. 
+11 As far as logistics, if at any time you want to take a break, we'd be happy to allow 
+12 that. Just say so. If the witness needs to speak with counsel privately, we can take a 
+13 break for that to occur. 
+14 Dr. Eastman, I want to make sure you understand that you're appearing pursuant 
+15 to the subpoena dated November 8th, 2021, which is exhibit 1 in the binder that you've 
+16 been provided. 
+17 I want to make sure you also understand that you're under oath, so any knowing 
+18 false statements could constitute perjury or violation of other Federal laws, such as 18 
+19 U.S.C. 1001, so it's important that you always tell the truth. 
+20 If you either don't hear a question or don't understand a question, please say so, 
+21 so that we can either repeat it or try to clarify it. Also, if you don't recall or don't know 
+22 the answer, feel free to say so. 
+23 With that said, I'll turn to Mr. Burnham, who I understand wants to make a 
+24 statement for the record. 
+25 Mr. Burnham. Thank you, - 5 
+1 First, on December 1st, I sent a letter to Chairman Thompson raising our objection 
+2 to the subpoena you referred to, and I'd like to ask if that could be made a part of the 
+3 official record of today's deposition. 
+4 - Yes. And I believe that is in the binder as exhibit 2. And so that 
+5 will be in the record. 
+6 
+7 Mr. Burnham. Okay. 
+And then just --I hadn't planned to say this, but you mentioned earlier that 
+8 committee members might be joining here and there. To the extent possible, can you 
+9 let us know who's here and who's coming? 
+10 Yes. So we will try to keep an eye on the video screen. It should 
+11 pop up with their names on it. Sometimes it's only a first name or a last name, but we 
+12 will try to notice it when we do, between questions, pause, and note for the record that 
+13 they've joined. 
+14 
+15 
+16 Mr. Burnham. And I can watch it. They'll show up on this big TV here? 
+- Yes. 
+Mr. Burnham. All right. So I can watch as well. Thank you. 
+17 With that said, short statement on behalf of my client. 
+18 We wish to preserve the objections in full noted in the letter I referred to a 
+19 moment ago, but need not elaborate on them further here, with one exception. 
+20 I wish to emphasize to the committee the importance of the Fifth Amendment to 
+21 the United States Constitution, which I have counseled my client to invoke. 
+22 This right is fundamental to our system of justice. As I stated in my letter, our 
+23 Supreme Court has called the Fifth Amendment a safeguard against heedless, unfounded, 
+24 or tyrannical prosecution to protect the innocent, as well as the guilty. 
+25 Invoking the Fifth Amendment is not an admission of guilt and no one should  6 
+1 describe it as such. We make no apologies for seeking Fifth Amendment protection as 
+2 so many law-abiding Americans have done throughout history. 
+3 In asserting this privilege on my client's behalf, I cannot reveal information 
+4 protected by the attorney-client privilege. Doing so would violate my duty as a lawyer, 
+5 the importance of which I need not explain to a committee with distinguished lawyers 
+6 among its members and staff. 
+7 But, in fact, there is no need to reveal privileged information to establish Dr. 
+8 Eastman's basis for Fifth Amendment protection. One need only look to the public 
+9 record to understand why claiming the Fifth Amendment is a necessity forced upon Dr. 
+10 Eastman. 
+11 I have detailed on pages 8 and 9 of my letter, which is now a part of the record, 
+12 examples of statements from committee members and other voices of influence which 
+13 made clear that Dr. Eastman has a legitimate fear of criminal prosecution. 
+14 I could offer many additional examples beyond those in my letter, but out of 
+15 respect for this committee's time, I will limit myself to two further examples beyond what 
+16 I've already put in the letter. 
+17 The first one: According to news reports, on December 1st a United States 
+18 district judge, who herself has a background in Federal prosecution, stated during the 
+19 criminal sentencing of a defendant charged with committing crimes on January 6th that 
+20 the President, former President Trump, and others who spoke at the rally on the Ellipse 
+21 that day, quote, "bear greater responsibility and should be held accountable," unquote. 
+22 This from a judge in the very courthouse where over 600 people were criminally charged 
+23 in connection with January 6th. 
+24 My second example, second and final example, is there is an active bar complaint 
+25 against Dr. Eastman in California bearing on the exact subject matter of this deposition.  7 
+1 The bar complaint alleges that Dr. Eastman may have assisted former President Donald 
+2 Trump in criminal conduct in connection with the 2020 election and January 6th. 
+3 In other words, there is currently pending today against Dr. Eastman formal legal 
+4 process specifically alleging criminal activity in connection with the very event described 
+5 in the cover letter to this committee's subpoena. 
+6 I submit that based on these facts, Dr. Eastman has a clear case, as clear a case for 
+7 Fifth Amendment protection as this committee --or indeed any committee --is ever likely 
+8 to encounter. 
+9 In closing, I wish to emphasis that Dr. Eastman's purpose here is simply to do his 
+10 duty as a citizen. Dr. Eastman is a distinguished lawyer and scholar of the law. He 
+11 recognizes his legitimate responsibilities to the United States Congress. 
+12 The law is clear that invocation of the Fifth Amendment must, if Congress 
+13 requested, be offered on a question-by-question basis. This committee has made such a 
+14 request and Dr. Eastman has come here today from far out of town, at his own expense, 
+15 to comply. 
+16 
+17 And with that, the committee may inquire. Thank you. 
+- Great. Thank you, Mr. Burnham, for your statement. Both your 
+18 statement, which you've just provided to the committee, as well as your letter of 
+19 December 1st, are in the record. 
+20 And I would note for the record, I believe two members of the committee have 
+21 joined us, Vice Chair Cheney and Mr. Raskin. The way it's set right now, unfortunately, 
+22 we can't see both of them, but we will try to get it switched to grid view so that we can 
+23 keep track of who's joining. 
+24 I am going to just very quickly, in order to save time, go over a little bit of the 
+25 witness' professional background.  1 
+2 
+3 
+4 
+5 
+6 
+7 EXAMINATION 
+BY 
+Q Dr. Eastman, you are a lawyer, correct? 
+A Correct. 
+Q And are you a graduate of the University of Chicago Law School? 
+A Yes. 
+Q And I know of your very distinguished clerkships. Can you tell us who you 
+8 clerked for after law school? 
+A Judge Michael Luttig and Justice Clarence Thomas --like you, 
+Q Yes. And then did you practice at a law firm following your clerkships? 
+A I did, at Kirkland & Ellis. 
+Q For how long? 
+A Two years. 
+Q And following that --
+A Not including time as summer associate. 
+I understand. And what did you do after leaving Kirkland & Ellis? 8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 Q 
+A I went into teaching and founded a public interest law firm called the Center 
+18 for Constitutional Jurisprudence at the Claremont Institute. 
+19 Q And do I understand that you both have taught in an academic setting and 
+20 also represented clients as well? 
+21 
+22 A That's correct. 
+Q If nobody has any questions about the background of the witness, I'll just 
+23 start getting into the more substantive questions. 
+24 Dr. Eastman, in an interview with Larry Lessig and Matt Seligman on the "Another 
+25 Way" podcast, September 27th, 2021, you were asked about the memoranda that you  9 
+1 wrote regarding the role of the Vice President in counting the electoral college votes on 
+2 January 6th, and you said, quote, "Although I did have a client in this, the client, the 
+3 President, the former President of the United States, has authorized me to talk about 
+4 these things. I want to make that clear upfront," close quote. 
+5 Did President Trump authorize you to talk publicly about the memoranda that you 
+6 wrote? 
+7 
+8 Mr. Burnham. I beg the committee's indulgence. 
+The Witness. On the advice of counsel, I hereby assert my Fifth Amendment 
+9 right against being compelled to be a witness against myself. And with the committee's 
+10 permission, I will invoke this right as necessary in response to further questions by simply 
+11 stating "The Fifth." 
+12 BY-
+13 Q So is it your position that you can discuss those memoranda in public 
+14 settings, but will not discuss those memoranda with the committee pursuant to a 
+15 subpoena? 
+16 
+17 A 
+Q Fifth. 
+On May 5th, 2021, in an interview with --of the "Peter Boyle Show," you 
+18 said, "I met with the President and the Vice President on January 4th in the Oval Office 
+19 and the President had been advised, based on law review articles that were done after 
+20 the 2000 election, that, in fact, maybe the Vice President had unilateral authority to 
+21 determine the validity of contested electoral votes." 
+22 You said later in the interview that, quote, "I would normally not talk about a 
+23 private conversation I had with a client, but I have express authorization from my client, 
+24 the President of the United States, at that time to describe what occurred, to truthfully 
+25 describe what occurred in that conversation," close quote.  1 Did President Trump authorize you to discuss publicly your January 4th, 2021, 
+2 conversation with him? 
+3 
+4 A 
+Q Fifth. 
+So is it your position that you can discuss in the media direct conversations 
+5 you had with the President of the United States, but you will not discuss those same 
+6 conversations with this committee? 
+A Fifth. 10 
+7 
+8 Mr. Burnham. And, committee's indulgence, just to be clear, I advised my client 
+9 not only to take the Fifth, but we're not in a position to go into the basis of the Fifth 
+10 without defeating the position itself, which is likely to be answers to --similar answers 
+11 will be offered to questions such as the one just asked, if that helps. 
+12 BY 
+13 Q Dr. Eastman, you've not produced any documents in response to the 
+14 subpoena, which is in exhibit 1. Why have you not produced any documents to the 
+15 committee? 
+16 
+17 A 
+Q Fifth. 
+Just so I understand, is it your position that the act of producing documents, 
+18 as opposed to the content of the documents themselves, could tend to incriminate you? 
+19 
+20 A 
+Q Fifth. 
+Dr. Eastman, did you use a Chapman University email account for any 
+21 communications related to the 2020 election? 
+22 
+23 A 
+Q Fifth. 
+Dr. Eastman, did you use a Gmail account for any communications related to 
+24 the 2020 election? 
+25 A Fifth.  11 
+1 Q Dr. Eastman, did you use any other email account for communication related 
+2 to the 2020 election? 
+3 
+4 A 
+Q Fifth. 
+Did you send or receive any text messages related to the 2020 election using 
+5 your personal cell phone? 
+6 
+7 A 
+Q 
+8 computer? 
+9 
+10 
+11 
+12 A 
+Q 
+A 
+Q Fifth. 
+Do you have any documents regarding the 2020 election on your personal 
+Fifth. 
+Do you have any documents regarding the 2020 election on any server? 
+Fifth. 
+Dr. Eastman, were you in Philadelphia in connection with your participation 
+13 in a panel on federalism and separation of powers at the Federalist Society National 
+14 Lawyers Conference that took place in November 2020? 
+15 
+16 
+17 
+18 A 
+Q 
+A 
+Q Fifth. 
+While you were in Philadelphia, did you meet with Corey Lewandowski? 
+Fifth. 
+Dr. Eastman, did you represent President Trump or his campaign in 
+19 challenging the results of the 2020 election? 
+20 
+21 A 
+Q Fifth. 
+Dr. Eastman, do you have an engagement letter or other document 
+22 memorializing your relationship with President Trump or his campaign? 
+23 
+24 A 
+Q Fifth. 
+Dr. Eastman, did you receive any legal fees for your work on behalf of 
+25 President Trump or his campaign?  1 
+2 A 
+Q 12 
+Fifth. 
+During a Georgia State Senate Judiciary Committee hearing dated 
+3 December 3rd, 2020, Mayor Rudy Giuliani stated that the legislators were provided with 
+4 copies of a 7-page paper that you authored. 
+5 Will you produce to the committee this document that was previously shared with 
+6 Georgia legislators? 
+7 
+8 A 
+Q Fifth. 
+Okay. Dr. Eastman, did you reach out to State legislators after the 2020 
+9 Presidential election? 
+10 
+11 A 
+Q Fifth. 
+Okay. Just so I understand, we've been trying to save --allow you to save 
+12 some time by saying "Fifth," but I just want to make sure that with regard to the question 
+13 of whether you reached out to State legislators after the 2020 Presidential election, 
+14 you're invoking your Fifth Amendment right on the grounds that answering the question 
+15 could potentially incriminate you? 
+16 
+17 
+18 
+19 
+20 
+21 
+22 Mr. Burnham. That's correct. 
+- I think I need the witness to say it. 
+The Witness. I'm claiming the Fifth. 
+Q 
+A 
+Q BY 
+Dr. Eastman, did you contact any State legislative leadership in Arizona? 
+Fifth. 
+Dr. Eastman, did you contact the office of Arizona House Speaker Rusty 
+23 Bowers in mid-December? 
+24 
+25 A 
+Q Fifth. 
+Dr. Eastman, are you going to take --invoke your Fifth Amendment right  13 
+1 against self-incrimination with regard to any other questions that I would ask regarding 
+2 whether you reached out to State legislators regarding the 2020 election? 
+3 Mr. Burnham. If I may, Dr. Eastman will probably assert the Fifth in response to 
+4 that question, but from my perspective as counsel the answer is yes. 
+5 - Okay. And Ms. Lofgren, I believe, has joined us. And we're going 
+6 to need to take just a very short break, and we'll go off the record. 
+7 [Discussion off the record.] 
+8 I think we just need to hear from Dr. Eastman the invocation of the 
+9 Fifth that counsel just made. 
+10 
+11 The Witness. Yes. I'm taking advice of counsel and invoking the Fifth. 
+- Okay. We'll take a 5-minute break and then we'll come back on the 
+12 record. And I'll just remind you that the camera is still rolling. If you want to talk 
+13 privately, you can use that room. I think we need to speak amongst each other also. 
+14 So 5 minutes. 
+15 [Recess.] 
+16 
+17 - Okay. We'll go back on the record. 
+I believe Mr. Kinzinger has joined us. So I believe we have Vice Chair Cheney, Mr. 
+18 Raskin, Ms. Lofgren, and Mr. Kinzinger on. 
+19 BY-
+20 Q Dr. Eastman, if you could turn your attention to exhibit 7 in your binder, 
+21 which has a cover memo dated December 14th, 2020. If you turn to the next page, it's a 
+22 document entitled, "Certificate of the votes of the 2020 electors from Arizona." 
+23 Dr. Eastman, have you seen that document before? 
+24 
+25 A 
+Q Fifth. 
+Dr. Eastman, did you have any role in drafting that document?  1 
+2 
+3 
+4 
+5 States? A 
+Q 
+A 
+Q 
+A Fifth. 
+Dr. Eastman, do you know who drafted that document? 
+Fifth. 
+Dr. Eastman, did you draft any certificates of electoral votes for any other 
+Fifth. 6 
+7 
+8 - Okay. I think Mr. Raskin may have a question. 
+Mr. Raskin. Yes. Thank you. 
+9 I wanted to ask Dr. Eastman whether he's asserting the Fifth just with respect to 
+10 the actions he took on January 6th and days leading up or whether he is asserting the 
+11 Fifth with respect to the ideas that he has promoted about the electoral college. 
+12 Mr. Burnham. I beg the Congressman's pardon. As I mentioned to 14 
+a 
+13 moment ago, I've instructed my client that he should claim the Fifth not only in response 
+14 to questions about the subject matter of the subpoena, but also as to questions about the 
+15 basis for the Fifth Amendment, as doing so would defeat the protection of the Fifth 
+16 Amendment itself. 
+17 But to help, as best as I can, I suspect that most of the questions asked under the 
+18 heading of the general subject matters that were just offered would probably result in an 
+19 invocation. 
+20 I hope that's helpful. 
+21 Mr. Raskin. I appreciate that. But I'm not asking with respect to the basis for 
+22 his invocation of the Fifth. I'm asking for which questions he will answer and which not. 
+23 Will he answer questions with respect to the substantive content of his ideas 
+24 about the Vice President and the electoral college? 
+25 Mr. Burnham. I've advised him not to answer such questions on Fifth  15 
+1 Amendment grounds. 
+2 Mr. Raskin. Well, then, if he's going to assert it, would he assert it so I can hear 
+3 that? 
+4 Mr. Burnham. Certainly. 
+5 The Witness. Yes. On advice of counsel, I'm asserting the Fifth. 
+6 Mr. Raskin. Okay. So to be clear, you're asserting the Fifth Amendment as to 
+7 whether or not you were answering --you're asserting the Fifth as to whether or not 
+8 you're refusing to answer questions just about all of your actions or also about the ideas 
+9 that you have about the electoral college. Is that right? 
+10 
+11 
+12 
+13 
+14 The Witness. And on advice of counsel, yes, I'm asserting the Fifth. 
+Mr. Raskin. Thank you. I yield back. 
+Do any other members have questions? 
+BY-
+Q Dr. Eastman, if you could turn your attention to exhibit 10 in your binder, 
+15 which has a --the first page is an email from Jeffrey Clark at the Department of Justice 
+16 dated December 28th, 2020, and then the next several pages are a draft of a letter to 
+17 Governor Brian Kemp, Speaker of the House David Ralston, President Pro Tern of the 
+18 Senate Butch Miller, all of the State of Georgia. 
+19 Have you seen this letter before? 
+20 
+21 
+22 
+23 
+24 
+25 A 
+Q 
+A 
+Q 
+A 
+Q Fifth. 
+Dr. Eastman, did you have any role in drafting this letter? 
+Fifth. 
+Dr. Eastman, did you speak to Jeffrey Clark about this letter? 
+Fifth. 
+Dr. Eastman, did you speak with anyone else at the Department of Justice  16 
+1 regarding efforts to overturn the results of the 2020 Presidential election? 
+Fifth. 2 
+3 A 
+Q Dr. Eastman, regarding the 2020 election, did you speak with Representative 
+4 Scott Perry? 
+5 
+6 A 
+Q Fifth. 
+Dr. Eastman, with regard to the 2020 election and any efforts to change the 
+7 outcome of the election, did you speak with Senator Josh Hawley? 
+8 
+9 A 
+Q Fifth. 
+And just so I understand, Dr. Eastman, with regard to whether you had any 
+10 conversations with Senator Josh Hawley about efforts to overturn the results of the 2020 
+11 election, you're taking the Fifth Amendment on the grounds that your answer could tend 
+12 to incriminate you? 
+13 
+14 
+15 A 
+Q Fifth. 
+Is that a yes? 
+Mr. Burnham. That was an invocation of the Fifth in response to your question 
+16 about his basis for taking the Fifth, but I think it could be taken as a yes. 
+17 Okay. Just to be clear, I wasn't trying to ask about the basis for 
+18 taking the Fifth, I just wanted to clarify that he was taking the Fifth on the grounds that it 
+19 could incriminate him, not anything about the factual basis or legal basis underlying that. 
+20 BY 
+21 
+22 
+23 Q 
+A 
+Q Dr. Eastman, did you clerk with now Senator Ted Cruz. 
+Yes. 
+Dr. Eastman, did you have any communications with Senator Ted Cruz 
+24 regarding efforts to change the outcome of the 2020 election? 
+25 A Fifth.  1 Q Dr. Eastman, did you have any conversations with any other Members of 
+2 Congress regarding the efforts to overturn the outcome of the 2020 election? 
+3 
+4 A 
+Q Fifth. 
+Dr. Eastman, it's been publicly reported that on or about December 31st, 17 
+5 2020, a member of the Trump legal team reached out to you while you were on vacation 
+6 with your family in Texas. 
+7 Dr. Eastman, who contacted you from the Trump legal team? 
+8 
+9 
+10 
+11 A 
+Q 
+A 
+Q Fifth. 
+Did that person ask you to do anything? 
+Fifth. 
+Did the Trump legal team ask you to prepare a memorandum regarding the 
+12 Vice President's role in the counting of electoral votes at the joint session of Congress on 
+13 January 6th, 2021? 
+14 A Fifth. 
+15 
+16 
+17 Q 
+A 
+Q Dr. Eastman, did you have a conversation with Senator Mike Lee? 
+Fifth. 
+Dr. Eastman, when asked about a call with Senator Mike Lee by the National 
+18 Review, you stated to the National Review that you had a conversation with Senator Lee 
+19 and that, quote, "We were working on broader things," close quote. 
+20 Dr. Eastman, what were those broader things on which you were working with 
+21 Senator Mike Lee? 
+22 
+23 
+24 
+25 A Fifth. 
+Okay. I'll pause. Anybody have any questions? 
+Do any members have any questions at this time? 
+Mr. Raskin. I'd like to ask one further question if I could.  1 
+2 - Yes, of course. 
+Mr. Raskin. I'd like to ask Dr. Eastman whether the Vice President has ever 
+3 exercised unilateral authority to reject electoral college votes coming from a particular 
+4 State before in American history? 
+5 
+6 
+7 
+8 The Witness. Fifth. 
+Mr. Raskin. I yield back. 
+BY-
+Q Just so I understand, in response to Mr. Raskin's question about a historical 
+9 fact, not about your conduct, you are invoking your Fifth Amendment right against 
+10 self-incrimination? 
+11 
+12 A 
+Q I claim the Fifth. 
+Dr. Eastman, on January 2nd, 2021, you appeared on Steve Bannon's "War 
+13 Room" podcast. I'm going to read you some brief excerpts there. 
+14 Mr. Bannon said, quote, "Are we to assume that this is going to be a climactic 
+15 battle?" close quote. 
+16 Dr. Eastman, you said, quote, "Well, I think a lot of that depends on the courage 
+17 and the spine of the individuals involved," close quote. 18 
+18 Dr. Eastman, what did you understand Mr. Bannon to mean when he said on this 
+19 podcast asking whether there could be a climactic battle? 
+20 
+21 A 
+Q Fifth. 
+Dr. Eastman, at the time that you engaged in the podcast on January 2nd, 
+22 2021, with Mr. Bannon, had you heard that there would be protests on January 6th? 
+23 A Counsel, can you clarify the date of the "War Room" podcast in your last 
+24 question? I thought you had said January 21st. 
+25 Q I certainly didn't mean to. If I did, I apologize. The date of the podcast  19 
+1 was January 2nd, 2021. So I'm happy to repeat the question. 
+2 A If you would, please. 
+3 Q When you were on the January 2nd, 2021, podcast with Steve Bannon called 
+4 the "War Room," had you heard that there would be protests on January 6th? 
+5 
+6 A 
+Q Fifth. 
+When you were on the podcast with Mr. Bannon, had anyone mentioned to 
+7 you the possibility that protests on January 6th could turn violent? 
+8 
+9 A 
+Q Fifth. 
+So on that podcast, after you said, "Well, I think a lot of that depends on the 
+10 courage and the spine of the individuals involved," Mr. Bannon said, quote, "When you 
+11 just said the courage and the spine, are you talking on the other side of the football? 
+12 Would you be --would you be --that'd be a nice way to say a guy named Mike, Vice 
+13 President Mike Pence," close quote. 
+14 Your answer: "Yes." 
+15 What did you mean when you stated that a lot of that would depend on the 
+16 courage and spine of Vice President Mike Pence? 
+17 
+18 A 
+Q Fifth. 
+On that same podcast, you also told Mr. Bannon that Mayor Rudy Giuliani 
+19 was working in the Senate to stop the election certification. What work was Mayor 
+20 Giuliani doing in the Senate to stop the certification? 
+21 
+22 A 
+Q Fifth. 
+Dr. Eastman, did you speak with any United States Senators about stopping 
+23 the certification on January 6th? 
+24 
+25 A 
+Q Fifth. 
+Dr. Eastman, will you answer any of my questions regarding your public  1 appearance on Steve Bannon's "War Room" podcast on January 2nd, 2021? 
+2 
+3 
+4 
+5 
+6 A No. Fifth. 
+I'll move on. 
+Any members have any questions at this point? 
+Okay. 
+Dr. Eastman, I'm going to ask you some questions about your involvement in a 
+7 so-called "war room" at the Trump --I'm sorry. No. 20 
+8 First, I'm going to ask you about some meetings at both the Trump Hotel and the 
+9 Willard, the latter of which meaning the Willard, we understand, had a war room. 
+10 Did you stay at the Willard Hotel between January 3rd and January 8th, 2021? 
+11 
+12 
+13 Mr. Burnham. Can I interpose a point of order? 
+Yes. 
+Mr. Burnham. It just occurred to me that on several occasions both the 
+14 Congressman and yourself have asked questions along the lines of, Dr. Eastman, will you 
+15 answer any questions about some category of topics, like the podcast, and he said no. 
+16 
+17 - Uh-huh. 
+Mr. Burnham. I just want to make clear that that's not meant to be a blanket 
+18 assertion. If any of the members of the committee or yourself want to ask however 
+19 many questions as you want about any subject, we're happy to answer them. 
+20 
+21 
+22 - Okay. Answer them or invoke privileges? 
+Mr. Burnham. Most likely the latter. 
+- Okay. I understand that and I appreciate it. I'm also trying to save 
+23 some time. So if on any of these topics if I ask a question whether or not he'd be willing 
+24 to answer, I'm asking would he be willing to answer any of them without invoking the 
+25 Fifth Amendment. If for any of them he is willing, then I would have a much longer list  21 
+1 of questions. 
+Mr. Burnham. I understand. 2 
+3 - Okay. So are you comfortable with me asking that type of question 
+4 or do you prefer that I go through question by question? 
+5 Mr. Burnham. Perfectly comfortable with that type of question. 
+6 - Okay. 
+7 Mr. Burnham. I just wanted to make clear we weren't trying to do an improper 
+8 blanket assertion. 
+9 No, I understand. 
+10 
+11 
+12 
+13 Mr. Burnham. I appreciate the question. 
+- Yeah. Thank you for that clarification. 
+BY 
+Q Dr. Eastman, did you stay at the Willard Hotel between January 3rd and 
+14 January 8th, 2021? 
+15 
+16 A Fifth. 
+Q With whom did you meet at the Willard Hotel between January 3rd and 
+17 January 8th, 2021? 
+18 
+19 A 
+Q Fifth. 
+Dr. Eastman, did you participate in a so-called "war room" at the Willard 
+20 Hotel between January 3rd and January 8th, 2021? 
+21 
+22 
+23 
+24 A 
+Q 
+A 
+Q Fifth. 
+Dr. Eastman, what was the purpose of this war room? 
+Fifth. 
+Dr. Eastman, while you were at the war room between January 3rd and 
+25 January 8th, 2021, did you have any conversations with President Donald Trump?  1 
+2 A 
+Q Fifth. 
+Just so I understand, Dr. Eastman, with regard to the question of whether 
+3 you had any conversations with President Donald Trump while at the Willard Hotel war 
+4 room, you're invoking the Fifth Amendment right against self-incrimination? 
+A Fifth Amendment right not to be compelled to be a witness against myself. 5 
+6 - All right. Before I move on to some of the legal memoranda you 
+7 wrote, I'll pause to see if anybody has any other questions. 
+8 Nope? 
+9 Okay. 
+10 BY 22 
+11 Q Dr. Eastman, I'm going to ask you about a couple of legal memoranda that, I 
+12 believe, don't have your name on them, but have been in public reports attributed to you. 
+13 If you could look at exhibit 14 in your binder. There is a two-page memorandum. 
+14 And just for ease of reference, I may refer to this as the two-page memorandum to 
+15 distinguish it from another memorandum that I believe you wrote later. 
+16 Dr. Eastman, did you write this two-page memorandum? 
+17 
+18 A 
+Q Fifth. 
+Just so I understand, Dr. Eastman, you're invoking your Fifth Amendment 
+19 right against self-incrimination with regard to whether you are the author of this legal 
+20 memorandum? 
+21 A I'm invoking my Fifth Amendment right not to be compelled to be a witness 
+22 against myself. 
+23 
+24 
+25 Q 
+A 
+Q Dr. Eastman, did anyone ask you to write this memorandum? 
+Fifth. 
+Dr. Eastman, did you discuss this memo with Jenna Ellis?  1 
+2 
+3 
+4 A 
+Q 
+A 
+Q Fifth. 
+Dr. Eastman, to whom did you give this memo? 
+Fifth. 
+Dr. Eastman, the first sentence of the memo starts off by saying, "7 States 
+5 have transmitted dual slates of electors to the President of the Senate." 
+6 Is that statement in this memo true? 
+7 
+8 A 
+Q Fifth. 
+Dr. Eastman, at the bottom of page 1 this memorandum states, "So here's 
+9 the scenario we propose." 
+10 Dr. Eastman, who is the "we" you were --who is the "we" that the author of this 
+11 memo referred to? 
+12 
+13 A 
+Q Fifth. 
+Dr. Eastman, on the next page there are six numbered paragraphs. The 
+14 one that starts with third reads, quote, "At the end, he announces that because of the 
+15 ongoing dispute in the 7 States, there are no electors that can be deemed validly 23 
+16 appointed in those States," close quote, and so President Trump would have a majority of 
+17 the electors counted, and, quote, "Pence then gavels President Trump as re-elected," 
+18 close quote. 
+19 Dr. Eastman, did you advise the President of the United States that the Vice 
+20 President could reject electors from seven States and declare that the President had been 
+21 re-elected? 
+22 
+23 A 
+Q Fifth. 
+In the paragraph starting with --paragraph No. 4, it starts with, "Howls, of 
+24 course" --you describe that the Vice President could declare that no candidate received a 
+25 majority of the electoral votes and, therefore, the election would go to the House of  24 
+1 Representatives, where Republicans control the majority of State delegations and 
+2 President Trump is re-elected there as well. 
+3 Dr. Eastman, did you advise the President of the United States that the Vice 
+4 President could reject electors from seven States and cause the selection of the President 
+5 of the United States to be made by the U.S. House of Representatives? 
+6 
+7 A 
+Q Fifth. 
+Dr. Eastman, in the paragraph No. 5 that starts with, "One last piece," the 
+8 memo states --and I'm not quoting here, but summarizing --when the Vice President got 
+9 to the electoral votes for Arizona and Members of Congress objected, someone in the 
+10 Senate should filibuster in order to create more time for States to send alternate slates of 
+11 electors. 
+12 Dr. Eastman, did you advise the President of the United States that he should have 
+13 Members of Congress object to the electors from several States in order to create more 
+14 time for States to send alternate slates of electors? 
+15 
+16 A 
+Q Fifth. 
+And, again, are you invoking your Fifth Amendment right against 
+17 self-incrimination with regard to that question? 
+18 A I'm invoking the Fifth Amendment right not to be compelled to be a witness 
+19 against myself. 
+20 Q Dr. Eastman, did the President of the United States encourage Members of 
+21 Congress to object to electors from several States in order to create more time for States 
+22 to send alternate slates of electors? 
+23 
+24 A 
+Q Fifth. 
+Dr. Eastman, did you discuss with any Members of Congress your plan to 
+25 have Members of Congress object to State electors in order to prevent certification of the  1 electoral votes on January 6th, 2021? 
+2 
+3 A 
+Q Fifth. 
+If you look at exhibit 16 --I'm staying on the topic of that two-page 
+4 memo --but exhibit 16 is an opinion and commentary under the heading "Viewpoints" 
+5 published in The Sacramento Bee. It indicates that it was authored by you. 25 
+6 In that commentary, you describe your two-page memo, which I believe is the one 
+7 we just went over, as, quote, "a preliminary and incomplete one, a draft of a more 
+8 complete memo that outlined all the scenarios that had become topics of discussion 
+9 following the November 2020 election," close quote. 
+10 Do you know whether your two-page memo, despite being preliminary and 
+11 incomplete, was provided to the President of the United States? 
+12 
+13 A 
+Q Fifth. 
+Do you know whether that memo was provided to any advisers of the 
+14 President of the United States? 
+15 
+16 
+17 
+18 A 
+Q 
+A 
+Q Fifth. 
+Dr. Eastman, did you write the opinion piece that's in tab 16? 
+Fifth. 
+Okay. Just so I understand, Dr. Eastman, you're invoking your Fifth 
+19 Amendment right against self-incrimination to question whether this opinion and 
+20 commentary piece with the byline John C. Eastman, you're invoking the Fifth Amendment 
+21 right to not answer that question? 
+22 A On advice of counsel, I'm invoking the Fifth. 
+23 - Okay. I'm going to pause there to see if any members have any 
+24 questions. And we're still on the first memo, so we haven't yet gotten to the longer 
+25 version of the memo.  1 
+2 Does anybody have any questions about the two-page memo? 
+Mr. Raskin. Yeah, I do have a question about that. 
+3 In this commentary, Dr. Eastman takes exception to Dean Chemerinsky's 26 
+4 statements that he was involved in trying to overthrow the government or stage a coup. 
+5 Why did you take exception to those statements? 
+6 
+7 
+8 
+9 
+10 
+11 before. The Witness. Fifth. 
+Anything else? 
+Mr. Raskin. I'm sorry. Did he assert the Fifth Amendment about that? 
+He did. 
+Mr. Raskin. Okay. I just wanted to go back to something that was asked 
+12 Did you --were you acting as a lawyer for Donald Trump during the events leading 
+13 up to January 6th? 
+14 
+15 The Witness. Fifth. 
+Mr. Raskin. Are you asserting the Fifth Amendment in your capacity as a lawyer 
+16 and a citizen or just as a citizen? 
+17 
+18 
+19 The Witness. Fifth. 
+Mr. Raskin. Okay. I yield back. 
+- Any other members have questions? 
+20 Any other staff have questions? 
+21 Go ahead. 
+22 BY 
+23 Q Along those lines, Mr. Eastman, if you could turn to exhibit No. 5. And this 
+24 is a filing in the Supreme Court of the United States that is titled, "A Motion of Donald J. 
+25 Trump, President of the United States, to Intervene in His Personal Capacity as Candidate  27 
+1 for Re-Election, Proposed Bill of Complaint in Intervention, and Brief in Support of Motion 
+2 to Intervene." 
+3 And you are listed, John C. Eastman, as counsel of record, from One University 
+4 Drive in Orange, California, with an email address at Chapman University. 
+5 Are you the person that's listed on that Supreme Court filing at exhibit No. 5? 
+6 
+7 A 
+Q Fifth. 
+Could you please turn to exhibit No. 8? That is another filing in the 
+8 Supreme Court of the United States that is titled, "Motion for Expedited Consideration," 
+9 where, again, John C. Eastman, Esq., is listed as counsel for petitioner, which is Donald J. 
+10 Trump for President, Inc. 
+11 Are you the person that's listed there as counsel of record in exhibit No. 8? 
+12 
+13 A 
+Q On advice of counsel, I'm asserting the Fifth. 
+If you could turn to exhibit No. 9. That is a filing in the Supreme Court of 
+14 the United States that's titled, "Reply to Secretary Boockvar's Response in Opposition to 
+15 the Motion for Expedited Consideration of the Petition for a Writ of Certiorari." 
+16 And that is Donald J. Trump for President, Inc. as petitioner, with Kathy Boockvar, 
+17 Secretary of the Commonwealth of Pennsylvania, as respondent, with John C. Eastman 
+18 listed as counsel of record for the petitioner. 
+19 Is that you who is listed on that filing in the United States Supreme Court? 
+20 
+21 A 
+Q On advice of counsel, I'm asserting the Fifth. 
+And just to be clear, are you asserting the Fifth Amendment because a 
+22 truthful answer might tend to incriminate you --
+23 
+24 
+25 A 
+Q 
+A I'm asserting --
+--on this question? 
+I'm asserting the Fifth.  1 
+2 Q 28 
+BY-
+Okay. While we're on those documents, tab 9 has a John C. Eastman, and 
+3 then at the bottom there has a Gmail account. And I'm not going to read the address in 
+4 case you still use that email account. 
+5 Do you still have access to the emails in the Gmail account referenced in the 
+6 bottom of that page? 
+7 A Fifth. 
+8 Q And going back to tab 5, similarly, there's a John C. Eastman, counsel of 
+9 record. At the bottom, there is a Chapman.edu email address. 
+10 
+11 
+12 Do you still have access to the emails in the Chapman email account? 
+A 
+Q Fifth. 
+Okay. Going back to exhibit 16, on the fourth page, sort of in the middle of 
+13 the page, with regard --and the context is the Vice President's authority to reject 
+14 electors. 
+15 The John C. Eastman who wrote this article, whether that's you or not, wrote, "But 
+16 as The New York Times confirmed through thorough investigation and reporting on this 
+17 critical issue, I did not advise Pence to exercise such authority." 
+18 You further wrote, quote, "It would be foolish to exercise it" --meaning that 
+19 authority --"in the absence of certifications of alternate Trump electors from the 
+20 contested States' legislatures," close quote. 
+21 Dr. Eastman, do you acknowledge that there were no alternate electors sent from 
+22 contested States? 
+23 
+24 A 
+Q Fifth. 
+Dr. Eastman, if, in fact, there were no alternate electors from contested 
+25 States, why did you write in the first sentence of the two-page memo that, quote, "7  29 
+1 States have transmitted dual slates of electors to the President of the Senate," close 
+2 quote? 
+Fifth. 3 
+4 A 
+Q Dr. Eastman, the passage that I read to you from The Sacramento Bee found, 
+5 at tab 16, where it says, "I did not advise Pence to exercise such authority," why did you 
+6 write the two-page memorandum stating, "Here's the scenario we propose," if, in fact, 
+7 you were not proposing that scenario? 
+8 
+9 A 
+Q Fifth. 
+Dr. Eastman, did your views change regarding the Vice President's authority 
+10 after you wrote the two-page memo? 
+11 
+12 A 
+Q Fifth. 
+Dr. Eastman, do you now disagree with the scenario you proposed in the 
+13 two-page memo? 
+14 
+15 
+16 
+17 
+18 
+19 
+20 A Fifth. 
+Okay. I will pause there before I turn to the longer six-page memo. 
+Do any members have any questions? 
+Staff? 
+Okay. 
+BY 
+Q Dr. Eastman, if you turn to tab 15, this is another memorandum, which for 
+21 ease of reference and to distinguish it from the other memo that we went over, I'll refer 
+22 to the memo in tab 15 as being the six-page memo. 
+23 Dr. Eastman, did you write this memo? 
+24 
+25 A 
+Q Fifth. 
+Dr. Eastman, did anyone ask you to write this memo?  1 
+2 
+3 
+4 A 
+Q 
+A 
+Q Fifth. 
+Dr. Eastman, was anyone else involved in writing this memo? 
+Fifth. 
+Okay. Going back to exhibit 16, again, the Sacramento Bee article, you 
+5 wrote, quote, "Neither version of the memo reflects the advice I gave to then-Vice 30 
+6 President Pence, paren, (though, to be precise, the final scenario laid out in the complete 
+7 memo does), close paren," close quotes. 
+8 Was this six-page memo, which you say does not reflect the advice you gave to 
+9 the Vice President, nonetheless given to President Donald Trump? 
+10 
+11 
+12 
+13 
+14 
+15 A 
+Q 
+A 
+Q 
+A 
+Q Fifth. 
+Dr. Eastman, was the six-page memo given to any advisers of the President? 
+Fifth. 
+Dr. Eastman, did you write a memo that did not reflect your actual advice? 
+Fifth. 
+Dr. Eastman, did your view regarding the Vice President's role change after 
+16 you wrote the six-page memo? 
+17 
+18 A 
+Q Fifth. 
+Turning to the memo itself, the memo then, quote, "war games," close 
+19 quote, several scenarios, including scenarios in which the Vice President rejects ballots 
+20 from certain States and President Trump is elected. 
+21 Dr. Eastman, on the bottom of page 4 of your memo, did you advise the President 
+22 of the United States that if State legislatures in contested States certified the Trump 
+23 electors, the Vice President could count those electors and, quote, "Trump wins," close 
+24 quote? 
+25 A Fifth.  31 
+1 Q And, again, just so I understand, you're invoking your Fifth Amendment right 
+2 against self-incrimination in refusing to answer the question of whether you advised the 
+3 President of the United States that if State legislatures from contested States certified the 
+4 Trump electors, the Vice President could count those electors and Trump wins. 
+5 A I'm invoking my Fifth Amendment, which specifically says in its text not to be 
+6 a witness --compelled to be a witness against myself. 
+7 Q On the bottom of page 4, did you advise the President of the United States 
+8 that even if the seven States did not send alternate slates of electors, Vice President 
+9 Pence, nonetheless, could still refuse to count electors from those States and declare that 
+10 Trump wins? 
+11 
+12 A 
+Q Fifth. 
+And, again, you're invoking your Fifth Amendment right against 
+13 self-incrimination. Is that correct? 
+14 A The language of the Fifth Amendment is I shall not be compelled to be a 
+15 witness against myself, and that's what I'm invoking. 
+16 Q On page 5 of the memo, did you advise the President of the United States 
+17 that Vice President Pence could refuse to count electors from seven States because of 
+18 ongoing election disputes and that, therefore, the U.S. House of Representatives would 
+19 pick the next President, and that under that scenario Trump wins? 
+20 
+21 A 
+Q Fifth. 
+On page 5, did you advise the President of the United States that Vice 
+22 President Pence could adjourn the joint session of Congress and allow State legislatures 
+23 to convene and certify alternate slates of electors, allowing President Trump to be 
+24 re-elected? 
+25 A Fifth.  1 Q Dr. Eastman, did you discuss this six-page memo with the President of the 
+2 United States? 
+3 
+4 A Fifth. 
+- Okay. Next, I'm going to ask you about a January 4th, 2021, 
+5 meeting with President Trump and the Vice President of the United States, but before I 32 
+6 do that, I'm going to pause to see if any members have questions on the six-page memo. 
+7 Ms. Lofgren. I have a question really related to a prior comment made by our 
+8 witness. 
+9 No person shall be held to answer for a capital, or otherwise infamous crime, 
+10 unless on a presentment or indictment of a grand jury, except in cases arising in the land 
+11 or naval forces, or in the militia, when in actual service in time of war or public danger; 
+12 nor shall any person be subject for the same offense to be put twice in jeopardy of life or 
+13 property; nor shall be compelled in any criminal case to be a witness against himself. 
+14 Is that in the Fifth Amendment, Dr. Eastman? 
+15 Mr. Burnham. Madam Congresswoman, I've instructed my client, as I've 
+16 discussed with your colleagues, I think, before you may have joined, that I've counseled 
+17 him not to discuss the basis for his invoking the Fifth. I would offer only an --
+18 Ms. Lofgren. I'm not asking the basis. I'm just asking, is that what the Fifth 
+19 Amendment says? 
+20 Mr. Burnham. I expect he'll invoke his Fifth in response to that question. As far 
+21 as I could tell, it was quoted correctly, and I would just refer this body to cases such as 
+22 Watkins from the Supreme Court that hold that the Fifth applies in congressional 
+23 proceedings, and we're invoking it on that basis today. 
+24 
+25 Ms. Lofgren. I yield back. 
+Mr. Raskin. Could I just follow up on that for a moment?  1 Counsel invoked the bar proceeding which is taking place against Dr. Eastman in 
+2 California. Is it the bar proceeding that is troubling Dr. Eastman with respect to 
+3 answering these questions or is it something else, Dr. Eastman? 
+4 Mr. Burnham. If I could respond to the question. The bar proceeding is just 
+5 one of many, many bases that led us to take the --make the invocation we're making 
+6 here today. 
+7 Mr. Raskin. Okay. But, Dr. Eastman, you understand that a bar proceeding is 
+8 civil in nature, do you not? 
+9 
+10 The Witness. Yes. 
+Mr. Raskin. Okay. So when you're asserting the Fifth Amendment, it is with 
+11 respect to other potential criminal prosecutions. Is that right? 
+The Witness. Fifth. 
+Mr. Raskin. Okay. I yield back. 
+- Okay. Do any other members have questions? 33 
+12 
+13 
+14 
+15 And I think we've noted the members as they have joined. As you can see, Vice 
+16 Chair Cheney and Mr. Raskin are still on. Ms. Lofgren was on, but may have left. And I 
+17 believe Mr. Kinzinger might still be on. Nope, Ms. Lofgren and Mr. Kinzinger are both 
+18 still on. 
+19 
+20 Q BY-
+So, Dr. Eastman, I'm now going to ask you some questions about the 
+21 January 4th, 2021, meeting with President Donald Trump and others in the Oval Office. 
+22 Dr. Eastman, did you meet with the President of the United States on January 4th, 
+23 2021, to provide advice regarding the Vice President's role in counting the electoral votes 
+24 on January 6th? 
+25 A Fifth.  34 
+1 Q Dr. Eastman, if I could turn your attention to exhibit 17. This is a National 
+2 Review article dated October 22nd, 2021, by John McCormack. The title is, "John 
+3 Eastman vs. The Eastman Memo." 
+4 And the bottom of page 7 says, "A source close to Pence tells National Review that 
+5 the position of Trump and some of his advisers was initially to pressure Pence to reject 
+6 outright the count of the electoral college votes in decisive States." 
+7 Dr. Eastman, did President Trump pressure Vice President Pence to reject outright 
+8 the electors from contested States? 
+9 
+10 A 
+Q Fifth. 
+And, Dr. Eastman, I want to be clear here. I'm not asking about anything 
+11 you did. I'm asking whether or not President Donald Trump pressured Vice President 
+12 Pence to reject outright the electors from contested States? 
+13 
+14 A 
+Q Fifth. 
+That same article on page 9 states, "According to the source close to Pence, 
+15 quote" --and now it's quoting a source --"'In the last 24 hours or so [before January 6th], 
+16 it became crystal clear finally --even though the Vice President had been telling them this 
+17 for three weeks --it's finally sunk in he wasn't going to do that. So, then their position 
+18 moved to: Well, would you delay it and send it back [to the State legislatures]?"' close 
+19 quote. 
+20 And I'll note there were some brackets in there. 
+21 Dr. Eastman, did President Donald Trump change his position from pressuring the 
+22 Vice President to reject electors to instead pressuring Vice President Pence to delay 
+23 certification and send the election back to State legislatures? 
+24 
+25 A 
+Q Fifth. 
+And again, Dr. Eastman, I'm not asking here about your conduct. I'm asking  35 
+1 whether President Donald Trump changed his position from pressuring Vice President 
+2 Pence to reject electors to instead pressuring Vice President Pence to delay certification 
+3 and send the election back to State legislatures. 
+Fifth. 4 
+5 A 
+Q Dr. Eastman, did your position change from the position in your first memo, 
+6 what I referred to as the two-page memo, that the Vice President could reject electors, to 
+7 the position that the Vice President should instead delay certification beyond January 6th 
+8 to give States more time to send alternate slates of electors? 
+9 
+10 A 
+Q Fifth. 
+Dr. Eastman, regarding your position that the certification of the election 
+11 should be delayed beyond January 6th, isn't that exactly what the rioters who attacked 
+12 the Capitol were trying to accomplish on January 6th? 
+13 A Fifth. 
+14 I'll pause there to see if there are other questions regarding that 
+15 meeting with the President in the Oval Office. 
+16 No members? 
+17 Any staff? 
+18 Okay. 
+19 Dr. Eastman, I'm now going to ask you about a meeting that we understand you 
+20 had with the staff to Vice President Pence the next day, so January 5th, 2021. 
+21 Dr. Eastman, did you meet with Marc Short, chief of staff for the Vice President, 
+22 and Greg Jacob, counsel to the Vice President, in the Eisenhower Executive Office Building 
+23 on January 5th, 2021? 
+24 The Witness. Fifth.  1 
+2 [1:57 p.m.] 
+3 BY 
+4 
+5 
+6 Q 
+A 
+Q Dr. Eastman, what did you discuss with Vice President Pence's staffers? 
+Fifth. 
+Dr. Eastman, if you look at exhibit 13, there's a Washington Post article 36 
+7 dated October 29th, 2021. It says, "Read: Pence aide Greg Jacob's draft opinion article 
+8 denouncing Trump's outside lawyers." 
+9 Just to make clear on the record, what this appears to be is The Washington Post 
+10 reprinting something written by Greg Jacob who previously had been counsel to Vice 
+11 President Pence. 
+12 In that piece, Mr. Jacob writes that, quote, "One of the President's key outside 
+13 lawyers agreed with me the day before the events at the Capitol that not a single 
+14 member of the Supreme Court would support his position," close quote. 
+15 Dr. Eastman, when Mr. Jacob refers to one of the President's key outside lawyers, 
+16 was he referring to you? 
+17 
+18 A 
+Q Fifth. 
+Dr. Eastman, did you, in fact, agree with Mr. Jacob that not a single member 
+19 of the Supreme Court would support your position? 
+20 
+21 A 
+Q Fifth. 
+And, Dr. Eastman, which position was that that Mr. Jacobs said not a single 
+22 member of the Supreme Court would support? 
+23 
+24 A 
+Q Fifth. 
+Mr. Jacob then writes that this outside lawyer, quote, "acknowledged that 
+25 230 years of historical practices were firmly against it, and that no reasonable person  37 
+1 would create a rule that invested a single individual with unilateral authority to determine 
+2 the validity of disputed electoral votes for President of the United States," close quote. 
+3 Did Mr. Jacob accurately describe what you said to him on January 5th? 
+4 
+5 A 
+Q Fifth. 
+Dr. Eastman, Mr. Jacob then writes that a fall back plan of this lawyer he 
+6 refers to was that the Vice President could instead stop the electoral vote count and refer 
+7 it out to the States. 
+8 Of this fall back plan, Mr. Jacob writes, quote, "That suggestion violated several 
+9 provisions of the Electoral Count Act, had no historical analog, and would deprive 
+10 Congress of its historical and statutory role in vote counting decisions," close quote. 
+11 Dr. Eastman, how do you respond to Mr. Jacob's description of the legal advice 
+12 you gave the President and Vice President of the United States? 
+13 A Fifth. 
+14 Q Dr. Eastman, at the beginning of the meeting on January 5th, 2021, with 
+15 Marc Short and Greg Jacob, did you, on behalf of the President of the United States, ask 
+16 that the Vice President reject electors from contested States on January 6th, 2021? 
+17 
+18 A 
+Q Fifth. 
+And just so I understand it, in response to the last question, you're invoking 
+19 your Fifth Amendment right not to be a witness against yourself? 
+20 
+21 
+22 A Yes. 
+- Okay. Do any members have any questions? 
+Mr. Raskin. I have a question. I'd like to ask Dr. Eastman about the judicial 
+23 authority going up to January 6th. 
+24 More than 60 Federal and State courts have rejected every claim of electoral fraud 
+25 and corruption advanced by the Trump campaign.  38 
+1 Did you have any reason then, or do you have any reason today, to believe that 
+2 there was electoral fraud and corruption in the States that materially affected the 
+3 outcome of the Presidential election? 
+4 Mr. Burnham. If I could have the committee's indulgence. 
+5 [Discussion off the record.] 
+6 The Witness. I claim the Fifth. 
+7 Mr. Raskin. Attorney General Bill Barr famously called Donald Trump's claims of 
+8 electoral fraud and corruption "bullshit." Do you disagree with that conclusion? 
+9 
+10 
+11 The Witness. Fifth. 
+Mr. Raskin. I yield back. 
+- Do any other members have questions? Okay. 
+12 Dr. Eastman, I've asked you a series of questions about the January 5th meeting 
+13 with Greg Jacob and Marc Short. 
+14 Dr. Eastman, did Greg Jacob on January 6th send you an email summarizing your 
+15 conversation? 
+16 
+17 The Witness. Fifth. 
+~ Dr. Eastman, would you provide to the select committee the email 
+18 that Greg Jacob sent you on January 6th summarizing your January 5th conversation? 
+19 
+20 
+21 
+22 Mr. Burnham. I beg your pardon. Could you repeat the last question? 
+-Yes. 
+BY 
+Q I was asking Dr. Eastman, would he provide to the select committee the 
+23 January 6th email from Greg Jacob to Dr. Eastman that summarized their January 5th 
+24 conversation? 
+25 A Fifth.  39 
+1 Q And is it your position that the mere act of producing such email could tend 
+2 to incriminate you? 
+3 
+4 A 
+Q On advice of counsel, I invoke the Fifth. 
+Okay. I'm now going to ask you some questions about the January 6th, 
+5 2021, speech at the so-called "Stop the Steal" rally. 
+6 Dr. Eastman, did you speak at the White House Ellipse before a large crowd on 
+7 January 6th, 2021? 
+8 A Fifth. 
+9 Q Okay. Dr. Eastman, if I could turn your attention to tab 12. This is a 
+10 transcript of speeches given at the Ellipse on January 6th, 2021. 
+11 At the bottom of page 1, Mayor Rudy Giuliani --I recognize this is Mayor Giuliani, 
+12 not you --but Mayor Giuliani says, "Last night one of the experts that has examined these 
+13 crooked Dominion machines has absolutely what he believes is conclusive proof that in 
+14 the last 10 percent, 15 percent of the vote counted, the votes were deliberately changed. 
+15 By the same algorithm that was used in cheating President Trump and Vice President 
+16 Pence. Same algorithm, same system, same thing was done with the same machines." 
+17 Dr. Eastman, do you have any evidence to support Mayor Giuliani's allegations 
+18 that the Dominion voting machine algorithm switched votes from President Trump to 
+19 Vice President Biden? 
+20 
+21 A 
+Q Fifth. 
+Dr. Eastman, in the middle of the second page of that transcript --and now 
+22 it's quoting you --it says, "We know there was fraud, traditional fraud that occurred. 
+23 We know that dead people voted. But we now know, because we caught it live last time 
+24 in real time, how the machines contributed to that fraud," close quote. 
+25 Dr. Eastman, what evidence do you have to support your statement that there  1 was traditional fraud? 
+Fifth. 
+Dr. Eastman, what evidence do you have that dead people voted? 
+Fifth. 40 
+2 
+3 
+4 
+5 A 
+Q 
+A 
+Q Dr. Eastman, are you aware that the secretary of state of Georgia conducted 
+6 a review of this allegation and found that only four votes were cast in the name of dead 
+7 people? 
+8 
+9 A 
+Q Fifth. 
+Dr. Eastman, when you said, quote, "how the machines contributed to that 
+10 fraud," close quote, do you have evidence that Dominion voting machines changed votes 
+11 from President Donald Trump to Vice President Biden? 
+12 
+13 A 
+Q Fifth. 
+Dr. Eastman, you made that statement in front of tens of thousands of 
+14 people and many, many television cameras. It's now your position that you will not 
+15 answer the select committee's question regarding the factual basis for alleging that 
+16 machines contributed to fraud? 
+17 
+18 A 
+Q Fifth. 
+Dr. Eastman, what factual research did you do regarding the voting machines 
+19 before telling tens of thousands of angry people that the machines contributed to fraud? 
+20 A Fifth. 
+21 Q Okay. Dr. Eastman, at the bottom of page 2 of the transcript you state, and 
+22 this is a fairly lengthy quote, "And let me, as simply as I can, explain it. You know the old 
+23 way was to have a bunch of ballots sitting in a box under the floor, and when you needed 
+24 more, you pulled them out in the dark of night. They put those ballots in a secret folder 
+25 in the machines, sitting there waiting until they know how many they need. And then  41 
+1 the machine, after the close of polls, we now know who's voted, and we know who 
+2 hasn't. And I can now in that machine match those unvoted ballots with the unvoted 
+3 voter and put them together in the machine. 
+4 "And how do we know that happened last night in real time? You saw when it 
+5 got to 99 percent of the vote total, and then it stopped. The percentage stopped, but 
+6 the votes didn't stop. 
+7 "What happened, and you don't see this on FOX or any of the other stations, but 
+8 the data shows that the denominator, how many ballots remain to be counted, how else 
+9 do you figure out the percentage that you have, how many remain to be counted, that 
+10 number started moving up. That means they were unloading the ballots from that 
+11 secret folder, matching them to the unvoted voter, and, voila, we have enough votes to 
+12 barely get over the finish line," close quote. 
+13 Dr. Eastman, what evidence do you have to support your allegation that there 
+14 were secret folders of ballots that were matched against the names of people who had 
+15 not voted and then loaded into the machines? 
+16 
+17 A 
+Q Fifth. 
+Dr. Eastman, what factual research did you do regarding this allegation of 
+18 secret folders of ballots before tens of thousands --before you made it before tens of 
+19 thousands of angry people on January 6th? 
+20 
+21 A 
+Q Fifth. 
+On page 3 of the transcript you state, quote, "And all we are demanding of 
+22 Vice President Pence is this afternoon at 1 o'clock he let the legislators of the State look 
+23 into this so we get to the bottom of it, and the American people know whether we have 
+24 control of the direction of our government or not," close quote. 
+25 Dr. Eastman, did you call upon Vice President Pence to delay certification so State  42 
+1 legislators could have more time to send alternate slates of electors? 
+Fifth. 2 
+3 A 
+Q Dr. Eastman, what did you think would happen next if State legislators sent 
+4 alternate slates of electors? 
+5 
+6 
+7 
+8 A 
+Q 
+A 
+Q Fifth. 
+Dr. Eastman, who asked you to speak at the Ellipse on January 6th? 
+Fifth. 
+Dr. Eastman, were you told in advance that you would be speaking at the 
+9 Ellipse on January 6th? 
+10 
+11 A 
+Q Fifth. 
+Dr. Eastman, did you have time to prepare your remarks before you were 
+12 asked to speak on the Ellipse on January 6th? 
+13 
+14 A 
+Q Fifth. 
+Dr. Eastman, do you know whether Senators Hawley and Cruz were invited 
+15 to speak on the Ellipse on January 6th? 
+16 
+17 A 
+Q Fifth. 
+Dr. Eastman, do you know why Senators Hawley and Cruz did not, in fact, 
+18 speak on the Ellipse on January 6th? 
+19 
+20 A Fifth. 
+Okay. I'm going to pause here and see if any members have 
+21 questions about the speeches on the Ellipse. 
+22 No? 
+23 Staff? 
+24 Okay.  43 
+BY 1 
+2 
+3 Q Dr. Eastman, I'm going to turn your attention back to exhibit 13, which again 
+4 is the Washington Post publication of Greg Jacob's draft opinion article dated October 
+5 29th, 2021. 
+6 In that piece, Mr. Jacob writes that one of the President's lawyers emailed him 
+7 during the assault on the Capitol, quote, "The 'siege' is because YOU and your boss did 
+8 not do what was necessary to allow this to be aired in a public way so that the American 
+9 people can see for themselves what happened," close quote. 
+10 Dr. Eastman, are you the person who emailed the Vice President's counsel on 
+11 January 6th to say that the siege was because of him and his boss --meaning the Vice 
+12 President of the United States --for not doing what was necessary to allow this to be 
+13 aired in a public way so that the American people can see for themselves what 
+14 happened? 
+15 
+16 A 
+Q Fifth. 
+Dr. Eastman, do you dispute the accuracy of the quote that Greg Jacob 
+17 provided to The Washington Post? 
+18 
+19 A 
+Q Fifth. 
+Dr. Eastman, did you email Greg Jacob on January 6th, after the riot had 
+20 ended, to say that the Vice President still should send the election back to the States 
+21 rather than certifying it? 
+22 
+23 
+24 A Fifth. 
+- Anybody else have anything? 
+Okay. I'm at the end of my prepared questions. Do any members of the 
+25 committee have questions on that or anything else for Dr. Eastman?  1 
+2 Yes. Mr. Raskin. 
+Mr. Raskin. Thank you. 
+3 Going back to the short memorandum, after recommending that the electoral 
+4 votes from six or seven States be returned and rejected by Congress, you wrote in that 
+5 memorandum, Dr. Eastman, "Pence should do this without asking permission --either 44 
+6 from a vote of the joint session or from the Court." And you concluded, "The fact is that 
+7 the Constitution assigns this power to the Vice President as the ultimate arbiter." 
+8 What was your basis for writing that? 
+9 
+10 The Witness. Fifth. 
+Mr. Raskin. You write in the longer 6-page memorandum that, "This election 
+11 was stolen by a strategic Democrat plan to systematically flout existing election laws for 
+12 partisan advantage." 
+13 What is your basis for having written that? 
+14 
+15 The Witness. Fifth. 
+Mr. Raskin. Okay. Your client, President Trump, has said, "The mob takes the 
+16 Fifth. If you're innocent, why are you taking the Fifth Amendment?" 
+17 
+18 
+19 
+20 
+21 
+22 Do you agree with that? 
+The Witness. Fifth. 
+Mr. Raskin. Because I do not. 
+Okay. All right. I yield back. 
+- Do any other members have questions? 
+Okay. Why don't we take just another 5-minute break, and --oh. Do you have 
+23 something to ask. 
+24 A quick followup. Just a couple questions. 
+25 In exhibit 14, which is the shorter memorandum that Mr. Raskin was just  45 
+1 mentioning, it says at the top that seven States had transmitted dual slates of electors to 
+2 the President of the Senate. 
+3 And then in exhibit 15, which is the longer one, on page 2 it says that the Trump 
+4 electors in the above six States, plus New Mexico --meaning Georgia, Pennsylvania, 
+5 Wisconsin, Michigan, Arizona, Nevada, and New Mexico --met on December 14th to cast 
+6 their electoral votes and transmitted those votes to the President of the Senate --in 
+7 parentheses --(Vice President Pence). 
+8 Do you know whether Trump electors met in any of those States to send those 
+9 elector --alternate electoral votes? 
+10 
+11 The Witness. Fifth. 
+- Dr. Eastman, do you believe that the Electoral Count Act is 
+12 constitutional? 
+13 
+14 The Witness. Fifth. 
+- Dr. Eastman, do you have any recommendations to the select 
+15 committee on how it can help prevent the horrific events of January 6th from ever 
+16 happening again? 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 The Witness. Fifth. 
+- Okay. Why don't we take a 5-minute break to see if there are any-­
+Ms. Cheney. [Inaudible.] 
+- Yes. Go ahead, Representative Cheney. 
+Ms. Cheney. I have a quick question. 
+Dr. Eastman, do you believe that the violence on January 6th was justified? 
+The Witness. Fifth. 
+Ms. Cheney. I yield back. 
+Okay. We'll take a 5-minute break just to see if there's anything we  1 want to cover before we leave for the day, and we'll go off the record now. 
+2 [Recess.] 
+3 - Okay. We're back, and we'll go back on the record. 
+4 We have just a couple of topics that my colleague,_, wanted to ask 
+5 about, and then at least one member had some questions to wrap up. 
+6 BY 
+7 Q__Dr. Eastman, were you in attendance at a December 21st meeting at the 
+8 White House with Members of Congress and the President? 
+9 
+10 A 
+Q Fifth. 
+On January 2nd, 2021, it's been reported that you participated in a briefing 46 
+11 with members of State legislatures as well as others, including officials from the campaign 
+12 and the President. 
+13 Were you a participant to that Zoom meeting or call? 
+14 
+15 A 
+Q Fifth. 
+On that call you reportedly stated, quote, "The duty of the legislature is to fix 
+16 this, this egregious conduct, and make sure that we're not putting in the White House 
+17 some guy that didn't get elected." 
+18 Is that an accurate quote from your statements during this briefing? 
+19 
+20 A 
+Q Fifth. 
+Did you speak with any of the State legislators who participated in that call 
+21 afterwards? 
+22 
+23 
+24 
+25 A Fifth. 
+- Okay. Mr. Raskin has some questions. 
+Mr. Raskin. Thank you. 
+Dr. Eastman, the effort to force Vice President Pence to reject electoral college  47 
+1 votes was surrounded, as you know, by a lot of violence. 
+2 Do you believe that violence was necessary to succeed in the plan of prevailing in 
+3 the electoral college for Donald Trump? 
+4 
+5 The Witness. Fifth. 
+Mr. Raskin. Did you participate in any conversations about the demonstrations 
+6 that became a violent riot? 
+7 
+8 
+9 The Witness. Fifth. 
+Mr. Raskin. Okay. I yield back. 
+- Do any other members have questions? Okay. 
+10 Dr. Eastman, is there anything else that you think that the select committee 
+11 should know. 
+12 Mr. Burnham. No, thank you. We're done. 
+13 - Okay. So with that, we will recess the deposition subject to the call 
+14 of the chair. And we'll go off the record now. 
+15 [Whereupon, at 2:24 p.m., the deposition was concluded.]  1 
+2 
+3 Certificate of Deponent/Interviewee 
+4 I have read the foregoing __ pages, which contain the correct transcript of the 
+5 answers made by me to the questions therein recorded. 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 Witness Name 
+Date 48 

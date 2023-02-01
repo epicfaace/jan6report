@@ -1,0 +1,3923 @@
+1 
+2 
+3 
+4 SELECT COMMITTEE TO INVESTIGATE THE 
+5 JANUARY 6TH ATTACK ON THE U.S. CAPITOL, 
+6 U.S. HOUSE OF REPRESENTATIVES, 
+7 WASHINGTON, D.C. 
+8 
+9 
+10 
+11 INTERVIEW OF: MICHAEL SHERWIN 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 Tuesday, April 19, 2022 
+Washington, D.C. 
+20 The interview in the above matter was held in room 5480, O'Neill House Office 
+21 Building, commencing at 10:11 a.m. 
+22 Present: Representatives Aguilar and Cheney. 1  1 
+2 Appearances: 
+3 
+4 
+5 For the SELECT COMMITTEE TO INVESTIGATE 
+6 THE JANUARY 6TH ATTACK ON THE U.S. CAPITOL: 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 , STAFF ASSOCIATE 
+INVESTIGATIVE COUNSEL 
+SENIOR INVESTIGATIVE COUNSEL 
+CHIEF INVESTIGATIVE COUNSEL 
+, INDEPENDENT CONTRACTOR 
+RESEARCHER 
+, CHIEF CLERK 
+, INVESTIGATIVE COUNSEL 
+18 For the DEPARTMENT OF JUSTICE: 
+19 
+20 KIRA ANTELL 
+21 JOSHUA GARDNER 
+22 EMILY LOEB 2  1 
+2 Good morning, everyone. 3 
+3 My name is I'm the senior investigative counsel here on the 
+4 House select committee. Joining me on this side of the table is chief investigative 
+5 
+6 counsel and professional staff member. 
+Joining us by Webex is and both investigative 
+7 counsel, as well as 
+8 Mr. Sherwin, if you could state your name for the record. 
+Mr. Sherwin. Yes. Michael Sherwin, S-h-e-r-w-i-n. 9 
+10 
+11 
+12 We appreciate you appearing here today. 
+Also present in the room is DOJ counsel Josh Gardner, Emily Loeb, and Kira Antell. 
+We are conducting this interview in person and on Webex. And I want to make 
+13 sure that everybody is on the same page as far as exhibits. If members join, they have 
+14 been provided the exhibits, and we usually share --show them on the share screen. 
+15 And you have a binder set in front of you, Mr. Sherwin. 
+16 There is a court reporter, who is happily in the room here today, to create a 
+17 verbatim record. And, with that, I will ask you to give verbal responses. And, although 
+18 this interview is not under oath, you are required to answer questions before Congress 
+19 truthfully. And section 18 U.S.C., section 1001, applies during this process. 
+20 Obviously, we want you to answer our questions in the most complete and 
+21 truthful manner possible. And, if you have any questions, ask me to rephrase anything, 
+22 I'm happy to do so. 
+23 You're not represented by counsel, but if you want to consult with DOJ counsel at 
+24 any point, feel free to do so. 
+25 Mr. Sherwin. Okay.  1 I also have what I'll mark, I believe, as exhibit 27. Maybe it's 
+2 28. Twenty-eight is the letter that was provided to you by DOJ concerning the 
+3 authorization for your --for this interview today. So I'll mark that and keep that as part 
+4 of the record. 
+5 Do you have any questions or comments or anything before we start? 
+6 
+7 
+8 
+9 Mr. Sherwin. No. 
+Great. 
+BY EXAMINATION 4 
+10 Q So, Mr. Sherwin, I just wanted to start with kind of your background. If you 
+11 could just walk us through your career prior to becoming the acting U.S. attorney in D.C. 
+12 A Sure. So, briefly, I graduated law school in 1998. I went right into the 
+13 military, Officer Candidate School. I was designated a line naval officer in the 
+14 Intelligence Section. 
+15 In 1999, January, I served overseas in multiple sea service deployments with a 
+16 fighter squadron as a targeting officer, pre-9/11. When 9/11 happened, I was assigned 
+17 to the intelligence staff of General Tommy Franks and planned the invasions of 
+18 Afghanistan and Iraq. 
+19 After the invasion of Iraq in 2003, I put my papers in to resign. I started a family 
+20 at that time, and it was difficult being overseas in the Middle East. I was stop-lossed, 
+21 and I finally got separated in 2004. 
+22 I clerked for the chief judge in Northern District of Ohio in '04 through '05. Then 
+23 I went to a small law firm in New York City for about 20 months. And then I went to the 
+24 U.S. Attorney's Office in Miami. I was hired by Alex Acosta in '07, and I remained at the 
+25 U.S. Attorney's Office as a lined AUSA in multiple sections --narcotics, economic crimes,  5 
+1 national security-- through 2019. 
+2 In September --in September, October 2019, I joined the staff of Deputy Attorney 
+3 General Rosen as his national security adviser. I also did national security work for the 
+4 Attorney General Barr. And then Attorney General Barr asked me to move to the 
+5 U.S. Attorney's Office in early 2020 to assist Tim Shea. 
+6 I was there as Tim Shea's first assistant, I believe, for about a month or 6 weeks, 
+7 and then I replaced him as an acting U.S. attorney in early 2020, where I remained as the 
+8 acting U.S. attorney through March of 2021. And then I went back to Miami in April of 
+9 2021 and resigned from the U.S. Attorney's Office and Department of Justice. 
+10 
+11 
+12 
+13 
+14 
+15 
+16 Q That's impressive you did that in one breath basically. 
+I want to welcome Ms. Cheney, who has joined us via Webex. 
+I know you said --
+Ms. Cheney. Good morning. Thank you for being with us. 
+Mr. Sherwin. Of course. Thank you. 
+BY 
+Q I want to go back to 2019, when you joined the staff of Mr. Rosen. At that 
+17 time, what was Mr. Rosen's position? 
+18 
+19 
+20 work? 
+21 A 
+Q 
+A He was the Deputy Attorney General. 
+Okay. And what was your role there? You said it was national security 
+Yes. I was his national security adviser. So, in sum, what I did was 
+22 prepare talking points for the Attorney General and the Deputy Attorney General when 
+23 they would serve on the National Security Council as principals. 
+24 At that time, we were doing a lot of sanctions work related to Venezuela and the 
+25 Iranian issue. Also dealt with other issues that I won't get into --significant national  6 
+1 security matters. Also did a lot of FISA applications for the Deputy Attorney General and 
+2 the Attorney General approval of Cl and counterterrorism FISA intercepts and also was 
+3 the lead investigator for the terrorist shooting in Pensacola in December of 2019 through 
+4 January 2020. 
+5 Attorney General Barr sent me there to run the terrorism investigation related to 
+6 the shooting of al-Shamrani, the Saudi national. 
+7 Q I see. So you did that work after your bit in D.C.? I thought you did that 
+8 while you were --
+9 
+10 
+11 A 
+Q 
+A No. I was assigned on a special assignment from the Attorney General --
+1 see. 
+--to go to Pensacola and run that counterterrorism investigation. So I was 
+12 still assigned to --I think technically I was assigned to OAG at that time --
+13 
+14 
+15 
+16 Q 
+A 
+Q 
+A Uh-huh. 
+--loaned out to the northern district to run that investigation. 
+I see. And what type of work did you do in Florida? 
+In Florida, I started, like all Miami Federal prosecutors, in narcotics, did a lot 
+17 of work in Colombia and Mexico related to the cartels. 
+18 Then I moved, after a couple of years, to the Economic Crimes Section. I was the 
+19 chief of the Healthcare Fraud Section and also Securities Fraud Section, did a lot of 
+20 government contract fraud cases. 
+21 And, my last few years, I focused on national security cases, mainly 
+22 counterintelligence related to Venezuela, Cuba, and China. 
+23 Q Okay. So that national security experience kind of put you on the radar for 
+24 Mr. Rosen? 
+25 A Yes. I did a lot of --by virtue of my background in the military before I  7 
+1 became an attorney, I did a lot of counterintelligence work, even as a junior AUSA related 
+2 to Cuba and Venezuela, which is a hot issue in south Florida. 
+3 
+4 Q 
+A Right. 
+So, yes, my experience with FISA litigation, using FISA intercepts. And I 
+5 focused a lot on China and counterintelligence. That was a big issues obviously, or still is 
+6 a big issue. And that's why there was a need for me, or they requested my presence to 
+7 assist them at Main Justice in 2019. 
+8 Q Thanks for that background. So you worked for Mr. Rosen, and then for 
+9 how long before you were appointed as first assistant under Tim Shea? 
+10 A So relatively short tenure. So probably --so we're talking September, 
+11 October through --I chopped over, I think, unofficially in February. The paperwork is a 
+12 little murky, but --
+13 
+14 
+15 Q 
+A 
+Q Uh-huh. 
+--several months. And then I chopped over to the U.S. Attorney's Office. 
+In February, you started as first assistant. I think you were appointed in 
+16 May as the acting. Is that right? 
+17 A I --frankly, I don't remember the details with the paperwork, but that 
+18 timeline comports. I thought it was February, but --
+19 
+20 
+21 
+22 
+23 Q That's what Wikipedia says, is May of 20 --
+A I think it may be a little earlier, but --
+Q Okay. 
+A --it's all very similar. 
+Q But, in any event, you'd been at the D.C. U.S. Attorney's Office pretty much 
+24 the beginning of 2020? 
+25 A That's correct.  1 
+2 Q 
+A 8 
+Okay. 
+That's correct. About a full --about a full year. It seemed much longer, 
+3 but about a full year. 
+4 
+5 
+6 Q 
+A 
+Q Great. And we spoke informally before this -­
+Yes. 
+--and one of the topics I wanted to ask you about was the role of the D.C. 
+7 U.S. Attorney's Office during the summer and how that extended into January 6th 
+8 obviously because you were the Acting U.S. Attorney during that whole period of time. 
+9 So if we just start with kind of the end of May and when --the murder of George 
+10 Floyd was May 24th, and kind of the protests built up. When did it first come onto your 
+11 radar that this is something that the District was going to have to deal with? 
+12 Mr. Gardner. The Department objects. This is beyond the scope of the 
+13 authorization. 
+14 Okay. So we have established that there was a number of 
+15 lessons learned for a number of different agencies, DOJ included, about the events of the 
+16 summer and how that impacted the decisionmaking for the events of January 6th. So 
+17 we do believe this is part of our mandate, particularly with the intelligence assessment 
+18 and the security preparations, which is really the core of our inquiry of Mr. Sherwin. 
+19 Mr. Gardner. Understood. And if you wanted to ask him, you know, what went 
+20 into his thinking on January 6th based on previous events, I think we could let that go 
+21 forward, but I think, if you're asking directly about his involvement prior to the events on 
+22 January 6th, we believe that's outside the scope. 
+23 
+24 
+25 Q Okay. So I'm going to ask it the way I asked it before.  9 
+1 A So I think I could meet both demands from both parties here. 
+2 So, yes, I guess it's fair to say that, from an architecture standpoint, how I was 
+3 trying to run the office and deal with the situation in January of 06 --a lot of those lessons 
+4 were related to how we set up the architecture of the summer of 2020, from a manpower 
+5 staffing perspective, if that's what you'd like to inquire about. 
+6 
+7 Q 
+A Sure. That would be great. 
+Okay. So, look, I guess, in terms of dealing with --it was a --it was 
+8 a --there were a lot of things going on in the District obviously starting that last weekend 
+9 of May, you know, through the full summer --through spring, summer, autumn, and into 
+10 the winter. That set the table, I think, for a lot of the issues we saw in January. I don't 
+11 think it's --you could divorce the two --you can't divorce early 2020 from 2021. I think 
+12 it would be foolish to divorce the two. 
+13 From an architecture standpoint, I tried to run it from a staffing perspective, that 
+14 we would, several days out --the events at that first week, that last weekend in May 
+15 obviously happened very quickly, but we soon knew that this was going to be an ongoing 
+16 situation with these fence post or spike events when there would be major rallies every 
+17 several months or every few weeks, or events. So what we tried to do was set up --1 
+18 tried to set up teams that would be on 24-hour staffing starting at least 72 hours 
+19 beforehand. 
+20 For example, if an event was going to take place, a rally on January --July 4th, I 
+21 would have my first assistant, my criminal chief, and all my section chiefs, especially 
+22 superior court chief --we would start, at minimum, twice-daily update calls, usually 8 in 
+23 the morning and 8 in the evening, where I would ensure that there was a duty roster of 
+24 AUSAs that were on duty 24-7 to enable us to support MPD and our Federal partners with 
+25 warrants, subpoenas, and arrest warrants.  10 
+1 And I also wanted to make it clear that --look, one of the criticisms that I heard 
+2 from the Police Chief Newsham all the way through Chief Contee was there was always 
+3 this disconnect between, I think, the U.S. Attorney's Office and MPD going back to how 
+4 cases are charged, you know, what's a sufficient level of evidence? And this is kind of an 
+5 ongoing saga that went on for probably decades, going all the way back to 2016, the 
+6 inauguration, when there were significant issues with arrests and how rioters and 
+7 protesters were treated. 
+8 So I listened to Chief Newsham and Chief Contee, and what we did was we had 
+9 AUSAs stationed at the JOC, the J-O-C, the Joint Operations Center at MPD. And then 
+10 we would have AUSAs on patrol, sometimes with MPD, to include myself, throughout the 
+11 summer and spring and then on January 6th, because one of the criticisms was: Look, 
+12 you guys could criticize how we do arrest warrants, but if you don't see what we're 
+13 seeing, it's easy to criticize. 
+14 
+15 So I said: Okay. Fine. We'll do the patrols with you. 
+So that was part of that staffing, those calls. Who was going to be on duty? 
+16 Who was going to go on patrol? Do we have enough staffing to do a surge in arrests or 
+17 arrest warrants? 
+18 And I guess the one caveat here was it was a little difficult because this is the 
+19 surge in COVID. This was the ground zero time. 2020 was the --obviously the crux of 
+20 COVID, when there was a spike in significant, you know, COVID cases throughout the 
+21 District. So, you know, there was a very fine balance between what people to put on 
+22 duty, where they should be located, you know, can they be virtual? Do they have to be 
+23 in person? So these were all personnel issues. 
+24 So the main lessons learned was, several days out, having these coordination calls, 
+25 staffing AUSAs in person at the JOC at MPD, at our offices ready to go, 24-7 duty roster, in  11 
+1 addition to, if the event was significant enough, I would personally be at WFO staffing for 
+2 the U.S. Attorney's Office with --my first assistant would go back and forth, but I was 
+3 usually there probably 18 hours a day if it was a significant event. I would be there right 
+4 there with the ADIC, which changed hands between 2020 and 2021. 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 Q 
+A 
+Q 
+A Got it. So let me just go through that a little bit. 
+Sure. 
+And you spoke primarily about internal coordination -­
+Yes. 
+Q --you had within your own office and WFO. 
+Your first assistant at the time was-. Is that right? 
+A 
+Q 
+A 
+Q 
+A That's correct. 
+And he was present on January 6th as well? 
+Yes, and throughout the full of 2020. 
+And the ADIC at the time at WFO was Steve D'Antuono? 
+That's correct, but there was a prior ADIC, and his name is escaping me here, 
+16 another gentleman that I worked with over the summer of 2020. The name will come to 
+17 me. But Steve D'Antuono, I worked with on January 6th primarily. The other ADIC, 
+18 who left, I can't recall his name. He is the one I worked with over the summer of 2020. 
+19 Q When did this coordination internally begin, and how involved were you 
+20 with kind of the interagency coordination, your Federal part? 
+21 A So it started immediately. I mean, this was kind of unprecedented for the 
+22 District, probably something not seen since maybe the 1960s, since the Vietnam protests, 
+23 a prolonged cadence of protests. Obviously, there have always been spikes of protest 
+24 activity through inaugurations or through significant, you know, social type events. 
+25 But there was never a long cadence of protests, probably unmatched since the  12 
+1 Vietnam War. So this was kind of new territory. So, starting that first weekend, when 
+2 there were significant protests outside the White House in May --excuse me --yeah. 
+3 May. May 30th, 31st --
+4 Q Uh-huh. 
+5 A --Friday, that first evening --I'm sorry. I don't remember the 
+6 calendar --where there was significant activity outside the White House. 
+7 
+8 
+9 Q 
+A You're right. That's the timeframe. 
+Yes. 
+Ms. Loeb. So I think we'd like to object at this point. Having the specific details 
+10 of what happened in the summer protests does not seem in any way related to 
+11 January 6th. 
+12 I can explain to you how it is related. 
+13 Obviously, he's talking about coordination calls before a big event. That's exactly 
+14 the kind of architecture that Mr. Sherwin talked about that applies to January 6th. 
+15 What happened before January 6th and did not happen, that's kind of --this is a --a 
+16 roadmap that occurred during the summer that could or could not have been applied for 
+17 January 6th preparation. 
+18 So we're just trying to draw that direct line as to what happened for the 
+19 preparation, which obviously Mr. Sherwin said it best himself. You can't divorce the 
+20 two. 
+21 Ms. Loeb. So, if you'd like to ask about the specific cadence of calls related to 
+22 January 6th and if that differed, then I think that that would be more within the scope of 
+23 the authorization that the Department has provided. But details about this day or that 
+24 day, 5 months before, is beyond the scope of the authorization, which obviously is time 
+25 bound, as you can see.  13 
+1 Okay. Well, I don't know how bound we are by the 
+2 authorization letter to ask these questions, so I will ask them, and Mr. Sherwin can make 
+3 that choice whether he wants to answer them. But it's critical as to what the events 
+4 were for the --for January --for the summer and in terms of DOJ preparations, and how 
+5 that impacted the 6th. So I'm going to continue on this line of questioning. 
+6 Ms. Antell. I'll just note, Mr. Sherwin, if you would find it helpful to speak with 
+7 us briefly so that you can better understand the scope of what we considered was in the 
+8 authorization. We're happy to step outside for a moment and do that. 
+9 Mr. Sherwin. Look, I think I understand where both parties are coming from. 
+10 don't want to sound selfish, but I want to expedite this, and I want to give the committee 
+11 what it needs. And I also want to --I mean, look, I'm an alum of the Department of 
+12 Justice. I don't want to intrude upon the equities of the Department, so maybe let me 
+13 recalibrate my questioning, and hopefully I could meet the middle road here and maybe 
+14 go more to the 30,000-foot level without specific details. Let's see if that answers the 
+15 committee's questions. And, if not, we could relock. 
+16 So all right. Let's talk about intelligence sharing, information sharing in general 
+17 over that time and how that shaped January 6th. So that's a good question, and I think 
+18 that's critical for what you're looking at. 
+19 Look, as the U.S. attorney, I would be in daily --I don't have my phone records, but 
+20 if you pulled my work phone, there is probably a litany of daily calls between myself and 
+21 the ADIC. And, again, I --Kevin --I can't remember the gentleman's name --over the 
+22 summer, and then January 6th with Mr. D'Antuono. 
+23 He was --that is your main --as the U.S. attorney, your main partner is usually in 
+24 the Bureau. They're the eyes and ears of the Federal agencies. They have the 
+25 resources. They have the manpower. They have the intelligence directorate. That  14 
+1 really, you know, is the --is the bedrock of law enforcement, at least Federal law 
+2 enforcement, especially in the National Capital Region. So, Mr. D'Antuono and I, on 
+3 January 6th and then before, were, you know, peas in a pod, speaking all the time. 
+4 Now, in terms of communication with MPD, January 6th was similar to the 
+5 summer of 2020. _, he's a longstanding AUSA in the District. That's why I 
+6 assigned-as my first assistant because I think a 20-plus-year alum of the office, 
+7 very close ties to MPD, which is critical --the U.S. Attorney's Office in D.C. cannot function 
+8 without a good relationship with MPD. 
+9 So it's critical to have a good liaison with Chief Contee, and then Chief Newsham. 
+10 And- served as that conduit. I would also --I would often be the primary 
+11 conduit to the Bureau, and-would serve as the primary conduit with MPD. 
+12 Now, with ancillary agencies, I would often leverage the Bureau to take care of 
+13 that. Look, I was in daily --sometimes weekly, if not daily, contact with ATF and DEA 
+14 leadership. But my primary function --my primary partner was the Bureau. And then, 
+15 in terms of passing intelligence information, it would be the Bureau architecture. 
+16 There is a joint terrorism task force, which I'm sure the committee has heard a lot 
+17 about over the past year, how that serves as a primary conduit of pushing out intelligence 
+18 to MPD, Capitol Police, you know, local, municipal law enforcement agencies. I would 
+19 not personally sit on those bodies. We had designee reps. But, again, most of my 
+20 primary detailed information directly was with the ADIC. 
+21 BY 
+22 
+23 
+24 Q 
+A 
+Q Okay. So, internally, it's Steve D'Antuono briefing you. 
+Yes. 
+And then above you with Mr. --with Attorney General Barr at the time. 
+25 Would it be David Bowdich briefing him with the same information?  15 
+1 A That's a good question. It's hard to peel. It's not that --it's not that --the 
+2 piping is not that simple. So Mr. Barr was a massive consumer of information. He 
+3 would look --go to multiple sources. I was obviously a primary source. He would call 
+4 me directly, or his staff or his secretary would call me directly with assessments. But he 
+5 would also speak directly with Mr. Bowdich, the Deputy Director. 
+6 
+7 
+8 Q 
+A Uh-huh. 
+He would also speak directly with Christopher Wray. 
+So he is someone that, if he wanted information, he would call them directly. He 
+9 did not use layers of --for example, if Mr. Barr wanted information quickly, he would not 
+10 go through maybe the traditional architecture of going through the ODAG and tasking 
+11 someone to do a position paper or get --he would want to know directly what that 
+12 information is. 
+13 Mr. Rosen was more --a different style of leadership that was more --I don't want 
+14 to say traditional, but more --would leverage more the ODAG office to serve as that 
+15 pipeline, if that makes sense. 
+16 
+17 
+18 
+19 Q 
+A 
+Q 
+A And the ODAG at the time for January 6th was Rich Donoghue? 
+That is correct. 
+All right. 
+So Mr. Donoghue, January 6th, if --he would reach out to me, but Mr. Rosen 
+20 also directly reached out to me. But Mr. Donoghue would reach out to me for 
+21 information where, with Mr. Barr, it was more directly. He wanted actionable 
+22 intelligence or information very quickly, so he would just call me, where Mr. Rosen would 
+23 use, again, more the architecture of ODAG to get information. 
+24 Ms. Antell. Can I just reiterate, again, you know, I certainly understand your 
+25 interests in the events of the summer. I think what we've now heard is different styles  1 of leadership between then Attorney General Barr and Acting Attorney General Rosen, 
+2 and I'm not sure, again, the extent to which that sheds any light on January 6th. So 
+3 what might be helpful --
+4 Well, I can explain how. 
+5 
+6 Ms. Antell. Please. 
+Sure. So there is a --two different versions of who was the 
+7 lead Federal agency on January 6th. So part of this is understanding the leadership 
+8 styles and the semantics of what that phrase means. 
+9 BY 16 
+10 Q Mr. Sherwin, I think, from that experience in the summer, is it fair to say that 
+11 it was seen that Mr. Barr was the lead coordinator for the events? 
+12 A Look, I don't want to put a label on it, but I will say, look, his leadership style 
+13 was more --he would reach out directly for information. He would not leverage 
+14 sometimes ODAG. He wanted information very quickly so he could make a decision, 
+15 where Mr. Rosen's leadership style was different. 
+16 But I don't know --I don't want to make a supposition, putting that label, the lead, 
+17 you know, coordinator. It gets a little complicated, even on January 6th, because I think 
+18 there is competing equities with DOD and --
+19 
+20 Q 
+A Uh-huh. 
+--Esper vis-a-vis the AG, you know, like these are big-picture questions that I 
+21 think we have a lot to learn from, how those monsters can --can cooperate and work 
+22 together --not in a derogatory fashion, monsters, but just institutionally, these huge 
+23 monoliths, how they could coordinate properly. 
+24 So I think it's hard to put that label on it, because, frankly, you know, looking back, 
+25 I don't even know who the lead was in terms of all full resources, because  17 
+1 you --there --this monolith with DOD assets and DOJ assets, and local assets. So that's 
+2 hopefully--
+3 
+4 
+5 
+6 
+7 Q 
+A 
+Q 
+A 
+Q Are you talking about for January 6th? 
+Yeah. January 6th. 
+Okay. 
+Correct. Correct. 
+Did you attend a meeting on June 1st at WFO where it was --as has been 
+8 described to the committee Mr. Barr was essentially coordinating the other Federal 
+9 agencies, meaning Park Service, DHS? It appeared that he was kind of more hands-on to 
+10 making that --
+11 Mr. Gardner. Yeah. I'm going to lodge another objection. That is, again, 
+12 beyond the scope of the authorization. You can ask him questions about --
+13 Not beyond the scope of the mandate of the House inquiry, so 
+14 I'm going to ask Mr. Sherwin. 
+15 
+16 Ms. Antell. It might be --can we go off the record for just a moment? 
+I mean, my questions about this are wrapping up. So I'm 
+17 going to segue into January 6th. So I think we can --if Mr. Sherwin could answer that. 
+18 Mr. Sherwin. Look, throughout the summer, Mr. Barr was extremely hands on 
+19 with Federal resources. Park Police is a Federal resource, DEA, ATF, yes. I mean, those 
+20 are his assets, and he wanted to know where they were and how they were deployed. 
+21 BY 
+22 
+23 
+24 
+25 Q 
+A 
+Q 
+A Do you remember if you attended that June 1st meeting at WFO? 
+Look, I attended a lot of --
+Okay. 
+I was at WFO --I was parked there for weeks on end, and, yes, Mr. Barr was  1 at WFO with other --with Mr. Wray and other individuals, so --
+2 Q Frequently? 
+3 A Yeah. Yes. I mean, he was --yes. I saw him more than once with 
+4 Mr. Wray at WFO. 
+5 
+6 
+7 
+8 
+9 
+10 Q Before we get into more kind of the -­
+Did you have anything? 
+- On the summer? 
+Yeah. 
+BY 
+Q Just the general question, Mr. Sherwin. If you had to kind of distill down 18 
+11 what you --collectively you, the Department, learned from the summer of 2020 protests 
+12 that informed preparation for or response to January 6th, what would those lessons be? 
+13 A 
+14 tell you --
+15 
+16 Q 
+A Personally, I can't speak on behalf of the Department, but I can personally 
+Yeah. 
+--that the biggest takeaway --even before January 6th, the biggest 
+17 takeaway I would take from a leadership perspective was there was a lot of confusion. 
+18 think I opined on this earlier about the interplay between DOD assets and DOJ assets. 
+19 
+20 Q 
+A Uh-huh. 
+I think that's critical to understand going forward. And the District makes 
+21 more complicated, because you have the Mayor. You have who --who controls what 
+22 asset and what is the --you know, how do those lines of communication exist? 
+23 I think there were a lot of uncertainties in 2020 that carried over into January 6th 
+24 about the give and take and how they work and cooperate and work together, and who is 
+25 the operational commander when those assets are being used in a law enforcement type  19 
+1 of a scenario. I think those are important questions, and I think they're complicated. 
+2 And that was a significant impression I personally had over the summer. 
+3 Q You're --absolutely. Very significant. 
+4 Was there any lessons that you learned or understanding of how those assets 
+5 ideally interacted, lines of authority potentially were divided, that, from the summer 
+6 events, were --mattered with respect to getting ready for and then responding to the 
+7 events at the Capitol? 
+8 A Look, I know --I know that --I had never participated in any planning or drills 
+9 or tabletop exercises with the National Guard and the Federal law enforcement, you 
+10 know, authorities. But I think those tabletop exercises need to be assessed: Were 
+11 they really on the mark, and how could they be improved, and what are the red lines for 
+12 employing military or National Guard assets, and who has the authority to move the 
+13 troops when those red lines are met? 
+14 And I think that was a lot of unknowns, you know, in 2020 through January 6th, 
+15 that speed is of the essence in some circumstances, and I think blurred lines of 
+16 communication and authority really hindered maybe some responses. 
+17 
+18 
+19 Q 
+A 
+Q Okay. 
+Again, that's my personal observation. 
+Right. How about relationships? Were they forged, or somehow the 
+20 relationships from the summer or the --having gone through that experience together, as 
+21 leaders of these respective components, that help potentially --
+22 
+23 A 
+Q Yeah. 
+--as you were getting ready for January 6th? 
+24 A Look, I --I could speak upon the two main relationships. I think we had a 
+25 wonderful relationship with the FBI and a very good relationship with MPD, very tight.  20 
+1 And that exists, I think, through today. 
+2 Relationship with Capitol Police was more diffuse. We would rely upon the joint 
+3 terrorism task --JTTF and our Bureau partners to liaise with them. So, again, the two 
+4 pillar partnerships, the Bureau and MPD, I think, were extremely strong. 
+5 And the relationship, I think, with the National Guard was --I don't want to say a 
+6 back seat, but not a primary type of a driver because I think of the unknowns with DOD 
+7 and the Mayor. And we would always ping MPD if we wanted intel about the National 
+8 Guard, or sometimes we would go direct, but most of the time we were relying upon our 
+9 partners to give us an update because it's kind of --I think it's kind of like a hot stove. 
+10 With DOJ, you don't want to --you want to be careful, I think, trying to 
+11 operationally move DOD or National Guard assets because it's obviously outside of that, 
+12 you know, direct chain of command, so --
+13 Q And then, finally, how about public criticism or praise of the response in the 
+14 summer? Was that discussed, or did that influence the planning for January 6th? 
+15 A No, not at all. Not from a prosecution standpoint. I can talk from 30,000 
+16 feet. So we definitely --how we prosecuted cases --and I'll just speak at a high level the 
+17 January --
+18 
+19 
+20 Q 
+A 
+Q Just to make clear, we're not interested in granular details of -­
+Okay. 
+--investigations, prosecutions, anything. I'm talking really more about intel 
+21 assessment, preparation, that sort of thing. 
+22 A Putting aside --look, we --we don't --we don't produce intel. Even though 
+23 we do have officers, we don't produce organic intelligence, you know, reports and push 
+24 to --we consume intelligence in terms of --so we can prosecute cases. 
+25 So, look -- 1 
+2 
+3 
+4 
+5 Q 
+A 
+Q 
+A BY 
+The "we" meaning the U.S. Attorney's Office? 
+Yes. I'm sorry. 
+No, go ahead. 21 
+So, look, 2020 through January 6th, I think, in general, what you're seeing is 
+6 it's a new wave of law enforcement, how you have to operate. 
+7 And, look, the Bureau, I think, traditionally, you're only as good as your 
+8 undercover sources and your covert sources, but nowadays, or the past several years, 
+9 with the proliferation of social media, it's critical to have a very robust intelligence 
+10 directorate that mines open-source, social media because this is a new phenomenon. 
+11 And I think the Bureau is learning that. And this is something we saw over the 
+12 summer with a lot of violent groups, and leveraging that intelligence through open 
+13 source --you know, open and notorious types things that bled into January 6th, and I'm 
+14 sure this is something the Bureau is trying to address because I think, traditionally --and, 
+15 again, I'm just speaking personally. I'm not speaking on behalf of the Bureau. But I 
+16 think maybe the Bureau or Federal law enforcement looks down on a lot of social media 
+17 type drivers or open-source drivers of information that maybe they're clownish, or, you 
+18 know, it's all just unverified --and a lot of it is, okay? 
+19 But I think there has to be a more robust attention given to data mining in the 
+20 social media realm and really leveraging --maybe even building partnerships with some 
+21 groups, you know, to better assess open-source intelligence. 
+22 BY-
+23 Q Appreciate that last thing. And we'll, at the end, want to hear more, sort of 
+24 prospectively, about things like that that you think might inform recommendations, right? 
+25 Part of the select committee's mandate is to look back at what happened, but we're also  22 
+1 trying to look ahead at what should happen or what could be done better. So your 
+2 thoughts on that, we'll get to. 
+3 But, just on the specific question of mining of open source or assessing danger, did 
+4 anything that happened in the summer, maybe or not happen in the summer, somehow 
+5 inform readiness for focus on those kinds of sources and operationalizing intelligence 
+6 before January 6th? 
+7 A Look, without going into details, were there some individuals who we were 
+8 able to focus on or the Bureau that passed to us that we prepared for arrests? Yes. 
+9 
+10 
+11 Q 
+A Uh-huh. 
+That happened over the summer of 2020. 
+In terms of preparing for January 6th, was the Bureau data mining air travel, hotel 
+12 occupancy, Greyhound travel? Yes, to see what the inflow is going to be. So they 
+13 do --I don't want to denigrate their abilities to do that. I just think it needs to be more 
+14 robust, and I think we could learn from that. The Bureau and the Department could 
+15 learn from it. 
+16 So, yes, we did score some victories in terms of individuals that were tracked, and 
+17 also individuals that we then ended up arresting, without going to detail. But obviously 
+18 there are a lot of circumstances that, you know, hindsight is 2020. You're playing 
+19 Monday morning quarterback where people did put things on line --
+20 Ms. Loeb. And I think that's the extent of it from our perspective. We want to 
+21 be very mindful of local court rules about ongoing criminal cases, not just the 
+22 Department's authorization when we get close to the cases. 
+23 
+24 
+25 Mr. Sherwin. Yeah. This is extremely general terms. 
+Yes. 
+Mr. Sherwin. You can't delineate --you have a thousand years any specific case,  23 
+1 but, yeah, you could learn several lessons in terms of individuals that, yeah, did post 
+2 things online that, you know, we used that as a sword against them in charging 
+3 documents. 
+4 BY 
+5 Q I appreciate that. And I'll just say, as a general matter, we are, as I said, not 
+6 interested in diving into specific cases, or --
+7 
+8 
+9 
+10 
+11 
+12 A 
+Q 
+A 
+Q 
+A 
+Q Sure. 
+--investigations -­
+Sure. 
+--pending or otherwise. 
+Sure. 
+Right? That's really not what we're interested in. 
+13 We are interested, though, in process, in assessing degree of readiness, intel 
+14 gathered, operationalized, all those kinds of --
+15 
+16 
+17 A 
+Q 
+A Right. 
+--sort of process issues. 
+Sure. 
+18 Q So keep that in mind as you go forward that we're really not looking for, 
+19 "Hey, we looked at Mr. Smith because of travel," right? That's not really --
+20 
+21 
+22 
+23 
+24 
+25 A 
+Q 
+A 
+Q 
+A Yes. 
+That's almost too granular, if that makes sense. 
+Yes. No. I don't think I've mentioned one case name or --
+Okay. Good. 
+--am about to do so. 
+I'm sorry,_  24 
+BY 1 
+2 Q I just want to pick up on that open source aspect that you just talked about. 
+3 Did you feel that, in your relationship with the Bureau from the summer on, that 
+4 the --kind of the pace of information you were provided was kept up from the summer? 
+5 A I think it increased. I'll say that. I think it was --yes. They definitely got 
+6 their sea legs and plussed up resources; yes, they did. 
+7 
+8 
+9 
+10 
+11 Q And you felt that as you entered --going into the 6th? 
+A Yes. Yes. 
+Q And we'll talk specifically about some information that you received --
+A Sure. 
+Q --through the Bureau, but just before we leave the summer, I just want to 
+12 close the loop on one thing about the National Guard. It sounds like, during the 
+13 summertime, you guys didn't have a direct communication with the National Guard and 
+14 went through JTTF. Is that --
+15 A There were --well, look, there were some --I'm not going to name names 
+16 unless I'm authorized to. There were some individuals at ODAG and in NSD that had 
+17 direct contacts with --
+18 
+19 
+20 
+21 Q Uh-huh. 
+A --some National Guard people that I know had phone calls and emails. 
+Q Great. 
+A I did not have a direct contact with the Guard. 
+22 Q And we talked, I think, informally about the complexity of these 
+23 different --of the NCR and --
+24 
+25 A Yeah. 
+Q --the Capitol is guarded by the Capitol Police. There is the Park Police.  25 
+1 That coordination, which then sprinkled in National Guard for the summer as well as 
+2 January 6th --during the summer, who was coordinating the law enforcement nature of 
+3 the National Guard's activity? 
+4 A Look, that's a good question. I think it was similar to the 6th, so the --the 
+5 nerve center for --in terms of operational intelligence on the 6th was WFO, our watch 
+6 floor. And the National Guard had a representative there so they could share 
+7 information and then share operational intel, like we have 40 people posted at this 
+8 intersection, you know, MPD is getting overrun at this intersection. 
+9 
+10 
+11 Q 
+A Uh-huh. 
+We need a Humvee to block this intersection. 
+So that served as the --there was always at least --there were several National 
+12 Guard reps there, but there was always one on 24-7 duty. I just --it would rotate, so --
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 Q 
+A 
+Q 
+A Got it. For the summer and the 6th? 
+Correct. Yes. That's correct. 
+Were you aware of any attempt to federalize the MPD during the summer? 
+Federalize? 
+Mr. Gardner. Same --same objection. Beyond the scope of the authorization. 
+Q 
+A BY 
+If you're aware or not. 
+I don't --there was --I remember tidbits of federalization of individuals. 
+21 don't remember MPD, though. 
+22 
+23 
+24 Q 
+A 
+Q Okay. 
+I don't remember that specifically, no. 
+And, as■ brought up, kind of the relationships that were built up over the 
+25 summer, this is one thing that we've learned in the investigation kind of carried over in  1 the summer, so --carried into the 6th. So were you in contact with Mayor Bowser 
+2 during the summer? 
+3 A Yeah. We had a few calls, but most of the time --look, we had 
+4 disagreements with individuals to be charged, so we didn't personally speak. We had 
+5 several disagreements --public disagreements over the summer. But my 
+6 representatives were in direct contact with her representatives, yeah. 
+7 
+8 Q 
+A It sounds like you were in direct contact with the police chief at the time? 
+Yeah. Mr. Newsham and I --Chief Newsham, and then Chief Contee, we 
+9 had --again,-was my primary conduit with MPD. 
+10 Q Uh-huh. 
+11 A But I also had significant direct communication with Mr. Contee on 
+12 January 6th, and Mr. Newsham throughout 2020. 
+13 
+14 Q 
+A And I think Mr. Contee's, like, first day as the chief was the 6th, actually. 
+Yeah. It may have been, but he was --I was working always working with 
+15 him. I knew him through --
+Right. 
+He wasn't new. He was, you know -­
+He was the first assistant --
+Correct. 
+--on the plan? Okay. 
+So we had a good working relationship. 26 
+16 
+17 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 Q 
+A 
+Q 
+A 
+Q 
+A 
+Q 
+A Right. Did you have any contact with the White House during the summer? 
+None. It was --none, fortunately. 
+Mr. Gardner. It's --
+BY  27 
+1 Q I want to segue into kind of the intelligence that we just talked about before. 
+2 If --there were kind of --as we head into after the summer, there are the two rallies in 
+3 November and in December with the million MAGA march, November 12th and 
+4 December 14th. 
+5 Were you involved as far as --there were a couple of arrests during those 
+6 incidents and --in preparation and coordination for those two events? 
+7 Ms. Loeb. So I think we would object to those questions about arrests made in 
+8 general. I'm not sure the relevance --
+9 It's not about the arrest. It's about the coordination and 
+10 preparation for those two rallies. 
+11 
+12 
+13 
+14 
+15 
+16 rallies? Mr. Sherwin. I think it was similar to what I articulated early. I don't -­
+Okay. 
+Mr. Sherwin. --think there were any different outliers. 
+BY 
+Q Do you remember if there were incidents of violence during those two 
+17 And, again, the big picture here is how those two rallies impacted your 
+18 preparations for the 6th. 
+19 A I'm sure there --if there were arrests, I'm sure there was assaults. I don't 
+20 want to guess. I don't have their records, but I think those --yes. I'm sure there were 
+21 arrests, and some of them involved assaults. 
+22 
+23 
+24 
+25 Q 
+A 
+Q Okay. Why don't we take a look at exhibit 1 -­
+Sure. 
+--in your binder. 
+Ms. Loeb. So, before we get into exhibit 1 --and thank you for sharing these  28 
+1 documents prior to the interview --I think we just want to articulate where the 
+2 Department of Justice believes --we've obviously produced these documents to the 
+3 committee, and these documents speak for themselves. 
+4 Getting into discussion about specific groups or individuals is far beyond the scope 
+5 of the authorization and may implicate ongoing cases and prosecutions, including issues 
+6 that could impact local court rules as well. So I would like just to be very careful about 
+7 what Mr. Sherwin is asked and answers about documents like this. 
+8 Mr. Sherwin. Okay. Okay. 
+9 I --as we go into the exhibits --and I understand you guys are 
+10 going to make your record --I think we are all aware of what the parameters are about 
+11 open cases, and I'm sure Mr. Sherwin is incredibly disciplined when he will speak with us 
+12 and will not get into any specifics. But we are going to talk about the intelligence that 
+13 was received in exhibit 1. 
+14 BY 
+15 Q So, if you take a look at that, Mr. Sherwin, this is December 1st, and it looks 
+16 like it's preparations for the December 12th rally. There are, you know, a number of 
+17 Parler posts, as well as kind of a summary from the SITE Intelligence Group. 
+18 Are you familiar with that group? 
+19 A Yeah. Yeah. That's, I think, a public --I believe public interest group with 
+20 open-source fusion of intelligence. 
+21 Q Looks like there is a couple kind of summary emails that are sent 
+22 through --it's likely- the acting --
+23 A Yes. 
+24 
+25 Q 
+A --chief of the Counterterrorism Section -­
+Sure.  1 
+2 Q --but it's kind of pushed up to you. 
+I have a couple of questions kind of about these outside nonprofits that are 
+3 providing information to you, and I can show you the exhibits. But, just, generally 29 
+4 speaking, is that one source of information that you were receiving, and would it come, as 
+5 we see here, directly to you, or would it come through the Bureau? 
+6 A Look, that's a good question. And, just focusing on January 6th without 
+7 earlier than that, look --look, as a former intelligence officer, I'm always going to --any 
+8 information is good information as far as I'm concerned. And sometimes former 
+9 colleagues of the office or just public interest groups will try to push us information, and I 
+10 would always accept it, or my first assistant would get information and push it up to me 
+11 or push it to NSD or the Bureau. 
+12 So we didn't make an assessment. If we got it, we just tried to push it and not 
+13 really sit on it, if that makes sense. So, look, any information is valuable as far as I'm 
+14 concerned. 
+15 Q So what do you do with it? You as, like, someone who is --also, this is sent 
+16 to Mr. Donoghue, the ODAG's office, and I can give a number of different examples. But 
+17 I'm just wondering --some of it is then --you forward on to the Bureau, correct, and we 
+18 have an example of that? 
+19 A I mean, yeah, I don't --this happened probably often. 
+20 
+21 Q 
+A Uh-huh. 
+I mean, if I didn't formally forward it, you know, I would, you know, speak to 
+22 either the ADIC about it, so --
+23 Q And, during --it sounds like you had received SITE reports prior to 
+24 December 1st. This is obviously not the first one? 
+25 A Look, again, I hadn't seen my email since I left the U.S. Attorney's Office, but,  1 yeah, I'm sure, if you pulled my email, there is other examples of getting open-source 
+2 intelligence that are sent to my staff; they pushed to me, sure. 
+3 
+4 
+5 
+6 
+7 Q Right. And this one, like I said, is about the December 12th rally --
+A Yeah. Right. 
+Q --and it has some somewhat --
+A No, I'm very familiar with that rally. 
+Q And can you explain why and how, what happened there, and how it 
+8 impacted --
+9 
+10 
+11 A I don't want to get into details of individuals, but --
+Q Okay. 
+A --there were individuals arrested that day that were --that had ripple 
+12 effects on January 6th. 
+13 
+14 Q And were those groups --members of Proud Boys or --
+Ms. Loeb. I'm sorry. We would object. This is far beyond the scope of the 
+15 authorization and very --
+16 
+17 
+18 
+19 
+20 Mr. Sherwin. I'll honor DOJ's objection. 
+So --
+Mr. Sherwin. If you can rephrase it. 
+BY 
+Q The folks that were arrested during those rallies, or attended those rallies, 
+21 putting aside the arrests itself --
+22 
+23 
+24 A Okay. 
+Q --did that impact kind of the threat landscape going into January 6th? 
+A I mean --I mean, you're a product of your past, so yes. I mean, our frame 
+25 of reference on January 6th was shaped by everything that happened before then, yes. 30  31 
+1 Q Yes. Yes. That's precisely the question. 
+2 So, when you say "everything that happened," what are the standout events of 
+3 the November 12th rally and the December 14th rally, crowd size, or location? 
+4 Obviously, that --exhibit 1, we see: We march on D.C. with guns. We go all in. 
+5 There is certain rhetoric that's increased from these rallies. 
+6 How would you describe what that kind of --those data points are going into the 
+7 6th? 
+8 A Yeah. I mean, just in general, you know, if --if people are talking about 
+9 weapons and rallies, that's --it's never a good mix to have protests with weapons, so that 
+10 would be of a concern that we would make sure the FBI and the Bureau --if the Bureau 
+11 and MPD knew --and the MPD was, you know, very --very aware of these rallies as well. 
+12 So it's never a good combination having protests and weapons. 
+13 Q Another thing that was brought to your attention, exhibit 24, is a thread --I 
+14 think you're on this. 
+15 
+16 A 
+Q Exhibit 24? 
+Oh, actually, 24 is an internal actual email you're not on, but I'm wondering 
+17 if you were aware of the thread thedonald.win? It's the next page. 
+18 
+19 
+20 A 
+Q 
+A Okay. I'm sorry. Twenty-four? 
+It's just the --it's just the --
+Yeah. I mean, personally, I'm familiar with that moniker, but I don't 
+21 remember seeing this intelligence --
+22 
+23 Q 
+A Okay. 
+--product, per se. 
+24 Q Okay. And then, along the same lines, exhibit 9, 10, and 11, I want to talk 
+25 about briefly. This is information that was provided to you. We'll look at exhibit 11.  32 
+1 Ms. Loeb. So I think we would object to discussions about what Mr. Sherwin was 
+2 specifically aware of with specific intelligence. If you want to ask questions generally 
+3 about intelligence flow and lessons learned, but specific intelligence and how it 
+4 would --traveled through the U.S. Attorney's Office, we think may well impact ongoing 
+5 prosecutions, and it's not appropriate for today's questions. 
+6 I'm not sure how --
+7 
+8 Ms. Loeb. Unless you'd like to go off the record --
+Ms.~ --the process of intelligence flow would impact any ongoing 
+9 case, so I'm going to ask about this. 
+10 Ms. Loeb. No. Process --
+11 We've made many requests to have a witness describe this. 
+12 We have not been --that request has not been honored as of yet, so I'm going to ask 
+13 Mr. Sherwin, because he has received these emails. 
+14 Ms. Loeb. So asking about process flow generally is fine. Asking about specific 
+15 details of a specific piece of intelligence process flow is beyond what the Department is 
+16 comfortable with. 
+17 BY 
+18 
+19 
+20 
+21 
+22 
+23 
+24 yes. 
+25 Q 
+A 
+Q So we're going to look at exhibit 11, Mr. Sherwin. 
+Okay. 
+And this is information that's provided to you by the-as well as 
+Are you familiar with that group? 
+A Oh, yeah. No. I perused their website, yeah, before I was a U.S. attorney, 
+Q Okay. And it looks like there is daily monitoring notes from the DFRLab for  33 
+1 January 4th as part of that exhibit 11. And this is sent to your first assistant,_ 
+2 and then pushed on to a number of different individuals, including yourself. 
+3 And it's pushed outside of the --outside of DOJ, including to Chief Contee. Well, 
+4 Ashan Benedict is ATF. And of course folks at the Bureau. 
+5 So some of these --obviously, everything we're doing is Monday morning 
+6 quarterbacking. So, when you look back at some of these, particularly number 4, Trump 
+7 says he will appear at January 6th protests at the White House Ellipse. And you have a 
+8 picture here of armed militia. Then you have the January 3rd tweet of Donald Trump 
+9 saying: I will be there. 
+10 Just on that point alone, were you tracking kind of the tweets that the President 
+11 himself was putting out and how that impacted the rhetoric that was increasing? 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 tweets. A 
+Q 
+A 
+Q 
+A 
+Q 
+A 
+Q 
+A 
+Q I wasn't. So I didn't have any bandwidth to --especially the President 
+Understood. 
+No. 
+And then the last kind of piece here is Trump number 9. 
+Okay. I'm sorry. Exhibit 9? 
+This is exhibit 11. 
+Okay. 
+And it's probably easier to go by the Bates stamp. It's 638. 
+Okay. Okey-doke. 
+And the number 9 here on this DFR summary says: Trump supporters 
+23 discuss storming U.S. Capitol, protesting armed. On thedonald.win, a forum board 
+24 popular with the Trump supporters, several discussions regarding weapons and shows of 
+25 force have taken place regarding Washington protests on January 5th and 6th. It has a  34 
+1 screenshot of Three Percenters. And then the-gives some examples of some of 
+2 the increased rhetoric. 
+3 So you said that you were familiar with this website, and it's passed on. I'm just 
+4 wondering if you can explain, again, like, what --when you --obviously, if someone reads 
+5 this now, it seems prescient. But, at the moment when you read something like this, 
+6 what followup steps are taken after forwarding it onto the Bureau? 
+7 Ms. Loeb. Objection. And if we'd like to go off the record so we can have a 
+8 broader conversation --
+9 
+10 
+11 
+12 Mr. Sherwin. Sure. 
+Ms. Loeb. --about this, I think we would be more comfortable. 
+I don't need to go off the record. 
+Ms. Loeb. Okay. We object to that line of questioning, and we do not think it 
+13 appropriate for Mr. Sherwin to answer. 
+14 I think he can still choose to answer if he wishes to answer. 
+15 It's a process question, which is the heart of what you just told me that --
+16 
+17 
+18 
+19 
+20 Ms. Loeb. Yeah. Mr. Sherwin is here voluntarily, and he can decide. 
+Mr. Sherwin. Yes. So I'm going to answer in general --
+Go ahead. 
+Mr. Sherwin. --and without a specific example. 
+I think I already said this 10 minutes ago. We would --I --we would never reject, 
+21 or me and my staff, I don't think there is an example --again, this is going off memory. 
+22 don't think personally I ever rejected any intelligence or denigrated intelligence. It 
+23 would always be pushed. 
+24 And, again, we don't vet intelligence. We don't leverage intelligence. We use it 
+25 in coordination with our law enforcement partners to bring cases.  35 
+1 So we would ensure it's pushed so there is visibility. That's as simple as that, and 
+2 I think this --this happened --with this example here --and I'm sure there is other 
+3 examples in which that was --that was --that occurred. 
+4 BY 
+5 Q Was there anything that you saw prior to January 6th that you did something 
+6 other than push it forward, make a call, or cause more of an alarm within you as to what 
+7 might occur on January 6th? 
+8 A Look, again, I --I --I think I stated this. I had daily calls with my Bureau 
+9 colleagues and ATF colleagues. I wouldn't be --it wouldn't shock me if, in those calls, we 
+10 specifically spoke about this. So yes. I mean, there was a concern, and we saw that 
+11 over the summer that there could be individuals with weapons, and we have to be aware 
+12 of that, and we have to have the resources to, you know, react to those circumstances. 
+13 
+14 
+15 Q 
+A 
+Q And, apart from -­
+So --
+--weapons, do you remember discussions about actual, as number 9 said, 
+16 storming the Capitol, if that's a possibility, or even if people dismissed it as it's not 
+17 credible? 
+18 A You know, I don't --I don't specifically remember an individual saying it's not 
+19 credible, but I think there was --from a broad perspective, intelligence perspective, these 
+20 were, like, unverified indicators. And I could only speak on behalf of the U.S. Attorney's 
+21 Office. 
+22 Again, we don't assess intelligence. We consume it. So I didn't --it wasn't my 
+23 role to denigrate intelligence or give it veracity. I just wanted to ensure that the proper 
+24 forum --it was pushed to the proper forum so the experts could, you know, make that 
+25 assessment.  1 
+2 Q 
+A Which, in this case, would have been the WFO FBI office? 
+That's one of the --that's one --yeah. That's --they have intelligence 
+3 specialists, correct. 
+4 Q Did you have any interaction with the headquarters office of domestic 
+5 terrorism or operations section? 36 
+6 A Look, I would have calls with individuals linked to that office, but, again, my 
+7 primary conduit was the --the ADIC. 
+8 Q I guess the bigger question here is: Those conversations, did they happen 
+9 in the sense of we now see emails forwarded, but were there --were they just forwarded, 
+10 or, as you just described, there was conversations amongst the key players to discuss 
+11 some of these things that had been forwarded to you? 
+12 A Look, I don't know --I can --I can't opine upon what the Bureau did 
+13 specifically with all these. I mean, I think, if you looked at their records, you could see 
+14 how the JTTF --how they pushed it out to Capitol Police or local and municipal partners. 
+15 I mean, there has got to be a record of that, so the record would speak for itself. 
+16 But, you know, I --I know that there must have been other, obviously, calls between the 
+17 Bureau and MPD and the Capitol Police, but I wasn't privy to those --those individual 
+18 calls. 
+19 Q Right. But, just so the record is clear, but did you have conversations with 
+20 the ADIC about what you were seeing in some of these posts? 
+21 A 
+22 correct. 
+23 
+24 
+25 Q Oh, sure. We --we --yes. We would have discussions about social media, 
+And what was --
+Before you leave 11, I just wanted to -­
+Oh, yeah. Go ahead.  37 
+BY 1 
+2 
+3 Q I appreciate --this is on the same subject of discussions with the ADIC. So 
+exhibit 11 that is before you looks like an intelligence product from office 
+4 that you, as you said, Mr. Sherwin, pass along to the Bureau. And, subsequent to that, 
+5 there is some internal discussion reflected in the emails about whether or not the Bureau 
+6 can or can't accept it. 
+7 
+8 A 
+Q Okay. 
+You see that? I'll just refer you to the very first page, or first, actually --it's 
+9 actually the latest in the series --email chain, but the first page in your binder. 
+10 
+11 
+12 
+13 
+14 
+15 
+16 A 
+Q 
+A 
+Q 
+A 
+Q Oh, okay. I see it, yes. 
+Because -sends it, right --gets it from--­
+Yes. 
+--sends it over -­
+Yes. 
+--to Steve D'Antuono. And then he forwards it on to Jennifer Moore. 
+And then her question is: I'm positive we've been down this road, and this is not 
+17 a product that we can solicit, but can we accept it? 
+18 And the response comes back: Yes, we can accept unsolicited information as 
+19 long as we note the source and note it was unsolicited. And, if there is no legitimate 
+20 basis to investigate further, we should also note that no further action was taken. 
+21 Did you get involved in these discussions with the ADIC or otherwise with sort of 
+22 assessing whether the Bureau can or can't solicit or what it can do with information? 
+23 A I'm not trying to be circumspect, but you're right. I mean, I wasn't on these 
+24 communications, but I did not have ancillary communications about this. 
+25 Q Okay. And beyond this -- 1 
+2 A 
+Q Yes. 
+--generally, would they call you and say, "Hey, is this something --which 
+3 side of the line is this on"? Is this something that we can --
+4 
+5 
+6 A 
+Q 
+A No. I was never --
+What should we do with it? 
+I was never pinged for my professional assessment on veracity of 
+7 intelligence, no. 
+8 Okay. 
+9 BY 
+10 
+11 Q 
+A Well, I don't know if it's veracity, or just more can they accept it? 
+Yeah. No. I was never --that I recall, I was never --had the discussion 
+12 whether or not they could accept intelligence or the flow of intelligence, no. 
+13 BY 38 
+14 Q Yeah. Not --that does answer the question. And I guess my other related 
+15 is: Did you apply any similar standard about what you could solicit versus what you 
+16 could accept, "you" meaning the U.S. Attorney's Office? I know you weren't in the 
+17 business of gathering intelligence --
+18 A No. I think, like I said before, look, as a former intelligence officer, from my 
+19 perspective, any intelligence is valuable intelligence, so --
+20 Q Okay. So it sounds like your approach, Mr. Sherwin, summary is you get 
+21 stuff, you're not going to assess it, you're going to pass it along for whatever worth it 
+22 might have to the folks that are in the business of assessing it? 
+23 
+24 
+25 A 
+Q 
+A Yes, sir. Yes, sir. 
+Yeah. And that was your standard practice throughout this whole period? 
+That --as I recall, yes, sir.  1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 Q 
+A 
+Q 
+Q Okay. 
+Yes. 
+Okay. Thank you. 
+BY 
+Just a couple more pieces on the intelligence aspect of this. 
+Were you aware of the FBl's reliance on Dataminr also as a collection source? 
+A 
+Q 
+A 
+Q 
+A I mean, the Bureau mines data, correct, yes. 
+The company, though, the Dataminr specifically? 
+Oh, the company. 
+Yes. 
+I don't recall the exact --I think there are several contractors, but I'm --I 
+12 don't want to get into those details obviously. I'm not going to --I can't get into those 
+13 details. 
+14 Q Did you --were you ever aware of the contract with Dataminr lapsing right 
+15 before --like, at the end of December, and then ZeroFOX being utilized by the Bureau? 
+16 A I don't recall. And, even if I did, I don't think it's appropriate to get into 
+17 those contractors with data mining, no. 39 
+18 Q I'm just more --the bigger question, again, is whether any of that was drawn 
+19 to your --brought to your attention --
+20 
+21 
+22 
+23 A 
+Q 
+A 
+Q It wasn't. 
+--and concern? 
+It wasn't. It wasn't. 
+Were you familiar with the Bureau putting out a request on December 27th, 
+24 kind of to the 56 field offices about kind of seeking information about January 6th and 
+25 asking folks to upload it to the Guardian system?  1 
+2 40 
+A I don't recall that, but it wouldn't surprise me if that happened. 
+Q Okay. And were you, as the U.S. attorney, aware that they were --that the 
+3 Bureau was tracking what they called travelers who intended to --there were predicated 
+4 cases that were traveling to the D.C. area for the January 6th --
+5 
+6 A Yes. Yes. Correct. 
+Q Okay. So, without getting into details about that, who --would it have 
+7 been Steve D'Antuono to have brought that to your attention? 
+8 A Most --yeah. Most likely, or --yes. It most likely would have been 
+9 D'Antuono, correct. 
+10 
+11 
+12 Q And I think Ms. Sanborn --
+A Yes. 
+Q --testified publicly about there was 18 travel --subject travelers, and efforts 
+13 were made --overt efforts were made to talk them out of coming? 
+14 
+15 
+16 A 
+Q 
+A Yeah. I don't remember those details. 
+Uh-huh. 
+I just know I --I'm vaguely familiar with those conversations with both Jill 
+17 and Steve --Jill Sanborn and Steve D'Antuono about that, but I don't remember any of the 
+18 
+19 
+20 
+21 
+22 
+23 
+24 
+25 details. 
+Q 
+A 
+Q 
+A 
+Q 
+A 
+Q And were they --
+You can refresh my memory if you have a document, but I don't remember -­
+Sure. 
+--any of those details. 
+I can show you exhibit 16 -­
+Okay. 
+--which is Jan 6, day of.  1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+22 D.C. --A 
+Q 
+A 
+Q 
+A 
+Q 
+A Sure. 
+Where it says there are reports about 18 predicated subjects traveling to 
+Okay. 
+--but, of those, six are now not going to be traveling. 
+Okay. 
+It is attached list, but we never --we never received the updated list. 
+Okay. 
+BY 
+Q And- was acting head of NSD at that time. Is that right? 
+A No. He was --Mr. John Demers was in charge of NSD as --
+Q Oh, right. 
+A --the AG, and--
+Q Still there. 
+A --was the chief of counterterrorism --
+Q Got it. 
+A --who I --I'll end it there. 
+Q Within NSD? I got it. 
+A Yes. Correct. Yes. 
+Q Okay. Thanks. 
+BY 
+Q Was that information pushed out to the Federal law enforcement partners 
+23 or to MPD that these folks were traveling? 
+24 A I can't answer that. I don't --I don't know. I don't know, because --I'm 
+25 even looking on here. Yeah. I --and I've --actually, I'm glad --I mean, it's interesting 41  42 
+1 seeing this now, and I haven't seen this in a long time, but, yeah, I don't know if there was 
+2 any other email about this, and then how it was pushed, if --if-pushed it, or if 
+3 anyone else pushed it out. I can't answer that. I just don't remember pushing this. 
+4 Q Got it. 
+5 Were you aware of the January 5th situational incident report from Norfolk, 
+6 Virginia --
+7 
+8 
+9 
+10 A 
+Q 
+A 
+Q Okay. 
+--that was later -­
+Yes. 
+--in the press, but did you --were you aware of it at the time on January 5th 
+11 when it was uploaded or released, sort of? 
+12 A I think I was notified on the 6th. I don't think I was on the 5th. I --but, 
+13 yes, I remember Mr. --I was in WFO when I was made aware of it. And I think it was on 
+14 the 6th. I'm almost positive it wasn't on the 5th, but that --those 72 hours, 5, 6, 7, and 
+15 8, or 96 hours, are still very foggy. But, yes, I do remember even seeing the report in 
+16 WFO. 
+17 Q So, just so I'm clear, on the 6th, would it be during the time the Capitol was 
+18 under assault? 
+19 A Or that --or that evening. I just can't pin an actual time, but I remember, 
+20 because I remember hearing about it, and I wanted to see the actual report, so --
+21 Q So is it fair to say that, by the time it reached your eyes, it didn't have any 
+22 impact on your preparations for the 6th? 
+23 A You're --in terms of timing, I don't recall seeing it before the Capitol was 
+24 breached, correct. 
+25 Q Okay. There is a couple calls I want to go through -- 1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 A Sure. Sure. 
+Q --in terms of what we --
+A Of course. 
+- You've got Ms. Cheney on. If she wants to --
+Oh, I'm sorry. Ms. Cheney, do you have any questions? 
+Ms. Cheney. I don't. Thank you. 
+BY 
+Q I did --in the last kind of email set, I provided you some handwritten notes 
+9 from Mr. Donoghue --
+A Yes. 
+Q --just to jog your memory. 
+A They were hard to read. 
+I know. I know, but I thought -­
+I'll try my best. 43 
+10 
+11 
+12 
+13 
+14 
+15 Q 
+A 
+Q I thought it might be helpful if you didn't have the memory for it. And, just 
+16 so I set the table here, it looks like there is a December 30th call with Mr. Rosen --
+17 
+18 
+19 
+20 A There were a lot of calls, yes. 
+Q --and then there is a couple interagency calls that I want to get into. 
+A Sure. 
+Q But December --it looks like exhibit 2 and 3 --we don't have to spend time 
+21 on it, but Mr. Rosen is --attempts to reach out to you on December 28th to prepare for 
+22 January 6th. And it --and you have the call at 4:30 on December 30th. 
+23 Just from your own memory, what was kind of the purpose of that call, and what 
+24 was --
+25 A Oh, yeah.  1 
+2 Q 
+A If any decisions were made or planning? 
+And I even know before that, in mid-December to the end, Mr. Rosen --so 
+3 Mr. Rosen had --by virtue of I worked directly for Mr. Rosen at ODAG before I became 44 
+4 the --so in some critical matters like that to Pensacola, he had my cell number --it looks 
+5 like someone at ODAG didn't, as Mr. Barr had my direct work cell number. So they knew 
+6 how to reach me, and they did frequently, even if it was 2 or 3 in the morning. 
+7 That being said, yes, Mr. Rosen wanted to know if I was in communication. Look, 
+8 this was new to Mr. Rosen, let me say because he wasn't the AG during the summer 2020, 
+9 so this was --he was now in the --in the boss' chair, right? I mean, so he definitely 
+10 wanted to know, are we in communication with WFO? Are we in 
+11 communication --specifically, how is things with MPD? Are they good with resources? 
+12 Is there --is the mayor --are they talking to the mayor's office, though in general 
+13 questions about, look, are you good to go? Do you need anything, and are you hearing 
+14 anything? So --and I think it's even relayed there. What is the crowd size? 
+15 
+16 Q 
+A Uh-huh. 
+For example, if --if --I would get from --probably, I would --I'm suspecting I 
+17 would get it from Mr. D'Antuono. How is the crowd size looking? 
+18 Well, it's looking like, you know, it's trending towards 10,000. You know, it's 
+19 trending towards 5,000. 
+20 So those general types of questions, Mr. Rosen wanted to know.  45 
+1 
+2 [11:12 a.m.] 
+3 BY 
+4 Q Generally, if the AG's calling, whether it's Mr. Rosen or Mr. Barr, and you 
+5 anticipate what those questions are, do you reach out to the ADIC to say, okay, these are 
+6 some things that I suspect? I mean, if you don't have it already in your own mind. 
+7 A I mean, the thing is I spoke to ADIC so frequently, and then Chief Contee and 
+8 Chief Newsham, I would almost frequently know the answer already to what the AG was 
+9 asking, so --but it was generally manpower issues, and then what is the flow looking like, 
+10 flow --ingress flow into the District. 
+11 
+12 
+13 Q 
+A 
+Q Did you have answers at that time, December 30th? 
+I believe so. I believe so. 
+So it looks like from Mr. Donahue's notes --again, if that's not your memory, 
+14 please say so. But he states during the call that thus far, solely pro-Trump protesters are 
+15 planning to come in. There's no intel regarding counterprotesters. 
+16 What was the --the discussion about counterprotesters, I wonder if you could just 
+17 unpack that a little bit in terms of going in to the 6th? 
+18 A I don't want to fence with what Mr. --I don't know. His notes speak for 
+19 himself, but personally, and this is directly to January 6th, the counterprotest piece is 
+20 critical because we were prepared for a protest on counterprotest violence because of 
+21 the crucible of what we saw prior to January 6th where there was a lot of intel. And, 
+22 again, I could look through it all, but without even looking through all of it, I remember 
+23 there's a lot of intel about, you know, we have to F up antifa, we have to F up BLM. And 
+24 the first place on the morning of the 6th where I went with MPD was BLM Plaza, because 
+25 that's where we thought the crux of the violence was going to be, protester on  46 
+1 counterprotester violence. 
+2 And I can only speak personally, but I think some of my colleagues at MPD shared 
+3 it. We were shocked that there was this void of counterprotesters there because that's 
+4 where we expected the, like, the action to happen. And when it didn't happen there, 
+5 we were kind of almost surprised, and maybe in some ways that's maybe why the whole 
+6 flow went towards the Capitol. But we were definitely keyed in on 
+7 protest-counterprotester violence especially from what we learned in December with 
+8 some of the groups you already referenced. That was a critical emphasis. 
+9 Q So when you say we, Mr. Sherwin, are you talking about you and Mr. 
+10 D'Antuono? 
+11 A That's correct. I'm talking about Bureau and DOJ and MPD too. That was 
+12 a major emphasis that we wanted to ensure that we can mitigate protest on 
+13 counterprotest violence, because a lot of these postings we saw were arming up and f'ing 
+14 up antifa, f'ing up BLM, you know, all types of violent rhetoric about counterprotesters. 
+15 
+16 Q 
+A Sure. Equally, though, there's posts about militia attending and --
+No. That's true. You know, there's postings by Three Percenters saying, 
+17 stop the steal. Postings by Oath Keepers saying, take back our house. Yes. Correct. 
+18 Q So is it fair to say that because of, again, the flow of events from the summer 
+19 to the two protests before, the focus on the counterprotesters was informed by the past 
+20 experiences? 
+21 
+22 A 
+Q Absolutely. 
+Are you aware --again, I know it's a hectic time to look back on --but Mayor 
+23 Bowser on Monday put out a recommendation for folks to stay out of the District? 
+24 A Yeah. I'm sure probably people were going to work, don't go to work that 
+25 day. Yeah. I recall that. Yeah. I recall that.  47 
+1 Q Right. Do you think that had any impact on the kind of the 
+2 counterprotesters that may or may not have chosen to attend the 6th? 
+3 A I don't think so, because it was COVID, the height of COVID anyway, so 
+4 people you weren't really going to work. Like, all the --you couldn't even go to 
+5 Starbucks and get a coffee there. Even if there were no protests, I don't think that really 
+6 had an impact. 
+7 Do you have anything on that? 
+8 
+9 
+10 
+11 Yeah. Just before you leave this. 
+BY 
+Q This is an important topic for the expectations leading in. 
+So, broadly, different kinds of protest events, right? There are protest events 
+12 like Lafayette Square where it's protesters were pushing against law enforcement or 
+13 barricades or their enmity is directed more at people wearing uniforms. And then there 
+14 are other kinds of events where people are fighting with each other, right? Like, the 
+15 Proud Boys are fighting with antifa, and we had some of those in the 
+16 November-December timeframe. 
+17 Which of those or both was it your expectation before January 6th that you were 
+18 facing? 
+19 A Both. Both. But I think --and I can just speak personally. I think if you 
+20 move from 6/1 to 1/6, you see this organic growth of violence directed towards the 
+21 White House; summer, fall, winter, more protester on protester violence that morphed. 
+22 And then to 1/6 you have this protester on Capitol violence. So there was a shift from 
+23 6/1 to 1/6 that shifted on this spectrum, if that makes sense. 
+24 Q No, it does. And it's both, I understand. I guess I'm just trying to get a 
+25 sense of your personal sense of the greater threat. Like, were you really focused on let's  48 
+1 keep people apart and make sure there isn't this protester-counterprotester violence, or 
+2 are, hey, we've got to be careful, like in the summer, that there's not a fence that's 
+3 pushed over or a threat to sort of the Capitol? 
+4 A It was both, but there was definitely, I believe --and, again, I can only speak 
+5 for myself. I think there was a big emphasis on we have to mitigate protester on 
+6 protester violence because that's where things could go really bad. You know, people 
+7 get knifed and shot and --
+8 
+9 Q 
+A And had at those prior events? 
+And there was violence protester on protester, so we wanted to ensure that 
+10 didn't happen. So, yes, I think that there was a shift. Yes, sir. 
+11 Q Okay. Looking back now, do you think you would --you collectively were 
+12 too focused on the protester on protester type of violence versus this sort of hardened 
+13 protect the Capitol kind of potential violence? 
+14 A Look, that's a tough question to answer. I'm not saying that we only --we, 
+15 I'm talking holistically Bureau, law enforcement --only focused on protester, protester, 
+16 you know, protester, counterprotester, but was that maybe a primary emphasis? 
+17 believe so, but that doesn't mean protests direct --institutional protests were not a 
+18 concern. They absolutely were because, you know, there was an emphasis on hard 
+19 points being protected. You know, chokepoints being protected by National Guard and 
+20 MPD, chokepoints so you could push the flow of people, you know, away or towards 
+21 different paths to keep them away from different intersections and property, the Capitol, 
+22 White House, Hoover building. So there was definitely --the protest on institutions was 
+23 not discounted, but maybe it had a secondary role. Maybe that's a fair assessment. 
+24 
+25 - Yeah. Appreciate that. Thank you. 
+BY  49 
+1 Q The December 30th call, do you remember it being tasked with anything in 
+2 particular to do with preparations? 
+3 A I don't. I mean, it was probably similar to the prior calls I had even before 
+4 the 30th and then maybe after 30th. But I don't remember any details. 
+5 Q Was there any sense that other DOJ components were going to be called 
+6 upon to assist for the 6th? 
+7 A Yeah. I mean, I think it was similar to probably over the summer that the 
+8 AG wanted to leverage and, you know, make sure that if the Bureau doesn't have enough 
+9 organic sources at WFO, are we going to call in SRT from other districts, are we going to 
+10 call in, you know, U.S. prison services personnel, are there DEA, ATF, could we call in 
+11 agents that are on leave to just plus up the District? So those were very similar calls that 
+12 happened on the 6th that happened throughout the summer. 
+13 Q And do you remember any discussion about contacting Capitol Police at that 
+14 time or at any time? 
+15 A I mean, that was a constant. That would have been in every conversation. 
+16 Are you in touch with Capitol Police? Is someone talking to Newsham? Is someone 
+17 talking to Contee? Do they need any resources? Yes. That wouldn't have been an 
+18 outlier at all. 
+19 Q And who --were you in contact with someone at Capitol Police or was 
+20 someone from your staff? 
+21 A Again, the primary would have been- but I definitely spoke to the 
+22 chief of police. I just don't --
+23 
+24 Q 
+A 
+25 strike that. Chief Sund prior to the 6th? 
+Oh, I'm sorry. MPD. Not --not --that's a good --I apologize. Let me  50 
+1 I never had direct calls with Capitol Police. Never happened over the summer. 
+2 Never happened over the winter or the spring. My primary partners were MPD and 
+3 Bureau, who were then liaison with Capitol Police. So I never had a direct 
+4 communication. I don't even think I directly emailed anyone at Capitol Police either any 
+5 time as my tenure as a U.S. attorney, to tell you the truth, that I can recall. 
+6 Q And to be clear, so~as in touch with MPD, not Capitol Police? 
+7 
+8 A 
+Q That's correct. That's correct. 
+Okay. Were you informed about any preparations Capitol Police was 
+9 taking? Were they part of kind of the integrated plan? 
+10 A That's --they were part of the JTTF, and they're in that pipeline of 
+11 information. But, no, I never had a direct discussion with them or their leadership about 
+12 their resources. That would have all been conveyed through our law enforcement 
+13 partners. 
+14 Q Sure. And just one final point before we go off the counterprotester 
+15 question, which is a big part of what we've heard as part of these interviews. 
+16 Do you think there was --was there a sense that there was less of a chance for 
+17 violence because the group was predominantly pro-Trump, pro-law enforcement 
+18 individuals? 
+19 
+20 
+21 A 
+Q 
+A Not --personally, absolutely not. 
+Because why? 
+Look, divorced of politics, there was plenty of --I personally viewed plenty of 
+22 violence over the summer on all sides of the spectrum that continued through 
+23 January 6th. But, no, I mean, I personally just can speak on my own behalf, no, some of 
+24 these individuals are pretty dangerous and --regardless of whether they're red or blue. 
+25 Q I want to talk a little bit about the interagency calls that you were on.  1 
+2 
+3 
+4 
+5 
+6 A Sure. 
+How are you doing in terms of break? Are you good? 
+Mr. Sherwin. I'm good. 
+You guys too? Okay. 
+BY 
+Q So exhibit --and, again, I don't really go through them, but just to jog your 51 
+7 memory here, exhibit 6 is an email to you saying that Mr. Rosen wants you to join him for 
+8 a call at the White House this afternoon. And that looks like it's a call that's set up by 
+9 acting SecDef Miller, which would be a January 4th call. 
+10 A Yeah. I never recall ever being on a call with Mr. Miller or the AG before 
+11 January 6th and even on. I was never on a call that I could recall ever with the SecDef 
+12 and AG Rosen. 
+13 Q Okay. Were you on any --I know there's a couple emails about your 
+14 internal staffing calls about the 6th. 
+15 
+16 
+17 A 
+Q 
+A Yes. All the time, yes. 
+Do you remember any like interagency call at all with DOJ and DOD? 
+Probably with --probably via NSD or the JSOC, but I don't recall ever being 
+18 on a direct call with DOD and the AG, no. 
+19 
+20 
+21 
+22 
+23 Q Okay. 
+Were you traveling at this time? Looks like -­
+Mr. Sherwin. Yeah. I'll tell you exactly where I was. 
+- Michigan? 
+Mr. Sherwin. Yeah. My son was pitching that day. So I was there, and I 
+24 remember that day because of an event that happened in the District. But that evening, 
+25 I traveled back to the District, yes.  1 
+2 The 4th or the 5th? 
+Mr. Sherwin. I believe the 4th. I can look at my records, but I was in the 
+3 District on the morning of the 5th. 
+4 And it sounds like when you were traveling, Mr. Sherwin, you 
+5 would often designate your first assistant to sort of take your place on some of these 
+6 prep calls? 
+7 Mr. Sherwin. Oh, yeah. Or I was on --again, I don't have my phone records, 
+8 but I'm sure if you pull my phone records and stuff, there's probably dozens of calls in 
+9 those days. So I was on the coordination calls even if I was not in DC. 52 
+10 - But fair to say you and-were sort of linked up through this 
+11 whole time? 
+12 
+13 
+14 
+15 Mr. Sherwin. Yeah. We were fist and glove. Yes. 
+Okay. 
+BY 
+Q So in my reading of these emails on the 4th, it looks like you set up an 
+16 internal call on the 4th at 3 o'clock. When I say internal, I mean looks like your staff, Mr. 
+17 D'Antuono, Chief Contee, and SAC ATF Benedict? Go ahead. 
+18 
+19 
+20 
+21 A You're right. I'm sorry. This exhibit, we're looking at 6, right? 
+Q That's 7. 
+A I'm sorry. Which exhibit are we looking at? 
+Q So we started with 6 where you were requested to join Mr. Rosen on a 
+22 January 4th call. 
+23 
+24 A Yes. 
+Q And my speculation was that you did a pre-call with --internally at 3 p.m. 
+25 before that 4:30 call, but maybe I'm wrong if you don't remember.  1 
+2 
+3 A 
+Q 
+A No. I don't think --this is divorced of that. 
+Okay. 
+This is because I wanted to make sure --and I even wasn't in town, and I 
+4 instituted this interagency call with just --with our point person at the U.S. Attorney's 53 
+5 Office, ATF, Mr. D'An---so you see the usual suspects on this call. This would have been 
+6 a call that --you know, a prep call that we would have had. So this was not --again, I 
+7 don't ever remember the SecDef call, if I was invited. I would love to see phone records 
+8 if I even dialed into this thing. I don't recall ever doing it, but this other call was 
+9 divorced from that. This was an update call to make sure we were all on the same page. 
+10 Q It looks like you did attend, at least from Mr. Donahue's perspective, a 4 
+11 o'clock call --
+12 Before you --
+13 Oh, go ahead. 
+14 BY 
+Q So -irst assistan is the criminal chief? 
+A Yes. 15 
+16 
+17 Q -what was his role at the time? 
+18 A ~as my superior court chief. He was critical for --he was the one I 
+19 was doing patrols with on the morning of the 6th. 
+20 
+21 
+22 
+23 Q 
+A 
+Q 
+A I see. Steve D'Antuono obviously is the criminal chief? 
+Yes. 
+You've got Chief Contee. Ashan Benedict, he's ATF side? 
+Yes. Yes. And this is a call that I instituted, again, even though I was out 
+24 of town, to make sure we're all on the same page. Resources, everyone good to go. 
+25 Anyone need anything, you know, good to go.  1 
+2 
+3 Q Understood. 
+BY 
+Q The 4 o'clock call on the 4th, do you remember that call at 4 p.m. with 
+4 Mr. Rosen and Mr. Donoghue? 
+5 
+6 A I don't, but if it's in Mr. Donoghue's notes, I'm not going to --
+Q And we don't have to --it sounds like there was much conversation, again, 
+7 about the similar aspects of kind of resources? 
+8 
+9 
+10 A Yes. 
+Q Crowd size? 
+A Oh, yeah. Absolutely. Yeah. What's the crowd size looking like? 
+11 remember Mr. Rosen was fixated on that, yes. 
+12 
+13 Q Was it fluctuating in the intel you were receiving? 
+A I think it was trending up, but there was never --I think --again, if you 
+14 probably peruse through all the emails and everything, I think it was trending under 54 
+15 10,000 until the actual event, and then it plussed up to 20-, 25,000 plus. Again, I'm just 
+16 guessing. 
+17 Q I think there's an exhibit here, exhibit 8, where this is an update, on Jan 4th 
+18 from- where there is an estimate top of the second page to be 
+19 approximately 20---
+A Okay. Okay. 20 
+21 Q So he kind of talks through, at the bottom you can see roughly 26 
+22 demonstrations. Permit applications estimate could be approximately 28,000 people in 
+23 attendance. 
+24 So that was --was there any thought about kind of fluctuating numbers from 
+25 under 10, 10 to 28 and above?  55 
+1 A I don't --look, I guess it's an art and not a science. I'm sure that number 
+2 fluctuated, but I just remember going back to mid-December that number was, you know, 
+3 trending under 10,000. 
+4 Q Then the next call that I wanted to talk about, but if you have no memory of 
+5 it, we won't talk about it, is the January 4th 5 p.m. call with DOD. If you weren't on it --
+6 A I don't ever remember being on that call, no. That's probably my son was 
+7 pitching. If you have phone records, I'd love to see it. 
+8 Q During these kind of numerous calls --January 5th, I think, is separate 
+9 because there were a number of arrests that evening. But before, on these number of 
+10 calls that you had either internally or with senior leadership, was there a conversation of 
+11 the expectation of violence or potential for violence? 
+12 A Potential, absolutely. And, look, my call --my team calls were kind of what 
+13 I talked about in my first about 15 minutes of my testimony, that I wanted to make sure 
+14 we had the resources at the JOC, at MPD, do we have the resources at WFO, do we have 
+15 the resources in my office to --if we had a surge with arrests and warrants, if we can 
+16 meet the needs. So duty roster, everyone good to go. Those were my main concerns 
+17 as the U.S. Attorney with those pre-calls right up to January 6th. 
+18 Q And I mentioned it briefly before, but there is this kind of --different views 
+19 as to who was kind of taking the coordination lead --
+20 
+21 A 
+Q Yeah. 
+--on the 6th. 
+22 Did you have any conversations, whether it's with folks at the Bureau or with 
+23 senior leadership at DOJ, about what role WFO D.C. U.S. Attorney's Office would take for 
+24 the 6th? 
+25 A Look, the role, I mean, we don't move and the Bureau doesn't move assets.  56 
+1 So, I mean, that's a tough --and the U.S. Attorney's Office, we don't move assets. You 
+2 know, so --you know, we're a partner, but we can't move boots on the ground, and WFO 
+3 sure can't do that either other than their own boots. So the main concern was making 
+4 sure everyone was in communication. Hey, Steve, did you talk to Contee? Did you, 
+5 you know --is Bowser good, those types of general discussions. 
+6 Q But was there ever discussion, like, WFO D.C. U.S. Attorney's Office is gonna 
+7 handle any prosecutions with street arrests that occurred that day, I mean explicit 
+8 conversations? 
+9 A I don't think so because that was, like, given. He knew what our roles 
+10 were, and he just wanted to make sure we're good to go. 
+11 
+12 
+13 
+14 
+15 Q 
+A 
+Q 
+A 
+Q He, meaning Mr. Rosen -­
+Steve --Mr. D'Antuono, yes. 
+Got it. 
+Yes. 
+There's a couple other emails from the 8th. Just, the exhibit 8 we just 
+16 spoke about, again, is an email from-to yourself, John Moran and Mr. 
+17 Donoghue. It says: For your background and awareness, the attached document is 
+18 good overview of the U.S. Government posture going into January 6th. 
+19 And it goes through, you know, all the Federal partners; DHS, l&A. 
+20 I want to go to the last page here. This is, again, January 4th. It says: DOJ, 
+21 FBI. There are no current plans to activate the national SIOC. 
+22 
+23 A 
+Q Okay. 
+Did you have any understanding of --let me start with, did you think there 
+24 was a need for a SIOC to be set up? 
+25 A So let me tell you, there's some confusion. So, look, at a tactical level, I'll  57 
+1 consider the U.S. Attorney's Office WFO tactical. So as a tactical level, our offices are 
+2 next to each other. We deal with, obviously, prosecutions of Federal cases in the 
+3 District. 
+4 The WFO has their own watch floor. I think there's some confusion that we had 
+5 over the summer and spring, that we had on January 6th that I personally manned like 
+6 24/7. We had that up. Then Hoover building would have their own watch floor, okay, 
+7 the SIOC, manned by NSD,_ and their personnel. This is more of a strategic. 
+8 They're at Hoover. They're with the director. You know, that's an AG director level 
+9 like watch floor. They're monitoring, not only the District, but the ripple effects outside 
+10 of the District. That was never staffed by me. That was never staffed by my AUSAs. 
+11 That was staffed by NSD personnel and ODAG personnel. 
+12 So my main focus was obviously my partner, WFO, and manning our WFO watch 
+13 floor. The SIOC, I really didn't have a lot of visibility into. I may have walked onto the 
+14 SIOC watch floor all of 2020 through January 6th maybe twice; where at WFO watch floor, 
+15 I was there living there literally. So that's why you see a lot of these emails just for 
+16 clarification purposes with- you see him tied to those SIOC emails because NSD 
+17 personnel, CT personnel manned the SIOC flow, we did not. And that was at Hoover, 
+18 which, look, when you're in the trenches, you see Hoover as like, that's a big brother 
+19 that's well removed. Like, we've got to deal with our own situation here at WFO and 
+20 U.S. Attorney's Office. You know, the strategic level views at SIOC and, you know, the 
+21 director levels. 
+22 
+23 
+24 Q 
+A 
+Q I appreciate that. I think Mr. Bowdich referred to it as a the mother ship. 
+See, that's very well said by Mr. Bowdich. That's why I stayed away from it. 
+But just so I'm clear in terms of the SIOC, I understand that you did --you 
+25 said your focus would have been at WFO command post?  58 
+Yes. Yes. 
+For the summer, do you remember a SIOC being set up? 1 
+2 
+3 A 
+Q 
+A Oh, absolutely. And Mr. --yes. NSD personnel manned that watch floor, 
+4 yes. 
+5 
+6 
+7 
+8 
+9 
+10 
+11 Q 
+A 
+Q 
+Q For the prior two rallies, was a SIOC set up? 
+I don't remember. I'm sorry. I don't remember. 
+Exhibit --
+On the SIOC point. 
+Yeah. 
+BY 
+Mr. Sherwin, process question, when --does the SIOC at the Hoover building 
+12 getting all their information through the WFO watch floor or do they have separate inputs 
+13 that are coming into them? 
+14 A That's a good question. Their personnel would have direct conduits to like 
+15 DHS, National Guard, DOD. 
+16 
+17 Q I see. 
+A That's why I'm opining they would have had a direct pipeline into DOD 
+18 because --I'm just guessing here, but I'm sure if you pulled emails and other things, 
+19 there's more of a high-level interface at that higher level where --would-call me 
+20 or say, Mike, can you give me an update? And I think there's even examples where I'm 
+21 saying, yeah, in the District, I had eight arrests last night,_ and then three of them 
+22 were weapons, and one dude was arrested for a protester on protester. This is just an 
+23 example. 
+24 
+25 Q Sure. 
+A S~or NSD would want that to feed into their SIOC report, but that's  59 
+1 just a little piece, and then they would do a broad strategic overstroke of everything else. 
+2 So I would feed information to the SIOC that would be in their --there would be a nugget 
+3 in their report what me and --what my office and WFO was doing, if that answers your 
+4 question. 
+5 
+6 SIOC? 
+7 
+8 
+9 Q 
+A 
+Q 
+A So you're one stream of information that's D.C. specific that goes to the 
+Yes, sir. 
+But they have other inputs? 
+That's correct. And that's what happened in 2020 and I believe happened 
+10 January 6th, but I don't know because I don't think I ever went on the SIOC floor on 
+11 January 6th. I don't recall. 
+12 Q Okay. Then are you in the WFO watch floor getting other stuff from them? 
+13 In other words, is it a two-way flow of information or are you just reporting up? 
+14 A I don't know. I'm sure we got intel or assessments. I don't even know 
+15 if --frankly, it was like a fire hose, if we even read it, because, look, we're --I was mainly 
+16 concerned with what the heck was going on in the District, and so was Mr. D'Antuono. 
+17 Not being flippant, but I really at the time could care less if there was something going on 
+18 in Cleveland, Ohio, and there was like --I mean, we were just so focused on our district at 
+19 the time, so --
+20 
+21 
+22 
+23 
+24 
+25 Q Totally understood. 
+So how does the JOC play into this? 
+Mr. Sherwin. Okay. Another good question. So the JOC --
+We need a glossary for all these. 
+BY 
+Q And the NOC too.  60 
+A But there's a lot of confusion, so those are good questions. 1 
+2 The JOC is separate from what the Mayor set up. She set up another watch floor 
+3 that we didn't participate in. So, again, my main players are WFO. We have their 
+4 watch floor, and then we have the JOC, which is the MPD, it's their joint operations 
+5 center, where we get the calls, the tactical. I'm sending the unit to Third Street, there's 
+6 a shooting. I would always have the AUSAs there. I personally wanted them there and 
+7 would visit because I wanted them getting real --showing our MPD partners that we're in 
+8 it with you. So if you need help with warrants or just advice, I have AUSAs right there. 
+9 So as part of our coordination calls, like I talked about the 8 a.m. and 8 p.m., I 
+10 would make sure, okay, who's manning the JOC, do we have coverage there, who's going 
+11 to man --I'm at WFO. Okay. It' Okay, good. Who's going to 
+12 relieve her? So that's more tactical level MPD to JOC. Where, frankly, the SIOC could 
+13 care less about what was going on there. Me at the tactical level, I wanted to make sure 
+14 I knew that we had an AUSA there. 
+15 Q What about the NOC? 
+16 A NOC I think is something --it's D.C., so all these agencies have watch floors. 
+17 So that's probably a DHS watch floor, I would assume. And NSD or-would have 
+18 been in communication with them because, again, that's the big head shed, strategic 
+19 level, you know, interface. 
+20 Q So as-mentioned, we're --part of our mandate is to come up with 
+21 recommendations, and this has been a confusing point for me with some of these 
+22 interviews in terms of the coordination amongst all these different coordination points. 
+23 And I just want to draw your attention to exhibit 13, where it looks like-
+24 sends you an email where it's referencing exactly what you just said for a situational 
+25 awareness. The Mayor is saying the city has set up an emergency op center -- 1 
+2 
+3 A 
+Q This is an example of the confusion. 
+--is that the JOC? 
+So the question to you is: What was the emergency operation center set up by 
+4 the Mayor, is that different from the JOC, and how did this all play out on the 6th? 
+5 A Look, it's a classic government bureaucracy, redundant and confusion and 
+6 inefficiencies. 61 
+7 The Mayor set up her own watch floor. Like, they didn't consult us, and, frankly, 
+8 I needed to make sure we had someone at the MPD watch floor, the JOC. I don't 
+9 know --you have some watch floors that are just set up that are worthless, just setting up 
+10 watch floors because other people are setting up watch floors. Like, what is the 
+11 purpose of your watch floor and who are you sharing information with? And I think that 
+12 has to be looked at, because I think agencies set up watch floors just so they can look 
+13 important and they're not producing anything, and they just make it a lot more confusing. 
+14 So the most critical watch floors, from my perspective, are the WFO watch floor, 
+15 which was the nerve center in the summer and on the 6th, where all the local partners 
+16 where I have MPD officers sitting right next to an ATF officer, sitting next to Secret 
+17 Service. So MPD could say we're getting overrun at Third Street. I just got a call from 
+18 the JOC, we're getting overrun, and the ATF dude would say, okay, well, I could give you 
+19 20 assets. That's where all the chaos was managed at the tactical level, where the other 
+20 watch floors were kind of --I'm not trying to be rude, but they're drinking coffee and 
+21 putting out reports for reporting purposes. 
+22 And that was more like what SIOC was doing, like putting out reports, feeding the 
+23 beast with data. Where WFO watch floor and the JOC was not feeding the beast with 
+24 data but operational action at a minute's notice, if that makes sense. 
+25 Q Which is why you draw the distinction between the tactical versus the  62 
+1 strategic? 
+2 A Yeah. That's why I spent all my time at WFO and not --I didn't care about 
+3 data and reports. I wanted to be with the Bureau guys making sure that they had 
+4 coverage for exactly what was happening. That's why I spent 98 percent of my time 
+5 right at the WFO watch floor with the ADIC. 
+6 Q How do these other kind of redundant watch floors impact a moment of 
+7 crisis as we saw on the 6th? 
+8 A Well, I think they could just clog up the pipeline with false intel, with bad 
+9 reporting, with redundant reporting. I mean, that's something I would look at that you 
+10 have all these watch floors that are kind of --some are independent actors that could put 
+11 out bad intel and spool up or just redundant intel that could spool up rumors or just not 
+12 help the situation. 
+13 BY 
+14 Q Help me understand the difference between the WFO watch floor and the 
+15 MPD JOC. 
+A Sure. 16 
+17 
+18 Q What's different about them? They both sound quite tactical. 
+A Yeah. That's a good question. So the WFO watch floor would be more 
+19 interagency, where they have an MPD officer there. They're officers, but also I have ATF 
+20 there. There's a National Guard rep there. There's --Bureau intel officers are there. 
+21 So everyone's fusing information real time. 
+22 Where the MPD JOC is only MPD. There's not FBI dudes there. It's only their 
+23 tactical where they're dealing with their street patrol guys, foot patrol. So that's why I 
+24 always wanted --they're our most important partner at U.S. Attorney Office. That's why 
+25 I wanted to always have AUSAs in that office, catering and feeding, giving them what they  63 
+1 needed. But that would be under the WFO watch floor. That's even more tactical, just 
+2 MPD-driven action. 
+3 Q Right. And same question as I asked you about Hoover versus WFO. Is 
+4 the MPD JOC one sort of pipeline of information to WFO among others? 
+5 A So no. The JOC doesn't give me a report and then they report to WFO. 
+6 They do their own thing. 
+7 
+8 Q Okay. 
+A My people would talk --1 would talk to 
+9 would be telling me what's going on, wit~ 
+Because you have an AUSA there? at the JOC. She 
+10 
+11 Q 
+A Exactly, at least one on duty. That's why those calls, those 72, 96 hours 
+12 before, I wanted to make sure we had people on duty to always plug the hole. They 
+13 would feed me information at WFO or-and he'd say, Mike, you know, on Third 
+14 Street, these dudes just got overrun, can you let D'Antuono know. And I would be right 
+15 next to D'Antuono, and then he could at the WFO watch floor call Tim Shea at DEA and 
+16 say, can you get 10 of my dudes at that intersection. 
+17 So that's where --that would be the fusion of all the tactical assets at WFO, if that 
+18 makes sense. Now, did the JOC report up to the SIOC? Absolutely not. We would 
+19 feed data to the JOC. 
+20 
+21 
+22 
+23 right? 
+24 Q That's helpful. 
+A I could sketch it out for you. 
+Q Well, when you have 17 command centers, you have no command center, 
+A Exactly. It's classic, like, fog of war, like, just from my prior career. I hate 
+25 feeding the beast with data, and I think there's classic examples of watch floors being  1 used throughout the summer, on January 6th, that were redundant, put out false 
+2 information that slowed down responsiveness. That's my professional opinion. 
+3 
+4 
+5 Q 
+A BY 
+There was also a Capitol Police command post that was set up. 
+I'm sure, but I --yes, we had no one manned there. We never did, and I 
+6 don't even know what intel they fed. I don't know who they fed intel to. 
+7 
+8 Q 
+A Just before we move off the SIOC questions --
+Oh, by the way --I'm sorry --I believe, though, Capitol Police had a 
+9 representative at WFO though. 
+10 
+11 
+12 
+13 Q 
+A 
+Q 
+A I --
+Yes, yes. 
+I think so. 
+Yes. 
+I'm sorry. But that one seems like, in your view, is the one most 
+15 relevant or where most of the real decisions are made. 
+16 
+17 Mr. Sherwin. The WFO watch floor, yes. Absolutely. 
+- In your experience, among all these other individual agencies or 
+18 the strategic level, the real action in importance is at WFO? 
+19 
+20 
+21 Mr. Sherwin. Yes, sir. Yes. 
+BY 
+Q Is it fair to say that whatever other agency is imbedded into the WFO 
+22 command post, is it personality driven how impactful that Capitol Police person is? 
+23 A Oh, absolutely. Look, it's human nature. Some people are parochial, 
+24 some aren't. Some people don't like to play together. D'Antuon --I had a very good 
+25 relationship with Steve D'Antuono. I think if you spoke to other partners, ATF, DEA, 64  65 
+1 even MPD, they would say it was an extremely open and candid relationship. 
+2 I can't speak to Capitol Police. I, frankly, didn't have a relationship with them. 
+3 don't know what Mr. D'Antuono's relationship was with them or Mr. Contee's, but I can 
+4 only speak on behalf of MPD and Bureau, that I know they have an extremely strong 
+5 relationship, but I don't --I can't speak on behalf of Capitol Police. I think it was more 
+6 parochial. That's my understanding, where, we're good to go, thank you, and we've got 
+7 this, kind of that approach. 
+8 Q And the purpose of those imbedded folks is to pass --is mutual sharing of 
+9 information? 
+10 A Yes. I mean, look, a lesson to be learned is a more robust Capitol Police or 
+11 vis-a-vis they should have been more robust plussed up at WFO and/or their watch floor 
+12 should have been plussed up with partners. They should've --I don't --I don't know. It 
+13 doesn't matter now; I'm not a government employee anymore. I would love to know 
+14 who was invited to participate on their watch floor, if any. Were there any outside 
+15 participants on the Capitol Police watch floor? I don't know. Or was it just watch 
+16 floor one, was it only them? 
+17 Q I won't answer that question, but I will ask you, how do you institutionalize it 
+18 so it's not just personality based upon who's in the position at the time? 
+19 A Doing like what I did with these conference calls, like, several days out 
+20 making sure everyone gets together on this, just driving cooperation. I mean, you have 
+21 to force it. I think it's human nature to block things off and be parochial. You have to 
+22 just drive it. 
+23 
+24 
+25 Q 
+A 
+Q Just one question about exhibit 14. 
+Sure. 
+This is, again, a SIOC question. It looks like this is from probably-- it's  1 from-
+2 
+3 A 
+Q Yes. 
+"Good evening. The AG, DAG, and DD have decided to launch SIOC and a 
+4 WFO CP at 4 p.m. tomorrow." 66 
+5 So this is January 4th saying it's going to be launched January 5th at 5 p.m. Was 
+6 that accurate? 
+7 A Look, I don't want to criticize- He's an excellent AUS, he's a great 
+8 government employee. But he could not --I was in direct communication with Steve for 
+9 days before this. We were going to --I was going to be on the watch floor anyway. So 
+10 there was --I didn't get direction from above. I already had --we already had our vision 
+11 when we were going to plus up the watch floor. So I think he just lumped these 
+12 together. 
+13 I had no visibility into the SIOC, but I don't get instruction from-like 
+14 whether they're going to stand up the WFO watch floor and whether I need to go there. 
+15 This is --Mr. D'Antuono and I would make this, you know, decision. So I think it was just 
+16 lumped together. 
+17 Q So just to close the loop on that, when he says how do you want to handle 
+18 WFO, you had plans well in advance? 
+19 
+20 A 
+Q 
+21 up the SIOC? 
+22 A Oh, absolutely. Yes, yes. 
+Did you, did he, or anyone explain to you what triggered the decision to set 
+No. No. I don't even think I --not trying to be flippant, I don't even think 
+23 I really cared at that strategic level. I was just --I just cared about WFO and making sure 
+24 we could staff with the MPD JOC. I really wasn't concerned with the SIOC at this 
+25 strategic big picture level.  67 
+1 
+2 
+3 
+4 
+5 Q 
+A 
+Q 
+A 
+Q And just so you're aware, the SIOC was set up --this is the next exhibit, 14 -­
+Okay, 14. 
+--on the day before January 5th at 16:00 at the direction of Mr. Bowdich. 
+That makes sense because it's a Bureau --it's a Hoover Building watch floor. 
+Did you have any sense of whether that timing of the day --setting up the 
+6 SIOC the day before, did that impact you at all or you're more focused on --
+7 A No, I don't think that impacted us, no, on the SIOC. No. 
+8 Q I asked you briefly at the very beginning about the guardians that were being 
+9 requested. Were you aware or did you have any discussions with Mr. D'Antuono or 
+10 anyone about who was assessing these guardians and synthesizing them, reviewing them 
+11 in aggregate? 
+12 A Look, WFO has an intel section. I don't recall having a specific conversation 
+13 about guardians, but I would often --I mean, my --I kind of parked myself right next to all 
+14 the intel people where I sat at WFO just because I like consuming intel in my former 
+15 career, but I don't remember a specific conversation about guardians with Mr. 
+16 D'Antuono. No. 
+17 Q Okay. We learned from a briefing with the Bureau that was set up, that, 
+18 essentially, the guardians that were collected were not viewed in aggregate until the SIOC 
+19 was set up January 5th. 
+20 
+21 
+22 A 
+Q 
+A Okay. 
+Do you have any independent memory of that or --
+1 don't. I don't. But it may make sense, if guardians are fused from all 
+23 districts, then that would be a strategic SIOC-level fusion. So, theoretically, it makes 
+24 sense, but I don't recall any conversations about that. 
+25 Q Would it be surprising to you that it wasn't viewed or synthesized in  68 
+1 aggregate until the day before the event? 
+2 A I mean, you would think that all of that was being fused, yeah, before 
+3 24 hours --more than 24 hours before the event, yes. I mean, if you are --if you could, 
+4 again, go back in time, of course. 
+5 Q And we learn, as I mentioned, we spoke to Mr. Bowdich, that it was his --he 
+6 stated that the WFO folks would be responsible for reviewing the guardians related to 
+7 January 6th. 
+8 
+9 A 
+Q Okay. 
+So I'm trying to understand, if it's viewed in aggregate in January 5th at the 
+10 SIOC, what, if anything, was occurring at WFO command post in terms of these 
+11 guardians? 
+12 A Look, I never had a direct --I never had a conversation, I remember, with 
+13 Steve about the guardians or his intel staff, so I can't opine on that. But, look, if 
+14 guardians --if the guardians are open on local targets, then yeah, it makes sense for WFO 
+15 to assess those. They should've been --if they were open, it's open in real time. It 
+16 should be assessed in real time. So if it's open on December 14th, it should be assessed. 
+17 You don't want them in the queue just stacking up and then assessing them right before 
+18 an event. 
+19 But, again, now I'm just opining, you know, what I think theoretically should 
+20 happen. But I don't know directly what happened related to guardians, WFO or SIOC. 
+21 
+22 Q BY 
+Well, it sounds like the system's set up to be very focused on geography. 
+23 And this is an event where geography stretches across the country. You've got people 
+24 coming from all over. So the action that's contemplated is in Washington, but the 
+25 person and the source of the guardian might be in Albuquerque.  69 
+1 A You raised a great point. You could oversaturate and overload WFO, 
+2 because you have people traveling from Pensacola, Florida, and, you know, Sioux City, 
+3 Iowa, shouldn't that field office assess the guardian in real time and then push critical red 
+4 flag guardians to WFO once they get in their district? You can't shove it all off on WFO 
+5 or else they'll overload and nothing will happen. 
+6 Q That is precisely the right question as to who's best positioned to vet that 
+7 information. 
+8 A Yes. 
+9 Q Does it all get shifted to WFO because that's the location of the event, or 
+10 should it be done out in the field? Sounds like your view is that --
+11 A Where the target resides. My dispositive question would be where the 
+12 guardian is open. If that target resides in Sioux City, Iowa, then Sioux City field office 
+13 should open it. And then if he's traveling into the District, that information should be 
+14 passed to WFO. 
+15 Q Is that because the people in the office where the guardian is opened are 
+16 best positioned to --
+17 
+18 A 
+Q Absolutely. 
+--greatest frame of reference about that guy? 
+19 A Oh, yeah. Because you got agents that know Sioux City. They know the 
+20 atmospherics. They know the groups. WFO is not going to know about specific gangs 
+21 on the east side of Cleveland or ET group in, you know, Canton, Ohio. 
+22 
+23 
+24 
+25 Q 
+A 
+Q 
+A So much of it's contextual in associations? 
+Yes, sir. 
+Okay. 
+Yes.  70 
+Q That makes sense. 
+BY 1 
+2 
+3 Q So just another --to add another point in the consideration of the guardians, 
+4 it was told during this briefing that, on December 27th, the guardian hash tag cert unrest 
+5 was pushed out to the 56 field offices. And it sounds like any threat or anything related 
+6 to the January 6th event was marked with this tag and then pushed up into the system. 
+7 Does that change your view because it was then related to one event rather than 
+8 where the target resides? 
+9 A I think it's the same problem. It just comes down to manpower and 
+10 oversaturation. You can't have WFO dealing with 1,100 guardians, not when they're 
+11 dealing with 500 arrests at the same time. So it's just not feasible. 
+12 Q Who other than WFO should have been responsible, in your view, just in 
+13 your experience of dealing with DOJ? 
+14 A The other field offices. If Miami's opening up a guardian on Proud Boys 
+15 from Fort Lauderdale, then they should run the guardian, and then pass that information 
+16 to WFO if that target then goes into the District. 
+17 Q And that would be accurate if it's in terms of kind of moving towards an 
+18 investigation. But just in terms of a collection of data points as a threat, how would --
+19 A I think, personally, that should be assessed by head --that shouldn't be 
+20 WFO. Now you're building a big mosaic of different actors across the United States 
+21 converging on one target point. So headquarters has to deal with that at a strategic 
+22 level. WFO is going to get overloaded. They don't have the manpower and resources 
+23 to do that. And if they're tasked with it, it's never going to get done. 
+24 Q In your experience, would the domestic terrorism operations section be 
+25 better positioned to kind of view that mosaic?  1 
+2 A 
+Q Oh, yeah. Definitely. Yeah. I mean, that's my personal opinion. 
+That was helpful. Thank you. 
+3 I think we're on January 5th. We can push through the 5th and maybe take a 
+4 break before the 6th? 
+5 
+6 
+7 5th? 
+8 
+9 
+10 
+11 
+12 
+13 A 
+Q 
+A Sure. Whatever you guys want. 
+Sounds like you came back from Michigan on the night of the 4th or on the 
+No, I was here on the 5th. I can't --
+- How'd the pitching go? 
+Mr. Sherwin. I think he won. 
+Good. 
+BY 
+Q So just talk us through January 5th. Obviously, there were a number of 71 
+14 arrests that day I don't want to get into the specifics of, but what was your kind of threat 
+15 picture for that particular day? 
+16 A Most of my emphasis --and, again, this is all off raw memory --I just 
+17 remember I was really focused on numbers and what are the metrics with like 
+18 what are --you can do data analytics with Airbnbs and hotels and ingress of travel. I just 
+19 remember speaking to Steve in like, what are the numbers, man, how are the numbers 
+20 looking. And obviously, then you saw a plus-up because people are coming into the 
+21 District. People are bringing --some individuals were arrested with weapons, so --and 
+22 I --I don't remember off memory how many arrests we had the day before. 
+23 But yeah. I mean, more people come into a confined area, you're going to have 
+24 friction, and then we had friction starting on the 5th. 
+25 Q We can look at exhibit 17 where it's a January 6th email talking about the  1 night before --
+2 
+3 A 
+Q Okay. 
+--to Mr. Donoghue and David Burns, with your update at 10:19. It says: 72 
+4 Gentlemen, we had eight total arrests last night, three of those involved illegal possession 
+5 of firearms, two involved assaults of police officers, and the remaining were simple 
+6 assault battery charges. 
+7 Ms. Loeb. So we think those emails speak for themselves. I don't know if 
+8 there's any further details --
+9 
+10 
+11 - Well, there's a question at the end of this. 
+BY 
+Q "We anticipate a spike in activity today/night, but all good at the moment. 
+12 All the best Mike." 
+13 These arrests going in, was there --I know there was an event of speakers on 
+14 January 5th. Was this something that you all had prepared for? We spent a lot of time 
+15 talking about January 6th preparations, but for the 5th itself. 
+16 A I think not saying a buffer was built in, but we wanted to make sure we're 
+17 prepared for the ingress of people. So it wasn't surprising that there were arrests on the 
+18 5th, if that answers your question. 
+19 Q And then it says --there's an additional question from Mr. Rosen about 
+20 insight into crowds and hotel bookings. And, again, the estimates as of the 6th were still 
+21 trending under 10,000. 
+22 A Yeah. Based upon I think what I just talked about, data analytics with 
+23 Airbnb and hotels, you know, you can make a rough assessment. And, yeah, like I think I 
+24 said, he was fixated on numbers, I just know, and I would get my numbers from speaking 
+25 to my partners, you know, at the Bureau. And I think the data analytics --yeah, push  73 
+1 updates throughout the day. So, yeah, this tracks to what my memory was at that time. 
+2 Absolutely. 
+3 Q Do you at WFO or the command post have any contact with the Secret 
+4 Service? 
+5 A Oh, absolutely. Yes. There was a Secret --the Secret Service is an 
+6 important representative at the WFO watch floor. So, oh, yeah. We're directly 
+7 communicating with them. 
+8 
+9 Q 
+A Were they pushing numbers in terms of the crowd expectation? 
+I don't remember what they pushed specifically. Most of the critical 
+10 information we would need generally from Secret Service is what is the --what is the 
+11 threat picture around the White House. That's their main concern, you know, with the 
+12 Bureau and Treasury, but --
+13 Q I'm just --and I ask because their estimates going into the 6th are vastly 
+14 different from what the Bureau had --
+15 
+16 
+17 about. 
+18 A 
+Q 
+A Okay. 
+--which goes back to that information sharing problem that we just talked 
+Yeah. I don't remember what their estimates were. I don't recall. But if 
+19 there's a dichotomy, I'm not surprised. 
+20 
+21 
+22 
+23 Q 
+A 
+Q 
+A It was closer from 20 to 45. 
+Okay. Okay. 
+Was that ever conveyed to you? 
+I don't recall, but I'm not saying I didn't get an email or a report about that. 
+24 But, again, my main partner was always the Bureau just because --look, we work closely 
+25 with the Secret Service, but their mandate's limited, right? The Bureau's mandate is  74 
+1 extremely wide. That's why they're our main partner. But, again, I don't recall a 
+2 specific email, but perhaps I did get an email report from them about that. 
+3 Q And apart from these arrests, did anything stand out to you in terms of 
+4 January 5th that made you --anyone, the Bureau or U.S. Attorney's Office, pivot or 
+5 change course or plus --what's the phrase? 
+Plus up. 
+--plus up for the 6th? 6 
+7 
+8 A 
+Q 
+A I mean, yeah. I mean, there --yeah, there were arrests on the 4th and 5th 
+9 that were trending towards what we thought, that there's --yeah, there could be a 
+10 confrontation. I don't think anyone envisioned the confrontation that --you know, the 
+11 breach. But definitely this was not going to be like a 4th of July weekend where, you 
+12 know, we had like 20 arrests. 
+13 Q Did it manifest in any different action taken by law enforcement, though, the 
+14 4th and the 5th? 
+15 A Look, again, I wasn't in direct communication with Capitol Police, but I don't 
+16 recall ever Steve telling me --I guess it's an absence of what I heard. I never recall MPD 
+17 partners or Steve D'Antuono or Ashan from the ATF, who I spoke to all the time, that CP is 
+18 requesting additional assets or MPD needs more resources. So no. 
+19 We talked before, Mr. Sherwin, about the preparation for a sort of 
+20 breach of a Federal asset event versus a protester on protester event. 
+21 Leading up to the event, did the assessment, in your view, of which of these we 
+22 were dealing with --we're dealing with both --but the relative assessment change as you 
+23 got closer? 
+24 Mr. Sherwin. I think --I, again, viewing the --remembering my view of the intel, 
+25 having never looked at anything other than last night looking at some of these emails, I  1 still think the primary objective was mitigating protester on protester violence, and the 
+2 secondary objective was protecting institutional protections. 
+3 
+4 
+5 - All the way up to the morning of the 6th? 
+Mr. Sherwin. That's my --yes. That's my belief still as I sit here this morning. 
+- Okay. 75 
+6 So the end of the 5th, though, did you feel WFO, U.S. Attorney's 
+7 Office were adequately prepared going into the 6th? 
+8 Mr. Sherwin. Yeah. I mean, my people were good. We were able to cater to 
+9 MPD and WFO. And, yeah, we were prepared as far as in terms of manpower and 
+10 resources. 
+11 Did you feel that you had an accurate threat picture going into 
+12 the day? 
+13 Mr. Sherwin. I mean, look, your data is only as good as what you're getting, and 
+14 we believe that --yeah, we believe that we were prepared for what was going to happen 
+15 on the 6th. I'm just being candid. Yes. 
+16 
+17 prefer. 
+18 
+19 
+20 
+21 
+22 
+23 
+24 - We can take a short break now or go through. Whatever you 
+Mr. Sherwin. What time is it now? 
+~ Noon. We're going to start with January 6th, the day of. 
+Mr. Sherwin. So let's take five. 
+Great. 
+[Recess.] 
+BY 
+Q Mr. Sherwin, I think we can start with January 6th, the day of, your way into 
+25 work, and when you got to the office and kind of your expectations through the day, and  76 
+1 the inflection points, we'll talk through. 
+Sure. 2 
+3 A 
+Q That morning, did you go straight to the U.S. Attorney's Office or did you go 
+4 to the command post at WFO? 
+5 A I think I went right to my office. I'm sure I spoke to Steve in the morning, 
+6 D'Antuono. Look, I knew it wasn't going to be a normal day, so that's why the day 
+7 before I planned with -to do role patrols with the MPD. I don't even recall when 
+8 I got in the office. I guess you could check my badging records. But at some point in 
+9 the morning,_ met me in front of our building. I know I got there before 
+10 because I was coordinating meeting him in front of the building, and then we got in our 
+11 patrol car and starting doing patrols. So I just don't recall the time in the morning that 
+12 was. 
+13 
+14 
+15 
+16 Q 
+A 
+Q 
+A And I think you said~as your crim chief? 
+No. -was in charge of superior court. 
+Okay. 
+And he's critical because superior court is the engine of the office, especially 
+17 with most arrests in the street, assaults, gun cases are all superior court. That's why I 
+18 wanted to be withllll And I don't think anyone else is at the office at that time. 
+19 think everyone else was at home. I think it was quiet when I got in the office, butllll 
+20 ■met me in front of the building. And then we went out on patrols. 
+21 
+22 
+23 Q 
+A 
+Q With MPD or with the Bureau? 
+Correct. Correct. MPD, not the Bureau. I wanted to be with the police. 
+Do you remember what time that you started that the morning? 
+24 A I don't. Sorry. That's why --I can't --again, I wish I --I don't have my 
+25 work phone or anything. It'll be in the work phone my calls with-.  77 
+1 Q I know you mentioned that you went to Black Lives Matter Plaza. Was that 
+2 part of your morning patroling? 
+3 A Oh, yeah. For sure. That's one of the first locations we went to, because 
+4 we were like, let's check it out. That's where the inflection points, the main inflection 
+5 point's going to be. I personally just remember being surprised. I was like, wow, this is 
+6 eerily quiet. This is odd. Where is the --where's the protester-counterprotester 
+7 violence? Are they just going to slowly roll up? But that still sticks out in my mind how 
+8 like BLM Plaza was empty. 
+9 
+10 Q 
+A When did you start noticing the crowds and where? 
+That morning especially. I mean, first we were doing role patrols, and then 
+11 we got out of the car, the MPD police cruiser, and were walking through the crowds with 
+12 MPD, me and-. 
+13 Q Would that be at the Ellipse? 
+14 A Even before the Ellipse. When we were near the African American 
+15 Museum, I think we parked near there and then started walking around and then up 
+16 towards the Ellipse. And you could see the crowds geometrically increasing. Like, the 
+17 numbers were low. The numbers were like 5,000 to under 10,000. But then as the 
+18 late morning built up --I think maybe one of the gaps in intelligence was we were 
+19 monitoring just from an overall picture like air flights and Greyhound bus and hotels, but 
+20 maybe there was an underestimation of numbers because a lot of people poured in that 
+21 morning. I think that --that may have thrown a curveball. And I remember just --you 
+22 know, just the cars and the buses and the caravans. Like, that morning, you could see 
+23 the crowd plussing up very quickly throughout the morning. 
+24 Q Was there anything that stood out to you about the crowd itself that you 
+25 were seeing?  78 
+1 A No. Actually, it was kind of interesting, because there's a dichotomy from 
+2 what you saw in the morning and early afternoon to what happened later. Like, it was 
+3 almost --I mean, I described it to you before, like a carnival atmosphere. It was kind of 
+4 surreal. There was like people selling T-shirts and popcorn. Like, literally, I think I saw 
+5 a cotton candy vendor. It was ridiculous. And a lot of like hooting and hollering, but 
+6 no --there was no violence per se. There was no like --there were no assaults. I didn't 
+7 see anyone throwing stuff at cops. 
+8 Actually, if anything, even the police officers I was with, like, some --some --I 
+9 won't say protesters --some of the people there were like high-fiving the police. They 
+10 weren't throwing things at us or throwing things at the police. 
+11 So the morning was --would be characterized as a plus-up in numbers very 
+12 quickly. Very boisterous crowd, but not violent, and friendly --believe it or not, friendly 
+13 to the police, actually. That's what I personally observed. I mean, I was with MPD 
+14 officers that were like getting high-fived with like people in the crowd. 
+15 Obviously, things changed, but that was the dichotomy of what happened that 
+16 day. 
+17 
+18 Q 
+A How long were you out there for? 
+Hours. I mean, I don't remember the time. Again, I wish I had my work 
+19 phone. I'm sure the data's on there somewhere, but --
+20 Q When did you start to notice a shift in kind of the mood of the crowd? 
+21 A So we were in the crowd. We were doing patrols. There were a 
+22 couple --a couple things got --stroked my attention. That's why I'm glad we were in the 
+23 crowd. I remember some of the police officers called me over to a couple people 
+24 because they were confiscating uppers, rifle uppers, and that's when I got a little, like, this 
+25 isn't good. I was like, these guys are f'ing idiots because they're walking around with an  79 
+1 upper, which is not a rifle. An upper is just a barrel and a bolt. It's not a lower 
+2 receiver. If you just have an upper on a sling, it looks like a rifle, but --and it looks --you 
+3 look menacing, but it's not. 
+4 So the cops are like, Mike, can we arrest them for having possession of a firearm? 
+5 I was like, no, because it doesn't meet the definition. But confiscate the thing, like a 
+6 brass knuckle and, like, take it from them because, I was like, these guys are going to, like, 
+7 get --they're going to get shot or they're going to create chaos, because it looked like 
+8 they were walking around with automatic weapons, and it was like an AR15 upper. So I 
+9 was like, take it from these guys, just confiscate them. 
+10 And that was the first thing that got my attention, that some of these fools were 
+11 walking around. And, I mean, if I'm a cop, you know, that would be really dangerous. 
+12 And there were a lot of spurious intelligence reports about people in trees and in 
+13 buildings with rifles. They were all discounted. They never came to fruition, but there 
+14 were a lot of --I remember reports --even right where I was, there was like a report of a 
+15 dude in a tree, right near the tree where I was with MPD, and it wasn't. It was just like a 
+16 branch. But, in general, again, there was not violence towards authority or the police at 
+17 that point. 
+18 The speeches take place. Even before the speeches were done, the patrols 
+19 happen. And I told --I forgot what deputy police chief I was with. And it'll come to 
+20 me, but right now I can't remember his name. He's like, Mike, do you want to get back 
+21 in the car? I was like, no. Because I started walking towards, if you're familiar with the 
+22 Capitol and the U.S. Attorney's Office, towards --if you go towards the Capitol, which is 
+23 east --east to the northeast is the U.S. Attorney's Office. So I start walking back towards 
+24 the U.S. Attorney's Office, and that's when I personally saw, like, the crowds getting more 
+25 rowdy. And that's when I start seeing people climb up on the scaffolding that was set  80 
+1 up for the inauguration. Then I knew, it was like, this isn't going to --nothing goad's 
+2 going to come from here. Because all those dudes need to be arrested for trespass, 
+3 because you know you can't climb up the scaffolding because the ropes were there. 
+4 And at that point, I wasn't thinking of, like, breach of the Capitol. I was like, 
+5 these guys are going to kill each other because the thing's going to fall and kill a hundred 
+6 people. But then you could see the crowds getting more boisterous, and then I went 
+7 right to the U.S. Attorney's Office. And, frankly, I don't recall who I spoke to first. 
+8 Maybe it was- maybe it was Steve D'Antuono. Again, it's going to be on my 
+9 work phone records. But it was like total chaos after that. 
+10 I remember my first assistant told me about somebody being shot in the Capitol. 
+11 That was the, you know, the Ashli Babbitt shooting. And it was just complete fog of war 
+12 right when I got back to the office.  1 
+2 [12:16 p.m.] 
+3 BY 
+4 
+5 
+6 Q So let's just go from before you went back to the office --
+A Sure. 
+Q --at the time you see this --the folks up on the scaffolding. Had the 
+7 speeches begun at that point? 81 
+8 A Yeah. The speeches already started, but they didn't --I didn't stick around 
+9 for speeches. Like, we started leaving, because the --the patrol --I was with the deputy 
+10 police chief, who is like: Let's get out of here. So not get out of here because it was 
+11 getting violent. Just like, okay, we're not going to sit and listen to speeches. Let's just 
+12 patrol more. 
+13 And I think after that is when --when I started walking back is when the deputy 
+14 police chief said: Hey, Mike, come over here. These guys were just detained with two 
+15 uppers. Can we charge them with having an assault rifle? 
+16 And --so I was with them for, I think, 10 or 15 minutes, because I took pictures. 
+17 We sent it to the ATF, and I was like: No, we can't charge them. Just confiscate the 
+18 uppers. 
+19 And then I walked towards --east towards my office. And that's when I saw, like, 
+20 people climbing the scaffolding. The scaffolding is big. You could see people climbing 
+21 it and putting, like, flags on it, you know: F antifa or F the President. 
+22 
+23 
+24 And I was like: This is going to go bad fast. And that's when I, like, went right 
+to my office and then, you know, spoke to D'Antuono, you know. 
+Q Do you remember if you were in the area when President Trump's speech 
+25 began?  82 
+1 A Oh, yeah. We were on the Ellipse. I've even --look, I remember hearing 
+2 in the background speakers, and I'm also positive we heard his voice. But, you know, 
+3 I --I don't remember exactly the content of what was said. 
+4 Q Do you remember if there --it sounds like, in the morning time, where you 
+5 described this kind of carnival atmosphere --
+6 
+7 
+8 A 
+Q 
+A Yeah. 
+--is that before the speeches began? 
+Yeah. I think that was before, where all the --I just remember all the --it 
+9 was, like, weird because we saw the vendors, like --it was like you take your kids there, 
+10 you know, to get a T-shirt and popcorn. Literally, there were, like, popcorn vendors. 
+11 Q --and it would have been the outer end if it's right at the American 
+12 Museum? 
+13 A Exactly. That's where a lot of those tables were set up with T-shirts and 
+14 food, exactly, yep. 
+15 Q So, just to give some of the time line here of the rally, the speeches began 
+16 around 11. President Trump's speech began around noon. So, using that as a 
+17 guideline, do you think you got out to that area --again, the outer area by the 
+18 museum --before 11 if you were there for a few hours? 
+19 
+20 
+21 
+22 
+23 A 
+Q 
+A 
+Q Probably, yeah, I believe so. 
+Okay. 
+I believe so. Again, I don't have a tick-tock of my events, but yes. 
+BY 
+Did it seem to you, Mr. Sherwin, that there were people that were 
+24 purposefully staying out of the area by the Ellipse through which you had to go through a 
+25 magnetometer -- 83 
+A Oh, yeah, yeah. 
+Q --who were paying attention to the speeches, but --
+A Oh, yeah. 
+Q But purposefully outside of the metal detectors? 1 
+2 
+3 
+4 
+5 A Oh, yeah. I was talking to- and even I was looking at some --look, 
+6 there is different --we knew from intel that different groups would have different 
+7 markers and, like, specific groups were --and this is open source. This isn't --this isn't 
+8 classified. It's been reported. Like the Proud Boys, their cars --
+9 
+10 
+11 
+12 
+13 
+14 Ms. Loeb. So we would object to discussion of specific groups. 
+Mr. Sherwin. Got it. All right. I'll honor DOJ's request. 
+BY 
+Q Okay. I guess the question is sort of relative crowd size --
+A Yes. 
+Q It may be hard for you to tell from your vantage point, but more people 
+15 outside of the permitted event or the event through which you had to go through security 
+16 to get to --
+17 
+18 
+19 A There was just a lot of people. 
+Q Yeah. 
+A But there were definitely some people outside that looked like they were 
+20 teched up that --
+21 Q Yeah. 
+22 
+23 
+24 
+25 A --aren't going to go to a carnival. I'll put it that way. 
+Q Okay. When you say "teched up," you mean wearing --
+A Yeah. Like I'm back in --
+Q Yeah.  84 
+1 A --Kabul or Baghdad, like, you know, I've got my Kevlar vest, and I've got my 
+2 gear. You know, you don't need that in D.C. I need that when I'm in Kabul. And 
+3 there were dudes wearing that stuff. And I --
+4 
+5 
+6 
+7 Q Yeah. 
+A --homed in them immediately. 
+Q Uh-huh. 
+A Like those aren't dudes --you know, those are guys I would want to keep an 
+8 eye out on. 
+9 Q Right. And those guys, the ones that were teched up, they were outside of 
+10 the --
+11 A That I recall, yes. I'm not saying that there --some weren't inside. 
+12 Q Sure. 
+13 A I just remember them being on the outer perimeters, yes. 
+14 Q All right. And did the crowd stretch to the Washington Monument, or even 
+15 beyond, or --
+16 
+17 
+18 A I think the stragglers --again, I --
+Q Yeah. 
+A --wasn't in a helicopter. It was just I was right in the crowd, so it was hard 
+19 to get a perspective. 
+20 
+21 
+22 
+23 Q 
+A 
+Q I see. 
+It was broad, though. It was very broad. 
+BY 
+It's been described kind of that there was the mags, and there was a crowd 
+24 that went through the mags, but there was kind of like a choke hold of folks that stayed 
+25 out of the mags. Is that kind of accurate as to what you saw?  1 A In general, yes. Yeah, exactly, but --from my perspective, that seems to 
+2 comport, yes. 
+3 
+4 Q 
+A Did you notice any flags or any insignia? 
+Oh, yeah. Oh, all kinds. Yeah. Of all the usual suspects we were 
+5 tracking, 100 percent. 
+6 
+7 Q 
+A What do you mean by the usual suspects? 
+I mean, the groups that we anticipated being there were there from, you 
+8 know, flags with Q to Proud Boys to Three Percenters and Oath Keepers. And you saw 
+9 badges on the tech gear, on the Kevlar, Three Percenter --I saw personally Three 
+10 Percenter patches to Oath Keeper patches on the Kevlar, so --
+And were those predominantly from the folks outside of the mags, or --85 
+11 
+12 Q 
+A 1 believe so, but I --again, I wasn't really focused on that. I was just focused 
+13 on the targets or the individuals, not the --not where they were in terms of a 
+14 magnetometer or --
+15 Q When --if you're outside now, during Mr. Trump's speech --and, again, just 
+16 timelinewise, he starts around noon, and then he goes until after 1 o'clock. 
+17 Do you remember if you made your way back to the U.S. Attorney's Office during 
+18 that time, or after his speech? 
+19 A I believe it's definitely that window, because we did not stay for the 
+20 speeches. And that's when I started walking back with the police, and I got pulled into 
+21 that street corner by those two uppers as I was walking back to the U.S. Attorney's Office. 
+22 I remember there was still like --there was still people speaking, so it probably 
+23 must have been in that noon to 1 window if I had a guess. 
+24 Q And then did you see --I'm getting a little confused about your logistics here. 
+25 So did you see -- 86 
+A Sure. 
+Q Were you walking towards the Capitol or --
+A Oh, yeah. 
+Q Okay. 1 
+2 
+3 
+4 
+5 A Yeah. No, I'm walking towards the Capitol near the U.S. Attorney's Office. 
+6 That's in the north, like, east --
+7 
+8 
+9 
+10 Q Was it --were there people walking towards the Capitol --
+A Oh, yeah. 
+Q --during that time? 
+A Yeah. Yeah. You could see crowds shifting. I'm not saying massive 
+11 amounts of people, but you definitely saw crowds peeling off for the Ellipse and going 
+12 towards the Capitol, yeah. Definitely. 
+13 
+14 
+15 
+16 Q 
+A 
+Q 
+A During the speech? 
+Yeah. In that window. 
+Uh-huh. 
+In that window. So, if --if my recollections are correct, if I'm starting to 
+17 walk back to the U.S. Attorney's Office and that window noon to 1, then, yeah, I mean, I 
+18 saw people going towards the Capitol at that time. 
+19 
+20 
+21 Q So --
+A Not a lot, but I definitely saw people going in that direction. 
+Q Do you remember any kind of the phrases obviously that we know now from 
+22 Mr. Trump's speech, about "I'll go with you to the Capitol," or did you hear the crowd, any 
+23 chants of "hang Mike Pence" or anything distinctive about what you heard? 
+24 A I don't remember --I don't remember any speeches, and I don't remember 
+25 anything from the crowd. I just remember visual. I don't remember anything audio,  1 so --
+2 
+3 Q And who were you walking with still now towards --
+A I was still with at the time, and then with --and several police 
+4 officers --
+5 
+6 Q Okay. 
+A --because this is when we're dealing with that upper situation, so yes. 
+7 Those are the individuals I was with. 
+8 Q Where were you when you became aware of the pipe bomb at the DNC or 
+9 the --
+10 A I think --that's a good question. I believe when I get back to the 
+11 U.S. Attorney's Office, because the trigger point was these people climbing the 87 
+12 scaffolding. That's when there was this --I get barraged with the shooting and the pipe 
+13 bomb and individuals with incendiary devices and vehicles near the --that's as --this is 
+14 total chaos of war, like 80 to 100 intel reports all poured in directly from Steve or from my 
+15 first assistant or crim --there was total fog of war, yes. 
+16 
+17 
+18 
+19 
+20 
+21 
+22 Q So let's just go through --the time line I'll provide for you is the --
+A Sure. 
+Q The DNC pipe bomb was found around 1:17. 
+A That --okay. Makes sense. 
+Q The RNC, a little bit after that. The shooting of Ms. Babbitt was at 2:40. 
+A That makes sense. So --
+Q So I'm going to --from what you just said, I take it you're back at the 
+23 U.S. Attorney's Office --
+24 
+25 A Oh, yeah. 
+Q --for that series of events?  88 
+1 A Oh, yeah. Yes. I --yes. That's why I'm saying --look --and I think my 
+2 memory is correct that, once I get back, because I didn't have a good strategic perspective 
+3 of what was happening other than I saw, you know, all these people climbing the 
+4 scaffolding. When I get back to my office is when I get barraged with all this, and now 
+5 it's all linked together. But that timing seems to be accurate. 
+6 I think a Ashan from the ATF called me, because we were very close and worked 
+7 together all summer. ATF had primary. I spoke to him all the time about the 
+8 incendiaries --the pipe bombs --both pipe bombs. And then I believe my first assistant 
+9 or crim chief told me about Babbitt, which was shocking. I was, like, I couldn't 
+10 believe --someone would have got inside the Capitol was shocking just personally to me. 
+11 And then it was just chaos with other individuals, intel about shooters in trees, 
+12 and shooters in buildings, and --
+13 Ms. Loeb. And just a reminder that Mr. Sherwin's authorization ends at 2 p.m. 
+14 on January 6th. 
+15 BY 
+16 Q Did you leave the U.S. Attorney's Office at any time, or did you --
+17 A The only time I left, I'm sure I went back and forth to WFO, and I knew I went 
+18 to Capitol Police headquarters, but I --you can check on badge records. I think I slept 
+19 there overnight. I'm almost positive. 
+20 
+21 Q 
+A And did you become aware that Mr. Benedict had gone to the Capitol? 
+Oh, yeah. Yeah. I know. Yeah, because that was a crime scene, 
+22 so --and I know --I can't remember what Steve's situation was. I mean, it was such 
+23 chaos talking to the MPD, too. But, yeah, I mean, there were, like, multiple crime 
+24 scenes at once within a huge crime scene, so it was really chaotic. 
+25 Q So did you ever go to the Capitol. I know Mr. Benedict did, Mr. Donoghue  1 did --
+2 
+3 
+4 A 
+Q 
+A That's correct. 
+--and Mr. Bowdich? Did you ever --
+1 did not, just because I thought it --I didn't want to make it look like a 
+5 tourism type of situation going to active crime scenes. And then, later, I think the next 
+6 day or 48 hours --89 
+7 Mr. Gardner. Well, where we checked is beyond the scope of the authorization. 
+8 ~ Later that what he did? 
+9 Mr. Gardner. Correct. After 2 p.m. on January 6th, as referenced in our 
+10 authorization letter. 
+11 - I really--we're going to move past 2 o'clock. We have to in 
+12 terms of coordination that occurred afterwards, so if you --
+13 Ms. Loeb. No. The Department strongly objects to that, and I thought that was 
+14 agreed upon before this interview. 
+15 I don't know how it ends at 2 o'clock on January 6th. 
+16 Ms. Loeb. Well, it turns from planning and preparation to the events of January 
+17 6th, which the Department authorized him to talk about, to the most largest, most 
+18 complex prosecution in American history. 
+19 Mr. Sherwin is here of his own accord, and the Department has authorized a 
+20 certain scope of the --of his testimony. And you've had that letter, did not raise 
+21 objections with us about the ending date of 2 p.m. on that day. I feel like it would have 
+22 been appropriate if you all had a significant problem with that scoping, for us to have 
+23 discussed it in advance of Mr. Sherwin's interview. 
+24 So I'm going to ask Mr. Sherwin about his full day, and not get 
+25 into any questions about any specific -- 90 
+1 Ms. Loeb. And that absolutely far beyond what the Department has agreed to in 
+2 this, and we would like to go off the record and have a conversation. 
+3 
+4 - If Mr. Sherwin wants to talk about it --
+Mr. Sherwin. Can I --look, I don't want to intrude upon DO --can I let you guys 
+5 discuss this, and I'll come back in the room, see if you can resolve this? 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 Ms. Loeb. Yeah, absolutely. 
+Mr. Sherwin. Would that be okay? Can you give me 5 minutes and -­
+Sure. 
+Mr. Sherwin. I would like it resolved. I don't want to -­
+Sure. Thanks, Mr. Sherwin. 
+Mr. Sherwin. Thanks. 
+[Discussion off the record.] 
+Ms. Loeb. And so the agreement is that you will describe your scope -­
+I'm going to question now, thank you. 
+Ms. Loeb. --of questions, and then we'll be able to talk with Mr. Sherwin about 
+16 our views of the scope? 
+17 - Yeah. 
+18 So, Mr. Sherwin, as DOJ counsel is relying on the letter where they have told us 
+19 that they have picked the time of 2 o'clock, where they believe it has shift from a protest 
+20 to criminal prosecutions, I respect that, and I assured them, as I'm assuring you, I have no 
+21 intention to ask about any criminal prosecutions and how your role obviously shifted as 
+22 the chief prosecutor in the District. 
+23 What is important to the committee and part of our mandate is what coordination 
+24 was happening that you were aware of during this critical time period between 2 p.m. 
+25 and 5:20, until the National Guard arrive, and then the preparations begin to clear the  91 
+1 Capitol. 
+2 If you have any information about who you were in touch with, any conversations 
+3 you had with the mayor, Chief Contee, Mr. D'Antuono --
+4 Mr. Sherwin. Sure. 
+5 --or any other officials in the interagency capacity about those 
+6 high-level --
+7 
+8 
+9 
+10 Mr. Sherwin. Sure. 
+~ --decisions that were occurring that has nothing to do with -­
+Mr. Sherwin. Got it. 
+~ --strategy or criminal prosecutions that might have been 
+11 brought to your attention as far as arrests, the committee would appreciate your answers 
+12 on that. 
+13 Mr. Sherwin. Yes. 
+14 And now I will step out and you can go off the record and 
+15 discuss that. 
+16 
+17 
+18 
+19 Mr. Sherwin. Okay. 
+- Thankyou. 
+Mr. Sherwin. No problem. 
+- Obviously, it's your choice whether you want to answer these 
+20 questions. Thanks, Mr. Sherwin. 
+21 
+22 Mr. Sherwin. Sure. Sure. 
+[Discussion off the record.]  We're back on the record. 1 
+2 
+3 I see Representative Aguilar has joined us. Good afternoon, sir. 
+4 BY 92 
+5 Q And I think we ended with me asking your --kind of the timeframe after you 
+6 went back to the U.S. Attorney's Office. Did you --and I think you did say you went back 
+7 to WFO and the command post. 
+8 
+9 
+10 Sorry. You have to say yes. 
+A 
+Q Sure. Yes. Yes. Correct. Correct. 
+And if you could just talk through if you had any conversations with 
+11 Chief Contee, the mayor, any interagency interactions during this time period. 
+12 
+13 
+14 A 
+Q 
+A Sure. So the caveat being that it was --there was total chaos. I mean -­
+Sure. 
+--there was a flood of calls and people running to my office, making sure 
+15 where my people were, because I had people out there that were in patrols, so, I mean, 
+16 that was my main concern. What are my concerns with my people? 
+17 So, look, I had no calls that I remember with anyone at DOD or National Guard 
+18 after that time. I did have calls with people in the ATF and the Bureau, of course, Steve, 
+19 and then Ashan. And my main concern was cordoning off areas where there were 
+20 potential crime scenes and making sure we could preserve evidence if we're going to 
+21 move forward with any cases. 
+22 That was my main concern and my marching orders, so that and making sure my 
+23 people were okay that were out on the street, everyone was accounted for, and then 
+24 making sure we had the duty stations plussed up because I knew the cases were going to 
+25 start coming in. So we had to set up an architecture to deal with those cases.  93 
+1 Q And I appreciate and understand that's your focus given that you're --given 
+2 your role. 
+3 Did you at any moment make an inquiry or were curious as to when the National 
+4 Guard would be arriving? 
+5 A I --I mean, I'm sure that was --I would personally want to know that because 
+6 it was chaos there, like where were the assets? But I don't recall being in the mix with 
+7 those conversations. 
+8 
+9 Q 
+A And how were you receiving your information at this time? 
+Oh, everything but pigeon. I mean, phone calls. Mostly phone calls and 
+10 people running into my office. I --I don't even remember actually --I would love to see 
+11 my emails from back then. I --if I got emails, I would like to see how many I responded 
+12 to. Probably not a lot, because most of the time, I was running next door to WFO or at 
+13 Capitol Police or, like, in intake or MPD, so --
+14 Q So can you just kind of talk through why you went to both? You went to 
+15 WFO. What was the scene there --
+16 
+17 
+18 A 
+Q 
+A Sure. 
+--versus what was going on at Capitol Police? 
+Just --I mean, I can't even articulate in detail. Just it was chaos. I mean, 
+19 look, it was just plain and simple. I mean, it was a chaotic event. People --very few 
+20 people knew what was going on, I think, in terms of, you know, coverage with different 
+21 ingress areas. I didn't --I just remember it being very chaotic without any specific detail. 
+22 Just extreme chaos. 
+23 Q At WFO, did you see, or at any point, did you see Mr. Bowdich or 
+24 Mr. Donoghue that day? 
+25 A I don't think I saw Rich at all that day or that whole week, actually. I think  94 
+1 he may have called me a --I could probably count on one hand how many times he called 
+2 me. Maybe Mr. Bowdich, I saw at WFO. I don't think he called me at all. The 
+3 Director did not call me. So --
+4 
+5 Q 
+A At WFO, was Mr. D'Antuono still there? 
+Oh, yeah, or he was plussed. I mean, we spoke --I know we spoke several 
+6 times via phone and in person, but he was running around like me. 
+7 
+8 Q 
+A What about at Capitol Police headquarters? 
+I spoke to no --I did speak to Capitol Police headquarters directly, because I 
+9 went over there with my criminal chief and first assistant later in the afternoon, because, 
+10 directly, we needed to --again, in just general, architecture with --we'd, like, talk about 
+11 posturing for intake of cases. 
+12 
+13 Q 
+A Sure. 
+We need to coordinate with them, and there was such chaos, we just had to 
+14 walk over there and talk to them. So I went over there with my first assistant, 
+15 - late in the day. I remember it was dark, man. It was like 8 or 9 o'clock at 
+16 night --
+17 
+18 
+19 
+20 Q 
+A 
+Q 
+A Okay. 
+And it was still extreme chaos all over the place. 
+Do you remember who you spoke to at Capitol Police? 
+I can't remember. It was a senior --it was not the chief of Capitol Police. 
+21 It was one of his senior advisers, and we were in a conference room, and we were just 
+22 talking about we have to get assets in place to start dealing with cases. 
+23 Q Did you at any point --again, I understand what your focus is --were you or 
+24 did you become aware of any of the tweets that the former President was putting out. 
+25 Ms. Loeb. Object to questions about that.  1 
+2 - About the tweet of the President? 
+Ms. Loeb. I don't think that we --we are not comfortable with Mr. Sherwin 
+3 talking about information input. You said you wanted to ask him about movements, 
+4 about who he spoke to at --in the interagency. 
+5 I understand that. I'm asking about whether there was any 95 
+6 impact of learning this information. And I think that that has nothing to do with ongoing 
+7 cases. 
+8 BY 
+9 Q Mr. Sherwin? 
+10 A I think I could give you a simple answer. I was not looking at Twitter at all 
+11 that day, so I have no idea if he was tweeting or Lady Gaga. It didn't matter. So I have 
+12 no visibility of what anyone was tweeting --
+13 
+14 
+15 Q 
+A 
+Q Great. 
+--at that time. 
+Were you aware of any of the statements in terms of not issuing a statement 
+16 to leave the Capitol? 
+17 A I --I wasn't paying attention to any of that. It was more just the chaos and 
+18 dealing with just the influx of cases. I wasn't looking at the social media scheme or what 
+19 the messaging was at that time. 
+20 
+21 
+22 
+23 
+24 
+25 Q Got it. 
+We did have --and I provided you a number of call lists that --
+A 
+Q 
+A 
+Q Yes. 
+--Mr. Rosen provided us. 
+Okay. 
+And it looks like --and obviously I'm not going to ask you about each of these  1 calls. 
+2 A Sure. 
+3 Q It looks like there is 12:40, 1:09. 
+4 A Yep. 
+5 Q 1:17, it looks --and, again, this is what he testified to, which might be 
+6 confusing about his --
+7 
+8 
+9 
+10 A Yeah. 
+Q His --his own memory --
+A Sure. 
+Q --was that you were at the Ellipse at 1:17. It seemed that the crowd size 96 
+11 didn't appear to be unexpected and the conduct so far is okay. And his memory was, at 
+12 the 2:33 call, which is obviously after the Capitol had been breached, that you were 
+13 walking up Constitution Avenue, but that sounds to me kind of inconsistent with what 
+14 your memory is, which is just --
+15 
+16 
+17 
+18 
+19 A 
+Q I mean, I don't remember the tick-tock, but, again -­
+Right. 
+A --it's easy to just pull my badging records and GLO. I mean --
+Q Yeah. 
+A --I was at the office. I have to badge in with security, so, I mean --but I 
+20 don't --like I testified earlier, I don't remember my tick-tock. It was such a chaotic time. 
+21 So I can't pin the calls, where my GLO location was when the AG called me. 
+22 Q No problem. 
+23 So, as far as the rest of your day, then --I know you said you spent the night there 
+24 at the office. 
+25 A Yes.  97 
+1 Q Was there any efforts in terms of --do you remember being on any 
+2 interagency calls in the evening time? 
+3 A No, I don't remember being on any interagency calls. I just 
+4 remember --the main points that stick out are going to Capitol Police headquarters and 
+5 getting our architecture ready for the cases, and the broad determination was it wasn't 
+6 going to meet the mark. We had to flex the WFO, and that was what we were focused 
+7 on. 
+I'm sorry. It didn't meet the mark to what? 8 
+9 Q 
+A With --we didn't think it had the capacity to --that location didn't --wasn't 
+10 the proper location to set up the architecture to prosecute incoming cases, so we moved 
+11 to WFO. 
+12 
+13 
+14 
+15 Q 
+A 
+Q 
+A I see. So not at Capitol Police? 
+Correct. 
+To WFO? 
+And that's why we were there. We had this --and I just remember being in 
+16 the nuts and bolts, how are we going to do these cases? I don't remember any 
+17 interagency --maybe I was invited. Again, I don't even remember checking a lot of 
+18 emails. I was almost welded to the hip of my first assistant crim chief from that early 
+19 evening through the very late night. 
+20 Q Do you remember --and forgive me if I asked --if you spoke to the mayor 
+21 during this time period? 
+22 
+23 
+24 
+25 A 
+Q 
+A 
+Q I don't think I did. I don't think I did, no. No. 
+It sounds like you were with your chief partner -­
+Yes. 
+--Steve D'Antuono, as well as the MPD folks.  1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 A 
+Q 
+A 
+Q 
+A 
+Q 
+A 
+Q 
+A 
+Q Yes. 
+Did anyone reach out to you as far as congressional Members or -­
+No. 
+--staff? 
+No. 
+Anyone from the White House -­
+No one. 
+--in terms of official --
+No. No White House called, no. Negative. 
+And, just generally speaking, in these numerous calls with Mr. Rosen, were 98 
+11 you giving updates of what you saw and kind of the architecture that you were putting in 
+12 place? 
+13 A Yeah. Probably --yeah. I mean, I'm sure they were --what did you hear 
+14 about the shooting? What did you, you know, hear about breach of the Capitol? 
+15 mean, I was just telling him what --most of my information at that point was CNN in my 
+16 office. You know, I was --you know --and people just coming in with --that the initial 
+17 stages of cases that were coming in without getting into any detail, but that was --
+18 
+19 
+20 Q 
+A 
+Q Right. 
+--our --
+And that's kind of the --there is some of these emails from- during 
+21 the day. Were you relying on any of those --
+22 A No. I don't even remember reading his emails anymore. I mean, I'm not 
+23 trying to denigrate --
+24 
+25 Q 
+A I understand. 
+--the --but they had, like --1 was dealing with, like, putting out fire after fire,  99 
+1 and they're looking at big, strategic overview, you know, at the SIOC, NSD. I doubt I 
+2 even opened his emails. I don't remember. 
+3 Q And, again, understanding your focus is on putting towards the structure, did 
+4 you have any moment to pause during this over 3 hours while this chaos continued as far 
+5 as what efforts could be taken to quell the violence? 
+6 A No. More --I mean, at that point, I mean, that was total deferring to, you 
+7 know, the powers that --way up my chain of command, you know, what they're --you 
+8 know, I'm not in charge of resources or moving resources. I just know that there was 
+9 chaos. 
+10 I know that there were Federal assets going there to clear. There was chaos 
+11 because some individuals --you know, they --it was a very chaotic situation because of 
+12 the footprint of the Capitol, and --and the efforts to clear the Capitol for the recount, so I 
+13 just know it was way above my chain of command, and I wasn't privy to any of those 
+14 conversations. 
+15 
+16 
+17 Q 
+A 
+Q Did you --and I understand that. 
+Yeah. 
+Did you, as Michael Sherwin, as a background in military, have any moment 
+18 to pause to think, where is the National Guard, or concerned about the arrival of the 
+19 National Guard? 
+20 A Personally, I mean, I didn't think of that specifically, you know, where is the 
+21 National Guard? I wasn't looking at that specific tick-tock. I just knew it was, like, 
+22 the --I mean, there was already --it wasn't time even to Monday morning quarterback, 
+23 because there was already a breach. So it was just Federal assets were just being 
+24 plussed up, poured into that region, and --and we kind of just took a --you know, I'm not 
+25 saying we're spectators at that point. But, at that point, we're not getting in the way of  100 
+1 law enforcement. We're, like, all right, you guys do your job, and you bring us the cases. 
+2 So I just know that there were --again, way above my chain of command. I know 
+3 those calls were happening, but I wasn't privy to any of those. 
+4 Q All right. One of the things that's been public and what we've learned is 
+5 that the MPD had a very quick response time that day. 
+6 A Yeah. 
+7 Q Did you have any kind of visibility into what their preparations were 
+8 coordinationwise? And the big picture here is, once the breach happened, the Capitol 
+9 Police was obviously getting flooded. By all accounts, MPD was able to arrive literally --
+10 A Oh, yeah. 
+11 Q --within 20 minutes. 
+12 A Oh, yeah, because, first of all, I mean, Capitol Police are excellent at what 
+13 they do. They're used to dealing with these situations, and they were --I don't know the 
+14 geographic location of the National Guard, where they were stationed. But Capitol 
+15 Police were obviously do doing all types of street patrols anyways. 
+16 I mean, I was with them doing street patrols around the Capitol, so they were 
+17 geolocated there to assist at a moment's notice. And those guys went right into the 
+18 breach. I mean, in peril of their --sometimes their lives. 
+19 
+20 
+21 
+22 Ms. Loeb. Mr. Sherwin, did you mean MPD? 
+Mr. Sherwin. MPD. Sorry. Yes. 
+Ms. Loeb. Sorry. He said Capitol Police. Just --
+Mr. Sherwin. Okay. I'm sorry. I'm sorry. Yes, MPD. 
+23 So, yeah, they moved very quickly and, like, didn't hesitate to get right into the 
+24 fray. 
+25 BY  101 
+1 Q Did you have any conversations with Chief Contee or --it would have been 
+2 Chief Contee at that time, you mentioned had left, in terms of what their posture was in 
+3 terms of the officers? Was it all hands on deck? Did they have a number of more --
+4 A Oh, I'm sure --I mean, I know I had a conversation, but I don't remember 
+5 those details. But, yeah, it was all hands on deck. It was like they had a --they had to 
+6 support the CP lines, and --and, again, I don't know who gave the authorization for them 
+7 to step onto their territory. I wasn't privy to those authorizations. But I know that, 
+8 when they cleared, that they were there, like, immediately. 
+9 Q And visually, from what you saw in the morning time until you went back to 
+10 your office, did you see the presence of Capitol Police at the points where you were 
+11 walking at the --
+12 A I don't remember. I just remember huge mass of MPD presence. I don't 
+13 remember much Capitol Police presence at all. But, again, I wasn't focused on that, but 
+14 no. I mean, MPD all over the place. I don't remember seeing much National Guard. 
+15 Maybe at a couple checkpoints, but I don't remember seeing any Capitol Police really. 
+16 Maybe a couple guys, you know, on the perimeter when the scaffolding was being, you 
+17 know, climbed. 
+18 Q When you say that you saw huge presence of MPD, were they on the 
+19 perimeter? I --
+20 A Exactly. 
+21 Q Okay. 
+22 A Patrolling the streets around the Capitol, at chokepoint intersections, but 
+23 not actually on the Capitol Police grass, if that makes sense. 
+24 Q Right. And can you just explain why that is, just that kind of --
+25 A Look, I don't know the details, like the rules of engagement or --that's  102 
+1 probably the wrong word --whatever sharing agreement they have, but MPD was 
+2 flooding the street at chokepoints to ensure that they could push people in different 
+3 directions. When I saw the scaffolding --this --I could only tell you my personal 
+4 perspective. I don't know --
+5 Q Uh-huh. 
+6 A --what happened behind or behind any other barriers, but I didn't --at the 
+7 point when the action started heating up, climbed scaffolding and everything else, there 
+8 were no MPD officers on --I didn't see them in front of doors at the Capitol or on grass. 
+9 They were still in the --doing street --you know, at choke points. I believe the only 
+10 people I saw on Capitol grounds were the Capitol Police officers, and just very few of 
+11 those that I could see. 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 Q Okay. I want to turn to exhibit 23, which is a briefing you provided to --
+A Sure. 
+Q --Members --
+A Sure. 
+Q --on January 12th. 
+A Okay. Yep. Vaguely remember this. 
+Q Much of what you said is redacted. 
+A Right. 
+Q And obviously I don't want to talk about any ongoing cases. I'm wondering 
+21 about what your visibility was into the aspect of the sharing of intelligence, which is 
+22 something we've obviously asked you about. 
+23 
+24 
+25 A Sure. 
+Q One thing that struck me was the --this is page 14 --
+A Sure.  103 
+1 Q --of that, Ms. Sanborn states in the middle of the paragraph there --I think 
+2 you --you kicked the question to her: Do you want to take that? And she's back on 
+3 the line, and she says: Despite the information that we were seeing, whether it was 
+4 aspirational or intelligence, we were constantly, via the JTTF construct, trying to flag 
+5 information that we thought would be valuable to our partners. And so, again, our 
+6 biggest challenge is really trying to figure out and ferret that --
+7 
+8 
+9 
+10 A 
+Q 
+A 
+Q Yeah. 
+--intention. 
+Yeah. 
+Did you see that or have any insight into what was being shared with 
+11 partners, as Ms. Sanborn states? 
+12 A I mean, look, I flipped it to her because they --they produce intel. They 
+13 push it. That's why I thought it was appropriate for them to answer. 
+14 And, look, yes, I saw some products pushed to --through the JTTF construct. 
+15 And I'm sure there were other informal channels in which intelligence was shared with 
+16 the local partners. But I didn't have --I don't have visibility into all of those intel 
+17 pipelines and reporting structures. So, you know, I guess --I can't speak on behalf of 
+18 Ms. Sanborn, but --
+19 
+20 
+21 Q 
+A 
+Q But, apart from the January 5th Norfolk report -­
+Yes. 
+--was there any --and that --I don't believe the Bureau refers to as a 
+22 finished product, but, in any event, it was a situational incident report? 
+23 
+24 A 
+Q That's correct. SIR, yes. 
+Did you see anything else other than that one piece from the Norfolk, 
+25 Virginia, office?  104 
+From that office. 
+Correct. Or entirely in terms of --1 
+2 
+3 A 
+Q 
+A Look, I can just speak personally. What did I see? I mean, yeah. I mean, 
+4 there were other intel reports. Some were unvetted, raw intelligence from --we --we 
+5 already covered some of these exhibits that you mentioned. 
+6 
+7 
+8 
+9 
+10 
+11 
+12 that. 
+13 
+14 
+15 Q 
+A 
+Q 
+A 
+Q 
+A 
+Q 
+A 
+Q Yes. 
+SITE, and also other postings, and some chat groups with violence. 
+But you don't have any visibility of that was shared with partners? 
+I don't know. Correct. 
+Okay. 
+I don't know what --I can't speak on behalf of what the Bureau did with all 
+Right. 
+Correct. 
+And just the one kind of threat assessment that we're aware of --obviously 
+16 there was no joint intelligence bulletin issued --
+17 
+18 A 
+Q Yes. 
+--about January 6th. The one kind of assessment that we've seen is from 
+19 the Capitol Police. There was a January 3rd special assessment that was reported in the 
+20 press where it stated explicitly that the Capitol itself is a target. 
+21 Were you aware of that in real time at all? 
+22 A I don't recall getting that. I mean, I don't know if you have the 
+23 communication. I don't recall getting that report. I don't know who that was shared 
+24 with, if that was directly shared with me. 
+25 Q I --and I don't know. I'm not trying to -- A 
+Q 
+A No. No. I understand --I know you're not trying to catch me in a -­
+Uh-huh. 
+In a corner. 105 
+1 
+2 
+3 
+4 Look, there was a lot of vague intelligence reporting about taking back our House, 
+5 you know: "Stop the steal," we need to take back our House by force, you know, by 
+6 hook or crook, you know, those types of things. 
+7 But, in terms of --there was a lot of that reporting, I think, a lot of those postings. 
+8 The Norfolk report speaks for itself. I think in more detail. I'm not telling you anything 
+9 that hasn't probably been testified to that's more actionable. 
+10 But I guess that's a question for, I guess, others to discern whether --look, what is 
+11 actionable intelligence? It's a very --you ask a hundred people, you get a hundred 
+12 different answers. Was there anything specific saying we're going to rally at this 
+13 location, we're going to breach this wall or this window at 1400 with team A, and team B 
+14 is going to be behind? No, I don't think that intel was there. Was there other general 
+15 intel? Yeah, there was. 
+16 So it's --it's --it's hard to --it's really hard to Monday morning quarterback. Can 
+17 we learn from it? Absolutely. Were there gaps in intelligence? Absolutely. But it's 
+18 not an easy fix. 
+19 Q Right. And I think that's one of the challenges of what was --the example 
+20 you gave was, you know, was there a specific lull? Was there a specific time? No. 
+21 However, there was many posts with the tunnels --
+22 
+23 
+24 
+25 A 
+Q 
+A 
+Q You're right. 
+--of the Capitol itself -­
+You're right, yes. 
+--in social media that was --that had gone forth. That's something -- A 
+Q 
+A 
+Q Yes. 
+--that the Bureau had. 
+Yes. 
+And many posts about, you know, take back the House, as you said. 
+So how --as we move towards the recommendations part --
+Sure. 
+--the last part of our interview -­
+Sure. 106 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 A 
+Q 
+A 
+Q --do you have, given your vast experience, kind of some insight into how to 
+10 deal with those challenges? 
+11 A Look, I may have addressed this earlier and that I think leveraging social 
+12 media is a new phenomenon, and maybe the Bureau needs to learn how to better 
+13 leverage it. I think there is --I'm not going to say an arrogance, but I think there is a 
+14 type of institutional arrogance that we don't --I don't need to rely upon this guy's Twitter 
+15 feed for intel. We have our sources. We know what's going to go on. 
+16 This is unvetted, unverified, where I think the Bureau has to plus up and better 
+17 discern how to use social media and how to join up with partners like that, because 
+18 sometimes that's incredibly good intelligence, even though it's not coming from a Bureau 
+19 undercover or a Bureau source. 
+20 And I think it's just a function of how social media has just grown. And that's a 
+21 gap that probably needs to be addressed by the Bureau. 
+22 Q And, when you say "partner up," is that to kind of wade through the volume 
+23 that's out there to discern what's intentional versus aspirational? 
+24 A Or just to get the information. Look, I mean, you could even see in 
+25 the --like the Ukraine, there is some really good intelligence derived from outside open  107 
+1 sources about tracking oligarchs or tracking flights of people that we don't have visibility 
+2 into. 
+3 I mean, I think we have to better posture ourselves to work with either these 
+4 public interest groups or even just one-offs that are doing this on their own, tracking 
+5 some of these separatist groups or more violent groups. There is some good --there is 
+6 some good civilian, you know, entities, and people that are --that have really good 
+7 information. 
+8 Again, I think broadly speaking, there is an institutional arrogance that we don't 
+9 need that because we're the Bureau or we're DHS and we have paid sources. So 
+10 I'm --look, the Bureau does a very good job. It's incredibly difficult, but can they 
+11 improve? Absolutely. And can they improve liaisoning with social media and these 
+12 kind of individuals that are doing a good job of tracking some of these groups? I think 
+13 absolutely. 
+14 Q Do you see any difference --there was a recent article that the Rolling Stone 
+15 published about the differences of monitoring that occurred in the summer versus for 
+16 January 6th. I don't know if you're familiar with that. 
+17 A I'm not familiar with that. 
+18 Q It talked about --oh, what --I don't need to show you this right now. It 
+19 talked about the social media SOM EX data --
+20 
+21 
+22 
+23 A 
+Q 
+A 
+Q Okay. 
+--and that kind of analysis -­
+All right. All right. 
+--and their conclusion --and I just want your response to it --is that it wasn't 
+24 as --I'll leave it as they weren't as forward leaning for January 6th in terms of the 
+25 monitoring of open sources as they were for the Black Lives Matter protests in the  108 
+1 summer. 
+2 A Yeah. I don't --look, again, I can only speak for the District. I don't 
+3 remember a huge robust push of intel related to antifa or BLM, like targeting packages 
+4 or --I don't --I didn't see a dichotomy in the D.C. U.S. Attorney's Office or --and working 
+5 with WFO. 
+6 I didn't see a spike in reporting or intel over the summer that died off going into 
+7 January 6th. I think the principles I kind of articulated is across the board, where I think 
+8 we just need better monitoring of any group that has a violent tendency and work better 
+9 with those, you know, kind of civilian groups. 
+10 Q And I appreciate that. One thing that I think others have drawn the 
+11 distinction between the summer and January 6th is that obviously there were violent 
+12 incidents for days on end during the summer --
+13 
+14 
+15 
+16 A 
+Q 
+A 
+Q Yes. 
+--versus this kind of cooked off in hours, as one witness put it. 
+Uh-huh. 
+So that data driven from the social media posts wasn't as necessary in terms 
+17 of going into an event, because there were actual incidents that were happening. Is that 
+18 fair? 
+19 A Yeah, that's --yeah, that's interesting, yeah, perspective. That's fair. 
+20 That's --
+21 Q But I'm wondering, when you say the challenge of monitoring, how do you 
+22 get through the First Amendment concerns that many --that we've heard as a mantra 
+23 from law enforcement as --
+24 
+25 A 
+Q Oh, yeah. 
+--these are First Amendment protests, that they're U.S. citizens, so there is  109 
+1 this --not so much a hesitation, but that's a challenge in terms of assessing it as a threat? 
+2 A Oh, yeah. I mean, look, these are questions that have --go back decades, 
+3 you know, with monitoring some of these militia groups, and it's a very sticky situation. 
+4 The Bureau is in a very precarious situation, because you have to predicate a case 
+5 obviously based upon thin type of reasonableness, and not even a probable cause 
+6 standard. 
+7 And where is the line between, you know, distrust and angst and anger at your 
+8 government to outright, you know, violence inflicted upon government officials? And 
+9 it's --I think we have to look at it carefully where we draw that line, because it can 
+10 implicate significant First Amendment issues. So you have to have some type of criminal 
+11 basis, and we have to, you know, look at that carefully going forward with a lot of these 
+12 groups. 
+13 You know, some groups have violent members. Some people joining these 
+14 groups and have --just want to voice their concerns about disagreement with how the 
+15 government is or COVID restrictions, but --but it's --it's not --it's not an easy question. 
+16 Q Do you think that --one thing that's been discussed about the role of the 
+17 Bureau versus DHS l&A, which is one thing we didn't talk about, but did you have any 
+18 interactions with DHS l&A and the products that they were putting out? 
+19 
+20 
+21 A 
+Q 
+A I did not, no. No. 
+And why --why is that? 
+Just because, if --it would have been fed to me through the JTTF or through 
+22 the Bureau if it was, I think, a critical product. I don't recall --perhaps, again, looking 
+23 through my emails, whatever, I may have got a product or had a communication with 
+24 that. I don't recall that sticking out, though. 
+25 Q One --one inquiry of the committee is whether DHS l&A is better designed  110 
+1 to create these threat assessments. Obviously the joint intelligence bulletin is between 
+2 the Bureau and DHS --
+3 
+4 A 
+Q Yeah. 
+--but there are a number of threat assessments that are done for collecting 
+5 information for the purpose of issuing an assessment versus criminal prosecution, which 
+6 is --
+7 
+8 
+9 
+10 
+11 A 
+Q 
+A 
+Q 
+A Yeah. 
+--what the Bureau is designed for. 
+Uh-huh. 
+Do you see that difference there and the challenges there? 
+Sure. Sure. Sure. No, I do. But the question is, how do you get the 
+12 information? How does DHS get the information? Is it just open-source review, or 
+13 sometimes you have to get more significant information through subpoenas or, you 
+14 know, other types of process? 
+15 But you have to --we have to caution ourselves against you can't task too many 
+16 agencies. You get redundancy again and, you know, inefficiencies. You know, who is 
+17 going to be the lead on these things? I don't know if DHS is the answer, frankly, you 
+18 know? 
+19 Q Right. I think that one question is whether an agency, such as DHS l&A, 
+20 which is not tasked with prosecution, but solely looking at that open-source information, 
+21 should be, you know, kind of --
+22 A Yeah. Yeah. 
+23 
+24 
+25 Q 
+A 
+Q --given more resources --
+Yeah. 
+--to make those assessments, because they don't have to be concerned  1 about --
+Yeah. Yeah. 
+--is this leading to an investigation? 
+Yeah. 
+Is it leading to an arrest? 111 
+2 
+3 
+4 
+5 
+6 A 
+Q 
+A 
+Q 
+A Yeah. The only problem I have with that is you reach the rub icon of this is a 
+7 dangerous group, and they're planning something, okay, now they --this group has to be 
+8 apprehended. They're not going to do it. The Bureau is going to do it? Who is going 
+9 to do it? 
+10 And then, if they do it, did DHS gather information in violation of the law, which 
+11 most likely will happen if they're not really thinking of criminal process? And then a 
+12 whole case could be jeopardized because a DHS agent wasn't following proper Bureau 
+13 protocol in collecting information. 
+14 So it's very tricky, because DHS isn't just gathering intel for reports. You're 
+15 gathering intel to have an idea of the geography, and also what you could do to thwart 
+16 a --an actor that may inflict violence, and that's --it's --you can't divorce the criminal 
+17 from the intelligence gathering. And I think that's why the Bureau has to remain the 
+18 lead personally in that endeavor, if that that makes sense. I don't know --
+19 
+20 
+21 Q 
+A 
+Q No, it does. 
+Okay. 
+And it's obviously a complex question, but it leads to some of these things in 
+22 terms of, if you work back from why was there not a joint intelligence bulletin issued 
+23 about January 6th, the common response is it wasn't actual, it wasn't specific --
+24 
+25 A 
+Q Yeah. 
+--it wasn't investigatory.  112 
+Yeah. 1 
+2 A 
+Q So should there be an agency that is looking for all those non --just as data 
+3 points --
+4 
+5 
+6 
+7 A 
+Q 
+A 
+Q Yeah. Yeah. 
+--right, just seeing this mosaic of information -­
+Yeah. 
+--that's out there from across the country? 
+8 A Yeah. Yeah. I still think it's the Bureau, but I think they have to be --and 
+9 I'm not saying that just because of DOJ --you know, long-time DOJ guy. I just think they 
+10 have to recalibrate how they do that, and --and what manpower is needed, and working 
+11 maybe in conjunction with DHS. But, if you remove the Bureau, it's very dangerous, 
+12 because I just personally see a litany of cases being screwed up --pardon my French --if 
+13 DHS is on the lead, you know, doing those types of --those types --that type of reporting 
+14 or tracking. 
+15 Q Do you think it's a resource issue within the Bureau in terms of pursuing 
+16 DT --domestic terrorism cases? 
+17 A You know, it's probably a --look, it always comes down to money and 
+18 manpower, but sometimes that just doesn't solve the problem. It has to be --before 
+19 money and manpower is thrown at the problem, I think you need to articulate what their 
+20 mandate is and who they report to and who they're responsible to report to. 
+21 And maybe that has to be re-looked at. Maybe there has to be someone --it's 
+22 not the deputy director. Maybe it's another assistant deputy director for 
+23 counterterrorism domestic. 
+24 I don't even like the distinction between domestic terrorism and international 
+25 terrorism. I mean, it's --by virtue of social media and how you could move crypto  113 
+1 moneys, I mean, there is such a close connection now between U.S. DT groups and 
+2 foreign groups, even with a lot of the militia groups we saw recently, that it essentially 
+3 just comes down to tracking these people and doing it properly, and then reporting up a 
+4 proper chain of command. 
+5 So I don't think it's only money and resources. It's how is the Bureau going to 
+6 put this piece in their puzzle, and who are they going to report to, and what's their 
+7 mandate. 
+8 Q And that mandate, it's laid out in the DIOG in terms of --again, Mr. Bowdich 
+9 referred to that as the bible in terms of how they open cases. 
+10 
+11 A 
+Q Yeah. 
+Do you think that --how does it impact that there is more of a challenge in 
+12 opening these domestic terrorism cases versus IT --
+13 A Well, I mean, look, it's not a mystery. Sometimes agents are loathe to open 
+14 up a DT case because of the First Amendment issues. I mean, that's not --you open up a 
+15 case on AQAP or ISIS with foreign actors operating out of Libya or Syria, I mean, big deal. 
+16 You don't have to worry about constitutional protections. It's much easier to get a FISA 
+17 or a TIii. 
+18 With U.S. personnel, you know, there is a pucker factor where, you know, some 
+19 people are joining this organization for legitimate political discourse, but, also, some 
+20 people are joining it because they want to, you know, extract violence on people. And I 
+21 think there is a hesitation --and I'm not saying there shouldn't be to some degree --of 
+22 opening cases on some --some militia groups because of legitimate First Amendment, 
+23 you know, concerns. 
+24 
+25 Q 
+A And there are additional steps because of that U.S. citizen nexus obviously? 
+Oh, yeah. For sure. Sure.  114 
+1 Q Do you think that, if that was taken out, that there would be 
+2 more --obviously there is incredibly talented agents across the Bureau that would be 
+3 more inclined to go into kind of these domestic terrorism cases versus pursuing the 
+4 al-Qaidas and AQAP? 
+5 A Yeah. I mean, look, I think --just --I --look, agents, I think, are 
+6 more --look, international terrorism is looked at more sexy. I mean, I don't want to 
+7 sound ridiculous, but it's just true. You know, you're assigned to an international 
+8 terrorism squad; it looks more prestigious or sexy. You know, I'm going after, you know, 
+9 ISIS or al-Qaida AP, than going after, you know, the Michigan militia in Plymouth, 
+10 Michigan. 
+11 I mean, I'm just being honest. I mean, it has this cache --now, there also --there 
+12 is good agents that work --very good agents that work DT cases, but, you know, I think 
+13 there is just this label that, you know, DT cases are relegated as less sexy, so you get less, 
+14 you know, sophisticated agents working those cases. 
+15 That's not the case, but I'm just saying I think that's a --maybe with younger 
+16 agents, they have that --that view, and then --then throw into that, oh, these cases are 
+17 more difficult. You could risk your career because, you know, First Amendment issues. 
+18 So, you know, it's easier --it's more sexy, and it's easier to work an international case 
+19 than domestic. 
+20 Q And I, having been in the U.S. Attorney's Office, agree with that, but how do 
+21 you change that culturally? 
+22 A You bring good cases. I mean, it's as simple as that. Bring good cases, win 
+23 good cases, and they will come. You'll get the right agents, so --
+24 Q I just want to make sure that I've kind of gone through much of what we 
+25 discussed earlier -- 115 
+1 A Sure. 
+2 Q --informally. If there is anything --we spoke a lot about the intelligence 
+3 aspect of it, of the challenges, the challenges of the National Capital Region. 
+4 What do you think --and I'll start with DOJ. What do you think DOJ could have 
+5 done better, if anything? 
+6 A Just in general, my perspective was, having lived through 2020 and then 
+7 January 2021, in general, I think there is a lot of confusion about the interplay between 
+8 DOD and DOJ, and there is probably still confusion as we sit here today. And there was 
+9 a hell of a lot of confusion in the summer of 2020 and a hell of a lot of confusion on 
+10 January 6th. And I don't know if there is any less confusion now. 
+11 That has to be resolved. How you work together? Who is the final 
+12 decisionmaker in a critical situation like that? And, I mean, that's way above my pay 
+13 grade as a U.S. attorney, but that is something I just saw from the outside looking in, just 
+14 seemed to be a lot of chaos and confusion. 
+15 
+16 Q 
+A Did you experience that chaos and confusion during the summer? 
+Yeah. I mean, that was --I'm not saying to the same extent as January 6th, 
+17 but, look, there was --there were --look, you had National Guard troops in the summer. 
+18 You had also Active Duty U.S. troops that were on, like, ready reserve in some areas. 
+19 I mean, these were, you know, complicated issues, and, like, who is the final, you 
+20 know, authority with activating those ready active guys that are on an airstrip in 
+21 Savannah, Georgia? I mean, I think it's something that maybe there is an active chain of 
+22 command for that, but I don't think it's studied or briefed, you know, as frequently as it 
+23 needs to be. 
+24 Q And that need for the --a final decisionmaker, did you feel that was absent 
+25 on January 6th?  116 
+1 A I just think that there was --I think there is --when things go bad, there is 
+2 a --there is the tendency for human nature to point fingers, and it's easy to, you know, 
+3 say we didn't move because that person didn't invite us, or, you know, they didn't come 
+4 here because they didn't call us and said they were going to come. 
+5 So I just think there is --there was a lot of failures of leadership, I think, and the 
+6 chain of command has to be better defined, and there should be accountability, too. 
+7 And that should be studied before an event happens. That should be studied 
+8 now in a peaceful time, you know, how to address it, and not just some BS tabletop 
+9 exercise, like a real-world scenario involving the Attorney General, involving the Secretary 
+10 of Defense, like, you know, National Guard and maybe U.S. Attorney's Offices do tabletop 
+11 joint terrorism task force exercises. 
+12 But does the AG do an exercise like that? Like, I don't think so. I don't know. 
+13 I was never really a member of OAG. I mean, maybe those exercises should be done. 
+14 Do we do exercises with SecDef and the AG on these scenarios? Maybe they need to be 
+15 done. So it just appeared to be a lot of confusion in 2020 and 2021 from the outside 
+16 looking in. 
+17 Q When you say "failures of leadership," what --are you talking agency-wide, 
+18 or up to the --up to the --
+19 A I think all --everyone. There was a lot of --a lot of people dropped the ball 
+20 in a lot of places. There was some good actors. There were some actors that I think, 
+21 you know, did drop the ball. So --
+22 
+23 Q 
+A Well, who? Who would you say would drop the ball? 
+Just, look, I mean, obviously there were intelligence gaps failures. I'm not 
+24 going to label --we have a huge intelligence agency domestically, so it's not just --you 
+25 can't just blame it on the Bureau or DHS or Capitol Police. I mean, I just think that --that  117 
+1 there have to be improvements, and there can be improvements. Like I just said, 
+2 integrating better maybe civilian actors or social media, you know --people that follow 
+3 social media or integrating --looping them into the all-source intelligence. 
+4 You know, was this properly gamed out, you know, before the 6th with the Capitol 
+5 Police and with the National Guard and with, you know, Federal and local law 
+6 enforcement assets? So --
+7 Q So, just in terms of that piece, in terms of the intelligence community, do 
+8 you think there would have been an impact if there had been a joint intelligence bulletin 
+9 issued by DHS and FBI about January 6th? 
+10 A I don't --it couldn't have hurt. Let me say that. It couldn't have hurt. It 
+11 could only --would have only improved things, I think. 
+12 Q And one of the things that we talked about briefly was this DOD, DOJ, who 
+13 was the lead kind of coordinator there? 
+14 
+15 A 
+Q Yeah. 
+Who do you think in a --should be a lead coordinator in that kind of 
+16 situation where there are multiple agencies involved? 
+17 A Look, when you're talking about --just, again, me speaking as a civilian, 
+18 when you're talking about troops, like with AR-15s and Kevlar, I don't care if it's National 
+19 Guard or DOD, like, that has to come from the SecDef or the President. I mean, it 
+20 should not --the DAG should not be --I don't think a DAG or an AG should be directing 
+21 National Guard troops or Active --Active military troops. It's just --it's --it --I don't 
+22 think the Constitution allows it, and I don't think it should happen. That has to be 
+23 clearly mandated by, you know, the SecDef. That has to be their call. 
+24 Q So what's your response to, if the --if the Department of Defense is in 
+25 charge of something in response to a civil disturbance protest, that that's essentially  118 
+1 militarizing what their role is, right? I mean --
+2 A You're right. That's why, I mean, it's --I'm not a student of the Constitution 
+3 or how to militarize the police or the military or how to, you know, politicize or, you 
+4 know, federalize the --those assets. But I just don't think it's been studied enough and 
+5 exercised enough how to --to flex to that scenario.  1 
+2 [1:26 p.m.] 
+3 BY 
+4 Q But in the summer, didn't it --you know, in the big picture, there was 
+5 coordination? 
+6 
+7 A 
+Q Oh, yes. 
+And that coordination, by most accounts, was by Mr. Barr. So it wasn't 
+8 directing the National Guard, but certainly coordinating it? 119 
+9 A It was. Look, I know he was in direct communication with Esper frequently. 
+10 So yes. Yes. 
+11 
+12 
+13 Do you have anything else? 
+Did you ask about the Mayor? 
+- No. Go ahead. 
+14 One idea that's been proposed, and I'd be curious, given your 
+15 position as the U.S. Attorney in D.C., is whether the Mayor should have the same 
+16 authority as Governors do around the country, with respect to the National Guard. 
+17 In D.C., as you know, the Mayor does not have the authority. The Guard isn't an 
+18 asset that she controls, much like Governor Hogan or Governor Northam did. Do you 
+19 have a sense as to whether that would help? 
+20 Mr. Sherwin. I haven't studied the prompts. I can't answer that. I was never 
+21 a member of the National Guard, so my --I'm still unclear about exactly how the National 
+22 Guard operates. 
+23 
+24 
+25 - Okay. 
+Mr. Sherwin. I'm not qualified to answer that. 
+- I appreciate that.  120 
+1 Mr. Sherwin. Sure. 
+2 Do you have any insight into the --again, a coordination 
+3 question --how the inauguration is deemed an NSSE event and how that coordination 
+4 happens? There's been a discussion whether the joint session should be deemed an 
+5 NSSE event, which would place the Secret Service in charge of coordinating with all these 
+6 multiple agencies. 
+7 Mr. Sherwin. That would --I mean --I have to think of that --the first question 
+8 is, are they the appropriate agency? I don't know if they are for that, you know. The 
+9 inauguration is tied, obviously, to the office of the --you know, it's the flavor of the Office 
+10 of the President. You think of Secret Service. You know, you think of what happened 
+11 on January 6th. It seems --I'm not saying it's too big for them, but I don't know if it's the 
+12 proper agency to lead that coordination. They should be a member of it, but I don't 
+13 know if they should lead it. 
+14 And I just want to make sure we're clear. It sounds like you're 
+15 not sure who should lead it or maybe the --if --or if the National Guard is involved, that 
+16 you think DOD should lead it. 
+17 Mr. Sherwin. I mean, it should be a joint venture between DOJ --or a tri-venture 
+18 between --because it's D.C. obviously. Look, the engine of law enforcement is MPD, like 
+19 it or not. They have the manpower. They have the skill. They have the know-how. 
+20 So it's a triad between MPD, which is a critical player, Federal resources, obviously, and 
+21 then, you know, DOD. So --and then how do you properly ensure those people all 
+22 interact together. 
+23 BY 
+24 
+25 Q 
+A You haven't mentioned DHS at all in that calculus. 
+I mean, most of my --I don't. I mean, most of my --most of my --as a line  121 
+1 prosecutor for over a decade, almost all my cases were with the Bureau. 
+Yeah. Cases are different from aggregate. 2 
+3 Q 
+A They are. They are. They are. That's why, you know, I've --in terms of 
+4 being a supervisor, I didn't have a lot of --obviously, I worked with them, but my main 
+5 partner as the U.S. Attorney in D.C. was, by virtue of geography, two were right next 
+6 door, 80 percent of our cases are the Bureau. 
+7 
+8 Q 
+A Yes. 
+But you're right, from a policy perspective, I'm not trying to discount them or 
+9 belittle them. But, yeah, they have to have a role. I just don't know if they are the 
+10 ones to properly lead that charge. 
+11 And we talked through the threat assessment versus --
+12 
+13 - No need to duplicate. 
+I think that kind of ends our --my questions for you. But in 
+14 terms of, look, you were in a unique position from the summer on to the 6th, if you have 
+15 any recommendations as far as how to prevent this from happening, apart from what we 
+16 just discussed, your intel recommendations, as well as the coordination piece. Anything 
+17 else that we should have asked you that we did not ask you? 
+18 Mr. Sherwin. No. I mean, I think we covered a lot of territory. Yeah, I think 
+19 we covered everything I really think is relevant. And I think I gave all of my 
+20 recommendations. It was just --look, it was a crazy --it was a crazy year and it was a 
+21 crazy several months in the wake of what happened. But we obviously need to learn 
+22 from it. That's for dam sure. And I'm hopeful we can. We can. 
+23 So if there's a fair assessment of what happened and a nonpolitical assessment, 
+24 and I'm hopeful the committee's going to do that, because we have a lot to learn, putting 
+25 politics aside, which is a sad state of how things are now. I'm confident that the  122 
+1 committee is going to be able to make real recommendations to ensure this doesn't 
+2 happen again. 
+3 And, look, is this going to happen again? Probably. But then the question is 
+4 how do you react to it. And I'm hopeful, as a country, we'll be able to do a better job 
+5 having indications before it happens and then dealing with it in the wake of it happening. 
+6 So --but I appreciate your time, and I hope this was helpful. 
+7 - It was very helpful. 
+8 I just want to make sure there's no one online. 
+9 -? 
+10 - That's exactly our intention, right, is to do a sober, credible, fair 
+11 assessment of what happened, right, because you've got to start with facts, right, and 
+12 truth about what happened, and then learn from that, so that the next time, as you're 
+13 right will inevitably arise, we've somehow incorporated --we collectively incorporated 
+14 the lessons learned. That is precisely our intention. I'll tell you, we're trying our best 
+15 to achieve that goal. But we couldn't do it without people like you who are willing to 
+16 come forward. So we really appreciate it. 
+17 Mr. Sherwin. Of course. You guys --look, you guys have a tough job, so I 
+18 respect what you guys have to do. And anything you need in the future, please let me 
+19 know. 
+20 
+21 
+22 
+23 
+24 - Thankyou. 
+Thank you. 
+Okay, great. Thank you so much for your time, Mr. Sherwin. 
+And we're off the record. 
+[Whereupon, at 1:31 p.m., the interview was adjourned.]  1 
+2 
+3 Certificate of Deponent/Interviewee 
+4 I have read the foregoing __ pages, which contain the correct transcript of the 
+5 answers made by me to the questions therein recorded. 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 Witness Name 
+Date 123 
