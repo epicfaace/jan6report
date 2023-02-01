@@ -6,12 +6,23 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 import os
 import pypdf
 from lunr import lunr
+import gzip
+import shutil
 
 ORIGINALS_DIR = "originals"
 CONTENT_DIR = "content"
+INDEX_FILE = "idx.json"
+INDEX_FILE_COMPRESSED = "idx.json.gz"
+CONTENT_FILE = "content.json"
+CONTENT_FILE_COMPRESSED = "content.json.gz"
 
 
 os.makedirs(ORIGINALS_DIR, exist_ok=True)
+
+def get_file_id_to_file():
+    with open("data.json", "r") as f:
+        files = json.load(f)["childNodes"]
+    return {f["nodeValue"]["packageid"] + ".pdf.txt": f["nodeValue"] for f in files}
 
 def get_url(item):
     assert "pdffile" in item or "other1file" in item
@@ -55,9 +66,7 @@ def save_text_to_file(text, file_path):
         file.write(text)
 
 def build_lunr_index(text_files_directory):
-    with open("data.json", "r") as f:
-        files = json.load(f)["childNodes"]
-    file_id_to_file = {f["nodeValue"]["packageid"] + ".pdf.txt": f["nodeValue"] for f in files}
+    file_id_to_file = get_file_id_to_file()
     documents = []
     for i, file_name in enumerate(os.listdir(text_files_directory)):
         file_path = os.path.join(text_files_directory, file_name)
@@ -75,7 +84,7 @@ def build_lunr_index(text_files_directory):
     print("Index built.")
     print(index.search("test"))
     serialized_idx = index.serialize()
-    with open('idx.json', 'w') as fd:
+    with open(INDEX_FILE, 'w') as fd:
         json.dump(serialized_idx, fd)
 
 def extract_text_from_pdfs(pdf_files_directory, text_files_directory):
@@ -89,6 +98,27 @@ def extract_text_from_pdfs(pdf_files_directory, text_files_directory):
 
     return build_lunr_index(text_files_directory)
 
+def build_content_file():
+    file_id_to_file = get_file_id_to_file()
+    for file_id, file in file_id_to_file.items():
+        path = os.path.join(CONTENT_DIR, file_id)
+        if not os.path.exists(path):
+            # File wasn't transcribed / isn't transcribable
+            continue
+        with open(path, 'r') as f:
+            file["content"] = f.read()
+        file["url"] = get_url(file)
+    with open(os.path.join(CONTENT_FILE), 'w') as f:
+        json.dump(file_id_to_file, f, indent=2)
+
+def compress_files():
+    with open(CONTENT_FILE, "rb") as f_in, gzip.open(CONTENT_FILE_COMPRESSED, 'wb') as f_out:
+        shutil.copyfileobj(f_in, f_out)
+    with open(INDEX_FILE, "rb") as f_in, gzip.open(INDEX_FILE_COMPRESSED, 'wb') as f_out:
+        shutil.copyfileobj(f_in, f_out)
+
 # fetch()
-extract_text_from_pdfs(ORIGINALS_DIR, CONTENT_DIR)
-print(build_lunr_index(CONTENT_DIR))
+# extract_text_from_pdfs(ORIGINALS_DIR, CONTENT_DIR)
+build_content_file()
+# build_lunr_index(CONTENT_DIR)
+compress_files()
