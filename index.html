@@ -87,7 +87,7 @@ function randChoice(arr) {
                     });
                 }
                 document.getElementById("results").innerHTML = `${results.map(r => `
-                    <div><strong>${r.title} (<a href="${r.url}">Link</a>)</strong><br>
+                    <div><strong>${r.title} (<a target=_blank href="${r.url}">Link</a>)</strong><br>
                       <div class=content>${r.excerpts.map(e => `<div class=card>${e}</div>`)}</div></div>
                   <br>`).join('')}`;
                 new Mark(document.querySelectorAll('.content')).mark(query);
