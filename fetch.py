@@ -8,6 +8,7 @@ import pypdf
 from lunr import lunr
 import gzip
 import shutil
+from collections import Counter
 
 ORIGINALS_DIR = "originals"
 CONTENT_DIR = "content"
@@ -23,6 +24,18 @@ def get_file_id_to_file():
     with open("data.json", "r") as f:
         files = json.load(f)["childNodes"]
     return {f["nodeValue"]["packageid"] + ".pdf.txt": f["nodeValue"] for f in files}
+
+def get_file_id_to_file_with_content():
+    file_id_to_file = get_file_id_to_file()
+    for file_id, file in file_id_to_file.items():
+        path = os.path.join(CONTENT_DIR, file_id)
+        if not os.path.exists(path):
+            # File wasn't transcribed / isn't transcribable
+            continue
+        with open(path, 'r') as f:
+            file["content"] = f.read()
+        file["url"] = get_url(file)
+    return file_id_to_file
 
 def get_url(item):
     assert "pdffile" in item or "other1file" in item
@@ -99,15 +112,7 @@ def extract_text_from_pdfs(pdf_files_directory, text_files_directory):
     return build_lunr_index(text_files_directory)
 
 def build_content_file():
-    file_id_to_file = get_file_id_to_file()
-    for file_id, file in file_id_to_file.items():
-        path = os.path.join(CONTENT_DIR, file_id)
-        if not os.path.exists(path):
-            # File wasn't transcribed / isn't transcribable
-            continue
-        with open(path, 'r') as f:
-            file["content"] = f.read()
-        file["url"] = get_url(file)
+    file_id_to_file = get_file_id_to_file_with_content()
     with open(os.path.join(CONTENT_FILE), 'w') as f:
         json.dump(file_id_to_file, f, indent=2)
 
@@ -117,8 +122,26 @@ def compress_files():
     with open(INDEX_FILE, "rb") as f_in, gzip.open(INDEX_FILE_COMPRESSED, 'wb') as f_out:
         shutil.copyfileobj(f_in, f_out)
 
+def calc_stats():
+    file_id_to_file = get_file_id_to_file_with_content()
+    c = Counter()
+    for file in file_id_to_file.values():
+        if "content" not in file: continue
+        for word in file["content"].split(" "):
+            w = word.strip()
+            if not w: break
+            c[w] += 1
+    with open("most-common.txt", "w+") as f:
+        for (word, count) in c.most_common():
+            if word[0].isupper() or len(word) > 4:
+                if count >= 3:
+                    f.write(f"{word}\t")
+
+
 # fetch()
 # extract_text_from_pdfs(ORIGINALS_DIR, CONTENT_DIR)
-build_content_file()
+# build_content_file()
 # build_lunr_index(CONTENT_DIR)
-compress_files()
+# compress_files()
+
+calc_stats()
