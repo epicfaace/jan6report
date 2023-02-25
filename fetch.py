@@ -48,11 +48,10 @@ def get_url(item):
 def fetch(i, ctr):
     item = i["nodeValue"]
     url = get_url(item)
-    # filename = item["title"] + extension
-    filename = long_filename
-    print(ctr, filename)
+    filename = item["title"].split(" ")[0]
     output_path = os.path.join(ORIGINALS_DIR, filename)
     if os.path.exists(output_path): return
+    print(ctr, filename)
     r = requests.get(url)
     with open(output_path, "wb+") as f:
         f.write(r.content)
@@ -138,10 +137,10 @@ def calc_stats():
                     f.write(f"{word}\t")
 
 
-# fetch()
-# extract_text_from_pdfs(ORIGINALS_DIR, CONTENT_DIR)
-# build_content_file()
-# build_lunr_index(CONTENT_DIR)
-# compress_files()
+do_fetch()
+extract_text_from_pdfs(ORIGINALS_DIR, CONTENT_DIR)
+build_content_file()
+build_lunr_index(CONTENT_DIR)
+compress_files()
 
 calc_stats()
