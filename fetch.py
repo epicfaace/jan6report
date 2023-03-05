@@ -38,7 +38,7 @@ def get_file_id_to_file_with_content():
     return file_id_to_file
 
 def get_url(item):
-    assert "pdffile" in item or "other1file" in item
+    assert "pdffile" in item, item
     link = item.get("pdffile", item.get("other1file"))
     long_filename = item.get("pdf", item.get("other1")).split("/")[-1]
     # extension = "." + long_filename.split(".")[-1]
@@ -47,8 +47,10 @@ def get_url(item):
 
 def fetch(i, ctr):
     item = i["nodeValue"]
+    if "pdffile" not in item: return
+    assert "pdffile" in item
     url = get_url(item)
-    filename = item["title"].split(" ")[0]
+    filename = item["packageid"] + ".pdf"
     output_path = os.path.join(ORIGINALS_DIR, filename)
     if os.path.exists(output_path): return
     print(ctr, filename)
@@ -57,11 +59,21 @@ def fetch(i, ctr):
         f.write(r.content)
 
 def do_fetch():
-    data = requests.get("https://www.govinfo.gov/wssearch/browsecommittee/chamber/house/committee/january6th/collection/CPRT/congress/117?fetchChildrenOnly=1").json()
-    with open("data.json", "w+") as f:
-        json.dump(data, f, indent=2)
+    items = {}
+    for url in [
+        "https://www.govinfo.gov/wssearch/browsecommittee/chamber/house/committee/january6th/collection/CPRT/congress/117?fetchChildrenOnly=1",
+        "https://www.govinfo.gov/wssearch/rb//gpo/January%206th%20Committee%20Final%20Report%20and%20Supporting%20Materials%20Collection/Supporting%20Materials%20-%20Court%20Documents?fetchChildrenOnly=1",
+        "https://www.govinfo.gov/wssearch/rb//gpo/January%206th%20Committee%20Final%20Report%20and%20Supporting%20Materials%20Collection/Supporting%20Materials%20-%20Transcribed%20Interviews%20and%20Depositions?fetchChildrenOnly=1",
+        "https://www.govinfo.gov/wssearch/rb//gpo/January%206th%20Committee%20Final%20Report%20and%20Supporting%20Materials%20Collection/Supporting%20Materials%20-%20Documents%20on%20File%20with%20the%20Select%20Committee?fetchChildrenOnly=1"
+    ]:
+        data = requests.get(url).json()
+        for node in data["childNodes"]:
+            items[node["nodeValue"]["packageid"]] = node
+        with open("data.json", "w+") as f:
+            json.dump({"childNodes": list(items.values())}, f, indent=2)
+    # print(list(items.keys()))
     with ThreadPoolExecutor(max_workers=10) as executor:
-        futures = [executor.submit(fetch, i, ctr) for ctr, i in enumerate(data["childNodes"])]
+        futures = [executor.submit(fetch, i, ctr) for ctr, i in enumerate(list(items.values()))]
         for fut in as_completed(futures):
             fut.result()
 
